@@ -1,0 +1,33 @@
+id: 753
+title: 'Un taller de Visual Thinking abrirá el FEED 2017'
+body:
+  -
+    list: after
+    image: /news/images/elena-we.jpeg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Elena Urizar empezó a trabajar a principios de 2000 en lo que ahora se conoce como experiencia de usuario, defendiendo la integración de esta disciplina como elemento estratégico en el desarrollo de proyectos y colaborando con los clientes en el establecimiento del diálogo entre su marca y los nuevos canales de comunicación.
+
+      Su carrera se puede definir como multidisciplinar. En etapas anteriores trabajó como diseñadora en diversas agencias de publicidad y en el Museo Guggenheim de Nueva York y, también, se dedicó a la gestión de cuentas de comunicación. Durante más de diez años ha sido la responsable de definir y coordinar proyectos online en Indra Sistemas.
+
+      En la actualidad está poniendo en práctica el valor de la combinación de experiencias, lo que le ha permitido su desarrollo como profesional independiente de la facilitación visual y formar parte activa del IFVP (International Forum of Visual Practitioners). En su día se licenció en Bellas Artes, preparó un Master en Comunicación Corporativa, se hizo experta en Nutrición y Planificación Dietética y se ha formado en Coaching Relacional.
+
+      Además de este taller que se desarrollará en la sala Dídac en horario de mañana, por la tarde Elena Urizar dará una conferencia en el auditorio del CGAC sobre las ventajas de trabajar con representaciones visuales y desenvolver un lenguaje visual que nos permita traducir lo complejo en simple.
+
+      Toda la información sobre la inscripción en:
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/feed2017/'
+    text: 'Feed 2017'
+    type: button
+intro: 'La encargada de conducir este workshop será Elena Urizar, una profesional con una gran experiencia en UX y facilitación visual.'
+slug: un-taller-de-visual-thinking-abrira-el-feed-2017
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2017-10-16T19:55:48+00:00

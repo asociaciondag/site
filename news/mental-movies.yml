@@ -1,0 +1,28 @@
+id: 136
+title: 'Mental movies'
+body:
+  -
+    text: |-
+      A editorial arxentina Clase Turista pediulles a distintos escritores que, nuns dez mil caracteres, relaten a película que filmarían se puidesen dispoñer do orzamento dunha película de Hollywood. Logo, un artista visual deseña o póster desa “película apócrifa”e un grupo de rock encárgase de compoñer a canción pertencente á súa banda sonora. Cada exemplar é un cartel de 40x60 cm. Dun lado, o conto; e do outro, a representación visual do guión, a modo de cartel cinematográfico. As cancións pódense escoitar de maneira gratuíta en Internet. Os dous primeiros títulos son:
+
+      - Paranoia verde, relato de Juan Terranova con deseño de Ezequiel Black e música de Bicicletas.
+      - 120 horas, relato de Pablo Katchadjian con deseño de Patricio Oliver e música de Simja Dujov.
+       
+      Máis información no seu [blog](http://edclaseturista.com.ar/mentalmovies/)
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a9987e31-download-2.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    image: /news/images/553e7a9987e31-download-3.jpg
+    text: ''
+    type: image
+intro: '**Mental movies** é unha nova colección de relatos breves en formato de carteis cinematográficos. Trátase dun proxecto multidisciplinar que integra literatura, artes visuais, música e cine.'
+slug: mental-movies
+tags: []
+lang: gl
+draft: false
+date: 2010-10-28T16:33:06+00:00

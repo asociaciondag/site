@@ -1,0 +1,45 @@
+<!doctype html>
+
+<html class="no-js" lang="{{ lang }}">
+    <head>
+        <link rel="stylesheet" href="/main.css">
+        <link rel="alternate" type="application/rss+xml" title="Noticias RSS" href="/gl/novas/rss/">
+    </head>
+
+    <body>
+        <header class="page-header wrapper" id="main-header">
+          <a href="/" class="page-logo">
+            <img src="/dag.svg" alt="Asociación Galega de Deseño">
+          </a>
+
+          <nav class="page-menu">
+              <span class="page-menu-button ui-menu-mobile">
+                  Menu
+              </span>
+
+              <ul>
+                  <li{% if menu == about %} class="is-selected"{% endif %}><a href="/about/"><?= __('Acerca de nós') ?></a></li>
+                  <li{% if menu == news %} class="is-selected"{% endif %}><a href="/news/"><?= __('Novidades') ?></a></li>
+                  <li{% if menu == projects %} class="is-selected"{% endif %}><a href="/projects/"><?= __('Proxectos') ?></a></li>
+                  <li{% if menu == members %} class="is-selected"{% endif %}><a href="/members/"><?= __('Socios') ?></a></li>
+                  <li><a href="http://foro.dag.gal"><?= __('Foro') ?></a></li>
+
+                  {# <li class="page-menu-lang ui-menu-lang">
+                      <ul>
+                          <li<?= $language === 'gl' ? ' class="is-active"' : '' ?>><a href="<?= $app->getUri('gl') ?>">GL</a></li>
+                          <li<?= $language === 'es' ? ' class="is-active"' : '' ?>><a href="<?= $app->getUri('es') ?>">ES</a></li>
+                      </ul>
+                  </li> #}
+              </ul>
+          </nav>
+      </header>
+
+        <div class="page-content">
+            {{ content | safe }}
+        </div>
+
+        <?= $this->insert('footer') ?>
+        <?= $this->insert('common/page-scripts') ?>
+    </body>
+</html>
+

@@ -1,0 +1,27 @@
+id: 123
+title: 'Festa del Grafisme'
+body:
+  -
+    text: |-
+      A localidade de Portbou, onde transcorre o evento, potencia o aspecto "slow" e a súa condición de fronteira, como o grafismo: nas marxes entre a arte e a comunicación, entre a cultura e a empresa, entre a inspiración e a reflexión, entre a cidade e a natureza.
+
+      A Festa del Grafisme terá este ano un invitado especial, o mítico deseñador moderno holandés **Wim Crouwell**, o que fora creador da imaxe gráfica do Stedelijk Museum nos anos 70, director do Museo Boijmans van beuningen e fundador de Total Design, un dos estudios de referencia no deseño europeo e mundial. Organizarase ademáis, xunto con David Quay, unha exposición dos primeiros traballos de Crouwel. 1, 2 y 3 de octubre en Portbou (Girona)
+
+      +info [www.festadelgrafisme.org](http://www.festadelgrafisme.org)
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a994154d-grafisme1.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    image: /news/images/553e7a994154d-grafisme2.jpg
+    text: ''
+    type: image
+intro: 'Un encontro aberto en torno á función comunicativa e social do deseño gráfico dende unha perspectiva consciente, serena, "slow", desmarcada do estrés habitual dos entornos nos que se traballa o grafismo. Un encontro para reflexionar e para abrirse.'
+slug: festa-del-grafisme
+tags: []
+lang: gl
+draft: false
+date: 2010-09-10T13:48:23+00:00

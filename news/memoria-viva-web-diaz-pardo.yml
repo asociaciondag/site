@@ -1,0 +1,38 @@
+id: 1036
+title: "«Memoria viva», nova web\tsobre a vida e obra de Isaac Díaz Pardo"
+body:
+  -
+    list: after
+    image: /news/images/webmemoriaviva.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      O pasado 7 de decembro presentábase na Cidade da Cultura a nova páxina web adicada á figura de todo un referente histórico do deseño en Galicia: Isaac Díaz Pardo (22 de agosto de 1920 – 5 de xaneiro de 2012), impulsor de Sargadelos, Ediciós do Castro, o Instituto Galego de Información, o Laboratorio de Formas ou o Museo Galego de Arte Contemporánea Carlos Maside.
+
+      Esta nova web recolle material sobre a vida e a obra deste polifacético creador e ten como obxectivo facer accesible a todas e todos o seu legado. O sitio funciona como centro dixital de recursos reunindo todo o universo creativo de Díaz Pardo e podendo consultar nel documentos históricos, fotografías, audiovisuais e material didáctico.
+
+      ## Espazo aberto á cidadanía e persoal investigador
+
+      A web «Memoria viva» consta dun total de oito seccións, nas que se tratan cuestións como a _vida_ de Díaz Pardo, _familia, amizades, obra,_ o _Laboratorio de Formas, traxectoria empresarial_ e _fontes de estudo_. Este último apartado está especialmente dirixido a persoal investigador e nel é posible descargar documentación variada, amais de consultar a listaxe de todas as obras escritas por Díaz Pardo.
+
+      Por último, a sección _Arredor de Isaac_ é un espazo onde se recollen as novas e acontecementos actuais relacionados coa vida e obra de Díaz Pardo: exposicións, homenaxes, publicacións e demais traballos sobre a súa figura.
+
+      ## Sinatura de socios da DAG
+
+      Detrás desta nova web están varios socios da DAG. Por un lado, o deseño gráfico e programación da mesma están asinados polo estudio [Costa](http://costa.io) da Coruña, cos socios David Silvosa e Dani Bembibre á fronte. Por outro, o deseñador gráfico e tipógrafo [Marcos Dopico](http://www.maistypes.com), ademáis de membro da DAG, é o creador da «tipo» empregada na web, a Isaac Sans, que debe o seu nome ao propio Isaac Díaz Pardo.
+
+      A páxina web «Memoria viva» está dispoñible actualmente en galego e castelán e próximamente tamén o estará en inglés.
+    type: text
+  -
+    list: ''
+    url: 'https://www.isaacdiazpardo.gal/gl'
+    text: 'Web Memoria viva'
+    type: button
+intro: 'Esta iniciativa súmase ás homenaxes que se están a levar a cabo este ano con motivo do centenario do nacemento do autor. O proxecto estivo dirixido por María Ámerica e contou coa participación dos socios da DAG Dani Bembibre e David Silvosa, para o que usaron a tipografía de Marcos Dopico.'
+slug: memoria-viva-web-diaz-pardo
+tags: []
+lang: gl
+draft: false
+date: 2020-12-15T10:00:52+00:00

@@ -1,0 +1,34 @@
+id: 883
+title: 'EXPRESS, jornada de impresión tradicional'
+body:
+  -
+    list: after
+    image: /news/images/pic-endlessletterpress3credit-nicolas-rodriguez-fuchs.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      La jornada, que lleva por título EXPRESS, tendrá lugar el próximo 26 de abril en el [NORMAL](http://istoenormal.org/gl/), Espacio de intervención cultural de A Coruña, y se desarrollará a lo largo de todo o día.
+
+      El programa completo de actividades incluye:
+
+      - Una sesión de mañana en la que el **Colectivo Manchea** impartirá un taller de Letterpress.
+      - Una sesión de tarde durante la que se proyectará la película [Los últimos](https://vimeo.com/78072085) de **Pablo Pivetta** e  **Nicolás Rodríguez Fuchs**, seguida de un coloquio sobre la imprenta tradicional hoy. En el debate intervendrán el director de la película, **Pablo Pivetta**, **Tono Galán** y **Laura Sánchez** (Manchea), **Juanjo López** ([Familia Plómez](http://www.familiaplomez.com/) y [UnosTiposDuros](https://www.unostiposduros.com/)), y estará moderado por **Cibrán Rico** ([desescribir](http://www.desescribir.com/)).
+       
+      La jornada finalizará con una pequena muestra de los trabajos creados durante el taller de la mañana y con una charla informal acompañada de una buena cerveza cedida por 1906 y del estupendo jamón Selecta Coren.
+
+      Todas las actividades son gratuitas hasta completar el aforo. En el caso del taller, como solo de dispone de 15 plazas, es necesario inscribirse con antelación, pero podéis hacerlo través de la web de [EXPRESS](https://dag.gal/gl/express/). Entrad en ella para consultar toda la información y las inscripciones.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/express/'
+    text: EXPRESS
+    type: button
+intro: 'La DAG, Asociación Galega de Deseño, en colaboración con NORMAL, organiza una jornada para acercarse a la impresión con tipos móbiles en la era digital y conocer como los pequeños talleres que usan las técnicas tradicionales entienden el proceso y afrontan la impresión desde nuevas perspectivas.'
+slug: express-jornada-de-impresion-tradicional
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2019-04-05T11:22:09+00:00

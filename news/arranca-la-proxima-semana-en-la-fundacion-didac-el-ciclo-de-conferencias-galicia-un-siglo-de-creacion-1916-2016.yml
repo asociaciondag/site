@@ -1,0 +1,30 @@
+id: 759
+title: 'Arranca la próxima semana en la Fundación DIDAC el ciclo de conferencias Galicia. Un siglo de creación. 1916-2016'
+body:
+  -
+    list: after
+    image: /news/images/cicloconferencias-didac.jpeg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      El primer conferenciante será el crítico de arte Xavier Seoane, quien el lunes 23 a las 19.30 h hablará sobre la construción de una identidad del arte gallego.
+
+      El jueves 26 a las 19.30 h será el turno del diseñador [Pepe Barro](https://dag.gal/gl/pepe-barro/) con una conferencia sobre el diseño en la Galicia moderna.
+
+      El encargado de cerrar la primera semana de conferencias de este ciclo que continuará hasta julio será el arquitecto Fernando Agrasar el viernes 27 a las 19.30 h con una intervención centrada en la renovación arquitectónica del movimiento moderno y el racionalismo.
+
+      Aunque la asistencia a las conferencias es gratuita, se les dará prioridad a las personas que se hayan inscrito previamente. Se permitirá el acceso hasta completar el aforo (45 personas máximo). Puedes reservar tu plaza en <info@didac.gal>
+    type: text
+  -
+    list: ''
+    url: 'http://www.didac.gal/didac/'
+    text: 'Fundación DIDAC'
+    type: button
+intro: 'El ciclo forma parte del Proyecto DIDAC Arteria Galicia que será complementado con un arquivodidac.gal, un cuerpo documental online en constante crecimiento donde conocer el trabajo y la trayectoria de creadores gallegos contemporáneos.'
+slug: arranca-la-proxima-semana-en-la-fundacion-didac-el-ciclo-de-conferencias-galicia-un-siglo-de-creacion-1916-2016
+tags: []
+lang: es
+draft: false
+date: 2017-10-20T10:17:07+00:00

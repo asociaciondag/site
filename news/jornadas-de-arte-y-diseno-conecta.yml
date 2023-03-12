@@ -1,0 +1,50 @@
+id: 805
+title: 'Jornadas de Arte y Diseño Conecta'
+body:
+  -
+    list: after
+    image: /news/images/conecta-web.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      El programa de este año está formado por seis conferencias y dos talleres que serán impartidos por profesionales relacionados con las diferentes áreas que se ofertan en el centro: Diseño de Interiores, Grabado, Serigrafía, Diseño Gráfico, Fotografía y Cerámica.
+
+      **Jueves, 12 de abril de 2018**
+
+      [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/): taller en la EASD Ramón Falcón (10.00 - 14.00 h y 16.00 - 19.00 h) + conferencia Espacio experiencia en O Vello Cárcere (20.00 h)
+
+      **Viernes, 13 de abril de 2018**
+
+      [Isabel Somoza](https://talleraugatinta.tumblr.com/): conferencia Agravando la situación en O Vello Cárcere (12.00 h)
+
+      **Lunes, 16 de abril de 2018**
+
+      Alumnos + Mochi Pedreira: conferencia en O Vello Cárcere (12.00 h)
+
+      **Martes, 17 de abril de 2018**
+
+      [Miguel Vázquez](http://www.miguelvazquez.com/): conferencia Cerámica y función en O Vello Cárcere (12.00 h)
+
+      **Lunes, 23 de abril de 2018**
+
+      [Xurxo Lobato](http://xurxolobato.gal/): conferencia Fotografiar una manera de mirar en O Vello Cárcere (12.00 h)
+
+      **Martes, 24 de abril de 2018**
+
+      [Susana Blasco](http://susanablasco.com/): conferencia Di-visones en O Vello Cárcere (12.00 h) y taller Juego, set &amp; partida en O Vello Cárcere (16.00 a 20.00 h)
+
+      Las jornadas son gratuitas y están abiertas a todas las personas interesadas.
+    type: text
+  -
+    list: ''
+    url: 'http://escoladeartelugo.com/conecta/'
+    text: 'Web de Conecta'
+    type: button
+intro: 'Desde mañana y hasta el 24 de abril se desarrollarán en Lugo las Jornadas de Arte y Diseño Conecta que organiza la [EASD Ramón Falcón](http://escoladeartelugo.com/).'
+slug: jornadas-de-arte-y-diseno-conecta
+tags: []
+lang: es
+draft: false
+date: 2018-04-11T16:52:30+00:00

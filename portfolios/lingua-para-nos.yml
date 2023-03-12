@@ -1,0 +1,46 @@
+id: 99
+title: 'Lingua para Nós'
+slug: lingua-para-nos
+body:
+  -
+    text: 'O Servizo de Normalización Lingüística do Concello de Pontevedra, encargounos o deseño dunha publicación interna para poñer a disposición dos traballadores do Concello. Trátase dun manual de estilo que ten como obxectivo resolver as posibles dúbidas acerca do emprego do galego na administración. Desta maneira deseñamos unha imaxe amable, e de protección, para convidar ao coidado e ao correcto uso da lingua propia.'
+    type: text
+  -
+    image: /portfolios/images/555ce4a1458c5-era-22.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce4a145db7-era-23.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce4a1461de-era-24.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce4a14656c-era-25.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce4a1468f7-era-26.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859d475637c-555ce4a1458c5-era-22.jpg
+tags:
+  - Editorial
+members_id:
+  - 23
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - 'Era Comunicación'
+  -
+    - Cliente
+    - 'Normalización Lingüística. Concello de Pontevedra'
+  -
+    - Ano
+    - '2009'
+draft: false

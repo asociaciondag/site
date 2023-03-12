@@ -1,0 +1,31 @@
+id: 591
+title: 'A DAG segue a medrar'
+body:
+  -
+    list: after
+    image: /news/images/560a6a81490ed-manuel-moital.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Ola, son [Manuel Moital Davila](http://www.ellagrimal.com/), deseñador gráfico e web.
+
+      Agora dedícome principalmente á usabilidade (UX/UI) web, facendo que a interacción entre o usuario e a aplicación sexa doada e comprensible.
+
+      Entro na DAG con ganas de formar parte da asociación e intentar colaborar en todo o que me sexa posible.
+
+      Un saúdo para todos/as dende Bueu
+    type: text
+  -
+    list: ''
+    url: 'http://dag.gal/gl/manuel-moital-davila'
+    text: 'Perfil de socio'
+    type: button
+intro: 'Na DAG estamos moi contentos, porque nada nos gusta máis que anunciar a chegada dun novo socio. E se hai apenas uns días lle dabamos a benvida a Laura Alonso, hoxe toca recibir a outro novo compañeiro. O seu nome é Manuel Moital Davila. Benvido!'
+slug: a-dag-segue-a-medrar
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2015-09-29T12:40:01+00:00

@@ -1,0 +1,36 @@
+id: 51
+contact: |-
+  **cucuducho**  
+   A Insua 44  
+   15883 Luou–Teo, A Coruña  
+   T. 629 912 787  
+   <lois@cucuducho.com>
+links:
+  -
+    text: Cucuducho
+    url: 'http://cucuducho.com/cms/gl/'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/cucuducho'
+    type: facebook
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/cucuducho/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/lois-guillan-santamaria-2a135071'
+    type: linkedin
+bio_gl: 'Tras licenciarme no INEF da Universidade da Coruña, comecei a cursar estudos relacionados coa miña verdadeira vocación, o deseño. Así, despois de graduarme en Deseño de Interiores pola EASD de Santiago de Compostela, cofundei o estudio de deseño Piedrapapeltijera. Durante os oito anos que estiven á fronte do estudio, puiden compaxinar o desenvolvemento de proxectos de toda índole, cunha nova graduación en Deseño de Produto, novamente pola EASD de Santiago de Compostela. Actualmente dirixo o proxecto [cucuducho](http://cucuducho.com/cms/gl/).'
+bio_es: 'Tras licenciarme en el INEF de la Universidad de A Coruña, empecé a cursar estudios relacionados con mi verdadera vocación, el diseño. Así, después de graduarme en Diseño de Interiores por la EASD de Santiago de Compostela, cofundé el estudio de diseño Piedrapapeltijera. Durante los ocho años que he estado al frente del estudio, pude compaginar el desarrollo de proyectos de toda índole, con una nueva graduación en Diseño de Produto, nuevamente por la EASD de Santiago de Compostela. Actualmente dirijo el proyecto [cucuducho](http://cucuducho.com/cms/es/).'
+name: 'Lois Guillán'
+job_gl: 'Deseñador en cucuducho'
+job_es: 'Diseñador en cucuducho'
+slug: lois-guillan
+avatar: /members/avatares/56e2fc53a54a7-lois-guillan.jpg
+avatarBig: null
+tags:
+  - Produto
+  - Mobiliario
+draft: true

@@ -1,0 +1,26 @@
+id: 1121
+title: 'Presentación del Programa Innovación a través del Diseño en Galicia '
+body:
+  -
+    list: after
+    image: /news/images/pid-galicia-fondo-web.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      El [PID «Programa de Innovación a través del Diseño»](https://innovayaccion.com/pid-innovacion-a-traves-del-diseno) está destinado a empresas de cualquier sector productivo y a los deseñadores y deseñadoras con experiencia que se integran en ellas como equipo especializado de diseño. Al terminar el programa formativo los diseñadores y las diseñadoras tendrán conocimientos y recursos dirigidos á la innovación a través del diseño incorporando la visión estratégica del negocio y llevando a su empresa a otro nivel competitivo. Trabajarán en proyectos que después serán presentados en varios actos relacionados con la World Design Capital Valencia 2022, ofreciendo gran proyección nacional e internacional a las empresas participantes.
+
+      La [primera edición](https://www.youtube.com/watch?v=9nKPlZZjI6Q) estuvo protagonizada por empresas de Valencia y este año los organizadores quieren acercarse a otros territorios para que empresas de otros entornos tengan también la oportunidad de formarse en diseño mejorando sus procesos de innovación. La presentación del PID en Galicia se hará de forma _online_ y, para organizar mejor la sesión informativa, se requiere de inscripción previa.
+    type: text
+  -
+    list: ''
+    url: 'https://docs.google.com/forms/d/e/1FAIpQLSetxLiICMzindRHrAUy1nY8WvggVO6GDv9NsaWU_olA9s-2vQ/viewform'
+    text: 'Formulario de inscripción'
+    type: button
+intro: 'El próximo 15 de febrero a las 13 h., se presentará en Galicia la segunda edición del programa formativo PID, organizado por Innova&amp;Acción y la World Design Capital Valencia 2022, con la colaboración de DAG en su difusión.'
+slug: presentacion-del-programa-innovacion-a-traves-del-diseno-en-galicia
+tags: []
+lang: es
+draft: false
+date: 2022-02-01T14:22:17+00:00

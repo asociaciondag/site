@@ -1,0 +1,28 @@
+id: 984
+title: 'Deseño no confinamento'
+body:
+  -
+    list: after
+    image: /news/images/screenshot-2020-06-11-at-10-40-22.png
+    text: 'Cartel da [campaña de apoio ao pequeno comercio](https://www.desonhos.gal/compra-segura-compra-local/) publicada polo estudio vigués Desoños'
+    mode: normal
+    type: image
+  -
+    text: |-
+      Desde o inicio do confinamento, xurdiron e compartíronse polas redes numerosos e variados contidos relacionados con diferentes temáticas, e o deseño non ía ser menos. Proxectos personais ou colectivos, _podcast,_ documentais en aberto, eventos virtuais, webinarios e webs que buscaban un achegamento entre os e as profesionais do deseño, e que serviron tamén para compartir experiencias, ideas e solucións de produtos ou aplicacións para mellorar a vida das persoas neste momento e nun futuro inmediato. A difusión deste tipo de contidos a través da rede permite chegar a un público máis diverso, ávido de coñecemento. Que o deseño estivera aí, completando parcela virtual e participando da vida das persoas, aviva esa necesidade de que se teña en conta como un “solucionador” ante os problemas xurdidos, para repensar as cidades, o consumo de produtos e servizos e, en xeral, as nosas vidas.
+
+      Os nosos socios e as nosas socias tamén participaron nalgúns destes contidos. Falamos por exemplo de Noemí Cortizas que apareceu no #zapatillasFromMars; ou Anxo López, que foi un dos invitados ao webinario _From Spain With Design,_ organizado por READ e que estivo moderado pola nosa compañeira Uqui Permui. Uqui tamén participou nunha _playlist_ de deseño feminista ligada ao proxecto _Diseño y Diáspora,_ e Dani Bembibre foi protagonista do webinario _Y ahora qué_?, organizado por AEBRAND. O noso socio Óscar Otero lanzou _Conxeit_o, un boletín semanal sobre deseño dixital con contidos complementarios de grande interese; e María Ramos colaborou co proxecto _Fálame,_ unha web ideada por dous deseñadores galegos emigrados a Estados Unidos, Pablo Honey e Tino Barreiro, que pretende dar difusión á nosa lingua. O socio Alberto Rodríguez, despois de anos de traballo, lazou a web _lamarcacompostela_ onde amosa diferentes maneiras de usar o símbolo da cuncha. Sumamos tamén iniciativas que ofrecen recursos para afrontar a situación que vivimos, é o caso dos nosos compañeiros de Desoños, que crearon unha serie de carteis para o comercio local, adaptados á reapertura de negocios e dispoñible para a descarga gratuíta.
+
+      Podedes ver estes e outros contidos de interese, relacionados directa ou indirectamente co deseño, no seguinte documento.
+    type: text
+  -
+    list: ''
+    file: /news/files/contidos-deseno.pdf
+    text: 'Enlaces a contidos de interese'
+    type: file
+intro: 'Ao longo destes meses de illamento social derivado da crise sanitaria e económica provocada pola COVID-19, Internet e as diferentes plataformas _online_ foron a mellor compaña para todos e todas.'
+slug: deseno-confinamento
+tags: []
+lang: gl
+draft: false
+date: 2020-06-11T11:02:19+00:00

@@ -1,0 +1,37 @@
+id: 1060
+title: 'Aberta a convocatoria dos «Premios Nacionales de Innovación y de Diseño» 2021'
+body:
+  -
+    list: after
+    image: /news/images/premiosnacionalesdiseno.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Estes premios naceron no ano 1987 y son convocados polo Ministerio de Ciencia e Innovación. Nesta nova edición anual contemplan tres modalidades para a categoría de deseño:
+
+      - **Profesionais:** profesionais do deseño (persoas físicas ou equipos de profesionais) cunha traxectoria de polo menos 10 anos de recoñecido prestixio no sector. O premio económico é de 30.000€.
+      - **Empresas:** empresas consolidadas que incorporasen o deseño á súa estratexia empresarial durante polo menos 10 anos.
+      - **Novos e novas deseñadoras:** creadores e creadoras con menos de 35 anos e cunha traxectoria profesional inferior a 10 anos. O premio económico é de 15.000€.
+       
+      A lista de premiadas, dende a súa primeira edición, inclúe nomes como Alberto Corazón, Pepe Cruz Novillo, Isidro Ferrer, Pati Núñez ou Marisa Gallén; empresas como Punt Mobles, Camper, Roca ou BBVA; e profesionais novas como Silvia Fernández Palomar ou as Yarza Twins.
+
+      O prazo de presentación de candidaturas finalizará o 8 de xullo ás 15:00. Presentación que deberá facerse a través da sede electrónica do Ministerio de Ciencia e Innovación.
+    type: text
+  -
+    list: ''
+    url: 'https://www.ciencia.gob.es/portal/site/MICINN/menuitem.8ce192e94ba842bea3bc811001432ea0/?vgnextoid=f455f8e9ebd09710VgnVCM1000001d04140aRCRD&vgnextrefresh=1'
+    text: 'Máis información'
+    type: button
+  -
+    list: ''
+    url: 'https://sede.micinn.gob.es/premiosinnovacion/'
+    text: 'Presentación de candidatura'
+    type: button
+intro: 'Os «Premios Nacionales de Innovación y de Diseño» distinguen a profesionais do deseño que contribuíron a mellorar o prestixio e alcance do deseño español, e tamén a entidades que incorporan o deseño e a innovación como un elemento indispensable no desenvolvemento da súa estratexia empresarial, demostrando que o deseño mellora a súa competitividade.'
+slug: convocatoria-premios-nacionales-innovacion-diseno-2021
+tags: []
+lang: gl
+draft: false
+date: 2021-05-31T13:02:23+00:00

@@ -1,0 +1,49 @@
+id: 614
+title: 'Entrevista a Pepe Barro'
+body:
+  -
+    text: |-
+      Como profesional independiente, asociado en Grupo Revisión o desde Barro Deseño realiza algunos de sus trabajos má conocidos como el semanario _A Nosa Terra,_ la identidad gráfica de la Universidad de A Coruña, los primeros “cuponazos” de la Once, la camiseta de la Selección Gallega de Fútbol, la web de la Real Academia Gallega o el proyecto museológico y museográfico de la Casa de Rosalía.
+
+      Entre las muchas exposiciones de su trabajo, se siente especialmente satisfecho de las siete en las que se ha podido ver la caja de huevos del Pazo de Vilane. En la red se puede acceder de forma gratuita a su libro _O como é o que conta_ (2014), treinta artículos sobre el diseño, la cultura y la imagen de la cultura
+
+      Más información:
+
+      - [gruporevision.net](http://www.gruporevision.net)
+      - [O como é o que conta](https://play.google.com/store/books/details/Pepe_Barro_O_como_%C3%A9_o_que_conta?id=g2WxBgAAQBAJ)
+      - [@BarroDesign](https://twitter.com/barrodesign)
+      - [Perfil en la DAG](http://dag.gal/es/pepe-barro/)
+       
+    type: text
+  -
+    list: after
+    image: /news/images/563201ad22aad-2-pepe.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## ¿Quién eres y a qué te dedicas?
+
+      > —Mi abuelo paterno inventó con otro socio una máquina aventadora a la que pusieron por marca _Campeva_, es decir, Campolongo-Pérez-Varela; mi abuelo materno, que era comerciante, diseñó una jabonera a la que llamó _Orrab_, Barro al revés. No sé si heredaría algo de ellos, pero desde los años setenta fui encaminando vida hacia el diseño gráfico.
+
+      ## ¿De qué vas a hablar en el FEED?
+
+      > —Como buen tópico literario, la “novela” empieza en la barra de un bar, donde por casualidad descubrí la autoría del símbolo gráfico de Zeltia. La curiosidad me llevó a desenredar el ovillo de por qué una empresa de las más importantes de Galicia, fundada en 1939, tiene como nombre Zeltia, una forma de decir Galicia, y como símbolo gráfico, un trisquel, una de las primeras veces que esta forma aparece como elemento de identidad, pero no la primera.
+
+      ## ¿Qué trabajo de diseño o investigación te gustaría haber realizado?
+
+      > —Me gustaría haber diseñado un supermercado, con sus marcas propias, sería como entrar en todas las casas. En la investigación querría acabar una pequeña pesquisa sobre la bandera gallega y sus precedentes, un asunto en el que probablemente nunca llegue a dilucidar el porqué de su forma actual, aunque quizás pueda identificar a su autor.
+    type: text
+  -
+    list: after
+    url: 'http://dag.gal/gl/feed2015'
+    text: 'Ir á páxina do FEED 2015'
+    type: button
+intro: 'Pepe Barro (Pontedeume, 1955) es un diseñador gráfico al que le gusta tocar todos los géneros e incluso mezclar unos con otros. En casi cuarenta años de actividad profesional, el conjunto de su trabajo se puede entender como una lectura de la Galicia que quiere renovar sus señas de identidad, incorporando el lenguaje del diseño internacional.'
+slug: entrevista-a-pepe-barro
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2015-11-09T00:11:00+00:00

@@ -1,0 +1,25 @@
+id: 862
+title: 'PRO-DAG, a base de provedores para deseñadores/as'
+body:
+  -
+    text: |-
+      [PRO-DAG](https://asociaciondag.github.io/provedores/) pretende ser unha ferramenta útil para que os deseñadores e as deseñadoras localicen dun xeito fácil e rápido o contacto daquel profesional que necesitan para o seu proxecto. Na súa creación colaboraron todos os socios da DAG introducindo os datos daqueles provedores cos que traballan habitualmente.
+
+      A base de datos permite visualizar a lista de fornecedores por orde alfabética, e tamén realizar procuras filtrando polo lugar ou por algunhas das 17 categorías que existen: Impresión, Ilustración, Vídeo-Fotografía, Marcaxe e rotulación, Serigrafía, Merchandising, Carpintaría, Marketing dixital, Animación, Encadernación, Programación Web/Móbil, Servizos Xurídicos, Motion Graphics.
+
+      Tras esta fase inicial realizada a nivel interno, PRO-DAG estará dispoñíbel para o público xeral cunha licenza Creative Commons na páxina da asociación. De acordo coa vocación colaborativa coa que naceu, a idea agora é que a base continúe medrando coas achegas de todos os seus usuarios.
+
+      Aquelas persoas interesadas en facer suxestións acerca de novos provedores ou en facer correccións ou modificacións relativas aos datos que figuran na base, poden escribirnos a <info@dag.gal>.
+    type: text
+  -
+    list: ''
+    url: 'https://asociaciondag.github.io/provedores/'
+    text: PRO-DAG
+    type: button
+intro: 'A DAG, Asociación Galega de Deseño, acaba de facer pública PRO-DAG, unha base de datos onde consultar provedores de produtos ou servizos relacionados coas tarefas de deseño.'
+slug: pro-dag-a-base-de-provedores-para-desenadores-as
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2019-01-16T19:06:37+00:00

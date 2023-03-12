@@ -1,0 +1,38 @@
+id: 195
+title: 'Deseño&Lixo // Lámpadas I'
+slug: deseno-lixo-lampadas-i
+body:
+  -
+    text: '100% Lixo (plástico - madeira)'
+    type: text
+  -
+    image: /portfolios/images/5879278c4b999-bealema-04-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/587927ad6d9bc-bealema-04-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/587927bb6a8c3-bealema-04-3.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/587927d9999b2-bealema-04-4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/587927eace562-bealema-04-5.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5879281df0c42-bea-lema-04-6.gif
+    text: ''
+    type: image
+cover: /portfolios/covers/587925a837960-bealema-04-1.jpg
+tags: []
+members_id:
+  - 55
+lang: gl
+info: []
+draft: false

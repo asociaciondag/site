@@ -1,0 +1,37 @@
+id: 199
+title: 'La nueva vida de los objetos'
+slug: la-nueva-vida-de-los-objetos
+body:
+  -
+    text: |-
+      Esta intervención es el resultado del taller La nueva vida de los objetos. Realizado por personas con autismo, ASPANAES, en colaboración con la diseñadora Bea Lema.
+
+      Esta actividad formó parte del programa Mutaciones Urbanas. Un laboratorio de creación para activar la ciudad de una manera inclusivo, organizado por 7H Coop. Cultural en colaboración con el Ayuntamiento de Santiago de Compostela, durante septiembre de 2016.
+    type: text
+  -
+    image: /portfolios/images/58792a17be741-bealema-06-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/58792a17be913-bealema-06-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/58792a287bc0e-bealema-06-3.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/58792a3986970-bealema-06-4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/58792a554d2b0-bealema-06-5.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/587929e1197eb-bealema-06-1.jpg
+tags: []
+members_id:
+  - 55
+lang: es
+info: []
+draft: true

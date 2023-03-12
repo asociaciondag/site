@@ -1,0 +1,160 @@
+/**
+ * about.css
+ *
+ * INFORMACION
+ * Estilos para a visualización de textos sobre a dag - http://asociaciondag.org.
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * FERRAMENTAS
+ * Stylecow ............... http://stylecow.github.io/
+ * Desenvolvido por Oscar Otero.
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+/*
+* Estilos comúns
+*/
+.about {}
+
+
+.about-body {
+	color: var(--color-dark);
+	font-weight: var(--fw-light);
+	font-size: var(--fs-16);
+	line-height: 1.45;
+
+	& a{
+		color: inherit;
+
+		&:hover{
+			color: var(--color-main);
+			text-decoration: none;
+		}
+	}
+
+	& h2,
+	& h3,
+	& h4 {
+		color: var(--color-main);
+		font-weight: var(--fw-normal);
+		line-height: 1.1;
+		margin-top: 1.5em;
+		margin-bottom: .5em;
+	}
+	& h2 {
+		font-size: var(--fs-18);
+	}
+	& h3 {
+		font-size: var(--fs-16);
+	}
+	& h4 {
+		font-size: var(--fs-16);
+		font-weight: var(--fw-normal);
+	}
+	& li,
+	& p {
+		margin: 0.5em 0;
+	}
+
+	& strong {
+		font-weight: var(--fw-normal);
+		color: var(--color-main);
+	}
+}
+
+
+/**
+ * Texto en modo permalink
+ */
+
+.about-permalink {
+	& .about-header {
+		& > h1 {
+			font-size: var(--fs-32);
+			letter-spacing: -0.02em;
+			line-height: 1;
+			font-weight: var(--fw-normal);
+			color: var(--color-main);
+			margin: 0;
+
+			@media (min-width: 30rem) {
+				font-size: var(--fs-48);
+				letter-spacing: -0.03em;
+			}
+		}
+	}
+
+	& .about-body {
+		margin-top: 2rem;
+
+		& ol,
+		& ul {
+			padding-left: 1.5em;
+		}
+
+		@media (--tablet-landscape) {
+			font-size: var(--fs-18);
+
+			& h2 {
+				font-size: var(--fs-26);
+			}
+			& h3 {
+				font-size: var(--fs-18);
+			}
+			& h4 {
+				font-size: var(--fs-18);
+				font-style: italic;
+			}
+		}
+	}
+}
+
+/**
+ * Menú
+ */
+.about-menu {
+	& ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		font-size: var(--fs-18);
+		line-height: 1.2;
+		position: sticky;
+		top: 5rem;
+	}
+	& a {
+		color: var(--color-medium);
+		text-decoration: none;
+		padding: 0.5rem  0.5rem  0.5rem 1rem;
+		display: inline-block;
+
+		&:hover{
+			color: var(--color-main);
+			text-decoration: underline;
+		}
+	}
+
+	& li {
+		border-left: solid 8px transparent;
+		margin-left: -8px;
+
+		&.is-active {
+			border-color: var(--color-main);
+
+			& a {
+				color: var(--color-main);
+			}
+		}
+	}
+}

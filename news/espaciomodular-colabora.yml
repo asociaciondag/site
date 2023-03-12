@@ -1,0 +1,30 @@
+id: 1009
+title: 'El espacio de coworking Modular colabora con la DAG'
+body:
+  -
+    list: after
+    image: /news/images/modular-multiespazo-oficina-compartida-coworking.jpg
+    text: 'Fotografía de [Luis Díaz Díaz](http://www.luisdiazdiaz.com)'
+    mode: normal
+    type: image
+  -
+    text: |-
+      Según indica su propio nombre, Modular es más que un espacio de _coworking._ Es un multiespacio abierto a distintas actividades. Ubicado en la céntrica Rúa do Pombal, en Santiago de Compostela, el espacio dispone de todas las comodidades: fibra óptica de alta velocidad, un espacio abierto de trabajo, una pequeña cocina, una sala de reuniones privada, y una terraza exterior con vistas a la Catedral.
+
+      Entre los objetivos con los que nació el proyecto está el de crear buen ambiente, para que, además de desarrollar cada persona su propia actividad, se facilite la colaboración y el aprendizaje entre profesionales.
+
+      Hace casi un año que Modular abría sus puertas con la inauguración de la exposición de fotografía de Eva Camba y Iván Barreiro, ex-alumnos de la Escuela de Arte y Superior de Diseño Mestre Mateo. Hoy el local, reacondicionado para mantener la distancia entre puestos de trabajo, está abierto de nuevo. Las zonas comunes están sujetas a desinfección diaria y el uso de mascarilla es obligatorio en los casos puntuales en los que no se pueda guardar la distancia de seguridad de 1,5 metros.
+
+      Como entidad colaboradora de la DAG, Modular ofrece además un 10% de descuento sobre sus tarifas a las personas que pertenezcan a la Asociación Galega de Deseño. Un lugar abierto para quien quiera desarrollar su actividad profesional en Santiago de Compostela.
+    type: text
+  -
+    list: ''
+    url: 'https://somosmodular.com'
+    text: 'Web de Modular'
+    type: button
+intro: 'Han sido muchos los proyectos que cuando iniciaban su andadura tuvieron que hacer frente a las numerosas dificultades provocadas por la crisis sanitaria del COVID-19. Nos alegra ver como algunas de estas iniciativas siguen adelante con ánimos renovados. Modular es uno de estos casos, un lugar de trabajo acondicionado para adaptarse a las medidas sanitarias actuales, que acoge a profesionales de distintas disciplinas.'
+slug: espaciomodular-colabora
+tags: []
+lang: es
+draft: false
+date: 2020-09-21T11:32:45+00:00

@@ -1,0 +1,30 @@
+id: 796
+title: 'A DAG xa é punto de copia do ORIGINAL Cruz Novillo'
+body:
+  -
+    list: after
+    image: /news/images/original-copia.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      A obra divídese en dous grandes bloques temáticos: unha primeira parte introdutoria dedicada a aclarar aqueles conceptos imprescindíbeis para comprendermos o traballo de [Cruz Novillo](http://www.cruznovillo.com/) ou de calquera outro deseñador gráfico e unha segunda centrada no autor, con información sobre a súa formación, os seus referentes, a súa visión persoal sobre o deseño etc. Esta segunda parte inclúe ademais un estudo das súas obras de deseño gráfico e identidade visual organizado por décadas desde finais dos 50 até agora.
+
+      A distribución realízase mediante a copia. O sistema parte dun primeiro e único volume impreso denominado ORIGINAL que ten como función servir de matriz para xeración de copias. Arestora existen xa algúns lugares espallados pola xeografía española que dispoñibilizan a obra para que calquera persoa interesada poida facer a súa copia, asumindo os gastos que isto lle xere.
+
+      Desde esta semana a DAG forma parte desa rede de puntos de copia á que vos podedes dirixir. A obra ten licenza Creative Commons o que lle permite ao lector non só copiar, senón tamén adaptar, modificar e ampliar ese material.
+
+      Para conseguires a túa copia, escríbenos a <info@dag.gal> e informarémoste de todo.
+    type: text
+  -
+    list: ''
+    url: 'https://www.facebook.com/originalcruznovillo/'
+    text: 'Facebook do proxecto'
+    type: button
+intro: 'ORIGINAL Cruz Novillo é un estudo realizado por Vicent Almiñana e Irene Serrano (Conjunto) que ten como obxectivo achegar a obra de José María Cruz Novillo no campo da identidade visual a deseñadores e profesionais de calquera ámbito.'
+slug: a-dag-xa-e-punto-de-copia-do-original-cruz-novillo
+tags: []
+lang: gl
+draft: false
+date: 2018-02-14T18:54:39+00:00

@@ -1,0 +1,33 @@
+id: 750
+title: 'Estaba facendo falta un FEED ;)'
+body:
+  -
+    list: after
+    image: /news/images/slider-feed-17-read.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Nesta cuarta edición, o FEED terá lugar o 3 e o 4 de novembro en Santiago de Compostela e reunirá un grupo heteroxéneo de profesionais, con facetas moi distintas, para ofrecer ao longo de dous días unha panorámica o máis diversa posíbel do traballo do deseñador: diferentes ámbitos de especialización do deseño, diferentes metodoloxías de traballo, de organización, de relación...
+
+      Igual que en anos anteriores, o programa deste ano combina 3 tipos de actividades:
+
+      - 2 obradoiros para grupos grupos reducidos: un de visual thinking que impartirá [Elena Urizar](https://www.linkedin.com/in/elena-urizar-eu/) e outro sobre tipografía dixital co software GlyphsApp, a cargo da deseñadora de tipos [Joana Correia](http://joanacorreiatype.com/). Ambos os dous desenvolveranse en horario de mañá na sala [Dídac](http://www.didac.gal/didac/).
+      - 7 conferencias que decorrerán durante as tardes no auditorio do Centro Galego de Arte Contemporánea ([CGAC](http://cgac.xunta.gal/GL)). Os conferenciantes do primeiro día serán Lois Guillán ([cucuducho](http://cucuducho.com/cms/gl/)), João Martino e Miguel Almeida ([Non-Verbal Club](http://nonverbalclub.pt/)) e [Elena Urizar](https://www.linkedin.com/in/elena-urizar-eu/). O segundo día acompañáronnos [Coca Rivas](https://www.linkedin.com/in/cocarivas/), Francesco Furno e Pablo Galeano ([relajaelcoco](http://www.relajaelcoco.com/)), [Joana Correia](http://joanacorreiatype.com/) e [Bea Lema](http://bealema.com/).
+      - 1 mesa de debate con alumnos das escolas de deseño galegas que terá lugar o venres 3 de novembro ás 18.45 h.
+       
+      Convidámosvos a todos e a todas a visitardes a web e participardes no FEED!
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/feed2017/'
+    text: 'FEED 2017'
+    type: button
+intro: 'E velaquí o está! Como cada dous anos desde aquel primeiro de 2010, temos aquí unha nova edición do FEED, o Foro de Edición e Deseño que organiza a DAG co patrocinio da [Agadic](http://www.agadic.gal/).'
+slug: estaba-facendo-falta-un-feed
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2017-10-09T12:24:19+00:00

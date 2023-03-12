@@ -1,0 +1,43 @@
+id: 870
+title: 'Uqui Permui presenta BUFF FEM, 2018 nas xornadas Futuros do Deseño'
+body:
+  -
+    list: after
+    image: /news/images/logo-app-buff-fem.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Nas xornadas [Futuros do Deseño](https://www.adg-fad.org/es/news/jornadas-futuros-del-diseno-nuevas-practicas-y-significados) presentaranse catorce proxectos aliñados coas novas orientacións que están xurdindo no campo do deseño, un ámbito que, nestes inicios do século XXI, se encontra en estado de redefinición dos seus límites e categorías.
+
+      O proxecto que presentará Uqui Permui leva por título BUFF FEM, 2018. Trátase dunha ferrramenta que ten como obxectivo axudar a detectar e modificar as actitudes machistas que, no longo prazo, xeran diferentes tipos de violencias, centrándose, sobre todo, nun público novo de 16 a 20 anos.
+
+      Para alcanzar esta meta, a deseñadora baseouse no deseño centrado nas persoas usuarias. Optou, como método de investigación, polo deseño participativo ou codeseño, o que lle permitiu coñecer de primeira man as necesidades do público obxectivo.
+
+      O comezo estivo nun obradoiro con ao redor de vinte alumnos e alumnas e profesoras de varios IES de Santiago de Compostela. Os principais _insights_ que xurdiron aí foron a preocupación polo control nas parellas novas, por medio dos móbiles, e o abuso que se fai do corpo das mulleres nas redes sociais.
+
+      Do interese mostrado nos grupos de traballo por daren resposta a estas prácticas, naceu a idea inicial da ferramenta: unha aplicación para móbil coa que se poida retrucar unha acción ou actitud machista. A aplicación permite de forma rápida e fácil dar respostas gráficas, e sonoras, a calquera comentario nas redes sociais ou calquera actitude que se pode dar na vida diaria.
+
+      A aplicación divídese en tres partes principais:
+
+      - Buff: a partir de modelos pódense crear gráficas personalizadas, xa que a aplicación permite incorporar imaxes, iconas e sons para elaborar un post que se pode compartir no chat ou nas diferentes redes sociais.
+      - Os meus posts: almacén de imaxes encontradas nas redes sociais ou creadas coa aplicación.
+      - Chat: funciona como unha rede social, para compartir en grupos ou con amigos os posts creados por cada quen. Tamén se poden votar os posts elaborados por outras persoas.
+       
+      [Uqui.net](http://uqui.net/) ten xa un prototipo da aplicación que foi avaliado por diferentes estudantes para verificaren o grado de aprobación da ferramenta ideada nun principio, e neste momento encóntrase na fase de busca de patrocinio para desenvolver o proxecto.
+
+      A inscrición para asistirdes a [Futuros do Deseño](https://www.adg-fad.org/es/news/jornadas-futuros-del-diseno-nuevas-practicas-y-significados) é gratuíta, mais cómpre confirmar a asistencia na seguinte ligazón:
+    type: text
+  -
+    list: ''
+    url: 'https://docs.google.com/forms/d/1dXzEj3_AobEfD0LTQVjyS29iDi_mSpKvXNwYNxca8oM/viewform?edit_requested=true'
+    text: 'Confirmación de asistencia'
+    type: button
+intro: 'A nosa socia Uqui Permui participa como relatora nas Xornadas Futuros do Deseño. Novas prácticas e significados que organiza a ADG-FAG coa colaboración do Museo del Disseny de Barcelona.'
+slug: uqui-permui-presenta-buff-fem-2018-nas-xornadas-futuros-do-deseno
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2019-02-13T17:50:58+00:00

@@ -1,0 +1,18 @@
+id: 314
+title: Russula
+slug: russula
+body:
+  -
+    image: /portfolios/images/russula.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//russula.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 6
+lang:
+  - gl
+  - es
+info: []
+draft: false

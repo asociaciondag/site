@@ -1,0 +1,17 @@
+id: 13
+title: 'Presentación del libro'
+body:
+  -
+    text: 'Un año más queremos agradecer su participación en Creatividad Gallega, así como la confianza depositada en este proyecto, promovido por tres profesores de la Universidad de Vigo y que cuenta con el respaldo de Galicia Calidad y la Consellaría de Innovación e Industria de la Xunta de Galicia. En la edición de 2009, contamos también con el apoyo de las dos organizaciones profesionales de Galicia: la Asociación de Deseñadores de Galicia (DAG) y la Asociación Provincial de Agencias de Publicidad de Pontevedra (APAP), que participaron activamente en la selección de los trabajos y la edición del anario. Mañana, a las 12 horas, tendrá lugar a presentación publica del libro en el hotel AC Palacio del Carmen (calle Oblatas s/n, Santiago de Compostela), en un acto dónde todos/las los/las asistentes recibirán un ejemplar gratuíto. Muy pronto iniciaremos su distribución, informándoles de los puntos de venta a través de nuestra página web www.creatividadegalega.eres. Esperamos que el trabajo realizado le satisfaga y podamos contar con la su presencia para el año que viene. Afectuosamente, CHECHU PÉREZ EVA QUINTAS ALBERTO DAFONTE Creatividad Gallega'
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a9420011-cg-08-portada.jpg
+    text: ''
+    type: image
+intro: 'Se presenta un nuevo número de la revista _Creatividade Galega_'
+slug: presentacion-del-libro
+tags: []
+lang: es
+draft: false
+date: 2009-01-19T11:40:57+00:00

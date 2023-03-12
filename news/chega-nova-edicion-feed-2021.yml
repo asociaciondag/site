@@ -1,0 +1,37 @@
+id: 1086
+title: 'Chega unha nova edición do FEED '
+body:
+  -
+    list: before
+    image: /news/images/feed-2021-imaxe-noticia-web-dag.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      A dinámica será a mesma que en edicións anteriores pero este ano aglutí​nase todo o programa nun so día, **o 14 de outubro**, xa que o 15, 16 e 17 de outubro se celebra o 9º Encontro Nacional de Asociacións de Deseño (ENAD) por asumir DAG a presidencia da Rede Española de Asociacións de Deseño (READ) entre os anos 2021–2023.
+
+      Como xa vén sendo habitual, no programa do FEED 2021 conviven distintas disciplinas da profesión: deseño gráfico, deseño de produto, deseño dixital, deseño de estratexia ou deseño de servizos e experiencias, as cales serán abordadas ao longo do día, nunha xornada dividida en dúas partes:​ a sesión de mañá adicada a dous obradoiros, e a sesión de tarde con seis conferencias e unha rolda final de preguntas entre relatoras e asistentes.
+
+      Os obradoiros realizaranse de forma simultánea en dúas salas habilitadas no [CGAC](http://cgac.xunta.gal/) e no [Museo do Pobo Galego](http://museodopobo.gal/). O que se impartirá no CGAC, «Deseño informado por datos» céntrase en como os datos poden axudar a deseñar o mellor produto/servizo dixital posible. Está dirixido por​ [Ricardo Tayar](https://ricardotayar.com/), e desenvolverase entre as **10.00 e as 13.45 h**. O obradoiro no Museo do Pobo Galego, no mesmo horario, «Sistemas visuais flexibles», será impartido por Elio Salichs do estudio [Two Points](https://new.twopoints.net/) e nel as persoas asistentes traballará​n​ un sistema visual versátil, capaz de adaptarse a entornos variados, estáticos e​ en movemento, amplos e reducidos.​
+
+      Polo que respecta ás conferencias, estas decorrerán no auditorio do CGAC a partir das **15.45 h da tarde**. Contaremos coa presenza de [Laurent Ogel](https://dag.gal/es/laurent-ogel/), [Júlia Esqué](https://www.juliaesque.com/), [Laura Hernández](https://www.linkedin.com/in/laurahb), [Ana Moliz](https://www.anamoliz.com/), [Pablo Honey](https://pablohoney.com/) e [Verónica Fuerte](https://heystudio.es/). A participación de público profesional e do estudantado de diferentes escolas de deseño galegas dará pé a unha sesión de preguntas directas ás relatoras e o intercambio de reflexións sobre o deseño no mundo actual dende as súas​ ​experiencias particulares​. ​
+
+      Debido ás restriccións actuais vixentes, os aforos para os obradoiros e as conferencias son moi limitados e as entradas para conferencias e o obradoiro de Twopoints esgotáronse en poucos días. Quedan algunhas prazas dispoñibles para o obradoiro de Ricardo Tayar​.
+
+      O deseño da gráfica d​o​ FEED 2021 é dos nosos compañeiros e socios Adrián Parcero de [Guillotina Estudio](http://guillotinaestudio.com/) e ​​[Ángel Ramos](https://dag.gal/gl/angel-ramos/). ​
+
+      Toda a información sobre o programa e inscricións pode atoparse na web do foro.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/feed2021/'
+    text: 'Web FEED 2021'
+    type: button
+intro: 'O FEED, o Foro de Deseño de carácter bianual que organiza a DAG, chega a súa sexta edición despois dun ano complicado, sen perder o espírito co que naceu: servir de punto de encontro para compartir experiencias entre estudantes e profesionais do deseño, tanto galegos como de ámbito nacional e internacional. Nesta edición conta co patrocinio oficial da Xunta de Galicia a través de AGADIC, e a colaboración do CGAC e do Museo do Pobo Galego.'
+slug: chega-nova-edicion-feed-2021
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2021-09-23T13:04:56+00:00

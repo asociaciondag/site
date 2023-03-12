@@ -1,0 +1,26 @@
+id: 966
+title: 'Orientaciones para la contratación de diseñadores y diseñadoras'
+body:
+  -
+    list: after
+    image: /news/images/ilustracion-horizontal.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      La idea de esta breve guía es servir de referencia para empezar con buen pie un proyecto de diseño. Este documento complementa la [Guía para Convocatorias de Diseño](https://www.designread.es/wp-content/uploads/2017/04/GCD-horizontal.pdf) que ya se había creado para describir de manera sencilla como funciona la «Llamada a proyecto» como fórmula de contratación.
+
+      La infografía utilizada para ilustrar las pautas a seguir para la contratación de un diseñador ou de una diseñadora incluye dos listados, uno de cosas que sí se pueden hacer y otro de cosas que non se deben hacer. [Este](https://www.designread.es/wp-content/uploads/2020/02/Anuncio-contratacion-READ.pdf) y otros documentos para la promoción de Buenas Prácticas en el diseño están disponibles para consulta y libre descarga en la [página web de READ](https://www.designread.es/categoria-documentos/buenas-practicas/).
+    type: text
+  -
+    list: ''
+    url: 'https://www.designread.es/wp-content/uploads/2020/02/Anuncio-contratacion-READ.pdf'
+    text: 'Documento de orientaciones'
+    type: button
+intro: 'READ, la Red Española de Asociaciones de Diseño, publica un nuevo documento que sirve para promover las buenas prácticas en la contratación de una deseñadora o un diseñador.'
+slug: orientaciones-contratacion-read
+tags: []
+lang: es
+draft: false
+date: 2020-02-19T12:17:26+00:00

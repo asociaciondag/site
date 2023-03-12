@@ -1,0 +1,29 @@
+id: 640
+title: 'Sabedes? Temos unha nova socia'
+body:
+  -
+    list: after
+    image: /news/images/56bb7ed15f325-dag-alba.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Non era sen tempo!
+
+      Son Alba, mais no gremio son máis coñecida co pseudónimo de Ratona. Considérome polifacética xa que, aínda que por titulación son deseñadora, cústame moito “etiquetarme” nunha única disciplina. Debuxo dende que teño memoria e fago fotografía dende que conseguín comezar a experimentar coa primeira cámara dixital da familia. Agora ando na cerámica tamén. Como profesión? Deseño. Como enriquecemento? Multidisciplinariedade.
+
+      Estou rematando os estudos de Deseño Gráfico da EASD Antonio Faílde, e traballo, na medida do posible, como _freelance_ dende a casa. Estou convencida de que entre todxs poderemos facer do deseño galego un gran conxunto: para apoiarnos, para medrar e ver o noso progreso da man.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/alba-perez-pereiro/'
+    text: 'Ficha de socia DAG'
+    type: button
+intro: 'E, como é habitual, traémola á portada para que ela mesma se presente'
+slug: sabedes-temos-unha-nova-socia
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2016-02-10T17:17:13+00:00

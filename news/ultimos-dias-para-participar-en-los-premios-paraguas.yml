@@ -1,0 +1,81 @@
+id: 928
+title: 'Últimos días para participar en los Premios Paraguas'
+body:
+  -
+    list: after
+    image: /news/images/premios-paraugas-definitiva.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Se trata de la única convocatoria existente en Galicia de premios desde el sector y para el sector. En esta IV edición, que celebrará la entrega de premios el próximo 29 de noviembre, la categoría de Diseño, patrocinada por el GAIN - Agencia Gallega de Innovación, cuenta con tres premios específicos:
+
+      **1. Premio Paraguas al Mejor Diseño Gráfico**
+
+      Proyectos profesionales de identidad corporativa, embalajes (en el aspecto visual), editorial, tipografía, cartelería o cualquier otra aplicación que emplee el lenguaje visual gráfico como fundamento en la transmisión de mensajes o ideas.
+
+      **2. Premio Paraguas al Mejor Diseño Industrial**
+
+      Proyectos profesionales de productos, elementos de iluminación, mobiliario, señalética, embalaje (en el aspecto estructural), maquinaria, soluciones de escenografías, exposiciones, stands, punto de venta o cualquier otro objeto o espacio físico que busque mejorar su funcionalidad conjugando los procesos de fabricación o construcción con las necesidades formales o comunicativas.
+
+      **3. Premio Paraguas al Mejor Diseño Digital**
+
+      Proyectos profesionales de aplicaciones para móviles, páginas web, interfaces de software o cualquier otra aplicación digital que emplee el lenguaje visual gráfico como herramienta para facilitar la interacción y la usabilidad.
+
+      El jurado estará conformado por tres profesionales del sector de experiencia contrastada y de completa independencia que valorarán los trabajos:
+
+      Suso Vázquez - Diseñador en Desescribir
+
+      Desescribir es un estudio de diseño que desarrolla proyectos editoriales, estratégicos y de identidad de marca con un enfoque integral. Entre sus clientes figuran la Xunta de Galicia, el Ministerio de Fomento, el Museo Cidade da Cultura de Galicia, la Editorial Gustavo Gili, el Museo Arts Santa Mònica, la Washington University in St. Louis, la Fundación Arquia, Finsa, Ascensores Enor y Gadis; entre otros. Su trabajo ha sido expuesto en lugares tan destacados como el Museo Reina Sofía, en Fotollibres, en el F Book Show de Tokio; premiado en los Laus, D&amp;AD Awards, PHotoEspaña y publicado en UK, Corea, Alemania y China. Desescribir también es el responsable de Fabulatorio, una editora independiente centrada en proxectos sobre arte, diseño y cultura visual, y ganadores de los Premios Paraguas al Mejor Diseño Gráfico.
+
+      Noelia Estévez - Socia en Desoños
+
+      Desoños es un estudio que comprende el diseño como una herramienta clave para el desarrollo social, económico y cultural. Creado en 2001, desde entonces ha trabajado para clientes como Afundación, Everus, Fundación Barrié, IESIDE, Karkasa, 4Elementos, Grupo Nueva Pescanova, Saunier Duval, Xunta de Galicia o Xerais buscando una sintonía entre tecnología y artesanía, profesionalidad y proximidade, tradición e innovación. Su trabajo ha sido reconocido en publicaciones especializadas y han conseguido premios en los Luxury Advertising Awards, en el Smile Festival y también en los Premios Paraguas al Mejor Diseño Digital.
+
+      Ricardo Tubío - Director Creativo y Diseñador en Cenlitrosmetrocadrado.
+
+      Cenlitrosmetrocadrado es un estudio de diseño y comunicación compuesto por Ricardo Tubío y Xabier Rilo, diseñadores, y por Javier Aliste, marketing y comunicación. Se constituye con la intención de ofrecer un diseño de clara orientación humanista, que vaya más allá de la simple función práctica y que aborde tambiéns funciones de carácter emocional y social. Con una identidad de marcado carácter atlántico desarrolla proyectos que van desde el diseño de producto, la gráfica o el embalaje hasta el diseño de espacios permanentes o efímeros. A lo largo de su trayectoria el estudo ha tenido la oportunidad de desarrollar múltiples proyectos que analizan y reflexionan sobre las diversas circunstancias y problemáticas que rodean los ámbitos creativos, técnicos o socioculturales. Su trabajo ha sido reconocido internacionalmente por Dezeen y por Selected a nivel nacional. Son ganadores de los Premios Paraguas al Mejor Diseño Industrial.
+
+      Para mantener la independencia en la categoría de diseño, ningún miembro de la organización o del jurado podrá presentarse a los Premios.
+
+      **El plazo de inscripción finaliza el 6 de noviembre de 2019 a las 14.00 h** y se puede realizar, junto con el envío de los trabajos, a través del formulario de la página web creada a tal efecto: <http://premios.clustercomunicacion.gal/>
+
+      La partipación en la IV Edición de los Premios de la Comunicación y Marketing de Galicia implica el abono del derecho de inscripción por cada trabajo que se presente bajo las siguientes condiciones:
+
+      • Empresas socias del Clúster de la Comunicación Gráfica:
+
+      Todas las inscripciones gratuitas
+
+      • Empresas o profesionales socios de Creatividad Gallega, Dircom, Markea o Ejecutivas de Galicia:
+
+      1ª inscripción: 45 € + IVA
+
+      2ª inscripción: 45 € + IVA
+
+      3ª inscripción y siguientes: gratuitamente
+
+      • Empresas o profesionales no socios de ninguna de las entidades nombradas anteriormente:
+
+      1ª inscripción: 90 € + IVA
+
+      2ª inscripción: 90 € + IVA
+
+      3ª inscripción y siguientes: gratuitamente
+    type: text
+  -
+    list: ''
+    url: 'http://premios.clustercomunicacion.gal/'
+    text: 'Web de los Premios Paraguas'
+    type: button
+  -
+    list: ''
+    url: 'http://premios.clustercomunicacion.gal/wp-content/uploads/2019/10/BASES-IV-Premios-Paraugas.pdf'
+    text: 'Bases de los Premios Paraguas'
+    type: button
+intro: 'Los Premios Paraguas, organizados por el Clúster de la Comunicación de Galicia, nacieron con la idea de poner en valor la calidad y el excelente trabajo de los y las profesionales gallegos. Su objetivo principal es ensalzar la función de la creatividad, el diseño, la edición, la impresión, el marketing y la comunicación en las empresas y en las instituciones, y como medio para conseguir aumentar la competitividad y la capacidad innovadora.'
+slug: ultimos-dias-para-participar-en-los-premios-paraguas
+tags: []
+lang: es
+draft: false
+date: 2019-10-31T16:38:30+00:00

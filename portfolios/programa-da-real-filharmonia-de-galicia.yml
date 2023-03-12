@@ -1,0 +1,58 @@
+id: 46
+title: 'Programa da Real Filharmonía de Galicia'
+slug: programa-da-real-filharmonia-de-galicia
+body:
+  -
+    text: |-
+      Para o programa deste ano, propuxemos un cambio de formato e de liña, e optamos por adaptalo a un tamaño accesible para levar no peto.
+
+      O deseño dos anos anteriores baseábase nunha imaxe fotográfica que podía estar relacionada coa propia orquestra. Este ano desenvolveuse unha gráfica que responde ao calendario do curso musical, que se descobre no interior.
+
+      Por unha parte remite á sinalización que facemos nos calendarios dos días importantes. Eliminando o resto da información, quedan unicamente as marcas ou puntos do evento. Trinta puntos, trinta citas para esta temporada 2010-2011.
+
+      Por outra parte, eses puntos convértense dalgunha maneira en serpentinas, que remiten tamén a súa compoñente festiva.
+
+      O que mantivemos foi o cuño creado no 2005 na tipografía Din 1451, polo décimo aniversario da Real Filharmonía de Galicia.
+    type: text
+  -
+    image: /portfolios/images/5585981ad6a92-rfg-2010-uqui-0.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585981ad6f9f-rfg-2010-uqui-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585981ad73df-rfg-2010-uqui-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585981ad7837-rfg-2010-uqui-4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585981ad7ca7-rfg-2010-uqui.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5585981ad6529-rfg-2010-uqui-1.jpg
+tags:
+  - Editorial
+members_id:
+  - 25
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - Uqui.net
+  -
+    - Proxecto
+    - 'Programa abono da Real Filharmonía de Galicia'
+  -
+    - Cliente
+    - 'Real Filharmonía de Galicia'
+  -
+    - Ano
+    - 2010-2011
+draft: false

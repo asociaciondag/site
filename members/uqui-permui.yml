@@ -1,0 +1,46 @@
+id: 25
+contact: |-
+  Porto de Amio, 20  
+   15707 Santiago de Compostela   
+   T. 981 572 328  
+   M. 630 071 425
+
+  <uquipermui@uqui.net>
+links:
+  -
+    text: uqui
+    url: 'http://www.uqui.net/'
+    type: link
+  -
+    text: Behance
+    url: 'https://www.behance.net/uquipermui'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/uquipermui'
+    type: twitter
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/uquipermui'
+    type: linkedin
+bio_gl: null
+bio_es: null
+name: 'Uqui Permui'
+job_gl: 'Deseñadora gráfica'
+job_es: 'Deseñadora gráfica'
+slug: uqui-permui
+avatar: /members/avatares/554d056b851a4-uqui-permui.jpg
+avatarBig: null
+tags:
+  - Espazos
+  - Infografía
+  - Audiovisual
+  - Sinalética
+  - Editorial
+  - Exposicións
+  - 'Identidade corporativa'
+  - Gráfico
+  - Embalaxe
+  - Web
+  - Tipografía
+draft: false

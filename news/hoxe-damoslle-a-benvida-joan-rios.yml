@@ -1,0 +1,35 @@
+id: 598
+title: 'Hoxe dámoslle a benvida Joan Ríos'
+body:
+  -
+    list: after
+    image: /news/images/561cf06a0b9db-presentacion-recovered.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Ola a todos!
+
+      Chámome Joan Ríos, son deseñador gráfico nacido en Cádiz de rebote, pero galego 100%.
+
+      Actualmente resido en Vigo e estou rematando o grao de Deseño Gráfico na EASD de Ourense que compaxino con proxectos persoais.
+
+      Gústame o deseño como vehículo e ferramenta para resolver problemas de comunicación.
+
+      Estou moi ilusionado por formar parte da DAG e por poder contribuír co meu gran de area a impulsar e recoñecer o deseño galego.
+
+      Moitas grazas e un saúdo!
+    type: text
+  -
+    list: ''
+    url: 'http://dag.gal/gl/joan-rios/'
+    text: 'Ficha de socio'
+    type: button
+intro: 'Un novo socio que se suma á DAG para traballar en prol do recoñecemento do deseño galego'
+slug: hoxe-damoslle-a-benvida-joan-rios
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2015-10-13T13:52:10+00:00

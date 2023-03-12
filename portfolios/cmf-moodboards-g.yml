@@ -1,0 +1,47 @@
+id: 400
+title: 'CMF Moodboards'
+slug: cmf-moodboards-g
+body:
+  -
+    text: |-
+      Algunhas mostras de moodboards de materiais que realicei para algúns proxectos e colaboracións. Sempre empezo cos prognósticos de tendencias, ás veces fágoo de maneira tradicional, outras veces mesturando o método tradicional coas miñas habilidades de análises de datos. Pero, por suposto moitas veces é o equipo de márketing do cliente quen me da esta información, que logo tomo como punto de partida para a miña investigación. Para a realización dos moodboards, ás veces utilizo mostras físicas, pero a maioría das veces utilizo software cgi (Susbtance Sampler and Designer) para xerar gráficos dixitais. Por que prefiro CGI? Porque me dá moita liberdade para explorar novas texturas, acabados, materiais e cores. Logo, uso estes CGI para comunicarme cos meus clientes e os seus equipos (márketing, produción, técnico) e mesmo ser usados en aplicacións de realidade virtual e realidade aumentada.
+
+       
+       
+    type: text
+  -
+    image: /portfolios/images/cmf-retro-lines.JPG
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/retro-cmf3.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/retro-cmf4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/flow-moodboard-v2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/202112-adult-cmf-strategy-moodboard7.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/202112-adult-cmf-strategy-moodboard6.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/retro-cmf.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//cmf-retro-lines.JPG
+tags:
+  - Produto
+members_id:
+  - 64
+lang: gl
+info: []
+draft: false

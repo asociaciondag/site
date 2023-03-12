@@ -1,0 +1,38 @@
+id: 664
+title: 'Unitaria organiza un taller de tipografía en mayo'
+body:
+  -
+    list: after
+    image: /news/images/572a2b50344cc-unitaria-grafica-tipografia.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      **Impartido por:** María Ramos
+
+      **Nivel:** Iniciación
+
+      **Lugar:** Espacio Unitaria (Calzada de San Pedro s/n, Santiago de Compostela)
+
+      **Fechas:** 28 e 29 de mayo de 2016
+
+      **Horario:** de 10.00 a 14.00 y de 16.00 a 20.00 h.
+
+      **Duración:** 16 h
+
+      **N.º de plazas:** 12
+
+      **Cuota:** 115 € (10 € de descuento para socios de la DAG)
+    type: text
+  -
+    list: ''
+    url: 'http://escolaunitaria.com/2016/04/01/tipografia/'
+    text: 'Inscripción en Unitaria'
+    type: button
+intro: 'El objetivo de la actividad es acercarse a las nociones básicas en el diseño de tipografías. A partir del dibujo de un grupo de letras, los participantes aprenderán a trabajar sus formas para que funcionen como conjunto en sus diseños.'
+slug: unitaria-organiza-un-taller-de-tipografia-en-mayo
+tags: []
+lang: es
+draft: false
+date: 2016-05-04T19:03:12+00:00

@@ -1,0 +1,63 @@
+id: 58
+title: 'Feira Galega das Artes Escénicas'
+slug: feira-galega-das-artes-escenicas
+body:
+  -
+    text: |-
+      A Feira Galega das Artes Escénicas, organizada por Agadic, é un proxecto que convoca os programadores e a xente das artes escénicas en xeral. Durante cinco días organízanse diferentes programas na cidade de Compostela. Cada ano un personaxe, ou unha acción guía a identidade da feira… nesta ocasión, escollemos unha figura que combina referencias mitolóxicas con outras máis propias do mundo do espectáculo, buscando representar o impulso que a feira supón para a creación escénica profesional.
+
+      Tanto os elementos da feira, a sinalética exterior e interior creáronse mesturando esta figura coa tipografía Museo Sans, na súa versión Light, deseñada recentemente por Jos Buivenga.
+
+      Polo traballo realizado para este mesmo evento, na súa edición de 2004, recibimos o premio da Revista ARTEZ á mellor imaxe gráfica de festivais de artes escénicas.
+    type: text
+  -
+    image: /portfolios/images/5585996083453-fgae-uqui-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859960836cf-fgae-uqui-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/558599608394d-fgae-uqui-4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585996083b7f-fgae-uqui-5.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585996083e2b-fgae-uqui-6.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/558599608404d-fgae-uqui-7.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585996084250-fgae-uqui-8.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/558599608447f-fgae-uqui-9.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5585996083189-fgae-uqui-2.jpg
+tags:
+  - Gráfico
+members_id:
+  - 25
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - Uqui.net
+  -
+    - Cliente
+    - Agadic
+  -
+    - Ano
+    - '2010'
+draft: false

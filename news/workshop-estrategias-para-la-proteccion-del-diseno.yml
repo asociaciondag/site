@@ -1,0 +1,32 @@
+id: 832
+title: 'Workshop Estrategias para la protección del diseño'
+body:
+  -
+    list: after
+    image: /news/images/10-programadesenhoinnovacion.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      El evento, que tendrá lugar en el CIS Galicia (Ferrol), tiene como principal objetivo compartir conocimiento sobre uno de los aspectos críticos para el sector del diseño en todas sus vertientes (industrial. gráfico, de producto, organizacional, digital y multimedia): la protección de sus creaciones.
+
+      Los destinatarios del encuentro son los diseñadores y las diseñadoras de todos los ámbitos, estudiantes de esta especialidad y representantes de empresas y otras entidades interesadas en conocer las diferentes fórmulas de protección del valor de los intangibles y de los procesos y las tecnologías asociadas a ellos frente a copias o reclamaciones por parte de terceros.
+
+      La actividad se inscribe dentro del Programa de diseño para la innovación 2020 y es gratuita. En esta ocasión, la DAG estará representada por su socio Dani Bembibre, quien participa en la jornada para presentar el punto de vista del diseñador en las problemáticas de protección del diseño.
+
+      [Programa del evento](http://gain.xunta.gal/repo/4-Programa_workshop_estratexiasDesenho.pdf)
+
+      [Formulario de inscripción](http://www.cisgalicia.org/contactos/campan/inscribir/4)
+    type: text
+  -
+    list: ''
+    url: 'http://gain.xunta.gal/eventos/242/workshop+estratexias+proteccion+do+deseno'
+    text: 'Página del evento en la web de Gain'
+    type: button
+intro: 'La Consellería de Economía, Empleo e Industria, a través de la Agencia Gallega de Innovación (GAIN), organiza el próximo 25 de octubre el workshop Estrategias para la protección del diseño.'
+slug: workshop-estrategias-para-la-proteccion-del-diseno
+tags: []
+lang: es
+draft: false
+date: 2018-10-15T20:47:18+00:00

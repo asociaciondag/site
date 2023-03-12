@@ -1,0 +1,42 @@
+id: 73
+title: 'Sara Lage & Maru Calderón'
+slug: sara-lage-maru-calderon
+body:
+  -
+    text: |-
+      Proxecto web para as deseñadoras de moda Sara Lage e Maru Calderón. Un proxecto colaborativo, (vídeo, fotografía, música…) no que Sond3 se encargou do deseño e desenvolvemento da web.
+
+      Premio do público e xurado nos premios Innova-g 2010.
+
+      Cámaras: Omar Luaces e Yoe Brava  
+       Produción e música: Gabriel Marínez  
+       Peiteado: Moi  
+       Fotografía: Lorena Grandío  
+       Realización e montaxe: Yoe Brava
+
+      <http://www.saralageymarucalderon.com/>
+    type: text
+cover: null
+tags:
+  - Web
+members_id:
+  - 11
+  - 15
+lang: gl
+info:
+  -
+    - Estudio
+    - Sond3
+  -
+    - Proxecto
+    - 'Web corporativa Sara Lage & Maru Calderón'
+  -
+    - Cliente
+    - 'Sara Lage e Maru Calderón'
+  -
+    - Ano
+    - '2009'
+  -
+    - Programación
+    - 'Diego Vilariño'
+draft: true

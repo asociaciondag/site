@@ -1,0 +1,37 @@
+id: 745
+title: 'IX Jornada de Arquitectura y Diseño en la Ciudad de la Cultura'
+body:
+  -
+    list: after
+    image: /news/images/asesorarq-jornada-arquitectura-diseno-galicia-1024x554.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      La jornada empezará a las 09.30 h y durante la sesión de la mañana tendrán lugar 2 conferencias y una mesa redonda:
+
+      10.00 h Pensamiento Glocal en el diseño con [Xabier Rilo](https://dag.gal/gl/xabier-rilo/) y [Ricardo Tubío](https://dag.gal/gl/ricardo-tubio-pazos/) ([cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/))
+
+      10.45 h Diseño sin querer con José Antonio Vázquez ([Estudio Nómada](http://www.estudionomada.es/))
+
+      12.00 h Mesa redonda: Diseño e industria moderada por el arquitecto y doctor por la ETSAC de la Universidad de A Coruña Elías Cueto y en la que participarán:
+
+      - Tania Pichel, arquitecta, responsable del Departamento Técnico de[ Molduras del Noroeste](http://www.grupomolduras.com/)
+      - Ana Hermida, directora comercial y de marketing de Muebles [Hermida](http://www.hermida.com/)
+      - Xabier Rilo y Ricardo Tubío, ingenieros en Diseño Industrial y fundadores de [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/)
+      - José Antonio Vázquez, arquitecto y uno de los fundadores del [Estudio Nómada](http://www.estudionomada.es/)
+       
+      La actividad se retomará a partir de las 16.00 h con una serie de encuentros empresariales. Se trata de encuentros coordinados y agendados previamente entre empresas, arquitectos y diseñadores que asisten a las jornadas. Cada entrevista tendrá una duración de 15 minutos.
+    type: text
+  -
+    list: ''
+    url: 'http://clustermadeira.com/cmd-celebrara-las-ix-jornadas-arquitectura-diseno-proximo-15-septiembre/'
+    text: 'Inscripciones e información en la página del CMD'
+    type: button
+intro: 'El [Clúster de la Madera y el Diseño](http://clustermadeira.com/) (CMD) de Galicia organiza la IX Jornada de Arquitectura y Diseño.'
+slug: ix-jornada-de-arquitectura-y-diseno-en-la-ciudad-de-la-cultura
+tags: []
+lang: es
+draft: false
+date: 2017-09-05T19:01:31+00:00

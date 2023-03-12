@@ -1,0 +1,18 @@
+id: 325
+title: 'Clube Ciclista Velouzas'
+slug: velouzas
+body:
+  -
+    image: /portfolios/images/velouzas.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//velouzas.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 29
+lang:
+  - gl
+  - es
+info: []
+draft: false

@@ -1,0 +1,18 @@
+id: 264
+title: 'Cartaz Implicadas'
+slug: cartaz-implicadas
+body:
+  -
+    text: 'Cartel realizado para la ONG Implicadas no Desenvolvemento.'
+    type: text
+  -
+    image: /portfolios/images/implicadas.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//implicadas.jpg
+tags: []
+members_id:
+  - 40
+lang: es
+info: []
+draft: false

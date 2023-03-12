@@ -1,0 +1,50 @@
+id: 618
+title: 'Entrevista a Álvaro Valiño'
+body:
+  -
+    text: |-
+      Su trabajo ha sido reconocido por la Society of News Design en once ocasiones y ha obtenido 28 premios Malofiej, el galardón más reputado en la infografía periodística.
+
+      Ha impartido seminarios de gráficos informativos en Madrid, Nueva Dehli y Kuala Lumpur. Su trabajo ha sido publicado en los volúmenes _Information Graphics_ de Taschen _y Visual Storytelling_ de Gestalten.
+
+      Más información:
+
+      - [alvarovalino.com](http://www.alvarovalino.com/)
+      - [alvarovalino.tumblr.com](http://alvarovalino.tumblr.com/)
+      - [@alvarovalino](http://twitter.com/alvarovalino)
+       
+    type: text
+  -
+    list: after
+    image: /news/images/5632036d0e8ab-7-alvaro.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## ¿Quién eres y a qué te dedicas?
+
+      > —Me llamo Álvaro Valiño y soy infografista e ilustrador _freelance._
+
+      ## ¿De qué vas a hablar en el FEED?
+
+      > —Voy a hablar de infografía, una disciplina de disciplinas que comprende desde la investigación y la estadística hasta la cartografía, la ilustración y, por supuesto, el diseño, que en estos tiempos de sobreabundancia de datos facilita su comprensión.
+      > 
+      > Lo que muchas veces se nos presenta como información no son más que datos sin el tratamiento o el contexto necesarios para que tengan sentido para nosotros, grandes consumidores y emisores de información. La función del info/grafista es hacer este trabajo de edición, filtrado y selección, generando información (info). Esta información es organizada y presentada de una forma visual (grafia), aprovechando el sentido de banda ancha del ser humano, la vista, el que mejor aprovecha nuestro cerebro, que es quien de comparar, detectar patrones y absorber información organizada espacialmente.
+
+      ## ¿Qué trabajo de diseño investigación te gustaría haber realizado?
+
+      > —Estoy muy satisfecho con el trabajo que he venido desarrollando. Colaborar con medios como National Geographic Magazine es un lujo, pues, además de trabajar con contenido de gran calidad, del que estás aprendiendo constantemente, tienen una gran audiencia, lo que hace que el trabajo tenga un mayor impacto. Creo que si tienes la posibilidad de identificarte con el contenido con que trabajas, tratas de dar lo mejor de ti, no solo como profesional, sino también como persona.
+    type: text
+  -
+    list: after
+    url: 'http://dag.gal/gl/feed2015'
+    text: 'Ir á páxina do FEED 2015'
+    type: button
+intro: 'Álvaro Valiño, nacido en A Coruña, és Master en Diseño Gráfico por la London College of Communication.Trabaja como infografista e ilustrador _freelance_ desde Washington DC y ha colaborado con _National Geographic Magazine,_ _Smithsonian Magazine,_ _Corriere della Sera,_ _Courrier International,_ y la revista _Mongolia,_ entre otros. Fue el jefe de infografía del desaparecido diario _Público_ y comenzó su actividad profesional en la sección de gráficos de _La Voz de Galicia._'
+slug: entrevista-a-alvaro-valino
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2015-11-18T11:35:11+00:00

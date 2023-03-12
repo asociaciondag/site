@@ -1,0 +1,30 @@
+id: 73
+contact: '<toni@numax.org>'
+links:
+  -
+    text: Web
+    url: 'http://laboratorio.numax.org'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/laboratorionumax/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/laboratorio_numax/'
+    type: link
+bio_gl: 'Formouse en Belas Artes e está especializado en deseño editorial e de identidade. Mantivo o estudio [dongrafica.net](http://dongrafica.net) ata a súa incorporación na cooperativa Numax.'
+bio_es: 'Se formó en Bellas Artes y está especializado en diseño editorial y de identidad. Mantuvo el estudio [dongrafica.net](http://dongrafica.net) hasta su incorporación en la cooperativa Numax.'
+name: 'Antonio Doñate'
+job_gl: 'Deseñador gráfico en Laboratorio Numax'
+job_es: 'Diseñador gráfico en Laboratorio Numax'
+slug: antonio-donate
+avatar: /members/avatares//toni-avatar.jpg
+avatarBig: null
+tags:
+  - Audiovisual
+  - Web
+  - Editorial
+  - 'Identidade corporativa'
+  - Gráfico
+draft: false

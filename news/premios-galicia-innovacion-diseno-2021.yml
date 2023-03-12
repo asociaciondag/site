@@ -1,0 +1,31 @@
+id: 1085
+title: 'Premios Galicia de Innovación y Diseño 2021'
+body:
+  -
+    list: before
+    image: /news/images/premiosinnodese2021.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Los premios buscan de nuevo reconocer el trabajo de profesionales y empresas que contribuyen a mejorar el sector del diseño en Galicia y, también, la labor de personas y empresas gallegas que apuestan claramente por la innovación en su estrategia empresarial. Se dividen en dos grandes categorías, Innovación y Diseño, contando con un jurado profesional para cada una de ellas. Dentro de la sección Innovación, se reconoce a personas y empresas con trayectorias y prácticas innovadoras en tres categorías diferentes: trayectoria innovadora, pequeña y mediana empresa y gran empresa (premio honorífico). En la sección Diseño, se reconocen las personas y empresas que mejor representan la contribución del diseño gallego a la innovación en tres categorías distintas: profesionales, diseñadores/as jóvenes y empresa (premio honorífico). Salvo los premios honoríficos, el resto tienen una dotación individual de 15.000€.
+
+      Las candidaturas deberán ser presentadas por medios electrónicos a través del formulario normalizado en la [sede electrónica de la Xunta de Galicia](https://sede.xunta.gal/portada). Las personas y empresas interesadas en presentar su propuesta tienen de plazo hasta el día 13 de octubre de 2021.
+    type: text
+  -
+    list: ''
+    url: 'http://gain.xunta.gal/artigos/437/premios+galicia+innovacion+deseno+2021'
+    text: 'Web de los premios'
+    type: button
+  -
+    list: ''
+    url: 'https://www.xunta.gal/dog/Publicados/2021/20210713/AnuncioG0198-020721-0006_gl.html'
+    text: 'Bases de los premios'
+    type: button
+intro: 'La segunda edición de los Premios Galicia de Innovación y Diseño convocados por la Xunta de Galicia a través de la Axencia Galega de Innovación, se enmarca dentro del Programa Diferenza 2024.'
+slug: premios-galicia-innovacion-diseno-2021
+tags: []
+lang: es
+draft: false
+date: 2021-09-03T17:59:28+00:00

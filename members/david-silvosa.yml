@@ -1,0 +1,36 @@
+id: 29
+contact: |-
+  **Costa**
+
+  Calle Real, 55, 1º esq.  
+   15003 A Coruña  
+   T. 981 229 662
+
+  <david@costa.io>
+links:
+  -
+    text: Costa
+    url: 'http://costa.io'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/davidsilvosa'
+    type: linkedin
+bio_gl: 'David Silvosa é arquitecto, deseñador e director de arte en Costa. Empezou a súa carreira nos estudios de arquitectura de Carlos Ferrater en Barcelona, de Arturo Franco Taboada en A Coruña e cunha estancia como deseñador no LEGO Concept Lab de Barcelona. Ten 15 anos de experiencia no desenvolvemento de proxectos multidisciplinares de arquitectura, interiorismo, deseño de produto, _packaging_, identidade visual e produción audiovisual para clientes como Zara, Vodafone, Estrella Galicia ou Kina Fernández; entre outros. O seu traballo foi recoñecido cun premio Habitácola polo FAD (Foment de les Arts i del Disseny), con unha bolsa Arquia da Caja de Arquitectos e polos premios Anuaria. También foi finalista nos Horeca New Business Awards e nos Premios Paraugas, e nominado á mellor Obra do Ano 2018 na categoría Arquitectura para a Saúde por Archdaily. Relator en distintos foros, o seu traballo foi publicado en libros e medios especializados nacionais e internacionais. En 2014 asóciase con Dani Bembibre e nace Costa. Desde xullo de 2018 é vogal do sector deseño no Clúster de Comunicación de Galicia.'
+bio_es: 'David Silvosa es arquitecto, diseñador y director de arte en Costa. Empezó su carrera en los estudios de arquitectura de Carlos Ferrater en Barcelona, de Arturo Franco Taboada en A Coruña y con una estancia como diseñador en el LEGO Concept Lab de Barcelona. Tiene 15 años de experiencia en el desarrollo de proyectos multidisciplinares de arquitectura, interiorismo, diseño de producto, _packaging_, identidad visual y producción audiovisual para clientes como Zara, Vodafone, Estrella Galicia o Kina Fernández; entre otros. Su trabajo ha sido reconocido con un premio Habitácola por el FAD (Foment de les Arts i del Disseny), con una bolsa Arquia de la Caja de Arquitectos y por los Premios Anuaria. También ha sido finalista en los Horeca New Business Awards y en los Premios Paraugas, y nominado a la mejor Obra del Año 2018 en la categoría Arquitectura para la Salud por Archdaily. Ponente en distinos foros, su trabajo ha sido publicado en libros y medios especializados nacionales e internacionales. En 2014 se asocia con Dani Bembibre y nace Costa. Desde julio de 2018 es vocal del sector diseño en el Clúster de Comunicación de Galicia.'
+name: 'David Silvosa'
+job_gl: 'Deseñador gráfico en Costa'
+job_es: 'Diseñador gráfico en Costa'
+slug: david-silvosa
+avatar: /members/avatares//retrato-2017.jpg
+avatarBig: null
+tags:
+  - 'Identidade corporativa'
+  - Gráfico
+  - Embalaxe
+  - Espazos
+  - Sinalética
+  - Editorial
+  - Exposicións
+  - Produto
+draft: false

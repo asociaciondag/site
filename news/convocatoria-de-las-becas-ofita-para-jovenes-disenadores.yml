@@ -1,0 +1,25 @@
+id: 90
+title: 'Convocatoria de las becas Ofita para jóvenes diseñadores'
+body:
+  -
+    text: |-
+      Ofita quiere explorar nuevos conceptos de espacios de trabajo de la mano de jóvenes diseñadores que aporten frescura, osadía y creatividad. Con este objetivo, convoca las becas Ofita para jóvenes diseñadores.
+
+      Los interesados, pueden enviar su curriculum y portfolio a: <design@ofita.com> antes del 15 de julio.
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a9894c3b-ofita.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    file: /news/files/553e7a9894c3b-becas-ofita.png
+    text: Descargar
+    type: file
+intro: '6 diseñadores serán seleccionados y recibiran una beca de 1200€'
+slug: convocatoria-de-las-becas-ofita-para-jovenes-disenadores
+tags: []
+lang: es
+draft: false
+date: 2010-06-08T12:09:57+00:00

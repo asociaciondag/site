@@ -1,0 +1,20 @@
+id: 807
+title: 'Debate de la PNL sobre una estrategia nacional de diseño'
+body:
+  -
+    text: 'El debate podrá seguirse en directo desde el canal del Congreso a partir de las 16.00 h. Aquí os dejamos el enlace a la orden del día y al canal del directo:'
+    type: text
+  -
+    list: ''
+    url: 'http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/ConDir?_piref73_2004041_73_1339038_1339038.next_page=/wc/listadoEmisiones&diaElegido=3'
+    text: CongresoTV
+    type: button
+  -
+    text: 'Además de en el Congreso, el debate estará también en las redes. Podéis participar usando #EstrategiaDiseño'
+    type: text
+intro: 'Mañana 10 de mayo se reúne en el Congreso de los Diputados la Comisión de Economía, Industria y Competitividad para tratar cuestiones tan vitales para el sector del diseño como la Proposición no de ley relativa a una estrategia nacional de diseño o como la necesidad de promover un Pacto Nacional por el I+D+i que dote de estabilidad y objetividad la política en materia de ciencia, tecnología e innovación.'
+slug: debate-de-la-pnl-sobre-una-estrategia-nacional-de-diseno
+tags: []
+lang: es
+draft: false
+date: 2018-05-09T19:53:32+00:00

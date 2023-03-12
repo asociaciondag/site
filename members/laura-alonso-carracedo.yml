@@ -1,0 +1,36 @@
+id: 40
+contact: |-
+  T. 620 735 462
+
+  <laura.alonso.carracedo@gmail.com>
+links:
+  -
+    text: Web
+    url: 'http://www.lauraalonso.gal/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/lauraalonsocarracedo'
+    type: linkedin
+  -
+    text: Twitter
+    url: 'https://twitter.com/lauraalonsoc'
+    type: twitter
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/lauraalonso.diseno/'
+    type: link
+bio_gl: 'Deseñadora gráfica e docente na Titulación Superior de Deseño Gráfico e Creación Visual da Escola Superior Marcelo Macías (A Coruña).'
+bio_es: 'Diseñadora gráfica y docente en la Titulación Superior de Diseño Gráfico y Creación Visual de la Escuela Superior Marcelo Macías (A Coruña).'
+name: 'Laura Alonso Carracedo'
+job_gl: 'Deseñadora gráfica'
+job_es: 'Diseñadora gráfica'
+slug: laura-alonso-carracedo
+avatar: /members/avatares//dsc-9410.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - 'Identidade corporativa'
+  - Editorial
+  - Embalaxe
+draft: false

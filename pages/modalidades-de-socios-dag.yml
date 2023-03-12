@@ -1,0 +1,23 @@
+id: 6
+title: 'Modalidades para asociarse'
+slug: modalidades-de-socios-dag
+body:
+  -
+    text: |-
+      ## Categoría ordinaria
+
+      Profesionales, docentes o personal investigador con más de dos años de experiencia laboral en el mundo del diseño. La cuota ordinaria es de 60 euros por trimestre.
+
+      ## Categoría novel
+
+      Los diseñadores y las diseñadoras que posean formación y que demuestren que están comenzando su carrera profesional. La persona asociaciada en la categoría novel goza de los mismos derechos y deberes que en la categoría ordinaria, pero con el fin de facilitarle su incorporación a la Asociación goza de una reducción en la cuota trimestral del 50% durante los dos primeros años. Su cuota trimestral es de 30 euros.
+
+      ## Categoría estudiante
+
+      Personas físicas, menores de 30 anos, que demuestren documentalmente su condición mediante certificación de estudios en alguna disciplina relacionada con las actividades propias del diseño. Después de finalizar sus estudios pasarán automáticamente a la categoría novel u ordinaria según sea su situación. La cuota de estudiante es un 15% de la cuota ordinaria, es decir, 9 euros por trimestre.
+    type: text
+menu: true
+footer: false
+order: 4
+lang: es
+draft: false

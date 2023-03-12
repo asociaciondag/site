@@ -1,0 +1,35 @@
+---
+layout: layouts/base.njk
+---
+<article class="new new-permalink">
+	<header class="new-header wrapper-narrow">
+		<nav>
+      {% for tag in tags %}
+			<a href="/tags/{{ tag }}">{{ tag }}</a>
+      {% endfor %}
+		</nav>
+
+		<time>{{ date }}</time>
+
+		<h1>{{ title }}</h1>
+	</header>
+
+	<div class="new-intro wrapper-narrow">
+		{{ intro | md | safe }}
+	</div>
+
+	<div class="share wrapper-narrow">
+		<a class="share-twitter ico-twitter" href="<?= $share->twitter->shareUrl ?>" target="_blank">
+			<?php $this->insert('common/ico-twitter'); ?> <span>Twitter</span>
+		</a>
+		<a class="share-facebook ico-facebook" href="<?= $share->facebook->shareUrl ?>" target="_blank">
+			<?php $this->insert('common/ico-facebook'); ?> <span>Facebook</span>
+		</a>
+	</div>
+
+	<div class="new-body">
+    {% for block in body %}
+      {% include "blocks/" + block.type + ".njk" %}
+    {% endfor %}
+	</div>
+</article>

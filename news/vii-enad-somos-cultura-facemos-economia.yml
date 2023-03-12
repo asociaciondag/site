@@ -1,0 +1,41 @@
+id: 909
+title: 'VII ENAD. “Somos Cultura. Facemos Economía”'
+body:
+  -
+    list: after
+    image: /news/images/imaxe-noticia-viienad.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      O lema deste ano, “Somos Cultura, facemos Economía”, profundiza na necesidade de comunicar mellor o que se fai desde o punto de vista do deseño, como debe entenderse a profesión e o sector e a importancia que ten a nivel económico, social, cultural e medioambiental.
+
+      O evento conta cun amplo programa de presentacións e mesas de traballo participado polas once asociacións que conforman READ neste momento; e tamén por profesionais, asociacións, docentes, alumnado e organismos públicos e privados, do eido do deseño, que quieran participar.
+
+      Esta edición celebrarase en Murcia por ser DIP, a Asociación de Profesionais do Deseño e a Comunicación Publicitaria da Rexión de Murcia, a asociación que preside a READ ata comezos de 2021. Ata alí desprazaranse dúas compañeiras da DAG para traballar en común nas liñas de acción do sector do deseño e aportar a experiencia do traballo desenvolvido en Galicia.
+
+      Os días 27 e 28 están adicados a xornadas completas de traballo dentro do Centro Párraga, Centro de Cultura da Rexión de Murcia. Ademáis das conferencias e das presentacións de proxectos de READ, hai tres mesas de traballo nas que calquera asistente pode participar previa inscrición. A mesa 1 de estratexias de deseño, a mesa 2 do código deontolóxico para o deseño, e a mesa 3 do proxecto From Spain With Design. As conclusións desas mesas de traballo faranse públicas o día seguinte previo debate participativo. O domingo 29 está prevista unha visita cultural a Cartagena para aquelas persoas que dispoñan de tempo libre.
+    type: text
+  -
+    list: ''
+    url: 'https://www.designread.es/7enad/'
+    text: 'Web VII ENAD'
+    type: button
+  -
+    list: ''
+    url: 'https://www.designread.es/7enad/#inscripcion'
+    text: 'Inscrición de balde'
+    type: button
+  -
+    list: ''
+    file: /news/files/programa-7enad-22-agosto.pdf
+    text: 'Programa completo'
+    type: file
+intro: 'Os vindeiros 27, 28 e 29 de setembro terá lugar na cidade de Murcia o VII Encontro Nacional de Deseño organizado pola READ, asociación de ámbito nacional á que pertence a DAG.'
+slug: vii-enad-somos-cultura-facemos-economia
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2019-08-30T10:00:57+00:00

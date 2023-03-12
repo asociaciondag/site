@@ -1,0 +1,19 @@
+id: 215
+title: Lethes
+slug: lethes
+body:
+  -
+    text: 'Rediseño para la revista cultural _Lethes,_ una referencia clave para conocer el pasado limiao, promovida por el Centro de Cultura Popular da Limia. En su interior se pueden encontrar artículos relacionados con la poesía, la literatura, la historia o la biología entre otras temáticas. Suelen participar en la publicación reconocidos personajes de la comarca.'
+    type: text
+  -
+    image: /portfolios/images/lethes.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//lethes-thumbnail.jpg
+tags:
+  - Editorial
+members_id:
+  - 57
+lang: es
+info: []
+draft: false

@@ -1,0 +1,22 @@
+id: 364
+title: '34 Cineropa'
+slug: 34-cineuropa
+body:
+  -
+    text: 'Imaxe gráfica do 34 Festival Cineuropa.'
+    type: text
+  -
+    image: /portfolios/images/publicacion.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//portada.jpg
+tags:
+  - Gráfico
+members_id:
+  - 81
+lang: gl
+info:
+  -
+    - Cliente
+    - 'Concello de Santiago de Compostela'
+draft: false

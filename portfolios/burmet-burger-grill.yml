@@ -1,0 +1,23 @@
+id: 423
+title: 'Burmet Burger & Grill'
+slug: burmet-burger-grill
+body:
+  -
+    image: /portfolios/images/burmet-burger-grill.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/burmet-bolsa.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//burmet-burger-grill.jpg
+tags:
+  - 'Identidade corporativa'
+  - Embalaxe
+members_id:
+  - 93
+lang:
+  - gl
+  - es
+info: []
+draft: false

@@ -1,0 +1,31 @@
+id: 88
+contact: |-
+  T. 639 949 085
+
+  <estudio@fitobaldueza.com>
+links:
+  -
+    text: Web
+    url: 'http://fitobaldueza.com/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/fito-baldueza-0a643120/?originalSubdomain=es'
+    type: linkedin
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/fitobalduezaestudio/'
+    type: link
+bio_gl: 'O meu traballo baséase principalmente na creación de marca, construción tipográfica e comunicación visual. Realizo proxectos e encargos só, ou en colaboración con outros profesionais e estudos. Despois de traballar para publicacións, axencias e estudos en Madrid e A Coruña, establecinme como freelance con base na Coruña.'
+bio_es: 'Mi trabajo se basa principalmente en la creación de marca, construcción tipográfica y comunicación visual. Realizo proyectos y encargos solo, o en colaboración con otros profesionales y estudios. Después de trabajar para publicaciones, agencias y estudios en Madrid y A Coruña, me establecí como freelance con base en A Coruña.'
+name: 'Fito Baldueza'
+job_gl: 'Deseñador gráfico '
+job_es: 'Diseñador gráfico'
+slug: fito-baldueza
+avatar: /members/avatares//imaxe-perfil.png
+avatarBig: null
+tags:
+  - Tipografía
+  - Gráfico
+  - Audiovisual
+draft: false

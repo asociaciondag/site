@@ -1,0 +1,22 @@
+id: 251
+title: 'Triple Alpha'
+slug: triple-alpha
+body:
+  -
+    image: /portfolios/images/triple-alpha-2018-branding.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//triple-alpha-2018-branding.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 67
+lang: es
+info:
+  -
+    - Proyecto
+    - 'Triple Alpha'
+  -
+    - Año
+    - '2018'
+draft: false

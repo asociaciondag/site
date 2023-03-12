@@ -1,0 +1,35 @@
+id: 987
+title: 'Nueva edición de los Premios CLAP'
+body:
+  -
+    list: ''
+    image: /news/images/imaxe-clap2020-web.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Los diseños españoles competirán con otros realizados en América Latina, Estados Unidos, Brasil y Portugal en las siguientes categorías: publicidad, ilustración, editorial, _branding, online &amp; apps,_ tipografía, _motion graphics,_ industrial y otros.
+
+      Tanto profesionales como estudiantes pueden presentar tantas obras como quieran y si inscriben dos o más trabajos obtienen el derecho a presentar un tercero de forma gratuita. Hasta el 19 de junio existe un 50% de descuento para los y las participantes y, además, los socios y las socias de DAG tienen un 15% de descuento en el total de inscripciones por formar parte de READ, entidad colaboradora con los premios que, junto a otras entidades especializadas, se encargará de seleccionar al jurado de esta edición.
+
+      Para inscribir los trabajos en los Premios CLAP es necesario crear una cuenta en la web de Veredictas, organismo que gestiona los estándares de excelencia en el diseño internacional y que organiza estos premios mano a mano con FOROALFA.
+
+      El 30 de agosto cierra la convocatoria, por lo que aquellas personas que quieran participar deberán presentar sus trabajos antes de esa fecha.
+    type: text
+  -
+    list: ''
+    url: 'https://premiosclap.org/'
+    text: 'Web de los Premios CLAP'
+    type: button
+  -
+    list: ''
+    url: 'https://premiosclap.org/inscripcion'
+    text: 'Formulario de inscripción'
+    type: button
+intro: 'Los Premios Internacionales de Diseño Gráfico e Industrial CLAP lanzan una nueva convocatoria para inscribir trabajos realizados entre los años 2019 y 2020.'
+slug: nueva-edicion-premios-clap
+tags: []
+lang: es
+draft: false
+date: 2020-06-12T12:18:17+00:00

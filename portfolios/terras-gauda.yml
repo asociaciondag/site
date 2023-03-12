@@ -1,0 +1,21 @@
+id: 385
+title: 'Terras Gauda'
+slug: terras-gauda
+body:
+  -
+    text: ''
+    type: text
+  -
+    image: /portfolios/images/20210805-4.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//20210805-4.jpg
+tags:
+  - Gráfico
+members_id:
+  - 86
+lang:
+  - gl
+  - es
+info: []
+draft: false

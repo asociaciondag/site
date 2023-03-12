@@ -1,0 +1,32 @@
+id: 1151
+title: 'En la DAG le damos las bienvenida a Begoña Pastoriza'
+body:
+  -
+    list: after
+    image: /news/images/begona-pastoriza.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ¡Hola compañeros DAG!
+
+      Ya llevo un tiempecito por aquí viendo cosas maravillosas de vuestros trabajos, y aunque hice una presentación online, no me presenté oficialmente (en casa de herrero… pues eso).
+
+      Mi trabajo, en el día a día, se centra desde hace 11 años en diseñar webs y apps, UX y UI, para instituciones públicas. Lo cuál está genial porque puedes hacer proyectos muy interesantes de índole social y cobertura internacional que llegan a mucha gente, desde proyectos de la Xunta de Galicia, Sergas, Naciones Unidas hasta el ayuntamiento de Copenhague, por mencionar algunos.
+
+      Pero mi vocación es más artística, más libre por así decirlo, así que dedico mi tiempo “de ocio”, a hacer collages y exposiciones. ¿Por qué collage? Porque me dediqué a la fotografía, a la delineación, al grabado, al dibujo, a la pintura y al diseño toda mi vida, y me parece una disciplina en la que puedo hacer que todas convivan, o al menos unas cuantas.
+
+      Dicho esto, resumo. Trabajé como diseñadora y serigrafista, monté una asociación de fotografía, exploré muchos campos del arte, analógicos y digitales. Fui becaria en el primer máster de grabado de Betanzos CIEC (Centro Internacional de la Estampa Contemporánea), expuse en diferentes ciudades de Galicia, Madrid, Portugal, París, Japón, Los Ángeles o Londres. Recientemente vengo de exponer en la Live Design Week, de Londres, a través de la Galería ARVIVID, que también llevó mi trabajo al Hipódromo de Madrid anteriormente. También podéis ver cositas de la etapa covid, en la galería Monty4 de A Coruña.
+
+      Espero poder veros en persona y debatir, hablar, reír, disertar sobre todos estos temas o lo que nos apetezca. Muchas gracias a DAG y a los compañeros por hacer que el diseño cobre valor y compartir estas cositas.
+
+      Bikiños!
+    type: text
+intro: '[Begoña Pastoriza](https://dag.gal/es/begona-pastoriza/) es socia de la DAG desde el año 2020. Hoy, hace su presentación oficial y comparte con nosotros su experiencia y sus inquietudes en esta nueva etapa. ¡Estamos encantadas de darte la bienvenida, Begoña!'
+slug: en-la-dag-le-damos-la-bienvenida-a-begona-pastoriza
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2022-06-15T11:59:54+00:00

@@ -1,0 +1,18 @@
+id: 525
+title: 'Tenemos un nuevo socio estudiante en la DAG. Benvido!'
+body:
+  -
+    text: 'Me llamo Bruno Pardo y soy estudiante de Diseño Gráfico en la EASD Ramón Falcón en Lugo. Empecé a interesarme por las artes desde pequeñito, mi hobby número uno era dibujar (aunque todavía a día de hoy sigue sin ser mi fuerte) y la música, la cual sigue siendo una parte fundamental de mi vida y mi día a día, ¡acabaré de hombre orquesta! En cuanto pude hacerme con algún programa empecé de forma autodidacta a diseñar para mí dentro de foros, y a crear por mi cuenta unos cuantos, aprendiendo así el uso básico de algún programa y algo de HTML. El primer paso importante en mi corta carrera como diseñador (la cual está empezando a nacer) ha sido iniciar mis estudios en la escuela, estoy en el tercer año y el punto de vista con el que veo ahora las cosas es radicalmente diferente al que tenía antes. He aprendido, y sigo haciéndolo, cada día algo útil e importante para seguir desarrollándome como diseñador. Mi método, para muchos erróneo, es el de ensayo-error. Hago las cosas muy (demasiado quizá) rápido y cuando las veo terminadas y algo no me convence vuelta a corregir! Me gusta el diseño sencillo, "menos es más", claro y conciso. Lo que sobra, lo quito. Abierto a mejorar y a ver. Estoy encantado con formar parte de la DAG y ansioso de iros conociendo a todos para ver lo que hacéis (ya he cotilleado webs), aprender de lo que me contéis y, sobre todo, hacer colegas de profesión. ¿Por qué ser simplemente un pensador creativo cuando puedes ser un provocador cultural? Esa es la pregunta que me hago a diario, y mi objetivo, como no, convertirme en un provocador cultural. Para terminar me gustaría incluir la frase de Samuel Johnson: "Muchas cosas difíciles de diseñar muestran ser fáciles de realizar"'
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7aa79a3be-bruno-pardo.jpg
+    text: ''
+    type: image
+intro: 'El estudiante de Diseño Gráfico de la EASD Ramón Falcón de Lugo Bruno Pardo es la última incorporacióna a la DAG'
+slug: tenemos-un-nuevo-socio-estudiante-en-la-dag-benvido
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2014-11-06T18:32:41+00:00

@@ -1,0 +1,87 @@
+/**
+ * layouts/grid.css
+ *
+ * INFORMACION
+ * Construcción de grids baseado no plugin de salvattore - http://asociaciondag.org.
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * FERRAMENTAS
+ * Stylecow ............... http://stylecow.github.io/
+ * Desenvolvido por Oscar Otero.
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+.ly-grid[data-columns] {
+	display: flex;
+	justify-content: center;
+
+	& > :not(.column) {
+		visibility: hidden;
+	}
+
+	& > .column {
+		width: 100%;
+		max-width: 530px;
+		box-sizing: border-box;
+	}
+
+	&::before {
+		color: transparent;
+		position: absolute;
+	}
+
+	/* 1 columna */
+	@media (max-width: 899px) {
+		&::before {
+			content: "1 .column";
+		}
+	}
+
+	/* 2 columnas */
+	@media (min-width: 900px) {
+		& > .column {
+			width: 50%;
+			padding: 1em 0;
+
+			& > * {
+				padding: 0 2em;
+			}
+
+			&:nth-child(1) {
+				border-right: solid 8px rgba(0, 0, 0, 0.05);
+			}
+		}
+	}
+
+	@media (min-width: 900px) AND (max-width: 1499px) {
+		&::before {
+			content: "2 .column";
+		}
+	}
+
+	/* 3 columnas */
+	@media (min-width: 1500px) {
+		&::before {
+			content: "3 .column";
+		}
+
+		& > .column {
+			width: 33.33%;
+
+			&:nth-child(2) {
+				border-right: solid 8px rgba(0, 0, 0, 0.05);
+			}
+		}
+	}
+}

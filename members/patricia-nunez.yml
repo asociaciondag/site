@@ -1,0 +1,25 @@
+id: 59
+contact: 'E-mail: <patricia.nu.fer@gmail.com>'
+links:
+  -
+    text: Web
+    url: 'http://www.patricianunez.es/'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/patri_design?lang=es'
+    type: twitter
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/patinunez_design/'
+    type: link
+bio_gl: 'Patricia Núñez, nacida en Lugo, licenciouse en ADE na Universidade de Santiago de Compostela, pouco despois descubriu a súa vocación na Escola de Artes Superior de Deseño Ramón Falcón onde cursou os estudos superiores de Deseño Gráfico. Traballou no estudio COSTA, para exercer, máis adiante, como deseñadora web en diferentes proxectos.'
+bio_es: 'Patricia Núñez, nacida en Lugo, se licenció en ADE en la Universidad de Santiago de Compostela, poco después descubrió su vocación en la Escuela de Artes Superior de Deseño Ramón Falcón donde cursó los estudios superiores de Diseño Gráfico. Ha trabajado en el estudio COSTA, para ejercer, más adelante, como diseñadora web en diferentes proyectos.'
+name: 'Patricia Núñez'
+job_gl: 'Deseñadora gráfica e fotógrafa'
+job_es: 'Diseñadora gráfica y fotógrafa'
+slug: patricia-nunez
+avatar: /members/avatares//imagen-perfil.jpg
+avatarBig: null
+tags: []
+draft: true

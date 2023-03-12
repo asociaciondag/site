@@ -1,0 +1,36 @@
+id: 290
+title: 'A taberna'
+slug: a-taberna
+body:
+  -
+    image: /portfolios/images/a-taberna-lugo.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/cartas-exterior.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/cartas-interior.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/cartas.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/mandilon-restaurante.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//cartas.jpg
+tags:
+  - 'Identidade corporativa'
+  - Gráfico
+members_id:
+  - 69
+lang: es
+info:
+  -
+    - Cliente
+    - 'A taberna'
+draft: false

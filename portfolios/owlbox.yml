@@ -1,0 +1,41 @@
+id: 228
+title: OWLBOX
+slug: owlbox
+body:
+  -
+    text: |-
+      Creación dunha tapa en plástico reciclado para a promoción dos beneficios da tecnoloxía de indución para a inxección de resinas plásticas. Isto é un claro exemplo de proxecto cmf (colors, materials and finishes) onde sen facer moito caso da forma, conseguimos atopar o perfecto equilibrio para facer unha peza visibelmente atractiva e agradábel ao tacto.
+
+      O deseño foi feito co obxectivo de seducir dunha soa ollada, por iso xógase con efectos de holografías, outras texturas antirreflectoras (para ver a cor verdadeira sen reflexos), _morphing_ (formas evolutivas en gradientes e en 3D°) e moitas máis. A peza foi feita en varias cores e mesmo unha versión con aditivos olfactivos, para mostrar a posíbeis clientes da cosmética as posibilidades visuais e de interacción para poder destacarse da competencia.
+
+      O proceso é moi esquemático, primeiro deben facerse uns bosquexos tradicionais, e logo un ficheiro vectorial seguindo certos principios de gradientes de grises e negativos, posto que iso é o que lle indica ao láser a profundidade de mecanizado que debe facer no molde. Nas imaxes pódese ver a peza final e o proceso.
+    type: text
+  -
+    image: /portfolios/images/effects-described-01.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/img-1098.JPG
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/owl-finished.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/owlbox.JPG
+    text: ''
+    type: image
+cover: /portfolios/covers//owl-finished.jpg
+tags:
+  - Produto
+members_id:
+  - 64
+lang:
+  - gl
+  - es
+info:
+  -
+    - 'Cliente:'
+    - Roctool
+draft: false

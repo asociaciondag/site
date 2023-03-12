@@ -1,0 +1,40 @@
+id: 658
+title: 'Taller de iniciación a la caligrafía en Unitaria'
+body:
+  -
+    list: after
+    image: /news/images/56fe56ca3f713-unitaria-caligrafia.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      **Impartido por:** Iván Caíña
+
+      **Nivel:** Iniciación
+
+      **Fecha del taller:** 9 e 10 de abril de 2016
+
+      **Lugar:** Espacio Unitaria (Calzada de San Pedro s/n, Santiago de Compostela)
+
+      **Duración:** 16 h
+
+      **Horario:** de 10 h a 14 h e de 16 h a 20 h
+
+      N.º de plazas: 15
+
+      **Cuota de inscrición:** 130 € (10 € de descuento para socios de la DAG)
+
+      **INSCRIPCIÓN:** llamando al 609 830 553 o enviando un e-mail con vuestros datos y los del taller en el que queréis participar a queroaprender@escolaunitaria.com
+    type: text
+  -
+    list: ''
+    url: 'http://escolaunitaria.com/2016/02/04/caligrafia/'
+    text: 'Infórmate en Unitaria'
+    type: button
+intro: 'Los asistentes podrán iniciarse en la técnica de la caligrafía con pincel. Empezarán practicando desde cero los trazos básicos de la caligrafía itálica para acabar el taller componiendo sus propios textos con soltura.'
+slug: taller-de-iniciacion-a-la-caligrafia-en-unitaria
+tags: []
+lang: es
+draft: false
+date: 2016-04-01T13:08:58+00:00

@@ -1,0 +1,40 @@
+id: 820
+title: 'Comeza o ATypI 2018 Antwerp'
+body:
+  -
+    list: after
+    image: /news/images/atyp18.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Sen medo a exaxerar, pódese dicir que todas as persoas que importan no mundo das tipos fan parte da [ATypI](https://www.atypi.org/): deseñadores e editores de tipos, deseñadores gráficos e tipográficos, están todos aí. Os seus socios poden ser tanto individuos (deseñadores, directores de arte, educadores, calígrafos, canteiros, programadores) como organizacións, entre as que se inclúen fabricantes e vendedores da industria das artes gráficas, fornecedores de software etc.
+
+      Neste momento, a ATypI ten unha presenza global con membros en máis de 40 países, 20 dos cales teñen ademais os seus propios delegados. A administración ten a súa sede nos EUA e o actual presidente está no Reino Unido. A lingua oficial é o inglés.
+
+      Trátase dunha entidade sen fins lucrativos que é administrada democraticamente por un consello electo e que fornece unha estrutura para que a comunidade tipográfica se poida coordinar e actuar en conxunto.
+
+      Non só preservan a cultura, a tradición e historia dos tipos e tipografía, senón que entre os seus fins teñen:
+
+      - A promoción de fontes dixitais contemporáneas
+      - A valorización da excelencia tipográfica e do deseño tipográfico
+      - A realización de campañas para a proteccións dos deseños de fontes
+      - O exercicio de influencia nos lexisladores en todo o mundo
+      - A organización de congresos
+       
+      O crongreso da ATypI decorre cada ano nunha cidade distinta. Montreal, Varsovia, São Paulo, Barcelona... foron algúns dos lugares que o acolleron en edicións anteriores, e este ano tocoulle a vez á cidade belga de Amberes.
+
+      Até alí desprazouse a nosa socia [María Ramos](https://dag.gal/gl/maria-ramos/) quen participa como relatora en dúas actividades do intenso [programa](https://www.atypi.org/conferences/antwerp-2018/programme): unha [mesa redonda sobre colaboración, autoría e contribución](https://www.atypi.org/conferences/antwerp-2018/programme/activity?a=836) desde a perspectiva do deseñador de tipos ao mundo do deseño, e a conferencia [Tipos de máquinas de escribir, buscar no pasado referencias para o futuro](https://www.atypi.org/conferences/antwerp-2018/programme/activity?a=824). Esta última é unha presentación que xorde da investigación sobre o tema que desenvolveu en Reading como parte do seu mestrado en deseño de tipografías, aínda que neste caso non estará centrada nunha única compañía (Olivetti) senón na evolución histórica e o proceso de deseño de tipografías para máquinas de escribir dunha maneira máis global.
+    type: text
+  -
+    list: ''
+    url: 'https://www.atypi.org/conferences/antwerp-2018'
+    text: 'ATypI 2018 Antwerp'
+    type: button
+intro: 'Hoxe arranca en Amberes un dos congresos máis importantes para comunidade tipográfica mundial, o congreso anual da ATypI, Asociación Tipográfica Internacional.'
+slug: comeza-o-atypi-2018-antwerp
+tags: []
+lang: gl
+draft: false
+date: 2018-09-11T09:33:04+00:00

@@ -1,0 +1,22 @@
+id: 35
+title: 'El Pecha Kucha llega a Pontevedra'
+body:
+  -
+    text: 'Pecha Kucha Night consiste en exposiciones de proyectos cretativos en un formato 20 imágenes x 20 segundos en un ambiente lúdico y distendido. Tendrá lugar este viernes 10 de julio a las 22:00 en la Sala Karma de Pontevedra. La entrada es gratuíta.'
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a96d87a8-cartel-pechakucha-vol1.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    file: /news/files/553e7a96d87a8-mapa.pdf
+    text: Descargar
+    type: file
+intro: 'Pecha Kucha Night es una iniciativa japonesa, que tras haberse realizado en más de 120 ciudades de todo el mundo, se llevará a cabo en Pontevedra a manos de la Asociación Gallega de Diseñadores (DAG).'
+slug: el-pecha-kucha-llega-a-pontevedra
+tags: []
+lang: es
+draft: false
+date: 2009-07-07T17:14:57+00:00

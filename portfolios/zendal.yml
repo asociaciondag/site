@@ -1,0 +1,18 @@
+id: 339
+title: Zendal
+slug: zendal
+body:
+  -
+    image: /portfolios/images/zendal-awards.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//zendal-awards.jpg
+tags:
+  - Produto
+members_id:
+  - 29
+lang:
+  - gl
+  - es
+info: []
+draft: false

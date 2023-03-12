@@ -1,0 +1,45 @@
+id: 12
+title: 'En torno da Baskerville'
+body:
+  -
+    text: |-
+      En torno da Baskerville é unha exposición organizada pola Asociación Galega de Deseñadores (DAG) sobre o resultado dunha investigación e intervención proposta a trinta deseñadores. A propia asociación coordinará a mostra e o deseño do dispositivo da exposición, que será realizado polos alumnos da Escola Universitaria de Deseño Industrial de Ferrol.
+
+      Pártese da idea de transformar un elemento icónico, como é un libro, nunha obra diferente: nun libro obxecto, noutro libro ou nun obxecto no que non quede rastro da sua identidade orixinal. En calquera caso, a intervención suporá a diferenciación e a personalización dunha obra seriada ou impresa, a creación dun deseño orixinal non comercial a partir dun obxecto de manufactura industrial. Invertimos o proceso de creación: se normalmente creamos unha maqueta para a produción, neste caso partimos do obxecto xa producido industrialmente para a creación dun orixinal.
+
+      O libro escollido é A imprenta en Galicia. Século XIX, un catálogo ou inventario das produción impresa nese século editado en dous volumes pola Xunta de Galicia no ano 2002, na colección Bibliofilia de Galicia. Escollemos este por ser unha publicación austera e pola súa forza como representación icónica: un libro clásico encadernado en pastas duras e maquetado con Baskerville, unha tipografía deseñada no século XVIII por John Baskerville, criticada durante moito tempo porque "cegaba aos lectores polos seus trazos finos e estreitos" pero posteriormente moi empregada, precisamente pola súa elegancia e claridade, en biblias e edición de clásicos literarios. Escolleuse precisamente o nome da tipografía, unha opción non tomada polos deseñadores que participan neste proxecto pero central no deseño do libro, para dar título á exposición.
+
+      Os deseñadores gráficos e industriais, que participan neste proxecto son: Lía Santana, X. María Torné, Pepe Barro, Xosé Salgado, Uqui Permui, Daniel Bembibre, Antón Lezcano, Álvaro Valiño, Pancho Lapeña, Gisela Ahumada, J. Ramón Méndez, Javier Perez, Jon Solozabal, Jose A. Carrera, María Pereiró, María del Rosario Domínguez, Natalia Crecente, Óscar Canal, Óscar Otero, Segundo Fernández, Simón Windsock e Rafa Caccamo
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a93cddef-291208084918523.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    image: /news/images/553e7a93cddef-dsc07771.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    image: /news/images/553e7a93cddef-dsc07776.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    image: /news/images/553e7a93cddef-dsc07791.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    image: /news/images/553e7a93cddef-gisela-ahumada-entrevistada-por-miraxes.jpg
+    text: ''
+    type: image
+intro: 'O vindeiro día 8 de xaneiro preséntase no CGAC as 20:00 horas a exposición "En torno da Baskerville".'
+slug: en-torno-da-baskerville
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2008-12-29T11:43:12+00:00

@@ -1,0 +1,40 @@
+id: 90
+contact: |-
+  T. 657 289 886
+
+  <info@orixecreativa.com>
+links:
+  -
+    text: 'Orixe | Comunicación Creativa'
+    url: 'https://www.orixecreativa.com'
+    type: link
+  -
+    text: Behance
+    url: 'https://www.behance.net/izzyberto'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/orixecreativa'
+    type: facebook
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/orixecreativa'
+    type: link
+bio_gl: null
+bio_es: null
+name: 'Samuel Baltar'
+job_gl: 'Deseñador gráfico e director creativo en Orixe'
+job_es: 'Diseñador gráfico y director creativo en Orixe'
+slug: samuel-baltar
+avatar: /members/avatares//img-4525-jpg-2.JPG
+avatarBig: null
+tags:
+  - Estratexia
+  - UX/UI
+  - Sinalética
+  - Web
+  - 'Identidade corporativa'
+  - Gráfico
+  - Infografía
+  - Audiovisual
+draft: false

@@ -1,0 +1,29 @@
+id: 964
+title: 'Iago Barreiro, nuevo socio de la DAG'
+body:
+  -
+    list: after
+    image: /news/images/iago-barreiro.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ¡Hola! Soy Iago Barreiro, diseñador gráfico especializado en identidad visual, diseño UX/UI y desarrollo web, con experiencia en diferentes disciplinas y tecnologías _online y_ _offline_.
+
+      Hace 10 anos, me fui a Barcelona a estudiar el Grado en Diseño Gráfico, teniendo la oportunidad de trabajar en diferentes estudios de _branding y_ comunicación liderando sus proyectos digitales. Hace un año que volví a Galicia, desde donde colaboro con estudios, agencias y clientes de todo el mundo transformando sus identidades visuales a entornos digitales e interactivos, tanto en el campo del diseño coma en el de la programación.
+
+      Además soy fundador de un espacio de _coworking_ en Compostela, [Modular Multiespazo](https://somosmodular.com/), desde donde trabajo y comparto espacio y cafés con otros profesionales. Estáis todos invitados ;)
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/es/iago-barreiro/'
+    text: 'Perfil en la web de la DAG'
+    type: button
+intro: 'En la DAG somos conscientes de la importancia de contar con profesionles que trabajen en distintas disciplinas del diseño, para tener una perspectiva amplia y trabajar por representar nuestra profesión de la mejor manera posible. Iago Barreiro es diseñador especializado en entornos digitales e interactivos, que después de una larga temporada en Barcelona decide volver a Galicia para trabajar desde aquí. Nos alegra mucho tu vuelta Iago.'
+slug: iago-barreiro-nuevo-socio
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2020-02-11T11:40:49+00:00

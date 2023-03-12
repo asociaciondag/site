@@ -1,0 +1,26 @@
+id: 429
+title: 'Tenemos nuevo socio en la DAG!'
+body:
+  -
+    text: |-
+      [Hello World!](http://es.wikipedia.org/wiki/Hola_mundo)
+
+      Como en un juego de niños. El diseño constituye mi primer recuerdo, mi primer juego, y también el más reciente. Es algo que va en las venas. Desde pequeño, siempre he sido muy inquieto, curioso y creativo. Mi afición por inventar objetos y plasmarlos en dibujos y maquetas ha sido mi preferida, hasta que descubrí que podía vivir de ella, haciendo Diseño, mi carrera Prueba y error. La experimentación es la base de mi experiencia. Los diseñadores no somos especialistas en el sentido estricto de la palabra. Somos “todistas”. Nuestra curiosidad no se sacia nunca y siempre tenemos ánimos para abrir campo a una experiencia nueva. Supongo que como a todos mis compañeros de profesión, las múltiples y variadas disciplinas que he aprendido y practicado al margen del trabajo han sido las que me han ayudado a progresar, puesto que enriquecen la visión y la comprensión de mi entorno, casi siempre pluridisciplinar y complejo. Y de todas ellas, la principal ha sido siempre el contacto con la gente, la discusión, el diálogo, la observación y en definitiva, el contacto con las personas que me rodean. Vuelvo a casa. Más de 5 años fuera de Galicia dan para mucho. A mí me han bastado para aprender una nueva profesión cercana al diseño, la de Visual Merchandiser, y para trabajar para los más grandes, para los más exigentes. Los años también han dado para ver con perspectiva el Diseño Industrial que me ha visto nacer como profesional, y para desear volver a esos orígenes. A querer coger el lápiz y el cuaderno de nuevo, para salir a los bares a hablar y dibujar. A eso ando ahora. Nada de momento en el horizonte. Pero volver a casa con los tiempos que corren da ganas de tomar la iniciativa. Espero poder anunciaros en breve del nacimiento de una nueva empresa de diseño gallego. Os mantendré informados.
+
+      [Andrés Campuzano Afonso](http://www.coroflot.com/acampuzano)
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7aa338930-andres-afonso.jpg
+    text: ''
+    type: image
+intro: |-
+  [Hello World!](http://es.wikipedia.org/wiki/Hola_mundo)
+
+  Como en un juego de niños. El diseño constituye mi primer recuerdo, mi primer juego, y también el más reciente. Es algo que va en las venas. Desde pequeño, siempre he sido muy inquieto, curioso y creativo. Mi afición por inventar objetos y plasmarlos en dibujos y maquetas ha sido mi preferida, hasta que descubrí que podía vivir de ella, haciendo Diseño, mi carrera Prueba y error.
+slug: tenemos-nuevo-socio-en-la-dag
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2013-04-19T17:49:51+00:00

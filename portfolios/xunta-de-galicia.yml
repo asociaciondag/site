@@ -1,0 +1,20 @@
+id: 343
+title: 'Xunta de Galicia'
+slug: xunta-de-galicia
+body:
+  -
+    image: /portfolios/images/xunta-de-galicia.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//xunta-de-galicia.jpg
+tags:
+  - 'Identidade corporativa'
+  - Tipografía
+members_id:
+  - 6
+  - 29
+lang:
+  - gl
+  - es
+info: []
+draft: false

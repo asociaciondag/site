@@ -1,0 +1,49 @@
+id: 67
+title: 'Revista R'
+slug: revista-r
+body:
+  -
+    text: |-
+      R, o operador de teléfono, televisión e internet galego, acaba de crear a versión en liña da súa revista para os seus aboados. A revista R que na súa versión en liña ofrece reportaxes, entrevistas, axenda de actividades culturais e demais contidos, mantén a imaxe de marca de R, coa súa tipografía R Gerstner como elemento principal (versión da tipografía de Karl Gestner rescatada do movemento moderno).
+
+      [http://www.revista.mundo-r.com](http://www.revista.mundo-r.com/)
+    type: text
+  -
+    image: /portfolios/images/558595277b480-16.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/558595277b9ee-24.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/558595277be70-34.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/558595277c2b5-43.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/558595277ae0a-16.jpg
+tags:
+  - Web
+members_id:
+  - 14
+  - 32
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - 'De dominio público'
+  -
+    - Cliente
+    - R
+  -
+    - Ano
+    - '2009'
+  -
+    - Programación
+    - Isenda
+draft: false

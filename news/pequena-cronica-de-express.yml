@@ -1,0 +1,46 @@
+id: 887
+title: 'Pequeña crónica de EXPRESS'
+body:
+  -
+    list: after
+    image: /news/images/imaxe-noticia.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      [EXPRESS](https://dag.gal/gl/express/) empezó con un taller de _letterpress_ impartido por el colectivo [Manchea](https://manchea.wordpress.com/) y que tuvo una espectacular acogida, pues las plazas para participar en él se cubrieron todas ya el mismo día del lanzamiento de la convocatoria.
+
+      **Laura Sánchez** y **Tono Galán** explicaron el proceso de trabajo con máquinas de impresión en tipos móviles y mostraron el funcionamiento de la Minerva y de la Adana. Trajeron materiales suficientes para trabajar, varias tipografías de madera y de plomo, y enseguida hubo resultados. Los trabajos se expusieron en la propia aula y durante el posterior se pudo charlar en profundidad con los protagonistas.
+
+      Tras una pausa para el almuerzo, las actividades continuaron por la tarde con la proyección del documental sobre la imprenta tradicional en Argentina [_Los Últimos_](https://vimeo.com/290326474), dirigido por **Pablo Pivetta** y **Nicolás Rodríguez Fuchs**, durante la que contamos con la presencia del primero de ellos. El director explicó que el proceso de realización de la película había sido largo, 6 anos entre el nacimiento de la idea y la finalización de la cinta. En ella se muestra la situación de las viejas imprentas en vías de extinción que subsistían haciendo trabajos para clientes (en Buenos Aires era muy habitual imprimir afiches para anunciar eventos, conciertos, fiestas, etc.) que precisaban tiradas pequeñas; y competían en precio frente a la impresión _offset._
+
+      Además de esta realidad que se desvanece, en la película se recoge también una nueva: la de los diseñadores jóvenes y pequenas editoras que deciden apostar por la impresión artesanal, recuperando máquinas antiguas y comprando material a esas imprentas de siempre que ya no pueden seguir adelante. Ambos mundos conviven en el documental y se disputan el título de los “últimos”, tal y como explica en algún momento uno de los protagonistas de la cinta.
+
+      La música del documental fue motivo de pregunta por parte de alguno de los asistentes. El director contó que estaba inspirada en el ruido de las propias máquinas y también en la cumbia que se escucha habitualmente en esos lugares. La pieza principal es del artista _Remolón_, compositor de música electrónica, con un estilo muy personal, con el que trabajaron para armonizar lo que se cuenta en la película.
+
+      Después de la proyección, tuvo lugar un pequeño coloquio sobre la situación actual de la imprenta tradicional moderado por [Cibrán Rico](http://www.desescribir.com/), en el que participaron **Pablo Pivetta**, **Laura Sánchez** y **Tono Galán** de [Manchea](https://manchea.wordpress.com/), y **Juanjo López**, de la [Familia Plómez](http://www.familiaplomez.com/). Cada uno fue dando su punto de vista acerca del tema.
+
+      **Cibrán Rico** defendió, desde su experiencia personal de trabajo, que conocer en profundidad el proceso de arte final siempre es beneficioso y permite que el diseñador pueda intervenir en él.
+
+      Para **Pablo Pivetta,** el interés personal por ese mundo le llevó a poner en marcha esta película junto a su compañero; adoptando la posición de un espectador o de alguien que piensa en el mejor modo posible de contar una historia. De hecho, ahora está inmerso en otro proyecto audiovisual.
+
+      [Juanjo López](http://www.juanjez.com/) explicó que para él es una pasión, algo que hace por gusto personal. La [Familia Plómez](http://www.familiaplomez.com/) nació como un proyecto de amigos que compartían ese interés por el _letterpress._ Tener un taller para él es casi un hobby, en el sentido de que hace solo lo que le gusta. Es un lugar para divertirse y para satisfacer esa parte de coleccionista que todas las personas que pertenecen a este mundo tienen, siempre a la búsqueda y rescate de materiales de entre la chatarra o en las imprentas que van a cerrar. En su opinión, no se trata de una moda, porque son un círculo muy reducido. Lo ve más como una especie de mafia internacional, unas pocas personas en distintos puntos del mundo que comparten afición.
+
+      **Laura Sánchez** e **Tono Galán** contaron que aspiran a poder vivir desta pasión. Los talleres de [Manchea](https://manchea.wordpress.com/) son una forma de conseguirlo, porque con la impresión es más difícil, aunque ya han impreso un libro de poesía en el taller. Ante la pregunta de Cibrán de si habían tenido la suerte, como sucede en el documental con el editor joven, de tener un cicerone que compartiese con ellos los secretos del oficio, su respuesta es que en su caso el 90% es resultado de la experimentación personal. Sí han tenido oportunidad de hablar con cajistas o impresores, pero la mayoría lo han aprendieron por su cuenta, con el método de prueba y error. Reconocen que es uno de los hándicaps de este mundo, y que también se refleja en el film, donde se ve como los nuevos usuarios de estas máquinas deben aprender a manejarlas, e incluso a arreglarlas, porque ya no quedan especialistas a los que recurrir.
+
+      Tras escuchar a los protagonistas e intercambiar algunas cuestiones con el público asistente, invitamos a todos los participantes a un pequeño convite en el aula de trabajo, patrocinado por cervezas 1906 y Coren, donde pudimos hablar más distendidamente, compartiendo opiniones e intereses sobre la impresión tradicional.
+    type: text
+  -
+    list: ''
+    info:
+      code: '<a data-flickr-embed="true" href="https://www.flickr.com/photos/asociaciondag/sets/72157706866350411" title="Xornada Letterpress by Asociación DAG, on Flickr"><img src="https://live.staticflickr.com/65535/33874922438_67698583c7_b.jpg" width="1024" height="683" alt="IMG_9607"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'
+      ratio: ''
+    type: embed
+intro: 'El pasado 26 de abril se celebró en el espacio de intervención cultural de la Universidad de A Coruña, NORMAL, la jornada sobre impresión tradicional organizada por la DAG.'
+slug: pequena-cronica-de-express
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2019-05-02T11:49:33+00:00

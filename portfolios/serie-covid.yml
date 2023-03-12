@@ -1,0 +1,50 @@
+id: 362
+title: 'SERIE COVID'
+slug: serie-covid
+body:
+  -
+    text: |-
+      Esta serie ha nacido a raíz de la pandemia COVID.
+
+      Supongo que a todos este momento nos ha marcado. A mí por lo menos sí.
+
+      Es un trabajo traído de muchos sentimientos y sensaciones. En ella plasmo, por un lado, algunas obras más oscuras en las que el confinamiento no dejaba claro que pasaba ni qué pasaría.
+
+      Y hay otras obras POST CONFINAMIENTO, que representan la libertad de volver a respirar, a compartir, a soñar, a volar, a sentir el viento, el mar.. a dar un salto a algo nuevo o anterior, pero un salto.
+
+      Espero que esta obra os haga sentir tanto como he sentido yo :)
+
+      Obra a la venta en [galería Monty4](https://latienda.monty4.com/collections/begona-pastoriza).
+    type: text
+  -
+    image: /portfolios/images/covid-confinamiento1-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/covid-confinamiento2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/covid-explosion.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/covid-luna-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/postcovid-matildamoisant-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/postcovid-salto.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//covid-explosion.jpg
+tags:
+  - Gráfico
+members_id:
+  - 80
+lang: es
+info: []
+draft: false

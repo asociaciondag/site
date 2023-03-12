@@ -1,0 +1,47 @@
+id: 877
+title: 'Llamadas a proyecto para profesionales del diseño'
+body:
+  -
+    list: before
+    image: /news/images/fromspainwithdesign-nova.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      From Spain with Design, FSWD, es un proyecto impulsado por [READ](http://www.designread.es/) con el apoyo económico del Ministerio de Educación, Cultura y Deporte del Gobierno de España, que pretende visibilizar al diseño español, propiciando su comunicación a nivel nacional e internacional. También busca crear sinergias dentro del colectivo profesional e impulsar la creatividad y el diseño como ejes de prosperidad, contibuyendo a la visibilidad de la “Marca España”.
+
+      FSWD quiere mostrar las capacidades de los deseñadores y deseñadoras y los estudios en los que están integrados dentro de los ámbitos del diseño de producto, diseño gráfico y comunicación visual, interiorismo y espacios, y diseño de servicios. El colectivo empresarial estará representado con las empresas productoras y editoras vinculadas a esos mismos ámbitos.
+
+      El proxecto quiere ser una plataforma que recoja toda la información generada para mostrarla de formas variadas: soporte online, documental interactivo y proyecto expositivo _responsive_.
+
+      Se creará un Comité de Selección que evaluará los proyectos, diseñadores y empresas propuestos por las diferentes asociaciones y que pasarán el filtro del Grupo de Trabajo FSWD.
+
+      **Servicios contratados en estas llamadas a proyecto**  
+       El año pasado se hizo la lamada a proyecto para crear la identidad gráfica y el sitio web de FSWD. El GT FSWD lanza ahora las llamadas a proyecto de los soportes que faltan:
+
+      1\) Llamada a proyecto para el Documental Interactivo FSWD – 1ª Fase  
+       2) LLamada a proyecto para el Anteproyecto Expositivo FSWD
+
+      El plazo límite de envío de candidaturas es el 22 de marzo de 2019, a las 18:00 h.  
+       Esta convocatoria es aberta y no exclusiva para socios y socias de las asociaciones de READ.
+
+      Consulta las convocatorias completa en estos documentos.
+    type: text
+  -
+    list: ''
+    file: /news/files/llamada-a-proyecto-fswd-documental.pdf
+    text: 'Llamada a proxecto para documental'
+    type: file
+  -
+    list: ''
+    file: /news/files/llamada-a-proyecto-fswd-anteproyecto-expositivo.pdf
+    text: 'Llamada a proyecto para anteproyecto expositivo'
+    type: file
+intro: 'Un anteproyecto expositivo y un documental interactivo son dos de las tres partes de que consta el proyecto From Desing with Design, que pretende visibilizar de forma internacional al diseño español.'
+slug: llamadas-a-proyecto-para-profesionales-del-diseno
+tags:
+  - concursos
+lang: es
+draft: false
+date: 2019-03-20T12:22:25+00:00

@@ -1,0 +1,33 @@
+id: 145
+title: 'Leive Reliquia'
+slug: leive-reliquia
+body:
+  -
+    text: 'Reliquia es un vino blanco del Ribeiro envejecido en barrica de roble gallego. Tiene una producción muy limitada y se presenta como una reliquia.'
+    type: text
+  -
+    image: /portfolios/images/555cf38d165c9-dag004-reliquia001.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cf38d168f1-dag004-reliquia002.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55855d9998edf-555cf38d168f1-dag004-reliquia002.jpg
+tags:
+  - Embalaxe
+members_id:
+  - 2
+  - 16
+lang: es
+info:
+  -
+    - Estudio
+    - Desoños
+  -
+    - Cliente
+    - 'Bodegas Aurea Lux'
+  -
+    - Año
+    - '2012'
+draft: false

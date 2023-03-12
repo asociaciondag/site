@@ -1,0 +1,33 @@
+id: 58
+contact: |-
+  T. 620 942 777
+
+  <carlos@elrojo.eu>
+links:
+  -
+    text: Coma
+    url: 'http://www.coma.gal/'
+    type: link
+  -
+    text: elrojo
+    url: 'http://www.elrojo.eu/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/carloselrojo/'
+    type: linkedin
+bio_gl: null
+bio_es: null
+name: 'Carlos el Rojo'
+job_gl: 'Deseñador gráfico'
+job_es: 'Diseñador gráfico'
+slug: carlos-lorenzo
+avatar: /members/avatares//foto-presentacion-carlos-el-rojo.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - Web
+  - 'Identidade corporativa'
+  - Audiovisual
+  - Editorial
+draft: false

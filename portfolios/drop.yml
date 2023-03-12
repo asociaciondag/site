@@ -1,0 +1,40 @@
+id: 230
+title: DROP
+slug: drop
+body:
+  -
+    image: /portfolios/images/drop-v1-presentation-203.jpg
+    text: ''
+    type: image
+  -
+    text: |-
+      Drop é un floreiro que representa o olor de dúas maneiras, coas flores e o ambientador, a través de auga. Consta de tres partes, unha para pór o ambientador, que precisa de auga para dar olor, outra para un difusor, e a parte superior para as plantas.
+
+      A parte positiva desta peza é que, ao estar composta de tres partes, se pode cambiar con diferentes cores e deseños, para fomentar a personalización.
+    type: text
+  -
+    image: /portfolios/images/drop-v1-presentation.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/drop-v1-allv2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/exploded-view-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/drop-v1-presentation-203.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//drop-v1-presentation-203.jpg
+tags:
+  - Produto
+members_id:
+  - 64
+lang:
+  - gl
+  - es
+info: []
+draft: false

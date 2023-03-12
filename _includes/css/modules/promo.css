@@ -1,0 +1,32 @@
+/**
+ * promo.css
+ *
+ * INFORMACION
+ * Estilos para a promo.
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+.promo {
+	margin-top: -60px;
+
+	& .page-header {
+		transition: all 0.5s;
+
+		&:not(.is-sticky) {
+			color: inherit;
+			background: none;
+		}
+	}
+}

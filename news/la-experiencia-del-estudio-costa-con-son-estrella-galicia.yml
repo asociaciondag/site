@@ -1,0 +1,26 @@
+id: 936
+title: 'La experiencia del Estudio Costa con SON Estrella Galicia'
+body:
+  -
+    list: after
+    image: /news/images/xornada-costa.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Se trata de una actividad abierta a todas las personas interesadas hasta completar el aforo.
+
+      Día: vienres, 22 de noviembre
+
+      Hora: 11.00 h
+
+      Lugar: Salón de Actos da [EASD Pablo Picasso](http://www.eapicasso.com/) (calle Pelamios, 2, 15001, A Coruña)
+    type: text
+intro: 'Este 22 de noviembre Dani Bembibre y David Silvosa, del estudio coruñés Costa, estarán en la EASD Pablo Picasso para hablar de la traxectoria de SON Estrella Galicia, una marca independiente de música independiente que ayudaron a crear y a desarrollar a lo largo de los diez años de vida del proyecto.'
+slug: la-experiencia-del-estudio-costa-con-son-estrella-galicia
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2019-11-19T17:08:52+00:00

@@ -1,0 +1,34 @@
+id: 1032
+title: 'Novas datas para os Premios Paraugas 2020'
+body:
+  -
+    list: after
+    image: /news/images/premiosparaugas.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      A situación sanitaria e as restricións impostas nos eventos sociais fixo imposible a celebración da entrega dos Premios Paraugas o pasado 20 de novembro, data prevista inicialmente. A organización decidiu adiar o evento, marcando como nova data o 12 de febreiro de 2021. O obxectivo principal deste aprazamento é conservar unha parte esencial da filosofía dos premios: servir de plataforma para a difusión do talento dos nosos e das nosas profesionais e como punto de encontro do sector.
+
+      O aprazamento na entrega de premios ven tamén acompañado dunha nova convocatoria para a recepción de proxectos. Todas as empresas e profesionais que queiran presentar as súas candidaturas teñen de prazo ata mediados de decembro. Coa intención de facilitar o proceso de inscrición, as candidaturas que xa fosen presentadas na convocatoria anterior poderán ser modificadas ou substituídas.
+
+      Os Premios Paraugas recoñecen o traballo profesional feito en Galicia nos campos da creatividade, a edición, a impresión, o márketing, a comunicación e o deseño. Esta última categoría, patrocinada pola Axencia Galega de Innovación, inclúe 3 premios: Premio Paraugas ao Mellor Deseño Gráfico, Premio Paraugas ao Mellor Deseño Industrial ou de Produto e Premio Paraugas ao Mellor Deseño Dixital.
+
+      Debido á delicada situación económica derivada da crise sanitaria actual o prezo de inscrición conta este ano cun desconto do 25% nos dous primeiros proxectos presentados. A terceira inscrición e as seguintes serán de balde.
+
+      O xurado na categoría de deseño estará formado polos gañadores da pasada edición: Isaac Piñeiro, deseñador de produto e fundador de Isaac Piñeiro DesignStudio; o noso socio [Roberto Núñez](https://dag.gal/gl/roberto-nunez/), responsable de estratexia e dirección creativa en Roberto Núñez Studio; e Daniel Camino, deseñador gráfico en Tony Le Brand.
+
+      Todos os detalles sobre esta nova edición dos Premios Paraugas están dispoñibles [na súa web](http://premios.clustercomunicacion.gal), dende onde tamén se pode facer a inscrición de proxectos.
+    type: text
+  -
+    list: ''
+    url: 'http://premios.clustercomunicacion.gal/wp-content/uploads/2020/10/NOVAS-bases-V-Premios-Paraugas.pdf'
+    text: 'Bases dos Premios Paraugas'
+    type: button
+intro: 'O Cluster da Comunicación Gráfica de Galicia anuncia un novo prazo de presentación de candidaturas para os V Premios Paraugas. As empresas e profesionais interesados en inscribir os seus proxectos poderán facelo ata o próximo 15 de decembro.'
+slug: novas-datas-premios-paraugas-2020
+tags: []
+lang: gl
+draft: false
+date: 2020-11-21T18:51:42+00:00

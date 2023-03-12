@@ -1,0 +1,30 @@
+id: 817
+title: 'Los Premios Anuaria cumplen 25 años'
+body:
+  -
+    list: after
+    image: /news/images/imaxe-anuaria-2018.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Con esta se cumplen 25 ediciones mostrando lo mejor del diseño gráfico en España y están preparando el aniversario para celebralo como se merece con todos vosotros. De los detalles de la efeméride informarán en el momento oportuno.
+
+      En esta ocasión hay más novedades porque incorporan por primera vez una sección especial para valorar el diseño industrial con 8 categorías. La convocatoria estará abierta desde el 1 de julio hasta el 30 de septiembre, con un plazo extra del 1 al 15 de octubre.
+
+      Todos los socios de la DAG tienen un 15% de descuento por participar en esta convocatoria.
+
+      La votación por parte del jurado se realizará durante el mes de noviembre y a finales de ese mismo mes se anunciará el veredicto con los ganadores de los Anuaria. En diciembre tendrá lugar en Barcelona la gala y ceremonia de entrega. Las fechas y el lugar se anunciarán más adelante.
+    type: text
+  -
+    list: ''
+    url: 'https://www.veredictas.com/index.php?md=butlleti&accio=vista_previa&id=123&codi_seguretat=bee7d65a6efd060a1a0b4e759d7e818b'
+    text: 'Inscripción en los Anuaria 2018'
+    type: button
+intro: 'Este mes ha tenido lugar la presentación de una nueva edición de los Anuaria 2018, los Premios Nacionales de Diseño Gráfico e Industrial.'
+slug: los-premios-anuaria-cumplen-25-anos
+tags: []
+lang: es
+draft: false
+date: 2018-07-18T12:52:05+00:00

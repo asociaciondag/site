@@ -1,0 +1,30 @@
+id: 72
+contact: '<carlos@numax.org>'
+links:
+  -
+    text: Web
+    url: 'http://laboratorio.numax.org'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/laboratorionumax/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/laboratorio_numax/'
+    type: link
+bio_gl: 'Formouse en Xornalismo. Ata fundar a cooperativa Numax traballou en [uqui.net](http://uqui.net). Especializado en comunicación visual, desenvolve proxectos de deseño gráfico e web.'
+bio_es: 'Se formó en Periodismo. Hasta fundar la cooperativa Numax trabajó en [uqui.net](http://uqui.net). Especializado en comunicación visual, desarrolla proyectos de diseño gráfico y web.'
+name: 'Carlos Hidalgo'
+job_gl: 'Deseñador gráfico en Laboratorio Numax'
+job_es: 'Diseñador gráfico en Laboratorio Numax'
+slug: carlos-hidalgo
+avatar: /members/avatares//carlos-avatar.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - Editorial
+  - 'Identidade corporativa'
+  - Web
+  - Audiovisual
+draft: false

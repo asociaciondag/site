@@ -1,0 +1,38 @@
+id: 71
+contact: '<arturgalocha@gmail.com>'
+links:
+  -
+    text: Web
+    url: 'http://arturgalocha.com'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/arturgalocha'
+    type: twitter
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/arturgalocha'
+    type: link
+bio_gl: |-
+  Nacín en Lugo en 1983, aínda que me criei en Santiago.
+
+  Estudei xornalismo na Complutense de Madrid e traballei dende o 2005 como infografista en elmundo.es, _El Correo Gallego_, _El Mundo_, _Público_ e _Corriere dello Sport_. No 2012 fundei a revista _Líbero_, da que sigo sendo director de arte. Dende entón fun director de arte das revistas Cambio16, Tentaciones e Retina, e colaborei con _Libros del KO_, _El País Semanal_, _Babelia_, _The Washington Post_, _Editorial Planeta_, _Mongolia_…
+
+  Fun profesor no IED de Madrid, no IE de Valladolid e na Mr. Marcel School. Agora son infografista en _El País_.
+bio_es: |-
+  Nací en Lugo en 1983, aunque me crié en Santiago.
+
+  Estudié periodismo en la Complutense de Madrid y trabajé desde el 2005 como infografista en elmundo.es, _El Correo Gallego_, _El Mundo_, _Público_ y _Corriere dello Sport_. En el 2012 fundé la revista Líbero, de la que sigo siendo director de arte. Desde entonces fui director de arte de las revistas Cambio16, Tentaciones y Retina, y colaboré con _Libros del KO_, _El País Semanal_, _Babelia_, _The Washington Post_, _Editorial Planeta_, _Mongolia_…
+
+  Fui profesor en el IED de Madrid, en el IE de Valladolid y en la Mr. Marcel School. Ahora soy infografista en _El País_.
+name: 'Artur Galocha'
+job_gl: 'Director de arte e infografista'
+job_es: 'Director de arte e infografista'
+slug: artur-galocha
+avatar: /members/avatares//artur-galocha.png
+avatarBig: null
+tags:
+  - Infografía
+  - Editorial
+  - Gráfico
+draft: false

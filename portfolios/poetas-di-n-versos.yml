@@ -1,0 +1,50 @@
+id: 57
+title: 'Poetas Di(n)versos'
+slug: poetas-di-n-versos
+body:
+  -
+    text: 'Serie de carteis coa programación trimestral dun ciclo de recitais poéticos e gráfica aplicada no escenario.'
+    type: text
+  -
+    image: /portfolios/images/55859c35018ea-cartazpoesia-01.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859c3501f21-cartazpoesia-02.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859c350248b-poesia-p1070907.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859c3502cb0-poesia-p1070917.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859c3503480-poesia-p1070922.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859c3503a85-poesia-p1070926.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859c35010ed-poesia-p1070922.jpg
+tags:
+  - Gráfico
+members_id:
+  - 5
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - 'Grupo Revisión Deseño'
+  -
+    - Cliente
+    - 'Concellaría de Cultura do Concello da Coruña'
+  -
+    - Ano
+    - '2010 / 2011'
+draft: false

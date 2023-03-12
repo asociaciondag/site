@@ -1,0 +1,47 @@
+id: 292
+title: Black-Hog
+slug: black-hog
+body:
+  -
+    text: 'Identidad corporativa e ilustraciones para _startup_ alemana para la promoción de un controlador de videojuegos orientados a simuladores de vuelo.'
+    type: text
+  -
+    image: /portfolios/images/fondo-newsletter-2-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/fondo-newsletter-3-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/fondo-newsletter-1-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/soldado.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/controlador-videojuegos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/blackhog-logo.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/tshirs.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//blackhog-logo-portada.jpg
+tags:
+  - 'Identidade corporativa'
+  - Gráfico
+members_id:
+  - 69
+lang: es
+info:
+  -
+    - Cliente
+    - Black-Hog
+draft: false

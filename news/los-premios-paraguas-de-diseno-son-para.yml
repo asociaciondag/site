@@ -1,0 +1,35 @@
+id: 950
+title: 'Los Premios Paraguas de Diseño son para...'
+body:
+  -
+    list: after
+    image: /news/images/finalistas-paraugas-2019.png
+    text: '_Totan, Perfeccionista, Resistencia_'
+    mode: normal
+    type: image
+  -
+    text: |-
+      Un año más, el diseño gallego sigue mostrando su músculo. De entre las 77 candidaturas a los _Premios Paraguas_ en las categorías de Diseño, patrocinados por [GAIN](http://gain.xunta.gal/), _Axencia Galega de Innovación_, los ganadores han sido los seguintes:
+
+      — Premio Paraguas al mejor Diseño Industrial  
+       _Totan_, de [Isaac Piñeiro](https://isaacpineiro.com/); por la profesionalidad de la propuesta, la dificultad del encargo y la capacidad de ordenar forma y función teniendo en cuenta las limitaciones presupuestarias y los criterios de sostenibilidad en el empleo de materiales.
+
+      — Premio Paraguas al mejor Diseño Gráfico  
+       _Perfeccionista_, de [Roberto Núñez](https://robertonunez.com/) (DAG); por su calidad gráfica, impacto visual, solidez técnica y por el empleo del lenguaje visual como una herramienta que busca una mejora competitiva en el mercado de los vinos.
+
+      — Premio Paraguas al mejor Diseño Digital  
+       _Resistencia desde 1906_, de [Tony Le Brand](http://www.lebrand.es/) (DAG); por la consistencia y coherencia en las aplicaciones digitales que aportan valor añadido a las campañas para las que han sido creadas.
+
+      Tony Le Brand obtuvo, además, el Premio a la mejor Creatividad Gráfica por _Resistencia desde 1906 - 0,0_; y mejor Creatividad Audiovisual por _Fábrica de cervezas – Percebes – Segunda Edición_.
+
+      En esta edición el jurado estuvo compuesto por una representación 100% DAG: Ricardo Tubío, de [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/); Noelia Estévez, de [Desoños](https://www.desonhos.gal/); y Suso Vázquez, de [Desescribir](http://www.desescribir.com/).
+
+      Durante la gala también se entregó el _Premio Paraugas Honorífico_ a Cruz Novillo, homenaje que recogió su hijo y socio en [Cruz Más Cruz](https://www.cruznovillo.com/), para reconocer la figura de un profesional conocido por su obra aunque muy desconocido por la sociedad, después de muchos años trabajando en silencio para diseñar España.
+    type: text
+intro: 'Los Premios de Comunicación y Marketing de Galicia (_Premios Paraguas_) nacieron en 2016 para poner en valor el trabajo de las empresas y los creativos y creativas de Galicia. La gala de entrega de la cuarta edición se celebró el pasado 29 de noviembre en Expourense.'
+slug: los-premios-paraguas-de-diseno-son-para
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2019-12-13T14:43:45+00:00

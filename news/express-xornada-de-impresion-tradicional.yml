@@ -1,0 +1,34 @@
+id: 882
+title: 'EXPRESS, xornada de impresión tradicional'
+body:
+  -
+    list: after
+    image: /news/images/pic-endlessletterpress3credit-nicolas-rodriguez-fuchs.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      A xornada, que leva por título EXPRESS, terá lugar o próximo 26 de abril no [NORMAL](http://istoenormal.org/gl/), Espazo de intervención cultural da Coruña e desenvolverase ao longo de todo o día.
+
+      O programa completo de actividades inclúe:
+
+      - Unha sesión de mañá en que o **Colectivo Manchea** impartirá un obradoiro de Letterpress.
+      - Unha sesión de tarde durante a que se proxectará o filme [Los últimos](https://vimeo.com/78072085) de **Pablo Pivetta** e **Nicolás Rodríguez Fuchs**, seguido dun coloquio sobre a imprenta tradicional hoxe. No debate intervirán o realizador do filme, **Pablo Pivetta**, **Tono Galán** e **Laura Sánchez** (Manchea), **Juanjo López** ([Familia Plómez](http://www.familiaplomez.com/) e [UnosTiposDuros](https://www.unostiposduros.com/)), e estará moderado **Cibrán Rico** ([desescribir](http://www.desescribir.com/)).
+       
+      A xornada rematará cunha pequena mostra dos traballos creados durante o obradoiro da mañá e cunha conversa informal acompañada dunha boa cervexa fornecida por 1906 e do estupendo xamón Selecta Coren.
+
+      Todas as actividades son de balde ata completar a capacidade no local. No caso do obradoiro, como só dispón de 15 prazas, cómpre que vos inscribades con antelación, mais podedes facelo a través da web de [EXPRESS](https://dag.gal/gl/express/). Entrade nela para consultar toda a información e para as inscricións.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/express/'
+    text: EXPRESS
+    type: button
+intro: 'A DAG, Asociación Galega de Deseño, en colaboración con NORMAL, organiza unha xornada para achegarse á impresión con tipos móbiles na era dixital e coñecer como os pequenos obradoiros que usan as técnicas tradicionais entenden o proceso e afrontan a impresión desde novas perspectivas.'
+slug: express-xornada-de-impresion-tradicional
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2019-04-05T11:22:09+00:00

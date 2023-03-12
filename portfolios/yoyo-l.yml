@@ -1,0 +1,21 @@
+id: 393
+title: 'Yoyó L'
+slug: yoyo-l
+body:
+  -
+    image: /portfolios/images/yoyo.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//yoyo.jpg
+tags:
+  - Industrial
+  - Produto
+  - Mobiliario
+  - Iluminación
+members_id:
+  - 96
+lang:
+  - gl
+  - es
+info: []
+draft: false

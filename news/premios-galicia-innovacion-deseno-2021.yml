@@ -1,0 +1,31 @@
+id: 1084
+title: 'Premios Galicia de Innovación e Deseño 2021'
+body:
+  -
+    list: before
+    image: /news/images/premiosinnodese2021.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Os premios buscan de novo recoñecer o traballo de profesionais e empresas que contribúen á mellora do sector do deseño en Galicia e, tamén, o labor de persoas e empresas galegas que apostan claramente pola innovación na súa estratexia empresarial. Divídense en dúas grandes categorías, Innovación e Deseño, contando con cadanseu xurado profesional. Dentro da sección Innovación, recoñécense a persoas e empresas con traxectorias e prácticas innovadoras en tres categorías diferentes: traxectoria innovadora, pequena e mediana empresa e gran empresa (premio honorífico). Na sección Deseño, recoñécese a persoas e empresas que mellor representen a contibución do deseño galego á innovación en tres categorías distintas: profesionais, deseñadores/as mozos/as e empresa (premio honorífico). Salvo os premios honoríficos, o resto teñen unha dotación individual de 15.000€.
+
+      As candidaturas deberán ser presentadas por medios electrónicos a través do formulario normalizado na [sede electrónica da Xunta de Galicia](https://sede.xunta.gal/portada). As persoas e empresas interesadas en presentar a súa proposta teñen de prazo ata o día 13 de outubro de 2021.
+    type: text
+  -
+    list: ''
+    url: 'http://gain.xunta.gal/artigos/437/premios+galicia+innovacion+deseno+2021'
+    text: 'Web dos premios'
+    type: button
+  -
+    list: ''
+    url: 'https://www.xunta.gal/dog/Publicados/2021/20210713/AnuncioG0198-020721-0006_gl.html'
+    text: 'Bases dos premios'
+    type: button
+intro: 'A segunda edición dos Premios Galicia de Innovación e Deseño convocados pola Xunta de Galicia a través da Axencia Galega de Innovación, englóbanse dentro do marco do Programa Diferenza 2024.'
+slug: premios-galicia-innovacion-deseno-2021
+tags: []
+lang: gl
+draft: false
+date: 2021-09-03T17:56:05+00:00

@@ -1,0 +1,32 @@
+id: 87
+contact: |-
+  T. 686 993 084
+
+  <angel@angelcorral.com>
+links:
+  -
+    text: Web
+    url: 'https://www.angelcorral.com/'
+    type: link
+  -
+    text: Behance
+    url: 'https://www.behance.net/angelcorral'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/elnhote'
+    type: link
+bio_gl: null
+bio_es: null
+name: 'Ángel Corral'
+job_gl: 'Deseñador gráfico e dirección de arte'
+job_es: 'Diseñador gráfico y dirección de arte'
+slug: angel-corral
+avatar: /members/avatares//foto-lnk.jpg
+avatarBig: null
+tags:
+  - Editorial
+  - Embalaxe
+  - Tipografía
+  - 'Identidade corporativa'
+draft: false

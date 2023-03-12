@@ -1,0 +1,39 @@
+id: 920
+title: 'Diseño gallego en el Selected 2019 de Bilbao'
+body:
+  -
+    list: after
+    image: /news/images/selected-2019.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      El sábado 16, a las 16 horas, nuestros compañeros de Cenlitrosmetrocadrado, ofrecerán una conferencia sobre el trabajo desarrollado en los últimos años en el estudio. Su presencia viene a iniciar un línea de “diseño atlántico - diseño gallego” en la que la organización del Selected quiere profundizar y afianzar en los próximos eventos.
+
+      Los asistentes tendrán la oportunidad de conocer además el trabajo de profesionales como Medusa Tatto, Elektrart, Weiartefloral, Raquel Cascales, Narita Estudio, Errea Comunicación, Mashcreaive, DsType o Cruz más Cruz, entre otros.
+
+      Todas las conferencias, mesas redondas y actividades del evento se desarrollan en el Palacio Euskalduna. En su finalización tendrá lugar el acto de entrega de los premios Stone and Wood de diseño de la ciudad de Bilbao que reconocen el talento y la creatividad de profesionales y nuevos talentos.
+
+      Los asistentes al Selected 2019 pueden votar esos dos días los mejores trabajos expuestos donde, de nuevo, nuestros compañeros Cenlitrosmetrocadrado tienen una selección. Todos los proyectos seleccionados este año 2019 bajo el criterio de un jurado profesional, serán los protagonistas de la publicación que edita la organización desde la primeira edición de 2016.
+
+      Todas las entradas del evento incluyen un pack de bienvenida y un ejemplar del _Selected the book._ Los asociados y asociadas de la DAG tienen un descuento especial para acudir a este evento. Si estás interesado o interesada, ponte en contacto con nosotros para gestionarlo: info@dag.gal.
+
+      El Selected 2019 se integra en la Bilbao Bizcaia Design Week, por lo que puede agrandarse la oportunidad de conocer muchas más propuestas y profesionales tanto nacionales como internacionales.
+
+      Programa completo del Selected 2019: <https://selectedinspiration.com/2019/programa>
+
+      Avance de programa de la Bilbao Bizcaia Design Week: [https://www.bilbaobizkaiadesignweek.eus/files/pre\_programa\_ES.pdf](https://www.bilbaobizkaiadesignweek.eus/files/pre_programa_ES.pdf)
+    type: text
+  -
+    list: ''
+    url: 'https://selectedinspiration.com/inicio'
+    text: Selected
+    type: button
+intro: 'Los días 15 y 16 de noviembre tendrá lugar en Bilbao el Selected 2019, un evento dedicado al diseño y la creatividad donde profesionales y empresas ofrecerán conferencias y charlas para un público multidisciplinar.'
+slug: diseno-gallego-en-el-selected-2019-de-bilbao
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2019-10-09T18:25:27+00:00

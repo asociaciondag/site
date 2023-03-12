@@ -1,0 +1,76 @@
+id: 848
+title: 'Y los premiados son...'
+body:
+  -
+    list: after
+    image: /news/images/desonos-1.jpeg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Entre todos los galardonados, como no podía ser de otro modo, tenemos que destacar la presencia de socios de la DAG en las distintas categorías, algunos de ellos premiados por segundo año consecutivo: [desoños](http://www.desonhos.gal/), [desescribir](http://www.desescribir.com/) y por tercero, en el caso del estudio [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/).
+
+      A seguir, reproducimos la nómina completa de los proyectos distinguidos con un premio:
+
+      ## Premio al mejor diseño digital: sitio web del restaurante Pepe Vieira
+
+      [Desoños](http://www.desonhos.gal/) ha sido el estudio encargado del diseño y de la maquetación tanto del sitio web como de las cartas del [restaurante de Pepe Vieira](https://pepevieira.com/). En palabras de los diseñadores, el punto de partida para desarrollar la web y las cartas del restaurante fue la cocina del propio Pepe, que es auténtica, racial y llena de significado. Va más allá de lo culinario y cuenta una historia con cada plato. Se trata de una experiencia única que permite descubrir Galicia y sus orígenes a través de su propuesta gastronómica creativa. Con su trabajo, simplemente han tratado de ser fieles y transmitir ese espíritu.
+    type: text
+  -
+    list: ''
+    image: /news/images/pepe-vieira-web-01.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## Premio al mejor diseño gráfico: identidad gráfica de la Fundación Arquitectura y Sociedad
+
+      En este caso, se trata de un trabajo de [desescribir](http://www.desescribir.com/). Los dos diseñadores [Suso Vázquez](https://dag.gal/gl/suso-vazquez-gomez/) y [Cibrán Rico](https://dag.gal/gl/cibran-rico-lopez/) explican que la [Fundación Arquitectura y Sociedad](https://arquitecturaysociedad.org/) es una entidad con sede en Pamplona y Madrid que tiene como objetivo principal la difusión de la cultura arquitectónica como un ámbito íntimamente ligado a la vida en sociedad. A día de hoy es una de las principales promotoras de debate y reflexión arquitectónica a nivel estatal e internacional. Su trabajo ha consistido en renovar su identidad gráfica y en proponer sistemas gráficos para las múltiples actividades que organizan en paralelo: talleres y workshops, Máster universitario, congresos internacionales, etc. Un detalle a salientar es que para esta identidad de la Fundación y los sistemas gráficos para las diferentes actividades que promueve, han empleado la tipografía Mais Grotesk de [Marcos Dopico](https://dag.gal/gl/marcos-dopico-castro/).
+    type: text
+  -
+    list: ''
+    image: /news/images/2-cartel-campus.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## Premio al mejor diseño industrial: Natur Hall, espacio expositivo para rechapados de madera natural
+
+      El diseño de este espacio ha sido realizado por [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/) para [Finsa](https://www.finsa.com/). [Ricardo Tubío](https://dag.gal/gl/ricardo-tubio-pazos/) y [Xabier Rilo](https://dag.gal/gl/xabier-rilo/) cuentan que la sección de rechapados con lámina de madera natural de Finsa se encuentra en la factoría de Padrón, la más antigua en funcionamiento. [Natur Hall](https://vimeo.com/277609863) nació como un espacio al servicio de la chapa de madera natural y del proceso de rechapado que tiene como finalidad conectar todos los agentes implicados para aproveichar así las posibles sinergias. Se ha construido aprovechando una estrutura metálica en desuso sobre la que se ha colgado un techo que a su vez sujeta el cierre de vidrio. El objetivo era crear una piel lo más ligera y neutra posible, que les permitiese acondicionar el espacio sin perder el contacto con lo que ocurre fuera.
+
+      Dentro, una gran mesa central aporta orden a la composición y sirve de soporte a todas las acciones que allí conviven. Esta mesa aprovecha un antiguo puente grúa como sistema de elevación, de forma que consigue de manera rápida y cómoda liberar todo el espacio.
+
+      En el perímetro se ha dispuesto una celosía de lamas verticales colgadas del techo que tienen una doble función: por un lado controlar la visión y la entrada de luz del exterior y por outro servir de soporte de exposición del propio producto.
+    type: text
+  -
+    list: ''
+    image: /news/images/cenlitrosmetrocadrado-naturhall.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## Premio al mejor libro: Drift Miradas cruzadas entre diseño y arte contemporáneo
+
+      La obra, con diseño de Cristina Moralejo ([DARDO](http://dardo.gal/dardo/)) e impresa por [Gráficas Anduriña](http://www.andurina.com/), se ha editado con motivo de la exposición homónima celebrada en el [Museo de Arte Contemporánea Naturgy](http://www.fundacionnaturgy.org/mac/) de A Coruña.
+
+      El ensayo está escrito por David Barro y trata sobre como el arte contemporáneo y el diseño habitan en un lugar común. La intención de la publicación es caminar por la historia del diseño al tiempo que exponer otras visiones de la historia del arte en función de la relación de ambas disciplinas en las que sus límites son cada vez más borrosos.
+
+      El resultado es un volumen que guarda un tono uniforme a pesar de la diversidad de fuentes de las que proceden las imágenes. La gráfica de la portada se expande desde la “D” y marca el propio formato del libro que, con unos cortes a 45º, se convierte asimismo en un “D”.
+    type: text
+  -
+    list: ''
+    image: /news/images/drift-1.jpg
+    text: ''
+    mode: normal
+    type: image
+intro: 'El pasado viernes 23 de noviembre, en una gala celebrada en en Expourense, se hacía pública la lista de profesionales premiados en la tercera edición de los Premios de la Comunicación y del Marketing de Galicia que organiza el Clúster de la Comunicación Gráfica de Galicia.'
+slug: y-los-premiados-son
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2018-11-27T11:13:01+00:00

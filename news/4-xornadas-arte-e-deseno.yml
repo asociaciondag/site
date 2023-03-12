@@ -1,0 +1,50 @@
+id: 1034
+title: 'Volven as Xornadas de Arte e Deseño da Pablo Picasso'
+body:
+  -
+    list: after
+    image: /news/images/entrada-100x500.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Por cuarto ano consecutivo, a Escola de Arte e Superior de Deseño Pablo Picasso da Coruña organiza unha nova edición das Xornadas de Arte e Deseño. Adaptándose á situación actual que estamos a vivir por mor da covid-19, todos os relatorios retransmitiránse en directo na [canle de Youtube da escola](https://bit.ly/Youtube_EASDPP) polo que non é necesario facer ningunha inscrición previa.
+
+      Neste 2020, as xornadas estructúranse en dous días cun total de catro relatorios diarios, dous pola mañá e dous pola tarde, que contarán coa presenza de recoñecidos profesionais de diferentes especialidades vencelladas ao deseño. As temáticas que se tratarán abranguen dende o deseño de interiores, deseño web e deseño gráfico ata a fotografía, pasando pola escultura, arte mural, dourado e cerámica.
+
+      Dende a EASD Pablo Picasso recomendan que aqueles e aquelas que queiran seguir os relatorios se subscriban á súa canle de Youtube e activen as notificacións para así recibir un aviso antes do inicio de cada charla.
+
+      A continuación pódense consultar o programa e os enlaces de cada relatorio:
+
+      ## **Martes 15** 
+
+      **10:00h** [«La importancia del color en la composición»](https://youtu.be/kJqhPLaKHUY) con Jesús M. García Flores
+
+      **12:00h** [«Cerámica sen filtros»](https://youtu.be/os-T1HdGN-E) con Alberto Lista
+
+      **16:00h** [«De niña a mujer»](https://youtu.be/CY6oYn27udw) con Iván Castro
+
+      **18:00h** [«A arte esquecida»](https://youtu.be/iA9Ey8eEiHA) con David Muñiz Boquete
+
+      ## **Mércores 16** 
+
+      **10:00h** [«Nos queda el presente»](https://youtu.be/-Ps2WUAlgtw) con Castroferro Arquitectos
+
+      **12:00h** [«Interfaces de baixa fricción con transaccións e narrativas»](https://youtu.be/_BECMdVdyFw) con Javier Blanco Thomas, Glue.Digital
+
+      **16:00h** [«A linguaxe Artística»](https://youtu.be/0XxZhJ8LrLs) con Miguel Ángel Vigo Baleiron
+
+      **18:00h** [«Curar espazos»](https://youtu.be/aZY9k2XKF9M) con Mutante creativo
+    type: text
+  -
+    list: ''
+    url: 'https://www.eapicasso.com/iv-xornadas-arte-deseno/'
+    text: 'Máis información'
+    type: button
+intro: 'As xornadas comezarán o martes, día 15, ás 10:00 horas e rematarán o mércores ás 18:00 horas coa celebración do último relatorio. Todas as charlas este ano serán en _streaming_, retransmitiránse a través da canle de Youtube da escola.'
+slug: 4-xornadas-arte-e-deseno
+tags: []
+lang: gl
+draft: false
+date: 2020-12-13T18:31:10+00:00

@@ -1,0 +1,33 @@
+id: 914
+title: 'Llega una nueva edición del FEED'
+body:
+  -
+    list: after
+    image: /news/images/artboard.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Como ya viene siendo habitual, en el programa conviven las distintas vertientes de la disciplina: diseño gráfico, diseño de producto, diseño digital, diseño de estrategia o diseño de servicios, las cuales serán abordadas a lo largo de dos días muy intensos: **viernes 4** **y** **sábado 5 de octubre**, con jornadas divididas en sesiones de mañaña, dedicada cada una de ellas a un taller, y sesiones de tarde, con varias conferencias programadas para cada día.
+
+      Los talleres tendrán lugar ambos en [DIDAC](http://www.didac.gal/didac/gl). El primeiro, **Pasando revista**, a cargo de [Artur Galocha](https://www.behance.net/arturgalocha), se desarrollará el viernes 4 de octubre entre las **09.30 y las 13.30 h**. Cuatro horas en las que los participantes tendrán que conceptualizar y dar forma a una revista. El sábado día 5 de octubre, en el mismo horario, será el turno del diseñador UX [Danny Saltaren](https://mendesaltaren.com/) y de su taller digital enfocado en la gestión de equipos y en la mejora de procesos.
+
+      Por lo que respecta a las conferencias, estas se celebrarán en la sala Mozart del Auditorio de Galicia a partir de las **15.30 h de la tarde**. El primer día contaremos con la presencia de [María Ramos](http://www.marsidesino.com/), [Artur Galocha](https://www.behance.net/arturgalocha), [Carmen Lanza](http://www.carmenlanza.com/) y, como colofón, una exposición de **alumnos de las distintas escuelas de diseño de Galicia**. El segundo día, los ponentes invitados serán [Rocío Martinavarro](https://mayuscula.es/), [Ánxo López](http://anxolopez.com/), [Sara Regal](https://sararegal.com/), [Dani Bembibre y David Silvosa](http://www.costa.io/), y [Teresa Jular](http://www.teresajular.com/), con cuya intervención se cerrará el evento.
+
+      El FEED 2019 cuenta con el apoyo fundamental de [AGADIC](http://www.agadic.gal/) y de la Xunta de Galicia; y este año, además, con la colaboración del [Concello de Santiago](http://santiagodecompostela.gal/), Auditorio de Galicia, [Fundación DIDAC](http://www.didac.gal/didac/gl), [Agencia Gráfica](https://agenciagrafica.es/), [Axeitos&amp;Co](https://axeitos.com/), [Serilúa](http://www.serilua.com/gl), [Fedrigoni](https://www.fedrigoni.es/) y de las **Escuelas de Diseño de Galicia**.
+
+      Información e inscripciones en la web del foro:
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/feed2019/'
+    text: 'FEED 2019'
+    type: button
+intro: 'El FEED, el foro de diseño de carácter bianual que organiza la DAG, Asociación Gallega de Diseño, con el patrocinio de AGADIC llega a su quinta edición sin perder el espíritu con el que nació: servir de punto de encuentro para compartir las experiencias de profesionales del diseño, tanto gallegos como de ámbito nacional.'
+slug: llega-una-nueva-edicion-del-feed
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2019-09-10T18:55:06+00:00

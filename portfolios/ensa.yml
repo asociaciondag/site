@@ -1,0 +1,31 @@
+id: 221
+title: ENSA
+slug: ensa
+body:
+  -
+    text: 'Suposto ficticio para a creación da identidade visual da Estación Nacional de Servizos Aeroespaciais'
+    type: text
+  -
+    image: /portfolios/images/binder-stationery-brand-mockup.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/gif.gif
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/id-card-holder-mockup-vol-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/enterprise-free-flight2.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//binder-stationery-brand-mockup.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 59
+lang: gl
+info: []
+draft: false

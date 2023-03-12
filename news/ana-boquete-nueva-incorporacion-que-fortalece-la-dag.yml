@@ -1,0 +1,37 @@
+id: 1081
+title: 'Ana Boquete, una nueva incorporación que fortalece la DAG '
+body:
+  -
+    list: ''
+    image: /news/images/foto-ana.jpg
+    text: ''
+    mode: right
+    type: image
+  -
+    text: |-
+      ¡Hola!
+
+      Soy Ana, diseñadora UX.
+
+      Estudié Ilustración y Diseño Gráfico en la EASD Pablo Picasso, siempre he sido una persona curiosa y con muchas ganas de aprender; por eso, mientras estaba estudiando Diseño me embarqué en el grado en Historia del Arte a través de la UNED.
+
+      Comecé mi carrera profesional en el sector editorial, pero pronto decidí formarme en UX, guiada pola mi pasión por las personas y la tecnología, y pasé a trabajar en una agencia de marketing diseñando productos digitales.
+
+      Actualmente, trabajo en Corunet como parte del equipo de UX de una multinacional del sector textil. Fuera del trabajo me gusta dedicar tiempo a la investigación sobre la historia del diseño gallego y me gustaría poder doctorarme en este tema algún día.
+
+      Entré en esta asociación porque pienso que puede ser un espacio de conexión con otras profesionales y el lugar adecuado en el que construir grandes proyectos; creo que tenemos como asignatura pendiente documentar nuestra historia desde la óptica del diseño y también trabajar en una educación superior pública y de calidad sin necesidad de salir de Galicia para estudiar una maestría o doctorarnos en Diseño. Espero poder aportar todo cuanto esté en mi mano y compartir consejos, proyectos o ideas con las grandes profesionales que forman esta asociación.
+
+      ¡Gracias por acogerme!
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/es/ana-boquete/'
+    text: 'Perfil de Ana Boquete'
+    type: button
+intro: 'Iniciamos la semana con buenas noticias, presentamos a una nueva socia. Ana Boquete se incorpora a la Asociación Gallega de Diseño para aportar y colaborar en el avance y mejora del diseño gallego, como colectivo, como profesión, y también como parte importante del sistema educativo y de nuestra historia. En los próximos meses compartirá parte de la información recopilada en su investigación sobre la historia de la prensa gallega. Ya podéis leer el [primer artículo introductorio](https://dag.gal/es/el-diseno-en-la-historia-de-la-prensa-gallega/).'
+slug: ana-boquete-nueva-incorporacion-que-fortalece-la-dag
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2021-08-23T11:27:54+00:00

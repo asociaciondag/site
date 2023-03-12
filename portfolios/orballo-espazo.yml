@@ -1,0 +1,18 @@
+id: 335
+title: Orballo
+slug: orballo-espazo
+body:
+  -
+    image: /portfolios/images/orballo.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//orballo.jpg
+tags:
+  - Espazos
+members_id:
+  - 29
+lang:
+  - gl
+  - es
+info: []
+draft: false

@@ -1,0 +1,19 @@
+id: 579
+title: 'Chámase Ángel Ramos e acaba de chegar á DAG. Benvido!'
+body:
+  -
+    text: 'Ola! O meu nome é [Ángel Ramos Regueira](http://thearrstudio.com/). Son un deseñador gráfico nacido na Coruña, aínda que actualmente vivo en Barcelona, onde vou comezar un Máster en deseño gráfico e proxectos editoriais en [Elisava](http://www.elisava.net/es). A pesar de vivir tan lonxe, creo que é importante darlles á nosa comunidade e aos seus deseñadores o recoñecemento que merecen.'
+    type: text
+  -
+    list: after
+    image: /news/images/55c321d23e6ac-angel-ramos.jpg
+    text: ''
+    mode: normal
+    type: image
+intro: 'Como sucede sempre que un novo socio chega á DAG, pedímoslle que se presente para que todos poidamos poñerlle cara e coñecelo un pouquiño mellor.'
+slug: chamase-angel-ramos-e-acba-de-chegar-a-dag-benvido
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2015-08-06T10:50:29+00:00

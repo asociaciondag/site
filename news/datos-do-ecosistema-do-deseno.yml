@@ -1,0 +1,28 @@
+id: 907
+title: 'Datos do Ecosistema do Deseño'
+body:
+  -
+    list: after
+    image: /news/images/imaxe-ecosistema-datos.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      A comezos de xullo, o Ministerio de Ciencia, Innovación e Universidades daba a coñecer publicamente o resultado deste estudo dirixido e coordinado polo Barcelona Centre Disseny (BCD) en colaboración coa READ, no que quedaron identificados os axentes do sistema do deseño, no ámbito da oferta e demanda, de todas as Comunidades Autónomas. O informe é detallado e reflexiona sobre os datos alcanzados neste ano 2019, e tamén desvela desafíos e necesidades que poderán afrontarse en futuros estudos. A plataforma poderá ser actualizada para que reflicta a realidade do sector do deseño en España; un sector que precisa pór en evidencia o seu potencial como motor de innovación e de competitividade.
+
+      Desde a DAG queremos agradecer a todos os deseñadores e as deseñadoras galegos que participaron na recolla de datos e axudaron á creación dun rexistro deste tipo, útil para conseguir identificar as claves do noso sector profesional de cara a futuras accións de conxunto. Calquera comentario que queirades facer, podedes envialo ao email da asociación: info@dag.gal
+
+      Podedes ver o resultado nesta ligazón:
+    type: text
+  -
+    list: ''
+    url: 'https://ecosistemadeldiseno.es/'
+    text: 'Ecosistema do Deseño'
+    type: button
+intro: 'A finalización da fase de estudo do Ecosistema do Deseño Español dá paso á publicación dos datos obtidos na plataforma web de consulta aberta, grazas á colaboración dos e das profesionais do deseño de toda España.'
+slug: datos-do-ecosistema-do-deseno
+tags: []
+lang: gl
+draft: false
+date: 2019-07-19T17:04:27+00:00

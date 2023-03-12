@@ -1,0 +1,48 @@
+id: 616
+title: 'Entrevista a Óscar Otero'
+body:
+  -
+    text: |-
+      Es uno de los socios fundadores de la empresa A navalla suíza, ganadora de varios premios, como el Mestre Mateo 2008 por flocos.tv o el MIPTV Digital Creativity Festival "Content 360º" de Cannes en la categoría "Next generation online video experience" por el proyecto Augmented Films en 2010. En A navalla suíza ha participado en proyectos web de vídeo, redes sociales, periódicos, etc. Compatibiliza su labor de diseñador con la de desarrollador, lo que le permite tener una visión más global y genérica, no solo de cómo debe ser una interface, sino de cómo debe funcionar. Posee numerosos proyectos _open source_ que se pueden descargar en github.
+
+      Además, ha dado cursos y conferencias sobre diseño, desarrollo web y _open video_ en múltiples lugares: A Coruña, Vigo, Madrid, Sevilla, Bélxica, etc. y ha escrito sobre diseño y tipografía en varias revistas.
+
+      Más información:
+
+      - [http://oscarotero.com](http://oscarotero.com/)
+       
+    type: text
+  -
+    list: after
+    image: /news/images/5632028064bb6-4-oscar.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## ¿Quién eres y a qué te dedicas?
+
+      > —Me llamo Óscar y soy una de esas personas a las que les gusta hacer cosas. Cuando era pequeño hacía revistas, escribía cuentos y dibujaba cómics. No conocía aún la existenca del diseño pero ya lo llevaba en la sangre. Después me metí en el sector de las ártes gráficas, aunque duré poco, porque allí fue donde descubrí el diseño gráfico y me di cuenta de que encajaba mejor conmigo. Me especialicé en la web y empecé a hacer algo de programación, en parte para experimentar y también por aquello de no convertirme en esclavo de los técnicos.
+      > 
+      > He tenido mucha suerte, porque he conseguido dedicarme a algo que me gusta y con lo que disfruto plenamente.
+
+      ## ¿De qué vas a hablar en el FEED?
+
+      > —Voy a hablar sobre la web y sobre lo que yo considero que son los pilares fundamentales en los que se sustenta una buena página web: accesibilidad, interactividad y tipografía.
+
+      ## ¿Qué trabajo de diseño o investigación te gustaría haber realizado?
+
+      > —Lo que más valoro de un diseño es que sea útil, que esté centrado en las personas y en cubrir una determinada necesidad. En ese sentido siempre he admirado los principios de diseño publicados por el gobierno del Reino Unido (<https://www.gov.uk/design-principles>) y me encantaría que aquí se hiciese algo parecido: usar el diseño para solucionar las necesidades de la gente, y no para intentar “venderles” algo, sobre todo viniendo de instituciones públicas.
+    type: text
+  -
+    list: after
+    url: 'http://dag.gal/gl/feed2015'
+    text: 'Ir á páxina do FEED 2015'
+    type: button
+intro: 'Óscar Otero es un diseñador con más de doce anos de experiencia en el campo de la web. A nivel experimental ha realizado numerosos proyectos como la web tipográfica [letrag.com](http://letrag.com/).'
+slug: entrevista-a-oscar-otero
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2015-11-16T09:52:00+00:00

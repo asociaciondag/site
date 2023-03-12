@@ -1,0 +1,42 @@
+id: 762
+title: 'Estamos desexando que chegue o FEED''17 para escoitar a Francesco e Pablo de relajaelcoco'
+body:
+  -
+    list: after
+    image: /news/images/relajaelcoco-web.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: 'Que pasa? Que non o credes? Ollade para o vídeo, así é un día de traballo en relajaelcoco:'
+    type: text
+  -
+    list: ''
+    info:
+      code: '<iframe src="https://player.vimeo.com/video/109145814" width="640" height="360" frameborder="0" title="One day with relajaelcoco" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+      ratio: ''
+    type: embed
+  -
+    text: |-
+      E agora que xa sabedes como traballan, catro apuntamentos rápidos sobre a súa traxectoria:
+
+      Francesco Furno e Pablo Galeano son os fundadores de [relajaelcoco](http://www.relajaelcoco.com/), un estudio de deseño gráfico localizado agora en Madrid, mais que se creou en Barcelona no 2008, cun enfoque internacional especializado en infografías e deseño editorial.
+
+      O nome do estudio resume a súa filosofía vital e laboral: positividade e alegría para conseguiren que os clientes gocen dun proceso de traballo agradábel e enriquecedor. O equipo de traballo case ten unha estrutura de equipo deportivo: 4-1-1 (4 deseñadores, 1 programador e 1 animador) e, segundo o tipo de proxecto, suman máis perfís á familia..
+
+      Pablo e Francesco son tamén profesores en distintas universidades e institutos (IE Business School, IED Barcelona, IED Madrid, Universidade de Salamanca, Trazos Pro Madrid, Mr Marcel School Madrid e Domestika.org) onde ensinan Infografía, Técnicas Gráficas, Deseño Editorial e Debuxo Dixital.
+
+      Algunhas das empresas coas que colaboraron nestes nove anos son Men's Health, Fast Company, BBC UK, Wired, UK, BBVA, Line, Yorokobu magazine, Jot Down magazine ou Mapping Residencies.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/feed2017/'
+    text: 'FEED''17'
+    type: button
+intro: 'Francesco Furno e Pablo Galeano cren que calquera proceso de traballo ten que ser, sobre todo, divertido. Con esta filosofía fundaron en 2008 relajaelcoco e levan desde entón demostrando como se fai bo deseño nun ambiente relaxado e descontraído, e cunha metodoloxía coa que todos os implicados (membros do estudio e clientes) gozan da experiencia.'
+slug: estamos-desexando-que-chegue-o-feed-17-para-escoitar-a-francesco-e-pablo-de-relajaelcoco
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2017-10-25T09:50:18+00:00

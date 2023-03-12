@@ -1,0 +1,54 @@
+id: 17
+title: 'Web corporativa de CEL'
+slug: web-corporativa-de-cel
+body:
+  -
+    text: |-
+      A Confederación de Empresarios de Lugo encárganos este proxecto a fináis de 2012. A esencia da web está baseada nos contidos, ofertando información útil para os empresarios, xerarquizada nos apartados de documentación, actividades, novas, cursos…
+
+      Partindo da imaxe previa que tiñan e tras analizar o uso que facía o usuario da web, observamos que gran parte das visitas viñan dende tablets e dispositivos móbiles, polo que optamos desenvolvela para que sexa o máis accesible posible, independentemente do dispositivo empregado. Outra pauta importante son as búsquedas e categorización de contidos, que axilicen o máximo posible o acceso a información.
+
+      O verdadeiro potencial da web está na súa xestión. Ligado a cantidad que contidos que comparten, integramos SCMS un xestor de contidos íntegramente desenrolado por Sond3, con servizos de distribución de información vía mail, xestión de novidades, arquivos multimedia (vídeos, imaxes…), documentación, que pode ser pública e privada, e un sistema de usuarios e grupos que ofrece moita flexibilidade á hora de compartir dita información.
+
+      A nivel estético optamos por una web sinxela, empregando as cores corporativas existentes, na que prima a limpieza e a orde máis alá de empregar efectismos, facendo fincapé na xerarquización e orde dos contidos.
+
+      Técnicamente enpregamos Codeigniter, Reticulas cssframework, jQuery… Feita en html5 e CSS3
+
+      <http://www.cel.es/>
+    type: text
+  -
+    image: /portfolios/images/5585a158a5c73-00.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a158a65b1-01.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a158a8057-02.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a158a8ad7-03.png
+    text: ''
+    type: image
+cover: /portfolios/covers/5585a158a52f7-00.jpg
+tags:
+  - Web
+members_id:
+  - 11
+  - 15
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - Sond3
+  -
+    - Cliente
+    - 'Confederación de empresarios de Lugo'
+  -
+    - Ano
+    - 2012-2013
+draft: false

@@ -1,0 +1,19 @@
+id: 21
+contact: '<awakato@orangizer.com>'
+links:
+  -
+    text: Web
+    url: 'http://cargocollective.com/panchez'
+    type: link
+bio_gl: null
+bio_es: null
+name: 'Pancho Lapeña Otero'
+job_gl: 'Deseñador, ilustrador e artesán'
+job_es: 'Diseñador, ilustrador y artesano'
+slug: pancho-lapena
+avatar: /members/avatares/554d00b06359c-pancho-lapena.png
+avatarBig: null
+tags:
+  - 'Identidade corporativa'
+  - Gráfico
+draft: true

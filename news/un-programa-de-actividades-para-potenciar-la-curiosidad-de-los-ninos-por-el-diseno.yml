@@ -1,0 +1,31 @@
+id: 680
+title: 'Un programa de actividades para potenciar la curiosidad de los niños por el diseño'
+body:
+  -
+    list: after
+    image: /news/images/577f90a8edb4a-desenhos-minusculos.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      El programa, que empezó esta semana y está conducido por nuestro socio [Lois Guillán](https://dag.gal/es/lois-guillan/), creador de [cucuducho](http://cucuducho.com/cms/es/), se llama Diseños minúsculos, valores mayúsculos.
+
+      La próxima sesión será el 12 de julio, con **Argallar**, un taller que girará en torno a la moda y el mar. La invitada en esta ocasión será la diseñadora industrial Beatriz Lema, quien les propondrá a los participantes el empleo de pasta de modelado en frío para materializar sus creaciones. Harán botones con elementos marinos como conchas o cantos rodados, pero también cremalleras, abalorios y puntillas.
+
+      La siguiente cita será **Enredar**, el 19 de julio, con Idoia Cuesta. La artesana les propondrá a los pequeños descubrir las fibras vegetales y experimentar con ellas, creando diferentes formas y tamaños de peces. Con una base de varas de junco, los participantes conocerán sencillas prácticas de tejido para confeccionar sus creaciones.
+
+      Y ya por último, **Artellar**, el 26 de julio, con la diseñadora de moda Sara Coleman. En este caso, la relación entre el mar y el textil será la que vertebre este taller en el que los más pequeños modelarán formas tridimensionales a partir de lana.
+    type: text
+  -
+    list: ''
+    url: 'http://www.cidadedacultura.gal/es/evento/desenos-minusculos-valores-maiusculos'
+    text: 'Web deseños minúsculos, valores maiúsculos'
+    type: button
+intro: 'Esta es la propuesta de la Ciudad de la Cultura para este mes de julio: cada martes un taller distinto con el que estimular la creatividad de los más pequeños de la mano de destacados profesionales del diseño, la ilustración, la artesanía y la moda.'
+slug: un-programa-de-actividades-para-potenciar-la-curiosidad-de-los-ninos-por-el-diseno
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2016-07-08T13:48:57+00:00

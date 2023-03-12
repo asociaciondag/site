@@ -1,0 +1,48 @@
+id: 613
+title: 'Entrevista a Massimo Menichinelli'
+body:
+  -
+    text: |-
+      Massimo Menichinelli es un diseñador que investiga y desarrolla proyectos abiertos, colaborativos y de codiseño, y sistemas que los hagan posibles desde 2005. Utiliza las herramientas y procesos de diseño con el fin de ayudar a las empresas, organizaciones, ciudades y comunidades locales a desarrollar procesos, negocios, servicios, lugares y proyectos abiertos y colaborativos como Open Design y Fab Lab. Massimo ha impartido conferencias y talleres en diversos países, entre ellos, Italia, España, Finlandia, Alemania, Reino Unido, México, Colombia, Corea del Sur y Singapur. También ha trabajado en el desarrollo de la Aalto Fab Lab, y ha coorganizado el primer Open Knowledge Festival en Helsinki. Ha dado clases sobre Fabricación Digital y Diseño de puertas abiertas en la Universidad Aalto (Helsinki, Finlandia) y Open Design en SUPSI (Lugano, Suiza) y ha sido instructor de la Fab Academy en los Fab Labs Opendot y WeMake en Milán. Ha trabajado recientemente también en el desarrollo del MUSE FabLab (Trento, Italia) y (Milán, Italia), además de en el asesoramiento a muchos otros laboratorios. Ha dirigido la Fundación Make in Italy CDB desde donde investigó y facilitó los Fab Labs y Makers de Italia.
+
+      Más información:
+
+      - [openp2pdesign.org](http://www.openp2pdesign.org/)
+      - [@openp2pdesign](https://twitter.com/openp2pdesign)
+      - [linkedin.com/massimomenichinelli](https://it.linkedin.com/in/massimomenichinelli)
+       
+    type: text
+  -
+    list: after
+    image: /news/images/563200d5d17f6-0-massimo.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## ¿Quién eres y a qué te dedicas?
+
+      > —Soy un diseñador y me dedico a diseñar y facilitar proyectos que puedan involucrar comunidades y mejorar su contorno. Mi práctica se divide entre diseño, facilitación y consultoría por un lado, investigación por otro lado y, por último, educación. Estas tres perspectivas me ayudan a entender mejor las dinámicas de las comunidades, del mundo Maker y Fab Lab y del impacto de los proyectos.
+
+      ## ¿De qué vas a hablar en el FEED?
+
+      > —En la conferencia voy a hablar de como el Diseño Abierto/ Open Design no es solo la publicación de un archivo, es también la construcción de una organización para una comunidad, con base en un modelo de negocio sustentable que proporcione los recursos para que las actividades colaborativas puedan funcionar. Todos estos elementos precisan de las relaciones entre los participantes de la comunidad para poder funcionar y al mismo tempo tienen que ser facilitadas por los proyectos para que la comunidad siga funcionando.
+      > 
+      > En el seminario veremos un posible proceso para diseñar un Fab Lab u otro espacio / taller para una comunidad, empezando por los usuarios, sus necesidades, el contexto, y mirando como podemos desarrollar actividades y modelos de negocio para ellos. Las tecnologías y las infraestructuras son importantes, de hecho son los elementos que más atención atraen, pero son los usuarios y las comunidades los que pueden hacer que el espacio/taller tenga éxito. Veremos el modo en que podemos diseñar el espacio y las actividades para ellos, y cómo hacer que el sistema sea sustentable.
+
+      ## ¿Qué trabajo de diseño o investigación te gustaría haber realizado?
+
+      > —Llevo diez años investigando como diseñar procesos y organizaciones colaborativas para comunidades. Es un tema aun nuevo, entre posibles formas nuevas y estructuras tradicionales. Después de años de talleres e investigación estoy, por fin, desarrollando una herramienta que facilite el diseño, el análisis y la visualización de estos procesos y organizaciones, con el objetivo de que sea fácil entender cómo las redes entre personas nos pueden ayudar de manera fácil a organizar comunidades de forma colaborativa.
+    type: text
+  -
+    list: after
+    url: 'http://dag.gal/gl/feed2015'
+    text: 'Ir a la página del FEED 2015'
+    type: button
+intro: 'Massimo Menichinelli será el encargado de inaugurar el FEED 2015 con el taller Diseñar un Fab Lab o otro laboratorio para una comunidade, empezando por los usuarios y acabando con el modelo de negocio.'
+slug: entrevista-a-massimo-menichinelli
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2015-10-28T23:11:19+00:00

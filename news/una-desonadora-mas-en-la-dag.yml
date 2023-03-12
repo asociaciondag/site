@@ -1,0 +1,32 @@
+id: 654
+title: 'Una desoñadora más en la DAG'
+body:
+  -
+    list: after
+    image: /news/images/56fba681856b1-susana-gonzalez-ante.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Hola!
+
+      Soy Susana, trabajo como diseñadora en [Desoños](http://www.desonhos.gal/es/) y estoy encantada de haberme unido a la DAG.
+
+      Cuando estudiaba pasaba el día sumergida en revistas, libros y sitios web, descubriendo lo que para mí era un nuevo modo de leer la vida. Es algo que echo de menos; cuando trabajamos tendemos a hacer más búsquedas concretas y dejamos de navegar sin rumbo. Es más productivo, pero perdemos la aventura de descubrir nuevas islas por el camino.
+
+      En el [FEED 2015](https://dag.gal/gl/feed2015/) tuve la oportunidad de conocer a otros profesionales, unos ya admirados desde hacía tiempo, otros totalmente desconocidos para mí; fue una muy grata experiencia que espero poder repetir pronto.
+
+      Pienso que la labor de la DAG es imprescindible, tanto para los estudiantes y profesionales como para poner en valor el diseño como disciplina necesaria para el desarrollo de Galicia.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/susana-gonzalez-ante/'
+    text: 'Perfil de socia DAG'
+    type: button
+intro: 'Teníamos a dos, [Carlos](https://dag.gal/gl/carlos-alvarez/) y [Noelia](https://dag.gal/gl/noelia-fernandez-estevez/), y hoy recibimos a Susana, la tercera. Muchos de vosotros pudisteis conocerla en persona en la [asamblea general](https://dag.gal/es/no-solo-una-asamblea-general/) de la DAG de este año, cuando los tres nos abrieron las puertas de su estudio y nos trataron tan maravillosamente bien. El resto tenéis ahora una magnífica ocasión.'
+slug: una-desonadora-mas-en-la-dag
+tags: []
+lang: es
+draft: false
+date: 2016-03-30T12:12:17+00:00

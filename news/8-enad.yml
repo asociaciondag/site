@@ -1,0 +1,37 @@
+id: 1006
+title: 'Aberto o prazo de inscricións para o 8º Encontro Nacional de Deseño'
+body:
+  -
+    list: after
+    image: /news/images/8enad.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      O oitavo ENAD está organizado por [DIP Murcia](http://dipmurcia.es) e [READ](https://www.designread.es). O Encontro busca, dende a súa orixe, servir de espazo común para a análise. Un espazo de compromiso e traballo, mostrando a conexión do deseño con distintos eidos socio-económicos. Nesta ocasión, co lema «Deseñar antes de comer», a co-protagonista do programa será a gastronomía.
+
+      A innovación e a creatividade culinaria converteron ao noso territorio en referencia de vangarda a nivel internacional. A cociña nacional celebra hoxe os produtos locais e presume de territorio e cultura. As persoas artífices deste cambio son emprendedoras capaces de lanzar liñas de produtos, de crear alianzas con centros de investigación e formar a novas xeracións.
+
+      A comunidade asociativa do deseño, profesionais do deseño, empresarias e empresarios, docentes, responsables de políticas públicas e persoas interesadas, atoparán no 8º ENAD un espazo de encontro. Todas as actividades serán retransmitidas en directo, agás as mesas de traballo que compartirán, posteriomente, a documentación creada.
+
+      Como actividades paralelas, aqueles que estean en Murcia, poderán ademáis asistir á proxección do documental, sobre Cruz Novillo, «El hombre que diseño España», e visitar a exposición «\_¿estudias o diseñas?\_» da Premio Nacional de Deseño Marisa Gallén.
+
+      Cales son os procesos que permiter aplicar a innovación ás propostas culinarias?, cales son as disciplinas creativas coas que traballan dende o sector?, que aprendizaxe podemos extraer do seu crecemento? Estas e outras preguntas buscan resposta no 8º Encontro Nacional de Deseño.
+    type: text
+  -
+    list: ''
+    url: 'https://designread.es/8enad/inscribete/'
+    text: Inscricións
+    type: button
+  -
+    list: ''
+    url: 'https://designread.es/8enad/'
+    text: 'Web do 8ENAD'
+    type: button
+intro: 'Os días 17 e 18 de setembro o deseño ten unha cita en Murcia. Este ano o encontro será accesible a un maior número de persoas, xa que as actividades e as charlas do encontro serán principalmente _online_. A inscrición é gratuíta e xa se pode reservar praza para asistir.'
+slug: 8-enad
+tags: []
+lang: gl
+draft: false
+date: 2020-09-11T09:16:01+00:00

@@ -1,0 +1,28 @@
+id: 1109
+title: 'La DAG colabora con el programa Xuventude Mentoring de la Xunta de Galicia'
+body:
+  -
+    list: after
+    image: /news/images/cartel-mentoring.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      El programa busca favorecer la transición a la vida laboral de las personas jóvenes con estudios de grado o de formación profesional y está destinado a la mejora de las habilidades y competencias para la búsqueda de empleo, tanto por cuenta propia como por cuenta ajena, a través de acciones formativas, actividades de _networking_ y de una red de personas mentoras procedentes del empresariado gallego, que ofrecerán asesoramiento y apoyo. Los y las participantes además tendrán un asesoramiento continuado por parte del equipo especializado del programa.
+
+      El proceso de inscripción estuvo abierto desde el 6 de agosto hasta el 15 de septiembre de 2021, y todas las acciones diseñadas en el programa en esta edición, se desarrollaron entre los meses de octubre y diciembre.
+
+      El programa está ​promovido por la Xunta de Galicia y el Consorcio para el desarrollo de aplicaciones de gestión universitaria (Cixug), cofinanciado por el Fondo Social Europeo y la Iniciativa de Empleo Juvenil, en un 91,89%, con cargo al Programa Operativo de Empleo Juvenil, para el período 2014-2020, en el eje prioritario 5, objetivo temático 8, prioridad de inversión 8.2, objetivo específico 8.2.1, medida 8.2.1.1.​
+    type: text
+  -
+    list: ''
+    url: 'https://xportal.cixug.gal/?lang=es'
+    text: 'Más información'
+    type: button
+intro: 'Xuventude Mentoring es un programa integral de formación y mentoría destinado a personas jóvenes tituladas e inscritas en el Sistema Nacional de Garantía Juvenil en la Comunidad Autónoma de Galicia. La DAG colabora difundiendo información sobre el proyecto y sirviendo de canal para la incorporación de personas asociadas como mentoras. En esta edición se contó con la colaboración del diseñador industrial [Javier Ferrín](https://dag.gal/gl/javier-ferrin/) y la diseñadora editorial [Paula Cantero](https://dag.gal/gl/paula-cantero-rey/) de Origami Estudio.'
+slug: la-dag-colabora-programa-xuventude-mentoring-xunta-galicia
+tags: []
+lang: es
+draft: false
+date: 2021-12-17T12:00:00+00:00

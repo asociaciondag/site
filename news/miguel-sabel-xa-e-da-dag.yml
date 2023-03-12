@@ -1,0 +1,35 @@
+id: 637
+title: 'Miguel Sabel xa é da DAG :)'
+body:
+  -
+    list: after
+    image: /news/images/56a223bf79025-miguel-sabel-present.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Ola, son Miguel Sabel. Traballo como deseñador na oficina que [Designit](https://designit.com/) ten en Madrid. Na meirande parte dos proxectos nos que traballo deseño servizos, definindo novos modelos de negocio e relación entre organizacións e os seus clientes ou usuarios.
+
+      Antes pasei por unha consultora de investigación tecnolóxica, tamén en Madrid, e algo antes por unha pequena compañía de deseño en Barcelona. Fun a Barcelona para estudar un máster despois de pasar pola escola de Deseño de Ferrol. Levo algo máis de sete anos fóra de Galicia.
+
+      Dende que solicitei a alta na DAG deume por pensar na razón. Supoño que para atopar unha orde que non sempre existe adoitamos buscar a causa das cousas. Decidín que neste caso foi puro egoísmo. Foi para cambiar a miña situación persoal. Foi para atopar un camiño de volta á casa máis doce que o que hoxe podería tomar.
+
+      Sen ter que recorrer ás portadas da prensa, a miña situación non ten nada que ver coa que viviron moitos na miña familia camiño de Caracas ou Montevideo. Pero as motivacións da emigración non son binarias -teño que marchar, non teño que marchar. Hai moitos estados intermedios. E tampouco as situacións resultantes son binarias -estou ben, estou mal.
+
+      Son un emigrado, un emigrado afortunado e consentido, pero un emigrado. Podería ter quedado na casa e o certo é que vivo unha vida confortable e fago cousas que me gustan. Pero son un emigrado. Do mesmo xeito que o é a miña irmá, moitos amigos e unha morea de xente da miña xeración. Non era o meu plan e non me gusta pensar no complicado que pode ser voltar.
+
+      Decidín polo tanto que entrei na DAG para buscar que a motivación de marchar sexa o máis doce posible. Apertura para aprender e desfrutar. E para facer que o camiño de volta sexa máis sinxelo. Para sentir que podo volver cando me dea a gana. Comezando por min mesmo pero oxalá tamén para outros. Non teño nin idea de como facelo.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/miguel-sabel/'
+    text: 'Ficha de socio DAG'
+    type: button
+intro: 'Desde a asociación só podemos expresar o máis profundo agradecemento a Miguel Sabel, e aos outros socios que como el desenvolven as súas vidas profesionais fóra de Galicia, polo seu compromiso coa DAG. Benvido!'
+slug: miguel-sabel-xa-e-da-dag
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2016-01-22T13:32:06+00:00

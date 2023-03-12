@@ -1,0 +1,40 @@
+id: 725
+title: 'Da árbore á cadeira'
+body:
+  -
+    list: after
+    image: /news/images/58e7a474ba794-da-arbore-a-cadeira.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Comisariada por el arquitecto Carlos Seoane, la muestra dirige la mirada mirada de los visitantes hacia la riqueza medioambiental de los bosques, la tradición en Galicia de los oficios vinculados a las artes de la madera y al diseño contemporáneo del mueble.
+
+      Este recorrido comienza en los propios bosques gallegos, bajo la mirada de fotógrafos como Manuel Vilariño, Vari Caramés, Xosé Caruncho, Juan de la Sota o Juan Rodríguez; grandes artistas plásticos como Castelao, Seoane, Maside y figuras contemporáneas como Pamen Pereira o Jorge Perianes.
+
+      Y de la naturaleza al hogar, porque Da árbore á cadeira cuenta con una segunda parte centrada en la madera como producto. Tomando como excusa la silla, la exposición ofrece un viaje por el diseño los pioneros (Isaac Díaz Pardo, Alejandro y Jesús de la Sota y Xosé Bar Bóo) hasta los contemporáneos, entre los que se encuentran muchos de los grandes arquitectos y diseñadores gallegos, como Manuel Gallego Jorreto, Irisarri y Piñera, Noguerol y Díaz, Iago Seara, Carlos Quintás, Creus y Carrasco, Cenlitrosmetrocadrado, Tomás Alonso, Elías Cueto, Lucía Buceta o Iñaki Leite**.**
+
+      **Información práctica**
+
+      Horarios: De 10.00 a 20.00 h
+
+      Visitas comentadas:
+
+      - De martes a viernes: a las 17.30 h
+      - Sábados, domingos y festivos: a las 12.30 y las 17.30 h
+      - Semana Santa, julio y agosto: de martes a domingo a las 12.30 y 17.30 h
+       
+      Gratis. Salida desde el mostrador de entrada del Museo Centro Gaiás. No se necesita reservar
+    type: text
+  -
+    list: ''
+    url: 'http://www.cidadedacultura.gal/es/evento/del-arbol-la-silla'
+    text: 'Da árbore á cadeira'
+    type: button
+intro: 'Desde hoy y hasta el 5 de noviembre puede visitarse en el Museo Centro Gaiás Da árbore á cadeira, una exposición que nos propone un viaje emocional de la materia al producto, de la madera al mobiliario doméstico.'
+slug: da-arbore-a-cadeira
+tags: []
+lang: es
+draft: false
+date: 2017-04-07T16:38:44+00:00

@@ -1,0 +1,59 @@
+id: 117
+title: Micelio
+slug: micelio
+body:
+  -
+    text: 'Micelio é un proxecto de deseño gráfico e investigación que quere dar unha volta de folla ás guías de cogumelos tradicionais. Divídese nunha guía impresa e unha App móbil e en ambas as partes se reúnen os coñecementos xerais sobre micoloxía: morfoloxía, taxonomía, organolepsia, reprodución e alimentación, hábitat, etc. Complétase con outras ferramentas de grande utilidade, como un glosario técnico e unha clave macroscópica.'
+    type: text
+  -
+    image: /portfolios/images/56bb6eb5a1b0f-behance-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56bb6ed05643e-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56bb6efee120b-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56bb6f2262950-3.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56bb6f421a731-4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56bb6feb3e91c-behance-3-copia.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56bb7005e14a4-behance-4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56bb7024048aa-captura-de-pantalla-2016-02-09-a-la-s-11-41-49.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56bb704957e6f-mockup.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56bb705fbabde-mockup-def.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/56bb6eb5a0bab-behance-1.jpg
+tags: []
+members_id:
+  - 47
+lang:
+  - gl
+  - es
+info:
+  -
+    - Ano
+    - 2015/2016
+draft: false

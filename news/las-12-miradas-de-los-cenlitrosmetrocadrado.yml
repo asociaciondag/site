@@ -1,0 +1,42 @@
+id: 703
+title: 'Las 12 miradas de los cenlitrosmetrocadrado'
+body:
+  -
+    list: after
+    image: /news/images/5821f5bb47220-mirada-1-cenlitros.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Para quien no conozca la iniciativa, la [galería Vilaseco](http://www.vilaseco.net/) invita cada mes a uno o varios creadores vinculados a las artes plásticas, al diseño gráfico, al diseño de muebles, a la artesanía... a hacer unha selección de imágenes representativas o inspiradoras a partir de las que reflexionar, trabajar o disertar frente al público.
+
+      Recuerda! Será mañana miércoles, 9 de noviembre, a las 20.30 h en la Galería Vilaseco - Laboratorio Creativo (Rúa Padre Feijoó, 5, 1º, 15004 A Coruña)
+
+      Los más curiosos tenéis a continuación un adelanto de algunas de las imágenes preferidas por los [cenlitros](http://cenlitrosmetrocadrado.com/):
+    type: text
+  -
+    list: ''
+    image: /news/images/5821f5bb479ff-cenlitrosmirada2.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    list: ''
+    image: /news/images/5821f5bb47d2f-cenlitros-mirada-1.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    list: ''
+    image: /news/images/5821f45e2b4cf-cenlitrosmirada3.jpg
+    text: ''
+    mode: normal
+    type: image
+intro: '[Xabier Rilo](https://dag.gal/gl/xabier-rilo/) y [Ricardo Tubío](https://dag.gal/gl/ricardo-tubio-pazos/) serán los dos creadores invitados dentro del ciclo 12 miradas - riverside que organiza la galería Vilaseco de A Coruña'
+slug: las-12-miradas-de-los-cenlitrosmetrocadrado
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2016-11-08T01:00:00+00:00

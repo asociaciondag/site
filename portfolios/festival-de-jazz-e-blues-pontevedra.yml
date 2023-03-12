@@ -1,0 +1,42 @@
+id: 283
+title: 'Festival de Jazz e Blues Pontevedra'
+slug: festival-de-jazz-e-blues-pontevedra
+body:
+  -
+    image: /portfolios/images/cartel-festival-de-jazz-2016-detalle.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/cartel-festival-de-jazz-2016-negro.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/cartel-festival-de-jazz-2016-oro1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/folleto.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/folleto-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/folleto-interior.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//cartel-festival-de-jazz-2016-detalle.jpg
+tags:
+  - Gráfico
+members_id:
+  - 23
+lang: gl
+info:
+  -
+    - 'Cliente:'
+    - 'Concello de Pontevedra'
+  -
+    - 'Ano:'
+    - '2016'
+draft: false

@@ -1,0 +1,28 @@
+id: 661
+title: 'Continuamos a sumar!'
+body:
+  -
+    list: after
+    image: /news/images/570e75e127e0e-foto-presentacion-lois-guillan.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      É desde sempre que me gustou o deseño. Comecei a interesarme polo deseño a partir da vertente de "produto". Tras desenvolver profesionalmente moitas das súas disciplinas (gráfico, produto, interiores...), constatei que, realmente, gústame isto do deseño. E, especialmente, o deseño de produto.
+
+      É desde sempre, tamén, que me gustan os nenos. E aínda me seguen a gustar, pese a ser pais de dous.
+
+      E é desde sempre que me gustou todo o vinculado coa cultura. E creo que agora teño a posibilidade de gozala e compartila desde dentro.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/lois-guillan/'
+    text: 'Perfil de socio DAG'
+    type: button
+intro: 'O novo socio da DAG chámase Lois Guillán e, aínda que ten experimentado diferentes facetas do deseño, a súa debilidade é o deseño de produto. Queredes saber máis, verdade?'
+slug: continuamos-a-sumar
+tags: []
+lang: gl
+draft: false
+date: 2016-04-14T12:12:52+00:00

@@ -1,0 +1,42 @@
+id: 91
+contact: |-
+  T. 986 246 737
+
+  nuria@unconventionallondon.com
+links:
+  -
+    text: Web
+    url: 'http://nuriacarballo.com/'
+    type: link
+  -
+    text: 'Unconventional London'
+    url: 'http://unconventionallondon.com/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/nuria-carballo-88983214/'
+    type: linkedin
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/nuria_carballo/'
+    type: link
+bio_gl: null
+bio_es: null
+name: 'Nuria Carballo'
+job_gl: 'Directora creativa en Unconventional London'
+job_es: 'Directora creativa en Unconventional London'
+slug: nuria-carballo
+avatar: /members/avatares//1516541524300.jpg
+avatarBig: null
+tags:
+  - Estratexia
+  - Audiovisual
+  - Web
+  - 'Identidade corporativa'
+  - Gráfico
+  - Servizos
+  - Espazos
+  - Embalaxe
+  - Exposicións
+  - Editorial
+draft: false

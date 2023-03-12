@@ -1,0 +1,41 @@
+id: 48
+contact: |-
+  **DARDO**  
+   Rúa Peréz Costanti, 12
+
+  15702 Santiago de Compostela  
+   T. 881 018 893  
+   <conchimayo@dardo.gal>
+links:
+  -
+    text: DARDO
+    url: 'http://dardo.gal/dardo/gl'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/dardo.ds'
+    type: facebook
+  -
+    text: Twitter
+    url: 'https://twitter.com/DARDOds'
+    type: twitter
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/dardo.gal/'
+    type: link
+bio_gl: 'Conchi Mayo é fundadora e directora de DARDO e presidenta da Fundación DIDAC. Licenciada en Matemáticas pola USC, é deseñadora UX/UI e desenvolvemento web, con especial interese no deseño sustentable, implantando fai máis dunha década criterios medioambientais que levaron a que Dardo fose seleccionada como caso de éxito nas experiencias de eco-innovación no sector das artes gráficas, dentro do programa Ecogalicia Verde, servizos avanzados para a divulgación, promoción, diagnóstico e integración da eco-innovación nas PEMEs de Galicia. Con anterioridade, desenvolveu a súa carreira profesional na área de consultoría informática en INDRA, participando nos proxectos na área de telecomunicacións (R Cable e Telecomunicacións) e despois nas áreas de Sanidade e Administracións Públicas.'
+bio_es: 'Conchi Mayo es fundadora y directora de DARDO y presidenta de la Fundación DIDAC. Licenciada en Matemáticas por la USC, es diseñadora UX/UI y desarrollo web, con especial interés en el diseño sostenible, implantando hace más de una década criterios medioambientales que llevaron a que DARDO fuese seleccionada como caso de éxito en las experiencias de eco-innovación en el sector de las artes gráficas dentro del programa Ecogalicia Verde, servicios avanzados para la divulgación, promoción, diagnóstico e integración de la eco-innovación en las PYMEs de Galicia. Con anterioridad, desarrolló su carrera profesional en el área de consultoría informática en INDRA, participando en proyectos en el área de telecomunicaciones (R Cable y Telecomunicaciones) y después en las áreas de Sanidad y Administraciones Públicas.'
+name: 'Conchi Mayo'
+job_gl: 'Xestión, produción e proxectos web en DARDO'
+job_es: 'Gestión, producción y proyectos web en DARDO'
+slug: conchi-mayo
+avatar: /members/avatares/56cddeb39ca7f-conchi-mayo.jpg
+avatarBig: null
+tags:
+  - Web
+  - Editorial
+  - Exposicións
+  - 'Identidade corporativa'
+  - Gráfico
+  - UX/UI
+draft: false

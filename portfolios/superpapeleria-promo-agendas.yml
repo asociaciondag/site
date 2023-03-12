@@ -1,0 +1,16 @@
+id: 411
+title: 'Superpapeleria Promo agendas'
+slug: superpapeleria-promo-agendas
+body:
+  -
+    image: /portfolios/images/superpapeleria-promo-agendas.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//superpapeleria-promo-agendas.jpg
+tags:
+  - Estratexia
+members_id:
+  - 93
+lang: es
+info: []
+draft: false

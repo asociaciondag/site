@@ -1,0 +1,34 @@
+id: 401
+title: 'TV Box'
+slug: tv-box
+body:
+  -
+    text: |-
+      Las Resinas de post-consumo son polímeros obtenidos a partir del reciclaje de plásticos. Estos plásticos pueden provenir de la industria o de los hogares. Normalmente, las resinas PCR pierden parte de su atractivo después de inyectadas, por lo que a veces es necesario agregar algunas resinas vírgenes. Lo cual no es el caso de Roctool. El cliente, Roctool, me pidió que diseñara una carcasa para un enrutador de televisión inteligente. El producto usaría plástico reciclado y necesitaba mostrar el increíble rendimiento de la tecnología de moldeo y calor de Roctool para crear una superficie increíble y formas elegantes para darle al plástico reciclado un nuevo atractivo. En este proyecto trabajé en el concepto, el modelo 3D y el diseño de una superficie visualmente atractiva. Así el cliente recibió un producto listo para inyectar. Es decir, trabajé desde la idea básica hasta el diseño final listo para ser fabricado.
+
+       
+       
+    type: text
+  -
+    image: /portfolios/images/box-tv-black-wave-texture-topview.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/box-tv-white-3-4-view.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/202105-roctool-tv-box4.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//box-tv-black-wave-texture-topview.jpg
+tags:
+  - Produto
+members_id:
+  - 64
+lang: es
+info:
+  -
+    - Cliente
+    - Roctool
+draft: false

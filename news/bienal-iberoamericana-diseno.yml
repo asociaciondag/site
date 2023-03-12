@@ -1,0 +1,37 @@
+id: 983
+title: 'Convocatoria de la Bienal Iberoamericana de Diseño'
+body:
+  -
+    list: before
+    image: /news/images/imaxe-bid20.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      En estos momentos, y hasta el 8 de julio, está abierto el plazo para participar en esta nueva edición de la Bienal. Pueden participar proyectos de diseño producidos y comercializados en los dos últimos años, creados por diseñadores, diseñadoras y empresas de Latinoamérica, España y Portugal.
+
+      Las categorías en las que inscribir los trabajos son: espacios e interiorismo, gráfico y comunicación visual, producto e industrial, moda, textil y complementos, digital, diseño de servicios y trabajos integrales o transversales (que abarcan distintas categorías).
+
+      Para participar, tanto de la selección como de la exposición BID20, hay que abonar las cuotas correspondentes a cada fase de inscripción. En el caso de socios y socias de la DAG, el precio total tendrá un descuento del 15%. La lista de candidaturas para participar de la Bienal está conformada por la inscripción directa de proyectos y por la lista de proyectos recomendados por el Consejo asesor local y DIMAD, asociación integrante de READ.
+
+      Además de la semana inaugural, la exposición temporal de proyectos estará abierta desde el 23 de noviembre hasta finales de enero do 2021 y será itinerante por los diferentes países participantes. Paralelamente, durante ese mes de noviembre, se realizarán otras actividades relacionadas y muestras de diseño en diferentes puntos de la ciudad de Madrid. Se hará también una BID virtual con una galería de todos los trabajos seleccionados por país, destacando a los finalistas y premiados.
+
+      Sin duda es una buena oportunidad para mostrar proyectos con proyección internacional y conocer el diseño que se está desarrollando en otros países próximos a nuestra cultura.
+    type: text
+  -
+    list: ''
+    url: 'https://www.bid-dimad.org/'
+    text: 'Web del evento'
+    type: button
+  -
+    list: ''
+    url: 'https://bid20.bid-dimad.org/wp-content/uploads/2020/05/Bases_generales_BID20_ES.pdf'
+    text: 'Bases de la convocatoria'
+    type: button
+intro: 'Ya está aquí la 7ª Edición de la Bienal Iberoamericana de Diseño que tendrá lugar del 23 al 27 de noviembre en la Central de Diseño Matadero Madrid.'
+slug: bienal-iberoamericana-diseno
+tags: []
+lang: es
+draft: false
+date: 2020-06-10T13:42:10+00:00

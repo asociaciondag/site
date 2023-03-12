@@ -1,0 +1,26 @@
+id: 641
+title: 'Pode haber mellor xeito de comezar a semana que recibindo un novo socio?'
+body:
+  -
+    list: after
+    image: /news/images/56c9f6572e690-seica-chove-enrique.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Grazas e ola! O meu nome é Enrique Raimúndez e son natural de Ourense, onde me formei como deseñador na EASD Antonio Faílde. Hoxe resido e traballo en Compostela.
+
+      Tráeme como socio a crenza de que a DAG xa me representaba mesmo antes de coñecela. Por iso comezo este saúdo agradecendo a todas e todos o voso traballo. Achegarei canto poida para que esta comunidade siga dando voz e recoñecendo o valor do Deseño.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/enrique-raimundez-fdez/'
+    text: 'Perfil de socio DAG'
+    type: button
+intro: 'Benvindo, Enrique!'
+slug: pode-haber-mellor-xeito-de-comezar-a-semana-que-recibindo-un-novo-socio
+tags: []
+lang: gl
+draft: false
+date: 2016-02-21T18:27:11+00:00

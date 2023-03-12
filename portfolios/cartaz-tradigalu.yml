@@ -1,0 +1,19 @@
+id: 267
+title: 'Cartaz Tradigalu'
+slug: cartaz-tradigalu
+body:
+  -
+    text: 'Deseño de imaxe gráfica para o programa de música tradicional Tradigalu, lanzado pola Deputación de Lugo'
+    type: text
+  -
+    image: /portfolios/images/tradigalu-cartaz.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//tradigalu-cartaz.jpg
+tags:
+  - Sinalética
+members_id:
+  - 40
+lang: gl
+info: []
+draft: false

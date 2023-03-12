@@ -1,0 +1,36 @@
+id: 27
+contact: |-
+  Rúa das Hedras 2, 3ºE  
+   15895 Novo Milladoiro, Ames (A Coruña)
+
+  T. 981 576 771
+
+  <cen@cenlitrosmetrocadrado.com>
+links:
+  -
+    text: cenlitrosmetrocadrado
+    url: 'http://cenlitrosmetrocadrado.com/'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/oestrimnio'
+    type: twitter
+bio_gl: null
+bio_es: null
+name: 'Xabier Rilo'
+job_gl: 'Deseñador industrial en cenlitrosmetrocadrado'
+job_es: 'Deseñador industrial en cenlitrosmetrocadrado'
+slug: xabier-rilo
+avatar: /members/avatares/554d075825cba-xabier-rilo.jpeg
+avatarBig: null
+tags:
+  - Industrial
+  - Produto
+  - Sinalética
+  - Espazos
+  - Embalaxe
+  - Gráfico
+  - 'Identidade corporativa'
+  - Mobiliario
+  - Exposicións
+draft: false

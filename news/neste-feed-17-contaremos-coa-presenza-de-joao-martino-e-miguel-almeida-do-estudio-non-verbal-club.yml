@@ -1,0 +1,33 @@
+id: 764
+title: 'Neste FEED''17 contaremos coa presenza de João Martino e Miguel Almeida do estudio Non-Verbal Club'
+body:
+  -
+    list: after
+    image: /news/images/nonverbal-web.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      En [Non-Verbal Club](http://nonverbalclub.pt/) valoran moito as perspectivas intelixentes e informadas, e foméntanas mediante un intenso proceso de investigación e mediante o traballo en rede. Esta metodoloxía asegúralles unha resposta única para cada desafío que o cliente lles propón.
+
+      E quen mellor que os propios integrantes de Non-Verbal Club para falar do proceso do traballo no estudio? João Martino cóntao moi ben neste vídeo:
+    type: text
+  -
+    list: ''
+    info:
+      code: '<iframe src="https://player.vimeo.com/video/182607696" width="640" height="360" frameborder="0" title="non-verbal Club" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+      ratio: ''
+    type: embed
+  -
+    list: ''
+    url: 'https://dag.gal/gl/feed2017/'
+    text: 'FEED''17'
+    type: button
+intro: 'Ao João e ao Miguel gústalles definir os proxectos como un acto de equilibrio entre arte e tecnoloxía, entre racionalidade e poesía, entre expectación e sorpresa.'
+slug: neste-feed-17-contaremos-coa-presenza-de-joao-martino-e-miguel-almeida-do-estudio-non-verbal-club
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2017-10-26T09:27:40+00:00

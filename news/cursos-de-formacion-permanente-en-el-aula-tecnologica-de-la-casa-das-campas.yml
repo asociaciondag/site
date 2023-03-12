@@ -1,0 +1,41 @@
+id: 283
+title: 'Cursos de formación permanente en el Aula Tecnológica de la Casa das Campás'
+body:
+  -
+    text: |-
+      Los cursos son:
+
+      **Sketchup 8: modelado en 3D para todos**, impartido por Lucía Fernández Constela Fechas: 3, 5, 6, 10, 11 y 13 de octubre Plazo de matrícula entre el 23.09.11 y el 30.09.11
+
+      **Introducción a la programación creativa. Processing**, con Alberto García Ariza Fechas: 7, 14, 21 y 28 de octubre y 4 y 11 de noviembre Plazo de matrícula entre el 26.09.11 y el 06.10.11
+
+      **JClic: Creación de actividades educativas**, que imparte Almudena Aparicio Andión Fechas: 18, 20, 25 y 27 de octubre y 3 y 8 de noviembre Plazo de matrícula entre el 10.10.11 y el 17.10.11
+
+      **Servicios web 2.0 y blogging**, a cargo de Diego Fernández Pérez Fechas: 14, 16, 18, 21, 23 y 25 de noviembre Plazo de matrícula entre el 4.11.11 y el 11.11.11
+
+      **Diseño de páginas web con recursos gratuitos**, impartido por Lidia Mokonoko Malvido Fechas: 12, 14, 15, 19, 21 y 22 de diciembre Plazo de matrícula entre el 28.11.11 y el 09.12.11
+
+      El número máximo de plazas por curso son 20 y las actividades se desenvolverán siempre en el mismo horario todas: de 19.00 h a 21.00 h.
+
+      La inscripción es gratuita y se puede hacer a través de la página del Aula de Posgrado Virtual:
+
+      [https://bubela.uvigo.es/bubela/publico/publico.php](https://bubela.uvigo.es/bubela/publico/publico.php?funcion=lista_ediciones_grupo&tab=LC&id_grupo=42)
+
+      Descarga el programa:
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a9ec00f3-casadascampas.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    file: /news/files/553e7a9ec00f3-cursos-aula-tecnoloxica-outono2011.pdf
+    text: Descargar
+    type: file
+intro: 'La programación del Aula Tecnológica de la Casa das Campás para el otoño oferta cinco cursos que coordina y dirige Alberto García Ariza.'
+slug: cursos-de-formacion-permanente-en-el-aula-tecnologica-de-la-casa-das-campas
+tags: []
+lang: es
+draft: false
+date: 2011-09-27T09:07:40+00:00

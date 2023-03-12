@@ -1,0 +1,62 @@
+/**
+ * columns.css
+ *
+ * INFORMACION
+ * Contenedor con columnas - http://asociaciondag.org.
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * FERRAMENTAS
+ * Stylecow ............... http://stylecow.github.io/
+ * Desenvolvido por Oscar Otero.
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+/* 1, 2 e tres columnas */
+.ly-1-2-3 {
+	& > article {
+		box-sizing: border-box;
+	}
+
+	@media (--mobile-landscape) {
+		display: flex;
+		flex-wrap: wrap;
+
+		& > article {
+			width: 50%;
+		}
+	}
+
+	@media (--tablet) {
+		& > article {
+			width: 33.33%;
+		}
+	}
+}
+
+/* columnas propias de css, fluídas */
+.ly-cols {
+	column-width: 20rem;
+	column-gap: 1rem;
+
+	& > * {
+		margin: 0 0 1rem 0;
+	}
+
+	/* Para evitar cousas raras cos tweets */
+	& iframe {
+		display: block !important;
+		margin: 0 !important;
+	}
+}
+

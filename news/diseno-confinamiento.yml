@@ -1,0 +1,28 @@
+id: 985
+title: 'Diseño en el confinamiento'
+body:
+  -
+    list: after
+    image: /news/images/screenshot-2020-06-11-at-10-40-22.png
+    text: 'Cartel de la [campaña de apoyo al pequeño comercio](https://www.desonhos.gal/es/compra-segura-compra-local/) publicada por el estudio vigués Desoños'
+    mode: normal
+    type: image
+  -
+    text: |-
+      Desde el inicio del confinamento, han surgido y se han compartido por las redes numerosos y variados contenidos relacionados con diferentes temáticas, y el diseño no iba a ser menos. Proyectos personales o colectivos, _podcast,_ documentales en abierto, eventos virtuales, _webinars_ y webs que buscaban un acercamiento entre los y las profesionales del diseño y también, compartir experiencias, ideas y soluciones de produtos o aplicaciones para mejorar la vida de las personas en este momento y en un futuro inmediato. La difusión de este tipo de contenidos a través de la red permite acercarse a un público más diverso, ávido de conocimiento. Que el diseño haya estado ahí, completando parcela virtual y participando de la vida de las personas, aviva esa necesidad de tenerlo en cuenta como un “solucionador” ante los problemas surgidos, para repensar las ciudades, el consumo de productos y servicios y, en general, nuestras vidas.
+
+      Nuestros socios y nuestras socias también han participado en algunos de estos contenidos. Hablamos, por ejemplo, de Noemí Cortizas que apareció en el #zapatillasFromMars; o Anxo López, que fue uno de los invitados al seminario web _From Spain With Design,_ organizado por READ y que estuvo moderado por nuestra compañera Uqui Permui. Uqui también participó en una _playlist_ de diseño feminista ligada al proyecto _Diseño y Diáspora,_ y Dani Bembibre fue protagonista del seminario web _Y ahora qué?,_ organizado por AEBRAND. Nuestro socio Óscar Otero lanzó _Conxeito,_ un boletín semanal sobre diseño digital con contenidos complementarios de gran interés; y María Ramos colaboró con el proyecto _Fálame,_ una web ideada por dos diseñadores gallegos emigrados a Estados Unidos, Pablo Honey y Tino Barreiro, que pretende dar difusión a nuestra lengua. Nuestro socio Alberto Rodríguez, después de años de trabajo, lanzó la web _lamarcacompostela_ donde enseña diferentes maneras de usar el símbolo de la concha. También han surgido iniciativas que ofrecen recursos para afrontar la situación que vivimos, es el caso de nuestros compañeros de Desoños, que han creado una serie de carteles para el comercio local, adaptada a la reapertura de negocios y disponible para descarga gratuita.
+
+      Puedes ver estos y otros contenidos de interés, relacionados directa o indirectamente con el diseño, en el siguiente documento.
+    type: text
+  -
+    list: ''
+    file: /news/files/contidos-deseno.pdf
+    text: 'Enlaces a contenidos de interés'
+    type: file
+intro: 'A lo largo de estos meses de aislamiento social derivado de la crisis sanitaria y económica provocada por la COVID-19, Internet y las diferentes plataformas _online_ han sido la mejor compañía para todos y todas.'
+slug: diseno-confinamiento
+tags: []
+lang: es
+draft: false
+date: 2020-06-11T11:02:19+00:00

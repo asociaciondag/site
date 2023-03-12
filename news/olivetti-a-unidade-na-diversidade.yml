@@ -1,0 +1,31 @@
+id: 843
+title: 'Olivetti, a unidade na diversidade'
+body:
+  -
+    list: after
+    image: /news/images/2.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      [María Ramos](https://dag.gal/gl/maria-ramos/), como parte intrínseca do seu traballo, vén revisando desde hai anos o papel da coñecida casa italiana de máquinas de escribir Olivetti, no recoñecemento do importantísimo papel que xoga o deseño na consolidación dunha marca.
+
+      A exposición componse de máquinas de escribir, carteis orixinais e outros curiosos elementos que na súa maior parte proceden da [Colección Sirvent.](http://www.sirventvigo.com/sirvent/es) Con ela réndeselle unha homenaxe á empresa italiana que conseguiu fabricar máquinas de escribir durante case un século no cal foi capaz de crear modelos que se converteron en iconas na historia do deseño industrial, destacando pola forma e polos avances conseguidos pola innovación na súa funcionalidade.
+
+      Xunto a máquinas tan senlleiras como a Lexicon 80 ou a Lettera 22 de Marcelo Nizzolli, a Praxis 48 de Ettore Sottsass e Hans von Klier, a Valentine do mesmo Sottssas e Perry King ou a Lexicon 83 DL de Mario Bellini, na exposición atoparemos unha importante parte de gráfica publicitaria que representou á compañía italiana durante os seus anos de historia. Carteis de grandes deseñadores do século XX como Giovanni Pintori, Paul Rand, Milton Glaser ou o citado Nizzoli entre outros, acompañan ás máquinas. Ao mesmo tempo a exposición conta cunha parte adicada a subliñar a importancia da tipografía e as diferenzas no deseño de caracteres creados a medida para a máquina de escribir.
+
+      A exposición complétase cunha mostra do traballo como deseñadora de tipografías de María Ramos, quen desenvolve os seus deseños desde a marca NM type que creou xunto a Noel Pretorius. Entre os seus clientes atópanse firmas como Jägermeister.
+    type: text
+  -
+    list: ''
+    url: 'http://www.didac.gal/didac/gl/exposicions/olivetti'
+    text: 'A mostra na web de DIDAC'
+    type: button
+intro: 'A mostra _Olivetti, a unidade na diversidade_ comisariada pola deseñadora de tipografías María Ramos inaugúrase mañá 22 de novembro ás 20.00 h en DIDAC.'
+slug: olivetti-a-unidade-na-diversidade
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2018-11-21T19:02:21+00:00

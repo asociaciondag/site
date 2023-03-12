@@ -1,0 +1,54 @@
+id: 9
+title: 'Dar forma ao esquecido'
+slug: dar-forma-ao-esquecido
+body:
+  -
+    text: |-
+      Dar forma ao esquecido é un ciclo de charlas e obradoiros organizados pola Facultade de Belas Artes e os Estudos Superiores en Deseño Téxtil e Moda da Universidade de Vigo. Pretende rastrexar a utilización das formas tradicionais nas produccións do deseño contemporáneo en Galicia a través da observación de diferentes casos de estudo, especialmente no ámbito da moda, tanto na construcción de pezas como no desenvolvemento de propostas gráficas aplicadas.
+
+      A partir desta idea plantexase unha identidade visual baseada nunha certa idea da simboloxía gráfica tradicional galega, partindo dos símbolos e marcas dos canteiros e as súas grafías derivadas das ferramentas de talla na pedra.
+    type: text
+  -
+    image: /portfolios/images/5554e7679d1ea-cartel-011.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5554e7679d1ea-cartel-021.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5554e7679d1ea-forma1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5554e7679d1ea-forma3.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5554e7679d1ea-forma4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5554e7679d1ea-forma5.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/558555ccc209a-5554e7679d1ea-forma4.jpg
+tags:
+  - Gráfico
+members_id:
+  - 14
+  - 32
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - 'De dominio público'
+  -
+    - Cliente
+    - 'Universidade de Vigo'
+  -
+    - Ano
+    - '2013'
+draft: false

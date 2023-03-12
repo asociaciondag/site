@@ -1,0 +1,61 @@
+id: 71
+title: 'Casa museo Manuel Antonio'
+slug: casa-museo-manuel-antonio
+body:
+  -
+    text: 'Proxecto museolóxico e museográfico da casa museo do poeta vangardista Manuel Antonio. Traballo realizado coa colaboración de Xosé Luís Axeitos.'
+    type: text
+  -
+    image: /portfolios/images/55859cd997bdc-01ma.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859cd998045-02ma.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859cd9983fa-03ma.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859cd9987e1-04ma.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859cd998bdc-05ma.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859cd998fd0-06ma.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859cd99939c-07ma.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859cd999843-08ma.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859cd9976d1-01ma.jpg
+tags:
+  - Exposicións
+members_id:
+  - 5
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - 'Grupo Revisión Deseño'
+  -
+    - Cliente
+    - 'Concello de Rianxo'
+  -
+    - Ano
+    - '2011'
+  -
+    - 'Execución de montaxe'
+    - 'Aritfacto Cultural'
+draft: false

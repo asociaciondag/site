@@ -1,0 +1,47 @@
+id: 227
+title: 'Interior do metro da cidade de Rennes (Francia)'
+slug: interior-do-metro-da-cidade-de-rennes-francia
+body:
+  -
+    image: /portfolios/images/rennes-int.jpg
+    text: ''
+    type: image
+  -
+    text: |-
+      Este proxecto foi desenvolvido en colaboración co estudio de deseño RCP global de Tours (France).
+
+      Obxectivo: A renovación do interior dos vagóns do metro con motivo da inauguración dunha nova liña. Baseado nunha idea e _requirement_ de persoas con mobilidade reducida, confort (nada de parafusos e ángulos vivos), limpeza (nada de ocos visíbeis) e mecánica (resistencia de asentos abatíbeis) entre outros, traballei co estudio é o equipo técnico de COMPIN para crear este interior. Un proxecto no que se mesturan a mecánica e o deseño visual.
+    type: text
+  -
+    image: null
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/en-images-la-ligne-b-du-metro-de-rennes-sera-plus-spacieuse-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/en-images-la-ligne-b-du-metro-de-rennes-sera-plus-spacieuse-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/en-images-rennes-sur-la-ligne-b-un-metro-plus-spacieux-et-lumineux-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/rennes-int.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//rennes-int.jpg
+tags:
+  - Espazos
+members_id:
+  - 64
+lang:
+  - gl
+  - es
+info:
+  -
+    - 'Cliente:'
+    - 'Cidade de Rennes'
+draft: false

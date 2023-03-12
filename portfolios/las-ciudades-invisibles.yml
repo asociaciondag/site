@@ -1,0 +1,21 @@
+id: 161
+title: 'Las ciudades invisibles'
+slug: las-ciudades-invisibles
+body:
+  -
+    image: /portfolios/images/573f33c9bc88f-presentacion-ciudadesinvisibles-bh1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/573f33c9bca0b-presentacion-ciudadesinvisiblesbh2.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/573f33c9bc5a9-portada-bh-ciudadesinv.jpg
+tags: []
+members_id:
+  - 52
+lang:
+  - gl
+  - es
+info: []
+draft: false

@@ -1,0 +1,37 @@
+id: 934
+title: '¡La DAG crece!'
+body:
+  -
+    list: after
+    image: /news/images/foto-noticia-presentacion-javier-caamano.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Buenas
+
+      Soy Javier Caamaño, fundador y diseñador gráfico en [Mascolor Comunicación](https://mascolor.eu/) en Boiro, A Coruña.
+
+      Empecé en esto allá por el año 2000, después de cursar mis estudios en A Coruña. Di mis primeros pasos en el mundo profesional en varias imprentas de la zona del Barbanza.
+
+      En el 2008 me dieron la oportunidad de hacerme cargo de una de ellas por la jubilación de los dueños. Cambiamos de nombre, pero los primeros años seguimos su línea de trabajo, es decir, la de una imprenta de toda la vida. Pero no era lo mío y decidí dar un cambio a la empresa.
+
+      En 2014 cambiamos de localización y aproveché este momento para repensar la línea de trabajo y pasamos a hacer trabajos de comunicación visual y branding, además de lo que ya hacíamos. No es mi política dejar los clientes de siempre, ellos nos facilitaron las cosas al principio.
+
+      Intento aprender siempre de esta profesión que me encanta, desde pequeño siempre quise dedicarme al diseño y, sobre todo, al branding. Con solo deciros que estuve tres semanas para diseñar la primera firma para el carné de identidad.... siempre me acordaré, fue mi primer diseño de marca, jajaja!
+
+      Como ya os dije, me encanta aprender y por eso quise entrar en esta asociación, que reúne tanta gente diversa de esta profesión. Espero poder aportar mi grano de arena y, sobre todo, adquirir conocimientos de todos vosotros.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/javier-caamano/'
+    text: 'Perfil de Javier Caamaño en la DAG'
+    type: button
+intro: 'Buena prueba de ello es que tan solo un par de días después de recibir al nuevo socio [Alberto Fernández](https://dag.gal/es/bienvenido-alberto/), hoy le damos la bienvenida a una nueva incorporación: Javier Caamaño, un diseñador gráfico que tras dar sus primeros pasos en el mundo de la impresión, decidió dar un giro profesional y apostar por lo que realmente le apasiona: la comunicación visual y el branding.'
+slug: la-dag-crece
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2019-11-12T17:57:19+00:00

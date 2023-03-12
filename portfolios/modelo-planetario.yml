@@ -1,0 +1,21 @@
+id: 394
+title: 'Modelo Planetario'
+slug: modelo-planetario
+body:
+  -
+    image: /portfolios/images/planetario.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//planetario.jpg
+tags:
+  - Industrial
+  - Produto
+  - Mobiliario
+  - Iluminación
+members_id:
+  - 96
+lang:
+  - gl
+  - es
+info: []
+draft: false

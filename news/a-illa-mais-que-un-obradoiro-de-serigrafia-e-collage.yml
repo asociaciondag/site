@@ -1,0 +1,47 @@
+id: 666
+title: ' La ISLA, más que un taller de serigrafía y collage'
+body:
+  -
+    list: after
+    image: /news/images/5735ab0e7d8c1-laisla.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      [La ISLA](http://www.laplatanera.com/talleres/la-isla-taller-serigrafiacollage/)
+
+      Es un encuentro entre el collage y la serigrafía.  
+       Para experimentar la combinación de estas dos técnicas.  
+       Un taller donde nos mancharemos las manos con cola y tinta, donde nuestras herramientas de trabajo seremos nosotros mismos y nuestra imaginación.
+
+      **Información básica**
+
+      **Lugar:** Espacio La Platanera. Illa de Arousa
+
+      **Docentes:** La Platanera, Sr. García e Atijerascorazon
+
+      **Día:** 28 de mayo
+
+      **Horario:** de 10.00 a 14.00 y de 16.00 a 18.00 h
+
+      **Precio:** 70 € (descuento del 10% a socios de la DAG)
+
+      **Más información e inscripciones en** <info@laplatanera.com>
+    type: text
+  -
+    list: ''
+    url: 'https://www.facebook.com/events/1532444873729411/'
+    text: 'Facebook de la ISLA'
+    type: button
+intro: |-
+  Qué pasa cuando unes serigrafía y collage?
+
+  Y qué pasa si lo haces en una isla?
+
+  Esto es lo que nos proponen desde el espacio [La Platanera](http://www.laplatanera.com/), en la isla de Arousa.
+slug: a-illa-mais-que-un-obradoiro-de-serigrafia-e-collage
+tags: []
+lang: es
+draft: false
+date: 2016-05-13T12:23:10+00:00

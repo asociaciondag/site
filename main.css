@@ -1,0 +1,40 @@
+/* BÁSICO */
+
+@import "https://unpkg.com/normalize.css@8.0.1/normalize.css";
+
+@import "css/isaac-font.css";
+@import "css/icona.css";
+@import "css/aspect-ratio.css";
+@import "css/social-font.css";
+@import "css/variables.css";
+@import "css/common.css";
+
+/* LAYOUTS */
+@import "css/layouts/wrappers.css";
+@import "css/layouts/grid.css";
+@import "css/layouts/with-navigation.css";
+@import "css/layouts/columns.css";
+@import "css/layouts/groups.css";
+
+/* MÓDULOS */
+@import "css/modules/button.css";
+/* @import "css/modules/image-viewer.css"; */
+@import "css/modules/page-header.css";
+@import "css/modules/page-content.css";
+@import "css/modules/page-footer.css";
+@import "css/modules/share.css";
+@import "css/modules/promo.css";
+@import "css/modules/carousel.css";
+@import "css/modules/sections.css";
+@import "css/modules/cookies.css";
+@import "css/modules/form.css";
+
+
+/* ENTIDADES */
+@import "css/entities/news.css";
+@import "css/entities/articles.css";
+@import "css/entities/portfolio.css";
+@import "css/entities/members.css";
+@import "css/entities/projects.css";
+@import "css/entities/about.css";
+@import "css/entities/banners.css";

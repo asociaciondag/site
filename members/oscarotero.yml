@@ -1,0 +1,30 @@
+id: 35
+contact: |-
+  Santiago de Compostela
+
+  <oom@oscarotero.com>
+links:
+  -
+    text: Web
+    url: 'http://oscarotero.com'
+    type: link
+  -
+    text: letrag
+    url: 'http://letrag.com/'
+    type: link
+  -
+    text: Github
+    url: 'https://github.com/oscarotero'
+    type: link
+bio_gl: null
+bio_es: null
+name: 'Óscar Otero'
+job_gl: 'Deseñador web'
+job_es: 'Diseñador web'
+slug: oscarotero
+avatar: /members/avatares/56005234b85c5-oscarotero.jpg
+avatarBig: null
+tags:
+  - Web
+  - UX/UI
+draft: false

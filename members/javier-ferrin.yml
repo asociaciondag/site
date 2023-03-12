@@ -1,0 +1,32 @@
+id: 83
+contact: ''
+links:
+  -
+    text: Web
+    url: 'https://javiferrin.com/work'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/javiferrin/'
+    type: linkedin
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/javiferrinstudio'
+    type: facebook
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/javiferrinstudio/'
+    type: link
+bio_gl: null
+bio_es: null
+name: 'Javier Ferrín Rey'
+job_gl: 'Deseñador industrial'
+job_es: 'Diseñador industrial'
+slug: javier-ferrin
+avatar: /members/avatares//javi-ferrin.jpg
+avatarBig: /members/avatares//javi-ferrin.jpg
+tags:
+  - Industrial
+  - Produto
+  - 3D/CGI
+draft: false

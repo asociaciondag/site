@@ -1,0 +1,35 @@
+id: 932
+title: 'Bienvenido, Alberto!'
+body:
+  -
+    list: after
+    image: /news/images/alberto-fernandez-garcia-noticia.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Hola,
+
+      Soy Alberto, natural de Barcelona, aunque residente en Galicia desde los tres años. Pese a que soy técnico superior en el desarrollo de aplicaciones informáticas, he acabado decantándome por una rama más creativa como el diseño gráfico / web, en particular como diseñador UI / UX.
+
+      Me encanta todo lo que tiene que ver con el diseño, no solo el diseño digital enfocado a páginas web o aplicaciones móviles, sino también otras facetas de este como el diseño editorial o el diseño de producto. Intento mantener una formación continua mediante cursos, talleres y certificaciones.
+
+      Hace un par de años acabé dando un giro en mi vida laboral y dejando un poco de lado la programación web para evolucionar hacia un perfil creativo más puro, centrado en el diseño de interfaz gráfica, experiencia de usuario e identidades corporativas. Parte de culpa de esto lo tiene el grado de diseño que curso desde 2017 en la Oberta de Catalunya.
+
+      Gracias al foro de diseño de este año, he podido conocer esta asociación. Sé del gran potencial en materia de diseño en nuestra comunidad y me apasiona la idea de poder compartir consejos, conocimientos, colaboraciones o ideas con grandes profesionales del diseño gallego.
+
+      Un saludo y muchas gracias por acogerme.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/es/alberto-fernandez-garcia/'
+    text: 'Perfil de Alberto Fernández en la DAG'
+    type: button
+intro: 'Las actividades que organiza la DAG, como el FEED, suponen para muchos diseñadores el primer contacto con la Asociación Gallega de Diseño. Este ha sido el caso de este nuevo socio al que hoy vamos a conocer un poco mejor.'
+slug: bienvenido-alberto
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2019-11-07T20:03:37+00:00

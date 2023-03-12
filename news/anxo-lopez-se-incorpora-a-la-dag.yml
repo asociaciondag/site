@@ -1,0 +1,37 @@
+id: 940
+title: 'Anxo López se incorpora a la DAG'
+body:
+  -
+    list: after
+    image: /news/images/2019-anxo-noticia.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Hola
+
+      Soy Anxo, un diseñador industrial lugués que lleva más de 10 años afincado en Madrid. Estudié ingeniería técnica en diseño industrial, después de descubrir la existencia de la profesión en mi paso por la escuela de ingeniería industrial.
+
+      Siempre me han llamado las profesiones en las que la creatividad aplicada al mundo de los negocios juega un papel central. Por eso, después me licencié en Publicidad y Relaciones Públicas. Nunca me he dedicado ni al diseño de producto físico ni a la publicidad, si bien, llevo muchos años transitando los caminos del diseño intangible como diseñador de servicios y de estrategias.
+
+      Más allá del hecho o de las etiquetas que se le pongan a las especializaciones, siempre he considerado el diseño como una única práctica que finaliza con diferentes resultados. Quizás por ello siempre me he preocupado por entender de que manera el diseño como función empresarial aporta valor a la economía, hasta el punto de dedicar unos cuantos años a estudiar este campo a través de la tesis doctoral _El diseño como actividad económica en la industria española del siglo XXI desde una perspectiva estadística._
+
+      Además de andar siempre a la búsqueda de evidencias que hagan tangible el valor económico y social del diseño, también ocupa mi cabeza darle vueltas a lo que el futuro nos traerá como sociedad y cuál será el rol del diseño en un futuro incierto, marcado por el cambio climático, la inestabilidad económica, la desigualdad social, la falta de confianza, la polarización social o la consolidación de las tecnologías de datos y la inteligencia artificial.
+
+      A pesar de lo oscuro que pueda parecer este futuro, soy un optimista, y creo mucho en las capacidades sociales de los humanos y en la capacidad transformadora que hemos demostrado a lo largo de la historia. Espero que desde la DAG podamos poner juntos algún grano de arena en la construcción de un futuro próspero y sostenible.
+
+      Ha sido la enorme calidad humana de las personas que forman parte de este colectivo la que me hizo hacerme socio de la asociación tras conocerlas en la última edición del foro de diseño: FEED 2019. Gracias por acogerme, espero estar a la altura y poder contribuir desde Madrid a la consolidación del diseño gallego.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/es/anxo-lopez/'
+    text: 'Perfil en la web de la DAG'
+    type: button
+intro: 'Con su llegada, la asociación ensancha aún más el amplio abanico de perfiles profesionales existentes, pero en su caso hay una circunstancia que la hace aún más especial: su idea de asociarse es una cosa buena más de las muchas que nos ha dejado la última edición del FEED 19, en la que hemos tenido la suerte de contar con la presencia de conferenciantes tan estupendos como él. ¡Qué alegría que te hagas de la DAG, bienvenido!'
+slug: anxo-lopez-se-incorpora-a-la-dag
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2019-11-26T19:28:37+00:00

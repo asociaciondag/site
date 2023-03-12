@@ -1,0 +1,22 @@
+id: 187
+title: 'Camiseta Metallica'
+slug: camiseta-metallica
+body:
+  -
+    image: /portfolios/images/5810c701d911c-bullitt-camiseta-diseno-one.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5810c68c4e7bf-bullitt-camiseta-diseno-one-model.jpg
+    text: ''
+    type: image
+  -
+    text: 'Más información en: <http://innovacionagil.com/portfolio/camisetas-bullitt-store/>'
+    type: text
+cover: /portfolios/covers/5810c62c671b6-bullitt-camiseta-diseno-one.jpg
+tags: []
+members_id:
+  - 54
+lang: es
+info: []
+draft: false

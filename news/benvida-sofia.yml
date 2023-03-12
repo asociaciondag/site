@@ -1,0 +1,36 @@
+id: 1172
+title: 'Benvida Sofía​!'
+body:
+  -
+    list: after
+    image: /news/images/foto-sofia-socia.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Boas, chámome Sofía, son e vivo en Pontevedra, e din unhas voltas polo mundo antes de voltar a casa.
+
+      Son licenciada en Belas Artes en Salamanca, especializada en deseño gráfico. Completei estudos de fotografía e tipografía na Gerrit Rietveld Academie de Amsterdam. Becada pola Fundación Barrié, cursei o “Master of Science” en communications design en Pratt Institute, Nova York.
+
+      Traballei en estudos de deseño gráfico como Milton Glaser e RDA de Manhattan, Frank Schröder London en Londres, BR Nektarnet en Barcelona ou Interbrand en Madrid.
+
+      Xa en Pontevedra, dende o ano 2006 traballei de forma independiente para empresas e institucións como a Fundación Barrié, Ministerio de Sanidad, Concello de Pontevedra, Bodegas Vivanco ou Hifas da Terra.
+
+      Agora estou traballando en Hifas da Terra como deseñadora gráfica _manager_ e, aínda que o meu traballo sempre foi de deseño gráfico xeralista, actualmente estou mais interesada e centrada en proxectos de _branding_ e _packaging_.
+
+      MUNDO - (NATUREZA + ARTE + ACCIDENTE) = DESEÑO
+
+      Encantada de pertencer a DAG. Espero poder compartir, aportar e aprender.
+
+      Unha aperta,
+
+      Sofía.
+    type: text
+intro: 'A DAG suma unha nova asociada, [Sofía F de Ana](https://dag.gal/es/sofia-f-de-ana/), que despois de percorrer medio mundo, volveu a Galicia e traballa desde Pontevedra. Estamos moi contentas de contar con ela.'
+slug: benvida-sofia
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2022-10-13T12:00:00+00:00

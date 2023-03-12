@@ -1,0 +1,37 @@
+id: 211
+title: 'Taller de re-diseño: monedero, carrete, zueco, barricada'
+body:
+  -
+    text: |-
+      El taller está orientado a la formalización de objetos utilitarios mediante el remontaje de materiales que se encuentran al término de una cadena de consumo.
+
+      Se trata de realizar propuestas de reutilización y reprogramación de materiales de deshecho orientados hacia un uso cotidiano en forma de pequeños artefactos.
+
+      Objetos insurrectos considerados como anti-mecanismos que cumplen temporalmente una función; utensilios primordialmente empáticos, afectivos; dispositivos que plantean un reaprendizaje crítico, poético a través de la desnudez de los materiales.
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a9c38040-taller-de-redeseno.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    file: /news/files/553e7a9c38040-taller-de-redeseno.pdf
+    text: Descargar
+    type: file
+  -
+    list: ''
+    file: /news/files/553e7a9c38040-curriculo-de-david-castro.pdf
+    text: Descargar
+    type: file
+  -
+    list: ''
+    file: /news/files/553e7a9c38040-folla-de-inscricion.pdf
+    text: Descargar
+    type: file
+intro: '[David Castro](http://dfarte.com/galeria.php?id_autor=69) imparte un [taller de rediseño](http://www.macuf.es/htdocs/actividades_talleres_redisenho.html) todos los sábados del 26 de febrero al 26 de marzo en el Macuf.'
+slug: taller-de-re-diseno-monedero-carrete-zueco-barricada
+tags: []
+lang: es
+draft: false
+date: 2011-02-22T11:03:47+00:00

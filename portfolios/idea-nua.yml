@@ -1,0 +1,54 @@
+id: 14
+title: 'Idea núa'
+slug: idea-nua
+body:
+  -
+    text: |-
+      Para Ana Ferreiro a psicoloxía é ‘a arte de esfrangullar e facer sinxelo aquilo que semella insuperable’. Con esta idea na cabeza foi sinxelo buscarlle nome ao seu gabinete de psicoloxía: collemos a ‘unidade mínima de pensamento’ e desprendémola de todo o accesorio.
+
+      Na construción da marca empregamos unha tipografía de formas amables, lixeira e nunha cor neutra cunha lixeira calidez. Como recursos secundarios empregamos diversos tipos de asento e en diversas ordenacíons, representando diversos carácteres psicolóxicos e circunstancias persoais ou de grupo -parella, familia-.
+
+      No deseño do mobiliario para o seu gabinete tamén quixemos facer patente as sensacións de calidez e comodidade, necesarias para o desenvolvemento da actividade. A madeira maciza, traballada a partir de táboas de espesor constante, e combinada con chapa metálica e trenzados de fibras vexetais, é o eixo dun mobiliario que pon en valor o rigor construtivo da tradición.
+    type: text
+  -
+    image: /portfolios/images/5557189230195-ideanua01.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5557189230195-ideanua02.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5557189230195-ideanua03.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5557189230195-ideanua04.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5557189230195-ideanua05.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/558559536e531-5557189230195-ideanua04.jpg
+tags:
+  - 'Identidade corporativa'
+  - Mobiliario
+members_id:
+  - 13
+  - 27
+  - 30
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - Cenlitrosmetrocadrado
+  -
+    - Cliente
+    - 'Ana Ferreiro'
+  -
+    - Ano
+    - '2011'
+draft: false

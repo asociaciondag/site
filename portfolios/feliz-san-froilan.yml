@@ -1,0 +1,28 @@
+id: 96
+title: 'Feliz San Froilán'
+slug: feliz-san-froilan
+body:
+  -
+    text: |-
+      Campaña Feliz San Froilán 2009. Xunta de Galicia.
+
+      Desde a Xunta encárgasenos representar unha chiscadela dos galegos para felicitar os lucenses polas súas festas de San Froilán.
+    type: text
+cover: null
+tags:
+  - Gráfico
+members_id:
+  - 11
+  - 15
+lang: gl
+info:
+  -
+    - Estudio
+    - Sond3
+  -
+    - Cliente
+    - 'Xunta de Galicia'
+  -
+    - Ano
+    - '2009'
+draft: true

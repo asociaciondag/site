@@ -1,0 +1,30 @@
+id: 1168
+title: 'O Galicia Design Weekend chega a Vigo '
+body:
+  -
+    list: after
+    image: /news/images/imagen-gdw22x-conborde.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      O festival comeza a tarde do sábado, na nova Galería Maraca que acolle as conversas da directora de arte viguesa Noe Díaz Patiño (Farfetch), dos arquitectos santiagueses Rvr, da paisaxista tamén de Vigo María Fandiño, do estudio creativo vasco Cuchillo e do estudio de deseño gráfico vigués Chachachá​ ​Studio. E acabarase coa sesión de Fernandes Dj, tamén deseñadora gráfic​a.
+
+      As dúas exposicións do programa inauguraranse tamén este sábado e estarán instaladas ata o domingo 29 de outubro. _\#novodeseñogalego_ é unha mostra do mellor talento emerxente galego sobre unha instalación do estudio Flu-or. E _Arquitectura do Camiño_ é unha selección de proxectos non residenciais realizados entre os anos Xacobeo 2011 e 2021 comisariada por Jordi Castro, do estudio vigués de arquitectura Castroferro.
+
+      Haberá ademais​ ​un _Showroom_ dixital de creacións de deseño galego e un taller de _Introdución ao deseño de personaxes para animación_ en _motion graphics_ impartido por Chachacha Studio, con inscrición gratuíta enviando un correo a info@gdw.gal.
+
+      Galicia Design Weekend é un proxecto do socio Álex Rico e da axencia Follow.
+    type: text
+  -
+    list: ''
+    url: 'https://www.gdw.gal/'
+    text: 'Máis Información'
+    type: button
+intro: 'O Galicia Design Weekend, festival de deseño que forma parte do circuíto internacional de semanas do deseño, chega por primeira vez a Vigo este sábado 1 de outubro con conferencias, exposicións, un taller e un _showroom_ dixital.'
+slug: o-galicia-design-weekend-chega-a-vigo
+tags: []
+lang: gl
+draft: false
+date: 2022-09-29T12:00:00+00:00

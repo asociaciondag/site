@@ -1,0 +1,28 @@
+id: 978
+title: 'READ publica unha enquisa para avaliar os efectos do COVID-19 no sector do deseño'
+body:
+  -
+    list: ''
+    image: /news/images/enquisa.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      A enquisa permitirá recompilar datos obxectivos para saber como está a afectar o confinamento á actividade profesional de persoas autónomas e pemes que ofrecen servizos de deseño.
+
+      Os datos recompilados servirán para formular algunhas recomendacións ás institucións competentes para activar medidas e instrumentos de apoio ao sector.
+
+      O cuestionario é breve e anónimo e está dispoñible en catro linguas ([galego](https://read-covid19.typeform.com/to/w7pxi9), [euskera](https://read-covid19.typeform.com/to/Q2iNig), [valencià](https://read-covid19.typeform.com/to/wwrbS5) e [castelán](https://read-covid19.typeform.com/to/bmHd3s)). Permanecerá activo para reunir datos ata o último día de abril.
+    type: text
+  -
+    list: ''
+    url: 'https://read-covid19.typeform.com/to/w7pxi9'
+    text: 'Acceso á enquisa'
+    type: button
+intro: '[READ](https://www.designread.es), a Rede Española de Asociacións de Deseño, en colaboración co [BCD](https://www.bcd.es), Barcelona Centro de Deseño, está a recompilar datos para valorar as consecuencias que a situación provocada pola propagación do COVID-19 está a causar no sector do deseño.'
+slug: enquisa-covid19
+tags: []
+lang: gl
+draft: false
+date: 2020-04-22T13:01:26+00:00

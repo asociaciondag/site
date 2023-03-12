@@ -1,0 +1,29 @@
+id: 392
+title: 'Modelo UFO'
+slug: modelo-ufo
+body:
+  -
+    image: /portfolios/images/000-ufodsk.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/00-ufo-dsk.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/0-ufo-dsk.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//000-ufodsk.jpg
+tags:
+  - Industrial
+  - Produto
+  - Mobiliario
+  - Iluminación
+members_id:
+  - 96
+lang:
+  - gl
+  - es
+info: []
+draft: false

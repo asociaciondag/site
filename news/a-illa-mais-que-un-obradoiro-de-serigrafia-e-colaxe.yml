@@ -1,0 +1,49 @@
+id: 665
+title: ' A ILLA, máis que un obradoiro de serigrafía e colaxe'
+body:
+  -
+    list: after
+    image: /news/images/5735ab0e7d8c1-laisla.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      [A ILLA](http://www.laplatanera.com/talleres/la-isla-taller-serigrafiacollage/)
+
+      É un encontro entre a colaxe e a serigrafía.
+
+      Para experimentarmos a combinación destas dúas técnicas.
+
+      Un obradoiro onde mancharmos as mans con cola e tinta, onde as ferramentas de traballo seremos nós mesmos e a nosa imaxinación.
+
+      **Información básica**
+
+      **Lugar:** Espazo La Platanera. Illa de Arousa
+
+      **Docentes:** La Platanera, Sr. García e Atijerascorazon
+
+      **Día:** 28 de maio
+
+      **Horario:** de 10.00 a 14.00 e de 16.00 a 18.00 h
+
+      **Prezo:** 70 € (desconto de 10% a socios da DAG)
+
+      **Máis información e inscricións en** <info@laplatanera.com>
+    type: text
+  -
+    list: ''
+    url: 'https://www.facebook.com/events/1532444873729411/'
+    text: 'Facebook da ILLA'
+    type: button
+intro: |-
+  Que pasa cando unes serigrafía e colaxe?
+
+  E que pasa se o fas nunha illa?
+
+  Isto é o que nos propoñen desde o espazo [La Platanera](http://www.laplatanera.com/), na illa de Arousa.
+slug: a-illa-mais-que-un-obradoiro-de-serigrafia-e-colaxe
+tags: []
+lang: gl
+draft: false
+date: 2016-05-13T12:23:10+00:00

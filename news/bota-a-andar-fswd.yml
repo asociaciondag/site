@@ -1,0 +1,41 @@
+id: 1010
+title: 'Bota a andar o proxecto FSWD co obxectivo de promover o deseño español a nivel internacional'
+body:
+  -
+    list: after
+    image: /news/images/libro-fswd.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      FSWD é un ambicioso proxecto impulsado pola [Rede Española de Asociacións de Deseño](http://www.designread.es), da que a DAG é membro, e concibido de maneira colaborativa en anteriores edicións do ENAD. É unha iniciativa que conta ademais co apoio do Ministerio de Educación, Cultura e Deporte.
+
+      O corazón do proxecto inclúe 3 vías principais: unha plataforma web, unha exposición e un documental. Entre os seus obxectivos están a necesidade de dar visibilidade ao deseño español, favorecer o traballo colaborativo, e reivindicar o valor da creatividade e do deseño nos procesos de crecemento e mellora.
+
+      Coordinado por Juan Lázaro, Ángel Martínez, Gloria Escribano e, a nosa socia e vicepresidenta de READ, Uqui Permui, o proxecto conta coa colaboración dun grande número de profesionais; colaboracións que inclúen nomes coma o de Raquel Pelta, Carlos Tíscar, ou Marcelo Ghio.
+
+      A primeira fase de FSWD xa está en marcha. A plataforma web está activa e conta, neste momento, cunha selección de 217 profesionais. Nesta mostra podemos ver algúns exemplos salientables do deseño actual desenvolvido dende distintos lugares da Península. Exemplos que foron propostos polas propias asociacións pertencentes a READ e outras entidades colaboradoras. A estrutura da web está dividida en 4 categorías principais: deseño gráfico e comunicación visual; deseño industrial e de produto; deseño de espazos e interiorismo; e deseño de servizos, tecnoloxía e políticas.
+
+      Durante o [8º ENAD](https://designread.es/8enad/) presentouse ademáis unha publicación asociada ao proxecto, _From Spain With Design ¿Refleja la imagen de España lo que diseñamos?_. O libro, publicado por Experimenta Editorial, reúne opinións de profesionais que reflexionan sobre o panorama actual do deseño español e a súa presenza no ámbito internacional. Conta con contribucións como a de Anxo López, Miguel Zorraquino, Xènia Viladàs, Olaia Irulegi, Marcelo Alegre, Victoria de Pereda ou Nicola Cerantola. As reflexións dende as institucións veñen da man de Teresa Riesgo Alcaide, Secretaria Xeral de Innovación do Ministerio de Ciencia e Innovación, e de Adriana Moscoso, Directora Xeral de Industriais Culturais, Propiedade Intelectual e Cooperación. O libro está dispoñible na tenda _online_ de Experimenta que, como entidade colaboradora coa DAG, ofrece un desconto do 5% e envío peninsular gratuíto a socias e socios.
+
+      FSWD entra agora nunha segunda fase de desenvolvemento, na que xa están marcados novos fitos, entre eles a creación do documental. É esta unha proposta, promovida por Raquel Pelta e Uqui Permui, que busca ofrecer unha visión panorámica do deseño español actual, enfatizando o seu papel como elemento estratéxico, de modernización e internacionalización das empresas.
+
+      _From Spain With Design_ nace coa idea de ser un proxecto vivo e dinámico, aberto á colaboración de empresas e institucións para conseguir que o noso deseño expanda as súas fronteiras e chegue a un maior número de persoas.
+    type: text
+  -
+    list: ''
+    url: 'https://fswd.es'
+    text: 'Web FSWD'
+    type: button
+  -
+    list: ''
+    url: 'http://www.experimenta.es/tienda/producto/from-spain-with-design-refleja-la-imagen-de-espana-lo-que-disenamos/'
+    text: 'Libro FSWD ¿Refleja la imagen de España lo que diseñamos?'
+    type: button
+intro: 'O 8º Encontro Nacional de Asociacións de Deseño, organizado por DIP Murcia e READ, acolleu a presentación oficial dun proxecto que busca a proxección internacional do noso deseño: _From Spain With Design_.'
+slug: bota-a-andar-fswd
+tags: []
+lang: gl
+draft: false
+date: 2020-09-23T11:15:37+00:00

@@ -1,0 +1,28 @@
+id: 706
+title: 'Ano novo, socia nova :)'
+body:
+  -
+    list: after
+    image: /news/images/587f9ee001b54-bea-lema.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Ola, o meu nome é Bea Lema e vivo na Coruña, a miña cidade natal. Estudei Deseño de Produto e comecei a miña traxectoria profesional traballando para a firma de cerámica Sargadelos. Posteriormente creei o proxecto Lelédacuca, xunto con Xoan Torres, no que realizamos obxectos que mesturan a artesanía tradicional co deseño contemporáneo.
+
+      Na actualidade son socia da cooperativa 7H, desde onde desenvolvo o meu traballo en relación ao deseño de produto e a ilustración. Realicei proxectos moi diversos (obxectos grandes, obxectos pequenos, instalacións, accións,...). Ademais, tamén imparto os meus propios talleres.
+
+      Creo firmemente na cooperación e é por isto que decidín pasar a formar parte da DAG. Como dicían na Bola de Cristal: só non podes, con amigos si.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/bea-lema/'
+    text: 'Perfil na DAG'
+    type: button
+intro: 'Chámase Bea Lema e é deseñadora de produto. Grazas por unirte á DAG e benvinda!'
+slug: ano-novo-socia-nova
+tags: []
+lang: gl
+draft: false
+date: 2017-01-18T17:59:11+00:00

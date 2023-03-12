@@ -1,0 +1,33 @@
+id: 188
+title: Hatuchay
+body:
+  -
+    type: text
+    text: |-
+      Editorial VOX
+
+      A Arxentina
+
+      Libros
+
+      _Hatuchay_
+
+      Autor: Washington Cucurto
+
+      _Cartonerita_
+
+      Autor: Washington Cucurto
+
+      [VOX](http://www.revistavox.org.ar/editorial.htm) é unha editorial centrada na literatura e a arte contemporánea que desde 1995 edita a revista obxecto VOX e libros de poesía contemporánea arxentina e latinoamericana e unha colección de tradución. VOX é ademais unha organización de artistas autoxestionada que non depende de institucións oficiais.
+  -
+    type: image
+    image: /news/images/553e7a9b5f7b5-hatuchay.gif
+  -
+    type: image
+    image: /news/images/553e7a9b5f7b5-cartonerita.gif
+intro: null
+slug: hatuchay
+tags: []
+lang: gl
+draft: false
+date: 2010-12-10T10:52:50+00:00

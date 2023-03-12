@@ -1,0 +1,35 @@
+id: 1112
+title: 'Conferencia de Nacho Lavernia, Premio Nacional de Deseño, no Centro Galego de Arte Contemporánea'
+body:
+  -
+    list: after
+    image: /news/images/tarjeta-nl-1.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      From Spain With Design (FSWD) é un proxecto de READ, Rede Española de Asociacións de Deseño, concibido de forma colaborativa como unha ferramenta para a proxección do deseño español a nivel nacional e internacional. Froito deste proxecto inaugurouse o pasado 15 de outubro a exposición «FSWD. Identidade e territorio», que recolle proxectos de deseño de distintos ámbitos, entre eles o deseño de estoxos, especialidade na que sobresae [Nacho Lavernia](https://lavernia-cienfuegos.com/es/equipo), Premio Nacional de Deseño no 2012 e un referente a nivel internacional.
+
+      A exposición conta cun acordo firmado entre a Xunta de Galicia e READ a través da [Axencia Galega da Industria Forestal](https://www.xunta.gal/notas-de-prensa/-/nova/64991/xunta-red-espanola-asociaciones-diseno-colaboraran-divulgacion-del-uso-madera), para a divulgación do uso da madeira galega como elemento para o deseño. Deste xeito todas as mostras desta exposición itinerante, que se desenvolverá en varias cidades e países, utilizarán como soportes das pezas unhas peanas realizadas de maneira artesanal en Galicia con madeira local.
+    type: text
+  -
+    list: ''
+    image: /news/images/expo-fswd-xeral.jpg
+    text: 'Vista das peanas da exposición «FSWD. Identidade e territorio», feitas en colaboración con Xera'
+    mode: normal
+    type: image
+  -
+    text: 'As prazas para a conferencia cubriranse por orden de inscrición e posteriormente, ás 19:00h, realizarase unha visita guiada á exposición. «FSWD: Identidade e territorio» está​ ​ comisariada por Uqui Permui (DAG), Ángel Martínez (ADCV), Gloria Escribano (DIMAD) e Juan Lázaro (Cuenca Diseño) e pode visitarse ata o 30 de xaneiro.'
+    type: text
+  -
+    list: ''
+    url: 'https://forms.gle/B8Tx5r93ifcwDRhN7'
+    text: Inscricións
+    type: button
+intro: 'O vindeiro xoves 13 de xaneiro ás 18:00 h. no [CGAC,](https://cgac.xunta.gal/gl) Nacho Lavernia ofrecerá a conferencia «Exportar deseño e deseño para exportar» no marco da exposición «[FSWD: Identidade e territorio](https://fswd.es/expo/)»'
+slug: conferencia-nacho-lavernia-premio-nacional-deseno
+tags: []
+lang: gl
+draft: false
+date: 2022-01-04T12:00:00+00:00

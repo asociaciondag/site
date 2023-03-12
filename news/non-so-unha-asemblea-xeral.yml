@@ -1,0 +1,36 @@
+id: 646
+title: 'Non só unha asemblea xeral '
+body:
+  -
+    list: after
+    image: /news/images/56d469350a0a9-cartel-asemblea-dag.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Con este obxectivo, paralelamente á asemblea, propómosvos unha serie de actividades abertas, pensadas tamén para vós, todos os que tedes curiosidade e interese por achegarvos e saber un pouco máis da DAG e dos seus asociados. O programa deste ano inclúe:
+
+      11.00 h Unha charla sobre estratexia de marca a cargo dos integrantes de Desoños
+
+      12.00 h Descanso – café
+
+      12.30 h Presentación de GazeHits: App desenvolvida en Galicia para predicir a atención visual
+
+      Aínda que é sabido que os membros de [Desoños](http://www.desonhos.gal/) derrubaron tabiques para facernos sitio ;)
+    type: text
+  -
+    list: ''
+    info:
+      code: "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Tomámonos en serio a asemblea xeral da <a href=\"https://twitter.com/asociaciondag\">@asociaciondag</a>, e tiramos un tabique para acollela o 5 de marzo! <a href=\"https://twitter.com/hashtag/deso%C3%B1ando?src=hash\">#desoñando</a> <a href=\"https://t.co/i6qg5bJGR5\">pic.twitter.com/i6qg5bJGR5</a></p>&mdash; Desoños (@_desonhos) <a href=\"https://twitter.com/_desonhos/status/704309211136659456\">February 29, 2016</a></blockquote>\r\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+      ratio: ''
+    type: embed
+  -
+    text: 'O espazo é limitado, por tanto, se queres vir, avísanos antes no correo: [info@asociaciondag.org](mailto:info@asociaciondag.org?subject=Quero%20asistir%20%C3%A1s%20actividades%20abertas%20da%20DAG%20este%20s%C3%A1bado)'
+    type: text
+intro: 'Porque, como xa vén sendo habitual nas últimas edicións, a DAG amplía o formato da asemblea de socios para favorecer o encontro entre deseñadores.'
+slug: non-so-unha-asemblea-xeral
+tags: []
+lang: gl
+draft: false
+date: 2016-02-29T16:52:21+00:00

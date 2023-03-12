@@ -1,0 +1,40 @@
+id: 825
+title: '15 Encuentro Galego de Ilustración'
+body:
+  -
+    list: after
+    image: /news/images/cartel-15encontro-1000px.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## Invitados de relevancia internacional
+
+      Los invitados principales de este año son tres nombres de gran relevancia dentro del panorama actual de la ilustración: **Ana Galvañ**, **Juan Díaz-Faes** y **Miguel Gallardo**.
+
+      **Ana Galvañ**, murciana afincada en Madrid, ha realizado trabajos de ilustración y cartelería para empresas e instituciones como Lonely Planet, Unicef o Matadero Madrid. Es una de las autoras de cómics máis interesantes e innovadora de la actualidad, y su libro _Pulse enter para continuar_ está a punto de publicarse en el mercado estadounidense de la mano de la prestigiosa editora Fantagraphics.
+
+      El asturiano **Juan Díaz-Faes** es un ilustrador multidisciplinar, especializado en diseño de estampados textiles e ilustración de producto. Colabora en revistas como _Yorokobu_ o _Ling_ y ha trabajado para marcas como Vodafone o Ikea. Es coautor de varios libros, como _Treinteenagers,_ con Carlos G. Miranda (Lunwerg), o _Cien pelis para ver y darle al coco,_ con Borja Crespo (_Yorokobu_).
+
+      Por su parte, la larga trayectoria del catalán **Miguel Gallardo** está ligada en sus comienzos a la legendaria revista _El Víbora,_ en la que ha creado personajes tan icónicos como Makoki o El Niñato. Despúes ha forjado una sólida trayectoria internacional como ilustrador editorial, colaborando con medios como _New Yorker_ o _Herald Tribune_ (que le han valido dos premios de la Society of Newspaper Design). En 2007 publicó la novela gráfica _María y yo,_ que narra sus experiencias con su hija con autismo. El libro, de gran éxito, ha sido adaptado posteriormente al cine, y en 2015 ha tenido una continuación _María cumple 20 años._
+
+      ## Programa atractivo
+
+      El viernes 28 Unitaria (Calzada de San Pedro, s/n, 15703 Santiago de Compostela) acoge dos actividades: un taller de ilustración a cargo de Miguel Gallardo -con el irónico título de “Yo no sé dibujar”- es una nueva sesión de la Ilustranoite, formato en que una decena de ilustradores e ilustradoras de Galicia presentarán sus proyectos de modo ágil, ameno y muy visual.
+
+      El sábado 29, durante toda la jornada en el Auditorio de Galicia (Av. do Burgo das Nacións, s/n, 15704 Santiago de Compostela), tendrán lugar las charlas de **Galvañ**, **Díaz-Faes** y **Gallardo**. Además, habrá un panel de experiencias en que los gallegos **Pilar Marcó**, **Xurxo G. Penalta** y **David Pazos** hablarán de su visión como ilustradores para la industria textil gallega.
+
+      Todas las actividades son de entrada libre y gratuita, excepto el taller, que requiere una inscripción previa de 15 euros. Toda la información puede consultarse en la web de [AGPI](https://agpi.es/).
+    type: text
+  -
+    list: ''
+    url: 'https://agpi.es/encontro/'
+    text: '15 Encontro Galego de Ilustración'
+    type: button
+intro: 'Este año, el Encuentro Gallego de Ilustración que organiza anualmente la AGPI alcanza su edición número 15, y ofrece más contenidos y actividades de interés tanto para profesionales como para el público general. El grueso de las actividades se desarrollará en Unitaria (viernes 28) y en el Auditorio de Galicia (el sábado 29).'
+slug: 15-encuentro-galego-de-ilustracion
+tags: []
+lang: es
+draft: false
+date: 2018-09-21T19:32:53+00:00

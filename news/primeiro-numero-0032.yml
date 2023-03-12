@@ -1,0 +1,18 @@
+id: 58
+title: 'Primeiro número 0032'
+body:
+  -
+    text: 'Esta primeira edición on-line de 32 páxinas inclúe: “Historias tipográficas” de Óscar Otero, “Tango corazón de papel” de Gisela Ahumada, unha conversa entre Uqui Permui e Martiño Villaver de “Inspirar… expirar”, “Formatos e grellas, todo en-caixa” de Natalia Crecente e Segundo Fernández e “Replica, unha tipografía do século XXI” de Marcos Dopico A portada é unha colaxe formada con algunhas versións da gráfica utilizada polo boletín mensual da cultura galega, medio de expresión entre 1920 e 1935 do grupo Nós.'
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a97a404c-0032-1-copia.gif
+    text: ''
+    type: image
+intro: 'A Asociación DAG presenta o primeiro número da revista 0032.'
+slug: primeiro-numero-0032
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2009-11-13T08:45:57+00:00

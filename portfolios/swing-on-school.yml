@@ -1,0 +1,67 @@
+id: 179
+title: 'Swing on School'
+slug: swing-on-school
+body:
+  -
+    text: |-
+      Swing on School es una escuela de bailes _swing_ con sede en Vigo, aunque también imparten clases por toda Galicia (Cangas, Bueu, Santiago, Vilagarcía…).
+
+      Sus fundadores vienen ofreciendo talleres desde hace varios años, convirtiéndose así en catalizadores de la explosión de una escena que se empieza a consolidar por todo el país.
+
+      Diseñamos su imagen y material promocional apoyándonos en un _lettering_ personalizado con reminiscencias a la fiebre del _swing_ de los años 30.
+    type: text
+  -
+    image: /portfolios/images/574883212c8e1-swingon-1.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5748845202b8a-swingon-2.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5748845203095-swingon-3.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5748845203608-swingon-4.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/57488452036db-swingon-5.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5748845203789-swingon-6.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5748845203842-swingon-7.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5748845203914-swingon-8.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/57488452039cc-swingon-9.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5748845203a81-swingon-10.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5748845203b2f-swingon-11.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5748845203bde-swingon-12.png
+    text: ''
+    type: image
+cover: /portfolios/covers/574883212c7c7-swingon-1.png
+tags: []
+members_id:
+  - 53
+lang: es
+info: []
+draft: false

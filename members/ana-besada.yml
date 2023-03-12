@@ -1,0 +1,31 @@
+id: 107
+contact: |-
+  T. 604 073 032
+
+  info@slabdesign.es
+links:
+  -
+    text: Web
+    url: 'https://www.slab.es/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/slabarquint/'
+    type: facebook
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/SlabArquInt'
+    type: facebook
+bio_gl: null
+bio_es: null
+name: 'Ana Besada'
+job_gl: 'Deseño de interiores'
+job_es: 'Diseño de interiores'
+slug: ana-besada
+avatar: /members/avatares//ana-besada.jpg
+avatarBig: null
+tags:
+  - 'Identidade corporativa'
+  - Gráfico
+  - Espazos
+draft: false

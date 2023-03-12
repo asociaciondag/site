@@ -1,0 +1,37 @@
+<div class="wrapper">
+	<nav class="buttons-tabs">
+		<a class="button is-selected" href="<?= $this->url('members') ?>"><?= __('Socios') ?></a>
+		<a class="button" href="<?= $this->url('portfolios') ?>"><?= __('Proxectos') ?></a>
+	</nav>
+
+    <ul class="buttons-tags page-content-bar">
+		<li<?= empty($tag) ? ' class="is-selected"' : '' ?>>
+			<a href="<?= $this->url('members') ?>"><?= __('Todas as etiquetas') ?></a>
+		</li>
+
+		<?php foreach ($tags as $t): ?>
+		<li<?= ($tag && $t->slug === $tag->slug) ? ' class="is-selected"' : '' ?>>
+			<a href="<?= $this->url('members-tag', ['tag' => $t->slug]) ?>"><?= $t->name ?></a>
+		</li>
+		<?php endforeach ?>
+	</ul>
+
+	<div class="ly-1-2-3 members-grid">
+    {% for member in search.pages("type=member", "name=ASC") %}
+      <article class="member member-list" data-folk="members,<?= $member->id ?>">
+        <figure class="member-avatar">
+          <img src="<?= Img::getUri($member->avatar, 'resizeCrop,64,64'); ?>" alt="">
+        </figure>
+
+        <header class="member-header">
+          <h1>
+            <a href="{{ member.url }}">
+              {{ member.name }}
+            </a>
+          </h1>
+          <p>{{ member.job_gl }}</p>
+        </header>
+      </article>
+    {% endfor %}
+	</div>
+</div>

@@ -1,0 +1,36 @@
+id: 1076
+title: 'A vindeira semana celébrase o Galicia Design Weekend'
+body:
+  -
+    list: after
+    image: /news/images/gdw21.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      O Galicia Design Weekend ofrece un formato híbrido de programación, gratuíta e aberta ao público, con catro eixos diferenciados: o «Pro», na Fundación Barrié, onde se desenvolverán as conferencias, charlas e proxeccións previa retirada de entradas; o «Showcase» que inclúe dúas exposicións adicadas ao deseño; o «Showroom», un escaparate dixital de espazos de creación galegos que se poderán ver na propia web do evento; e o «Creative Camp», cun obradoiro na Fundación Luis Seoane e unha revisión de _portfolios_ de estudantes e xente moza profesional.
+
+      As exposicións poderán visitarse desde o 30 de xullo ata o 29 de agosto, en diferentes espazos da cidade. A Fundación Barrié acollerá a exposición #omellordeseñodoano con traballos premiados en diferentes certames internacionais; e Os Cantóns será o espazo escollido para o #novodeseñogalego, cunha mostra do talento emerxente da comunidade.
+
+      O Galicia Design Weekend marca o camiño para a Galicia Design Week que se celebrará no 2022 e que se incluirá no circuíto de citas internacionais de cidades como Barcelona, Londres, Nova York ou México. Entre os obxectivos deste macro evento está o de fomentar a conexión e intercambio creativo de Galicia co exterior, impulsar o tecido profesional e cultural galego, formar ás novas xeracións e minimizar o impacto medioambiental.
+
+      O festival, organizado pola axencia [Follow](https://follow.gal/) e o [Clúster da Comunicación de Galicia](http://www.clustercomunicacion.gal/es/), conta cun consello asesor formado por profesionais de referencia en Galicia. Nesta ocasión a DAG actúa como socia colaboradora. Dende a asociación seleccionamos os documentais de deseño incluídos no programa —_Rams_ e _Objectified_— e participaremos na conversa sobre «O Valor do Deseño» na xornada do sábado.
+    type: text
+  -
+    list: ''
+    url: 'https://www.gdw.gal/'
+    text: 'Web GDW'
+    type: button
+  -
+    list: ''
+    url: 'https://dice.fm/partner/follow/event/evxk2-galicia-design-weekend-30th-jul-fundacin-barrie-a-corua-tickets?dice_source=web&dice_medium=organic&dice_campaign=Follow&_branch_match_id=947074027675650013'
+    text: 'Entradas GDW'
+    type: button
+intro: 'O 30 e 31 de xullo terá lugar na Coruña o Galicia Design Weekend, un festival de deseño que incluirá no seu programa grandes proxectos e profesionais do momento en Galicia e a nivel internacional. O evento desenvólvese entre a Fundación Barrié, a Fundación Luis Seoane e Os Cantóns, mais tamén se poderá seguir en liña.'
+slug: a-vindeira-semana-celebrase-o-galicia-design-weekend
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2021-07-23T13:03:52+00:00

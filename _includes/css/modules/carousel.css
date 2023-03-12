@@ -1,0 +1,67 @@
+/**
+ * carousel.css
+ *
+ * INFORMACION
+ * Estilos para carruseles - http://asociaciondag.org.
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+.carousel {
+	box-sizing: border-box;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+
+	& .carousel-tray {
+		display: flex;
+		transition: transform 1s;
+
+		& > * {
+			flex: 0 0 auto;
+		}
+	}
+	& .carousel-prev,
+	& .carousel-next {
+		position: absolute;
+		top: 50%;
+		margin-top: -35px;
+		background: rgba(255, 255, 255, 0.5);
+		padding: 12px;
+		cursor: pointer;
+		transition: background .3s;
+
+		&:hover {
+			background: white;
+		}
+	}
+
+	& .carousel-prev {
+		left: 0;
+		border-radius: 0 3px 3px 0;
+
+		& svg {
+			@extend %ia16-left;
+		}
+	}
+	
+	& .carousel-next {
+		right: 0;
+		border-radius: 3px 0 0 3px;
+
+		& svg {
+			@extend %ia16-right;
+		}
+	}
+}

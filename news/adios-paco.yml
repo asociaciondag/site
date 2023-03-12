@@ -1,0 +1,25 @@
+id: 47
+title: 'Adiós Paco'
+body:
+  -
+    text: |-
+      Nuestro más sentido agradecimietno por la implicación y la ilusión de acercar el diseño al lugar que merece.
+
+      <http://www.levante-emv.com/cultura/2009/09/29/cultura-valenciano-paco-muere/636351.html>
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a9758fe2-paco-copia.gif
+    text: ''
+    type: image
+  -
+    list: ''
+    file: /news/files/553e7a9758fe2-bascunan.pdf
+    text: Descargar
+    type: file
+intro: 'Muere, el pasado lunes 28 de septiembre, de un infarto el deseñador valenciano Paco Bascuñán.'
+slug: adios-paco
+tags: []
+lang: es
+draft: false
+date: 2009-09-30T21:05:22+00:00

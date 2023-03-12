@@ -1,0 +1,42 @@
+id: 65
+title: Flocos.tv
+slug: flocos-tv
+body:
+  -
+    text: |-
+      Flocos foi unha encarga da xa desaparecida Axencia Audiovisual Galega. O proxecto consistía na creación dun espazo en liña onde poder visualizar filmes e curtametraxes feitas en Galicia, ademais dos tráilers e adiantos das novas longametraxes. Era tamén unha rede social que servía para comunicar os creadores co seu público. Chegou a ter máis de 350 curtas, 1800 membros rexistrados e gañou o premio Mestre Mateo á mellor obra interactiva en 2008.
+
+      Foi unha das primeiras webs en incorporar vídeo en alta definición en _streaming._ Á hora de deseñala tentouse converter a web nunha sala de cine. Por iso o reprodutor de vídeo ocupa todo o ancho da pantalla e escolleuse a cor negra para o fondo. Deste xeito conseguiuse destacar as imaxes e o espectador centra a atención na película. Para darlle máis identidade á web optouse pola cor maxenta como complementaria á negra, unha cor pouco usual naquela época e que se empregou sobre todo para resaltar as ligazóns. A tipografía corporativa usada foi a Blur, un tipo de letra xeométrico cunha aparencia desenfocada, nunha clara referencia á luz e ao proxector.
+    type: text
+  -
+    image: /portfolios/images/55859ffbcc9d5-logo.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859ffbccce5-flocos-portada.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859ffbcd273-flocos-interior.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859ffbcbffb-flocos-interior.jpg
+tags:
+  - 'Identidade corporativa'
+  - Web
+members_id:
+  - 35
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - 'A navalla suíza'
+  -
+    - Cliente
+    - 'Axencia Audiovisual Galega'
+  -
+    - Ano
+    - '2008'
+draft: true

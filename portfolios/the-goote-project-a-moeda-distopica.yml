@@ -1,0 +1,81 @@
+id: 120
+title: 'The Goote Project, a moeda distópica'
+slug: the-goote-project-a-moeda-distopica
+body:
+  -
+    text: |-
+      Neste proxecto defínese o concepto, deseño gráfico e funcionalidade dunha moeda nada da lectura de dúas novelas de ficción distópica: _We_ (Yevgueni Zamyatin, 1921) e _1984_ (George Orwell, 1948).
+
+      O **Goote** é a moeda oficial de Oceanía no ano 2036: Unha ferramenta de control para os recursos, distribuídos polo réxime totalitario e belicista do **Well-Doer** (Benfeitor), e dirixidos aos traballadores do Estado, que están designados baixo números, despersonalizados e carentes de liberdade individual. Todo en beneficio do feliz cumprimento dun dogma baseado no culto ás máquinas, á ciencia, e á aplicación exhaustiva dunha matemática perfecta no día a día.
+
+      Cada Goote (Good-Note) é fixado e regulado por un departamento homónimo que forma parte do **Miniplenty** (Ministerio da abundancia), un dos catro ministerios nos que se articula o Estado.
+
+      Establécense os valores en función do ben ou servizo ao que refire cada Goote: **Routeport**, mobilidade territorial; **Safestrong**, seguridade e material doméstico; **Infoknow**, información e formación; **Homeostasis**, alimentación; e **Restsonal**, relacións íntimas. Estes valores responden á tipoloxía de cinco grupos nos que se dividen, xerarquicamente, as necesidades de Oceanía. Deste modo abastécese eficientemente cada aspecto a fin de manter o Estado en cohesión e produtivo a través dos seus traballadores.
+
+      Por seguridade e funcionalidade todos os billetes Goote inclúen estritas medidas de control, entre elas, dous niveis de lectura de información: Unha visible a simple vista (lugar de emisión, tipoloxía de ben ou servizo, e magnitude deste) e outra unicamente visible baixo luz ultravioleta (un díxito de control, e número beneficiario). A información que contén implica que cada Goote é un documento persoal e intransferible.
+
+      Algúns aspectos do deseño reflicten o tipo de ideoloxía imperante en Oceanía. Un exemplo é o símbolo monetario do Goote, que construído a partir da espiral como nexo entre natureza e matemática, é produto dunha evolución tipográfica do 79: número atómico do ouro (Au) e acepción científica deste metal como riqueza e valor de troco universal. Ou a enigmática sinatura do Well-Doer, o único elemento orgánico e trazado a man do documento, que cun aspecto tan preciso e sintético parece máis propio dunha máquina.
+
+      De volta ao tempo actual, _The Goote Project_ estuda a relación entre deseño e función dunha moeda (por extensión tamén papel moeda) e como, ao variar o funcionamento e restricións por causas políticas ou sociais, se manteñen certos elementos que a definen inda como moeda. En menor medida reflexiona sobre a progresiva transformación que sufriron os cartos, creados como medio comercial que facilitaba a igualdade entre pobos e convertidos, lentamente, nun fin en si mesmo que ademais semella ser un efectivo método para controlar á poboación.
+
+      En definitiva, tenta crear debate ao redor de un elemento gráfico cotián, tan arraigado e necesario na nosa sociedade que semella mesmo de orixe natural, polo que rara vez é reflexionada ou cuestionada a súa elaboración, forma ou función; pero que foi creado polo ser humano e, por tanto, podería ter adoptado outras características, inda posibles e ata necesarias.
+
+      Máis información en [thegooteproject.com](http://thegooteproject.com/)
+    type: text
+  -
+    image: /portfolios/images/56c7582501d73-02-goote-desenho.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56c75836de6eb-03-goote-cor.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56c7584c7beb6-04-goote-rexistro.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56c7585cd5211-05-goote-trama.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56c7587507def-06-goote-ultravioleta-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56c758b2a0412-07-goote-ultravioleta-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56c758bf6f7bd-08-goote-info.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56c758d00277a-09-goote-sobre.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56c758e0dba4f-10-goote-expo-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56c758f29d640-11-goote-expo-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56c75905b5bd8-12-goote-maleta.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/56c7582500d71-01-goote-feixos.jpg
+tags: []
+members_id:
+  - 46
+lang: gl
+info:
+  -
+    - Escola
+    - 'EASD Antonio Faílde'
+  -
+    - Ano
+    - 2012/2013
+draft: false

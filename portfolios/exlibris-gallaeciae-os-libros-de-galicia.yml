@@ -1,0 +1,61 @@
+id: 83
+title: 'Exlibris Gallaeciae, os libros de Galicia'
+slug: exlibris-gallaeciae-os-libros-de-galicia
+body:
+  -
+    text: 'Creación, deseño e dirección da montaxe da exposición inaugural da Cidade da Cultura de Galicia. Deseñáronse e construíronse diferentes pavillóns no interior do Arquivo de Galicia, que albergan diferentes capítulos da mostra. Realizáronse pezas audiovisuais que ilustran e sitúan as diferentes temáticas.'
+    type: text
+  -
+    image: /portfolios/images/55859d72a2c80-01ex.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859d72a3130-02ex.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859d72a34c9-03ex.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859d72a3894-04ex.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859d72a3c80-05ex.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859d72a400d-06ex.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859d72a43c8-07ex.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859d72a4806-08ex.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859d72a4bac-09ex.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859d72a26a7-01ex.jpg
+tags: []
+members_id:
+  - 5
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - 'Grupo Revisión Deseño'
+  -
+    - Cliente
+    - 'Fundación Cidade da Cultura de Galicia'
+  -
+    - Ano
+    - '2010'
+draft: false

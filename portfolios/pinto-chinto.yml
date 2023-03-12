@@ -1,0 +1,19 @@
+id: 337
+title: 'Pinto & Chinto'
+slug: pinto-chinto
+body:
+  -
+    image: /portfolios/images/pinto-chinto.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//pinto-chinto.jpg
+tags:
+  - Espazos
+  - Exposicións
+members_id:
+  - 29
+lang:
+  - gl
+  - es
+info: []
+draft: false

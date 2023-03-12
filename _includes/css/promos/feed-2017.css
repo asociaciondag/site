@@ -1,0 +1,124 @@
+@import "../variables.css";
+
+/* fondo */
+.promo-feed-2017 {
+	--light-yellow: #FDFAF1;
+	--yellow: #FFF487;
+	--black: #1D1D1B;
+
+	& .ball {
+		width: 10vw;
+		height: 10vw;
+		border-radius: 50%;
+		background: linear-gradient(to right, #FFF48733), #FFF487CC));
+		position: absolute;
+		top: 0;
+		left: 0;
+		transition: transform 10s;
+		transition-timing-function: linear;
+		mix-blend-mode: multiply;
+		z-index: 1;
+	}
+
+	background: var(--light-yellow);
+	color: var(--black);
+	padding-top: 5rem;
+	padding-bottom: 2rem;
+
+	& .button-normal{
+		background-color: var(--black);
+		color: white;
+		vertical-align: middle;
+
+		&:hover{
+			background-color: var(--yellow);
+			color: var(--black);
+		}
+	}
+
+	& .promo-header {
+		text-align: center;
+		position: relative;
+		z-index: 2;
+	}
+
+	& .page-header:not(.is-sticky) {
+		color: var(--black);
+		& path {
+			fill: var(--black);
+		}
+	}
+
+	& .promo-titulo {
+		text-transform: uppercase;
+		color: var(--black);
+		font-size: 15vw;
+		font-weight: var(--fw-normal);
+		margin: 20px 0;
+		line-height: 1;
+		letter-spacing: -0.015em;
+	}
+
+	& .promo-subtitulo {
+		display: inline-block;
+		text-transform: uppercase;
+		margin: 0 0 0 2em;
+		font-size: var(--fs-18);
+		vertical-align: middle;
+	}
+
+	& .promo-participantes {
+		list-style: none;
+		margin: 0 auto;
+		padding: 1em;
+		min-width: 160px;
+		max-width: 20em;
+		font-size: var(--fs-26);
+		line-height: 1;
+		font-weight: var(--fw-normal);
+		background-size: contain;
+		position: relative;
+		z-index: 2;
+
+		& > li {
+			display: inline-block;
+			border-top: solid 2px;
+			margin: 0 2rem 1rem 0;
+			padding: .2em 0;
+		}
+	}
+
+	@media (--mobile-landscape) {
+		& .promo-participantes {
+			font-size: var(--fs-32);
+		}
+	}
+
+	@media (--tablet-landscape) {
+		& .promo-header {
+			text-align: right;
+			& strong {
+				display: block;
+			}
+		}
+		& .promo-titulo {
+			font-size: 10vw;
+		}
+		& .promo-content {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		& .promo-participantes {
+			margin: 0;
+		}
+	}
+	@media (--tablet-landscape) {
+		& .promo-header {
+			margin-right: 4rem;
+			& strong {
+				display: inline;
+			}
+		}
+	}
+}

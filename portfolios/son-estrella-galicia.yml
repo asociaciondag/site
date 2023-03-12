@@ -1,0 +1,20 @@
+id: 338
+title: 'SON Estrella Galicia'
+slug: son-estrella-galicia
+body:
+  -
+    image: /portfolios/images/son-estrella-galicia.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//son-estrella-galicia.jpg
+tags:
+  - Gráfico
+  - 'Identidade corporativa'
+members_id:
+  - 29
+  - 6
+lang:
+  - gl
+  - es
+info: []
+draft: false

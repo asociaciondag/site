@@ -1,0 +1,22 @@
+id: 396
+title: 'Naos, proxecto editorial'
+slug: naos-proxecto-editorial
+body:
+  -
+    image: /portfolios/images/revista.jpg
+    text: ''
+    type: image
+  -
+    text: '[Naos, proxecto editorial](https://davidrivada.es/proyecto.html)'
+    type: text
+cover: /portfolios/covers//revista.jpg
+tags:
+  - Editorial
+  - Tipografía
+members_id:
+  - 99
+lang:
+  - gl
+  - es
+info: []
+draft: false

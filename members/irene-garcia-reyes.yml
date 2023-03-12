@@ -1,0 +1,34 @@
+id: 18
+contact: |-
+  T. 678 444 203
+
+  info@igrafica.es
+links:
+  -
+    text: Web
+    url: 'http://www.igrafica.es/'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/irepolvera'
+    type: twitter
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/irene-garc%C3%ADa-42528820/'
+    type: linkedin
+bio_gl: 'Despois de 17 anos e medio como socia e deseñadora en ekinocio comunicación xunto a Raquel Boo, e algún ano máis de experiencia ás costas como docente no ámbito universitario e responsable de comunicación do IDR-UCLM, desde xullo de 2022 continúo a miña actividade profesional de forma independente. Traballo con clientes de diferentes ámbitos realizando proxectos de identidade corporativa, embalaxe e etiquetado de produtos, gráfica para eventos e exposicións, sinalética e deseño editorial.'
+bio_es: 'Después de 17 años y medio como socia y diseñadora en ekinocio comunicación junto a Raquel Boo, y algún año más de experiencia como docente en el ámbito universitario y responsable de comunicación del IDR-UCLM, desde julio de 2022 continúo mi actividad profesional de forma independiente. Trabajo con clientes de diferentes ámbitos realizando proyectos de identidad corporativa, _packaging_ y etiquetado de productos, gráfica para eventos y exposiciones, señalética y diseño editorial.'
+name: 'Irene García Reyes'
+job_gl: 'Deseño gráfico e comunicación visual'
+job_es: 'Deseño gráfico e comunicación visual'
+slug: irene-garcia-reyes
+avatar: /members/avatares//irene01.jpg
+avatarBig: null
+tags:
+  - Sinalética
+  - Editorial
+  - Gráfico
+  - 'Identidade corporativa'
+  - Exposicións
+  - Embalaxe
+draft: false

@@ -1,0 +1,28 @@
+id: 662
+title: '¡Seguimos sumando!'
+body:
+  -
+    list: after
+    image: /news/images/570e75e127e0e-foto-presentacion-lois-guillan.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Desde siempre me ha gustado el diseño. Empecé a interesarme por el diseño a partir de la vertiente de “producto”. Tras desarrollar profesionalmente muchas de sus disciplinas (gráfico, producto, interiores...) he constatado que, realmente, me gusta esto del diseño. Y, especialmente, el diseño de producto.
+
+      Desde siempre, también, me han gustado los niños. Y todavía me siguen gustando, pese a ser padre de dos.
+
+      Y desde siempre me ha gustado todo lo relacionado con la cultura. Y creo que ahora tengo la posibilidad de disfrutarla y compartirla desde dentro.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/es/lois-guillan/'
+    text: 'Perfil de socio DAG'
+    type: button
+intro: 'El nuevo diseñador de la DAG se llama Lois Guillán y, aunque ha desarrollado diferentes facetas del diseño, su debilidad es el diseño de producto. Queréis saber más, verdad?'
+slug: seguimos-sumando
+tags: []
+lang: es
+draft: false
+date: 2016-04-14T12:12:42+00:00

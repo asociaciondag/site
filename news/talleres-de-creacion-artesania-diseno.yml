@@ -1,0 +1,27 @@
+id: 249
+title: 'Talleres de creación Artesanía/Diseño'
+body:
+  -
+    text: 'Resultado de esta combinación son las parejas formadas por el diseñador de moda [Carlos Díez](http://carlosdiezdiez.com/) y el cestero [Carlos Fontales](http://carlosfontales.blogspot.com/), por Natalia Pérez y Jorge Bolado de la firma [American Pérez](http://www.americanperez.com/) y la tejedora [Anna Champeney](http://www.textilesnaturales.com/about) y por Nando Cornejo de [Potipoti](http://www.potipoti.com/) y la cestera [Idoia Cuesta](http://idoiacuesta.com/). Los talleres, que son gratuitos, están organizados por el Grupo de Investigación DX7 de la Universidad de Vigo ESDEMGA y coordinados por Rocío Gómez, Cristina Varela y Silvia García, bajo la dirección de Lola Dopico. Para anotarse, hay que cubrir una hoja de inscripción y enviarla junto con tu currículo o portfolio y una pequeña explicación acerca de tus motivos para inscribirte a info.esdemga@uvigo.es antes del 30 de junio. Más información en la página de [ESDEMGA](http://esdemga.uvigo.es/index.php?id=72&idn=54)'
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a9d7c3c1-artesania-deseno.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    file: /news/files/553e7a9d7c3c1-folleto-artesania-deseno.pdf
+    text: Descargar
+    type: file
+  -
+    list: ''
+    file: /news/files/553e7a9d7c3c1-folla-de-inscricion-artesania-deseno.pdf
+    text: Descargar
+    type: file
+intro: 'Un diseñador de moda y un artesano serán los encargados de impartir conjuntamente cada uno de los tres talleres de creación que se desarrollarán del 4 al 6 de julio en la Facultad de Bellas Artes de Pontevedra en horario de 10.00 a 14.00 de la mañana y de 16.00 a 19.00 de la tarde.'
+slug: talleres-de-creacion-artesania-diseno
+tags: []
+lang: es
+draft: false
+date: 2011-06-16T10:34:47+00:00

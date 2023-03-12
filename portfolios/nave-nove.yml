@@ -1,0 +1,21 @@
+id: 388
+title: 'Nave Nove'
+slug: nave-nove
+body:
+  -
+    image: /portfolios/images/foto-de-cnandoiglesias-mg-5108.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//foto-de-cnandoiglesias-mg-5108.jpg
+tags:
+  - Industrial
+  - Mobiliario
+  - Iluminación
+  - Produto
+members_id:
+  - 96
+lang:
+  - gl
+  - es
+info: []
+draft: false

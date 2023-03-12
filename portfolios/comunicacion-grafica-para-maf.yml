@@ -1,0 +1,30 @@
+id: 110
+title: 'Comunicación gráfica para Maf'
+slug: comunicacion-grafica-para-maf
+body:
+  -
+    text: |-
+      Como proxecto Fin de Máster do Máster en Dirección de Arte en Publicidade da Universidade de Vigo, levei a cabo a creación da comunicación gráfica de MAF, un obradoiro de coitelaría artesá da provincia de Lugo.
+
+      Dentro do que foi un remuíño de ideas e propostas para a escolla dun logotipo axeitado á filosofía do taller, destacou esta creatividade de formas simples e que conceptualizaba moi ben o sector do que estabamos a tratar.
+    type: text
+  -
+    image: /portfolios/images/5613a4e07cd74-maf.png
+    text: 'Deseño de logotipo'
+    type: image
+cover: /portfolios/covers/5603dea1c7330-logo-maf.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 40
+lang:
+  - gl
+  - es
+info:
+  -
+    - Cliente
+    - 'MAF, cuchillería artesanal'
+  -
+    - Ano
+    - '2012'
+draft: true

@@ -1,0 +1,29 @@
+id: 675
+title: 'Chega o Congreso de Tipografía de Valencia'
+body:
+  -
+    list: after
+    image: /news/images/5773f28d98d1c-uqui-7cit.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Podemos falar de tipografía de utilidade pública? En que medida pode a tipografía contribuír ao público? Pode cubrir as necesidades de certos colectivos excluídos e axudar a resolver problemas sociais? Existe unha tipografía activista? Como contribúe a un mellor acceso á información de interese público? son algunhas das cuestións que se abordarán neste 7CIT.
+
+      O programa para este 2016 vén cargado de actividades: obradoiros, conferencias, mesas de traballo, comunicacións, mesmo un mercado tipográfico! Mais, de entre todas estas interesantes propostas, temos que destacar especialmente a da nosa socia [Uqui Permui](http://uqui.net/gl), quen o domingo, dentro da sesión dedicada á tipografía activista, presentará a comunicación **A letra feminista na rúa**.
+
+      Neste traballo, a autora analizará as distintas formas gráficas empregadas polos movementos feministas desde os anos sesenta. Como punto de partida, examinará algunhas desas experiencias activistas desenvolvidas en diferentes lugares, estudando as semellanzas e diferenzas entre elas. Compararanse exemplos, procurando trazos identitarios na caligrafía, no _lettering_ e na tipografía utilizada, analizando as preferencias gráficas dos colectivos feministas. Para acabar, a comunicación centrarase nun proxecto realizado para unha campaña institucional de deseño social contra a violencia machista que se desenvolveu en Santiago de Compostela, en novembro de 2015. A partir destes rexistros, e con base na experiencia persoal, tanto no campo do activismo feminista como na realización de encargas institucionais sobre o tema, a autora tirará algunhas conclusións, que poidan abrir o debate de se a gráfica feminista continúa a ser subversiva cando é asumida polas institucións e pola sociedade, o polo contrario, isto pode desactivala.
+    type: text
+  -
+    list: ''
+    url: 'http://www.congresotipografia.com/'
+    text: 'Web do Congreso de Tipografía de Valencia'
+    type: button
+intro: 'A cita será esta fin de semana, do 1 ao 3 de xullo. Na edición deste ano, que leva por título Tipografía pública, a organización propón unha reflexión acerca do papel da tipografía en todos aqueles aspectos relacionados co sentido do público.'
+slug: chega-o-congreso-de-tipografia-de-valencia
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2016-06-29T18:07:16+00:00

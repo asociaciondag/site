@@ -1,0 +1,51 @@
+id: 617
+title: 'Entrevista a Javier Cañada'
+body:
+  -
+    text: |-
+      Firme convencido de que el mejor diseño está en la historia (del diseño, de la arquitectura o de las ideas), Cañada ha dedicado parte de su carrera a formar a los mejores profesionales de la interacción de España a través del Programa Vostok, un curso de diseño que imparte para un grupo reducido de alumnos. En él se busca, de forma casi obsesiva, el buen diseño a través de la belleza, la utilidad y la estructura.
+
+      En la actualidad, Cañada colabora de forma independiente con empresas de presencia global en su estrategia de diseño, definiendo sistemas y experiencias para todos sus canales digitales, trabajando siempre para los equipos de estrategia y negocio.
+
+      Más información:
+
+      - [@javiercanada](http://www.twitter.com/javiercanada)
+      - [www.linkedin.com/in/javier](http://www.linkedin.com/in/javier)
+      - [terremoto.net ](http://www.terremoto.net)
+      - [vostokstudio.com](http://www.vostokstudio.com)
+       
+    type: text
+  -
+    list: after
+    image: /news/images/563202ed672a5-6-javier.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## ¿Quién eres y a qué te dedicas?
+
+      > —Soy Javier Cañada, alguien de mente centroeuropea y corazón mediterráneo (me crie Mallorca rural), obsesionado con encontrar el triángulo de forma, función y belleza, si es que es un triángulo. En lo terreal eso se convierte en ayudar a empresas a hacer mejores productos digitales.
+
+      ## ¿De qué vas a hablar en el FEED?
+
+      > —Quiero explorar el camino para llegar a la belleza desde la lógica, la estructura... Hablaré de diseño de interacción sin enseñar casi nada de él.
+      > 
+      > En cuanto al taller, me gustaría hacer un taller de diseño de información, hablar sobre cómo y cuándo contar la información de manera analítica y cuándo de forma sintética, ver ejemplos míos y de otros, algunos clásicos... También introducir los conceptos de visualizacións digitales y analógicas y explorar cómo hacer narrativa con los datos. xa He realizado unos cuantos proyectos en esos ámbitos y creo que puede resultar algo ameno y participativo.
+
+      ## ¿Qué traballo de diseño o investigación te gustaría haber realizado?
+
+      > —Me gustaría haber trabajado diseñando las radios de onda corta de la Guerra Fría: aparatos complejos para usos sencillos, que necesitaban contar sus capacidades sin intimidar. También me gustaría diseñar los cuadros de mando de los últimos coches conducidos por humanos, antes de que cedamos algo tan bonito a los algoritmos.
+    type: text
+  -
+    list: after
+    url: 'http://dag.gal/gl/feed2015'
+    text: 'Ir á páxina do FEED 2015'
+    type: button
+intro: 'Javier Cañada lleva practicando el diseño de interacción de forma exclusiva desde 2000. Ha formado parte del primer equipo de HCI de España (IconMedialab). Tras su paso por The Cocktail, Indra u [11870.com](http://www.11870.com), funda Vostok Studio, desde el que ayuda a corporaciones y _startups_ (Filmin, Minube, Ducksboard, BBVA, Movistar, Chicisimo) en su estrategia de diseño y experiencia digital.'
+slug: entrevista-a-javier-canada
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2015-11-16T17:18:16+00:00

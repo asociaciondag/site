@@ -1,0 +1,38 @@
+id: 280
+title: Cuatrotercios
+slug: cuatrotercios
+body:
+  -
+    image: /portfolios/images/logotipo-cuatrotercios.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/aplicacions-cuatrotercios.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/cuatrotercios-web1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/cuatrotercios-web2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/tipo-modificada-cuatrotercios.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//logotipo-cuatrotercios.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 23
+lang: es
+info:
+  -
+    - 'Cliente:'
+    - Cuatrotercios
+  -
+    - 'Año:'
+    - '2017'
+draft: false

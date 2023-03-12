@@ -1,0 +1,20 @@
+id: 36
+contact: '<alvarojustofernandez@gmail.com>'
+links:
+  -
+    text: Web
+    url: 'https://www.alvarojusto.com/'
+    type: link
+bio_gl: null
+bio_es: null
+name: 'Álvaro Justo Fernández'
+job_gl: 'Deseñador gráfico'
+job_es: 'Diseñador gráfico'
+slug: alvaro-justo-fernandez
+avatar: /members/avatares/554d0ec9b00fb-alvaro-justo-fernandez.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - 'Identidade corporativa'
+  - Editorial
+draft: false

@@ -1,0 +1,29 @@
+id: 669
+title: 'Na DAG comezamos a semana bailando!'
+body:
+  -
+    list: after
+    image: /news/images/57493ff5b1692-adrian-parcero-dag-post.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Ola! Chámome Adrián e son o 50% de [Guillotina Estudio](http://www.guillotinaestudio.com), aventura na que levo aprendendo e desfrutando deste o noso oficio dende hai 3 anos.
+
+      Asóciome á DAG porque [xa lle debía un baile](https://www.youtube.com/watch?v=_cObMwPa1Z8) (a de tempo que me representou sen case darme conta...). Porque creo no colectivo, na unión de forzas como a única ferramenta real de cambio e porque quero botar todos os cabos que poida para coidar, divulgar e defender a nosa profesión.
+
+      Graciñas a todas e todos polo voso traballo.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/adrian-parcero/'
+    text: 'Perfil de socio DAG'
+    type: button
+intro: 'Si, si, bailando, con Adrián, o noso novo socio ;)'
+slug: na-dag-comezamos-a-semana-bailando
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2016-05-27T19:51:34+00:00

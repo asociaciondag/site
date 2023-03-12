@@ -1,0 +1,46 @@
+id: 615
+title: 'Entrevista a Miguel Sabel'
+body:
+  -
+    text: |-
+      Ha pasado por Hiroshi Tsunoda Design Studio / DesignCode, un pequeño estudio y editora de diseño de Barcelona. Después, por la oficina madrileña de PERA Group, una empresa de innovación tecnológica. Ahora trabaja en Designit, consultora de diseño estratégico donde lleva ya cerca de cinco años. En Designit lidera y participa en proyectos de diseño de servicios e innovación en modelos de negocio: desde la creación de nuevas experiencias para el _retail_ hasta el diseño de nuevos servicios en el mundo del dinero. Siempre desde el diseño centrado en las personas.
+
+      Más información:
+
+      - [miguelsabel.me](http://miguelsabel.me/)
+      - [@miguelsabel](http://twitter.com/miguelsabel)
+      - [linkedin](https://es.linkedin.com/in/miguelsabel)
+       
+    type: text
+  -
+    list: after
+    image: /news/images/5632023797fd8-8-miguel.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## ¿Quién eres y a qué te dedicas?
+
+      > —Soy Miguel Sabel, diseñador en Designit Madrid. Participo principalmente en proyectos de innovación en modelos de negocio y diseño de servicios. Me formé como diseñador de producto -esa cosa llamada ingeniero técnico en Diseño Industrial- pero desde muy temprano tomé un camino alternativo, recorriendo las posibilidades del diseño para ayudar a cumplir retos del negocio, algo tradicionalmente fuera da nuestra area de acción.
+
+      ## ¿De qué vas a hablar en el FEED?
+
+      > —Dedicaré mi espacio el próximo día 21 de noviembre a conversar sobre el papel alcanzado por el diseño y los diseñadores en los últimos años: el liderazgo de la disciplina en los procesos de innovación, su entrada en la creación de modelos de negocio y servicios, las causas que han llevado a los diseñadores a afrontar ese tipo de retos y cuáles pueden ser los escenarios que nos encontremos de ahora en adelante.
+
+      ## ¿Que trabajo de diseño o investigación te gustaría haber realizado?
+
+      > —Me gustaría haber participado en la creación de un modelo de negocio para una compañía alimentaria responsable. Pero las razones son puramente egoístas, relacionadas con lo que me haría feliz construir, nada que ver con la práctica del diseño.
+    type: text
+  -
+    list: after
+    url: 'http://dag.gal/gl/feed2015'
+    text: 'Ir á páxina do FEED 2015'
+    type: button
+intro: 'Formado como diseñador de producto en la EUDI y en la escuela Elisava, nunca ha ejercido como tal. Desde que comenzó a trabajar, siempre ha buscado la interacción entre la empresa y el diseño. Primero, desde la gestión del diseño, explorando marcos de gestión adaptados a la incerteza propia de la disciplina. Ahora, empleando el diseño como proceso y caja de herramientas con que afrontar retos propios del negocio, hasta no hace mucho ajenos a los diseñadores.'
+slug: entrevista-a-miguel-sabel
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2015-11-12T15:28:50+00:00

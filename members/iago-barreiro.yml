@@ -1,0 +1,24 @@
+id: 70
+contact: '<iago@iagobarreiro.com>'
+links:
+  -
+    text: Web
+    url: 'https://www.iagobarreiro.com/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/iacus/'
+    type: link
+bio_gl: 'Deseñador gráfico especializado en identidade visual, deseño UX/UI e desenvolvemento web, con experiencia en diferentes disciplinas e tecnoloxías _online_ e _offline_.'
+bio_es: 'Diseñador gráfico especializado en identidad visual, diseño UX/UI y desarrollo web, con experiencia en diferentes disciplinas y tecnologías _online_ y _offline_.'
+name: 'Iago Barreiro'
+job_gl: 'Deseñador gráfico e programador web en NOVAGARDA'
+job_es: 'Diseñador gráfico y programador web en NOVAGARDA'
+slug: iago-barreiro
+avatar: /members/avatares//iago-barreiro.jpg
+avatarBig: null
+tags:
+  - Web
+  - Gráfico
+  - UX/UI
+draft: false

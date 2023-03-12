@@ -1,0 +1,37 @@
+id: 358
+title: 'Reforma de vivienda'
+slug: reforma-vivienda
+body:
+  -
+    text: 'Reforma de un piso en un edificio de los años 70 que no había sufrido ninguna actualización. Se trataba de un piso demasiado compartimentado con buena luz natural pero que no llegaba a todos los rincones. Decidimos comunicar estancias aprovechando la luz natural, además de aplicar nuevos acabados, nuevas instalaciones y equipamiento.'
+    type: text
+  -
+    image: /portfolios/images/img-2768.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/img-2785.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/img-2797.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/img-2802.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//img-2768.jpg
+tags:
+  - Espazos
+members_id:
+  - 77
+lang: es
+info:
+  -
+    - Año
+    - '2017'
+  -
+    - Lugar
+    - Vigo
+draft: false

@@ -1,0 +1,22 @@
+id: 280
+title: '#charlasnaDAG'
+body:
+  -
+    text: 'Unha vez ao mes, un deseñador achegarase á sede da DAG na [Trisca](http://www.santiagosociocultural.org/centros/centro.php?lang=gal&id=4) para, dun xeito directo, falar dos máis diversos temas: unha parte da historia do deseño que coñece ben, un proxecto no que gozou traballando, unha nova tendencia tipográfica ou un novo software de deseño poden ser unha boa escusa para que deseñadores, estudantes ou interesados na cultura do deseño actualicen os seus coñecementos. O ciclo de conferencias inaugúrase este mércores, 21 de setembro, cunha charla do deseñador web, Óscar Otero, de título **A web dos deseñadores** na que falará sobre a evolución da web nestes vinte anos de vida e repasará os principais cambios experimentados desde a súa aparición. Ficha da 1ª charla: Título: A web dos deseñadores Convidado: Óscar Otero, deseñador e socio en [A navalla suíza](http://anavallasuiza.com/) Hora: 19.00 Día: mércores, 21 de setembro de 2011 Lugar: Centro sociocultural A Trisca Corredoira das Fraguas, 92 15703 Santiago de Compostela Máis información en: info@asociaciondag.org ou no teléfono691 230 421 As charlas serán sempre un mércores de cada mes ás 19.00 h. A entrada é libre e aínda que desde a web da DAG iremos informando puntualmente de todas as actividades, no programa en PDF xa podedes consultar a programación completa deica final de ano.'
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a9eabbff-charlasdag.jpg
+    text: ''
+    type: image
+  -
+    list: ''
+    file: /news/files/553e7a9eabbff-charlasnadag.pdf
+    text: Descargar
+    type: file
+intro: 'Se algo caracteriza os deseñadores é a paixón pola súa profesión e as ganas de seguir formándose e de aprender. Compartir experiencias de primeira man é un dos mellores xeitos de adquirir coñecementos e de enriquecerse. Con este ánimo, comeza na DAG o ciclo de charlas #Charlas na DAG. Aparcamos por unhas horas as redes sociais para volver ao mundo real.'
+slug: charlasnadag
+tags: []
+lang: gl
+draft: false
+date: 2011-09-19T16:20:41+00:00

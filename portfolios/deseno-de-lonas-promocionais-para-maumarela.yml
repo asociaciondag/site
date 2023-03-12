@@ -1,0 +1,37 @@
+id: 107
+title: 'Deseño de lonas promocionais para MAUmarela!'
+slug: deseno-de-lonas-promocionais-para-maumarela
+body:
+  -
+    text: |-
+      O centro MAUmarela ten claro que quere chegar á xente dunha forma dinámica, fresca, baseándose nalgúns deseños actuais de infografías. Estas foron as propostas para as lonas de verán e inverno que o centro coloca nos exteriores das súas instalacións para ofertar formación e información sobre o que fan.
+
+      Cores saturadas, vivas, en consonancia co logo do centro. Debuxos, esquemas...
+    type: text
+  -
+    image: /portfolios/images/5613a699232e7-maumarela-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5613a69923753-maumarela-2.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5603f5ab0bb34-robotica.jpg
+tags:
+  - Gráfico
+members_id:
+  - 40
+lang:
+  - gl
+  - es
+info:
+  -
+    - Cliente
+    - 'MAUmarela! Centro de Creatividade Pedagóxica'
+  -
+    - Empresa
+    - 'MAUmarela! Centro de Creatividade Pedagóxica'
+  -
+    - Ano
+    - '2015'
+draft: true

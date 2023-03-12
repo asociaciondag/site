@@ -1,0 +1,64 @@
+id: 56
+title: '2010 Ano da lectura'
+slug: 2010-ano-da-lectura
+body:
+  -
+    text: 'A Xunta de Galicia elixe o ano 2010 para adicarllo á promoción da lectura. Creamos unha serie de carteis con personaxes de diferentes idades e apoiados por un texto, que convida a descubrir as emocións que agochan os libros.'
+    type: text
+  -
+    image: /portfolios/images/555ce26be6cc0-cartel-ano-lectura-abuelo.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce26be73d6-cartel-ano-lectura-chica.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce26be7953-cartel-ano-lectura-neno.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce26be7e50-cartel-ano-lectura-principal.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce26be8474-logotipo-ano-da-lectura.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce26be8891-memoria-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce26be8e84-memoria-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce26be9448-memoria-3.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce26be9910-memoria-4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce26be9e63-papel-regalo.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5585692c06c28-555ce26be9448-memoria-3.jpg
+tags:
+  - Gráfico
+  - 'Identidade corporativa'
+members_id:
+  - 23
+lang:
+  - gl
+  - es
+info:
+  -
+    - Cliente
+    - 'Xunta de Galicia. Consellaría de Cultura'
+  -
+    - Ano
+    - '2010'
+draft: false

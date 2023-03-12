@@ -1,0 +1,30 @@
+id: 1147
+title: 'Damos la bienvenida a Antón Veríssimo'
+body:
+  -
+    list: after
+    image: /news/images/anton-verrisimo-740.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ¡Hola a los y las asociadas de la DAG!
+
+      Soy Antón Veríssimo y soy el director creativo de VRANDSS, agencia de _branding_ de Vigo.
+
+      Soy socio de la DAG desde finales del 2020, pero una pandemia, un hijo y comenzar un nuevo proyecto por medio, no me dejaron tiempo para poder presentarme.
+
+      Formo parte de la DAG por dos motivos, el primero es por responsabilidad, ya que pienso que todo diseñador o diseñadora gallega debería estar asociado, ya que es una manera de darle valor y importancia a nuestro trabajo. El segundo motivo es para estar al día en el sector, intentar participar de él, y conocer a los asociados y asociadas, que como yo creen que esta asociación es significativa.
+
+      Ahora bien, sobre mí, contaros que llevo algo más de 15 años en la profesión, en los que trabajé en diferentes agencias y estudios, y los últimos 8 años, emprendiendo. En 2014 comencé siendo _freelance_ de diseño gráfico, en 2018 inventé y cofundé Kitebrella, una _startup_ que me permitió acceder la ViaGalicia en su fase de academia. Por último, la finales de 2020 decidí apostar por la especialización y montar con mi socio David, VRANDSS, una pequeña agencia de _branding_ en la que ofecemos servicios a PYMES y emprendedores.
+
+      ¡Un placer conoceros a todos y todas!
+    type: text
+intro: 'Aunque ya lleva un tiempo con nosotros, estamos encantadas de presentar hoy oficialmente como nuevo socio a [Antón Veríssimo](https://dag.gal/gl/anton-verissimo/), que desde su estudio [VRANDSS](https://vrandss.com/) trabaja para crear marcas memorables. ¡Bienvenido Antón!'
+slug: damos-la-bienvenida-a-anton-verissimo
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2022-05-16T11:59:54+00:00

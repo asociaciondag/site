@@ -1,0 +1,106 @@
+/**
+ * form.css
+ *
+ * INFORMACION
+ * Estilos para formularios - http://asociaciondag.org.
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+.form {
+	background: var(--black-8);
+	padding: 1em;
+	border-radius: 3px;
+	text-align: left;
+
+	& .form-title {
+		font-weight: var(--fw-bold);
+		margin: 0;
+		padding: .5em 0;
+		margin-bottom: 1em;
+		border-bottom: solid 1px var(--color-light);
+	}
+
+	/*honeypot*/
+	& .hpt_input {
+		position: absolute;
+		width: 1px !important;
+		height: 1px !important;
+		opacity: 0;
+		cursor: default;
+	}
+
+	& .form-row,
+	& .form-row-radio {
+		font-size: var(--fs-16);
+		color: var(--color-main);
+		margin-top: 1.5em;
+	}
+
+	& .form-footer {
+		margin-top: 1.5em;
+		padding-top: 1em;
+		border-top: solid 1px var(--color-light);
+
+		& .form-advice {
+			margin-top: 1em;
+		}
+	}
+
+	& .form-row {
+		& label {
+			display: block;
+			margin: .3em 0;
+		}
+	}
+
+	& .form-advice {
+		font-size: var(--fs-14);
+		line-height: 1.3;
+		color: var(--color-medium);
+		margin: .3em 0;
+
+		& a {
+			color: var(--color-main);
+
+			&:hover {
+				text-decoration: none;
+			}
+		}
+	}
+
+	& .form-control {
+		position: absolute;
+		left: -100px;
+		opacity: 0;
+	}
+
+	& .error {
+		color: var(--color-error);
+	}
+
+	
+	& textarea,
+	& input[type="text"],
+	& input[type="url"],
+	& input[type="email"],
+	& input[type="tel"] {
+		width: 100%;
+		box-sizing: border-box;
+		border: solid 1px var(--color-light);
+		font-size: var(--fs-16);
+		padding: .5em;
+		border-radius: 3px;
+		color: var(--color-medium);
+	}
+}

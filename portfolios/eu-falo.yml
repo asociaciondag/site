@@ -1,0 +1,46 @@
+id: 53
+title: 'Eu falo'
+slug: eu-falo
+body:
+  -
+    text: |-
+      Eu falo é un experimento web levado a cabo pola navalla suíza. Trátase dun documental colaborativo pensado para a web e creado a partir de pezas audiovisuais, algunhas enviadas pola xente e outras feitas polo equipo de Eu falo. Este documental xira ao redor das linguas que se falan en Galicia e das experiencias persoais dos seus falantes. Para levar a cabo este proxecto, precisábase unha web que transmitise _bo rollo_ e que evitase a confrontación nun tema actualmente tan delicado e politizado. Tamén se precisaba dun logotipo que fose moi versátil, xa que cabía a posibilidade de que o proxecto se estendera por outros medios distintos á web (camisolas, carteis, adhesivos, etc). Para o logo partiuse da idea dunha bandeira moi sinxela, creada con dous rectángulos sobre a que iría o nome do sitio. O tipo de letra empregado é a Fago, unha moderna tipografía de pau seco de estilo neohumanista. En concreto a versión Black Italic que lle dá forza e movemento. Escolleuse pola preciosa _f_ minúscula e modificouse o _a_ para manter ese carácter caligráfico e persoal. Logo empregáronse dúas cores: un verde intenso e un azul escuro e apagado para conseguir un bo contraste. Na portada da web xogouse co ceo e empregouse o verde para facer unha especie de prado de herba. Nas páxinas interiores, o prado verde convértese no mar, creando deste xeito un xogo entre a Galicia costeira e de interior. Canto á navegación primouse sobre todo a sinxeleza e a inmediatez, polo que se pode acceder aos últimos vídeos e á actividade recente da páxina desde a portada.
+
+      [www.eufalo.tv](http://www.eufalo.tv)
+    type: text
+  -
+    image: /portfolios/images/55859fb20d9a5-logo.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859fb20de4b-proceso-logo.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859fb20e229-eufalo-portada.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859fb20e90b-eufalo-interior.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859fb20d199-eufalo-portada.jpg
+tags:
+  - 'Identidade corporativa'
+  - Web
+members_id:
+  - 35
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - 'A navalla suíza'
+  -
+    - Cliente
+    - Autoencargo
+  -
+    - Ano
+    - '2010'
+draft: true

@@ -1,0 +1,59 @@
+id: 26
+contact: null
+links:
+  -
+    text: Desescribir
+    url: 'http://www.desescribir.com/'
+    type: link
+  -
+    text: Behance
+    url: 'https://www.behance.net/desescribir'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/desescribir'
+    type: twitter
+  -
+    text: Fabulatorio
+    url: 'http://fabulatorio.org/'
+    type: link
+bio_gl: |-
+  Fundado no ano 2008, Desescribir está formado por Cibrán Rico López (A Coruña, 1978) e Suso Vázquez Gómez (Vigo, 1978), ambos licenciados en Arquitectura pola Escola Técnica Superior de Arquitectura da Universidade da Coruña.
+
+  Somos un estudio de deseño que desenvolve proxectos de identidade visual, deseño editorial e deseño estratéxico cun enfoque integral. Dende a elaboración dos conceptos iniciais aos últimos procesos de produción, desenvolvemos propostas motivadas polo impulso de resolver necesidades reais e que contribúan a comunicar ideas dunha maneira eficaz.
+
+  Os traballos desenvolvidos no estudio acadaron múltiples recoñecementos en certames de deseño de prestixio de ámbito nacional e internacional: 14 LAUS do ADG-FAD (Barcelona), 2 D&amp;AD Awards (Londres), 3 Premios Paraugas do Clúster de Comunicación de Galicia e o Premio PhotoEspaña 2014 (Madrid).
+
+  Temos participado como docentes no Grao de Publicidade e Relacións Públicas e no Máster de Gráfica Publicitaria da Universidade de Vigo. Fomos tamén profesores de deseño editorial na Escola de Deseño e Moda ESDEMGA adscrita á mesma universidade. Impartimos numerosos cursos, charlas e talleres de deseño gráfico e deseño editorial en distintas universidades, certames e escolas de deseño.
+
+  En 2012 fundamos Fabulatorio, unha editorial independente centrada en proxectos sobre arte, deseño e cultura visual. O segundo título publicado por Fabulatorio foi incluído na lista dos mellores libros de fotografía do mundo do ano 2014 que publica o ICP (International Center of Photography) de Nova York.
+
+  Entre os anos 2014 e 2017 formamos parte da Xunta Directiva da DAG e actuamos como presidente da asociación (Suso Vázquez) e vogal (Cibrán Rico).
+bio_es: |-
+  Fundado en el año 2008, Desescribir está formado por Cibrán Rico López (A Coruña, 1978) y Suso Vázquez Gómez (Vigo, 1978), ambos licenciados en Arquitectura por la Escuela Técnica Superior de Arquitectura de la Universidade da Coruña.
+
+  Somos un estudio de diseño que desarrolla proyectos de identidad visual, diseño editorial y diseño estratégico con un enfoque integral. Desde la elaboración de los conceptos iniciales hasta los últimos procesos de producción, desarrollamos propuestas motivadas por el impulso de resolver necesidades reales y que contribuyan a comunicar ideas de una manera eficaz.
+
+  Los trabajos desarrollados en el estudio han conseguido múltiples reconocimientos en certámenes de diseño de prestigio de ámbito nacional e internacional: 14 LAUS del ADG-FAD (Barcelona), 2 D&amp;AD Awards (Londres), 3 Premios Paraugas del Clúster de Comunicación de Galicia y el Premio PhotoEspaña 2014 (Madrid).
+
+  Hemos participado como docentes en el Grado de Publicidad y Relaciones Públicas y en el Máster de Gráfica Publicitaria de la Universidade de Vigo. Hemos sido también profesores de diseño editorial en la Escuela de Diseño y Moda ESDEMGA adscrita a la misma universidad. Impartimos numerosos cursos, charlas y talleres de diseño gráfico y diseño editorial en distintas universidades, certámenes y escuelas de diseño.
+
+  En 2012 fundamos Fabulatorio, una editorial independiente centrada en proyectos sobre arte, diseño y cultura visual. El segundo título publicado por Fabulatorio fue incluído en la lista de los mejores libros de fotografía del mundo del año 2014 que publica el ICP (International Center of Photography) de Nueva York.
+
+  Entre los anos 2014 y 2017 formamos parte de la Junta Directiva de la DAG y actuamos como presidente de la asociación (Suso Vázquez) y vocal (Cibrán Rico).
+name: 'Cibrán Rico López'
+job_gl: 'Deseñador gráfico en Desescribir'
+job_es: 'Diseñador gráfico en Desescribir'
+slug: cibran-rico-lopez
+avatar: /members/avatares//cibran.jpg
+avatarBig: /members/avatares//desescribir.jpg
+tags:
+  - Editorial
+  - Gráfico
+  - 'Identidade corporativa'
+  - Espazos
+  - Embalaxe
+  - Sinalética
+  - Exposicións
+  - Estratexia
+draft: false

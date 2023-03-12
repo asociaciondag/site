@@ -1,0 +1,66 @@
+id: 61
+title: 'V Premio de Arquitectura Enor'
+slug: v-premio-de-arquitectura-enor
+body:
+  -
+    text: |-
+      Seguindo coa identidade desenvolvida para os Premios Enor na anterior edición, papel de cor e figuras xeométricas, para esta nova edición quixemos experimentar con outra calidade do papel: a transparencia.
+
+      Nun A4 pregado en cruz, construímos un crebacabezas con manchas de cor e tipografía, aproveitando a escasa opacidade do papel de 50 gramos no que se imprime. Así, o políptico pechado, cun pouquiño de luz, revela a figura protagonista destes premios, o pentágono; mentres que aberto se converte nunha paisaxe de cores e nun espazo onde perder a mirada.
+
+      O cartel está impreso por ambas as dúas caras. Aproveitando de novo a transparencia, resultan dous carteis nun, iguais pero diferentes, un en castelán e outro en portugués. Imprímese toda a superficie do papel con manchas de cor que se alternan nos dous lados, agás no centro, onde se revela o pentágono.
+
+      Para aforrar pranchas de impresión e poder conseguir varias cores, tanto no cartel coma no políptico, utilizamos a técnica Iris dunha maneira artesanal, sempre coa complicidade de Gráficas Brial.
+    type: text
+  -
+    image: /portfolios/images/555768125afeb-017.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555768125afeb-026.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555768125afeb-035.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555768125afeb-045.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555768125afeb-052.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555768125afeb-061.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555768125afeb-01a.jpg
+    text: ''
+    type: image
+  -
+    info:
+      code: '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="760" width="950"><param name="data" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"><param name="flashvars" value="intl_lang=en-us&amp;photo_secret=1955beb55b&amp;photo_id=5235860891"><param name="bgcolor" value="#000000"><param name="allowFullScreen" value="true"><param name="src" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=71377" allowfullscreen="true" bgcolor="#000000" flashvars="intl_lang=en-us&amp;photo_secret=1955beb55b&amp;photo_id=5235860891" data="http://www.flickr.com/apps/video/stewart.swf?v=71377" height="760" width="950"></object>'
+      ratio: '56.25'
+    type: embed
+cover: /portfolios/covers/5586008853727-555768125afeb-017.jpg
+tags: []
+members_id:
+  - 26
+  - 31
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - Desescribir
+  -
+    - Cliente
+    - 'Grupo Ascensores Enor'
+  -
+    - Ano
+    - '2010'
+draft: true

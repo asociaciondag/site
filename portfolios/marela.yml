@@ -1,0 +1,35 @@
+id: 135
+title: Marela
+slug: marela
+body:
+  -
+    text: |-
+      Marela es el nombre de la mamá vaca que atiende con dedicación y esmero a sus cuxos (terneros). Caminar mirando al suelo y con paso firme es fundamental para su aprendizaje (aunque ello suponga hacer más ruido de lo normal).
+
+      Se dice que la familia que crece unida permanece unida. La madera es cálida, natural y duradera, como los lazos familiares. Esta idea se refleja en los materiales y los acabados de esta familia sobre ruedas.
+
+      La colaboración con el irreverente ilustrador Alberto Guitián se pone de manifiesto en los pequeños detalles distintivos de estos adorables bóvidos, como el “orificio posterior de escape” o las “ruedas tractoreñas”.
+    type: text
+  -
+    image: /portfolios/images/570f55828290e-marela-composicion-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/570f558282be0-marela-composicion-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/570f63ac27f95-mar001-forntal.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/570f558282f16-marela-vista-posterior.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/570f6384e4778-marela-composicion-1.jpg
+tags: []
+members_id:
+  - 51
+lang: es
+info: []
+draft: false

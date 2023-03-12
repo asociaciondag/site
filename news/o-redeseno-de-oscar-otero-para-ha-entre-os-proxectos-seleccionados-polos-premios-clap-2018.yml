@@ -1,0 +1,38 @@
+id: 856
+title: 'O redeseño de Óscar Otero para HA! entre os proxectos seleccionados polos Premios CLAP 2018'
+body:
+  -
+    list: after
+    image: /news/images/clap-oscar.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Na edición deste ano, o traballo do socio da DAG [Óscar Otero](https://oscarotero.com/gl/) foi un dos seleccionados polo xurado na [categoría de mellor deseño gráfico de sitio web para unha organización](https://premiosclap.org/ganador-730).
+
+      [HA!](https://historia-arte.com/) (ou Historia Arte) é un proxecto conxunto de **Miguel Calvo** e **Óscar Otero** que naceu coa vontade de achegar a arte a unha maior audiencia e conseguir que resulte comprensible e gozable para todo o mundo.
+
+      A idea inicial da que partiron foi “unha obra de arte ao día”, de modo que cada día unha obra de arte relevante polo seu significado artístico ou histórico é presentada ao público dun xeito didáctico e ameno. Neste momento as obras analizadas roldan as 1000 e a web dispón, ademais, de moita información adicional de consulta sobre os máis variados temas: artistas, movementos, técnicas, museos, efemérides etc.
+
+      Entre os aspectos máis relevantes do redeseño cómpre destacar o sistema de navegación, onde o contido funciona como interface, e con coidadas transicións entre páxinas que melloran a percepción de velocidade de carga e logran que a navegación resulte máis dinámica.
+
+      Desempeñan tamén un papel importante a cor, sempre en estreita relación con coas obras de arte para contribuír a que a experiencia do usuario sexa máis inmersiva, e o _layout,_ que muda para adaptarse ás medidas das diferentes pezas. No caso da tipografía, empregouse un sistema baseado na proporción áurea.
+
+      Trátase da segunda mención que colleita a web, que hai uns meses xa fora premiada nos Premios Awwwards cunha _[Honorable Mention](https://www.awwwards.com/sites/ha),_ un [_Mobile Excellence_](https://www.awwwards.com/sites/ha/mobile-excellence-report) e seleccionada como _[Mobile site of the week](https://www.awwwards.com/mobile-sites/ha)._
+
+      As persoas interesadas en coñeceren polo miúdo todos os detalles relativos ao redeseño poden ler a serie de sete artigos, cada un deles centrado nunha parte específica do desenvolvemento: [presentación](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-1-o-reto-e773e7ad6a43), [tipografía](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-2-tipograf%C3%ADa-2a34ac09dc3c), [layout](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-3-layout-a73eedea2eaf), [cor](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-4-a-cor-70fb7c070fb2), [artigos](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-5-artigos-2408005fb932), [navegación](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-6-artistas-49213653922a) e [rompendo algunhas regras](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-7-rompendo-algunhas-reglas-333335722946), con que Óscar Otero foi documentando o proceso completo.
+    type: text
+  -
+    list: ''
+    image: /news/images/clap-proxecto.jpg
+    text: ''
+    mode: normal
+    type: image
+intro: 'Os Premios CLAP son uns premios internacionais que recoñecen os mellores traballos de deseño industrial e de deseño gráfico realizados en América Latina, Estados Unidos, Brasil, España e Portugal entre 2017 e 2018.'
+slug: o-redeseno-de-oscar-otero-para-ha-entre-os-proxectos-seleccionados-polos-premios-clap-2018
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2018-12-16T20:09:20+00:00

@@ -1,0 +1,44 @@
+id: 206
+title: Knile
+slug: knile
+body:
+  -
+    text: |-
+      Diseño de una familia tipográfica mecana. Knile es prima de la Geomanist con la que comparte algunas características, como su apariencia geométrica o la altura de su cuerpo. Incluye 8 pesos más las itálicas. Esta tipografía fue creada en colaboración con el estudio asturiano atipo.
+
+      Web: [atipofoundry.com/fonts/knile](http://atipofoundry.com/fonts/knile)
+    type: text
+  -
+    image: /portfolios/images/knile1.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/knile2.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/knile3.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/knile4.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/knile5.png
+    text: ''
+    type: image
+cover: /portfolios/covers//knile1.png
+tags:
+  - Tipografía
+members_id:
+  - 56
+lang: es
+info:
+  -
+    - 'Estudio:'
+    - atipo
+  -
+    - 'Año:'
+    - '2016'
+draft: true

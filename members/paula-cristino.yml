@@ -1,0 +1,38 @@
+id: 101
+contact: 'T. 623 438 989'
+links:
+  -
+    text: Web
+    url: 'https://www.levedar.com/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/levedar_estudio/'
+    type: facebook
+bio_gl: |-
+  Afincada na Coruña dende hai 8 anos pero nacida e criada en Corcubión, polo que o carácter do meu traballo e o meu son propios da Costa da Morte.
+
+  Atopeime co deseño por casualidade ao terminar o bacharelato da modalidade de artes, e alégrome de que así pasara. Estudei deseño gráfico na EASD Pablo Picasso e souben que aquilo era o que quería facer. Decidín ampliar a miña etapa de formación en deseño gráfico publicitario e creación visual na escola superior Marcelo Macías. Ao rematar traballei como deseñadora gráfica en axencias de márketing na área de Coruña, pero pronto comecei o meu propio camiño como deseñadora gráfica en Levedar.
+
+  Levedar é un proxecto colaborativo onde profesionais novos co mesmo concepto de calidade e eficacia cooperamos para acadar resultados diferenciadores. O noso método de traballo baséase na idea de que tanto o desenvolvemento como o resultado final deben ser colaborativos, emocionantes e visualmente impactantes. Se non nos involucrásemos ao 100%, non sería noso.
+bio_es: |-
+  Afincada en A Coruña desde hace 8 años pero nacida y criada en Corcubión, por lo que el carácter de mi trabajo y el mío son propios de la Costa da Morte.
+
+  Me encontré con el diseño por casualidad al terminar el bachillerato de la modalidad de artes, y me alegro de que así hubiera pasado. Estudié diseño gráfico en la EASD Pablo Picasso y supe que aquello era lo que quería hacer. Decidí ampliar mi etapa de formación en diseño gráfico publicitario y creación visual en la escuela superior Marcelo Macías. Al finalizar trabajé como diseñadora gráfica en agencias de márketing en el área de Coruña, pero pronto comencé mi propio camino como diseñadora gráfica en Levedar.
+
+  Levedar es un proyecto colaborativo donde profesionales jóvenes con el mismo concepto de calidad y eficacia cooperamos para alcanzar resultados diferenciadores. Nuestro método de trabajo se basa en la idea de que tanto el desarrollo como el resultado final deben ser colaborativos, emocionantes y visualmente impactantes. Si no nos involucráramos al 100%, no sería nuestro.
+name: 'Paula Cristino'
+job_gl: 'Deseñadora gráfica en Levedar'
+job_es: 'Diseñadora gráfica en Levedar'
+slug: paula-cristino
+avatar: /members/avatares//paula-cristino.jpeg
+avatarBig: null
+tags:
+  - Web
+  - 'Identidade corporativa'
+  - Gráfico
+  - Editorial
+  - Sinalética
+  - Estratexia
+  - Embalaxe
+draft: true

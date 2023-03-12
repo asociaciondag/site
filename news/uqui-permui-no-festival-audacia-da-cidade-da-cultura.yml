@@ -1,0 +1,34 @@
+id: 925
+title: 'Uqui Permui no Festival Audacia da Cidade da Cultura'
+body:
+  -
+    list: after
+    image: /news/images/audacia-fb.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      **Audacia** é un espazo de intercambio no que descubrir ideas e procesos de traballo e onde artistas e profesionais poderán establecer relacións positivas entre a economía e as artes. Divídese en catro seccións: **Audacia Inspira**, que amosará experiencias inspiradoras de artistas falando das súas traxectorias, dos seus procesos creativos e os seus comezos no mundo profesional; **Audacia Emprende**, ideado para emprendedores artísticos, un espazo onde validar unha idea de negocio con especialistas na materia e recibir unha formación express; **Audacia Música**, a actuación musical que pechará cada unha das xornadas do evento; e o **Espazo Expositivo**, unha zona adicada a expositores onde obter de primeira man información sobre convocatorias de axudas ás artes, empresas culturais e emprendemento creativo, coñecer centros de formación artísticos ou proxectos creativos propios e mercar os seus produtos.
+
+      Os/as artistas e profesionais cos que poderás atoparte estes dous días no Audacia son Oliver Laxe, Daniel Canogar, Sonia Iglesias, Tono Arias, Iria Váquez, Javier Fuente, Daniel Cerqueiro, María Yáñez, Miguel Diéguez, Janet Novás, 7H Cooperativa Cultural, Anaquiños de Papel, Miguelanxo Prado, Ana Díaz, David Barro e Cintia Salido. O venres, a actuación musical de peche está protagonizada por The Primitals e o sábado por Mercedes Peón xunto coa bailarina Janet Novás.
+
+      A entrada a todo o evento é de balde. Máis información:
+    type: text
+  -
+    list: ''
+    url: 'https://www.cidadedacultura.gal/gl/system/files/downloads/2019/09/audacia_programacion_maquetada.pdf'
+    text: 'Programa completo'
+    type: button
+  -
+    list: ''
+    url: 'https://www.cidadedacultura.gal/es/system/files/downloads/2019/09/info_relatores.pdf'
+    text: 'Info relatores/as'
+    type: button
+intro: 'Hoxe venres 18 e mañá sábado 19 de outubro terá lugar o Festival de Artes e Emprendemento Audacia no Museo Centro Gaiás da Cidade da Cultura. Dous días cun programa moi completo dirixido a estudantes, profesionais, emprendedores e público xeral. Falarase de cine, artes escénicas, _stop motion_, fotografía, guionado de pezas audiovisuais… e tamén de deseño, da man da nosa compañeira [Uqui Permui](https://uqui.net/es), que terá un encontro co alumnado esta tarde ás 17.30 h e mañá participará no Audacia Inspira ás 19 h.'
+slug: uqui-permui-no-festival-audacia-da-cidade-da-cultura
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2019-10-18T11:23:45+00:00

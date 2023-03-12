@@ -1,0 +1,19 @@
+id: 333
+title: Espirit
+slug: espirit
+body:
+  -
+    image: /portfolios/images/esprit.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//esprit.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 29
+  - 6
+lang:
+  - gl
+  - es
+info: []
+draft: false

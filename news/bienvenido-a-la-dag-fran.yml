@@ -1,0 +1,31 @@
+id: 697
+title: 'Bienvenido a la DAG, Fran'
+body:
+  -
+    list: after
+    image: /news/images/5807b2a589402-20161017-180409.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Hola a todos/as!
+
+      Me llamo Fran y me alegra mucho formar parte de la DAG. Espero poder aportar mi granito de arena para que el diseño gallego sea cada día más destacado y que la profesión de diseñador, en cualquiera de sus vertientes, sea más y mejor reconocida y respetada.
+
+      Creo que el trabajo que hacéis, tanto la asociación como sus miembros, tiene mucha calidad y valor.
+
+      Me embarqué en [Innovación Ágil](http://innovacionagil.com/) hace ya algo más de tres años y estoy disfrutando mucho trabajando día a día, codo con codo, con personas y en proyectos de diferente tipología.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/es/fran-martinez/'
+    text: 'Perfil de socio DAG'
+    type: button
+intro: 'Pues sí, tenemos un nuevo socio y, como siempre, le hemos pedido que se presente para que todos podáis conocerlo un mejor.'
+slug: bienvenido-a-la-dag-fran
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2016-10-26T01:00:00+00:00

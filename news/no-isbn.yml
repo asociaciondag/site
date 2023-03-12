@@ -1,0 +1,20 @@
+id: 42
+title: NO-ISBN
+body:
+  -
+    text: |-
+      A única condición para participar é que as publicacións non teñan ISBN. A finalidade da convocatoria é seleccionar 300 publicacións para organizar unha futura exposición. A data límite para presentar publicacións é o 20 de Novembro de 2009. SALON FÜR KUNSTBUCH é un espazo en Viena inaugurado no 2007 polo artista austríaco Bernhard Cella dedicado a mostrar traballos relacionados co campo da publicación.
+
+      <http://www.salon-fuer-kunstbuch.at/noisbn>
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7a9751eb4-no-isbn.gif
+    text: ''
+    type: image
+intro: 'Recentemente o SALON FÜR KUNSTBUCH abriu a convocatoria NON-ISBN para recopilar publicacións de arte.'
+slug: no-isbn
+tags: []
+lang: gl
+draft: false
+date: 2009-08-27T13:58:55+00:00

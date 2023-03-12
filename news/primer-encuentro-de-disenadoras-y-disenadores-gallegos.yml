@@ -1,0 +1,34 @@
+id: 575
+title: 'Primer Encuentro de diseñadoras y diseñadores gallegos'
+body:
+  -
+    text: |-
+      Se trata de una iniciativa que tendrá continuidad y que se enmarca dentro de una de las líneas de actuación de la DAG que busca descentralizar los eventos de diseño y acercar estos también a pueblos pequeños. El lugar elegido para esta primera edición es Rianxo, municipio al que agradecemos que nos ceda su auditorio para su celebración.
+
+      El encuentro, concebido para poner en común y aprender a partir de las experiencias de los profesionales del diseño, se desarrollará a lo largo de dos días (31 de julio y 1 de agosto) y contempla un variado programa de actividades con conferencias, debates, presentaciones de proyectos, etc.
+
+      **Auditorio de Rianxo**  
+       Calle Autores da Rianxeira, 15920 Rianxo
+    type: text
+  -
+    list: ''
+    file: /news/files/55ba423bd7a69-150707-cartel-rianxo-1.pdf
+    text: 'Cartel del encuentro, PDF'
+    type: file
+  -
+    list: ''
+    file: /news/files/55ba423bd7f30-150707-cartel-rianxo-programa-1-1.pdf
+    text: 'Programa del encuentro, PDF'
+    type: file
+  -
+    list: after
+    url: 'http://dag.gal/es/rianxo'
+    text: 'Página del evento con toda la información'
+    type: button
+intro: 'La DAG, Asociación Gallega de Diseñadores, organiza el 1º Encuentro de diseñadoras y diseñadores gallegos para analizar la situación de la profesión en el contexto más próximo.'
+slug: primer-encuentro-de-disenadoras-y-disenadores-gallegos
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2015-07-30T17:26:51+00:00

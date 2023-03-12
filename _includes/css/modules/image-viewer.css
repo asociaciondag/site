@@ -1,0 +1,35 @@
+/**
+ * image-viewer.css
+ *
+ * INFORMACION
+ * Estilos para os lightboxes para ver as imaxes - http://asociaciondag.org.
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+/* importar os estilos de magnific-popup */
+@import "magnific-popup";
+
+/* Para previr saltos ao facer zoom */
+html {
+	overflow: auto !important;
+	margin-right: 0 !important;
+}
+.mfp-image-holder .mfp-close {
+	color: var(--color-main);
+}
+.mfp-bg {
+	background: white;
+	opacity: 0.4;
+}

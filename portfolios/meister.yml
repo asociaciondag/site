@@ -1,0 +1,79 @@
+id: 225
+title: Meister
+slug: meister
+body:
+  -
+    text: 'Diseño de una tipografía a medida para la marca alemana Jägermeister. La inspiración de sus formas bebe de la geometría de la Bauhaus y otros movimientos y diseñadores históricos como el constructivismo y A. M. Cassandre. La estructura compacta de los caracteres, los ángulos marcados de 45 grados y las curvas achatadas, son tres de las características principais de este diseño. La familia tipográfica incluye dos pesos: Regular y Bold.'
+    type: text
+  -
+    info:
+      code: '<iframe src="https://player.vimeo.com/video/265526966?app_id=122963" width="640" height="360" frameborder="0" title="Meister, a custom typeface for J&auml;germeister" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+      ratio: ''
+    type: embed
+  -
+    image: /portfolios/images/01meister.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/02meister.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/03meister.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/04meister.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/05meister.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/06meister.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/07meister.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/08meister.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/09meister.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/10meister.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/11meister.png
+    text: ''
+    type: image
+cover: /portfolios/covers//01meister.png
+tags:
+  - Tipografía
+members_id:
+  - 56
+lang: es
+info:
+  -
+    - 'Proyecto:'
+    - Meister
+  -
+    - Coautor
+    - 'Noel Pretorius'
+  -
+    - 'Estudio:'
+    - 'NM type'
+  -
+    - 'Cliente:'
+    - 'Jägermeister e Opperman Weiss'
+  -
+    - 'Año:'
+    - '2018'
+draft: true

@@ -1,0 +1,22 @@
+id: 378
+title: 'Zara: versus'
+slug: zara-versus
+body:
+  -
+    text: 'Deseño campaña do xogo «Versus».'
+    type: text
+  -
+    image: /portfolios/images/publicacionversus.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//portadaversus.jpg
+tags:
+  - Gráfico
+members_id:
+  - 81
+lang: gl
+info:
+  -
+    - Cliente
+    - Inditex
+draft: false

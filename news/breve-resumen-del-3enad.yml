@@ -1,0 +1,31 @@
+id: 570
+title: 'Breve resumo do 3ENAD'
+body:
+  -
+    text: |-
+      En la mesa de políticas públicas participaron tres expertos vinculados Design for Europe, proyecto auspiciado por el Design Council británico, con catorce entidades europeas asociadas. Con ellos se abordó la gestión de políticas públicas del diseño, junto a responsables del Ministerio de Industria y Economía, de Surgenia, CADI, CDTI y BiDC que, con el proyecto de la ciudad de Bilbao, ejemplificó cómo es posible reactivar social y económicamente una ciudad cuando hay consenso político y se utiliza el diseño de manera integral y estratégica.
+
+      El trabajo previo y la numerosa presencia de docentes en 3ENAD propició confirmar y llegar a un acuerdo con la CEA (Confederación de Escuelas de Arte) para convocar un encuentro entre asociaciones de profesionales del diseño y centros de formación del diseño para la próxima primavera, en el que participarán empresas, administraciones e instituciones que, entre otros asuntos, abordarán la renovación de perfiles profesionales en los nuevos contextos y escenarios abiertos en el siglo XXI.
+
+      El proyecto “Memorias del Diseño Español” ha propuesto la creación de una comisión permanente formada por miembros de READ y el Museo Nacional de Artes Decorativas para desarrollar un futuro fondo documental del trabajo de los diseñadores con la participación de escuelas de diseño, universidades, investigadores, comisarios, conservadores y otros profesionales expertos.
+
+      La presentación de las actividades de READ y Telefónica I+D en la Universidad de Mondragón y Digipen y sobre todo, la práctica de la herramienta “Escalera del diseño”, con miembros de esta empresa junto a Cosentino, Postres Reina y otras entidades, permitió identificar colaborativamente problemas que resolver y logros que divulgar con respecto a la incidencia del diseño en las estructuras de empresas e instituciones. Se adquirió el compromiso de publicar la experiencia para poder repetirla bajo el mismo formato y objetivos que los desarrollados en este encuentro.
+
+      El valor emocional y los procesos productivos del diseño español se verán reflejados en uno o varios canales (documental, plataforma web interactiva, etc.) que mostrarán cómo somos, cómo entendemos el diseño y cómo abordamos los nuevos procesos creativos; se trata del proyecto “From Spain with Design” que, partiendo de una experiencia previa en Valencia, va a estar especialmente orientado hacia la internacionalización de los diseñadores españoles.
+
+      Asimismo, quedaron planteados varios retos que superar con la participación de diversos colectivos de profesionales, entre ellos, averiguar el sentido y la viabilidad de las asociaciones de diseño tradicionales y transmitir más decididamente la importancia de trasladar a la sociedad el valor del diseño.   
+         
+       [Acceder a las conclusiones completas del 3ENAD](http://designread.es/3enad/#documentos)
+    type: text
+  -
+    list: after
+    info:
+      code: '<iframe src="https://www.flickr.com/photos/131156302@N04/sets/72157654371646890/player" frameborder="0" allowTransparency="true" style="border:none;overflow:hidden;width:640px;height:425px;"></iframe>'
+      ratio: '66.6'
+    type: embed
+intro: 'Acogidos por la AAD, Asociación Andaluza de Diseñadores, el pasado jueves 11 de junio se dieron cita en la Térmica de Málaga un centenar de diseñadores, docentes, empresarios y responsables técnicos y políticos de la administración pública dispuestos a pensar y trabajar unidos en pro del diseño.'
+slug: breve-resumen-del-3enad
+tags: []
+lang: es
+draft: false
+date: 2015-06-23T19:29:15+00:00

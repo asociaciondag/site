@@ -1,0 +1,32 @@
+id: 1053
+title: 'Primera exposición de la obra del diseñador Víctor Moscoso en nuestro país'
+body:
+  -
+    list: after
+    image: /news/images/moscosocosmosimaxe.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Victor Moscoso, que desarrolló toda su trayectoria profesional en los Estados Unidos, tiene sus raíces en Galicia (Vilaboa, A Coruña 1936). Su obra, marcada por un estilo muy personal, vuelve a su tierra de nacimiento para recibir el reconocimiento como referente histórico del diseño. La exposición presenta un universo visual en el que la psicodelia, el espíritu _underground_ y la superposición de colores y formas tienen un papel protagonista.
+
+      La muestra reúne su serie de carteles para bandas de rock psicodélico de finales de los 60, sus colaboraciones en varios números de la revista Zap Comix, y una selección de cubiertas de discos, cómics, ilustraciones y fotografías. Incluye además un espacio en el que se proyectarán alguna de sus animaciones y una sala dedicada a sus carteles cinéticos.
+
+      El propio Moscoso es además partícipe de esta exposición, para la que ha diseñado el cartel promocional, ejerciendo también como director de arte del libro editado para la ocasión. El libro, con cerca de 200 imágenes, contiene una introducción del crítico de diseño Steven Heller y un ensayo biográfico del comisario de la exposición David Carballal.
+
+      Tras su paso por la Fundación Seoane en A Coruña, la exposición pasará por el MUSAC de León y el Centro Niemeyer de Avilés.
+
+      La Fundación Seoane acoge además, en estos momentos, la exposición [«Lolita Díaz Baliño. A realidade soñada»](https://fundacionluisseoane.gal/gl/exposicions/lolita-diaz-balino-a-realidade-sonada/), la primera muestra antológica dedicada a la obra de la ilustradora coruñesa, que estará abierta al público hasta septiembre.
+    type: text
+  -
+    list: ''
+    url: 'https://fundacionluisseoane.gal/gl/exposicions/moscoso-cosmos/'
+    text: 'Más información'
+    type: button
+intro: 'La Fundación Luis Seoane inaugura hoy, miércoles 14 de abril, la muestra «Moscoso Cosmos». Se trata de la mayor retrospectiva del trabajo realizado por Victor Moscoso, uno de los diseñadores más influyentes del siglo XX.'
+slug: primera-exposicion-obra-victor-moscoso-en-nuestro-pais
+tags: []
+lang: es
+draft: false
+date: 2021-04-14T12:30:19+00:00

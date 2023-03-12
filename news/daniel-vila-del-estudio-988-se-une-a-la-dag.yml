@@ -1,0 +1,37 @@
+id: 787
+title: 'Daniel Vila del estudio 988 se une a la DAG'
+body:
+  -
+    list: after
+    image: /news/images/foto-dani-presentacio-n.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ¡Hola a todos!
+
+      Me llamo Daniel Vila y, como muchos de vosotros, soy diseñador gráfico.
+
+      Estudié en la EASD Antonio Faílde, donde me gradué en 2009. Tras mi experiencia académica he estado trabajando como freelance hasta el 2016, año en el que junto a Andrés e Iago Nóvoa fundo 988, un estudio orensano especializado en Diseño y Arquitectura.
+
+      Desde nuestro espacio trabajamos todos los días mucho utilizando como herramientas el diseño estratégico, la cultura del proyecto y nuestra vocación multidisciplinar con el fin de solucionar problemas y construir entendimiento entre diferentes comunidades dentro del contexto global en el que vivimos.
+
+      Creemos en la necesidad de una DAG fuerte que integre, dignifique y defienda los intereses comunes a todos los diseñadores gallegos y en su rol de promotora del Diseño como actor económico estratégico y comprometido con la sostenibilidad social y ecológica.
+
+      Así pues, espero contribuir a este objetivo, tener la oportunidad de generar nuevas amistades y aportar y compartir experiencias con el resto de los socios.
+
+      Es un placer formar parte de la DAG.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/es/daniel-vila-prieto/'
+    text: 'Perfil de socio en la DAG'
+    type: button
+intro: 'Y, como a cada nuevo socio que llega a la asociación, le hemos pedido que se presente para que todos podáis conocerle un poco mejor. Esto es lo que nos ha contado.'
+slug: daniel-vila-del-estudio-988-se-une-a-la-dag
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2018-01-17T19:37:27+00:00

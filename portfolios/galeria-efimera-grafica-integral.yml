@@ -1,0 +1,21 @@
+id: 397
+title: 'Galería efímera, gráfica integral'
+slug: galeria-efimera-grafica-integral
+body:
+  -
+    image: /portfolios/images/uv.jpg
+    text: ''
+    type: image
+  -
+    text: '[Galería efímera, gráfica integral ](https://davidrivada.es/poexpo.html)'
+    type: text
+cover: /portfolios/covers//uv.jpg
+tags:
+  - Gráfico
+members_id:
+  - 99
+lang:
+  - gl
+  - es
+info: []
+draft: false

@@ -1,0 +1,39 @@
+id: 138
+title: Bodime
+slug: bodime
+body:
+  -
+    text: |-
+      Bodime es una serie de animales de madera con una clara orientación lúdica, destinada a potenciar aspectos creativos y de motricidad fina, a través de acciones y procesos derivados del uso del objeto. “Los niños reconocen a los animales por su cabeza”.
+
+      Partiendo de esta categórica afirmación, surgen los animales de Bodime. El cuerpo pasa a un segundo plano, pudiendo compartirse entre las distintas cabezas mediante un sencillo movimiento de rosca, sin que la esencia de los diferentes animales pierda un ápice de entidad.
+
+      El acabado natural de estas piezas responde, principalmente a tres premisas. Por una parte (y debido fundamentalmente a que se trata de un objeto manipulable) se quiso “acercar” a los niños esa textura tan formidable que nos ofrece la madera sin ningún tipo de tratamiento. Por otra parte, evidenciar de manera manifiesta la finalización artesanal del objeto dentro del proceso productivo. Y por último, permitir la posibilidad de que el niño pintase el juguete a su antojo (con un suave lijado retomará su aspecto original).
+    type: text
+  -
+    image: /portfolios/images/570f64e07e3be-bod001-lateral.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/570f4ec0de0dc-bod003-lateral.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/570f4ec0de549-bodime-composicion-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/570f4ec0de8d0-bodime-composicion-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/570f4ec0def7f-bodime-composicion-3.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/570f4ec0ddab5-bod001-lateral.jpg
+tags: []
+members_id:
+  - 51
+lang: es
+info: []
+draft: false

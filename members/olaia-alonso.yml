@@ -1,0 +1,23 @@
+id: 79
+contact: |-
+  T. 696 478 941
+
+  <demostra@demostra.com>
+links:
+  -
+    text: Demostra
+    url: 'http://www.demostra.com/'
+    type: link
+bio_gl: null
+bio_es: null
+name: 'Olaia Alonso'
+job_gl: ' Deseñadora en Demostra'
+job_es: ' Diseñadora en Demostra'
+slug: olaia-alonso
+avatar: /members/avatares//demostra.jpeg
+avatarBig: null
+tags:
+  - Espazos
+  - Exposicións
+  - Estratexia
+draft: false

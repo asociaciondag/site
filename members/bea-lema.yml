@@ -1,0 +1,36 @@
+id: 55
+contact: |-
+  [7H Coop](http://www.7hcoop.es/)
+
+  <hello@bealema.com>
+
+  +34 662 335 766
+links:
+  -
+    text: Web
+    url: 'http://bealema.com/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/bea.lema/'
+    type: link
+bio_gl: |-
+  Ola, o meu nome é Bea Lema e vivo na Coruña, a miña cidade natal. Estudei Deseño de Produto e comecei a miña traxectoria profesional traballando para a firma de cerámica Sargadelos. Posteriormente creei o proxecto Lelédacuca, xunto con Xoan Torres, no que realizamos obxectos que mesturan a artesanía tradicional co deseño contemporáneo.
+
+  Na actualidade son socia da cooperativa 7H, desde onde desenvolvo o meu traballo en relación ao deseño de produto e a ilustración. Realicei proxectos moi diversos (obxectos grandes, obxectos pequenos, instalacións, accións,...). Ademais, tamén imparto os meus propios talleres.
+
+  Os meus deseños foron realizado para amigos, empresas ou institucións como: Fuera de Margen, Unitaria, Nave 1839, Bibliotecas Municipais da Coruña, Consello Galego de Cooperativas, Cidade da Cultura de Galicia ou o Concello de Santiago de Compostela.
+bio_es: |-
+  Hola, mi nombre es Bea Lema y vivo en A Coruña, mi ciudad natal. Estudié Diseño de Producto y comencé mi trayectoria profesional trabajando para la firma de cerámica Sargadelos. Posteriormente creé el proyecto Lelédacuca, junto con Xoan Torres, en el que realizamos objetos que mezclan la artesanía tradicional con el diseño contemporáneo.
+
+  En la actualidad soy socia de la cooperativa 7H, desde donde desarrollo mi trabajo en relación al diseño de producto y la ilustración. Realicé proyectos muy diversos (objetos grandes, objetos pequeños, instalaciones, acciones,...). Además, también imparto mis propios talleres.
+
+  Mis diseños fueron realizado para amigos, empresas o instituciones como: Fuera de Margen, Unitaria, Nave 1839, Bibliotecas Municipales de A Coruña, Consejo Gallego de Cooperativas, Cidade da Cultura de Galicia o el Ayuntamiento de Santiago de Compostela.
+name: 'Bea Lema'
+job_gl: 'Deseño de produto / ilustracción'
+job_es: 'Diseño de producto / ilustración'
+slug: bea-lema
+avatar: /members/avatares/587f97abb1320-bea-lema.jpg
+avatarBig: null
+tags: []
+draft: true

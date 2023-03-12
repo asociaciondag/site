@@ -1,0 +1,80 @@
+/**
+ * groups.css
+ *
+ * INFORMACION
+ * Estilos de layout para grupos de elementos - http://asociaciondag.org.
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * FERRAMENTAS
+ * Stylecow ............... http://stylecow.github.io/
+ * Desenvolvido por Oscar Otero.
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+.ly-group {
+	padding-top: 1rem;
+
+	& > h1 {
+		margin: 0;
+		padding: .5rem 0;
+		font-size: var(--fs-48);
+		letter-spacing: -0.03em;
+		font-weight: var(--fw-light);
+		line-height: 1;
+	}
+	& > div {
+		display: flex;
+		flex-wrap: wrap;
+
+		& > article {
+			padding-bottom: 1rem;
+			width: 100%;
+			box-sizing: border-box;
+			max-width: 420px;
+		}
+	}
+
+	@media (--tablet) {
+		padding-top: 2rem;
+
+		& > div {
+			margin-right: -1rem;
+
+			& article {
+				padding-right: 1rem;
+				width: 50%;
+			}
+		}
+	}
+
+	@media (--tablet-landscape) {
+		display: flex;
+		padding-top: 1rem;
+
+		& > :first-child {
+			width: 3em;
+			flex-shrink: 0;
+		}
+
+		& > div {
+			flex-grow: 1;
+
+			
+		}
+	}
+}
+
+.ly-group + .ly-group {
+	border-top: solid 1px var(--black-8);
+}

@@ -1,0 +1,19 @@
+id: 305
+title: 'A Porta Aberta'
+slug: a-porta-aberta
+body:
+  -
+    image: /portfolios/images/aportaaberta.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//aportaaberta.jpg
+tags:
+  - Gráfico
+  - Espazos
+members_id:
+  - 6
+lang:
+  - gl
+  - es
+info: []
+draft: false

@@ -1,0 +1,42 @@
+id: 811
+title: 'La gráfica de la SELIC premiada con un Laus de bronce en la Nit de los Laus'
+body:
+  -
+    list: after
+    image: /news/images/01-l.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: 'Este es el séptimo año consecutivo en que los [Laus](http://www.adg-fad.org/es/laus/premios), uno de los premios de mayor prestigio del estado y que cada vez cuentan con más participación internacional, reconocen el trabajo de los diseñadores gallegos [Suso Vázquez](https://dag.gal/gl/suso-vazquez-gomez/) y [Cibrán Rico](https://dag.gal/gl/cibran-rico-lopez/). En esta ocasión, el trabajo premiado ha sido la gráfica (colección de libros incluída) de la [SELIC](http://selic.gal/), Semana del Libro de Compostela, realizada por [desescribir](http://www.desescribir.com/) para el Ayuntamiento de Santiago de Compostela, y que ha resultado merecedor de un Laus de bronce en la categoría de elementos coordinados.'
+    type: text
+  -
+    list: ''
+    image: /news/images/02-l.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    list: ''
+    image: /news/images/03-l.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    list: ''
+    image: /news/images/06.JPG
+    text: ''
+    mode: normal
+    type: image
+  -
+    list: ''
+    url: 'http://www.adg-fad.org/es/laus/proyecto/selic-semana-do-libro-de-compostela'
+    text: 'SELIC na web dos Laus'
+    type: button
+intro: 'Efectivamente, el pasado viernes se entregaron en Barcelona los Premios Laus y, como ya viene siendo habitual desde hace unos años, entre los galardonados de esta edición vuelve a haber un trabajo de nuestros compañeros desescribir.'
+slug: la-grafica-de-la-selic-premiada-con-un-laus-de-bronce-en-la-nit-de-los-laus
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2018-06-11T17:14:09+00:00

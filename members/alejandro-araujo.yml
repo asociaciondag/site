@@ -1,0 +1,47 @@
+id: 77
+contact: |-
+  T. 886 602 002 / 660 199 939
+
+  <a.araujo@adosproyectos.com>
+links:
+  -
+    text: 'ADOS Proyectos'
+    url: 'http://adosproyectos.es'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/adosproyectos/'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/Ados-Proyectos-103281636723601/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/company/ados-proyectos'
+    type: linkedin
+  -
+    text: Pinterest
+    url: 'https://www.pinterest.com/adosproyectos/'
+    type: link
+bio_gl: |-
+  Interiorista en Ados Proyectos. Técnico Superior de Proxectos e Dirección de obras de decoración, Deseño de Interiores pola Escola de Artes e Deseño Ramón Falcón (Lugo).
+
+  Despois de trece anos traballando nunha multinacional, realizando proxectos de interiorismo, reformas e obra nova, fundei en 2013 Ados Proyectos, o estudio de interiorismo onde, conxuntamente cun equipo de profesionais, realizo proxectos de interiorismo, de iluminación, deseño de mobiliario e dirección de obra. Levamos a cabo proxectos totalmente personalizados, que inclúen dende proxectos residenciais, industriais e sanitarios, ata comerciais, oficinas e espazos públicos.
+bio_es: |-
+  Interiorista en Ados Proyectos. Técnico Superior de Proyectos y Dirección de obras de decoración, Diseño de Interiores por la Escuela de Artes y Diseño Ramón Falcón (Lugo).
+
+  Después de trece años trabajando en una multinacional, realizando proyectos de interiorismo, reformas y obra nueva, fundé en 2013 Ados Proyectos, el estudio de interiorismo donde, junto a un equipo de profesionales, realizo proyectos de interiorismo, de iluminación, diseño de mobiliario y dirección de obra. Llevamos a cabo proyectos totalmente personalizados, comprendiendo desde proyectos residenciales, industriales y sanitarios, hasta comerciales, oficinas y espacios públicos.
+name: 'Alejandro Araujo'
+job_gl: 'Interiorista en ADOS Proyectos'
+job_es: 'Interiorista en Ados Proyectos'
+slug: alejandro-araujo
+avatar: /members/avatares//aaraujo.jpg
+avatarBig: null
+tags:
+  - Espazos
+  - Iluminación
+  - Industrial
+  - Mobiliario
+  - Produto
+draft: false

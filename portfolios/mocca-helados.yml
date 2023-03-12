@@ -1,0 +1,52 @@
+id: 37
+title: 'Mocca Helados'
+slug: mocca-helados
+body:
+  -
+    text: |-
+      No ano 2012 Carlos Montero materializa un dos seus sonos máis cobizados, crear e comercializar unha marca de xeados
+
+      Da contracción de Montero e Carlos nace MOCCA. Xeados artesáns, de calidade, feitos con agarimo e auténtica paixón, onde o produto ben feito prima sobre calquera outra cousa.
+
+      A formulación da identidade pasa por darlle protagonismo ao propio nome, xa que a priori é a persoa que hai detrás quen conforma a empresa e quen da a cara polo produto.
+
+      Deseñamos o logotipo cun xogo tipográfico usando a doble C como nexo de unión entre nome e apelido, con diferentes variantes para as aplicacións: composición vertical, horizontal e abreviado. Acompañando ao logotipo contémplase a posibilidade de incluir unha lenda ou parte descriptiva, neste caso “helados”, e noutras aplicacións, “helados artesanos, helados artesanos de Lugo…”
+
+      Debido a diversidade de aplicacións e sabores que ten o proxecto, contamos con varias cores corporativas, así como unha forma baseada nos conos dos xeados e materializado nun triángulo que serve como vínculo e permite facer unha marca escalable, flexible, e consistente.
+
+      Este proxecto medra día a día, por iso a gráfica aplicada non está pechada e segue medrando paralelamente ás necesidades do mesmo.
+
+      <http://moccahelados.com>
+    type: text
+  -
+    image: /portfolios/images/5585a29994544-01.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a299947fb-02.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a29994a56-03.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5585b6d4dd2c2-mocca.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 11
+  - 15
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - Sond3
+  -
+    - Cliente
+    - 'Carlos Montero'
+  -
+    - Ano
+    - '2012'
+draft: false

@@ -1,0 +1,37 @@
+id: 892
+title: 'Temos un novo socio!'
+body:
+  -
+    list: after
+    image: /news/images/roberto-nun-ez-perfil-dag.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Ola,  
+         
+       Son [Roberto Núñez](https://robertonunez.com/), director creativo cambadés establecido en Barcelona.
+
+      Empecei no mundo da comunicación no ano 2002 na Coruña. Formeime en axencias de publicidade de carácter rexional, logo nacional e máis tarde multinacional. DDB Barcelona marcoume moito. Neste período tiven a sorte de afrontar todo tipo de proxectos de comunicación para pequenos e grandes clientes de decenas de sectores diferentes.  
+         
+       O meu perfil foi evolucionado ao longo do tempo. Pasei pola redacción, programación, deseño, dirección de arte, dirección creativa, estratexia, ata a actualidade en que son un reflexo desta experiencia.
+
+      Nos últimos anos fixen unha transición profesional que desembocou de forma natural na miña propia marca e aventura persoal. Teño a oficina principal en Barcelona, pero tamén traballo puntualmente dende Cambados.  
+         
+       Creo na forza dos conceptos e na estratexia a longo prazo.  
+         
+       É un pracer formar parte da asociación.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/roberto-nunez/'
+    text: 'Perfil de socio na DAG'
+    type: button
+intro: 'Chámase Roberto Núñez e, como sempre facemos con cada nova incorporación á DAG, pedímoslle que nos falase un pouco del e da súa experiencia. Isto é o que nos contou.'
+slug: temos-un-novo-socio
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2019-06-05T09:27:45+00:00

@@ -1,0 +1,29 @@
+id: 676
+title: 'Llega el Congreso de Tipografía de Valencia'
+body:
+  -
+    list: after
+    image: /news/images/5773f28d98d1c-uqui-7cit.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ¿Podemos hablar de una tipografía de utilidad pública? ¿En qué medida puede la tipografía contribuir a «lo público»? ¿Puede cubrir las necesidades de ciertos colectivos excluidos y ayudar a resolver problemas sociales? ¿Existe una tipografía activista? ¿Cómo contribuye a un mejor acceso a la información de interés público? Son algunas de las cuestiones que se abordarán en este 7CIT.
+
+      El programa para este 2016 viene cargado de actividades: talleres, conferencias, mesas de trabajo, comunicaciones y hasta un mercadillo tipográfico. Pero de entre todas estas interesantes propuestras tenemos que destacar especialmente la de nuestra socia [Uqui Permui](http://uqui.net/es), quien el domingo, dentro de la sesión dedicada a la tipografía activista presentará la comunicación **La letra feminista en la calle**.
+
+      En este trabajo, la autora analizará las distintas formas gráficas empleadas por los movimientos feministas desde los años sesenta. Como punto de partida, examinará algunas de esas experiencias activistas que se han desarrollado en diferentes lugares, estudiando las similitudes y diferencias que tienen entre ellas. Se estudiarán ejemplos, buscando rasgos identitarios en la caligrafía, en el _lettering_ y en la tipografía utilizada, analizando las preferencias gráficas de los colectivos feministas. Para finalizar, la comunicación se centrará en un proyecto realizado para una campaña institucional de diseño social contra la violencia machista que se desenvolvió en Santiago de Compostela, en noviembre del 2015. A partir de dichos registros, y en base a la experiencia personal, tanto en el campo del activismo feminista como en la realización de encargos institucionales sobre el tema, se sacarán algunas conclusiones, que puedan abrir el debate de si la gráfica feminista sigue siendo subversiva cuando es asumida por las instituciones y por la sociedad, o por el contrario, esto puede desactivarla.
+    type: text
+  -
+    list: ''
+    url: 'http://www.congresotipografia.com/'
+    text: 'Web del Congreso de Tipografía de Valencia'
+    type: button
+intro: 'La cita será este fin de semana, del 1 al 3 de julio. En la edición de este año, que lleva por título Tipografía pública, la organización propone una reflexión acerca del papel de la tipografía en todos aquellos aspectos relacionados con el sentido de lo público.'
+slug: llega-el-congreso-de-tipografia-de-valencia
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2016-06-29T18:07:16+00:00

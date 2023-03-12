@@ -1,0 +1,33 @@
+id: 1083
+title: 'Cuenta atrás para el 9ENAD '
+body:
+  -
+    list: before
+    image: /news/images/imaxe-enad.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Uno de los dos elementos fundamentales de los ENAD son las mesas de trabajo en las que las personas interesadas pueden intervenir y aportar ideas. No sólo participan profesionales del diseño y representantes de las asociaciones de diseño, sino también otras entidades e instituciones que buscan construir nuevas iniciativas que den valor al diseño.
+
+      Este año contamos con From Spain With Design (FSWD), Arquivo do Deseño, Proxectos Internacionais, Gráficas en Negro y Boas Prácticas. La mesa Por una Estrategia del Diseño está cerrada a participantes.
+
+      El programa presenta dos días completos de actividad. El viernes 15 se inicia la jornada con conferencias y presentaciones de proyectos y por la tarde se concentra toda la dinámica de las mesas de trabajo. El sábado 16, además de las conferencias y una mesa sobre la contratación de servicios de diseño, se presentarán las conclusiones de las mesas de trabajo. A última hora de la tarde, de forma más distendida, disfrutaremos del Showroom de festivales y eventos de diseño en España y de la presentación del WDC Valencia 2022. El día 17 por la mañana está prevista una visita guiada para conocer las instalaciones de Sargadelos en Sada (A Coruña) y el entorno A2Velas.
+
+      Debido a la situación en la que nos encontramos, las plazas están limitadas y todas las actividades estarán restringidas al aforo en el momento de la celebración del evento. Para aquellas personas que no puedan asistir, las conferencias también serán retransmitidas en directo a través del [canal de youtube de READ](https://www.youtube.com/user/ForoREAD). Cualquier cambio en el programa será comunicado a través de la web.
+
+      El 9ENAD es una actividad organizada por [READ](https://www.designread.es) (Red Española de Asociaciones de Diseño) y por [DAG](https://dag.gal/gl/) (Asociación Galega de Deseño). Está patrocinada por la [Xunta de Galicia](https://www.xunta.gal/portada) y cuenta con la colaboración del [CGAC](http://cgac.xunta.gal/GL) (Centro Gallego de Arte Contemporáneo), del [Museo do Pobo Galego](https://www.santiagoturismo.com/museos/museo-do-pobo-galego) y de la [World Design Capital Valencia 2022](https://www.wdcvalencia2022.com/es/). La imagen gráfica ha sido creada por nuestros compañeros Adrián Parcero de [Guillotina Estudio](http://guillotinaestudio.com/) y Ángel Ramos.
+    type: text
+  -
+    list: ''
+    url: 'https://designread.es/9enad/'
+    text: 'Web 9ENAD'
+    type: button
+intro: 'El 9º Encuentro Nacional de Asociaciones de Diseño, que tendrá lugar en Santiago de Compostela del 15 al 17 de octubre, acaba de activar su web para recibir las inscripciones en las mesas de trabajo y ofrecer toda la información sobre el programa y las personas participantes del evento. Las restricciones actuales de los aforos se tendrán en cuenta a la hora de recibir las solicitudes.'
+slug: cuenta-atras-9enad
+tags:
+  - 'actividades dag'
+lang: es
+draft: false
+date: 2021-09-02T13:02:16+00:00

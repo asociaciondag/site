@@ -1,0 +1,30 @@
+id: 846
+title: 'OFFF,  el punto de encuentro para las mentes creativas '
+body:
+  -
+    list: after
+    image: /news/images/03.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Hace más de una década OFFF Barcelona nacía como un evento para conectar a profesionales, artistas y creadores de disciplinas como las del diseño, fotografía, film, animación, ilustración, tipografía, programación, branding o música. A día de hoy, OFFF es una forma de vida, un festival que acoge a talentos innovadores del panorama internacional para compartir sus experiencias. Es el punto de encuentro para artistas y mentes creativas de todo el mundo, donde conocerse, colaborar y compartir sus pasiones. OFFF es una comunidad que invita a cualquiera con interés por participar y dejarse inspirar, en un viaje que incluye conferencias, talleres, actividades y performances. Es una plataforma en la cual los artistas revelan sus procesos de trabajo y demuestran la potencia de la industria creativa. OFFF tiene lugar cada año en Barcelona, mientras gira alrededor del mundo con los OFFF On Tour, que ya han visitado lugares como Cincinnati, Quebec, México DF, Viena o Tel Aviv, por nombrar sólo algunos.
+
+      OFFF Sevilla será la primera cita de estos OFFF On Tour en Andalucía, y tiene como objetivo convertirse en la referencia en el sur para la creatividad. Se celebrará del 6 al 9 de diciembre en un incomparable emplazamiento histórico que data de la Exposición Universal de 1929, el Teatro Lope de Vega y el Casino de la Exposición. En su primera edición, OFFF Sevilla nace como un lugar para conectar, hacer crecer e inspirar a la gente a través de la creatividad y la interdisciplinariedad. El interés radica en la capacidad de OFFF de servir como plataforma de intercambio de ideas y proyectos entre distintos colectivos artísticos, sirviendo para reforzar y potenciar el tejido creativo y empresarial sevillano y andaluz, conectándolo con la red internacional del OFFF.
+
+      En OFFF Sevilla compartirán sus experiencias artistas y estudios de primer nivel internacional como No Boddy, director creativo del estudio de efectos digitales norteamericano **The Mill**, que ha trabajado para el canal HBO y muchos otros importantes clientes; **Joshua Davis**, un neoyorquino pionero de la animación flash y del arte generado con algoritmos, considerado como el ‘padrino’ del OFFF; **Joëlle Snaith**, una diseñadora audiovisual sudafricana experta en la representación visual de frecuencias, creadora de vídeos para músicos como Deadmau5; **Musketon**, un ilustrador belga conocido por su trabajo para marcas como Vans o Nike; la francesa **Malika Favre**, una maestra en el uso del color y los espacios positivo y negativo, autora de portadas para publicaciones como The New Yorker o Vogue; el británico **Steve Simpson**, reconocido por ilustrar con simpáticos personajes para marcas como Jameson, Guinness o Mini; **Paloma Rincón**, artista mexicana residente en Madrid que combina con un estilo único la fotografía con la ilustración, la escultura o la instalación, trabajando para Coca-Cola, Google o Vodafone; y tres estudios barceloneses, **Vasava**, **Hey Studio** y **Cocolia**, que han conseguido situar a España en la vanguardia del diseño, con campañas a nivel global y clientes como Apple, The Washington Post, Computer Arts, Inditex, Oxfam, Absolut o Adidas, entre muchos otros. **Musketon** y **Steven Simpson**, además, ofrecerán dos talleres para diseñadores e ilustradores, enfocados en la creación con Adobe Illustrator y la ilustración en una original caja de cerillas, respectivamente.
+
+      Hasta el 30 noviembre, todos los socios de la DAG tienen un 20% de descuento en el precio de las entradas. Para que se os aplique, escribid <info@dag.gal>
+    type: text
+  -
+    list: ''
+    url: 'https://offfsevilla.com/'
+    text: 'Web de OFFF Sevilla'
+    type: button
+intro: 'OFFF, el acontecimiento internacional de referencia para la creatividad llega por primera vez a Sevilla, del 6 al 9 de diciembre en el Teatro Lope de Vega y en el Casino de la Exposición.'
+slug: offf-el-punto-de-encuentro-para-las-mentes-creativas
+tags: []
+lang: es
+draft: false
+date: 2018-11-21T19:38:29+00:00

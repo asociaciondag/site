@@ -1,0 +1,29 @@
+id: 789
+title: 'Casos de éxito del diseño gallego'
+body:
+  -
+    list: after
+    image: /news/images/cismadeira-deseno.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      La iniciativa se enmarca dentro del proyecto europeo [Design4innovation](https://www.interregeurope.eu/design4innovation/) y pretende:
+
+      - Identificar los dos mejores proyectos industrializados por empresas gallegas y presentarlos, con cobertura de gastos de alojamiento y desplazamiento, en la **exposición de diseño europeo** a celebrar en Abril 2018 en Valletta, Capital Europea de la Cultura 2018.
+      - Editar una **publicación** que recopile todos aquellos casos que reúnan las características solicitadas y que ayude a difundir las **mejores prácticas del diseño gallego**, demostrando que el diseño puede ser clave para conseguir objetivos específicos de la empresa, tan pragmáticos como alcanzar ciertas cuotas de mercado, abrir mercados nuevos, diversificar la oferta de productos, conseguir que una innovación tecnológica sea asimilada fácilmente por el usuario.
+       
+      Todos los detalles sobre el proceso de inscripción y selección están contenidos en el siguiente documento:
+    type: text
+  -
+    list: ''
+    url: 'http://www.cismadeira.es/Galego/downloads/design4innovation_bases_deseno.pdf'
+    text: 'Convocatoria de casos de éxito del diseño gallego'
+    type: button
+intro: 'Con el objetivo de poner en valor el diseño como factor de innovación, la Agencia Gallega de Innovación ([GAIN](http://gain.xunta.gal/)) a través de los Centros de Centros de Innovación y Servicios Tecnológicos de la Madera ([CIS-Madera](http://www.cismadeira.com/galego/inicial.html)) y del Diseño y la Tecnología ([CIS-Galicia](http://www.cisgalicia.org/gallego/index.html)) está promoviendo una iniciativa para identificar casos de éxito del diseño en Galicia con el fin de visibilizar y promocionar el potencial gallego en este ámbito.'
+slug: casos-de-exito-del-diseno-gallego
+tags: []
+lang: es
+draft: false
+date: 2018-01-24T18:30:29+00:00

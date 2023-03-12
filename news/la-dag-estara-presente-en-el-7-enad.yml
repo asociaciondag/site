@@ -1,0 +1,28 @@
+id: 916
+title: 'La DAG estará presente en el 7 ENAD'
+body:
+  -
+    list: after
+    image: /news/images/7-enad.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      La edición de este año, que gira en torno al lema **Somos cultura, hacemos economía**, reunirá a profesionales, asociaciones, docentes, alumnos, organismos públicos y empresas concernidos por el diseño para trabajar colaborativamente durante tres jornadas, desde el 27 al 29 de septiembre.
+
+      En el caso de la DAG, la representación será doble, pues su presidenta Irene García participará el primer día en una mesa redonda en la que se abordarán las distintas estrategias territoriales para y con el Diseño, mientras que Uqui Permui intervendrá el sábado para hablar de las buenas prácticas en la contratación del diseño.
+
+      Esta séptima edición tendrá lugar en Murcia, por ser la DIP, Asociación de Profesionales del Diseño y la Comunicación Publicitaria de la Región de Murcia, la asociación que en este momento y hasta los primeros meses de 2021 preside la READ.
+    type: text
+  -
+    list: ''
+    url: 'https://www.designread.es/7enad/'
+    text: '7 ENAD'
+    type: button
+intro: 'Los ENAD son encuentros anuales que organiza la Red Española de Asociaciones de Diseño (READ) para debatir líneas de acción para el sector.'
+slug: la-dag-estara-presente-en-el-7-enad
+tags: []
+lang: es
+draft: false
+date: 2019-09-26T19:43:13+00:00

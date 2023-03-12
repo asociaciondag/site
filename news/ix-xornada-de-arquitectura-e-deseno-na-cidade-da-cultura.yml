@@ -1,0 +1,37 @@
+id: 744
+title: 'IX Xornada de Arquitectura e Deseño na Cidade da Cultura'
+body:
+  -
+    list: after
+    image: /news/images/asesorarq-jornada-arquitectura-diseno-galicia-1024x554.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      A xornada comezará ás 09.30 h e durante a sesión da mañá terán lugar 2 conferencias e unha mesa redonda:
+
+      10.00 h Pensamento Glocal no deseño con [Xabier Rilo](https://dag.gal/gl/xabier-rilo/) e [Ricardo Tubío](https://dag.gal/gl/ricardo-tubio-pazos/) ([cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/))
+
+      10.45 h Deseño sen querer con José Antonio Vázquez ([Estudio Nómada](http://www.estudionomada.es/))
+
+      12.00 h Mesa redonda: Deseño e Industria moderada polo arquitecto e doutor pola ETSAC da Universidade da Coruña Elías Cueto e na que participarán:
+
+      - Tania Pichel, arquitecta, responsábel do Departamento Técnico de[ Molduras do Noroeste](http://www.grupomolduras.com/)
+      - Ana Hermida, directora comercial e de marketing de Mobles [Hermida](http://www.hermida.com/)
+      - Xabier Rilo e Ricardo Tubío, enxeñeiros en Deseño Industrial e fundadores de [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/)
+      - José Antonio Vázquez, arquitecto e un dos fundadores do [Estudio Nómada](http://www.estudionomada.es/)
+       
+      A actividade retomarase a partir das 16.00 h cunha serie de encontros empresariais. Trátase de encontros coordinados e marcados con antelación entre empresas, arquitectos e deseñadores que asisten ás xornadas. Cada entrevista terá unha duración de 15 minutos.
+    type: text
+  -
+    list: ''
+    url: 'http://clustermadeira.com/cmd-celebrara-las-ix-jornadas-arquitectura-diseno-proximo-15-septiembre/'
+    text: 'Inscricións e información na páxina do CMD'
+    type: button
+intro: 'O [Clúster da Madeira e o Deseño](http://clustermadeira.com/) de Galicia organiza a IX Xornada de Arquitectura e Deseño.'
+slug: ix-xornada-de-arquitectura-e-deseno-na-cidade-da-cultura
+tags: []
+lang: gl
+draft: false
+date: 2017-09-05T19:01:31+00:00

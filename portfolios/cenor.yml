@@ -1,0 +1,20 @@
+id: 340
+title: Cenor
+slug: cenor
+body:
+  -
+    image: /portfolios/images/cenor.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//cenor.jpg
+tags:
+  - 'Identidade corporativa'
+  - Sinalética
+members_id:
+  - 29
+  - 6
+lang:
+  - gl
+  - es
+info: []
+draft: false

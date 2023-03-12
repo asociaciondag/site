@@ -1,0 +1,27 @@
+id: 1210
+title: 'A DAG presenta AR\DE, o Arquivo do Deseño Galego'
+body:
+  -
+    list: after
+    image: /news/images/arde-para-noticia.jpeg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      O Arquivo do Deseño Galego AR\\DE é unha iniciativa da DAG, que busca funcionar como plataforma dixital para a documentación da historia do deseño en Galicia, facilitando a investigación, a preservación e o estudo do noso patrimonio histórico.
+
+      O sitio web conta, no momento do seu lanzamento, con máis de 100 referencias bibliográficas e preto de 200 entradas con distintos recursos e fontes de documentación sobre a historia do deseño galego. Inclúense máis de 80 autorías diferentes e unhas 50 entidades editoras. Ademais, pódense encontrar ao redor de 100 referencias a deseñadoras e deseñadores en disciplinas como o deseño gráfico, o deseño industrial e de produto, o deseño dixital e o deseño de espazos.
+
+      AR\\DE nace coa vontade de converterse, no futuro, nun Arquivo do Deseño Galego que documente e catalogue pezas relevantes da nosa historia. A través da web, o grupo de traballo de AR\\DE formado por Marí​a Ramos, María Agra, Ó​scar Otero e Ana Boquete, ​anima tanto a persoas asociadas á DAG como ao público en xeral a colaborar, enviando recursos e referencias que coñezan e boten en falta na web.
+
+      Para a realización da identidade visual e o deseño web do proxecto fíxose unha chamada a proxecto entre asociadas, sendo o estudio vigués [Desoños](https://www.desonhos.gal/es/) o encargado de levar a cabo esta tarefa.
+
+      Podes saber máis do proxecto visitando a web [ARDE.gal](http://www.arde.gal).
+    type: text
+intro: 'ARDE.gal é unha nova plataforma sobre a historia do deseño en Galicia. Bota a andar coa creación dunha base de datos; unha lista de referencias para coñecer o legado histórico que deixan as obras, entidades e persoas que tratan o deseño galego nas súas distintas disciplinas.'
+slug: a-dag-presenta-arde-o-arquivo-do-deseno-galego
+tags: []
+lang: gl
+draft: false
+date: 2023-03-03T11:51:51+00:00

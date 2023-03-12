@@ -1,0 +1,41 @@
+id: 52
+title: 'Basic Concepts'
+slug: basic-concepts
+body:
+  -
+    text: |-
+      Proxecto persoal do estudio.
+
+      Na era da tecnoloxía, das innovacións e dos constantes avances, volvemos ás raíces e centrámonos nos principios básicos polos que se rexe o deseño, porque como dixo Paul Rand: “Design is so simple, that is why it is so complicated” (O deseño é tan simple, é por isto que é tan complicado).
+    type: text
+  -
+    image: /portfolios/images/5585a3242616d-01.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a32426864-02.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a32427092-03.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55a3d144911a3-portada-basic.jpg
+tags: []
+members_id:
+  - 11
+  - 15
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - Sond3
+  -
+    - Cliente
+    - Autoencargo
+  -
+    - Ano
+    - '2011'
+draft: false

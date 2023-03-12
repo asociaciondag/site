@@ -1,0 +1,62 @@
+/**
+ * home.css
+ *
+ * INFORMACION
+ * Estilos específicos para a home
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * FERRAMENTAS
+ * Stylecow ............... http://stylecow.github.io/
+ * Desenvolvido por Oscar Otero.
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+
+/* BÁSICO */
+@import "../variables.css";
+
+/* Lista de noticias en portada */
+.home-news {
+	padding-bottom: 2rem;
+
+	& > nav {
+		text-align: center;
+		margin-top: 2rem;
+	}
+}
+
+/* Carrusel de traballos dos socios */
+.home-portfolio {
+	border-top: 1px solid var(--color-light);
+	padding: 0.5rem;
+}
+
+
+.promo-festival {
+	& .page-header {
+		/* estado do menu-lang sen bordes no home */
+		&:not(.is-sticky){
+			& .page-menu-lang{
+				& ul{
+					border-bottom: 1px solid var(--color-light);
+				}
+				&.is-opened {
+					& ul{
+						background-color: transparent;
+					}
+				}
+			}
+		}
+	}
+}

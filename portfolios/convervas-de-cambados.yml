@@ -1,0 +1,30 @@
+id: 294
+title: 'Conservas de Cambados'
+slug: convervas-de-cambados
+body:
+  -
+    text: 'Diseño de nuevo _packaging_ y cartel promocional.'
+    type: text
+  -
+    image: /portfolios/images/caixas.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/cartel-conservas-gourmet.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/troquel-lata-conservas.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//caixas.jpg
+tags:
+  - Embalaxe
+members_id:
+  - 69
+lang: es
+info:
+  -
+    - Cliente
+    - 'Conservas de Cambados'
+draft: false

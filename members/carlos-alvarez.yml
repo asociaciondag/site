@@ -1,0 +1,45 @@
+id: 2
+contact: |-
+  **Desoños**
+
+  Urzáiz 8, 1°
+
+  36201 Vigo
+
+  T. 986 470 507
+
+  <desonhos@desonhos.net>
+links:
+  -
+    text: Desoños
+    url: 'http://www.desonhos.net/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/company/deso-os'
+    type: linkedin
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/desonhos'
+    type: facebook
+  -
+    text: Twitter
+    url: 'https://twitter.com/_desonhos'
+    type: twitter
+bio_gl: null
+bio_es: null
+name: 'Carlos Álvarez'
+job_gl: 'Director de proxectos e deseñador en Desoños'
+job_es: 'Director de proyectos y diseñador en Desoños'
+slug: carlos-alvarez
+avatar: /members/avatares/5544c790259e9-carlos-alvarez.jpg
+avatarBig: null
+tags:
+  - Embalaxe
+  - Gráfico
+  - 'Identidade corporativa'
+  - Exposicións
+  - Editorial
+  - Web
+  - Sinalética
+draft: false

@@ -1,0 +1,30 @@
+id: 845
+title: 'OFFF,  o punto de encontro para mentes creativas'
+body:
+  -
+    list: after
+    image: /news/images/03.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Hai máis dunha década OFFF Barcelona nacía como un evento para conectar a profesionais, artistas e creadores de disciplinas como as do deseño, fotografía, filme, animación, ilustración, tipografía, programación, branding ou música. A día de hoxe, OFFF é unha forma de vida, un festival que acolle a talentos innovadores do panorama internacional para compartir as súas experiencias. É o punto de encontro para artistas e mentes creativas de todo o mundo, onde coñecerse, colaborar e compartir as súas paixóns. OFFF é unha comunidade que convida a calquera con interese por participar e deixarse inspirar, nunha viaxe que inclúe conferencias, talleres, actividades e performances. É unha plataforma na cal os artistas revelan os seus procesos de traballo e demostran a potencia da industria creativa. OFFF ten lugar cada ano en Barcelona, mentres xira ao redor do mundo cos OFFF On Tour, que xa visitaron lugares como Cincinnati, Quebec, México DF, Viena ou Tel Aviv, por nomear só algúns.
+
+      OFFF Sevilla será a primeira cita destes OFFF On Tour en Andalucía, e ten como obxectivo converterse na referencia no sur para a creatividade. Celebrarase do 6 ao 9 de decembro nun incomparábel emprazamento histórico que data da Exposición Universal de 1929, o Teatro Lope de Veiga e o Casino da Exposición. Na súa primeira edición, OFFF Sevilla nace como un lugar para conectar, facer crecer e inspirar á xente a través da creatividade e a interdisciplinariedade. O interese radica na capacidade de OFFF de servir como plataforma de troca de ideas e proxectos entre distintos colectivos artísticos, servindo para reforzar e potenciar o tecido creativo e empresarial sevillano e andaluz, conectándoo coa rede internacional do OFFF.
+
+      En OFFF Sevilla compartirán as súas experiencias artistas e estudios de primeiro nivel internacional como Non Boddy, director creativo do estudio de efectos dixitais norteamericano **The Mill**, que traballou para a canle HBO e moitos outros importantes clientes; **Joshua Davis**, un neoiorquino pioneiro da animación flash e da arte xerada con algoritmos, considerado como o ‘padriño’ do OFFF; **Joëlle Snaith**, unha deseñadora audiovisual surafricana experta na representación visual de frecuencias, creadora de vídeos para músicos como Deadmau5; **Musketon**, un ilustrador belga coñecido polo seu traballo para marcas como Vans ou Nike; a francesa **Malika Favre**, unha mestra no uso da cor e os espazos positivo e negativo, autora de portadas para publicacións como The New Yorker ou Vogue; o británico **Steve Simpson**, recoñecido por ilustrar con simpáticas personaxes para marcas como Jameson, Guinness ou Mini; **Paloma Rincón**, artista mexicana residente en Madrid que combina cun estilo único a fotografía coa ilustración, a escultura ou a instalación, traballando para Coca-Cola, Google ou Vodafone; e tres estudios barceloneses, **Vasava**, **Hey Studio** e **Cocolia**, que conseguiron situar a España na vangarda do deseño, con campañas a nivel global e clientes como Apple, The Washington Post, Computer Arts, Inditex, Oxfam, Absolut ou Adidas, entre moitos outros. **Musketon** e **Steven Simpson**, ademais, ofrecerán dous talleres para deseñadores e ilustradores, enfocados na creación con Adobe Illustrator e a ilustración nunha orixinal caixa de mistos, respectivamente.
+
+      Até o 30 de novembro, todos os socios da DAG teñen un 20% de desconto no prezo das entradas. Para que se vos aplique, escribide a info@dag.gal.
+    type: text
+  -
+    list: ''
+    url: 'https://offfsevilla.com/'
+    text: 'Web de OFFF Sevilla'
+    type: button
+intro: 'OFFF, o acontecemento internacional de referencia para a creatividade, chega por primeira vez a Sevilla, do 6 ao 9 de decembro no Teatro Lope de Vega e no Casino da Exposición.'
+slug: offf-o-punto-de-encontro-para-mentes-creativas
+tags: []
+lang: gl
+draft: false
+date: 2018-11-21T19:38:29+00:00

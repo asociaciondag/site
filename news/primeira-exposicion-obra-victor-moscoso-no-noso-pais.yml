@@ -1,0 +1,32 @@
+id: 1052
+title: 'Primeira exposición da obra do deseñador Víctor Moscoso no noso país'
+body:
+  -
+    list: after
+    image: /news/images/moscosocosmosimaxe.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Victor Moscoso, que desenvolveu toda a súa traxectoria profesional nos Estados Unidos, ten as súas raíces en Galicia (Vilaboa, A Coruña 1936). A súa obra, marcada por un estilo moi persoal, volve á súa terra de nacemento para recibir o recoñecemento como referente histórico do deseño. A exposición presenta un universo visual no que a psicodelia, o espíritu _underground_ e a superposición de cores e formas teñen un papel protagonista.
+
+      A mostra reúne a súa serie de carteis para bandas de rock psicodélico de finais dos 60, as súas colaboracións en varios números da revista Zap Comix, e unha selección de cubertas de discos, cómics, ilustracións e fotografías. Inclúe ademais un espazo no que se proxectarán algunha das súas animacións e unha sala adicada aos seus carteis cinéticos.
+
+      O propio Moscoso é partícipe da exposición, para a que deseñou o cartel promocional, exercendo tamén como director de arte do libro editado para a ocasión. O libro, con preto de 200 imaxes, conta cunha introdución do crítico de deseño Steven Heller e un ensaio biográfico do comisario da exposción David Carballal.
+
+      Tras o seu paso pola Fundación Seoane na Coruña, a exposición pasará polo MUSAC de León e o Centro Niemeyer de Avilés.
+
+      A Fundación Seoane acolle ademais, nestes momentos, a exposición [«Lolita Díaz Baliño. A realidade soñada»](https://fundacionluisseoane.gal/gl/exposicions/lolita-diaz-balino-a-realidade-sonada/), a primeira mostra antolóxica dedicada á obra da ilustradora coruñesa, que estará aberta ao público ata setembro.
+    type: text
+  -
+    list: ''
+    url: 'https://fundacionluisseoane.gal/gl/exposicions/moscoso-cosmos/'
+    text: 'Máis información'
+    type: button
+intro: 'A Fundación Luis Seoane inaugura hoxe, mércores 14 de abril, a mostra «Moscoso Cosmos». Trátase da maior retrospectiva do traballo realizado por Victor Moscoso, un dos deseñadores máis influíntes do século XX.'
+slug: primeira-exposicion-obra-victor-moscoso-no-noso-pais
+tags: []
+lang: gl
+draft: false
+date: 2021-04-14T12:30:19+00:00

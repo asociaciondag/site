@@ -1,0 +1,19 @@
+id: 211
+title: 'Pablo Martínez'
+slug: pablo-martinez
+body:
+  -
+    text: 'Desde 1992, Pablo Martínez trabaja como artesano musical fabricando instrumentos de gran belleza y acabado. Esta propuesta se inspira en el legado de su antigua profesión y en su materia prima. La marca explora el concepto de unión entre tradición y modernidad, pautada claramente en el logotipo. Representa la honestidad de la marca como productora de artículos artesanales de alta calidad, y la individualidad de sus valores, además de mantener una imagen profesional y coherente con la tradición musical gallega.'
+    type: text
+  -
+    image: /portfolios/images/pablo-marti-uenez.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//pablo-marti-nez-thumbnail.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 57
+lang: es
+info: []
+draft: false

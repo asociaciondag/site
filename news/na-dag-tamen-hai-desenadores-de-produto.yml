@@ -1,0 +1,28 @@
+id: 645
+title: 'Na DAG tamén hai deseñadores de produto'
+body:
+  -
+    list: after
+    image: /news/images/56e1539991033-perfil-xulio.jpeg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Ola a tod@s!
+
+      Son Xulio. Aínda que empecei a miña carreira profesional como arquitecto (coa que sigo) chegoume, por casualidade, a oportunidade de afondar na temática do deseño. Concretamente, no deseño de mobiliario. Unha ocasión de matizar, organizar ou simplemente completar espazos, previamente concibidos.
+
+      Dende ese momento, sentín a necesidade de atopar un lugar común, onde compartir experiencias, sensacións ou meras impresións con outras persoas, con inquedanzas semellantes. Tamén, para reencontrarme con “vellos” coñecidos.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/xulio-turnes/'
+    text: 'Perfil de socio DAG'
+    type: button
+intro: 'E como non tiveramos aínda a oportunidade de presentarvos ningún este ano, alegrámonos especialmente de traer hoxe á portada a Xulio Turnes. Benvindo á DAG!'
+slug: na-dag-tamen-hai-desenadores-de-produto
+tags: []
+lang: gl
+draft: false
+date: 2016-03-10T11:58:59+00:00

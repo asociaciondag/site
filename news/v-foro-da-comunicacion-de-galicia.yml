@@ -1,0 +1,26 @@
+id: 773
+title: 'V Foro da Comunicación de Galicia'
+body:
+  -
+    list: after
+    image: /news/images/5-foro-comunicacion.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      A información sobre o programa e as inscricións pode consultarse en: [V Foro da Comunicación](http://www.expourense.org/ag.php?id=190)
+
+      O acto de entrega dos Premios Paraugas está previsto que comece ás 20.30 h. O Clúster da Comunicación Gráfica facía pública hai uns días unha listaxe cos tres finalistas en cada una das categorías e esa noite serán desvelados os gañadores.
+    type: text
+  -
+    list: ''
+    url: 'http://www.clustercomunicacion.gal/wp-content/uploads/Documento-Finalistas.pdf'
+    text: 'Finalistas II Premios Paraugas'
+    type: button
+intro: 'A V edición deste foro decorrerá este venres 11 de novembro en Ourense. A nós fíxonos especial ilusión ver que entre os relatores deste ano figura o deseñador Pepe Barro, quen tamén será un dos homenaxeados na entrega dos Premios Paraugas que terá lugar ao acabar a xornada.'
+slug: v-foro-da-comunicacion-de-galicia
+tags: []
+lang: gl
+draft: false
+date: 2017-11-08T09:46:30+00:00

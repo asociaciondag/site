@@ -1,0 +1,20 @@
+id: 10
+contact: 'T. 696 921 286'
+links:
+  -
+    text: Twitter
+    url: 'https://twitter.com/RebecaCes'
+    type: twitter
+bio_gl: null
+bio_es: null
+name: 'Rebeca Ces'
+job_gl: 'Deseñadora gráfica'
+job_es: 'Diseñadora gráfica'
+slug: rebeca-ces
+avatar: /members/avatares/554cf6982fffb-rebeca-ces.jpeg
+avatarBig: null
+tags:
+  - 'Identidade corporativa'
+  - Editorial
+  - Gráfico
+draft: false

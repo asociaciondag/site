@@ -1,0 +1,39 @@
+/* Cookies advise */
+.cookies-advise {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    font-size: var(--fs-14);
+    padding-bottom: 1em;
+
+    & p {
+        display: block;
+        line-height: 1.5em;
+        margin: 0;
+        color: white;
+        padding: 1em 1em 0 1em;
+    }
+
+    & button {
+        background: none;
+        border: solid 1px white;
+        color: white;
+        padding: 0.5em;
+
+        &:hover {
+            background: black;
+        }
+    }
+
+    @media (--mobile-landscape) {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    &.is-hidden {
+        display: none;
+    }
+}

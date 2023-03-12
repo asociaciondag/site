@@ -1,0 +1,31 @@
+id: 896
+title: 'Ourense acolle a asemblea xeral da DAG 2019'
+body:
+  -
+    list: after
+    image: /news/images/poster-dag-final-2019-rgb-mod.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Este ano recuperamos a idea de celebrar unha xornada completa de actividades para achegarnos a un público máis amplo que os propios asociados e asociadas, tal e como fixeramos no 2015 en A Coruña ou en 2016 en Vigo. Por iso, na xornada de mañá ofrecemos 2 charlas abertas ao público. A primeira delas está protagonizada polo [estudio 988](https://www.988.gal/) de deseño gráfico e arquitectura, fundado polo noso socio Daniel Vila. Falará do traballo que desenvolven, dos procesos e tamén dos proxectos que teñen entre mans. Despois da pausa café, será Óscar Otero, deseñador e socio tamén da DAG, quen nos presente o proxecto [HA! Historia del Arte](https://historia-arte.com/), para coñecer máis polo miúdo a maquinaria que hai detrás de toda esa dinámica de contidos.
+
+      Quen estiver interesado ou interesada en asistir ás charlas da mañá, de 11 a 13.30 h, pode confirmar a asistencia en info@dag.gal.
+
+      A xornada de tarde está reservada para os socios e socias da DAG.
+
+      Toda a información que se vaia xerando do evento estará dispoñible na web creada para esta asemblea 2019.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/asemblea-xeral-2019/'
+    text: 'Web da Asemblea 2019'
+    type: button
+intro: 'O vindeiro 29 de xuño a DAG estará en Ourense, no Centro Cívico A Ponte, para celebrar a súa asemblea xeral anual.'
+slug: ourense-acolle-a-asemblea-xeral-2019
+tags:
+  - 'actividades dag'
+lang: gl
+draft: false
+date: 2019-06-17T14:35:26+00:00

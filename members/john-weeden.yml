@@ -1,0 +1,19 @@
+id: 60
+contact: '<john@jweeden.com>'
+links:
+  -
+    text: Web
+    url: 'http://jweeden.com'
+    type: link
+bio_gl: null
+bio_es: null
+name: 'John Weeden'
+job_gl: 'Deseñador gráfico'
+job_es: 'Diseñador gráfico'
+slug: john-weeden
+avatar: /members/avatares//john-weeden.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - Web
+draft: false

@@ -1,0 +1,25 @@
+id: 529
+title: 'Bienvenido a la DAG, Álvaro'
+body:
+  -
+    text: |-
+      ¡Hola!
+
+      Soy Álvaro Justo, diseñador gráfico y multimedia. Me encanta todo lo relacionado con la tipografía y siempre ando en busca de discos con buena música...
+
+      Actualmente estoy finalizando los estudios de grado en Diseño Gráfico en la EASD Valencia. Me he unido a la DAG para hacer un poco de piña con otros profesionales del diseño y apoyar el diseño gallego, impulsar su reconocimiento y poner en valor nuestra labor.
+
+      Muchas gracias por la acogida y un saludo
+    type: text
+  -
+    list: ''
+    image: /news/images/553e7aa7abed2-alvarojusto.png
+    text: ''
+    type: image
+intro: 'Álvaro Justo es el nuevo socio estudiante que se acaba de incorporar a la DAG'
+slug: bienvenido-a-la-dag-alvaro
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2014-11-25T18:30:06+00:00

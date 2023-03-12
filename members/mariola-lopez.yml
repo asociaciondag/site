@@ -1,0 +1,45 @@
+id: 97
+contact: |-
+  **Lopezlab**
+
+  Sint Pieterspoortsteeg 23b
+
+  1012 HM Amsterdam
+
+  T. +31 644 205 667
+
+  <mariola@lopezlab.com>
+links:
+  -
+    text: Web
+    url: 'https://www.lopezlab.com/en/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/lopezlab.design/'
+    type: facebook
+  -
+    text: Twitter
+    url: 'https://twitter.com/lopezlab1'
+    type: twitter
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/lopezlab1'
+    type: facebook
+bio_gl: null
+bio_es: null
+name: 'Mariola López'
+job_gl: 'Fundadora e deseñadora en Lopezlab'
+job_es: 'Fundadora y diseñadora en Lopezlab'
+slug: mariola-lopez
+avatar: /members/avatares//mariola-2.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - Espazos
+  - Estratexia
+  - Editorial
+  - Web
+  - Servizos
+  - 'Identidade corporativa'
+draft: false

@@ -1,0 +1,30 @@
+id: 66
+contact: |-
+  T. 663 402 002
+
+  <info@afernandezgarcia.com>
+links:
+  -
+    text: Web
+    url: 'https://afernandezgarcia.com'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/a-fernandez-garcia/'
+    type: linkedin
+  -
+    text: 'Behance '
+    url: 'https://www.behance.net'
+    type: link
+bio_gl: 'Son deseñador UX / UI que actualmente traballa como responsable de deseño de produtos dixitais en Tecalis. Ultimamente, estou centrado no deseño e actualización de Signature (un software de firma electrónica) que foi incluído na lista de [Top Picks](https://www.elespanol.com/quincemil/articulos/economia/una-de-las-mejores-soluciones-de-firma-electronica-a-nivel-mundial-es-gallega-tecalis) das mellores empresas de solucións de firma electrónica a nivel internacional.'
+bio_es: 'Soy diseñador UX / UI que actualmente trabaja como responsable de diseño de productos digitales en Tecalis. Últimamente, estoy centrado en el diseño y actualización de Signature (un software de firma electrónica) que ha sido incluido en la lista de [Top Picks](https://www.elespanol.com/quincemil/articulos/economia/una-de-las-mejores-soluciones-de-firma-electronica-a-nivel-mundial-es-gallega-tecalis) de las mejores empresas de soluciones de firma electrónica a nivel internacional.'
+name: 'Alberto Fernández García'
+job_gl: 'Deseñador UX/UI/Web'
+job_es: 'Diseñador UX/UI/Web'
+slug: alberto-fernandez-garcia
+avatar: /members/avatares//alberto-fernandez-garcia-avatar.jpg
+avatarBig: null
+tags:
+  - Web
+  - UX/UI
+draft: false

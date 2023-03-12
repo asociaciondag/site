@@ -1,0 +1,45 @@
+id: 22
+title: Delectos
+slug: delectos
+body:
+  -
+    text: |-
+      Nestes tempos que corren onde a oferta de produto é tan ampla e diversa, aflora unha crecente necesidade de selección e clasificación desa información, que nos libere a nós como consumidores de tal carga. Con esa vocación de asesoramento e selección de produtos gastronómicos de certa delicadeza e diferenciación nace Delectos. Unha labor de rastreo na procura de pequenas firmas que operan á marxe das grandes distribuidoras e áreas comerciais, e que polo seu tamaño e dedicación son quen de poñer todo o seu saber facer en cada un dos produtos que elaboran.
+
+      O nome xorde da mestura de diversos calificativos que definen esta tipoloxía de produtos, coa intención de construir fonéticamente un vocábulo novo sen significado de seu, de fácil lexibilidade e con capacidade de proxección.
+
+      Na construción tipográfica existía a necesidade de comunicar unha serie de valores de marca que se movían entre a tradición e un axeitado nivel de actualidade, polo que optamos por practicar modificacións dun xeito progresivo sobre unha tipografía clásica, coa fin de gañar en contemporaneidade e diferenciación. A marca complétase con dous parénteses colocados a nivel de superíndices que reforzan a idea de selección.
+    type: text
+  -
+    image: /portfolios/images/5557191681e3b-delectos01.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5557191681e3b-delectos02.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5557191681e3b-delectos03.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55855df7a9b75-5557191681e3b-delectos03.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 13
+  - 27
+  - 30
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - Cenlitrosmetrocadrado
+  -
+    - Cliente
+    - Delectos
+  -
+    - Ano
+    - '2012'
+draft: false

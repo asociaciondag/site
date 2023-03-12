@@ -1,0 +1,43 @@
+id: 109
+contact: contacto@agarimoestudio.com
+links:
+  -
+    text: Web
+    url: 'https://agarimoestudio.com/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/monicalemosgiraldez'
+    type: linkedin
+  -
+    text: Youtube
+    url: 'https://youtube.com/@AgarimoEstudio'
+    type: facebook
+bio_gl: |-
+  Consultora de Branding, neurodiverxente especializada en identidade e Marca persoal.  
+   CEO de Agarimo Estudio.  
+   Creadora de contidos online desde 2006.  
+   Autora do libro "O teu propio éxito. Desenvolvemento persoal e branding".  
+   En Agarimo Estudio e Consultoría de branding, queremos lograr que as empresas e as persoas que as integran, sexan parte do cambio que necesitamos para pertencer á sociedade e ao mundo. Do individual ao colectivo.  
+   Queremos un presente no que as marcas sexan coherentes e fieis á súa identidade, cun compromiso real no seu propósito e que consigan ser, por unha banda, relevantes para as personas e por outra, éticas co mundo.  
+   Para iso desenvolvemos un _branding_ ético e coherente definindo unha estratexia de marca que consiga transmitir e alzar o valor da identidade da marca en empresas que queren ser e pertencer cun propósito relevante.
+bio_es: |-
+  Consultora de Branding, neurodivergente especializada en identidad y Marca personal.  
+   CEO de Agarimo Estudio.  
+   Creadora de contenidos online desde 2006.  
+   Autora del libro "Tu propio éxito. Desarrollo personal y branding".  
+   En Agarimo Estudio y Consultoría de branding, queremos lograr que las empresas, y las personas que las integran, sean parte del cambio que necesitamos para pertenecer a la sociedad y al mundo. De lo individual a lo colectivo.  
+   Queremos un presente en el que las marcas sean coherentes y fieles a su identidad, con un compromiso real en su propósito y que consigan ser, por un lado, relevantes para las personas y por otro, éticas con el mundo.  
+   Para ello desarrollamos un _branding_ ético y coherente definiendo una estrategia de marca que consiga transmitir y alzar el valor de la identidad de la marca en empresas que quieren ser y pertenecer con un propósito relevante.
+name: 'Mónica Lemos'
+job_gl: 'Deseñadora gráfica e consultora de marca / branding'
+job_es: 'Diseñadora gráfica y consultora de marca / branding'
+slug: monica-lemos
+avatar: /members/avatares//mo-nica-lemos-gira-ldez-1.png
+avatarBig: null
+tags:
+  - 'Identidade corporativa'
+  - Gráfico
+  - Estratexia
+  - Web
+draft: false

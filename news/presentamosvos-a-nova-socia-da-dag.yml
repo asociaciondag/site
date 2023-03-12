@@ -1,0 +1,26 @@
+id: 742
+title: 'Presentámosvos a nova socia da DAG'
+body:
+  -
+    list: after
+    image: /news/images/presentacion-maria.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Hai anos que participo das actividades da DAG dunha ou outra maneira. Á fin chegou o momento de formar parte dela dunha maneira máis directa. Espero aproveitar esta oportunidade para afianzar vínculos, xerar novas colaboracións e axudar a fortalecer e dar visibilidade ó deseño feito por galegas e galegos dentro e fóra das nosas fronteiras. Os esforzos conxuntos son sempre máis poderosos e agradecidos.
+
+      Resulta especialmente interesante a heteroxeneidade dos ámbitos do deseño representados pola DAG, tanto na forma das súas socias e socios como nas actividades que a asociación difunde e das que participa. O intercambio de impresións, compartir experiencias e o debate son, sen dúbida, unha gran forma de medrar profesionalmente e como persoa. Confío en que a miña gratitude polo traballo desenvolvido os últimos anos se converta agora en contribución no que está por vir.
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/maria-ramos/'
+    text: 'Perfil na páxina da DAG'
+    type: button
+intro: 'Chámase María Ramos e, aínda que esta deseñadora de tipografías e gráfica xa levaba un tempo participando nas actividades da DAG, deu o paso de asociarse agora porque quere involucrarse máis activamente. Benvinda!'
+slug: presentamosvos-a-nova-socia-da-dag
+tags: []
+lang: gl
+draft: false
+date: 2017-08-30T12:17:12+00:00

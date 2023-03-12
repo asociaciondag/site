@@ -1,0 +1,36 @@
+id: 151
+title: 'Tapa de by Porto Muíños'
+slug: tapa-de-by-porto-muinos
+body:
+  -
+    text: 'Diseño d_e packaging_  de tapas de algas y setas, en el que las ilustraciones vectoriales de trazo suelto con fuerte protagonismo cromático conviven con tipografías contundentes de la familia Helvética Neue.'
+    type: text
+  -
+    image: /portfolios/images/55a3d64ec5984-luisgalan-tapade1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d64ec5c66-luisgalan-tapade02.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d64ec5e84-luisgalan-tapade03.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55a3d6af45826-cuberta.png
+tags:
+  - Embalaxe
+members_id:
+  - 17
+lang: es
+info:
+  -
+    - Estudio
+    - 'Sistema Deseño'
+  -
+    - Cliente
+    - 'Porto Muiños'
+  -
+    - Año
+    - '2010'
+draft: false

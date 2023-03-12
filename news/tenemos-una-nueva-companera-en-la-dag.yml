@@ -1,0 +1,27 @@
+id: 587
+title: 'Tenemos una nueva compañera en la DAG'
+body:
+  -
+    text: |-
+      Buenas. Y no solo como saludo, sino porque para mí son buenas noticias formar parte de la DAG y estar en contacto con profesionales del medio de este país.
+
+      Me llamo Laura Alonso, soy licenciada en Bellas Artes y cuento con un Máster en Dirección de Arte y Publicidad por la Universidad de Vigo. LLevo años dedicándome al diseño y en general a las artes gráficas. Espero que la travesía sea muy productiva.
+    type: text
+  -
+    list: ''
+    url: 'http://dag.gal/es/laura-alonso-carracedo'
+    text: 'Perfil de socia'
+    type: button
+  -
+    list: after
+    image: /news/images/5603cdebe4235-laura-alonso-presentacion.jpg
+    text: ''
+    mode: normal
+    type: image
+intro: 'Queréis conocerla, ¿verdad? Pues aquí está su presentación.'
+slug: tenemos-una-nueva-companera-en-la-dag
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2015-09-24T12:18:19+00:00

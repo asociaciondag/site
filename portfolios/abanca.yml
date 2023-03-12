@@ -1,0 +1,65 @@
+id: 181
+title: Abanca
+slug: abanca
+body:
+  -
+    text: |-
+      O deseño e desenvolvemento [da web de ABANCA](http://abanca.com) coincidiu co cambio de nome e de indentidade corporativa do banco.
+
+      O obxectivo era facer unha web para o presente e, sobre todo, para o futuro, polo tanto decidimos non dar soporte aos navegadores obsoletos (Internet Explorer 9 e anteriores) e debía ser totalmente operativa en _tablets_ e _smartphones_. Polo tanto no deseño da gráfica e interactividade como no desenvolvemento seguimos a estratéxica _mobile first._ Os usuarios afectados (un 10% ao principio, aínda que esa porcentaxe foi baixando progresivamente) son redirixidos a unha páxina especial coa información necesaria para actualizarse. Fixemos dúas versións desa páxina: para usuarios de Android con ligazóns a Google Play, e o resto.
+
+      A nivel gráfico, optamos por unha aparencia limpa e amigable, con moito branco, tipografía _light_ e iconas lineais. Os _copys_ realizados tamén intentan ser o máis humanos e comprensivos posible (tendo en conta o complicado que poden ser os termos bancarios e financieiros). Na selección de imaxes procuramos que sempre estean representadas as persoas coincidentes co público obxectivo de cada produto, evitando na medida do posible o uso de imaxes abstractas e conceptuais.
+
+      Un dos retos da web era a necesidade dunha certa flexibilidade gráfica debido ás campañas comerciais que se van lanzando que teñen unha gráfica propia. Por exemplo, hai campañas caracterizadas polo uso de fondos negros e fotografías en branco e negro, outras en cambio usan cores brillantes, ou ilustracións, animacións, etc. A todo isto hai que engadir o feito de que existen productos que dispoñen de moito material (imaxes, infografías, interactividades, vídeos, descargas, etc) e outros onde a información dispoñible é menor. Polo tanto fíxose un sistema modular, a base de pisos de distintos formatos para ir construír as páxinas de productos segundo as necesidades en cada caso.
+
+      A navegación pola web tamén se simplificou ao máximo, evitando crear menús moi grandes con demasiadas opcións. A propia portada serve para presentar todas as opcións posibles, usando iconas para cada servizo ou categoría de produto, así como un intuitivo buscador que permite ir a calquera parte da web de xeito instantáneo grazas ao seu completado automático.
+
+      Ademais da páxina comercial, tamén se fixo [unha páxina específica para comunicación e prensa](http://comunicacion.abanca.com) e outra [con información corporativa](http://abancacorporacionbancaria.com) que manteñen unha consistencia visual coa páxina principal.
+    type: text
+  -
+    image: /portfolios/images/5762fc9a960bd-home-abanca.jpg
+    text: 'Vista da portada da web en navegador de escritorio.'
+    type: image
+  -
+    image: /portfolios/images/5762fc9a96615-responsive-abanca.jpg
+    text: 'Portada da portada con diferentes promocións na parte superior vistas en distintos dispositivos'
+    type: image
+  -
+    image: /portfolios/images/5762fc9a96864-comparador-abanca.jpg
+    text: 'Comparador de hipotecas en _desktop_'
+    type: image
+  -
+    image: /portfolios/images/5762fc9a96ba9-comparador-responsive-abanca.jpg
+    text: 'Vista do comparador de hipotecas en _tablet_ e _smartphone._'
+    type: image
+  -
+    image: /portfolios/images/5762fc9a96dce-mediateca-responsive-abanca.jpg
+    text: 'A web dedicada a prensa e comunicación dispón dunha mediateca onde se poden atopar todo tipo de imaxes, vídeos, documentos e audios.'
+    type: image
+  -
+    image: /portfolios/images/5762fc9a96ff0-corporativa-abanca.jpg
+    text: 'Vista do _minisite_ para a información corporativa'
+    type: image
+  -
+    image: /portfolios/images/5762fc9a971f1-corporativa-responsive-abanca.jpg
+    text: 'Vista do _minisite_ corporativo en diferentes dispositivos'
+    type: image
+cover: /portfolios/covers/5762fbb52a583-portada.png
+tags:
+  - Web
+members_id:
+  - 35
+lang:
+  - gl
+  - es
+info:
+  -
+    - Estudio
+    - 'A navalla suíza'
+  -
+    - Cliente
+    - 'ABANCA Corporación Bancaria, S.A.'
+  -
+    - Ano
+    - '2014'
+draft: true

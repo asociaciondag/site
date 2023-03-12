@@ -1,0 +1,31 @@
+id: 813
+title: '1º Encontro de Deseño para a Innovación Empresarial en Galicia '
+body:
+  -
+    list: after
+    image: /news/images/i-encontro-deseno.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Trátase dunha das actividades enmarcada dentro do novo Plan de Deseño para a Innovación 2020 que se dirixe a todos os deseñadores galegos de todos os ámbitos (industrial, gráfico, de produto, organizacional, dixital e multimedia), estudantes desta especialidade e representantes de empresas e outras entidades interesadas en potenciar o deseño como ferramenta de innovación e competitividade nas súas organizacións.
+
+      O programa inclúe palestras, espazos expositivos e tamén reunións bilaterais entre deseñadores e empresas, e a inscrición é gratuíta.
+    type: text
+  -
+    list: ''
+    url: 'http://www.ris3galicia.es/wp-content/uploads/2018/06/Programa.pdf'
+    text: 'Programa do encontro'
+    type: button
+  -
+    list: ''
+    url: 'http://web4.cisgalicia.net/enc_desenho.html'
+    text: 'Formulario de inscrición'
+    type: button
+intro: 'Con motivo do Día Mundial do Deseño Industrial, a Consellería de Economía, Emprego e Industria, a través da Axencia Galega de innovación (GAIN) organiza o próximo 28 de xuño de 2018 o I Encontro de Deseño para a Innovación Empresarial no CIS Galicia de Ferrol.'
+slug: 1o-encontro-de-deseno-para-a-innovacion-empresarial-en-galicia
+tags: []
+lang: gl
+draft: false
+date: 2018-06-24T13:49:52+00:00

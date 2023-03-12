@@ -1,0 +1,19 @@
+id: 454
+title: 'Foro Reimprímete'
+body:
+  -
+    type: text
+    text: 'Este xoves 19 de setembro celébrase na [Fundación Novacaixagalicia](http://www.obrasocialncg.com/ga/centro/cultural/centro_cultural_novacaixagalicia_santiago_de_compostela) de Santiago de Compostela Reimprímete, un foro co que o [Clúster do Produto Gráfico e do Libro Galego](http://www.clustergrafico.com/) (CPGLg) quere poñer en valor o produto gráfico e alcanzar sinerxías e oportunidades de negocio entre as empresas e participantes. O programa inclúe: 10.00 h Presentación a cargo de Jacobo Bermejo, presidente do Clúster do Produto Gráfico e do Libro Galego (CPGLg) e de Manuel Bragado, presidente da Asociación Galega de Editores (AGE) 10.30 h Relatorio “La tinta no es solo simpática”, Juan Cruz, editor, escritor e xornalista 11.30 h Café 12.00 h Casos de éxito: - Alberto Pérez, director financieiro do Grupo Arnoia - Teodoro Sacristán, director da Feira do Libro de Madrid - Carlos López, CEO e fundador de Netex 14.00 h Descanso para xantar 16.00 h Máis casos de éxito - Xosé Ballesteros, director da editorial Kalandraka - Ángeles Montecelo, directora de marketing de Tórculo Comunicación Gráfica 17.00 h Conclusión do foro a cargo de Javier García, secretario da Asociación de Xornalistas de Galicia (APG) 18.00 h Clausura. Javier Aguilera, director do Igape. Aínda que a entrada ao foro é gratuíta, cómpre anotarse previamente. Para facelo, descarga o seguinte formulario, cúbreo cos teus datos e envíao ao enderezo comunicacion@clustergrafico.com'
+  -
+    type: image
+    image: /news/images/553e7aa448f77-reimprimete.jpg
+  -
+    type: file
+    text: Descargar
+    file: /news/files/553e7aa448f77-diptico-reimprimete.pdf
+intro: null
+slug: foro-reimprimete
+tags: []
+lang: gl
+draft: false
+date: 2013-09-17T22:07:54+00:00
