@@ -1,0 +1,39 @@
+---
+css: [/css/home.css]
+js: [/js/home.js]
+---
+
+<section class="wrapper home-news">
+	<div class="ly-grid" data-columns>
+    {% for news in search.pages("type=news", "date=desc", 12) %}
+      {% include "templates/news-grid.njk" %}
+    {% endfor %}
+	</div>
+
+	<nav>
+		<a class="button-normal" href="<?= $this->url('news') ?>"><?= __('Ver máis noticias') ?></a>
+	</nav>
+</section>
+
+<div class="home-portfolio">
+	<div class="carousel">
+		<div class="carousel-tray">
+		<?php
+        foreach ($portfolios as $portfolio) {
+            $this->insert('portfolio/list', [
+                'portfolio' => $portfolio,
+            ]);
+        }
+        ?>
+		</div>
+		<div class="carousel-nav">
+			<span class="carousel-prev ui-nav" data-carro="-1">
+				<?= $this->icona() ?>
+			</span>
+
+			<span class="carousel-next ui-nav" data-carro="+1">
+				<?= $this->icona() ?>
+			</span>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,37 @@
+/**
+ * home.css
+ *
+ * INFORMACION
+ * Estilos específicos para a home
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+
+/* BÁSICO */
+@import "../variables.css";
+
+/* Lista de noticias en portada */
+.page-content {
+	background: none;
+	text-align: center;
+}
+
+.page-error {
+	margin-bottom: 100px;
+
+	& h1 {
+		font-size: var(--fs-48);
+	}
+}

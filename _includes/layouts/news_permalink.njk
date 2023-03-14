@@ -20,10 +20,12 @@ layout: layouts/base.njk
 
 	<div class="share wrapper-narrow">
 		<a class="share-twitter ico-twitter" href="<?= $share->twitter->shareUrl ?>" target="_blank">
-			<?php $this->insert('common/ico-twitter'); ?> <span>Twitter</span>
+			<img src="/img/icons/twitter.svg" alt="Twitter" inline>
+			<span>Twitter</span>
 		</a>
 		<a class="share-facebook ico-facebook" href="<?= $share->facebook->shareUrl ?>" target="_blank">
-			<?php $this->insert('common/ico-facebook'); ?> <span>Facebook</span>
+			<img src="/img/icons/facebook.svg" alt="Facebook" inline>
+			<span>Facebook</span>
 		</a>
 	</div>
 

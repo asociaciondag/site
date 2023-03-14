@@ -1,0 +1,51 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="wrapper">
+	<nav class="buttons-tabs">
+		<a class="button is-selected" href="<?= $this->url('members') ?>"><?= __('Socios') ?></a>
+		<a class="button" href="<?= $this->url('portfolios') ?>"><?= __('Proxectos') ?></a>
+	</nav>
+</div>
+
+<article class="wrapper-narrow member member-permalink" data-folk="members,<?= $member->id ?>">
+	<figure class="member-avatar">
+		<img src="<?= Img::getUri($member->avatarBig ?: $member->avatar, 'resizeCrop,128,128'); ?>" alt="">
+	</figure>
+
+	<header class="member-header">
+		<h1>{{ name }}</h1>
+		<p>{{ job }}</p>
+	</header>
+
+	<address class="member-address">
+		{{ contact }}
+
+		{% if links %}
+      <ul>
+        {% for link in links %}  
+        <li>
+          <a class="button-secondary member-link" href="{{ link.url }}">{{ link.text }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+	</address>
+
+	{% if bio %}  
+	<div class="member-bio">
+		{{ bio }}
+	</div>
+  {% endif %}
+</article>
+
+<?php if ($portfolios->count()): ?>
+<div class="portfolios-grid wrapper">
+	<?php
+    foreach ($portfolios as $portfolio) {
+        $this->insert('portfolio/list', ['portfolio' => $portfolio]);
+    }
+    ?>
+</div>
+<?php endif; ?>

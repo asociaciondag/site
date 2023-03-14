@@ -1,0 +1,35 @@
+<div>
+  <article class="new new-grid">
+    {% for section in news.body %}
+      {% if section.list === "before" %}
+        {% include "blocks/" + section.type + "-list.njk" %}
+      {% endif %}
+    {% endfor %}
+
+    <header class="new-header">
+      <nav>
+        {% for tag in news.tags %}
+        <a href="{{ tag }}">{{ tag }}</a>
+        {% endfor %}
+      </nav>
+
+      <time datetime="<?= $new->createdAt->format(DATE_ISO8601) ?>">{{ date }}</time>
+
+      <h1>
+        <a href="{{ news.url }}">
+          {{ news.title }}
+        </a>
+      </h1>
+    </header>
+
+    <div class="new-intro">
+      {{ news.intro | md | safe }}
+    </div>
+
+    {% for section in news.body %}
+      {% if section.list === "after" %}
+        {% include "blocks/" + section.type + "-list.njk" %}
+      {% endif %}
+    {% endfor %}
+  </article>
+</div>

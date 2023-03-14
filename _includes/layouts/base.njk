@@ -2,14 +2,18 @@
 
 <html class="no-js" lang="{{ lang }}">
     <head>
-        <link rel="stylesheet" href="/main.css">
         <link rel="alternate" type="application/rss+xml" title="Noticias RSS" href="/gl/novas/rss/">
+
+        <link rel="stylesheet" href="/css/main.css">
+        {% for href in css %}
+        <link rel="stylesheet" href="{{ href }}">
+        {% endfor %}
     </head>
 
     <body>
         <header class="page-header wrapper" id="main-header">
           <a href="/" class="page-logo">
-            <img src="/dag.svg" alt="Asociación Galega de Deseño">
+            <img src="/img/icons/dag.svg" alt="Asociación Galega de Deseño" inline>
           </a>
 
           <nav class="page-menu">
@@ -38,8 +42,88 @@
             {{ content | safe }}
         </div>
 
-        <?= $this->insert('footer') ?>
-        <?= $this->insert('common/page-scripts') ?>
+        <!-- FOOTER -->
+        <footer class="page-footer wrapper">
+            <div class="page-footer-content">
+                <div class="footer-logo">
+                    <span class="page-logo">
+                        <img src="/img/icons/dag.svg" alt="DAG" inline>
+                        <span><?= p__('footer', 'Asociación Galega de Deseño') ?></span>
+                    </span>
+                </div>
+                <div class="footer-info">
+                    <address>
+                        <p>
+                            <?= p__('footer', 'Centro sociocultural A trisca (2º andar)') ?><br>
+                            <?= p__('footer', 'Corredoira das Fraguas, 92') ?><br>
+                            <?= p__('footer', '15703 Santiago de Compostela') ?>
+                        </p>
+                        <p>
+                            <?= p__('footer', 'Teléfono: %s', '<a href="tel:691230421">691 230 421</a>') ?><br>
+                            <?= p__('footer', 'Mail: %s', '<a href="mailto:info@dag.gal">info@dag.gal</a>') ?>
+                        </p>
+                    </address>
+                </div>
+                <div class="footer-contact">
+                    <h4><?= p__('footer', 'Síguenos tamén en:') ?></h4>
+
+                    <ul class="social">
+                        <li><a class="button ico-twitter" href="https://twitter.com/asociaciondag">
+                            <img src="/img/icons/twitter.svg" alt="Twitter" inline>
+                        </a></li>
+                        <li><a class="button ico-facebook" href="https://es-es.facebook.com/pages/DAG-Asociaci%C3%B3n-Galega-de-Dese%C3%B1adores/149460691764713">
+                            <img src="/img/icons/facebook.svg" alt="Facebook" inline>
+                        </a></li>
+                        <li><a class="button ico-instagram" href="https://www.instagram.com/asociaciondag/">
+                            <img src="/img/icons/instagram.svg" alt="Instagram" inline>
+                        </a></li>
+                        <li><a class="button ico-youtube" href="https://www.youtube.com/user/dagasociacion/videos">
+                            <img src="/img/icons/youtube.svg" alt="Youtube" inline>
+                        </a></li>
+                    </ul>
+
+                    <div class="footer-read">
+                        <h4><?= p__('footer', 'DAG é membro de') ?></h4>
+                        <a href="http://www.designread.es">
+                            <img src="/img/icons/read.svg" alt="Read" inline>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <nav class="page-footer-menu">
+                <a href="http://foro.dag.gal"><?= __('Foro DAG') ?></a>
+
+                <?php
+                $links = $app->get('models')->about->selectFooter($language);
+                ?>
+
+                <?php foreach ($links as $link): ?>
+                <a href="<?= $this->url('about', ['slug' => $link->slug]) ?>"><?= $link->title ?></a>
+                <?php endforeach ?>
+
+                <a href="<?= $this->url('news-rss') ?>"><?= __('RSS') ?></a>
+            </nav>
+        </footer>
+        <!-- FOOTER -->
+
+        <!-- Cookies -->
+        <div class="cookies-advise is-hidden">
+            <p>
+                <?= __('En cumplimento coa Ley 34/2002, de Servizos da Sociedade da Información, recordámoslle que este sitio web utiliza cookies co fin de mellorar os nosos servizos.') ?>
+            </p>
+            <p>
+                <button id="cookies_accept"><?= __('Entendido') ?></button>
+            </p>
+        </div>
+
+        <script src="/js/main.js"></script>
+        {% for src in js %}
+        <script src="{{ src }}"></script>
+        {% endfor %}
+
+        {# <?php if ($this->jsModule()): ?>
+        <script src="<?= $app->getUri('assets/js/'.$this->jsModule().'.js') ?>?=v1"></script>
+        <?php endif ?> #}
     </body>
 </html>
 

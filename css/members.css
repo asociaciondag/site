@@ -1,0 +1,31 @@
+/**
+ * members.css
+ *
+ * INFORMACION
+ * Estilos para a páxina de socios - http://asociaciondag.org.
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * FERRAMENTAS
+ * Stylecow ............... http://stylecow.github.io/
+ * Desenvolvido por Oscar Otero.
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+/* Cor de fondo */
+.page-content {
+	padding-bottom: 4rem;
+}
+.members-grid {
+	margin-top: 2rem;
+}

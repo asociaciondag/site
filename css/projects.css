@@ -1,0 +1,60 @@
+/**
+ * page-projects.css
+ *
+ * INFORMACION
+ * Estilos para a páxina de proxectos - http://asociaciondag.org.
+ *
+ * AUTORES
+ * Oscar Otero e Segundo Fdez no ano 2015.
+ * http://oscarotero.com | http://segundofdez.com
+ *
+ * FERRAMENTAS
+ * Stylecow ............... http://stylecow.github.io/
+ * Desenvolvido por Oscar Otero.
+ *
+ * XENERICO
+ * normalize.css .......... http://necolas.github.io/normalize.css
+ * Desenvolvido por Nicolas Gallagher coa axuda de Jonathan Neal.
+ *
+ * FONTES
+ * isaac-font.css ......... Importa a tipografia Isaac font.
+ * Deseñada por Marcos Dopico (http://maistypes.com).
+ *
+ */
+
+.page-content {
+	padding-bottom: 3rem;
+}
+
+/* Axustes na lista de proxectos */
+.project-list {
+	& .project-header{
+		color: white;
+		opacity: 0;
+		transition: opacity 0.5s;
+	}
+
+	& .project-image {
+		border-radius: 4px;
+		background: var(--color-main);
+
+		& img {
+			transition: opacity 0.5s;
+		}
+	}
+
+	& > a:hover{
+		& .project-header{
+			opacity: 1;
+		}
+		
+		& .project-image {
+			background: var(--color-main);
+
+			& img {
+				opacity: 0.1;
+			}
+		}
+	}
+}
+
