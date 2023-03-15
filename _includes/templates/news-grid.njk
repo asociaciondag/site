@@ -13,7 +13,7 @@
         {% endfor %}
       </nav>
 
-      <time datetime="<?= $new->createdAt->format(DATE_ISO8601) ?>">{{ date }}</time>
+      <time datetime="{{ news.date | date("DATETIME") }}">{{ news.date | date("HUMAN_DATE") }}</time>
 
       <h1>
         <a href="{{ news.url }}">

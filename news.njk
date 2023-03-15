@@ -1,23 +1,30 @@
+---
+lang: [gl, es]
+menu_id: news
+main_menu: news
+url.es: /es/noticias/
+url.gl: /gl/novidades/
+---
 <div class="wrapper">
 	<nav class="buttons-tabs">
 		<a class="button is-selected" href="<?= $this->url('news') ?>"><?= __('Noticias') ?></a>
 		<a class="button" href="<?= $this->url('articles') ?>"><?= __('Artigos') ?></a>
 	</nav>
 
-	<ul data-folk="tags" class="buttons-tags page-content-bar">
-		<li<?= empty($tag) ? ' class="is-selected"' : '' ?>>
+	<ul class="buttons-tags page-content-bar">
+		{# <li<?= empty($tag) ? ' class="is-selected"' : '' ?>>
 			<a href="<?= $this->url('news') ?>"><?= __('Todas as etiquetas') ?></a>
-		</li>
+		</li> #}
 
-		<?php foreach ($tags as $t): ?>
+		{# <?php foreach ($tags as $t): ?>
 		<li<?= ($tag && $t->slug === $tag->slug) ? ' class="is-selected"' : '' ?>>
 			<a href="<?= $this->url('news-tag', ['tag' => $t->slug]) ?>"><?= $t->name ?></a>
 		</li>
-		<?php endforeach ?>
+		<?php endforeach ?> #}
 	</ul>
 
 	<div class="ui-autoload-container">
-    {% for page in search.pages("type=news", "date=desc") %}
+    {% for page in search.pages("type=news lang=" + lang, "date=desc") %}
     <article class="new new-list">
       <header class="new-header">
         <nav>
@@ -26,7 +33,7 @@
           {% endfor %}
         </nav>
 
-        <time datetime="{{ page.date }}">{{ page.date }}</time>
+        <time datetime="{{ page.date | date("DATETIME") }}">{{ page.date | date("HUMAN_DATE") }}</time>
 
         <h1>
           <a href="{{ page.url }}">

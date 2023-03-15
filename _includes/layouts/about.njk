@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="wrapper-normal ly-with-navigation">
+  <article class="about about-permalink" data-folk="about,<?= $page->id ?>">
+    <header class="about-header wrapper-narrow">
+      <h1>{{ title }}</h1>
+    </header>
+
+    <div class="about-body">
+      {% for block in body %}
+        {% include "blocks/" + block.type + ".njk" %}
+      {% endfor %}
+    </div>
+  </article>
+
+  <nav class="about-menu" data-folk="about">
+    <ul>
+      {% for p in search.pages("menu=true lang=" + lang, "order=asc") %}
+      <li{% if p.url == url %} class="is-active"{% endif %}>
+        <a href="{{ p.url }}">{{ p.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</div>

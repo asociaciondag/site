@@ -1,11 +1,12 @@
 ---
 css: [/css/home.css]
 js: [/js/home.js]
+lang: [es, gl]
 ---
 
 <section class="wrapper home-news">
 	<div class="ly-grid" data-columns>
-    {% for news in search.pages("type=news", "date=desc", 12) %}
+    {% for news in search.pages("type=news lang=" + lang, "date=desc", 12) %}
       {% include "templates/news-grid.njk" %}
     {% endfor %}
 	</div>

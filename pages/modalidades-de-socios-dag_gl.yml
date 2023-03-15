@@ -1,0 +1,24 @@
+id: 5
+title: 'Modalidades para asociarse'
+slug: modalidades-de-socios-dag
+body:
+  -
+    text: |-
+      ## Categoría ordinaria
+
+      Profesionais, docentes ou persoal investigador con máis de dous anos de experiencia laboral no mundo do deseño. A cota nesta categoría é de 60 euros por trimestre.
+
+      ## Categoría novel
+
+      Os deseñadores e as deseñadoras que posúan formación e que demostren que están comezando a súa carreira profesional. A persoa asociada na categoría novel goza dos mesmos dereitos e deberes que na categoría ordinaria, pero co fin de facilitarlle a súa incorporación á Asociación goza dunha redución na cota trimestral do 50% durante os dous primeiros anos. A súa cota trimestral é de 30 euros.
+
+      ## Categoría estudante
+
+      Persoas físicas, menores de 30 anos, que demostren documentalmente a súa condición mediante certificación de estudos nalgunha disciplina relacionada coas actividades propias do deseño. Despois de finalizaren os seus estudos pasarán automaticamente á categoría novel ou ordinaria segundo cal sexa a súa situación. A cota de estudante é un 15% da cota ordinaria, isto é, 9 euros por trimestre.
+    type: text
+menu: true
+footer: false
+order: 4
+lang: gl
+draft: false
+url: /gl/acerca-de/modalidades-de-socios-dag/

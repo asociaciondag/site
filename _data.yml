@@ -1,1 +1,33 @@
 layout: layouts/base.njk
+
+gl:
+  t:
+    dag: Asociación Galega de Deseño
+    cookies: |
+      En cumprimento da Lei 34/2002, de Servizos da Sociedade da Información, recordámoslle que este sitio web utiliza cookies co fin de mellorar os nosos servizos.
+    menu:
+      about: Acerca da DAG
+      news: Novidades
+      projects: Proxectos
+      members: Socios e socias
+      forum: Foro
+      # news: Noticias da Asociación Galega de Deseño
+      # projects: Proxectos de deseño dos socios da Asociación Galega de Deseño
+      # 'Proxectos de deseño dos socios da Asociación Galega de Deseñadores que estan etiquetados como "%s"' => 'Proxectos de deseño dos socios da Asociación Galega de Deseño que estan etiquetados como "%s"',
+      # 'Todos os proxectos e eventos organizados pola Asociación Galega de Deseñadores' => 'Todos os proxectos e eventos organizados pola Asociación Galega de Deseño',
+      # 'Asociación galega de deseñadores' => 'Asociación Galega de Deseño',
+      # 'Listaxe dos socios da Asociación Galega de Deseñadores' => 'Listaxe dos socios da Asociación Galega de Deseño',
+      # 'Artigos publicados pola Asociación Galega de Deseñadores' => 'Artigos publicados pola Asociación Galega de Deseño',
+      # 'Acerca da Asociación Galega de Deseñadores' => 'Acerca da Asociación Galega de Deseño',
+    footer:
+      follow: "Síguenos tamén en:"
+      address: |
+        Centro sociocultural A Trisca (2º andar)  
+        Corredoira das Fraguas, 92  
+        15703 Santiago de Compostela
+
+        Teléfono: [691 230 421](tel:691230421)  
+        Mail: [info@dag.gal](mailto:info@dag.gal)
+      read_member: É membro da
+      forum: Foro DAG
+      rss: RSS

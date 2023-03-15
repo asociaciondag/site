@@ -14,8 +14,10 @@ body:
       - Crear canles de comunicación entre profesionais e tamén entre profesionais e estudantes das escolas de deseño, co fin de favorecer o diálogo e a reflexión sobre aquelas cuestións que máis lles preocupan e interesan.
        
     type: text
+menu_id: about
 menu: true
 footer: false
 order: 1
 lang: gl
 draft: false
+url: /gl/acerca-de/que-e-a-dag/

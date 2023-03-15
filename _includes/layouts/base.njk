@@ -12,7 +12,7 @@
 
     <body>
         <header class="page-header wrapper" id="main-header">
-          <a href="/" class="page-logo">
+          <a href="/{{ lang }}/" class="page-logo">
             <img src="/img/icons/dag.svg" alt="Asociación Galega de Deseño" inline>
           </a>
 
@@ -22,18 +22,21 @@
               </span>
 
               <ul>
-                  <li{% if menu == about %} class="is-selected"{% endif %}><a href="/about/"><?= __('Acerca de nós') ?></a></li>
-                  <li{% if menu == news %} class="is-selected"{% endif %}><a href="/news/"><?= __('Novidades') ?></a></li>
-                  <li{% if menu == projects %} class="is-selected"{% endif %}><a href="/projects/"><?= __('Proxectos') ?></a></li>
-                  <li{% if menu == members %} class="is-selected"{% endif %}><a href="/members/"><?= __('Socios') ?></a></li>
-                  <li><a href="http://foro.dag.gal"><?= __('Foro') ?></a></li>
+                  {% set page = search.page("menu_id=about lang=" + lang) %}
+                  <li{% if main_menu == "about" %} class="is-selected"{% endif %}><a href="{{ page.url }}">{{ t.menu.about }}</a></li>
+                  
+                  {% set page = search.page("menu_id=news lang=" + lang) %}
+                  <li{% if main_menu == "news" %} class="is-selected"{% endif %}><a href="{{ page.url }}">{{ t.menu.news }}</a></li>
+                  <li{% if main_menu == "projects" %} class="is-selected"{% endif %}><a href="/projects/">{{ t.menu.projects }}</a></li>
+                  <li{% if main_menu == "members" %} class="is-selected"{% endif %}><a href="/members/">{{ t.menu.members }}</a></li>
+                  <li><a href="http://foro.dag.gal">{{ t.menu.forum }}</a></li>
 
-                  {# <li class="page-menu-lang ui-menu-lang">
+                  <li class="page-menu-lang ui-menu-lang">
                       <ul>
-                          <li<?= $language === 'gl' ? ' class="is-active"' : '' ?>><a href="<?= $app->getUri('gl') ?>">GL</a></li>
-                          <li<?= $language === 'es' ? ' class="is-active"' : '' ?>><a href="<?= $app->getUri('es') ?>">ES</a></li>
+                          <li{% if lang == "gl" %} class="is-active"{% endif %}><a href="/gl/">GL</a></li>
+                          <li{% if lang == "es" %} class="is-active"{% endif %}><a href="/es/">ES</a></li>
                       </ul>
-                  </li> #}
+                  </li>
               </ul>
           </nav>
       </header>
@@ -53,19 +56,11 @@
                 </div>
                 <div class="footer-info">
                     <address>
-                        <p>
-                            <?= p__('footer', 'Centro sociocultural A trisca (2º andar)') ?><br>
-                            <?= p__('footer', 'Corredoira das Fraguas, 92') ?><br>
-                            <?= p__('footer', '15703 Santiago de Compostela') ?>
-                        </p>
-                        <p>
-                            <?= p__('footer', 'Teléfono: %s', '<a href="tel:691230421">691 230 421</a>') ?><br>
-                            <?= p__('footer', 'Mail: %s', '<a href="mailto:info@dag.gal">info@dag.gal</a>') ?>
-                        </p>
+                        {{ t.footer.address | md | safe }}
                     </address>
                 </div>
                 <div class="footer-contact">
-                    <h4><?= p__('footer', 'Síguenos tamén en:') ?></h4>
+                    <h4>{{ t.footer.follow }}</h4>
 
                     <ul class="social">
                         <li><a class="button ico-twitter" href="https://twitter.com/asociaciondag">
@@ -83,7 +78,7 @@
                     </ul>
 
                     <div class="footer-read">
-                        <h4><?= p__('footer', 'DAG é membro de') ?></h4>
+                        <h4>{{ t.footer.read_member }}</h4>
                         <a href="http://www.designread.es">
                             <img src="/img/icons/read.svg" alt="Read" inline>
                         </a>
@@ -91,7 +86,7 @@
                 </div>
             </div>
             <nav class="page-footer-menu">
-                <a href="http://foro.dag.gal"><?= __('Foro DAG') ?></a>
+                <a href="https://foro.dag.gal">{{ t.footer.forum }}</a>
 
                 <?php
                 $links = $app->get('models')->about->selectFooter($language);
@@ -101,7 +96,7 @@
                 <a href="<?= $this->url('about', ['slug' => $link->slug]) ?>"><?= $link->title ?></a>
                 <?php endforeach ?>
 
-                <a href="<?= $this->url('news-rss') ?>"><?= __('RSS') ?></a>
+                <a href="/rss/">{{ t.footer.rss }}</a>
             </nav>
         </footer>
         <!-- FOOTER -->
