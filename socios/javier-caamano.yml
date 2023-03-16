@@ -1,0 +1,32 @@
+id: 67
+contact: '<info@mascolor.eu>'
+links:
+  -
+    text: mascolor
+    url: 'https://mascolor.eu/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/mascolor_com/'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/pages/Mascolor-Comunicacion/1965421447028009'
+    type: facebook
+name: 'Javier Caamaño'
+slug: javier-caamano
+avatar: /members/avatares//avatar-mascolor.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - 'Identidade corporativa'
+  - Web
+  - Editorial
+  - Embalaxe
+  - Sinalética
+  - Espazos
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñador gráfico'
+job.es: 'Diseñador gráfico'

@@ -1,0 +1,26 @@
+id: 108
+contact: ''
+links:
+  -
+    text: Web
+    url: 'https://idoiacuesta.com/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/idoia_cuesta/'
+    type: facebook
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/idoia-cuesta-68b0bb32/?originalSubdomain=es'
+    type: linkedin
+name: 'Idoia Cuesta'
+slug: idoia-cuesta
+avatar: /members/avatares//grandio-idoiacuesta-retratos-web14.jpg
+avatarBig: null
+tags:
+  - Produto
+draft: false
+bio.gl: 'O meu traballo baséase na fusión da cestaría co téxtil e a versatilidade da peza resultante, a través da combinación de materiais orgánicos con diferentes técnicas artesanais. Ao longo destas décadas aprendín e traballei con profesionais de moi diversas orixes, culturas, experiencias e coñecementos que me abriron a mente e achegáronme novas visións sobre a arte, o deseño, a arquitectura, a moda e a artesanía contemporáneas.'
+bio.es: 'Mi trabajo se basa en la fusión de la cestería con el textil y la versatilidad de la pieza resultante, a través de la combinación de materiales orgánicos con diferentes técnicas artesanales. A lo largo de estas décadas he aprendido y trabajado con profesionales de muy diversos orígenes, culturas, experiencias y conocimientos que me han abierto la mente y me han aportado nuevas visiones sobre el arte, el diseño, la arquitectura, la moda y la artesanía contemporáneas.'
+job.gl: 'Deseñadora de produto'
+job.es: 'Diseñadora de producto'

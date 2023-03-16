@@ -1,0 +1,63 @@
+---
+layout: ./base.njk
+css: [/css/portfolios.css]
+---
+
+<div class="wrapper">
+	<nav class="buttons-tabs">
+    {% set p = search.page("id=members lang=" + lang) %}
+		<a class="button" href="{{ p.url }}">{{ t.members.members }}</a>
+
+    {% set p = search.page("id=portfolio lang=" + lang) %}
+		<a class="button is-selected" href="{{ p.url }}">{{ t.members.projects }}</a>
+	</nav>
+
+	<ul class="buttons-tags is-inverted page-content-bar">
+    <li {% if not tag %} class="is-selected"{% endif %}>
+      {% set p = search.page("id=portfolio lang=" + lang) %}
+			<a href="{{ p.url }}">{{ t.news.all_tags }}</a>
+		</li>
+
+    {% for page in search.pages("type=portfolio_tag lang=" + lang) %}
+		<li {% if page.url == url %} class="is-selected"{% endif %}>
+			<a href="{{ page.url }}">{{ page.tag }}</a>
+		</li>
+    {% endfor %}
+	</ul>
+
+	<div class="portfolios-grid">
+    {% if tag %}
+    {% set portfolios = search.pages("type=portfolio lang=" + lang + " '" + tag + "'", "name=asc") %}
+    {% else %}
+    {% set portfolios = search.pages("type=portfolio lang=" + lang, "name=asc") %}
+    {% endif %}
+
+    {% for portfolio in portfolios %}
+    <article class="portfolio portfolio-list">
+      <a href="{{ portfolio.url }}">
+
+        <figure class="portfolio-thumbnail">
+          <img src="<?= Img::getUri($portfolio->cover, 'resizeCrop,420,200') ?>" alt="">
+        </figure>
+
+        <div>
+          <header class="portfolio-header">
+            <h1>
+              {{ portfolio.title }}
+            </h1>
+          </header>
+
+          <ul class="portfolio-authors">
+            {% for member in portfolio.members %}
+            <li class="member-avatar">
+              <img src="<?= Img::getUri($member->avatar, 'resizeCrop,48,48') ?>" alt="{{ member.name }}">
+              <span>{{ member.name }}</span>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </a>
+    </article>
+    {% endfor %}
+	</div>
+</div>

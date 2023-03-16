@@ -1,0 +1,28 @@
+id: 11
+contact: |-
+  Rúa da Raíña 12, 2ºA  
+   27001 Lugo  
+   T. 982 981 101  
+   M. 665 660 814
+links:
+  -
+    text: Sond3
+    url: 'https://www.sond3.com'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/ncrecente'
+    type: twitter
+name: 'Natalia Crecente García'
+slug: natalia-crecente-garcia
+avatar: /members/avatares/554cf73aafb81-natalia-crecente-garcia.jpeg
+avatarBig: null
+tags:
+  - Gráfico
+  - 'Identidade corporativa'
+  - Editorial
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Profesora da Escola de Arte de Lugo e deseñadora gráfica en Sond3'
+job.es: 'Profesora de la Escuela de Arte de Lugo y diseñadora gráfica en Sond3'

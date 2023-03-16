@@ -1,0 +1,5 @@
+id: news
+main_menu: news
+url.es: /es/noticias/
+url.gl: /gl/novidades/
+layout: layouts/news_list.njk

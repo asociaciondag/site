@@ -1,0 +1,24 @@
+id: 9
+contact: |-
+  Rúa Teo 48 – V\_21  
+   15704 Santiago  
+   T. 689 007 969
+
+  <oscar.canal@crtvg.es>
+links:
+  -
+    text: Twitter
+    url: 'https://twitter.com/fisplin'
+    type: twitter
+name: 'Óscar Canal'
+slug: oscar-canal
+avatar: /members/avatares/554cf623c09aa-oscar-canal.jpeg
+avatarBig: null
+tags:
+  - Gráfico
+  - Audiovisual
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñador gráfico'
+job.es: 'Diseñador gráfico'

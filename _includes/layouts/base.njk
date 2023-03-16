@@ -22,13 +22,15 @@
               </span>
 
               <ul>
-                  {% set page = search.page("menu_id=about lang=" + lang) %}
+                  {% set page = search.page("id=about lang=" + lang) %}
                   <li{% if main_menu == "about" %} class="is-selected"{% endif %}><a href="{{ page.url }}">{{ t.menu.about }}</a></li>
                   
-                  {% set page = search.page("menu_id=news lang=" + lang) %}
+                  {% set page = search.page("id=news lang=" + lang) %}
                   <li{% if main_menu == "news" %} class="is-selected"{% endif %}><a href="{{ page.url }}">{{ t.menu.news }}</a></li>
                   <li{% if main_menu == "projects" %} class="is-selected"{% endif %}><a href="/projects/">{{ t.menu.projects }}</a></li>
-                  <li{% if main_menu == "members" %} class="is-selected"{% endif %}><a href="/members/">{{ t.menu.members }}</a></li>
+
+                  {% set page = search.page("id=members lang=" + lang) %}
+                  <li{% if main_menu == "members" %} class="is-selected"{% endif %}><a href="{{ page.url }}">{{ t.menu.members }}</a></li>
                   <li><a href="http://foro.dag.gal">{{ t.menu.forum }}</a></li>
 
                   <li class="page-menu-lang ui-menu-lang">
@@ -51,7 +53,7 @@
                 <div class="footer-logo">
                     <span class="page-logo">
                         <img src="/img/icons/dag.svg" alt="DAG" inline>
-                        <span><?= p__('footer', 'Asociación Galega de Deseño') ?></span>
+                        <span>{{ t.dag }}</span>
                     </span>
                 </div>
                 <div class="footer-info">
@@ -88,13 +90,9 @@
             <nav class="page-footer-menu">
                 <a href="https://foro.dag.gal">{{ t.footer.forum }}</a>
 
-                <?php
-                $links = $app->get('models')->about->selectFooter($language);
-                ?>
-
-                <?php foreach ($links as $link): ?>
-                <a href="<?= $this->url('about', ['slug' => $link->slug]) ?>"><?= $link->title ?></a>
-                <?php endforeach ?>
+                {% for p in search.pages("footer=true lang=" + lang) %}
+                <a href="{{ p.url }}">{{ p.title }}</a>
+                {% endfor %}
 
                 <a href="/rss/">{{ t.footer.rss }}</a>
             </nav>
@@ -103,12 +101,8 @@
 
         <!-- Cookies -->
         <div class="cookies-advise is-hidden">
-            <p>
-                <?= __('En cumplimento coa Ley 34/2002, de Servizos da Sociedade da Información, recordámoslle que este sitio web utiliza cookies co fin de mellorar os nosos servizos.') ?>
-            </p>
-            <p>
-                <button id="cookies_accept"><?= __('Entendido') ?></button>
-            </p>
+            {{ t.cookies.text | md | safe }}
+            <p><button id="cookies_accept">{{ t.cookies.accept }}</button></p>
         </div>
 
         <script src="/js/main.js"></script>

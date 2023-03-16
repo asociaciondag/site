@@ -1,0 +1,41 @@
+id: 68
+contact: null
+links:
+  -
+    text: Web
+    url: 'http://www.anxolopez.com/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/anxolopez/'
+    type: linkedin
+  -
+    text: Medium
+    url: 'http://www.medium.com/@anxolopez'
+    type: link
+  -
+    text: Instagram
+    url: 'http://www.instagram.com/anxolopez/'
+    type: link
+name: 'Anxo López'
+slug: anxo-lopez
+avatar: /members/avatares//2019-anxo-perfil.jpg
+avatarBig: null
+tags:
+  - Estratexia
+  - Servizos
+draft: true
+bio.gl: |-
+  Anxo López é un deseñador que lidera a estratexia no equipo de deseño do BBVA. É doutor pola súa tese sobre o deseño como actividade económica na industria española do século XXI.
+
+  Iniciou a súa carreira desenvolvendo proxectos de comunicación e deseño visual para diferentes empresas e institucións. Desde a súa posición como deseñador en diferentes proxectos, comezou a preocuparse polo deseño como función estratéxica. Primeiro en XVDMC e logo en Designit, alí traballou para clientes como Bancolombia, BBVA, Ferrovial, Gas Natural, L'oréal Paris, Leroy Merlin ou Vodafone.
+
+  Ademais, complementa a súa actividade como profesor, actualmente en ESNE, pero no pasado impartiu aulas e conferencias en lugares como IE, IESE, UAX, SCAD, IED, ou BAU. Ao longo da súa carreira dedicou especial atención á promoción e difusión do deseño.
+bio.es: |-
+  Anxo López es un diseñador que lidera la estrategia en el equipo de diseño del BBVA. Es doctor por su tesis sobre el diseño como actividad económica en la industria española del siglo XXI.
+
+  Inició su carrera desarrollando proyectos de comunicación y diseño visual para diferentes empresas e instituciones. Desde su posición como diseñador en diferentes proyectos, comenzó a preocuparse por el diseño como función estratégica. Primero en XVDMC y después en Designit, allí trabajó para clientes como Bancolombia, BBVA, Ferrovial, Gas Natural, L'oréal Paris, Leroy Merlin ou Vodafone.
+
+  Además, complementa su actividad como profesor, actualmente en ESNE, pero en el pasado ha impartido aulas y conferencias en lugares como IE, IESE, UAX, SCAD, IED, o BAU. A lo largo de su carrera ha dedicado especial atención a la promoción y difusión del diseño.
+job.gl: 'Deseñador estratéxico e de servizos'
+job.es: 'Diseñador estratégico y de servicios'

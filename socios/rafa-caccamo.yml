@@ -1,0 +1,35 @@
+id: 7
+contact: |-
+  Vigo
+
+  T. 986 205 300
+
+  <estudio@rafacaccamo.com>
+links:
+  -
+    text: 'Estudio Rafa Cáccamo'
+    url: 'http://www.rafacaccamo.com/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/estudiorafacaccamo/?hl=es'
+    type: facebook
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/pages/Estudio-Rafa-C%C3%A1ccamo/345288782236839'
+    type: facebook
+name: 'Rafa Cáccamo'
+slug: rafa-caccamo
+avatar: /members/avatares/58ee5d4215a76-rafa-caccamo.png
+avatarBig: null
+tags:
+  - Editorial
+  - Gráfico
+  - 'Identidade corporativa'
+  - Embalaxe
+  - Exposicións
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñador gráfico'
+job.es: 'Diseñador gráfico'

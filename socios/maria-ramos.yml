@@ -1,0 +1,39 @@
+id: 56
+contact: '<maria@nmtype.com>'
+links:
+  -
+    text: Web
+    url: 'http://www.marsidesino.com'
+    type: link
+  -
+    text: 'NM type'
+    url: 'http://www.nmtype.com/'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/marsidesino'
+    type: twitter
+name: 'María Ramos'
+slug: maria-ramos
+avatar: /members/avatares//m-sastre-perfil.png
+avatarBig: null
+tags:
+  - Gráfico
+  - 'Identidade corporativa'
+  - Editorial
+  - Tipografía
+draft: false
+bio.gl: |-
+  Licenciada en Publicidade pola Universidade de Vigo, nos inicios da súa carreira profesional María formou parte do equipo creativo de varios estudios de deseño galegos. Desempeñou funcións de deseñadora gráfica e directora de arte en proxectos multidisciplinares, moitos deles vinculados ao sector editorial.
+
+  O seu interese pola tipografía como parte esencial do deseño alentouna a asistir a cursos especializados. En 2015 gradúase no Mestrado de Deseño de Tipografías da Universidade de Reading (Inglaterra). Dende entón, María traballa como deseñadora de tipografías, en proxectos propios, a medida e colaborando con outros deseñadores. Froito dunha destas colaboracións xorde [NM type](http://www.nmtype.com/), o selo tipográfico que comparte con Noel Pretorius.
+
+  Parte do seu labor profesional inclúe tamén a investigación e escritura de artigos en publicacións especializadas como [Typographica](https://typographica.org/) ou [Alphabettes](http://www.alphabettes.org/), colectivo do que forma parte dende 2016.
+bio.es: |-
+  Licenciada en Publicidad por la Universidad de Vigo, en los inicios de su carrera profesional María formó parte del equipo creativo de varios estudios de diseño gallegos. Ha desempeñado funciones de diseñadora gráfica y directora de arte en proyectos multidisciplinares, muchos de ellos vinculados al sector editorial.
+
+  Su interés por la tipografía como parte esencial del diseño la alentó a asistir a cursos especializados. En 2015 se gradúa en el Máster de Diseño de Tipografías de la Universidad de Reading (Inglaterra). Desde entonces, María trabaja como diseñadora de tipografías, en proyectos propios, a medida y colaborando con otros diseñadores. Fruto de una de estas colaboraciones surge [NM type](http://www.nmtype.com/), el sello tipográfico que comparte con Noel Pretorius.
+
+  Parte de su labor profesional incluye también la investigación y escritura de artículos en publicaciones especializadas como [Typographica](https://typographica.org/) o [Alphabettes](http://www.alphabettes.org/)_,_ colectivo del que forma parte desde 2016.
+job.gl: 'Deseñadora gráfica e de tipografías'
+job.es: 'Diseñadora gráfica y de tipografías'

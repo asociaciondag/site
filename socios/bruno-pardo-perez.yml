@@ -1,0 +1,21 @@
+id: 37
+contact: 'Mail: <brunopardoperez@gmail.com>'
+links:
+  -
+    text: Portfolio
+    url: 'https://www.behance.net/brunopardo'
+    type: link
+  -
+    text: '@br1pardo'
+    url: 'https://twitter.com/br1pardo'
+    type: twitter
+name: 'Bruno Pardo Pérez'
+slug: bruno-pardo-perez
+avatar: /members/avatares/554d0f43c62cc-bruno-pardo-perez.jpeg
+avatarBig: null
+tags: []
+draft: true
+bio.gl: null
+bio.es: null
+job.gl: 'Estudante de deseño gráfico'
+job.es: 'Estudiante de diseño gráfico'

@@ -1,0 +1,44 @@
+id: 78
+contact: |-
+  **VRANDSS**
+
+  Rúa Bolivia 20, 6C
+
+  36204 Vigo
+
+  <anton@vrandss.com>
+links:
+  -
+    text: VRANDSS
+    url: 'http://www.vrandss.com'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/vrandss_/'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/vrandss/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/antonverissimo/'
+    type: linkedin
+name: 'Antón Veríssimo'
+slug: anton-verissimo
+avatar: /members/avatares//antonverissimo-dag-perfil.jpg
+avatarBig: null
+tags:
+  - 'Identidade corporativa'
+  - Gráfico
+  - Embalaxe
+  - Estratexia
+  - Web
+  - Editorial
+  - Sinalética
+  - Audiovisual
+draft: false
+bio.gl: 'Son Antón Veríssimo e son o director creativo de VRANDSS, axencia de _branding_ de Vigo. Levo algo máis de 15 anos na profesión, nos que traballei en diferentes axencias e estudios, e os últimos 8 anos, emprendendo. En 2014 comecei sendo _freelance_ de deseño gráfico, en 2018 inventei e cofundei Kitebrella, unha _startup_ que me permitiu acceder a ViaGalicia na súa fase de academia. Por último, a finais de 2020 decidín apostar pola especialización y montar xunto co meu socio David, VRANDSS, unha pequeña axencia de _branding_ na que ofecemos servizos a PEMES e emprendedores.'
+bio.es: 'Soy Antón Veríssimo y soy el director creativo de VRANDSS, agencia de _branding_ de Vigo. Llevo algo más de 15 años en la profesión, en los que trabajé en diferentes agencias y estudios, y los últimos 8 años, emprendiendo. En 2014 comencé siendo _freelance_ de diseño gráfico, en 2018 inventé y cofundé Kitebrella, una _startup_ que me permitió acceder a ViaGalicia en su fase de academia. Por último, a finales de 2020 decidí apostar por la especialización y montar junto con mi socio David, VRANDSS, una pequeña agencia de _branding_ en la que ofecemos servicios a PYMES y emprendedores.'
+job.gl: 'Deseñador en VRANDSS'
+job.es: 'Diseñador en VRANDSS'

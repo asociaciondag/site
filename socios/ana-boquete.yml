@@ -1,0 +1,18 @@
+id: 85
+contact: 'T. 690 075 006'
+links:
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/ana-boquete-11896bb0/'
+    type: linkedin
+name: 'Ana Boquete'
+slug: ana-boquete
+avatar: /members/avatares//foto-ana.jpg
+avatarBig: null
+tags:
+  - UX/UI
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñadora UX'
+job.es: 'Diseñadora UX'

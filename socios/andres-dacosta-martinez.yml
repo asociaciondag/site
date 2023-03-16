@@ -1,0 +1,23 @@
+id: 12
+contact: |-
+  Avenida Almirante Regalado, nº 28. 1º  
+   36993 Combarro
+
+  Teléfono: 687 146 166
+
+  <andres.menosemais@gmail.com>
+links:
+  -
+    text: 'Menos é máis'
+    url: 'http://menosemais.jimdo.com/'
+    type: link
+name: 'Andrés Dacosta Martínez'
+slug: andres-dacosta-martinez
+avatar: /members/avatares/554cf7f877fdd-andres-dacosta-martinez.jpg
+avatarBig: null
+tags: []
+draft: true
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñador gráfico'
+job.es: 'Diseñador gráfico'

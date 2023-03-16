@@ -1,0 +1,25 @@
+id: 95
+contact: |-
+  T. 655 231 677
+
+  <hola@evaprado.com>
+links:
+  -
+    text: Behance
+    url: 'https://www.behance.net/evapradop8af3'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/evaprado/'
+    type: linkedin
+name: 'Eva Prado'
+slug: eva-prado
+avatar: /members/avatares//eva-perfil-dag-color.jpg
+avatarBig: null
+tags:
+  - Gráfico
+draft: false
+bio.gl: 'Deseñadora gráfica con Máster en Deseño Gráfico e actualmente cursando Máster en Deseño Web Multidispositivo. Apaixonada en comunicar, mellorar o acceso a contido e conseguir que pequenas ideas convértanse en proxectos ambiciosos capaces de transformar o entorno aportando solucións ás necesidades sociais actuais. Con anterioridade coordinou diferentes departamentos no Museo de Arte Contemporáneo (MAC) da Fundación Naturgy, onde desempeñou múltiples funcións que requiriron un pensamento crítico, creativo, adaptable e na procura de solucións innovadoras.'
+bio.es: 'Diseñadora gráfica con Máster en Deseño Gráfico y actualmente cursando Máster en Diseño Web Multidispositivo. Apasionada en comunicar, mejorar el acceso a contenido y conseguir que pequeñas ideas se conviertan en proyectos ambiciosos capaces de transformar el entorno aportando soluciones a las necesidades sociales actuales. Con anterioridad coordinó diferentes departamentos en el Museo de Arte Contemporáneo (MAC) de la Fundación Naturgy, dónde desempeñó múltiples funciones que requirieron un pensamiento crítico, creativo, adaptable y en la búsqueda de soluciones innovadoras.'
+job.gl: 'Deseñadora gráfica'
+job.es: 'Diseñadora gráfica'

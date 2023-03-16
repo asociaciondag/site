@@ -1,0 +1,3 @@
+layout: layouts/base.njk
+type: portfolio
+main_menu: members

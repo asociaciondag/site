@@ -1,0 +1,30 @@
+id: 30
+contact: '<oaigha@gmail.com>'
+links:
+  -
+    text: cenlitrosmetrocadrado
+    url: 'http://cenlitrosmetrocadrado.com/'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/cenlitrosmetrocadrado'
+    type: facebook
+name: 'Ricardo Tubío Pazos'
+slug: ricardo-tubio-pazos
+avatar: /members/avatares/554d0a49261c4-ricardo-tubio-pazos.jpg
+avatarBig: null
+tags:
+  - Industrial
+  - Espazos
+  - Sinalética
+  - Produto
+  - Mobiliario
+  - 'Identidade corporativa'
+  - Gráfico
+  - Embalaxe
+  - Exposicións
+draft: true
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñador industrial en cenlitrosmetrocadrado'
+job.es: 'Diseñador industrial en cenlitrosmetrocadrado'

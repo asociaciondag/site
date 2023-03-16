@@ -1,24 +1,27 @@
 layout: layouts/base.njk
+lang: [es, gl]
 
 gl:
   t:
     dag: Asociación Galega de Deseño
-    cookies: |
-      En cumprimento da Lei 34/2002, de Servizos da Sociedade da Información, recordámoslle que este sitio web utiliza cookies co fin de mellorar os nosos servizos.
+    cookies:
+      text: |
+        En cumprimento da Lei 34/2002, de Servizos da Sociedade da Información, recordámoslle que este sitio web utiliza cookies co fin de mellorar os nosos servizos.
+      accept: Entendido
     menu:
       about: Acerca da DAG
       news: Novidades
       projects: Proxectos
       members: Socios e socias
       forum: Foro
-      # news: Noticias da Asociación Galega de Deseño
-      # projects: Proxectos de deseño dos socios da Asociación Galega de Deseño
-      # 'Proxectos de deseño dos socios da Asociación Galega de Deseñadores que estan etiquetados como "%s"' => 'Proxectos de deseño dos socios da Asociación Galega de Deseño que estan etiquetados como "%s"',
-      # 'Todos os proxectos e eventos organizados pola Asociación Galega de Deseñadores' => 'Todos os proxectos e eventos organizados pola Asociación Galega de Deseño',
-      # 'Asociación galega de deseñadores' => 'Asociación Galega de Deseño',
-      # 'Listaxe dos socios da Asociación Galega de Deseñadores' => 'Listaxe dos socios da Asociación Galega de Deseño',
-      # 'Artigos publicados pola Asociación Galega de Deseñadores' => 'Artigos publicados pola Asociación Galega de Deseño',
-      # 'Acerca da Asociación Galega de Deseñadores' => 'Acerca da Asociación Galega de Deseño',
+    news:
+      news: Noticias
+      articles: Artigos
+      all_tags: Todas as etiquetas
+    members:
+      members: Socios e socias
+      projects: Proxectos
+      all_tags: Todas as etiquetas
     footer:
       follow: "Síguenos tamén en:"
       address: |

@@ -1,0 +1,29 @@
+id: 14
+contact: '<marcos.dopico@gmail.com>'
+links:
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/marcosdopico'
+    type: linkedin
+  -
+    text: Twitter
+    url: 'https://twitter.com/marcosdopico'
+    type: twitter
+  -
+    text: maistypes
+    url: 'http://www.maistypes.com/'
+    type: link
+name: 'Marcos Dopico Castro'
+slug: marcos-dopico-castro
+avatar: /members/avatares/554cf9af99972-marcos-dopico-castro.jpeg
+avatarBig: null
+tags:
+  - Tipografía
+  - Gráfico
+  - Editorial
+  - 'Identidade corporativa'
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñador gráfico, tipógrafo e profesor da Universidade de Vigo'
+job.es: 'Diseñador gráfico, tipógrafo y profesor de la Universidad de Vigo'

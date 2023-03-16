@@ -1,4 +1,3 @@
-id: 2
 title: '¿Qué es la DAG?'
 slug: que-es-la-dag
 body:
@@ -14,7 +13,7 @@ body:
       - Crear canales de comunicación entre profesionales y también entre profesionales y estudiantes de las escuelas de diseño, con el fin de favorecer el diálogo y la reflexión sobre aquellas cuestiones que más les preocupan e interesan.
        
     type: text
-menu_id: about
+id: about
 menu: true
 footer: false
 order: 1

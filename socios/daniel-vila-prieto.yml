@@ -1,0 +1,52 @@
+id: 57
+contact: |-
+  **988**
+
+  Praza Maior 7, 2º
+
+  32005 Ourense
+
+  T. 988 255 700
+
+  <hola@988.gal>
+links:
+  -
+    text: 'Web '
+    url: 'http://988.gal/'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/988design'
+    type: twitter
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/Estudio988/'
+    type: facebook
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/988design/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/company/988design'
+    type: linkedin
+  -
+    text: Behance
+    url: 'https://www.behance.net/988Design'
+    type: link
+name: 'Daniel Vila Prieto'
+slug: daniel-vila-prieto
+avatar: /members/avatares//thumbnailblack-hinted.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - Espazos
+  - Editorial
+  - Sinalética
+  - 'Identidade corporativa'
+  - Embalaxe
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Socio fundador e deseñador gráfico en 988'
+job.es: 'Socio fundador y diseñador gráfico en 988'

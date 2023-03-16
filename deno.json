@@ -5,6 +5,14 @@
     "serve": "deno task lume -s"
   },
   "imports": {
-    "lume/": "https://deno.land/x/lume@v1.15.3/"
+    "_lume/": "https://deno.land/x/lume@v1.15.3/",
+    "lume/": "../lumeland/lume/"
+  },
+  "compilerOptions": {
+    "lib": [
+      "deno.ns",
+      "deno.window",
+      "https://raw.githubusercontent.com/lumeland/lume/master/lib.d.ts"
+    ]
   }
 }

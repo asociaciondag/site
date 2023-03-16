@@ -1,0 +1,27 @@
+id: 28
+contact: |-
+  M. 653 998 135
+
+  <dg.alberto.rodriguez@gmail.com>
+links:
+  -
+    text: Web
+    url: 'http://www.arrp.es'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/albertorrp'
+    type: facebook
+name: 'Alberto Rodriguez Pérez'
+slug: alberto-rodriguez-perez
+avatar: /members/avatares//alberto-rodriguez-perez-perfil.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - 'Identidade corporativa'
+  - Editorial
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñador gráfico'
+job.es: 'Diseñador gráfico'

@@ -1,0 +1,33 @@
+id: 3
+contact: |-
+  T. 616 296 299
+
+  <info@raquelboo.com>
+links:
+  -
+    text: Web
+    url: 'https://raquelboo.com/'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/raquelboo?lang=es'
+    type: twitter
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/pub/raquel-boo-anderson/22/238/809'
+    type: linkedin
+name: 'Raquel Boo Anderson'
+slug: raquel-boo
+avatar: /members/avatares//foto-dag-rba.jpg
+avatarBig: null
+tags:
+  - Embalaxe
+  - Gráfico
+  - 'Identidade corporativa'
+  - Exposicións
+  - Editorial
+draft: false
+bio.gl: 'Licenciada en Publicidade e RRPP pola Universidade de Vigo leva dedicándose ao deseño gráfico e á comunicación desde hai máis de 20 anos, 17 deles en ekinocio, estudio compartido con Irene García. Desde mediados de 2022 continúa a súa traxectoria desenvolvendo proxectos de identidade coporativa, deseño editorial, gráfica para espazos expositivos ou eventos, e campañas divulgativas ou promocionais como profesional independente.'
+bio.es: 'Licenciada en Publicidad y RRPP por la Universidad de Vigo lleva dedicándose al diseño gráfico y a la comunicación desde hace más de 20 anos, 17 de ellos en ekinocio, estudio compartido con Irene García. Desde mediados de 2022 continúa su trayectoria desarrollando proyectos de identidad coporativa, diseño editorial, gráfica para espacios expositivos o eventos, y campañas divulgativas o promocionales como profesional independente.'
+job.gl: 'Creatividade, deseño gráfico e comunicación'
+job.es: 'Creatividad, diseño gráfico y comunicación'

@@ -1,0 +1,45 @@
+id: 54
+contact: |-
+  **Innovación Ágil**
+
+  Avda. das Corvaceiras 48, entresollado
+
+  36002 Pontevedra
+
+  T. 886 204 137
+
+  <info@innovacionagil.com>
+links:
+  -
+    text: 'Innovación Ágil'
+    url: 'http://www.innovacionagil.com/'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/innovacionagil?ref=hl'
+    type: facebook
+  -
+    text: Linkedin
+    url: 'https://es.linkedin.com/in/franmartinezinnovacionagil'
+    type: linkedin
+name: 'Fran Martínez'
+slug: fran-martinez
+avatar: /members/avatares/5788fc7f953ca-fran-martinez.png
+avatarBig: null
+tags:
+  - 'Identidade corporativa'
+  - Web
+  - Editorial
+  - Gráfico
+  - Embalaxe
+draft: false
+bio.gl: |-
+  O meu traballo diario consiste en facilitar as “solucións pedidas” buscando sempre incluír unha evolución/detalle/novo enfoque.
+
+  Gústame traballar para sectores moi variados e en proxectos de diferente duración para poder ser cada día máis flexible e aprender das persoas e situacións coas que me atopo.
+bio.es: |-
+  Mi trabajo diario consiste en facilitar las "soluciones pedidas" buscando siempre incluir una evolución/detalle/nuevo enfoque.
+
+  Me gusta trabajar para sectores muy variados y en proyectos de diferente duración para poder ser cada día más flexible y aprender de las personas y situaciones con las que encuentro.
+job.gl: 'Deseñador industrial e director de proxectos en Innovación Ágil'
+job.es: 'Diseñador industrial y director de proyectos en Innovación Ágil'

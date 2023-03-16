@@ -1,0 +1,40 @@
+id: 82
+contact: '<info@mariapeinado.com>'
+links:
+  -
+    text: Web
+    url: 'https://mariapeinado.com'
+    type: link
+  -
+    text: Behance
+    url: 'https://www.behance.net/BegoPastoriza'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/mariapeinadoflorido/'
+    type: link
+name: 'María Peinado'
+slug: maria-peinado-florido
+avatar: /members/avatares//bio-maria-peinado.jpg
+avatarBig: null
+tags:
+  - Editorial
+draft: false
+bio.gl: |-
+  María Peinado é licenciada en Historia da Arte pola Universidade de Málaga e cursa estudos de postgrao en Fotografía e Estética da Arte Contemporánea na Universidade Autónoma de Barcelona.
+
+  Acaba formándose e adicándose ao deseño gráfico ao descubrir que o diseño editorial abrangue todo o que a entusiasma e da continuidade e sentido a todas esas disciplinas a través das que profunda na imaxe.
+
+  Desenvolve especial interese polos catálogos de arte e polo libro impreso. O libro como obxecto, como imaxe, como memoria e lugar, como contedor de narrativa visual e conceptual e como ferramenta de humanización e mellora social.
+
+  Dende 2011 é a deseñadora da compañía de danza contemporánea La Phármaco e recentemente traballou para Lacasta Design ou editoriais como Flanêur, Col&amp;Col ou Cuadernos del Vigía.
+bio.es: |-
+  María Peinado es licenciada en Historia del Arte por la Universidad de Málaga y cursa estudios de postgrado en Fotografía y Estética del Arte Contemporáneo en la Universidad Autónoma de Barcelona.
+
+  Acaba formándose y dedicándose al diseño gráfico al descubrir que el diseño editorial aúna todo lo que le entusiasma y da continuidad y sentido a todas esas disciplinas a través de las cuales ha profundizado en la imagen.
+
+  Desarrolla especial interés por los catálogos de arte y por el libro impreso. El libro como objeto, como imagen, como memoria y lugar, como contenedor de narrativa visual y conceptual y como herramienta de humanización y mejora social.
+
+  Desde 2011 es la diseñadora de la compañía de danza contemporánea La Phármaco y recientemente ha trabajado para Lacasta Design o editoriales como Flanêur, Col&amp;Col o Cuadernos del Vigía.
+job.gl: 'Deseñadora editorial'
+job.es: 'Diseñadora editorial'

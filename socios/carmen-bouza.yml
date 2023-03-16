@@ -1,0 +1,31 @@
+id: 98
+contact: |-
+  T. 618 972 525
+
+  <bouza.carmen@gmail.com>
+links:
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/carmenbouza/?originalSubdomain=es'
+    type: linkedin
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/dosisddiseno/'
+    type: facebook
+  -
+    text: Medium
+    url: 'https://medium.com/@bouza.carmen'
+    type: linkedin
+name: 'Carmen Bouza'
+slug: carmen-bouza
+avatar: /members/avatares//carmen-bouza.JPG
+avatarBig: null
+tags:
+  - Servizos
+  - Web
+  - UX/UI
+draft: false
+bio.gl: 'Deseñadora de Produto Dixital cun Máster en Experiencia de Usuario. Encántalle deseñar produtos e servizos cun enfoque centrado nas persoas, simplificando a complexidade para o usuario final. Durante os últimos anos puido colaborar en proxectos de innovación para clientes como Telefónica, Inditex e Google. Actualmente é membro do equipo de [Fjord, part of Accenture Interactive](https://www.fjordnet.com/), desde A Coruña.'
+bio.es: 'Diseñadora de Producto Digital con un Máster en Experiencia de Usuario. Le encanta diseñar productos y servizos con un enfoque centrado en las personas, simplificando la complejidad para el usuario final. Durante los últimos años pudo colaborar en proyectos de innovación para clientes como Telefónica, Inditex y Google. Actualmente forma parte del equipo de [Fjord, part of Accenture Interactive](https://www.fjordnet.com/), desde A Coruña.'
+job.gl: 'Deseñadora de produto dixital'
+job.es: 'Diseñadora de producto digital'

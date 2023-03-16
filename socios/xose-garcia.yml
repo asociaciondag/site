@@ -1,0 +1,38 @@
+id: 42
+contact: |-
+  Sta. Uxía de Riveira 4, baixo esq.  
+   15705 Santiago de Compostela
+
+  T. 606 581 848  
+   <info@piedrapapeltijera.com>
+links:
+  -
+    text: Piedrapapeltijera
+    url: 'https://www.piedrapapeltijera.com'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/xosegarcia'
+    type: twitter
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/xosegarcia'
+    type: linkedin
+name: 'Xosé García'
+slug: xose-garcia
+avatar: /members/avatares//xose-garcia-1080x1080.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - Web
+  - Espazos
+  - Audiovisual
+  - Editorial
+  - 'Identidade corporativa'
+  - Sinalética
+  - Embalaxe
+draft: false
+bio.gl: 'Desde principios de dous mil traballando no campo do deseño en distintas disciplinas (gráfico, web, produto, interiorismo, _motion graphics_, editorial...). Deseñando, organizando, xestionando e sobre todo gozando como un anano en cada novo encargo e coa ilusión de aprender un pouco, ou moito de algo en cada un deles.'
+bio.es: 'Desde principios de dos mil trabajando en el campo del diseño en distintas disciplinas (gráfico, web, producto, interiorismo, _motion graphics_, editorial...). Diseñando, organizando, gestionando y sobre todo disfrutando como un enano en cada nuevo encargo y con la ilusión de aprender un poco, o mucho de algo en cada uno de ellos.'
+job.gl: 'Deseñador gráfico en Piedrapapeltijera'
+job.es: 'Diseñador gráfico en Piedrapapeltijera'

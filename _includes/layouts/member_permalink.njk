@@ -20,7 +20,7 @@ layout: layouts/base.njk
 	</header>
 
 	<address class="member-address">
-		{{ contact }}
+		{{ contact | md | safe }}
 
 		{% if links %}
       <ul>
@@ -35,7 +35,7 @@ layout: layouts/base.njk
 
 	{% if bio %}  
 	<div class="member-bio">
-		{{ bio }}
+		{{ bio | md | safe }}
 	</div>
   {% endif %}
 </article>

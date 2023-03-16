@@ -1,0 +1,39 @@
+id: 64
+contact: |-
+  107 rue Pierre Semard
+
+  92320, Châtillon, Rexion île-de-France.
+
+  T. (00) 33 623 306 900
+
+  <noemi.cortizas@ydemaker.com>
+links:
+  -
+    text: Web
+    url: 'http://nco.ydemaker.com/'
+    type: link
+  -
+    text: Ydemaker
+    url: 'https://ydemaker.com/'
+    type: link
+  -
+    text: Behance
+    url: 'https://www.behance.net/ncortizas'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/noemicortizas/'
+    type: linkedin
+name: 'Noemí Cortizas'
+slug: noemi-cortizas
+avatar: /members/avatares//logo-ydemaker-noemi-cortizas.png
+avatarBig: null
+tags:
+  - CMF
+  - Produto
+  - Industrial
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñadora de produtos, materiais, acabados e cores'
+job.es: 'Diseñadora de productos, materiales, acabados y colores'

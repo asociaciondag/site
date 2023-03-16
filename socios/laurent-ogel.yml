@@ -1,0 +1,33 @@
+id: 63
+contact: '<logel@praxxis.es>'
+links:
+  -
+    text: PRAXXIS
+    url: 'http://www.praxxis.es'
+    type: link
+  -
+    text: A02Velas
+    url: 'http://www.a-02velas.eu'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/laurentogel/'
+    type: linkedin
+name: 'Laurent Ogel'
+slug: laurent-ogel
+avatar: /members/avatares//foto.jpg
+avatarBig: null
+tags:
+  - Estratexia
+  - Servizos
+draft: true
+bio.gl: |-
+  Promotor de PRAXXIS Inclusión Sociedade Cooperativa Galega.
+
+  Promotor con Gemma de la Montaña Garrido de A02Velas Asociación náutica, social, ecolóxica e sostíbel, para que ningunha persoa quede no peirao sen gozar do mar e ver o horizonte.
+bio.es: |-
+  Promotor de PRAXXIS Inclusión Sociedade Cooperativa Galega.
+
+  Promotor con Gemma de la Montaña Garrido de A02Velas Asociación náutica, social, ecológica y sostenible, para que ninguna persona se quede en un pantalán sin disfrutar del mar y ver el horizonte.
+job.gl: 'Deseñador estratéxico e de servizos'
+job.es: 'Diseñador estratégico y de servicios'

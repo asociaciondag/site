@@ -1,0 +1,36 @@
+id: 53
+contact: |-
+  T. 610 206 144 / 665 830 246
+
+  [info@guillotinaestudio](mailto:info@guillotinaestudio)
+links:
+  -
+    text: 'Guillotina Estudio'
+    url: 'http://guillotinaestudio.com/'
+    type: link
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/guillotinaestudio'
+    type: facebook
+  -
+    text: Twitter
+    url: 'https://twitter.com/guillotinaest'
+    type: twitter
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/guillotinaestudio/'
+    type: link
+name: 'Adrián Parcero'
+slug: adrian-parcero
+avatar: /members/avatares/5748875ee255f-adrian-parcero.jpg
+avatarBig: null
+tags:
+  - Gráfico
+  - Embalaxe
+  - 'Identidade corporativa'
+  - Editorial
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñador gráfico'
+job.es: 'Diseñador gráfico'

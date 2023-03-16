@@ -1,0 +1,37 @@
+id: 84
+contact: |-
+  T. 679 013 081
+
+  <hola@porlasramasestudio.com>
+links:
+  -
+    text: Web
+    url: 'https://www.porlasramasestudio.com/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/ver%C3%B3nica-vieira-gonz%C3%A1lez-100678213/'
+    type: linkedin
+  -
+    text: Facebook
+    url: 'https://www.facebook.com/veronicavieiragonzalez'
+    type: facebook
+  -
+    text: Instagram
+    url: 'https://www.facebook.com/veronicavieiragonzalez'
+    type: link
+name: 'Verónica Vieira González'
+slug: veronica-vieira-gonzalez
+avatar: /members/avatares//veronicavieira.jpeg
+avatarBig: /members/avatares//veronicavieira.jpeg
+tags:
+  - Gráfico
+  - 'Identidade corporativa'
+  - Embalaxe
+  - Editorial
+  - Audiovisual
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñadora gráfica '
+job.es: 'Diseñadora gráfica'

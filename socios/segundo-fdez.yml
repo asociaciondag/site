@@ -1,0 +1,41 @@
+id: 15
+contact: |-
+  Rúa da Raiña 12, 2ºA  
+   27001 Lugo   
+   T. 982 981 101  
+   M. 665 660 814
+
+  <info@sond3.com>
+links:
+  -
+    text: sond3
+    url: 'http://sond3.com'
+    type: link
+  -
+    text: segundofdez
+    url: 'http://www.segundofdez.com/'
+    type: link
+  -
+    text: Twitter
+    url: 'https://twitter.com/segundo_fdez'
+    type: link
+  -
+    text: Github
+    url: 'https://github.com/segundofdez'
+    type: link
+name: 'Segundo Fdez'
+slug: segundo-fdez
+avatar: /members/avatares/554cfa899b042-segundo-fernandez.png
+avatarBig: null
+tags:
+  - Sinalética
+  - Web
+  - Editorial
+  - 'Identidade corporativa'
+  - Gráfico
+  - Embalaxe
+draft: false
+bio.gl: null
+bio.es: null
+job.gl: 'Deseñador gráfico e web en Sond3'
+job.es: 'Diseñador gráfico y web en Sond3'
