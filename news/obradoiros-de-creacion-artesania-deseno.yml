@@ -11,12 +11,12 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9dbd105-folleto-artesania-deseno.pdf
+    file: /files/553e7a9dbd105-folleto-artesania-deseno.pdf
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7a9dbd105-folla-de-inscricion-artesania-deseno.pdf
+    file: /files/553e7a9dbd105-folla-de-inscricion-artesania-deseno.pdf
     text: Descargar
     type: file
 intro: 'Un deseñador de moda e un artesán serán os encargados de impartir conxuntamente cada un dos tres obradoiros de creación que se desenvolverán do 4 ao 6 de xullo na Facultade de Belas Artes de Pontevedra en horario de 10.00 a 14.00 da mañá e de 16.00 a 19.00 da tarde.'

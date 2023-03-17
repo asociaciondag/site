@@ -10,7 +10,7 @@ body:
   -
     type: file
     text: Descargar
-    file: /news/files/553e7aa3c420e-conclusions-encontro-read.pdf
+    file: /files/553e7aa3c420e-conclusions-encontro-read.pdf
 intro: null
 slug: la-dag-asiste-al-primer-encuentro-read
 tags: []

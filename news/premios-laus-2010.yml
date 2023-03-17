@@ -16,12 +16,12 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a980c8e3-bases-laus.pdf
+    file: /files/553e7a980c8e3-bases-laus.pdf
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7a980c8e3-bases-laus-estudantes.pdf
+    file: /files/553e7a980c8e3-bases-laus-estudantes.pdf
     text: Descargar
     type: file
 intro: '40ª edición dos premios internacionais Laus de deseño gráfico e a comunicación visual.'

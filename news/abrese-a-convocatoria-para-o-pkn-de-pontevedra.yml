@@ -16,7 +16,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a967d469-cartel-pechakucha.pdf
+    file: /files/553e7a967d469-cartel-pechakucha.pdf
     text: Descargar
     type: file
 intro: 'Xa é posible inscribirse para participar na noite PECHA KUCHA de Pontevedra, un encontro informal de creativos no que cada participante dispón de 20 segundos e 20 imaxes para expor o seu proxecto ante o público.'

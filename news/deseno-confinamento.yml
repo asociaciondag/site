@@ -17,7 +17,7 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/contidos-deseno.pdf
+    file: /files/contidos-deseno.pdf
     text: 'Enlaces a contidos de interese'
     type: file
 intro: 'Ao longo destes meses de illamento social derivado da crise sanitaria e económica provocada pola COVID-19, Internet e as diferentes plataformas _online_ foron a mellor compaña para todos e todas.'

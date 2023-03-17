@@ -11,7 +11,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9732df6-mapa.pdf
+    file: /files/553e7a9732df6-mapa.pdf
     text: Descargar
     type: file
 intro: 'Pecha Kucha Night é unha iniciativa xaponesa, que logo de realizarse en máis de 120 cidades de todo o mundo, levarase a cabo en Pontevedra a mans da Asociación Galega de Deseñadores (DAG).'

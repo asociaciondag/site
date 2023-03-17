@@ -15,7 +15,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9e94594-convocatoria-participacion-2o-congreso-internacional-diseno-e-innovacion.pdf
+    file: /files/553e7a9e94594-convocatoria-participacion-2o-congreso-internacional-diseno-e-innovacion.pdf
     text: Descargar
     type: file
 intro: 'La [Escuela Superior de Diseño](http://www.esdi.es/) (ESDi) acaba de lanzar la convocatoria de participación para que todas las personas interesadas en presentar una ponencia en el 2º Congreso Internacional de Diseño e Innovación de Cataluña envíen sus propuestas.'

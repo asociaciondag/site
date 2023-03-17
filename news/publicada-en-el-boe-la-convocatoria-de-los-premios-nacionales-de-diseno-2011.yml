@@ -20,7 +20,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9ded999-convocatoria-premios-nacionais-de-deseno-2011.pdf
+    file: /files/553e7a9ded999-convocatoria-premios-nacionais-de-deseno-2011.pdf
     text: Descargar
     type: file
 intro: 'Desde el pasado 14 de julio, el día siguiente a la publicación en el BOE de la convocatoria, permanece abierto el plazo para la presentación de candidaturas a los Premios Nacionales de Diseño 2011 en sus dos modalidades: profesional y empresa.'

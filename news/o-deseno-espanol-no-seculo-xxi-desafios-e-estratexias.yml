@@ -6,12 +6,12 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/programa-da-xornada.pdf
+    file: /files/programa-da-xornada.pdf
     text: 'Programa da xornada'
     type: file
   -
     list: ''
-    file: /news/files/171114-pnl-desarrollo-de-una-estrategia-nacional-de-disen-o-2.pdf
+    file: /files/171114-pnl-desarrollo-de-una-estrategia-nacional-de-disen-o-2.pdf
     text: 'Iniciativa lexislativa da deputada socialista por Valencia, Ana Botella'
     type: file
 intro: 'O próximo 12 de xaneiro terá lugar no Congreso dos Deputados a xornada parlamentaria O deseño español no século XXI: desafíos e estratexias.'

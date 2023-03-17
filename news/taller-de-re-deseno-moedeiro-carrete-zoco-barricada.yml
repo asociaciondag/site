@@ -16,17 +16,17 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9c69741-taller-de-redeseno.pdf
+    file: /files/553e7a9c69741-taller-de-redeseno.pdf
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7a9c69741-curriculo-de-david-castro.pdf
+    file: /files/553e7a9c69741-curriculo-de-david-castro.pdf
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7a9c69741-folla-de-inscricion.pdf
+    file: /files/553e7a9c69741-folla-de-inscricion.pdf
     text: Descargar
     type: file
 intro: '[David Castro](http://dfarte.com/galeria.php?id_autor=69) imparte un [taller de redeseño](http://www.macuf.es/htdocs/actividades_talleres_redisenho.html) todos os sábados do 26 de febreiro ao 26 de marzo no Macuf.'

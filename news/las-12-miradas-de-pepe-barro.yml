@@ -9,7 +9,7 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/55ba2bd3247be-pepe-barro.pdf
+    file: /files/55ba2bd3247be-pepe-barro.pdf
     text: 'PDF del catálogo de la exposición'
     type: file
 intro: 'El pasado 9 de julio se inauguraba en la galería Vilaseco de A Coruña la exposición **Doce miradas** del diseñador Pepe Barro, un diseñador al que le gusta tocar todos los géneros e incluso mezclar unos con otros.'

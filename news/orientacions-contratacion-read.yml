@@ -20,7 +20,7 @@ body:
     type: button
   -
     list: ''
-    file: /news/files/gcd-gl.pdf
+    file: /files/gcd-gl.pdf
     text: 'Guía para Convocatorias de Deseño'
     type: file
 intro: 'READ, a Rede Española de Asociacións de Deseño, publica un novo documento que serve para promover as boas prácticas na contratación dunha deseñadora ou dun deseñador.'

@@ -17,7 +17,7 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/553e7aa52ad54-propostas-do-foro-dag.pdf
+    file: /files/553e7aa52ad54-propostas-do-foro-dag.pdf
     text: Descargar
     type: file
 intro: 'La DAG, Asociación Gallega de Diseñadores, hace público el documento con las conclusiones del foro Propuestas de avance para el diseño celebrado el 9 de febrero de 2013 en el Centro Gallego de Arte Contemporáneo.'

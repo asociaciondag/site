@@ -10,7 +10,7 @@ body:
   -
     type: file
     text: Descargar
-    file: /news/files/553e7aa1c7445-bid12-bases.pdf
+    file: /files/553e7aa1c7445-bid12-bases.pdf
 intro: null
 slug: ultimos-dias-para-inscribirse-en-la-bid12
 tags: []

@@ -11,7 +11,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9434243-o-ollo-na-rua.pdf
+    file: /files/553e7a9434243-o-ollo-na-rua.pdf
     text: Descargar
     type: file
 intro: 'El taller experimental sobre tipografía y comunicación que impartirán Enrique Longinotti y Hernán Ordoñez se desarrollará entre el 24 y el 28 de febrero en el CGAC'

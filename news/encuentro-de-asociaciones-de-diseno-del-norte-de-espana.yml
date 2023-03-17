@@ -17,7 +17,7 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/encontro-de-asociacions-do-norte.pdf
+    file: /files/encontro-de-asociacions-do-norte.pdf
     text: 'Programa del Encuentro de Asociaciones de Diseño del Norte'
     type: file
 intro: 'Diseñadores gráficos de Asturias, País Vasco, Galicia y León analizan mañana en la Escuela de Arte de Avilés el presente y el futuro del sector'

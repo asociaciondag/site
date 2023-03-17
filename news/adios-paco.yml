@@ -14,7 +14,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9758fe2-bascunan.pdf
+    file: /files/553e7a9758fe2-bascunan.pdf
     text: Descargar
     type: file
 intro: 'Muere, el pasado lunes 28 de septiembre, de un infarto el deseñador valenciano Paco Bascuñán.'

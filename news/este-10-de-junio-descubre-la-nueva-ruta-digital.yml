@@ -13,7 +13,7 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/55a298b2b33b4-descubre-a-nova-ruta-dixital.pdf
+    file: /files/55a298b2b33b4-descubre-a-nova-ruta-dixital.pdf
     text: 'Descarga o programa'
     type: file
 intro: 'Tórculo Comunicación Gráfica invita a los diseñadores a participar en la actividad **Descubre la nueva ruta digital** que tendrá lugar la tarde del próximo miércoles 10 de junio en su sede del Polígono del Tambre, Vía Edison 33-35 de Santiago de Compostela.'

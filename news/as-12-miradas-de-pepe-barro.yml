@@ -9,7 +9,7 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/55ba2bd3247be-pepe-barro.pdf
+    file: /files/55ba2bd3247be-pepe-barro.pdf
     text: 'PDF do catálogo da exposición'
     type: file
 intro: 'O pasado 9 de xullo inaugurábase na galería Vilaseco da Coruña a exposición **Doce miradas** do deseñador Pepe Barro, un deseñador ao que lle gusta tocar todos os xénero e mesmo mesturar uns con outros.'

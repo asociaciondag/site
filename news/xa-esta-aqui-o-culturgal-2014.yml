@@ -14,7 +14,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7aa7b9e54-programa-culturgal-2014.pdf
+    file: /files/553e7aa7b9e54-programa-culturgal-2014.pdf
     text: Descargar
     type: file
 intro: 'A DAG, Asociación Galega de Deseñadores, participará no Vermú Cultural que no marco do [Culturgal 2014](http://culturgal.com/) terá lugar o próximo domingo 7 de decembro ás 12.00h no Pazo da Cultura de Pontevedra (Culturgal-Área restauración).'

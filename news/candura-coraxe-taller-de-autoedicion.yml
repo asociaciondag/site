@@ -13,7 +13,7 @@ body:
   -
     type: file
     text: Descargar
-    file: /news/files/553e7aa0c6878-candura-coraxe.pdf
+    file: /files/553e7aa0c6878-candura-coraxe.pdf
 intro: null
 slug: candura-coraxe-taller-de-autoedicion
 tags: []

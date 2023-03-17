@@ -10,11 +10,11 @@ body:
   -
     type: file
     text: Descargar
-    file: /news/files/553e7aa41f217-obradoiro-martin-azua.doc
+    file: /files/553e7aa41f217-obradoiro-martin-azua.doc
   -
     type: file
     text: Descargar
-    file: /news/files/553e7aa41f217-encontro-torneiros-2013.pdf
+    file: /files/553e7aa41f217-encontro-torneiros-2013.pdf
 intro: null
 slug: martin-azua-impartira-un-obradoiro-gratuito-para-desenadores-e-artesans-no-xiii-encontro-de-torneiros
 tags: []

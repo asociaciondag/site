@@ -22,12 +22,12 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9e829a3-ficha-curso-videoxogos.pdf
+    file: /files/553e7a9e829a3-ficha-curso-videoxogos.pdf
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7a9e829a3-ficha-curso-webmobil.pdf
+    file: /files/553e7a9e829a3-ficha-curso-webmobil.pdf
     text: Descargar
     type: file
 intro: 'Tras as vacacións, o [Centro Multimedia de Galicia](http://www.cmg.xunta.es/) retoma a súa actividade en setembro con tres novos cursos gratuítos que se enmarcan dentro do seu programa de formación multimedia e audiovisual para o 2011.'

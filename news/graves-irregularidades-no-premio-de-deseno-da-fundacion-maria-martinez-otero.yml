@@ -6,22 +6,22 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/553e7a94eb4d6-elpais18-03-09.pdf
+    file: /files/553e7a94eb4d6-elpais18-03-09.pdf
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7a94eb4d6-lavozdegalicia18-03-09.pdf
+    file: /files/553e7a94eb4d6-lavozdegalicia18-03-09.pdf
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7a94eb4d6-lavozdegalicia19-03-09.pdf
+    file: /files/553e7a94eb4d6-lavozdegalicia19-03-09.pdf
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7a94eb4d6-lavozdegalicia20-03-09.pdf
+    file: /files/553e7a94eb4d6-lavozdegalicia20-03-09.pdf
     text: Descargar
     type: file
 intro: 'Preséntase escrito de reclamación ante as irregularidades detectadas no fallo do Premio de Deseño da Fundación María Martínez Otero.'

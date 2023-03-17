@@ -18,7 +18,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9fcb3ee-charlasnadag.pdf
+    file: /files/553e7a9fcb3ee-charlasnadag.pdf
     text: Descargar
     type: file
 intro: 'Este mércores, 30 de novembro, volven as #charlasnaDAG á Trisca.'

@@ -23,7 +23,7 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/55a2a25d40c5d-mobiliario-intelixente.pdf
+    file: /files/55a2a25d40c5d-mobiliario-intelixente.pdf
     text: 'Mobiliario intelixente'
     type: file
 intro: 'La Agencia Gallega de Innovación (Gain), a través del Centro de Innovación y Servicios Tecnológicos de la Madera (CIS-Madera) organiza la jornada **Mobiliario Inteligente: Identificación de Oportunidades**. En ella se expondrán distintas posibilidades tecnológicas y desarrollos específicos para el sector del mueble, a la vez que se presentan casos de éxito.'

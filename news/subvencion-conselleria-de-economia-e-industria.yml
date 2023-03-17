@@ -11,7 +11,7 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/553e7a9861d24-innovacion-tecnologica-xacobeo.pdf
+    file: /files/553e7a9861d24-innovacion-tecnologica-xacobeo.pdf
     text: Descargar
     type: file
 intro: 'Publícase no Diario Oficial de Galicia a convocatoria das subvenciósn para o financiamento de proxectos de innovación tecnolóxica relacionados co Xacobeo 2010.'

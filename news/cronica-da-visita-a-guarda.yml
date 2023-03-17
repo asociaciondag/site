@@ -21,7 +21,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7aa776a10-remarks1-art6.pdf
+    file: /files/553e7aa776a10-remarks1-art6.pdf
     text: Descargar
     type: file
 intro: 'O deseñador Pepe Barro elaborou para a DAG unha crónica da visita á Guarda realizada o pasado 18 de outubro para coñecer as marcas gráficas dos mariñeiros'

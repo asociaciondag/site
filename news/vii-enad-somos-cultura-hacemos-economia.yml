@@ -29,7 +29,7 @@ body:
     type: button
   -
     list: ''
-    file: /news/files/programa-7enad-22-agosto.pdf
+    file: /files/programa-7enad-22-agosto.pdf
     text: 'Programa completo'
     type: file
 intro: 'El VII Encuentro Nacional de Diseño organizado por READ, asociación nacional a la que pertenece DAG, tendrá lugar los días 27, 28 y 29 de septiembre en la ciudad de Murcia.'

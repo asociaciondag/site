@@ -11,7 +11,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a948cb96-o-ollo-na-rua.pdf
+    file: /files/553e7a948cb96-o-ollo-na-rua.pdf
     text: Descargar
     type: file
 intro: 'O obradoiro experimental de tipografía e comunicación impartido por Enrique Longinotti e Hernán Ordoñez desenvolverase entre o 24 e 28 de febreiro no CGAC.'

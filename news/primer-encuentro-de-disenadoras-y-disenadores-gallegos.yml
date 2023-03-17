@@ -12,12 +12,12 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/55ba423bd7a69-150707-cartel-rianxo-1.pdf
+    file: /files/55ba423bd7a69-150707-cartel-rianxo-1.pdf
     text: 'Cartel del encuentro, PDF'
     type: file
   -
     list: ''
-    file: /news/files/55ba423bd7f30-150707-cartel-rianxo-programa-1-1.pdf
+    file: /files/55ba423bd7f30-150707-cartel-rianxo-programa-1-1.pdf
     text: 'Programa del encuentro, PDF'
     type: file
   -

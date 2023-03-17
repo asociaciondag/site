@@ -6,12 +6,12 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/programa-da-xornada.pdf
+    file: /files/programa-da-xornada.pdf
     text: 'Programa de la jornada'
     type: file
   -
     list: ''
-    file: /news/files/171114-pnl-desarrollo-de-una-estrategia-nacional-de-disen-o-2.pdf
+    file: /files/171114-pnl-desarrollo-de-una-estrategia-nacional-de-disen-o-2.pdf
     text: 'Iniciativa legislativa de la diputada socialista por Valencia, Ana Botella'
     type: file
 intro: 'El próximo 12 de enero tendrá lugar en el Congreso de los Diputados la jornada parlamentaria El diseño español en el siglo XXI: retos y estrategias.'

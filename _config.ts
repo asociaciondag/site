@@ -18,6 +18,7 @@ const site = lume(
 
 site.copy("fonts");
 site.copy("img");
+site.copy("files");
 site.use(inline());
 site.use(date({
   locales: { gl, es }

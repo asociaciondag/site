@@ -16,7 +16,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7aa470b29-feed-2013-dossier.pdf
+    file: /files/553e7aa470b29-feed-2013-dossier.pdf
     text: Descargar
     type: file
 intro: 'Hoy a las 12.30 h en el [Centro Gallego de Arte Contemporáneo](http://cgac.xunta.es/home/GL) se presentó ante los medios el foro de edición y diseño, FEED 2013, organizado por la Asociación Gallega de Diseñadores para los próximos 18 y 19 de octubre.'

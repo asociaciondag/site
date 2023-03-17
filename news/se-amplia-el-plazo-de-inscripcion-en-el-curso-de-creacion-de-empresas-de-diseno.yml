@@ -18,17 +18,17 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7aa0786ab-convocatoria-galicia.pdf
+    file: /files/553e7aa0786ab-convocatoria-galicia.pdf
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7aa0786ab-solicitud-inscripcio-n-fse-20101020.doc
+    file: /files/553e7aa0786ab-solicitud-inscripcio-n-fse-20101020.doc
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7aa0786ab-folleto-eoi-fse-curso-de-creacion-de-empresas-gallego.pdf
+    file: /files/553e7aa0786ab-folleto-eoi-fse-curso-de-creacion-de-empresas-gallego.pdf
     text: Descargar
     type: file
 intro: 'Hasta el miércoles, 8 de febrero, estará abierto el plazo de inscripción en el curso de creación de empresas de diseño impartido por la [Escuela de Organización Industrial (EOI)](http://www.eoi.es).'

@@ -23,7 +23,7 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/55a2a25d40c5d-mobiliario-intelixente.pdf
+    file: /files/55a2a25d40c5d-mobiliario-intelixente.pdf
     text: 'Mobiliario intelixente'
     type: file
 intro: 'A Axencia Galega de Innovación (Gain) a través do Centro de Innovación e Servizos Tecnolóxicos da Madeira (CIS-Madeira) organiza a xornada **Mobiliario Intelixente: Identificación de Oportunidades**. Nela expoñeranse distintas posibilidades tecnolóxicas e desenvolvementos específicos para o sector do moble, á vez que se presentan casos de éxito.'

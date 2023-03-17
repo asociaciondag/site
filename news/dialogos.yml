@@ -11,7 +11,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a96d6d26-cartaz.pdf
+    file: /files/553e7a96d6d26-cartaz.pdf
     text: Descargar
     type: file
 intro: 'O proxecto expositivo DIÁLOGOS inaugurarase o vindeiro mércores 1 de xullo de 2009, ás 20:00 horas na sala de exposicións do Pazo da Cultura de Pontevedra.'

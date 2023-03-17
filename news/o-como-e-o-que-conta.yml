@@ -11,7 +11,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7aa801229-ocomoe-oqueconta.pdf
+    file: /files/553e7aa801229-ocomoe-oqueconta.pdf
     text: Descargar
     type: file
 intro: 'O libro achega un feixe de artigosde Pepe Barro sobre o deseño, a cultura e a imaxe da cultura.'

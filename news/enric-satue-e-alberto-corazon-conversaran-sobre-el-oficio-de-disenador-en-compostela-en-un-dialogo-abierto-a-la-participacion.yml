@@ -11,7 +11,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7aa5a530f-cartel-dag-satuecorazon.pdf
+    file: /files/553e7aa5a530f-cartel-dag-satuecorazon.pdf
     text: Descargar
     type: file
 intro: 'El diseño será el protagonista en la jornada organizada por la DAG, Asociación Gallega de Diseñadores, para el próximo lunes 19 de mayo en la Ciudad de la Cultura de Santiago de Compostela.'

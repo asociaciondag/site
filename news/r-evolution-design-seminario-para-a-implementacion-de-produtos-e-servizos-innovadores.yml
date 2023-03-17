@@ -38,17 +38,17 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7aa02746f-convocatoria-revolution-design.pdf
+    file: /files/553e7aa02746f-convocatoria-revolution-design.pdf
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7aa02746f-solicitud-de-inscripcion.doc
+    file: /files/553e7aa02746f-solicitud-de-inscripcion.doc
     text: Descargar
     type: file
   -
     list: ''
-    file: /news/files/553e7aa02746f-programa-seminario-revolution-design.doc
+    file: /files/553e7aa02746f-programa-seminario-revolution-design.doc
     text: Descargar
     type: file
 intro: 'A Asociación Galega de Deseñadores (DAG) organiza un Programa de Formación impartido pola [Escola de Organización Industrial](http://www.eoi.es/portal/guest/inicio) (EOI) dirixido a todas as persoas interesadas en crear actividade en calquera ámbito do deseño e a creatividade.'

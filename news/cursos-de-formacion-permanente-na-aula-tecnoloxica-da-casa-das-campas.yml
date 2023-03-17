@@ -28,7 +28,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9ec8f29-cursos-aula-tecnoloxica-outono2011.pdf
+    file: /files/553e7a9ec8f29-cursos-aula-tecnoloxica-outono2011.pdf
     text: Descargar
     type: file
 intro: 'A programación da Aula Tecnolóxica da Casa das Campás para o outono oferta cinco cursos que coordina e dirixe Alberto García Ariza.'

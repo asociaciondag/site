@@ -14,7 +14,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a9894c3b-becas-ofita.png
+    file: /files/553e7a9894c3b-becas-ofita.png
     text: Descargar
     type: file
 intro: '6 diseñadores serán seleccionados y recibiran una beca de 1200€'

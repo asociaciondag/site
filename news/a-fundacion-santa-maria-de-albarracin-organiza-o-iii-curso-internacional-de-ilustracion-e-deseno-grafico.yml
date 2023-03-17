@@ -20,7 +20,7 @@ body:
     type: image
   -
     list: ''
-    file: /news/files/553e7a95b835f-programa.pdf
+    file: /files/553e7a95b835f-programa.pdf
     text: Descargar
     type: file
 intro: 'Durante catro días, os profesores invitados, que como en edicións anteriores serán grandes nomes do panorama internacional, xunto cos directores do Curso presentarán en relatorios maxistrais, talleres e exposicións de obra propia, a súa bagaxe profesional, a reflexión teórica que o sustenta e as estratexias para levar a cabo novas creacións.'

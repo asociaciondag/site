@@ -30,12 +30,12 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/llamada-a-proyecto-fswd-documental.pdf
+    file: /files/llamada-a-proyecto-fswd-documental.pdf
     text: 'Llamada a proxecto para documental'
     type: file
   -
     list: ''
-    file: /news/files/llamada-a-proyecto-fswd-anteproyecto-expositivo.pdf
+    file: /files/llamada-a-proyecto-fswd-anteproyecto-expositivo.pdf
     text: 'Llamada a proyecto para anteproyecto expositivo'
     type: file
 intro: 'Un anteproyecto expositivo y un documental interactivo son dos de las tres partes de que consta el proyecto From Desing with Design, que pretende visibilizar de forma internacional al diseño español.'

@@ -17,7 +17,7 @@ body:
     type: text
   -
     list: ''
-    file: /news/files/contidos-deseno.pdf
+    file: /files/contidos-deseno.pdf
     text: 'Enlaces a contenidos de interés'
     type: file
 intro: 'A lo largo de estos meses de aislamiento social derivado de la crisis sanitaria y económica provocada por la COVID-19, Internet y las diferentes plataformas _online_ han sido la mejor compañía para todos y todas.'
