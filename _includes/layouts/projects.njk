@@ -12,7 +12,7 @@ layout: ./base.njk
           <article class="project project-list">
             <a href="{{ project.external_url }}">
               <figure class="project-image">
-                <img src="<?= Img::getUri($project->cover, 'resizeCrop,420,200') ?>">
+                <img width="420" height="200" src="{{ project.cover }}">
               </figure>
 
               <header class="project-header">

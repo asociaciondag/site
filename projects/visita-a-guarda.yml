@@ -1,8 +1,8 @@
 id: 4
 title: 'As marcas gráficas dos mariñeiros da Guarda'
 slug: visita-a-guarda
-year: '2014'
+year: 2014
 yaml: "titulo: As marcas gráficas dos mariñeiros da Guarda\r\n\r\nsubtitulo: |\r\n  Sábado 18 de outubro \r\n  A Guarda\r\n\r\nprograma:\r\n  titulo: Programa\r\n  info:\r\n    - hora: 12:00h\r\n      info: Palestra de Antón Ferreiro (Anabam)\r\n    \r\n    - hora: 14:30h\r\n      info: Xantar \r\n    \r\n    - hora: 16:00h\r\n      info: Visita á Sta. Tegra con Antón Malde\r\n    \r\n    - hora: 19:00h\r\n      info: Volta\r\n\r\nhorarios:\r\n  titulo: Horario de autobuses\r\n  info:\r\n    - hora: 08:00h\r\n      info: Saída da Coruña\r\n\r\n    - hora: 08:50h\r\n      info: Saída de Compostela\r\n\r\n    - hora: 09:40h\r\n      info: Saída de Pontevedra\r\n\r\n    - hora: 10:20h\r\n      info: Saída de Vigo\r\n\r\ninfo: |\r\n  A actividade é gratuíta para os socios da DAG. Para os non-socios ten un custo de 14€\r\n  \r\n  Colabora [ANANAM (Asociación Naturalista Baixo Miño)](http://www.anabam.org/)\r\n  \r\nmedios:\r\n  - 'http://praza.gal/cultura/8027/marineiros-que-deixaron-marca/'\r\n  \r\n\r\nsocial:\r\n  - 'https://www.facebook.co/permalink.php?story_fbid=827163017327807&id=149460691764713'\r\n  - 'https://www.facebook.co/permalink.php?story_fbid=827177487326360&id=149460691764713'\r\n  - 'https://twitter.com/claramalde/status/523585017759670272'\r\n  - 'https://twitter.com/marcosdopico/status/523870574200643584'\r\n  - 'https://twitter.com/asociaciondag/status/524590455733092352'\r\n  - 'https://twitter.com/asociaciondag/status/524596310968901632'\r\n\r\n"
-cover: /projects/covers/5595b64f31041-a-guarda.png
+cover: /img/projects/5595b64f31041-a-guarda.png
 external_url: null
 draft: false

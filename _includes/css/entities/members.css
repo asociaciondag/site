@@ -112,6 +112,10 @@
 	& .member-avatar{
 		flex: 0 0 64px;
 		margin-right: 1em;
+
+		& img {
+			object-fit: cover;
+		}
 	}
 
 	& .member-header{

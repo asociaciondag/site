@@ -35,7 +35,7 @@ css: [/css/members.css]
     {% for member in members %}
       <article class="member member-list">
         <figure class="member-avatar">
-          <img src="<?= Img::getUri($member->avatar, 'resizeCrop,64,64'); ?>" alt="">
+          <img width="64" height="64" src="{{ member.avatar }}" alt="Retrato de {{ member.name }}">
         </figure>
 
         <header class="member-header">

@@ -1,8 +1,8 @@
 id: 11
 title: Pro-DAG
 slug: https-dag-gal-gl-proxectos
-year: '2018'
+year: 2018
 yaml: null
-cover: /projects/covers//prodag.png
+cover: /img/projects/prodag.png
 external_url: 'https://asociaciondag.github.io/provedores/'
 draft: false

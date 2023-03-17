@@ -1,8 +1,8 @@
 id: 7
 title: 'O ollo na Rúa'
 slug: o-ollo-na-rua
-year: '2009'
+year: 2009
 yaml: "titulo: O ollo na rúa, sinais de identidade\r\n\r\nsubtitulo: |\r\n  Taller experimental \r\n  sobre tipografía e comunicación\r\n  \r\n  25/28 febreiro 2009\r\n  \r\n  Santiago de Compostela\r\n\r\ndestinatarios:\r\n  titulo: Destinatarios\r\n  info: |\r\n    O taller está dirixido a estudantes, artistas, docentes e profesionais do deseño e a comunicación visual, e a todas aquelas persoas interesadas no tema.\r\n    \r\n    Número de participantes: 20\r\n\r\ninscripcion:\r\n  titulo: Inscripción\r\n  info: |\r\n    As solicitudes pódense presentar ata o 23 de febreiro por fax, correo electrónico,\r\n    a través da nosa páxina web ou ben na recepción do CGAC. As persoas interesadas deberán indicar o seu nome, número de teléfono, ámbito profesional ou formación, e enderezo postal e electrónico.\r\n    \r\n    Matrícula: 20 €\r\n    \r\n    Membros da Asociación de Amigos\r\n    do CGAC e do DAG: 12 €\r\n    \r\n    Para formalizar a matrícula, o primeiro día da actividade entregaremos unha folla de pagamento coa que os participantes poderán realizar o ingreso correspondente nas entidades bancarias indicadas.\r\n    \r\n    Os solicitantes deberán presentar unha copia da folla de pagamento e fotocopia do DNI.\r\n    Entregarase certificado de asistencia.\r\n\r\ninfo: |\r\n    **La DAG organiza en colaboración con el CGAC el taller \"El ojo en la Calle.**\r\n\r\nsocial:\r\n  - 'https://www.youtube.com/watch?v=y-eQHM_Fvhw'\r\n  - 'https://www.youtube.com/watch?v=mh9cmXlgtO8'\r\n  - 'https://www.youtube.com/watch?v=a1xRa3dGx8I'\r\n\r\n"
-cover: /projects/covers/55afe7c036c07-portada.jpg
+cover: /img/projects/55afe7c036c07-portada.jpg
 external_url: null
 draft: true
