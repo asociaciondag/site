@@ -1,0 +1,30 @@
+id: 114
+title: 'Deseño de logotipo para Noratrans'
+slug: deseno-de-logotipo-para-noratrans
+body:
+  -
+    text: 'Unha proposta dinámica e actual. A utilización da cor azul achega seriedade e estabilidade. A verde, frescura. Os trazos do símbolo suxiren rapidez.'
+    type: text
+  -
+    image: /portfolios/images/56139ed9a36cc-noratrans.jpg
+    text: 'Logotipo Noratrans'
+    type: image
+cover: /portfolios/covers/5603e36de7ed4-noratrans.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 40
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Cliente
+    value: 'Noratrans, empresa de loxística'
+  -
+    name: Empresa
+    value: 'The Quiz Project'
+  -
+    name: Ano
+    value: '2014'
+draft: true

@@ -1,0 +1,46 @@
+id: 63
+title: 'Urbe Vecchia'
+slug: urbe-vecchia
+body:
+  -
+    text: 'Imaxe de empresa para Urbe Vecchia, promotora inmobiliaria que desenvolve a súa actividade en Bilbao. Utilizamos como referencia a foto aérea dunha parte da zona antiga desa cidade coas súas rúas e prazas.'
+    type: text
+  -
+    image: /portfolios/images/5564cd31ad835-urbe-vecchia-logo-fondo.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564cd31adaaf-urbe-vecchia-logo1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564cd31adc81-urbe-vecchia-folio.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564cd31ade90-urbe-vecchia-carpeta.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564cd31ae040-urbe-vecchia-tarxeta.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55856b10502e8-5564cd31ad835-urbe-vecchia-logo-fondo.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 24
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: OGráfico
+  -
+    name: Cliente
+    value: 'Urbe Vecchia. Promotora inmobiliaria'
+  -
+    name: Ano
+    value: '2009'
+draft: false

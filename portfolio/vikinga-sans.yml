@@ -1,0 +1,70 @@
+id: 20
+title: 'Vikinga Sans'
+slug: vikinga-sans
+body:
+  -
+    text: |-
+      Vikinga Sans é unha tipografía Lineal Neo-Humanista Simplificada que explora formas tipográficas contemporáneas propias do norte de Europa, máis concretamente o denominado carácter nórdico ou escandinavo. O obxectivo é o de crear unha tipografía versátil para ser usada no terreo da identidade corporativa, que permita artellar un programa gráfico completo en todos os seus soportes (publicacións, sinalética, web, audiovisuais…), e que defina a súa identidade a través fundamentalmente dunha tipografía funcional e versátil pero sen renunciar á idiosincrasia e á pregnancia.
+
+      Vikinga Sans é unha tipografía lineal de baixo contraste entre os seus trazos horizontais e verticais, e cun deseño lixeiramente expandido. Como característica salientable destacan os viseis en algunhas diagonais de determinados caracteres e as formas circulares nas interseccións dos trazos que se xuntan coas horizontais, ofrecendo un carácter lixeiramente orgánico na composición de textos en tamaños pequenos. É salientable tamén en ese carácter de pregnancia o denominado “g nórdico” truncado ou aberto. En tamaños “display” ofrece un perfil máis racional.
+
+      Posúe 4 variantes: Light, Regular, Light Italic e Italic.  
+       Formatos: Opentype (.otf) &amp; Webfont  
+       Character Set: Standard Western &amp; Latin Extended
+    type: text
+  -
+    image: /portfolios/images/55a3d4eeb629b-vikinga-012.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d4eeb6550-vikinga-021.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d4eeb67bc-vikinga-031.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d4eeb6a60-vikinga-041.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d4eeb6cb3-vikinga-051.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d5afda6b6-vikinga-081.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d5afda89c-vikinga-061.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d5afdac07-vikinga-07.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d5afdad31-vikinga-101.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55a3d5afdae68-vikinga-10.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55a3d4eeb5ed8-vikinga-cover.png
+tags:
+  - Tipografía
+members_id:
+  - 14
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: 'Mais Types'
+  -
+    name: Ano
+    value: '2013'
+draft: false

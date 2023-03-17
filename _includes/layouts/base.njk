@@ -2,8 +2,11 @@
 
 <html class="no-js" lang="{{ lang }}">
     <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>{{ title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="alternate" type="application/rss+xml" title="Noticias RSS" href="/gl/novas/rss/">
-
         <link rel="stylesheet" href="/css/main.css">
         {% for href in css %}
         <link rel="stylesheet" href="{{ href }}">
@@ -12,7 +15,8 @@
 
     <body>
         <header class="page-header wrapper" id="main-header">
-          <a href="/{{ lang }}/" class="page-logo">
+          {% set page = search.page("id=home lang=" + lang) %}
+          <a href="{{ page.url }}" class="page-logo">
             <img src="/img/icons/dag.svg" alt="Asociación Galega de Deseño" inline>
           </a>
 
@@ -27,7 +31,9 @@
                   
                   {% set page = search.page("id=news lang=" + lang) %}
                   <li{% if main_menu == "news" %} class="is-selected"{% endif %}><a href="{{ page.url }}">{{ t.menu.news }}</a></li>
-                  <li{% if main_menu == "projects" %} class="is-selected"{% endif %}><a href="/projects/">{{ t.menu.projects }}</a></li>
+
+                  {% set page = search.page("id=projects lang=" + lang) %}
+                  <li{% if main_menu == "projects" %} class="is-selected"{% endif %}><a href="{{ page.url }}">{{ t.menu.projects }}</a></li>
 
                   {% set page = search.page("id=members lang=" + lang) %}
                   <li{% if main_menu == "members" %} class="is-selected"{% endif %}><a href="{{ page.url }}">{{ t.menu.members }}</a></li>

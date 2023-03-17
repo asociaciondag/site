@@ -1,0 +1,22 @@
+id: 370
+title: 'Real Filharmonía de Galicia 2020–21'
+slug: real-filharmonia-de-galicia-2020-21
+body:
+  -
+    text: 'Imaxe gráfica da tempada 2020–21 da Real Filharmonía de Galicia.'
+    type: text
+  -
+    image: /portfolios/images/publicacion-filharmonia.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//portada-filharmonia.jpg
+tags:
+  - Gráfico
+members_id:
+  - 81
+lang: gl
+info:
+  -
+    name: Cliente
+    value: 'Concello de Santiago de Compostela'
+draft: false

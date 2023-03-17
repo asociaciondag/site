@@ -1,0 +1,52 @@
+id: 60
+title: Granmola
+slug: granmola
+body:
+  -
+    text: |-
+      Granmola xorde como proxecto interno do estudio, coa idea de desenvolver un obxecto que actúe de elemento promocional e á vez que sirva de presente para potenciais clientes.
+
+      Partindo da idea de achegar a natureza ao espazo de traballo ou ao doméstico e traballando con criterios de redución de materiais e procesos produtivos, desenvolvemos un comedeiro para paxaros para adherir ás ventás.  
+       O comedeiro está composto por dúas únicas partes, e cada unha cumpre unha dobre función: o cortante de polipropileno actúa tamén de envoltorio, e o listón de madeira serve tanto para que se apoie o paxaro no comedeiro como para pechar o _packaging._
+    type: text
+  -
+    image: /portfolios/images/55571bf7e47e7-granmola_01.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55571bf7e47e7-granmola_02.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55571bf7e47e7-granmola_03.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55571bf7e47e7-granmola_04.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55571bf7e47e7-granmola_05.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/558569a014fe0-55571bf7e47e7-granmola-02.jpg
+tags:
+  - Produto
+members_id:
+  - 13
+  - 27
+  - 30
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: Cenlitrosmetrocadrado
+  -
+    name: Cliente
+    value: Autopromoción
+  -
+    name: Ano
+    value: '2009'
+draft: false

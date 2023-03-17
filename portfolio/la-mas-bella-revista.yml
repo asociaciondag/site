@@ -1,0 +1,48 @@
+id: 79
+title: 'La Más Bella Revista'
+slug: la-mas-bella-revista
+body:
+  -
+    text: |-
+      Para o seu 20 aniversario, a editorial decide facer unha revista que se entregará por fascículos, da colaboración con eles forma parte o deseño desta portada. A cabeceira foi creada a partir da tipografía Orator de John Scheppler.
+
+      _La Más Bella_ é un proxecto de acción e experimentación editorial que desde 1993, reflexiona no mundo da edición da arte contemporánea. O número foi presentado coincidindo con Arco 2011, <http://www.lamasbella.org/>
+    type: text
+  -
+    image: /portfolios/images/55859862bfcb0-lamasbella-cabeceira.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859862c0065-lamasbella-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859862c0652-lamasbella-2.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859862bf836-lamasbella-cabeceira.jpg
+tags:
+  - Editorial
+  - Tipografía
+members_id:
+  - 25
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: Uqui-Cebra
+  -
+    name: Cliente
+    value: 'La más bella'
+  -
+    name: Ano
+    value: '2011'
+  -
+    name: Fotografía
+    value: 'Marta Soul'
+  -
+    name: Colaboración
+    value: 'Editorial La más bella'
+draft: false

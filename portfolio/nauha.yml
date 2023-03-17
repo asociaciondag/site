@@ -1,0 +1,60 @@
+id: 12
+title: Nauha
+slug: nauha
+body:
+  -
+    text: |-
+      Nauha es un mueble modular que cumple las funciones de silla y mesa. Permite al usuario 2 posiciones diferentes.
+
+      Cinta conformada por contrachapado de madera curvada. Esta silla multifuncional ha sido proyectada para equipar centros de conocimiento, centros educativos y hogar.
+
+      Su nombre, Nauha, proviene de la traducción al finlandés de la palabra “cinta”. Hace alusión a su geometría continua, y es un homenaje al arquitecto finlandés Alvar Aalto.
+
+      Proyecto desarrollado en el Máster de diseño de Mobiliario dirigido por Ricard Ferrer, que se imparte en la escuela Elisava (Escola Superior de Disseny i Enginyeria) de Barcelona.
+    type: text
+  -
+    image: /portfolios/images/555cdae76161e-1-nauha-imagen1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cdae761b7c-1-nauha-imagen2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cdae761f6f-1-nauha-imagen3.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cdae7624cc-1-nauha-imagen4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cdae762c96-1-nauha-imagen5.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cdae76311d-1-nauha-imagen6.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/558557bc0187a-555cdae761f6f-1-nauha-imagen3.jpg
+tags:
+  - Mobiliario
+members_id:
+  - 19
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: 'ROK Design'
+  -
+    name: Proxecto
+    value: 'Nauha. Equipamiento para Centros de conocimiento'
+  -
+    name: Cliente
+    value: 'Proyecto para o Máster de diseño de Mobiliario, Elisava (Escola Superior de Disseny i Enginyeria) de Barcelona.'
+  -
+    name: Ano
+    value: '2012'
+draft: false

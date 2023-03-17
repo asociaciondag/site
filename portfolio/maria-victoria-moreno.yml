@@ -1,0 +1,26 @@
+id: 286
+title: 'María Victoria Moreno'
+slug: maria-victoria-moreno
+body:
+  -
+    image: /portfolios/images/cartel-maria-victoria-moreno.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/selo-conmemorativo-mvm.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//cartel-maria-victoria-moreno.jpg
+tags:
+  - Gráfico
+members_id:
+  - 23
+lang: es
+info:
+  -
+    name: 'Cliente:'
+    value: 'Ayuntamiento de Pontevedra'
+  -
+    name: 'Año:'
+    value: '2018'
+draft: false

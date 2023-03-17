@@ -1,0 +1,52 @@
+id: 1
+title: 'Cortes de Muar'
+slug: cortes-de-muar
+body:
+  -
+    text: |-
+      Cortes de Muar é o resultado do relevo da segunda xeración de queixeiros dunha queixería artesá de Silleda. O proxecto consistiu en desenvolver o concepto de venda completo con eles, desde o nome, pasando polas aplicacións gráficas até o packaging. Comezamos por xerar unha historia que supuxese o punto de partida para construir o resto de elementos.
+
+      O produto depende directamente da calidade do leite das vacas da zona, ademais do bo facer dos artesáns, polo que buscamos a maneira de homenaxear directamente ás protagonistas, xogando co dobre sentido da palabra “corte”, convertíndoas en raíñas. Como a queixería non ten produción propia de leite, senón que se abastece dos produtores da zona, escollimos os nomes máis populares de vacas galegas que comezasen por “M” e xeramos un universo arredor desta letra que evoca o seu muar.
+
+      Á hora de vestir o queixo, tomámolo de xeito literal, facéndolle unha etiqueta con xeito de saia que cubre a tetilla, completándoa cun corpo de vaca-raíña. Así naceron as Marelas, ás que logo seguiron distintas adaptacións de forma, para outras variedades de queixo redondo, Mimosas e Marquesas, etc. As premisas que quixemos manter eran empregar únicamente cartón para que se poidese reciclar facilmente e tentar reducir costes co uso dunha soa tinta, negro. O resultado é unha embalaxe divertida, que chama a atención, posiciona o produto nas tendas delicatesen, e fai que un queixo do país constitúa un bo agasallo para calquera ocasión.
+
+      <http://cortesdemuar.com/>
+    type: text
+  -
+    image: /portfolios/images/5554dff48b70b-cortes_muar_1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5554dff48b70b-cortes_muar_2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5554dff48b70b-cortes_muar_3.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5554dff48b70b-cortes_muar_4.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55854fa596742-5554dff48b70b-cortes-muar-4.jpg
+tags:
+  - Embalaxe
+  - Gráfico
+  - 'Identidade corporativa'
+members_id:
+  - 3
+  - 18
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: 'Ekinocio Comunicación'
+  -
+    name: Cliente
+    value: 'Germán e Rita García'
+  -
+    name: Ano
+    value: '2012'
+draft: false

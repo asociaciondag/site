@@ -1,0 +1,47 @@
+id: 88
+title: 'Escénica 09'
+slug: escenica-09
+body:
+  -
+    text: 'Ciclo Pontevedra Escénica 09'
+    type: text
+  -
+    image: /portfolios/images/558594c99362c-dsc-0082b.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/558594c993cb7-dsc-0087.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/558594c99424e-dsc-0093.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/558594c994736-dsc-0095-b.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/558594c994ba4-dsc-0102.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/558594c993095-dsc-0087.jpg
+tags:
+  - Gráfico
+members_id:
+  - 14
+  - 32
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: 'De dominio público'
+  -
+    name: Cliente
+    value: 'Concello de Pontevedra'
+  -
+    name: Ano
+    value: '2009'
+draft: false

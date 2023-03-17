@@ -1,0 +1,68 @@
+id: 44
+title: Antípolis
+slug: antipolis
+body:
+  -
+    text: |-
+      Para o novo e terceiro título da colección Territorios da editorial GG, seguimos a experimentar coa idea de dar forma ao libro partindo do seu contido. As decisións de deseño ‒cubertas, tipografía, disposición da caixa, etc.‒ son resultado de tentar reflectir as ideas que o texto propón, de maneira que contido e deseño vaian da man.
+
+      O libro de Carlos García Vázquez estuda as dinámicas urbanizadoras desenvolvidas no sur dos EEUU, nunha franxa coñecida como o Cinturón do Sol (Sunbelt) a partir dos anos 50 do século pasado. O Sunbelt comprende o territorio entre o paralelo 37 e a fronteira con México. No exterior do libro debuxamos a silueta desta zona xeográfica percorrendo a portada, a contraportada e as lapelas. O obxectivo é ubicar ao lector e suxerir, coa cor amarela-intensa da silueta (pantone fluorescente 803 C), e coa cor area do cartón da cuberta, o clima case desértico desa rexión.
+
+      En Antípolis analízanse os procesos urbanizadores do Sunbelt: indiferenciadas e uniformes extensións residenciais conectadas cos centros de traballo e consumo por medio de autoestradas interestatais.
+
+      Para complementar a información xeográfica da cuberta, na parte interior das lapelas, debuxamos a rede de autoestradas (highways) que unen as principais cidades e as capitais de estado que se citan no texto. A tipografía utilizada para encabezamentos, paxinacións e folios explicativos é a Interstate, deseñada orixinalmente para esta rede de autoestradas americanas polo enxeñeiro Ted Forbes no ano 1949, e dixitalizada por Frere-Jones para Font Bureau.
+
+      A composición central dos elementos compostos en Interstate e o corpo dos encabezamentos, quere reforzar a referencia ao uso real desta tipografía nas sinalizacións viarias das highways.
+
+      Por outra banda, para compoñer o texto eliximos a Mercury de H&amp;FJ. Coa lexibilidade como principal preocupación, buscamos unha tipografía romana contemporánea que tivese unha mancha de gris uniforme. Con esta homoxeneidade no ton, xustificación completa e composición central da caixa, obtemos unha páxina que remite aos conceptos de uniformización e indiferenciación presentes no discurso de Antípolis.
+
+      O texto de Antípolis complétase con fotografías aéreas de Alex S. McLean que, relacionadas cos capítulos, propoñen un percorrido por distintas cidades do Sunbelt. Para remarcar este percorrido visual, imprímense as imaxes en dípticos de papel estucado brillo (máis curtos na súa lonxitude horizontal), intercalados entre os pregos do libro impresos nun papel offset cun lixeiro ton marfil, para non cansar aos ollos na lectura.
+
+      Da experiencia de traballar dende os conceptos e as ideas do libro descubrimos, analizando o resultado deste título, que o deseño non só comunica o contido do texto, senón que o complementa, engadindo información e aportando lecturas simultáneas.
+
+      Imaxinamos un (deseño de) libro que non se esgote nunha primeira mirada.
+    type: text
+  -
+    image: /portfolios/images/55576478e4376-0112.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55576478e4376-0210.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55576478e4376-039.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55576478e4376-049.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55576478e4376-056.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55576478e4376-065.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55856622cae11-55576478e4376-049.jpg
+tags:
+  - Editorial
+members_id:
+  - 26
+  - 31
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: Desescribir
+  -
+    name: Cliente
+    value: 'Editorial Gustavo Gili'
+  -
+    name: Ano
+    value: '2011'
+draft: true

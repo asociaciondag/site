@@ -1,0 +1,58 @@
+id: 94
+title: 'II Festival de Jazz Mariñas'
+slug: ii-festival-de-jazz-marinas
+body:
+  -
+    text: |-
+      No ano 2009 encárgannos o deseño do material de promoción da II Mostra Jazz Mariñas.
+
+      Non queriamos ser alleos á cultura visual do Jazz moderno, á que Reid Miles e Francis Wolff contribuíron nos anos cincuenta e sesenta coas súas portadas para os discos do selo _Blue Note_. Deseños, nos que tipografía, cor e fotografía son protagonistas.
+
+      O son, o _charles_ de batería, o ansiado _swing,_ tazz ta tazz, tazz ta tazz… foi a idea que deu orixe á identidade do festival. As letras que forman MARIÑAS, entrelazadas coa palabra JAZZ repetida verticalmente, crean distintos “sons”_._
+
+      Interesábanos que o soporte se complementase coa gráfica na comunicación do motivo do festival. De novo, o son. Pregando e xogando cun sinxelo A4 demos coa solución: o políptico preséntase en abano e seguindo as instrucións interiores podémolo converter en… un instrumento!
+
+      ah!, pero soa?, claro!
+
+      (sirva o vídeo de proba para os escépticos… puro _free jazz_)
+    type: text
+  -
+    image: /portfolios/images/555a4cb1d14b9-038.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4cb1d17de-048.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4cb1d1aa0-054.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4cb1d1d4b-064.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4cb1d1f54-0110.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859c576ad9d-555a4c86e1301-0110.jpg
+tags:
+  - Gráfico
+members_id:
+  - 26
+  - 31
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: Desescribir
+  -
+    name: Cliente
+    value: 'Consorcio das Mariñas. Deputación da Coruña'
+  -
+    name: Ano
+    value: '2009'
+draft: true

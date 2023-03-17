@@ -1,0 +1,75 @@
+id: 86
+title: 'La ciudad paseable'
+slug: la-ciudad-paseable
+body:
+  -
+    text: |-
+      O que nos preocupou desde o inicio deste traballo editorial, foi como darlle coherencia e unidade visual a unha publicación tan completa e complexa: texto, imaxes en cor (feitas polos propios autores) pés e identificación destas imaxes, gráficas, cadros explicativos, esquemas, planos…
+
+      Propuxémonos estruturar este extenso estudo sobre o peón na cidade, de maneira que fose sinxelo situarse nel, consultar rapidamente as diferentes partes e lelo comodamente, sempre dentro dunha mesma linguaxe e coherencia visual, desde a páxina tipo á portada.
+
+      Foron as cores uns dos elementos principais que axudaron a conseguir a unidade gráfica. O vermello utilizámolo como separador, nos títulos de capítulos e subcapítulos, nos filetes de cadros explicativos e nos esquemas simples. O azul, maxenta e amarelo constrúen as explicacións sobre as fotos aéreas, as gráficas e a camisa.
+
+      Na páxina tipo, as imaxes e esquemas que acompañan o texto sitúanse sempre en páxina impar, mentres que o texto discorre principalmente polas impares, nun esforzo continuado por conseguir unha estrutura clara dentro da publicación.
+
+      A tipografía utilizada é a Times para todo o libro, con corpo 12 para o contido principal coa intención de conseguir unha caixa de texto tranquila, cómoda e fácil de ler.
+
+      O tamaño é resultado do tipo de libro que se propón: un manual. A dimensión 17×24 cm faino compacto e manexable, ademais de aproveitar a dimensión 100×70 cm do prego, desbaldindo o menor papel posible.
+
+      Agardamos que a cidade que se propón para o peón sexa o libro para o lector.
+    type: text
+  -
+    image: /portfolios/images/555a4a86b6189-00.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4a86b668d-018.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4a86b6ad2-027.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4a86b701c-036.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4a86b7415-046.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4a86b784e-062.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4a86b7d4d-081.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555a4a86b8155-90.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859aa8b53c9-555a4a86b6ad2-027.jpg
+tags:
+  - Editorial
+members_id:
+  - 26
+  - 31
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: Desescribir
+  -
+    name: Proxecto
+    value: 'La ciudad Paseable. ‘Recomendaciones para la consideración de los peatones en el planeamiento, diseño urbano y la arquitectura’. Julio Pozueta (Dir.), Francisco José Lamíquiz e Mateus Porto'
+  -
+    name: Cliente
+    value: 'CEDEX (Centro de Estudos e Experimentación de Obras Públicas). Ministerio de Fomento'
+  -
+    name: Ano
+    value: '2009'
+draft: true

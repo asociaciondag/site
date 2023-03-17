@@ -1,0 +1,66 @@
+id: 50
+title: 'La Ciudad Massimo Cacciari'
+slug: la-ciudad-massimo-cacciari
+body:
+  -
+    text: |-
+      A finais de 2010 deseñamos para a editorial Gustavo Gili o primeiro libro dunha nova colección que tratará sobre temas relacionados coa cidade e o territorio desde diferentes perspectivas e áreas de coñecemento.
+
+      Xunto cos editores, desenvolvemos unha idea para definir a identidade gráfica da colección que consiste, paradoxalmente, en prescindir dunha gráfica constante a aplicar en todos os libros da colección, e tentar, case de maneira experimental, que a identidade da colección se vaia formando desde a heteroxeneidade e desde os puntos de vista particulares que achegue cada novo autor co seu texto.
+
+      Cremos que no momento actual, no que a realidade é cada vez máis necesariamente antidogmática, e no que só é posible achegarse á súa compresión desde diferentes disciplinas e actitudes, o deseño dunha colección coma esta ten tamén que fuxir de modelos ríxidos que non reflictan esa complexidade e diversidade.
+
+      Partindo desta idea, os elementos que se manterán constantes nos diferentes libros serán máis físicos que gráficos: un mesmo formato (15×24 cm) de proporción 5:8 —manexable para a súa lectura en calquera lugar, compatible co formato de prego 70×100 e flexible, ademais, para maquetar fotografías, planos ou esquemas—, o material da cuberta en diversas cores (cartonciño ou _folding_  estucado por unha cara); e unha encadernación tipo _otabind_ que permite a apertura total do libro e o aproveitamento máximo da superficie do papel.
+
+      Á parte do texto, no que Massimo Cacciari expón un percorrido histórico polas diferentes fases evolutivas da cidade (_polis, civitas,_ cidade, metrópole e posmetrópole ou cidade territorio), o libro propón un discurso complementario e paralelo a través das fotocolaxes de Thomas Bayrle.
+
+      Para darlle personalidade a cada un dos dous discursos, decidimos imprimilos en diferentes tipos de papel: _offset_  para o texto, e estucado mate para as fotocolaxes, intercalando estes últimos entre os pregos de texto, e facéndoos máis curtos na súa lonxitude horizontal.
+
+      A tipografía que empregamos para o texto é a Bembo —tipografía de carácter clásico— que dá calidez e lexibilidade. Na elección tamén influíu a súa orixe veneciana, cidade á que está intimamente ligada o autor, e por coincidir no momento da súa creación (Renacemento) coa época na que se establecen as primeiras teorías de deseño urbano moderno en Europa. Para encabezamentos e folios explicativos eliximos a Whitney —de Hoefler &amp; Frere-Jones— como contraste coa tipografía principal e polo o seu carácter ecléctico e contemporáneo.
+
+      Para a portada, asociamos cada unhas das fases da evolución urbana (_polis, civitas,_ cidade, metrópole e posmetrópole) a unha unidade de trama representativa —círculo para a _polis_ grega, cruz para a _civitas_ romana (cardo e decumanus), aspa para a cidade medieval (puntos estruturadores do territorio), un dobre círculo para a metrópole (centro e periferia) e trama de puntos para a cidade difusa no territorio— e superpuxemos as diferentes tramas escribindo o nome de cada forma urbana coa súa trama asociada, reflectindo así a evolución que amosa o libro, configurando unha maior densidade de tramas no centro do libro e súa expansión e crecemento cara aos seus límites.
+    type: text
+  -
+    image: /portfolios/images/55576701b0720-01.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55576701b0720-02.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55576701b0720-03.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55576701b0720-04.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55576701b0720-06.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55576701b0720-08.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5585676d8bc4b-55576701b0720-03.jpg
+tags:
+  - Editorial
+members_id:
+  - 26
+  - 31
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: Desescribir
+  -
+    name: Cliente
+    value: 'Editorial Gustavo Gili'
+  -
+    name: Ano
+    value: '2010'
+draft: true

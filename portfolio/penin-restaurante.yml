@@ -1,0 +1,23 @@
+id: 245
+title: 'Penin Restaurante'
+slug: penin-restaurante
+body:
+  -
+    image: /portfolios/images/penin-restaurante-2016-branding-y-comunicacion-visual.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//penin-restaurante-2016-branding-y-comunicacion-visual.jpg
+tags:
+  - 'Identidade corporativa'
+  - Gráfico
+members_id:
+  - 67
+lang: es
+info:
+  -
+    name: Proyecto
+    value: 'Penin Restaurante'
+  -
+    name: Año
+    value: '2016'
+draft: false

@@ -1,0 +1,41 @@
+id: 28
+title: Nós
+slug: nos
+body:
+  -
+    text: 'A Agrupación Cultural Nós de Moaña ven editando, dende o ano 2011, unha colección de catro volumes que recollen unha mostra do seu arquivo fotográfico relacionado coa historia da localidade. Este arquivo conta con imaxes datadas dende finais do século XIX ata a época actual, sendo de especial interese, pola súa calidade e valor documental, as realizadas nos estudios de Pacheco, Kasado, Cantero, Sarabia, Gayo e Gil. Tamén é de gran interese as imaxes da vila Morracense pertencentes á reportaxe que Ruth Matilda Anderson desenvolveu para a Hispanic Society of America, no seu percorrido por Galicia nos anos vinte.'
+    type: text
+  -
+    image: /portfolios/images/5564c48c3e053-mg-0019.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c48c3ecc3-mg-0062.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c48c3f23b-mg-0073.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c48c3f833-mg-0077.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c48c3febb-mg-00581.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/558560e1adaff-5564c48c3e053-mg-0019.jpg
+tags:
+  - Editorial
+members_id:
+  - 33
+lang: gl
+info:
+  -
+    name: Cliente
+    value: 'Agrupación Cultural Nós (Moaña)'
+  -
+    name: Ano
+    value: '2012'
+draft: true

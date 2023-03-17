@@ -1,0 +1,34 @@
+id: 404
+title: 'Le Boitier (Reducir, Reciclar, Reutilizar)'
+slug: le-boitier-reducir-reciclar-reutilizar-g
+body:
+  -
+    text: |-
+      O mellor residuo é o que aínda non se produciu. Por tanto, PVL beauté deume a tarefa de deseñar un empaquetado cosmético totalmente personalizable, que fose apto para todo tipo de tons ou produtos de maquillaxe e que fose resistente e duradeiro. Cunha estrutura de zamak como base, deseñei unha funda decorativa e un sistema de contedor de maquillaxe que permitise aos usuarios personalizar o seu packaging. Por tanto, posuiríano e crearían un vínculo emocional con el. Todo está deseñado para que os usuarios que teñen máis dun contedor poidan almacenar todos os contedores facilmente e ser transportados cando viaxan. Para este proxecto traballei na selección de cor e materiais, a ideación do concepto, o seu deseño ou usos e o desenvolvemento do produto.
+
+       
+       
+       
+       
+       
+       
+    type: text
+  -
+    image: /portfolios/images/boitierrr-cover-alternance-fond-transparent.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/exploded-view.png
+    text: ''
+    type: image
+cover: /portfolios/covers//boitierrr-cover-alternance-fond-transparent.png
+tags:
+  - Produto
+members_id:
+  - 64
+lang: gl
+info:
+  -
+    name: Cliente
+    value: 'PVL beauté'
+draft: false

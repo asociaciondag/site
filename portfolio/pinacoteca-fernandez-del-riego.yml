@@ -1,0 +1,87 @@
+id: 41
+title: 'Pinacoteca Fernández del Riego'
+slug: pinacoteca-fernandez-del-riego
+body:
+  -
+    text: |-
+      A Pinacoteca Fernández del Riego de Vigo alberga a colección de arte máis dilatada e completa da tradición pictórica galega dos séculos XIX e XX.
+
+      Unha característica ventá en forma de L invertido presente na fachada do edificio que acolle a colección serve como argumento para crear a identidade. Con este símbolo desenvólvese un programa completo de sinalización.
+    type: text
+  -
+    image: /portfolios/images/56fb91e9bba8f-pinacoteca-01-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb91e9bc7e1-pinacoteca-02-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb91e9bcbba-pinacoteca-03-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb91e9bcfda-pinacoteca-04-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb91fea1faa-pinacoteca-05-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb92204594f-pinacoteca-06-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb9236882e7-pinacoteca-07-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb924ee2ae5-pinacoteca-08-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb92632f124-pinacoteca-09-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb9277558d2-pinacoteca-10-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb9289ac584-pinacoteca-11-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb929c21cd1-pinacoteca-12-desonhos.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/56fb92ae2e25f-pinacoteca-13-desonhos.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5585655045aa4-555cf4159aafe-dag004-pinacoteca001.jpg
+tags:
+  - 'Identidade corporativa'
+  - Sinalética
+members_id:
+  - 2
+  - 16
+  - 45
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: Desoños
+  -
+    name: Cliente
+    value: 'Concello de Vigo'
+  -
+    name: Ano
+    value: 2011-2012
+  -
+    name: Colaboradores
+    value: 'Rehabilitación do edificio Rodríguez e Rivoira Arquitectos'
+draft: false

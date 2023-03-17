@@ -1,4 +1,5 @@
 ---
+id: home
 css: [/css/home.css]
 js: [/js/home.js]
 ---
@@ -11,7 +12,8 @@ js: [/js/home.js]
 	</div>
 
 	<nav>
-		<a class="button-normal" href="<?= $this->url('news') ?>"><?= __('Ver máis noticias') ?></a>
+		{% set page = search.page("id=news lang=" + lang) %}
+		<a class="button-normal" href="{{ page.url }}">{{ t.home.more_news }}F</a>
 	</nav>
 </section>
 

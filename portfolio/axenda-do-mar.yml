@@ -1,0 +1,42 @@
+id: 93
+title: 'Axenda do mar'
+slug: axenda-do-mar
+body:
+  -
+    text: |-
+      A Axenda do mar foi un proxecto realizado conxuntamente co Grupo Etnográfico Mascato e coa coordinación de Acordar, que consistía na creación dunha axenda dedicada ao mar con motivo da participación de Galicia como país invitado de honor na Festa Marítima de Brest. A axenda contiña bastante información sobre a relación que historicamente Galicia sempre tivo co mar en todos os niveis (cultural, social, artístico, etc). Cada unha das semanas ocupaba unha dobre páxina e incluía un refrán relacionado co mar, unha obra pictórica ou fotográfica, outra literaria (poemas, relatos, etc) e de vez en cando algún texto breve con información sobre personaxes ilustres ou efemérides. No caso das datas sinaladas proporcionábase información sobre festas gastronómicas, afundimentos, naufraxios ou outros acontecementos relevantes. Aínda que a axenda estaba en galego, os días da semana tamén aparecían en bretón.
+
+      Para o deseño busquei o equilibrio entre unha axenda ao uso e un pequeno monográfico sobre o mar, para o que fuxín do formato de grella ríxida que adoitan ter as axendas e creei dobres páxinas máis variadas. As tipografías empregadas foron a Adobe Garamond polos seus fermosos e elegantes números e a Profile, unha tipografía de pau seco de formas clásicas que combina perfectamente coa Garamond pero cunha aparencia moito máis contemporánea. Empreguei a cor para o tratamento da información: o azul reserveino para os textos en bretón e o vermello para as festividades. O resultado foi un fermoso libro con grande acollida como se mostra neste artigo de [Méndez Ferrín](http://www.farodevigo.es/secciones/noticiaOpinion.jsp?pRef=3258_5_198719__Opinion-Tuir-Breogain).
+    type: text
+  -
+    image: /portfolios/images/5585a068cf900-portada.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a068cfe83-aberto1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a068d02cb-aberto2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a068d06c6-detalle.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5585a068cf45f-portada.jpg
+tags:
+  - Editorial
+members_id:
+  - 35
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Cliente
+    value: 'Acordar / Xunta de Galicia'
+  -
+    name: Ano
+    value: '2008'
+draft: true

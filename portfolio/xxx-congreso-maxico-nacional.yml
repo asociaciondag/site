@@ -1,0 +1,37 @@
+id: 59
+title: 'XXX Congreso Máxico Nacional'
+slug: xxx-congreso-maxico-nacional
+body:
+  -
+    text: 'Cartel xeral do XXX Congreso e variacións para outras actividades relacionadas.'
+    type: text
+  -
+    image: /portfolios/images/55859c72b247a-01-cartazmaxia.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859c72b29d5-02-cartazmaxia.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55859c72b2f28-03-cartazmaxia.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859e1ac8b59-02-cartazmaxia.jpg
+tags: []
+members_id:
+  - 5
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: 'Grupo Revisión Deseño'
+  -
+    name: Cliente
+    value: 'Producións As de Corazóns / Concello da Coruña'
+  -
+    name: Ano
+    value: '2010'
+draft: false

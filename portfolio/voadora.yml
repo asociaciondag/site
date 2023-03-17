@@ -1,0 +1,22 @@
+id: 376
+title: Voadora
+slug: voadora
+body:
+  -
+    text: 'Deseño da imaxe gráfica da compañía Voadora.'
+    type: text
+  -
+    image: /portfolios/images/voadora-completo.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//portadavoadora.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 81
+lang: gl
+info:
+  -
+    name: Cliente
+    value: Voadora
+draft: false

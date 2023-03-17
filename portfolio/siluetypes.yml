@@ -1,0 +1,34 @@
+id: 102
+title: Siluetypes
+slug: siluetypes
+body:
+  -
+    text: 'Siluetypes é un proxecto persoal de ilustración e micro-relatos que pretende reunir a algúns dos nosos referentes e colaboradores creativos, ao redor á caligrafía. Co paso do tempo imos construíndo un novo alfabeto con aqueles descartes producidos en diferentes proxectos, letras orfas que son o punto de partida para a inspiración de situacións e historias inéditas. Enviámoslles a diferentes autores estas ilustracións para que completen unha narración breve, que posteriormente serán recollidas nunha colección de serigrafías e un libro de edición limitada.'
+    type: text
+  -
+    image: ''
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c790eb332-siluetypes1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c790eb9d5-siluetypes2.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859adcd6e21-siluetypes1.jpg
+tags:
+  - Editorial
+  - Tipografía
+members_id:
+  - 33
+lang: gl
+info:
+  -
+    name: Cliente
+    value: Autopromoción
+  -
+    name: Ano
+    value: '2009'
+draft: false

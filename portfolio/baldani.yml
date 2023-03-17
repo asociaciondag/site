@@ -1,0 +1,22 @@
+id: 237
+title: Baldani
+slug: baldani
+body:
+  -
+    image: /portfolios/images/baldani-2016-branding.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//baldani-2016-branding.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 67
+lang: gl
+info:
+  -
+    name: Proxecto
+    value: Baldani
+  -
+    name: Ano
+    value: '2016'
+draft: false

@@ -1,0 +1,43 @@
+id: 105
+title: 'Restaurante O Almacén de Teresa'
+slug: restaurante-o-almacen-de-teresa
+body:
+  -
+    text: 'O proxecto O almacén de Teresa responde a unha desas iniciativas que buscan combinar tradición e modernidade. O xerente do restaurante, un _chef_ coa crenza profundamente arraigada de que cómpre preservar a cociña tradicional, pensaba nunha identidade para o seu establecemento que lle deixase claro ao cliente que estaba indo a comer a un lugar á antiga usanza, pero nun ambiente de hoxe. A imaxe da marmita, símbolo tradicional da antiga cociña, acapara a atención cara a un escenario no que se cocen tipograficamente varios pratos da carta.'
+    type: text
+  -
+    image: /portfolios/images/555cde081b311-caccamo-dag-3e1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cde081c31d-caccamo-dag-3d.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cde081d06d-caccamo-dag-3c.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cde081de52-caccamo-dag-3a.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cde081ee3a-caccamo-dag-3b.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859e0940351-555cde081b311-caccamo-dag-3e1.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 7
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Cliente
+    value: 'O Almacén de Teresa'
+  -
+    name: Ano
+    value: '2010'
+draft: false

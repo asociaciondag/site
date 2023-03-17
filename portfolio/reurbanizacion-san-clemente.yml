@@ -1,0 +1,63 @@
+id: 15
+title: 'Reurbanización San Clemente'
+slug: reurbanizacion-san-clemente
+body:
+  -
+    text: |-
+      En Maio do 2011 o estudio de arquitectura abalo e alonso encoméndanos o deseño dun libro que recolla a obra de reurbanización do espazo público de San Clemente en Compostela.
+
+      Despois de escoitar, por parte dos autores, a explicación do contexto do encargo e a evolución do proxecto xunto coas modificacións e adaptacións que foron xurdindo durante a obra, decidimos que o libro, máis que presentar a obra como un resultado final, debería mostrar a evolución do proxecto dende o encargo ata a súa construcción.
+
+      Vendo unha obra de arquitectura, aínda para un profesional é moi difícil saber que vontade hai detrás de cada decisión, que reflexión. Facer partícipe ao lector da evolución dun proxecto, da cantidade de decisións a tomar e dos imprevistos que xurden na obra, semellaba un contido máis interesante e formativo: descubrir que pensamento hai detrás dunhas formas determinadas, dun resultado. Estamos convencidos de que é necesario compartir e comunicar os procesos para poder valorar, ampliando a capacidade crítica por parte da sociedade, o traballo dos profesionais.
+
+      A partir desta idea abordamos, en conxunto con abalo e alonso arquitectos, o traballo de edición do libro, dividindo os bloques de contidos en contexto, evolución do proxecto, proxecto e obra.
+
+      A súa vez, os bloques de contidos, estrutúranse por capítulos guiados por dúas voces: unha principal que presenta o capítulo de forma xeral (coa tipografía en corpo 12,5 puntos), e unha segunda voz (coa tipografía a 8 puntos) que vai comentando o proceso apoiándose nos debuxos de traballo, planimetría, esquemas, fotografías, etc.
+
+      Xa que o libro propón unha narración dun proceso, decidimos que o formato tiña que ser cómodo para unha lectura prolongada, así mesmo as características do papel. A publicación ten un tamaño de 150 x 225 mm, manexable cunha soa man. Con respecto ao papel decidimos imprimir sobre un offset de baixa brancura (Munken Pure) para non cansar os ollos e facer máis doada a lectura. Un só prego, o que corresponde ao proxecto, está impreso nun papel diferente, un estucado mate. A razón deste cambio de papel e da súa dimensión horizontal máis curta, é poder voltar ao proxecto en calquera momento; poder, durante a lectura, ir e vir dunha parte específica ao todo. Nesta mesma lóxica, o libro ten xunto a paxinación un sistema de “navegación” que lle indica ao lector onde pode ampliar a información que está lendo nese momento noutro lugar da publicación, establecendo outra dimensión de lectura máis alá da liñal.
+
+      Abalo e alonso insistían, na exposición do proxecto, na idea do espacio público como continuidade; entendían a cidade vella de Compostela como unha secuencia de prazas, cambios de nivel, fontes… Quixemos comunicar esta idea nas cubertas do libro expandíndoas. Coa colaboración do autor das fotografías do libro, Héctor Santos-Díez, construímos un percorrido dende as antigas murallas da cidade ata San Clemente para introducir ao lector no libro, e dende a propia praza ata a Alameda para saír del, para marcharse.
+
+      Gustábanos a idea de levar ao lector da man nun paseo por Compostela.
+    type: text
+  -
+    image: /portfolios/images/555724ae3b35c-0120.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555724ae3b35c-068.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555724ae3b35c-0216.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555724ae3b35c-0315.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555724ae3b35c-0416.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555724ae3b35c-0510.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55855a45a3e9e-555724ae3b35c-0416.jpg
+tags:
+  - Editorial
+members_id:
+  - 26
+  - 31
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Cliente
+    value: 'Abalo Alonso arquitectos'
+  -
+    name: Ano
+    value: '2012'
+draft: true

@@ -36,6 +36,7 @@ site.use(postcss({
 site.use(esbuild());
 site.use(multilanguage({
   languages: ["gl", "es"],
+  defaultLanguage: "gl",
 }));
 site.use(slugifyUrls());
 site.use(relations({

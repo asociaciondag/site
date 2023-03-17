@@ -1,0 +1,55 @@
+id: 180
+title: 'Lugar do real'
+slug: lugar-do-real
+body:
+  -
+    text: |-
+      [Lugar do real](http://lugardoreal.com) é un proxecto creado en 2009 pola asociación [Ao Norte](http://ao-norte.pt) localizada en Viana do Castelo e funciona como un repositorio de documentais audiovisuais de Portugal. En 2015 decidiuse facer un redeseño e aproveitar tamén para facer unha actualización tecnolóxica (eliminar o reproductor flash e usar HTML5 para que os vídeos fosen visibles en calquera dispositivo).
+
+      Mantívose a división en tres grandes seccións, coas súas correspondentes cores
+
+      - _Lugar do real_ (vermello): a sección principal onde están os documentais.
+      - _Escolas_ (azul): que recolle vídeos realizados por estudantes.
+      - _Fotomemória_ (negro): que contén imaxes históricas do século XX.
+       
+      A cor está moi presente en cada unha destas seccións, tanto no fondo como nos distintos elementos interactivos e de navegación. Dóuselle especial importancia ao reproductor de vídeo, creando un gran botón _play_ que inclúe dentro as tres calidades das que dispón cada peza. Tamén se mellorou todo o sistema de categorización e tags, meténdoo nun megamenú desplegable e o sistema de votación foi redeseñado usando un sinxelo círculo que representa visualmente a valoración obtida.
+    type: text
+  -
+    image: /portfolios/images/5762fd1bdf9ba-home-ldr.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5762fd1bdff20-home-responsive-ldr.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5762fd1be0178-seccion-ldr.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5762fd1be0380-fotomemoria-ldr.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5762fd1be05b4-video-ldr.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5762fb06eb162-ldr.png
+tags:
+  - Web
+members_id:
+  - 35
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: 'A navalla suíza'
+  -
+    name: Cliente
+    value: 'AO NORTE . Associação de Produção e Animação Audiovisual'
+  -
+    name: Ano
+    value: '2015'
+draft: true

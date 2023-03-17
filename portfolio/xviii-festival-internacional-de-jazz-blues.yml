@@ -1,0 +1,71 @@
+id: 68
+title: 'XVIII Festival Internacional de Jazz Blues'
+slug: xviii-festival-internacional-de-jazz-blues
+body:
+  -
+    text: 'Festival de Jazz e Blues'
+    type: text
+  -
+    image: /portfolios/images/555ce3497fa8d-pantalla-1-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce3497fe10-pantalla-2-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce349800ba-pantalla-3-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce3498032a-pantalla-4-1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce349805b6-cartel-jazz-e-blues-pontevedra.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce3498098b-festival-de-jazz-cubo.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce34980f0d-festival-de-jazz-lona-farola-2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce34981410-festival-de-jazz-lona-farola.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce3498188f-festival-de-jazz-lona.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce34981cc9-folleto-jazz-desplegado.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555ce34981f98-folleto-jazz-detalle.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/558595608f03c-555ce3497fa8d-pantalla-1-1.jpg
+tags:
+  - Gráfico
+  - Web
+members_id:
+  - 23
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: 'Era Comunicación'
+  -
+    name: Cliente
+    value: 'Concello de Pontevedra. Concellaría de Festas'
+  -
+    name: Ano
+    value: '2010'
+draft: false

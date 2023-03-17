@@ -1,0 +1,23 @@
+id: 369
+title: 'Festival Noroeste'
+slug: festival-noroeste-es
+body:
+  -
+    text: 'Imagen gráfica de las ediciones 29–33.'
+    type: text
+  -
+    image: /portfolios/images/publicacionnoroeste.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//portadanoroeste.jpg
+tags:
+  - 'Identidade corporativa'
+  - Gráfico
+members_id:
+  - 81
+lang: es
+info:
+  -
+    name: Cliente
+    value: 'Ayuntamiento de A Coruña'
+draft: false

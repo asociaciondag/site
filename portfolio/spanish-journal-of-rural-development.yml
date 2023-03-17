@@ -1,0 +1,66 @@
+id: 26
+title: 'Spanish Journal of Rural Development'
+slug: spanish-journal-of-rural-development
+body:
+  -
+    text: |-
+      A “Asociación Gallega de Investigadores para el Desarrollo Rural [(AGAIDERU)](http://www.sjruraldevelopment.org/es/docs/agaideru/)“ encárganos no 2012 o redeseño completo da súa web.
+
+      O primeiro que plantexamos á hora de facer de novo o sitio é que máis alá dunha “páxina web” temos que ofrecer un servizo, neste caso orientado a a súa revista, e concretamente os seus contidos.
+
+      Dado a diversidade de usuarios e clientes desenrolamola en dous idiomas, onde prima a limpeza e protagonismo no texto, con páragrafos cómodos de leer e fácil acceso.
+
+      Pensando no futuro e no contido como o activo real da revista, a cada artículo pódenselle asociar palabras clave para relacionar e asociar contidos.
+
+      Paralelamente tamén realizan unha versión impresa. Redeseñados e creamos unha pauta para as cubertas.
+
+      Como eixo central e debido a diversidade temática con carácter científico que tratan, asignamos a cada volumen publicado unha ilustración, relacionada ca temática anual que establece a ONU, dándolle o carácter de ano internacional adicado.
+
+      Polo carácter técnico da publicación, optamos por usar un tipo de ilustración sinxela, feita con líneas de puntos e moi esquemática que transmite ese carácter técnico e preciso.
+
+      ### Outros datos de interese:
+
+      Técnicamente enpregamos Codeigniter, Reticulas cssframework, jQuery… Feita en html5 e CSS3
+
+      <http://www.sjruraldevelopment.org/>
+    type: text
+  -
+    image: /portfolios/images/5585a23a2074d-01.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a23a21368-02.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a23a22867-03.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a23a233b3-04.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5585a23a2388f-05.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5585a23a200c7-04.jpg
+tags:
+  - Web
+members_id:
+  - 11
+  - 15
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: Sond3
+  -
+    name: Cliente
+    value: 'Asociación Gallega de Investigadores para el Desarrollo Rural (AGAIDERU)'
+  -
+    name: Ano
+    value: 2012-2013
+draft: false

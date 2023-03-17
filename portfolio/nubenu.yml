@@ -1,0 +1,22 @@
+id: 249
+title: NUBENU
+slug: nubenu
+body:
+  -
+    image: /portfolios/images/nubenu.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//nubenu.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 67
+lang: es
+info:
+  -
+    name: Proyecto
+    value: 'Nubenu. Tenda online'
+  -
+    name: Año
+    value: '2018'
+draft: false

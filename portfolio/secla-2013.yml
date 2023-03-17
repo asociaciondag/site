@@ -1,0 +1,47 @@
+id: 13
+title: 'Secla 2013'
+slug: secla-2013
+body:
+  -
+    text: |-
+      O deseño do cartel para o 12º Congreso da Sociedade Española de Cirugía Laparoscópica iniciouse co deseño da súa identidade, a cal varía anualmente.
+
+      O concepto da identidade do congreso xira arredor dunha vista cenital das tres aberturas quirúrgicas sobre o corpo humano que a laparoscopia necesita para a súa manipulación, círculos a través dos cales o instrumental accede ao interior, para a súa curación. Un concepto que os profesionais asistentes ao congreso coñecen perfectamente.
+
+      Limpeza, formas puras, comunicación directa, cores contrastadas e un tipo de alta lexibilidade como é o Avenir, forman os ingredientes dunha estrutura de cartel na que a propia laparoscopia é a protagonista.
+    type: text
+  -
+    image: /portfolios/images/555cdc1b10724-r-caccamo-3a.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cdc1b10ff5-r-caccamo-3b.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cdc1b11587-r-caccamo-3c.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555cdc1b118e2-r-caccamo-3d.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/558558b4798b2-555cdc1b118e2-r-caccamo-3d.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 7
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Proxecto
+    value: 'Congreso SECLA 2013'
+  -
+    name: Cliente
+    value: 'Sociedad Española de Cirugía Laparoscópica y Robótica'
+  -
+    name: Ano
+    value: '2013'
+draft: false

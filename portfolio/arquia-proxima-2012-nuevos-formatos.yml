@@ -1,0 +1,97 @@
+id: 33
+title: 'Arquia/próxima 2012. Nuevos Formatos'
+slug: arquia-proxima-2012-nuevos-formatos
+body:
+  -
+    text: |-
+      O concurso arquia/próxima, organizado pola Fundación Caja de Arquitectos, ten como finalidade dar apoio e difusión aos arquitectos do estado nos primeiros dez anos de exercicio profesional.
+
+      O encargo requería dar identidade gráfica ao concurso e ao foro arquia/próxima do ano 2012, titulado “Nuevos Formatos”. Os soportes que era preciso deseñar eran: un cartel, un políptico e un catálogo físico e dixital (web) coas obras recoñecidas.
+
+      Desde o inicio do proxecto consideramos a relación entre os soportes en base a unha idea e un concepto máis que mediante a aplicación constante dunha gráfica determinada. Coas cores corporativas e co formato do catálogo en papel xa determinados, comezamos a indagar sobre a finalidade do concurso: a visibilidade e promoción dos estudios de arquitectos novos. Con ese obxectivo en mente, e tendo sempre presente o título de ‘Nuevos Formatos’, pensamos nos fanzines, publicacións autoeditadas moi comúns no mundo da arquitectura desde os anos 60, como base da identidade do concurso, relacionando, a través dese formato, os seus distintos soportes.
+
+      Por outra banda, coa intención de comunicar o desgaste que leva consigo o concepto de ‘Nuevo’ no mundo da arquitectura e do deseño, deseñamos a identidade visual en contradición co título ‘Nuevos Formatos’, elaborando impresións ‘analóxicas’ mediante técnicas case en desuso: tipografías de madeira, diferentes plantillas, máquinas de escribir… posteriormente dixitalizadas, continuando coa lóxica da autoedición e do feito por un mesmo (DIY) do fanzine
+    type: text
+  -
+    info:
+      code: '<iframe src="https://player.vimeo.com/video/49371560" width="1280" height="720" frameborder="0" title="Nuevos Formatos &mdash; arquia/pr&oacute;xima 2012" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+      ratio: '56.25'
+    type: embed
+  -
+    text: |-
+      ### Fanzines
+
+      Maquetouse un fanzine para cada proxecto seleccionado no concurso (120 fanzines, 1920 páxs.). Os fanzines poden ser descargados dende a páxina do concurso como un arquivo PDF en formato A4 para despois ser impresos nunha impresora doméstica, dobrados e montados cun formato final de A5. Cada usuario pode descargar e construir os fanzines dos proxectos que lle resulten máis interesantes, creando unha colección persoal arquia/próxima 2012. Unhas instruccións de montaxe acompañan a cada pdf descargable.
+
+      ### Carteis e Polípticos
+
+      Para o deseño do material de promoción e difusión do foro e do concurso deseñamos un cartel en formato A0, que dobrado, cortado e grampado construía un políptico/fanzine en formato A5. Imprimíronse tres versións diferentes de cartel segundo o método de impresión da tipografía: stencil (pochoir), plantillas de rotulación e tipografías de madeira.
+
+      ### Catálogo
+
+      Seguindo a lóxica de relación entre os diferentes soportes, quixemos que o catálogo reflexase tamén a idea do fanzine. Dentro do formato xa determinado das publicacións da Fundación Caja de Arquitectos, introducimos un encarte en formato A5 para cada proxecto. En cada encarte, un código QR enlaza coa páxina do catálogo dixital (web) de arquia/próxima onde se pode consultar e ampliar a información do proxecto que aparece no propio libro, ademais de ter a posibilidade de descargar o seu fanzine específico.
+
+      Con esta estratexia, contando coas limitacións de espazo do libro e co volume de información dispoñible, o catálogo físico funciona máis como unha presentación de todos os proxectos seleccionados que despois é ampliada no catálogo dixital, onde a documentación de cada proxecto pode ser máis exhaustiva e onde é posible, ademais, incorporar outro tipo de información (videos, mapas, etc.).
+
+      ### Catálogo dixital
+
+      O catálogo dixital (web) deseñouse como un respositorio de todas as obras seleccionadas (120) para que fose posible acceder á diferente información de cada proxecto (imaxes, planos, videos, mapas,…) con facilidade e de maneira áxil. Conscientemente se reduciron os elementos de interación co usuario para facer máis inmediata a navegación. A programación da web se elaborou con criterios de deseño adaptable aos diferentes dispositivos de visualización.
+
+      ### Trofeo
+
+      Para recoñecer as obras premiadas, en vez de deseñar e elaborar un trofeo máis ou menos convencional, e seguindo coa lóxica de adaptabilidade de formatos entre os diferentes soportes de comunicación do premio, deseñamos unha publicación que reunía os 24 fanzines das obras candidatas. Aos autores de cada obra candidata aos premios se lle outorgou unha publicación personalizada, na que o seu fanzine foi impreso nun papel de cor amarela. O libro/trofeo funcionaba ao mesmo tempo como diploma.
+    type: text
+  -
+    image: /portfolios/images/555763b170626-0114.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555763b170626-02.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555763b170626-031.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555763b170626-04.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555763b170626-05.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555763b170626-06.png
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/555763b170626-07.png
+    text: ''
+    type: image
+cover: /portfolios/covers/558600224f027-555763b170626-0114.jpg
+tags:
+  - Gráfico
+  - Editorial
+  - Web
+members_id:
+  - 10
+  - 26
+  - 31
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: Desescribir
+  -
+    name: Cliente
+    value: 'Fundación Caja de Arquitectos'
+  -
+    name: Ano
+    value: '2012'
+  -
+    name: Colaboradores
+    value: 'Rebeca Ces (maquetación), Pablo Golpe (redes sociais), Xiao Varela (coordinación e deseño), estudiocaravana (web), Luis Díaz Díaz (fotografías)'
+draft: true

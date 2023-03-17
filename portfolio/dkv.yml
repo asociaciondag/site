@@ -1,0 +1,22 @@
+id: 247
+title: DKV
+slug: dkv
+body:
+  -
+    image: /portfolios/images/dkv-2018-rebranding.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers//dkv-2018-rebranding.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 67
+lang: es
+info:
+  -
+    name: Proyecto
+    value: 'DKV. Dekove Rehabilitaciones'
+  -
+    name: Año
+    value: '2018'
+draft: false

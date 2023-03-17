@@ -1,0 +1,29 @@
+---
+layout: ./base.njk
+---
+
+<div class="wrapper">
+  {% for year, projects in search.pages("type=project lang=" + lang) | groupby("year") %}
+    <section class="ly-group">
+      <h1>{{ year }}</h1>
+
+      <div>
+        {% for project in projects %}
+          <article class="project project-list">
+            <a href="{{ project.external_url }}">
+              <figure class="project-image">
+                <img src="<?= Img::getUri($project->cover, 'resizeCrop,420,200') ?>">
+              </figure>
+
+              <header class="project-header">
+                <h1>
+                  {{ project.title }}
+                </h1>
+              </header>
+            </a>
+          </article>
+        {% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+</div>

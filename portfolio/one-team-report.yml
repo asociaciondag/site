@@ -1,0 +1,24 @@
+id: 303
+title: 'One Team Report'
+slug: one-team-report
+body:
+  -
+    text: '[→ Visitar a web](https://oneteam.report)'
+    type: text
+  -
+    image: /portfolios/images/landing-page.png
+    text: ''
+    type: image
+cover: /portfolios/covers//marca.png
+tags:
+  - 'Identidade corporativa'
+  - Web
+  - UX/UI
+members_id:
+  - 69
+lang: gl
+info:
+  -
+    name: Cliente
+    value: 'proxecto propio'
+draft: false

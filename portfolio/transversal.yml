@@ -1,0 +1,71 @@
+id: 39
+title: Transversal
+slug: transversal
+body:
+  -
+    text: |-
+      ransversal naceu no verán de 2012 como unha publicación impresa gratuíta co obxectivo de recoller o traballo creativo de fotógrafos, deseñadores, ilustradores, arquitectos, vídeo creadores, artistas, autores literarios e moitas outras disciplinas, que residen no Morrazo ou que teñen unha vinculación especial coa comarca.
+
+      Procuramos facer visible o Morrazo actual, ecléctico, local e global ao mesmo tempo. Os nosos elementos culturais, os que nos diferencian e conforman unha identidade, misturados coas posibilidades da comunicación e da información a través da rede serven aos creativos para desenvolver discursos totalmente contemporáneos, interesantes e comprensibles en calquera parte do mundo. Pretendemos establecer un punto de encontro para os propios autores e o público en xeral, nunha rexión maioritariamente rural e periférica aos núcleos principais da creatividade do país.
+
+      Por outra banda, entendemos que a creatividade e a cultura poden ser medios dinamizadores socioeconómicos. Divulgando o traballo creativo dos profesionais esperamos estimular tamén a demanda no tecido económico, introducindo finalmente os elementos de identidade e innovación necesarios para o desenvolvemento local.
+
+      <http://transversalmagazine.com>  
+       <https://www.facebook.com/transversal.magazine>  
+       <https://twitter.com/TransversalMgz>
+
+      Transversal Magazine é un proxecto persoal de Martiño Villaverde e Marcela Orozco.
+    type: text
+  -
+    image: /portfolios/images/5564c56660a6c-tr.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c56661485-tr1.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c56661b1b-tr2.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c566621fe-tr3.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c56662730-tr4.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c56662d1c-tr5.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c5666341d-tr6.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c56663a12-tr7.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/5564c5666401b-tr8.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/5585645f2f5b3-5564c5666401b-tr8.jpg
+tags:
+  - Editorial
+members_id:
+  - 33
+lang: gl
+info:
+  -
+    name: Proxecto
+    value: 'Revista Transversal'
+  -
+    name: Cliente
+    value: 'Proxecto persoal'
+  -
+    name: Ano
+    value: '2012'
+draft: true

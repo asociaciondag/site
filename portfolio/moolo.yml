@@ -1,0 +1,56 @@
+id: 103
+title: Moolo
+slug: moolo
+body:
+  -
+    text: |-
+      A Fundación María Martínez Otero escolleu como tema para a terceira edición do seu concurso o mobiliario infantil. A nosa proposta estruturouse ao redor de dous eixos de traballo que debían acabar confluíndo nun único resultado: Un que viña dado pola compoñente moble, máis vinculada á función de uso -ou ao que para os adultos representa a ‘razón’-, e outro igual de necesario que representa a función lúdica -’emoción’-, dirixida a crear un vínculo emocional entre peza e usuario.
+
+      Froito desta formulación xorde Moolo, un obxecto a cabalo entre distintas tipoloxías de mobiliario (é un carriño, pero tamén un asento, e unha mesa, e un contedor), un obxecto cun vocabulario de formas primarias e de fácil comprensión, un obxecto flexible e manexable que estimula a capacidade imaxinativa dos cativos. Un obxecto -en definitiva- cunha concepción aberta, sen prexuízos, como a mirada dos nenos.
+    type: text
+  -
+    image: /portfolios/images/55571fa455cc8-moolo_01.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55571fa455cc8-moolo_02.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55571fa455cc8-moolo_03.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55571fa455cc8-moolo_04.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55571fa455cc8-moolo_05.jpg
+    text: ''
+    type: image
+  -
+    image: /portfolios/images/55571fa455cc8-moolo_06.jpg
+    text: ''
+    type: image
+cover: /portfolios/covers/55859dc8b4641-55571fa455cc8-moolo-01.jpg
+tags:
+  - Mobiliario
+  - Produto
+members_id:
+  - 13
+  - 27
+  - 30
+lang:
+  - gl
+  - es
+info:
+  -
+    name: Estudio
+    value: Cenlitrosmetrocadrado
+  -
+    name: Cliente
+    value: 'Fundación María Martínez Otero'
+  -
+    name: Ano
+    value: '2008'
+draft: false
