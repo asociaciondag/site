@@ -1,0 +1,144 @@
+id: 15
+title: 'Reflexiones sobre diseño de archivos digitales'
+author: 'María Agra'
+body:
+  -
+    text: |-
+      El campo de los archivos digitales está adquiriendo mayor relevancia pues cada vez son más las empresas que invierten en la digitalización de sus archivos físicos para conservar los materiales, a menudo frágiles, y a su vez ofrecer mayor acceso a audiencias no especializadas. Diseñar modos de acceder a estas colecciones a través de una pantalla es un reto interesante y a la vez fascinante, del que he sido partícipe directa en estos dos últimos años gracias a mi trabajo en la agencia [Keepthinking](https://www.keepthinking.it/) de Londres.
+
+      Keepthinking ha diseñado sitios web y proporcionado sistemas de gestión de colecciones para empresas como Sainsbury’s, una icónica cadena de supermercados británicos, el Lloyds Register Foundation Heritage Centre, un vastísimo archivo de materiales –los más antiguos datan de los años 30 del siglo XIX–, o GSK (GlaxoSmithKline), la empresa farmacéutica más antigua del Reino Unido, cuyos archivos contienen tanto información sobre productos y marcas como documentos relativos a finanza y manejo de las empresas e instalaciones desde 1747 hasta la actualidad.
+
+      ## ¿Qué es un archivo? 
+
+      Para comenzar habrá que definir qué es un archivo. Un archivo es una acumulación de documentos históricos catalogados de manera ordenada. Estos documentos pueden ser papeles, registros sonoro, vídeos, fotografías, objetos e incluso ficheros digitales. Un archivo se puede usar para guardar varios tipos de contenido, ya sean bibliotecas para conservar sus manuscritos, ya sean archivos personales que documentan la vida de una persona, u otros relativos a la preservación de la historia y evolución de una empresa. Estos últimos son considerados como activos para un número cada vez mayor de empresas, ya que los documentos que contienen pueden ser utilizados para tomar decisiones en el ámbito legal, de marketing, de comunicación o de gestión. De modo que a la vez que tenemos un elemento de nostalgia, un archivo también es una importante inversión en el futuro de la empresa.
+    type: text
+  -
+    image: /img/articles/images/00-gsk.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## ¿Cómo se cataloga un archivo? 
+
+      Un archivo normalmente se cataloga con una estructura jerárquica, organizado en niveles que van desde los más amplios (fondos) a los más específicos (expedientes y documentos).
+
+      Los fondos dan al investigador una visión general de la colección. Las descripciones van siendo más detalladas cuanto más bajo sea el nivel dentro del archivo. Esta estructura y terminología son convenciones que los archivistas utilizan para navegar y organizar el contenido de una colección.
+
+      ## ¿Por qué usar archivos digitales? 
+
+      Los archivos tradicionales basados en documentos y clasificaciones en papel paulatinamente ven incrementada la digitalización de su contenido por varias razones; una de las más importantes radica en eludir las dificultades y limitaciones que tienen los investigadores para acceder a documentos físicos; por contra, los archivos digitales permiten un mayor y más fácil acceso, especialmente en estos tiempos que corren. La combinación de un gestor de colecciones _online_ y una interfaz adaptada a las necesidades de la audiencia permiten mejorar el acceso a la colección tanto para archivistas e investigadores como para el público en general.
+
+      ## Cuando los archivos digitales se encuentran con la experiencia de usuario
+
+      El gestor de colecciones de Keepthinking, llamado [Qi](https://www.keepthinking.it/qi-the-universal-content-management-solution), puede usarse tanto para gestionar la colección como el contenido de la web. Esto nos permite trabajar mano a mano con nuestros clientes del sector de la cultura y el patrimonio para diseñar sitios web de archivos.
+
+      Desde el punto de vista de la experiencia de usuario o UX, diseñar una web para un archivo o colección presenta un reto muy interesante. Como hemos dicho anteriormente, acceder al contenido de un archivo puede ser difícil para una persona ajena al campo de la archivística, ya que la estructura y terminología han sido diseñadas para especialistas en el tema. Comprender cómo ha sido organizado el archivo es clave en el proceso de convertir estos recursos en accesibles para el gran público. Cada archivo es único en su estructura y contenido, por lo que tener en mente una idea clara de lo que hay en él nos ayuda a plantear formas de acceder al contenido.
+
+      ## Una amplia gama de usuarios
+
+      El primer paso en el proceso de diseño, tras habernos familiarizado con el archivo, es conocer a nuestra audiencia. A menudo nos encontramos con que debemos tener en cuenta a usuarios con múltiples niveles de conocimiento y habilidades, desde archivistas e investigadores, que podrán navegar la jerarquía con comodidad, a personas que están buscando algo en particular, como por ejemplo una persona del departamento de comunicación de una empresa que necesite imágenes de archivo para ilustrar materiales promocionales. Además de estos grupos, también debemos tener en cuenta a usuarios que quizás están simplemente navegando la web para ver si encuentran algo que les llame la atención.
+
+      Por ejemplo, cuando diseñé la web de los [archivos de GSK](https://www.gsk.com/en-gb/about-us/our-history/gsk-heritage-archives/), una web a la que sólo empleados de la farmacéutica pueden acceder, fijamos como uno de los objetivos el ayudarles en la búsqueda de aquellos documentos necesarios para completar sus tareas diarias, como pueden ser determinados documentos legales o bien imágenes. Al mismo tiempo, debíamos permitir que cualquier empleado sin dicho objetivo también pudiese explorar y descubrir la riqueza del archivo de su empresa. Por esta razón, el mayor reto al que nos enfrentamos al diseñar este proyecto fue el encontrar diferentes maneras de presentar una colección, de entrada no muy visual, como suelen ser los archivos de empresa en los que principalmente se guardan documentos en papel, y hacerlo de una manera fácil y atractiva visualmente.
+
+      ## Múltiples puntos de acceso
+
+      Por ello, crear múltiples puntos de acceso a la colección es esencial para lograr una experiencia de usuario exitosa. Un elemento clave para crear estos puntos de acceso radica en la construcción de narrativas alrededor de la colección. Durante el proceso de diseño, buscamos cómo encontrar hilos que agrupen contenido para promover que los usuarios descubran contenido. Estos hilos pueden tomar la forma de cronogramas, contenido seleccionado como temas, artículos e incluso árboles genealógicos, como podemos ver en la web de [Sainsbury Archive](https://www.sainsburyarchive.org.uk/), el archivo de la cadena de supermercados fundada en 1869.
+    type: text
+  -
+    image: /img/articles/images/01-sainsbury-s-timeline.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: 'Otros recursos empleados en la web de Sainsbury’s consisten en un [mapa que contiene la ubicación física de todas las tiendas](https://www.sainsburyarchive.org.uk/branch/branches), almacenes, granjas y oficinas pertenecientes a la cadena desde su fundación, mapa que permite a los usuarios ver la expansión del negocio a través de una animación, buscando por tiendas o ubicación.'
+    type: text
+  -
+    image: /img/articles/images/02-sainsbury-s-map.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: 'En la web del [Shakespeare Birthplace Trust](http://collections.shakespeare.org.uk/), que aloja una de las colecciones más importantes de material relacionado con el escritor inglés a nivel mundial, la página principal o _home_ tiene el objetivo de proporcionar múltiples puntos de acceso. Un simple formulario de búsqueda toma el primer plano cuando el usuario llega a la página, mientras que si se desplaza hacia abajo podrá encontrar modos de explorar la colección por narrativas, desde exposiciones _online_ a blogs, así como búsquedas predeterminadas que muestran el número total de objetos en cada una de las tres colecciones.'
+    type: text
+  -
+    image: /img/articles/images/03-sbt-homepage.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: 'Otro ejemplo es la web del [archivo de Charlie Chaplin](http://www.charliechaplinarchive.org/), la cual agrupa los documentos personales y profesionales del director y actor conservados en la Cineteca de Bolonia (Italia); la página de historias (‘[Stories](http://www.charliechaplinarchive.org/en/stories/storie)’) funciona como recurso didáctico gracias al cual los artículos cortos traen a la luz aspectos de la vida de Chaplin relacionados con documentos del archivo.'
+    type: text
+  -
+    image: /img/articles/images/04-chaplin-stories.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## Satisfaciendo las necesidades de archivistas e investigadores
+
+      Una parte esencial de cualquier archivo digital es la página de búsqueda. Los archivistas que quieren encontrar documentos específicos frecuentemente navegan la jerarquía para hacer búsquedas complejas con múltiples criterios, por lo que asegurarse de que su funcionalidad permite llevarlas a cabo es clave en el éxito de un archivo digital.
+    type: text
+  -
+    image: /img/articles/images/05-gsk-browse-vs-list.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: 'En el caso de la web del archivo de GSK, la página de búsqueda permite a los usuarios, por una parte, acceder directamente mediante la introducción de una palabra clave en el formulario y añadir múltiples criterios de forma dinámica y, por otra parte, navegar a través de una jerarquía interactiva o explorar contenido seleccionado en forma de temas; estos permiten traer a primer plano objetos destacados, dando la oportunidad a los usuarios de ver documentos en contexto y ser guiados por secciones de la colección.'
+    type: text
+  -
+    image: /img/articles/images/06-gsk-collection-search.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Una vez que se ha hecho una búsqueda, los criterios se mantienen en la pantalla cuando se ven los resultados, para permitir al usuario refinar sus parámetros y hacer búsquedas más específicas. Al mismo tiempo, se pueden ordenar los resultados de diferentes formas y visualizarlos tanto en listado como en cuadrícula con imágenes, permitiendo al usuario ajustar el nivel de detalle que quieren ver.
+
+      Cuando hemos alcanzado un documento u objeto específico, incentivamos a los usuarios a que continúen su recorrido a través de la colección, mostrándoles la jerarquía de nuevo, o bien contenido relacionado con el objeto, como podemos ver en la web de [Asia Art Archive](https://aaa.org.hk/).
+    type: text
+  -
+    image: /img/articles/images/07-aaa-single-object.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: 'En el caso de la web de [Lloyd''s Register Heritage and Education Centre (HEC)](https://hec.lrfoundation.org.uk/), que preserva la colección de Lloyd''s Register (un registro de barcos que comenzó en Londres en 1764 en una cafetería frecuentada por navegantes y que se calcula que contiene más de un millón veinticinco mil documentos), la estructura del archivo se organiza alrededor de nombres de barcos. Un barco en concreto, por ejemplo el famoso[ Cutty Sark](https://hec.lrfoundation.org.uk/archive-library/ships/cutty-sark-1869-ferreira-maria-do-amparo/search/everywhere:cutty-sark-11617/page/1), tiene una amplia lista de documentos asociados, desde referencias a los puertos por donde navegó hasta información sobre la tripulación e incluso inspecciones técnicas.'
+    type: text
+  -
+    image: /img/articles/images/08-lrf-hec.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## Involucrando a la audiencia
+
+      Un paso más allá en el proceso de diseño y que solemos aplicar a archivos en los que el público en general muestra interés, como por ejemplo el archivo Sainsbury’s (marca comercial que forma parte del día a día de los británicos), consiste en involucrar a la audiencia en las historias que contamos. En estos casos, le damos importancia a los modos en los que los usuarios pueden sentir que el archivo en cierto modo les pertenece, añadiendo un nivel de personalización y creando una sensación de comunidad. Hemos conseguido esto permitiendo a los usuarios registrarse de manera gratuita y guardar contenido en sus propios álbumes, añadir comentarios, compartir elementos en redes sociales o compartir recuerdos e historias personales en forma de recuerdos relacionados con tiendas u objetos concretos del archivo.
+    type: text
+  -
+    image: /img/articles/images/09-sainsbury-s-albums.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ## Juntando todas las piezas del rompecabezas
+
+      La integración de gestor de contenidos y colección que propone Keepthinking, a través de una sola pieza de software ayuda a la digitalización de muchos archivos, ya que tanto la colección como la web están completamente sincronizadas.
+
+      Nuestro proceso de diseño se divide en cuatro fases o conceptos. Primero, accesibilidad: nos centramos en crear conexiones entre diferentes tipos de contenido en la web, haciendo el archivo más cercano y fácil de usar para los diferentes tipos de audiencia. Segundo, el concepto de valor estético nos ayuda a comunicar la colección de un modo atractivo y en contexto durante la fase de diseño. Tercero, centrándonos en el descubrimiento, creamos _user journeys_ o recorridos para ayudar a los usuarios a profundizar en el contenido del archivo y crear relaciones entre tipos de contenido. Cuarto, enfocado a la audiencia, organizamos y damos opciones al usuario para buscar y navegar los archivos.
+
+      El resultado de todo lo anterior son sitios web con una experiencia de usuario rica en cuanto a niveles, pues trae a primer plano la abundancia de recursos a explorar y descubrir.
+
+      © Todas las imágenes pertenecen a [Keepthinking](https://www.keepthinking.it/), 2020
+    type: text
+position: null
+slug: reflexiones-diseno-arquivos-digitales
+cover: /img/articles/covers/00-banner.png
+lang: es
+draft: false
+date: 2020-07-16T11:28:37+00:00
+in_home: false

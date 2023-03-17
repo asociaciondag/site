@@ -6,6 +6,7 @@ layout: layouts/base.njk
 	<nav class="buttons-tabs">
     {% set p = search.page("id=news lang=" + lang) %}
 		<a class="button is-selected" href="{{ p.url }}">{{ t.news.news }}</a>
+    {% set p = search.page("id=articles lang=" + lang) %}
 		<a class="button" href="{{ p.url }}">{{ t.news.articles }}</a>
 	</nav>
 

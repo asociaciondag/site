@@ -1,0 +1,55 @@
+id: 27
+title: 'Trabajo en remoto'
+author: 'Óscar Otero'
+body:
+  -
+    text: |-
+      El trabajo en remoto está de moda. A raíz de la pandemia del Covid, muchas empresas se han visto forzadas a adoptar esta práctica, incluso aquellas para las que el trabajo desde casa estaba poco menos que mal visto. Esta adaptación supone todo un desafío, ya que no hay una metodología que funcione para todos los casos. Incluso en aquellas empresas que comparten una misma actividad, como los estudios de diseño, los cambios pueden ser implementados de maneras distintas, dependiendo de su sistema de trabajo, de las personas que las conformen, del tipo de proyectos que desarrollen y de sus clientes.
+
+      Aunque en menor grado, también constituye un desafío para las empresas (o _freelances_) que llevan años con una cultura de trabajo en remoto y tienen adaptados sus procesos internos para non depender de ninguna oficina física.
+
+      Si nos situamos en la posición de los trabajadores, en algunos casos el trabajo en remoto puede ser una bendición porque permite una mejor conciliación y hasta un mayor acceso al mercado laboral al no ser necesario mudarse a otra ciudad para trabajar. En otros, aquellos en los que no existe un límite definido entre el horario laboral y la vida privada, los trabajadores pueden acabar trabajando más horas, incluso en fin de semana, y pueden tener una dificultad mayor para desconectar.
+
+      En base a mi experiencia en el trabajo en remoto (tanto en mi época de _freelance_ como en mi actual empresa, marketgoo, que ya era una empresa 100% remota mucho antes de la pandemia), me gustaría compartir con vosotros algunas ideas que considero importantes para cualquier empresa o estudio de diseño que quiera implementar esta práctica.
+
+      ## Trabajar en remoto no es trabajar desde casa
+
+      Trabajar en remoto significa que no hay una oficina física a la que tengas que ir obligatoriamente todos los días, por lo que puedes trabajar desde donde quieras. Por supuesto puede ser en casa, pero también en cualquier otro lugar: en una biblioteca, en un espacio compartido o _coworking_, en una cafetería, etc. Habrá gente que prefiera desde casa porque tenga la suerte de disponer de una habitación habilitada para eso, mientras que otras personas necesiten salir de casa para ver gente y separar claramente el tiempo de trabajo del tiempo de ocio. **El buen trabajo en remoto debería permitir cualquier opción.**
+
+      ## Asíncrono o síncrono?
+
+      Muchas empresas han hecho el cambio a remoto traduciendo o adaptando las dinámicas de una oficina para el contexto remoto. Esto equivale a más reuniones por Zoom, más mensajes por Slack y en general, una necesidad de estar continuamente conectados, lo que provoca que reciban interrupciones continuas.
+
+      **El mejor trabajo en remoto es el asíncrono.** Aquel que non requiere estar permanentemente conectado por medio de videoconferencias o chats, que no ve necesario responder inmediatamente cualquier cuestión que surja (a no ser que sea realmente importante), solo de esta manera es posible concentrarse en el trabajo.
+
+      En mi opinión, este cambio hacia el asíncrono es incluso más difícil de conseguir que el propio paso a remoto, ya que requiere un cambio radical en la manera de trabajar y de relacionarse, y va a suponer un desafío para esas persoas demasiado acostumbradas a recibir una respuesta instantánea a todas sus acciones.
+
+      Con todo, por las ventajas del trabajo asíncrono vale la pena el esfuerzo. Por una parte, obliga a dejar todo por escrito, todo bien documentado y explicado para que todo el mundo lo entienda. Un comentario en una reunión estará disponible solo para aquellas personas que hayan estado presentes en la reunión, y seguramente se olvide al cabo de unas horas. Una discusión por escrito permite a todo el mundo acceder a esa información y comprobar lo que se dijo en cada momento. Además, al no ser necesario responder en ese preciso momento, se puede invertir más tiempo en pensar y escribir una respuesta adecuada por lo que la conversación suele ser más profunda y de mayor calidad.
+
+      Mi compañero Antonio Rull [profundiza más sobre trabajo asíncrono en su blog](https://antoniorull.com/trabajo-asincrono-pros-contras/).
+
+      ## Todos o solo algunos?
+
+      Hay empresas que permiten trabajar en la oficina o remotamente. Esto puede parecer una buena idea porque permite escoger (en el caso de que sea el trabajador el que elija), pero tiene la desventaja de que se crean dos _silos_ diferentes.
+
+      Las conversaciones en el pasillo, en la máquina del café, las reuniones que pueda haber en la oficina y a las que no han sido invitados “los remotos”..., todo esto acaba haciendo que los trabajadores en remoto se sientan desplazados y más desconectados con respecto a los que están en la oficina, que tengan la sensación de que se están perdiendo cosas importantes.
+
+      De ahí que crea que es mucho mejor que **todo el mundo trabaje en remoto,** para favorecer esa igualdad e inclusividad.
+
+      ## Lo que se pierde
+
+      Uno de los grandes problemas del trabajo en remoto es la pérdida de interacciones aleatorias por parte de los trabajadores. Es bastante probable que en remoto un trabajador acabe hablando solo con aquellas personas directamente relacionadas con el trabajo que hace, bien porque están en el mismo proyecto o en su departamento. Pero es poco probable que dos personas que no tienen nada en común vayan a coincidir e interactuar, como sí podría pasar en una oficina con zonas comunes (los pasillos, la sala de estar o la máquina de café). Como de estos encuentros también salen cosas buenas consdero que es importante mantenerlos. Algunas empresas intentan fomentarlos haciendo encuentros virtuales aleatorios o reuniones presenciales cada cierto tiempo. En ese sentido, en la Tarugoconf Sofá Edition, [hubo una sesión muy interesante sobre esto](https://www.youtube.com/watch?v=N7QWa7Xu020) con bastantes buenas ideas.
+
+      ## Separa el trabajo de la vida personal
+
+      Si trabajas desde casa, es muy probable que acabes mezclando el trabajo con las tareas domésticas o con la vida privada, porque non hay una separación clara entre ambas. Para evitar esto, es importante tener una habitación para trabajar, y no hacerlo en la sala de estar por ejemplo. Si no es posible, una buena alternativa es dar un paseo antes y después del trabajo (igual que si fueses andando a una oficina), de esta manera tu cuerpo puede separar totalmente los dos estados.
+
+      \* Fotografía de la cabecera: Luis Díaz Díaz, [Modular Multiespazo](https://somosmodular.com)
+    type: text
+position: null
+slug: trabajo-en-remoto
+cover: /img/articles/covers/modular-multiespazo-oficina-compartida-coworking.jpeg
+lang: es
+draft: false
+date: 2021-05-12T09:46:52+00:00
+in_home: false

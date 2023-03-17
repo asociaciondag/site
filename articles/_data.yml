@@ -1,0 +1,3 @@
+layout: layouts/article_permalink.njk
+type: article
+main_menu: news
