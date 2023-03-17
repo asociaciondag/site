@@ -13,28 +13,25 @@ js: [/js/home.js]
 
 	<nav>
 		{% set page = search.page("id=news lang=" + lang) %}
-		<a class="button-normal" href="{{ page.url }}">{{ t.home.more_news }}F</a>
+		<a class="button-normal" href="{{ page.url }}">{{ t.home.more_news }}</a>
 	</nav>
 </section>
 
 <div class="home-portfolio">
 	<div class="carousel">
 		<div class="carousel-tray">
-		<?php
-        foreach ($portfolios as $portfolio) {
-            $this->insert('portfolio/list', [
-                'portfolio' => $portfolio,
-            ]);
-        }
-        ?>
+			{% for portfolio in search.pages("type=portfolio lang=" + lang, "date=desc", 10) %}
+			{% include "templates/portfolio-list.njk" %}
+			{% endfor %}
 		</div>
+
 		<div class="carousel-nav">
 			<span class="carousel-prev ui-nav" data-carro="-1">
-				<?= $this->icona() ?>
+				{% include "templates/icona.njk" %}
 			</span>
 
 			<span class="carousel-next ui-nav" data-carro="+1">
-				<?= $this->icona() ?>
+				{% include "templates/icona.njk" %}
 			</span>
 		</div>
 	</div>

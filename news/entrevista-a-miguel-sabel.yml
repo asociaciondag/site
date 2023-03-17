@@ -14,7 +14,7 @@ body:
     type: text
   -
     list: after
-    image: /news/images/5632023797fd8-8-miguel.jpg
+    image: /img/news/images/5632023797fd8-8-miguel.jpg
     text: ''
     mode: normal
     type: image

@@ -23,13 +23,13 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9b1f1e2-a-mesa-do-feet-1.jpg
+    image: /img/news/images/553e7a9b1f1e2-a-mesa-do-feet-1.jpg
     text: ''
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/553e7a9b1f1e2-a-mesa-do-feet-2.jpg
+    image: /img/news/images/553e7a9b1f1e2-a-mesa-do-feet-2.jpg
     text: ''
     mode: normal
     type: image

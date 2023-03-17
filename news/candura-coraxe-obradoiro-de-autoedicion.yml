@@ -9,7 +9,7 @@ body:
       Descarga o programa:
   -
     type: image
-    image: /news/images/553e7aa10eab5-candura-coraxe.png
+    image: /img/news/images/553e7aa10eab5-candura-coraxe.png
   -
     type: file
     text: Descargar

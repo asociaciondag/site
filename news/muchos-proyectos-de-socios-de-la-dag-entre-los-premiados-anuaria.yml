@@ -3,7 +3,7 @@ title: 'Muchos proyectos de socios de la DAG entre los premiados Anuaria'
 body:
   -
     list: after
-    image: /news/images/tac.png
+    image: /img/news/images/tac.png
     text: 'Premio Anuaria de Oro al Mejor Programa de Identidad Corporativa para el Taller Atlántico Contemporáneo (TAC) de Guillotina'
     mode: normal
     type: image
@@ -25,7 +25,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/vivalavina.jpg
+    image: /img/news/images/vivalavina.jpg
     text: 'Anuaria de Oro en la categoría de Naming para Vivalaviña! de Guillotina'
     mode: normal
     type: image
@@ -39,7 +39,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/soulbeer.jpg
+    image: /img/news/images/soulbeer.jpg
     text: 'Selección Anuaria al Mejor Programa de Identidad Corporativa para Soulbeer de Guillotina'
     mode: normal
     type: image
@@ -51,7 +51,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/libro-mirame.jpg
+    image: /img/news/images/libro-mirame.jpg
     text: 'Anuaria de Oro en la categoría de Mejor Cubierta de Libro para _Mírame_ de Dardo'
     mode: normal
     type: image
@@ -65,7 +65,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/coleccion-artistas-gallegos.jpg
+    image: /img/news/images/coleccion-artistas-gallegos.jpg
     text: 'Selección Anuaria al Mejor Diseño de una Publicación Editorial para la Colección Artistas Galegos S. XX de Dardo'
     mode: normal
     type: image
@@ -79,7 +79,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/mcg-galiciauniversaldesonhos.jpg
+    image: /img/news/images/mcg-galiciauniversaldesonhos.jpg
     text: 'Selección Anuaria na categoría de Mellor Cuberta dun Libro para o Catálogo Galicia Universal. A arte galega nas coleccións ABANCA e Afundación de Desoños'
     mode: normal
     type: image

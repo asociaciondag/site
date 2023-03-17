@@ -3,7 +3,7 @@ title: 'Premios Nacionales de Innovación y Diseño 2019'
 body:
   -
     list: after
-    image: /news/images/pnid-2019.jpg
+    image: /img/news/images/pnid-2019.jpg
     text: ''
     mode: normal
     type: image
@@ -15,7 +15,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/marisagallen.jpg
+    image: /img/news/images/marisagallen.jpg
     text: 'Marisa Gallén Jaime'
     mode: normal
     type: image
@@ -24,7 +24,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/silvia-fernadez-palomar-premio-nacional-diseno-retrato.jpg
+    image: /img/news/images/silvia-fernadez-palomar-premio-nacional-diseno-retrato.jpg
     text: 'Silvia Fernández Palomar'
     mode: normal
     type: image

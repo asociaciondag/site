@@ -3,7 +3,7 @@ title: 'Temos un novo socio!'
 body:
   -
     list: after
-    image: /news/images/roberto-nun-ez-perfil-dag.jpg
+    image: /img/news/images/roberto-nun-ez-perfil-dag.jpg
     text: ''
     mode: normal
     type: image

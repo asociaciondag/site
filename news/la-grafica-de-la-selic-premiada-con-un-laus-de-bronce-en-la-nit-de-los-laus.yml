@@ -3,7 +3,7 @@ title: 'La gráfica de la SELIC premiada con un Laus de bronce en la Nit de los 
 body:
   -
     list: after
-    image: /news/images/01-l.jpg
+    image: /img/news/images/01-l.jpg
     text: ''
     mode: normal
     type: image
@@ -12,19 +12,19 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/02-l.jpg
+    image: /img/news/images/02-l.jpg
     text: ''
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/03-l.jpg
+    image: /img/news/images/03-l.jpg
     text: ''
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/06.JPG
+    image: /img/news/images/06.JPG
     text: ''
     mode: normal
     type: image

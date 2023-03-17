@@ -3,7 +3,7 @@ title: 'Damos la bienvenida a un nuevo socio, Pablo Villaverde'
 body:
   -
     list: after
-    image: /news/images/foto-pablo.jpg
+    image: /img/news/images/foto-pablo.jpg
     text: ''
     mode: normal
     type: image

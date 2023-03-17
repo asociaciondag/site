@@ -3,7 +3,7 @@ title: 'Conferencia de Nacho Lavernia, Premio Nacional de Diseño, en el Centro 
 body:
   -
     list: after
-    image: /news/images/tarjeta-nl-1.jpg
+    image: /img/news/images/tarjeta-nl-1.jpg
     text: ''
     mode: normal
     type: image
@@ -15,7 +15,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/expo-fswd-xeral.jpg
+    image: /img/news/images/expo-fswd-xeral.jpg
     text: 'Vista de las peanas de la exposición «FSWD. Identidad y territorio», hechas en colaboración con Xera'
     mode: normal
     type: image

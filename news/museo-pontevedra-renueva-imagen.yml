@@ -3,13 +3,13 @@ title: 'El Museo de Pontevedra presenta su nueva imagen'
 body:
   -
     list: after
-    image: /news/images/dsc1078.JPG
+    image: /img/news/images/dsc1078.JPG
     text: ''
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/gif-presentacion.gif
+    image: /img/news/images/gif-presentacion.gif
     text: ''
     mode: right
     type: image
@@ -21,7 +21,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/escultura-simbolo-1001.png
+    image: /img/news/images/escultura-simbolo-1001.png
     text: ''
     mode: normal
     type: image

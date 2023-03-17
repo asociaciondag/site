@@ -6,7 +6,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9d351db-radiografia-do-deseno-galego.gif
+    image: /img/news/images/553e7a9d351db-radiografia-do-deseno-galego.gif
     text: ''
     type: image
 intro: 'Solo quedan diez días para que se presente publicamente Acción DAG, el último proyecto de la Asociación Gallega de Diseñadores y que bien podría calificarse como el evento del diseño gallego del año.'

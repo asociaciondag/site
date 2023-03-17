@@ -3,7 +3,7 @@ title: 'Pequena crónica da EXPRESS'
 body:
   -
     list: after
-    image: /news/images/imaxe-noticia.jpg
+    image: /img/news/images/imaxe-noticia.jpg
     text: ''
     mode: normal
     type: image

@@ -21,22 +21,22 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7aa73367b-imx-1.png
+    image: /img/news/images/553e7aa73367b-imx-1.png
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7aa73367b-imx-2.jpg
+    image: /img/news/images/553e7aa73367b-imx-2.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7aa73367b-imx-3.jpg
+    image: /img/news/images/553e7aa73367b-imx-3.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7aa73367b-imx-4.png
+    image: /img/news/images/553e7aa73367b-imx-4.png
     text: ''
     type: image
 intro: 'Han pasado ocho años desde su creación y la DAG renueva su identidad corporativa'

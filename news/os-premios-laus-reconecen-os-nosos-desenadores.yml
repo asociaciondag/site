@@ -11,7 +11,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/575e95dc49324-premios-laus-2016-1.jpg
+    image: /img/news/images/575e95dc49324-premios-laus-2016-1.jpg
     text: '_El trayecto de un anhelo_ de cenlitrosmetrocadrado para Grupo Arial.'
     mode: normal
     type: image
@@ -20,13 +20,13 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/575e95dc49a2c-premios-laus-2016-2.jpg
+    image: /img/news/images/575e95dc49a2c-premios-laus-2016-2.jpg
     text: '_Günter Förg. Verfolgen Malerei_ de desescribir para a Fundación Luís Seoane.'
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/575e95dc49dc5-premios-laus-2016-3.jpg
+    image: /img/news/images/575e95dc49dc5-premios-laus-2016-3.jpg
     text: '_La cobla patafísica 2001-2015. Cabo SanRoque_ de desescribir para Arts Santa Mònica e Fabulatorio.'
     mode: normal
     type: image
@@ -35,7 +35,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/575e95dc4a184-premios-laus-2016-4.jpg
+    image: /img/news/images/575e95dc4a184-premios-laus-2016-4.jpg
     text: '_Boas Noites_ de Jesús Madriñán editado por Fabulatorio.'
     mode: normal
     type: image
@@ -44,7 +44,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/575e95dc4a3d2-premios-laus-2016-5.jpg
+    image: /img/news/images/575e95dc4a3d2-premios-laus-2016-5.jpg
     text: 'Deseño de identidade de desescribir para o pavillón español na Bienal de Arquitectura de Venecia 2016.'
     mode: normal
     type: image

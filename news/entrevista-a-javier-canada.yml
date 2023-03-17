@@ -17,7 +17,7 @@ body:
     type: text
   -
     list: after
-    image: /news/images/563202ed672a5-6-javier.jpg
+    image: /img/news/images/563202ed672a5-6-javier.jpg
     text: ''
     mode: normal
     type: image

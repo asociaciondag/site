@@ -11,7 +11,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9380a99-jpeg.jpg
+    image: /img/news/images/553e7a9380a99-jpeg.jpg
     text: ''
     type: image
 intro: 'La tercera edición de la Barcelona Design Week abrirá sus puertas del 10 al 14 de noviembre convertida en uno de los acontecimientos de promoción y debate en torno al diseño ineludibles en la agenda internacional.'

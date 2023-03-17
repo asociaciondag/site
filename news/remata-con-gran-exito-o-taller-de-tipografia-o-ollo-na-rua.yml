@@ -6,32 +6,32 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a955e28e-01.jpg
+    image: /img/news/images/553e7a955e28e-01.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a955e28e-02.jpg
+    image: /img/news/images/553e7a955e28e-02.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a955e28e-03.jpg
+    image: /img/news/images/553e7a955e28e-03.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a955e28e-04.jpg
+    image: /img/news/images/553e7a955e28e-04.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a955e28e-05.jpg
+    image: /img/news/images/553e7a955e28e-05.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a955e28e-06.jpg
+    image: /img/news/images/553e7a955e28e-06.jpg
     text: ''
     type: image
 intro: 'Clausúrase o obradoiro de tipografía O ollo na rúa coa presentación das intervencións tipográficas realizadas polos participantes.'

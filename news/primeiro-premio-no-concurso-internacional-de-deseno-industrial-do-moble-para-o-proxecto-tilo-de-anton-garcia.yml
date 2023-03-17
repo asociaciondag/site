@@ -3,7 +3,7 @@ title: 'Primeiro premio no Concurso Internacional de Deseño Industrial do Moble
 body:
   -
     list: before
-    image: /news/images/560a5e84ad782-premiados.jpg
+    image: /img/news/images/560a5e84ad782-premiados.jpg
     text: ''
     mode: normal
     type: image
@@ -17,13 +17,13 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/560a5e84ae0b5-tilo-premio-cetem-escena.jpg
+    image: /img/news/images/560a5e84ae0b5-tilo-premio-cetem-escena.jpg
     text: ''
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/560a5e84adde1-tilo-spanish-dossier-pg11-recorte.jpg
+    image: /img/news/images/560a5e84adde1-tilo-spanish-dossier-pg11-recorte.jpg
     text: ''
     mode: normal
     type: image

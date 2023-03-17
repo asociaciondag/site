@@ -3,7 +3,7 @@ title: 'Balance de la iniciativa Que fai un/ha creador/a no meu barrio?'
 body:
   -
     list: after
-    image: /news/images/creadores2xok.png
+    image: /img/news/images/creadores2xok.png
     text: ''
     mode: normal
     type: image
@@ -57,13 +57,13 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/cartel-compostela-ok.jpg
+    image: /img/news/images/cartel-compostela-ok.jpg
     text: ''
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/cartel-ferrol.png
+    image: /img/news/images/cartel-ferrol.png
     text: ''
     mode: normal
     type: image
@@ -97,13 +97,13 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/mg-7707.jpg
+    image: /img/news/images/mg-7707.jpg
     text: ''
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/mg-7698.jpg
+    image: /img/news/images/mg-7698.jpg
     text: ''
     mode: normal
     type: image

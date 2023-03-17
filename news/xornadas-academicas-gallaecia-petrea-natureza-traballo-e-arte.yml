@@ -9,7 +9,7 @@ body:
       Consulta o programa:
   -
     type: image
-    image: /news/images/553e7aa2592fd-gallaecia-petrea.jpg
+    image: /img/news/images/553e7aa2592fd-gallaecia-petrea.jpg
   -
     type: file
     text: Descargar

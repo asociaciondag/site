@@ -6,13 +6,13 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9b48f35-remata-o-feet-1.jpg
+    image: /img/news/images/553e7a9b48f35-remata-o-feet-1.jpg
     text: ''
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/553e7a9b48f35-remata-o-feet-2.jpg
+    image: /img/news/images/553e7a9b48f35-remata-o-feet-2.jpg
     text: ''
     mode: normal
     type: image

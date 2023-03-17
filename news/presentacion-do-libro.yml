@@ -6,7 +6,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a942a42c-cg-08-portada.jpg
+    image: /img/news/images/553e7a942a42c-cg-08-portada.jpg
     text: ''
     type: image
 intro: 'Preséntase un novo número da revista _Creatividade Galega_'

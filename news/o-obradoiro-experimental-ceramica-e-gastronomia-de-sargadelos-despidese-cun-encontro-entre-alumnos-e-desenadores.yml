@@ -9,12 +9,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9e3ec7b-ceramica-e-gastronomia-1.jpg
+    image: /img/news/images/553e7a9e3ec7b-ceramica-e-gastronomia-1.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9e3ec7b-ceramica-e-gastronomia-2.jpg
+    image: /img/news/images/553e7a9e3ec7b-ceramica-e-gastronomia-2.jpg
     text: ''
     type: image
 intro: '[Sargadelos](http://www.sargadelos.com/) pecha o seu obradoiro para explorar novas formas de pezas cerámicas para gastronomía cun encontro entre os alumnos do taller e profesionais de seis estudios de deseño de recoñecido prestixio.'

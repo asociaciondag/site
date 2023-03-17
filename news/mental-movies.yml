@@ -12,12 +12,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9987e31-download-2.jpg
+    image: /img/news/images/553e7a9987e31-download-2.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9987e31-download-3.jpg
+    image: /img/news/images/553e7a9987e31-download-3.jpg
     text: ''
     type: image
 intro: '**Mental movies** é unha nova colección de relatos breves en formato de carteis cinematográficos. Trátase dun proxecto multidisciplinar que integra literatura, artes visuais, música e cine.'

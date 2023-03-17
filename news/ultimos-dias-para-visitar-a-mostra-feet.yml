@@ -9,17 +9,17 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9b923c7-a-exposicion-do-feet-3.jpg
+    image: /img/news/images/553e7a9b923c7-a-exposicion-do-feet-3.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9b923c7-a-exposicion-do-feet-1.jpg
+    image: /img/news/images/553e7a9b923c7-a-exposicion-do-feet-1.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9b923c7-a-exposicion-do-feet-2.jpg
+    image: /img/news/images/553e7a9b923c7-a-exposicion-do-feet-2.jpg
     text: ''
     type: image
 intro: 'A exposición do feet que entra na súa recta final estará aberta ao público ata o vindeiro sábado 18 de decembro en horario de mañá e tarde.'

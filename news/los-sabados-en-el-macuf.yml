@@ -9,7 +9,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9f269f3-macuf.png
+    image: /img/news/images/553e7a9f269f3-macuf.png
     text: ''
     type: image
 intro: 'Una variada programación de cursos y talleres es lo que nos oferta el [Macuf](http://www.macuf.es/) para los sábados de octubre y de noviembre.'

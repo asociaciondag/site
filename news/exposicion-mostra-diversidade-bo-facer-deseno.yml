@@ -3,7 +3,7 @@ title: 'A exposición «FSWD/Identidade e territorio» mostra a diversidade e bo
 body:
   -
     list: before
-    image: /news/images/enad-15-xh1s8168-c-xaimecortizo.jpg
+    image: /img/news/images/enad-15-xh1s8168-c-xaimecortizo.jpg
     text: 'De esquerda a dereita: Ángel Martínez, Gloria Escribano, Uqui Permui e Juan Lázaro, comisarios da exposición.'
     mode: normal
     type: image
@@ -15,7 +15,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/expo-fswd-xh1s7358-c-xaimecortizo.jpg
+    image: /img/news/images/expo-fswd-xh1s7358-c-xaimecortizo.jpg
     text: 'Vista da exposición'
     mode: normal
     type: image
@@ -24,7 +24,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/silla-bolina-amalia-puga.jpg
+    image: /img/news/images/silla-bolina-amalia-puga.jpg
     text: 'Silla Bolina. Amalia Puga'
     mode: normal
     type: image
@@ -33,7 +33,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/454-feed2021-xh1s7366-c-xaimecortizo.jpg
+    image: /img/news/images/454-feed2021-xh1s7366-c-xaimecortizo.jpg
     text: 'Vista da exposición'
     mode: normal
     type: image

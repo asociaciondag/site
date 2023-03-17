@@ -11,7 +11,7 @@ body:
       Descarga o programa:
   -
     type: image
-    image: /news/images/553e7aa2de05c-foro-dag-2013.jpg
+    image: /img/news/images/553e7aa2de05c-foro-dag-2013.jpg
   -
     type: file
     text: Descargar

@@ -16,7 +16,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9a13363-portada-libro.jpg
+    image: /img/news/images/553e7a9a13363-portada-libro.jpg
     text: ''
     type: image
 intro: 'As recomendacións de **Andreu Balius** para aqueles que xa queren ir quentando motores para o Taller de tipografía son:'

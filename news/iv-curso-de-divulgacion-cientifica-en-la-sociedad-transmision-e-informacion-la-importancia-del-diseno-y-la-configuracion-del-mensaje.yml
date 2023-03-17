@@ -6,7 +6,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9d6b45b-mensaxe-desen-o.jpg
+    image: /img/news/images/553e7a9d6b45b-mensaxe-desen-o.jpg
     text: ''
     type: image
 intro: 'La Universidad de la Coruña dedica esta IV edición del Curso de divulgación científica en la sociedad a la importancia de la imagen y del diseño en la configuración de los mensajes.'

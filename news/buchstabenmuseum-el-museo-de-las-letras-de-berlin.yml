@@ -16,17 +16,17 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a996156b-letra1.jpg
+    image: /img/news/images/553e7a996156b-letra1.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a996156b-letra2.jpg
+    image: /img/news/images/553e7a996156b-letra2.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a996156b-letra3.jpg
+    image: /img/news/images/553e7a996156b-letra3.jpg
     text: ''
     type: image
 intro: 'En el centro de Berlín, cerca de la famosa plaza Alexanderplatz, se encuentra el **Buchstabenmuseum** (Museo de las letras, caracteres y tipografías).'

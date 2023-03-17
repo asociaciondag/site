@@ -41,7 +41,7 @@ body:
     type: text
   -
     list: after
-    image: /news/images/57e54f04daf92-adce-gif.gif
+    image: /img/news/images/57e54f04daf92-adce-gif.gif
     text: ''
     mode: right
     type: image
@@ -89,7 +89,7 @@ body:
     type: button
   -
     list: ''
-    image: /news/images/57e554a165aa6-marley-allen.jpg
+    image: /img/news/images/57e554a165aa6-marley-allen.jpg
     text: ''
     mode: normal
     type: image

@@ -13,22 +13,22 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a98b37a2-dsc-0004.jpg
+    image: /img/news/images/553e7a98b37a2-dsc-0004.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a98b37a2-dsc-0005.jpg
+    image: /img/news/images/553e7a98b37a2-dsc-0005.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a98b37a2-dsc-0007.jpg
+    image: /img/news/images/553e7a98b37a2-dsc-0007.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a98b37a2-dsc-0008.jpg
+    image: /img/news/images/553e7a98b37a2-dsc-0008.jpg
     text: ''
     type: image
 intro: 'Tradicionalmente, el entorno sociocultural holandés incluye peculiaridades como una cierta "anarquía oficial" existente favorecida por el apoyo y la libertad de las instituciones oficiales hacia los diseñadores y su trabajo, una apuesta decidida por el diseño que continua una larga tradición de subvenciones culturales que, lejos de encauzar los resultados hacia una línea oficialista, permite la adopción de enfoques poco convencionales.'

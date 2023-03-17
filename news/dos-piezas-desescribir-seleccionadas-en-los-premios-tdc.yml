@@ -3,7 +3,7 @@ title: 'Dos piezas de Desescribir seleccionadas en los premios anuales del Tokyo
 body:
   -
     list: after
-    image: /news/images/bdcdc01a-cb45-4e90-978b-62f139385f06.jpeg
+    image: /img/news/images/bdcdc01a-cb45-4e90-978b-62f139385f06.jpeg
     text: 'Cartel de la película Ons. Foto de Desescribir'
     mode: normal
     type: image
@@ -15,7 +15,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/7.jpg
+    image: /img/news/images/7.jpg
     text: 'Libro «Iremos al sol». Foto de Desescribir'
     mode: normal
     type: image

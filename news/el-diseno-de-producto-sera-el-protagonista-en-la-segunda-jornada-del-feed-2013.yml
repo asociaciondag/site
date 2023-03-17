@@ -13,7 +13,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7aa4bbf2c-foto-feed-prensa.jpg
+    image: /img/news/images/553e7aa4bbf2c-foto-feed-prensa.jpg
     text: ''
     type: image
 intro: 'La jornada se inaugurará a las 09.15 h con un seminario impartido por [Héctor Serrano](http://www.hectorserrano.com/), de título Cada loco con su tema. Un objeto y una manía, y que se desarrollará ao lo largo de la mañana.'

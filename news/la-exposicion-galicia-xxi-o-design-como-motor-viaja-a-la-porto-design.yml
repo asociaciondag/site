@@ -3,7 +3,7 @@ title: 'La exposición Galicia XXI. O design como motor viaja a la Porto Design 
 body:
   -
     list: after
-    image: /news/images/imaxe-noticia-expo-gain-porto.png
+    image: /img/news/images/imaxe-noticia-expo-gain-porto.png
     text: ''
     mode: normal
     type: image
@@ -23,7 +23,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/imaxe-porto-design-bienalle-2019.png
+    image: /img/news/images/imaxe-porto-design-bienalle-2019.png
     text: ''
     mode: normal
     type: image

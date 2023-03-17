@@ -6,32 +6,32 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a94eec43-01.jpg
+    image: /img/news/images/553e7a94eec43-01.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a94eec43-02.jpg
+    image: /img/news/images/553e7a94eec43-02.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a94eec43-03.jpg
+    image: /img/news/images/553e7a94eec43-03.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a94eec43-04.jpg
+    image: /img/news/images/553e7a94eec43-04.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a94eec43-05.jpg
+    image: /img/news/images/553e7a94eec43-05.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a94eec43-06.jpg
+    image: /img/news/images/553e7a94eec43-06.jpg
     text: ''
     type: image
 intro: 'Se clausura el taller de tipografía El ojo en la calle con la presentación de las intervenciones tipográficas realizadas por los participantes.'

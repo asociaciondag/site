@@ -9,12 +9,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9904c2e-arroscovat.jpg
+    image: /img/news/images/553e7a9904c2e-arroscovat.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9904c2e-arroscovat2.jpg
+    image: /img/news/images/553e7a9904c2e-arroscovat2.jpg
     text: ''
     type: image
 intro: '**“Arròs covat"** é unha serie de animación sobre o conflicto de facerse maior e ter a sensación de que as oportunidades pasan por diante.'

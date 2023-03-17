@@ -3,7 +3,7 @@ title: 'Los compañeros de cenlitros y del estudio 988 reciben el reconocimiento
 body:
   -
     list: after
-    image: /news/images/noticia-clap02.jpg
+    image: /img/news/images/noticia-clap02.jpg
     text: ''
     mode: normal
     type: image
@@ -17,7 +17,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/noticia-clap01.jpg
+    image: /img/news/images/noticia-clap01.jpg
     text: ''
     mode: normal
     type: image

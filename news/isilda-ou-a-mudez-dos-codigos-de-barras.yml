@@ -11,12 +11,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a99a262c-download-6.jpg
+    image: /img/news/images/553e7a99a262c-download-6.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a99a262c-download-7.jpg
+    image: /img/news/images/553e7a99a262c-download-7.jpg
     text: ''
     type: image
 intro: 'A [Oficina do Cego](http://oficinadocego.blogspot.com/) é unha asociación sen ánimo de lucro que desenvolve o seu traballo no dominio das artes gráficas. Fundada en Lisboa, en 2009, dedícase a desenvolver e promover todo un conxunto de prácticas de impresión e autoedición.'

@@ -13,12 +13,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a98d1b06-hhbg.png
+    image: /img/news/images/553e7a98d1b06-hhbg.png
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a98d1b06-vitra.jpg
+    image: /img/news/images/553e7a98d1b06-vitra.jpg
     text: ''
     type: image
 intro: 'Utilizámolos todolos días. Inflúen nas nosas vidas. Son milleiros. Son tan comúns que incluso rara vez pensamos neles: obxectos ocultos da vida cotiá. Xa sexa un tornillo, unha bolsa de té, un sacacorchos, un clip ou unha cremalleira, estos obxetos son clásicos.'

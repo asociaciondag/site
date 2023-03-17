@@ -9,7 +9,7 @@ body:
       Descarga el programa:
   -
     type: image
-    image: /news/images/553e7aa2d898c-foro-dag-2013.jpg
+    image: /img/news/images/553e7aa2d898c-foro-dag-2013.jpg
   -
     type: file
     text: Descargar

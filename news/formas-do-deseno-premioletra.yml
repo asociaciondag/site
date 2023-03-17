@@ -3,7 +3,7 @@ title: 'La gráfica de «Formas do deseño. Galicia XXI» recibe un Letra de Pla
 body:
   -
     list: after
-    image: /news/images/formasgalicia.jpg
+    image: /img/news/images/formasgalicia.jpg
     text: ''
     mode: normal
     type: image
@@ -15,13 +15,13 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/formasdexpo-ext.jpg
+    image: /img/news/images/formasdexpo-ext.jpg
     text: ''
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/formasdexpo4.jpg
+    image: /img/news/images/formasdexpo4.jpg
     text: ''
     mode: normal
     type: image

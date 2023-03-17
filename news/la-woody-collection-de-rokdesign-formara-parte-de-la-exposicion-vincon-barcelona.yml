@@ -16,12 +16,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7aa80d3e4-rokdesign-3-en-raya-coming-soon-2.jpg
+    image: /img/news/images/553e7aa80d3e4-rokdesign-3-en-raya-coming-soon-2.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7aa80d3e4-rokdesign-gon-coming-soon-3.jpg
+    image: /img/news/images/553e7aa80d3e4-rokdesign-gon-coming-soon-3.jpg
     text: ''
     type: image
 intro: 'El proyecto WOODY Collection de nuestro socio Antón García ([ROKdesign](http://www.rokdesign.es/)) acaba de ser seleccionado para la VINÇON Barcelona, una exposición colectiva que reúne varias propuestas de accesorios de cocina y que se inaugura este jueves día 15 a las 18.30 h.'

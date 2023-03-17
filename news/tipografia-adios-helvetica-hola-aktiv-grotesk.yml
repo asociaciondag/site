@@ -9,12 +9,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a98d50dd-aktivgrotesk1.png
+    image: /img/news/images/553e7a98d50dd-aktivgrotesk1.png
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a98d50dd-aktivgrotesk2.jpg
+    image: /img/news/images/553e7a98d50dd-aktivgrotesk2.jpg
     text: ''
     type: image
 intro: 'La tendencia al _revival_ o _remake_, de tipografías lineales grotescas al estilo de Helvetica o Univers no hace más que crecer en la última década.'

@@ -21,7 +21,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9ebb2b1-logo-culturgal.jpg
+    image: /img/news/images/553e7a9ebb2b1-logo-culturgal.jpg
     text: ''
     type: image
 intro: 'La cuarta edición del [Culturgal](http://www.culturgal.com/), la gran fiesta de la cultura gallega en la que el año pasado participaron más de 14.000 personas vuelve al recinto ferial del [Palacio de la Cultura de Pontevedra](http://www.pazodacultura.org/) los días 2, 3 y 4 de diciembre.'

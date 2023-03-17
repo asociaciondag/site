@@ -6,12 +6,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9c30bae-santiagoetapas-3.jpg
+    image: /img/news/images/553e7a9c30bae-santiagoetapas-3.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9c30bae-santiagoetapas-2.jpg
+    image: /img/news/images/553e7a9c30bae-santiagoetapas-2.jpg
     text: ''
     type: image
 intro: '**Marujas Creativas** gañan o Premio Gourmand ao mellor deseño dun libro de cociña en España con Santiago(é)tapas, un libro de receitas redactado en tres idiomas: galego, español e inglés, e que promociona Santiago e a súa gastronomía.'

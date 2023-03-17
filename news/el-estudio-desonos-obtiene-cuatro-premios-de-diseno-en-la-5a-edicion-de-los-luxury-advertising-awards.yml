@@ -3,7 +3,7 @@ title: 'El estudio Desoños obtiene cuatro premios de diseño en la 5ª edición
 body:
   -
     list: after
-    image: /news/images/desonos.jpg
+    image: /img/news/images/desonos.jpg
     text: 'Los Desoñadores'
     mode: normal
     type: image
@@ -12,7 +12,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/desonos-emporium.jpg
+    image: /img/news/images/desonos-emporium.jpg
     text: 'Exposición Emporium, Mil Anos de Comercio en Vigo'
     mode: normal
     type: image
@@ -21,7 +21,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/desonos-yle.jpg
+    image: /img/news/images/desonos-yle.jpg
     text: Yle
     mode: normal
     type: image
@@ -30,7 +30,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/desonos-santos.jpg
+    image: /img/news/images/desonos-santos.jpg
     text: 'Web de Santos'
     mode: normal
     type: image

@@ -3,7 +3,7 @@ title: 'O libro Lugares de Vari Camarés, entre os finalistas de PhotoESPAÑA '
 body:
   -
     list: after
-    image: /news/images/03-laus.jpg
+    image: /img/news/images/03-laus.jpg
     text: ''
     mode: normal
     type: image
@@ -17,13 +17,13 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/01-b.jpg
+    image: /img/news/images/01-b.jpg
     text: ''
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/01-laus.jpg
+    image: /img/news/images/01-laus.jpg
     text: ''
     mode: normal
     type: image

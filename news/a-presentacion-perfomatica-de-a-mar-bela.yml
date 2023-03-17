@@ -6,17 +6,17 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9b4e9dc-presentacion-performatica-de-a-mar-bela-1.jpg
+    image: /img/news/images/553e7a9b4e9dc-presentacion-performatica-de-a-mar-bela-1.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9b4e9dc-presentacion-performatica-de-a-mar-bela-2.jpg
+    image: /img/news/images/553e7a9b4e9dc-presentacion-performatica-de-a-mar-bela-2.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9b4e9dc-presentacion-performatica-de-a-mar-bela-3.jpg
+    image: /img/news/images/553e7a9b4e9dc-presentacion-performatica-de-a-mar-bela-3.jpg
     text: ''
     type: image
 intro: 'Pepe Murciego presentou a edición da revista e os asistentes puideron ver por eles mesmos como se elaboraba cada un dos exemplares de A Mar Bela visitando a cadea de montaxe.'

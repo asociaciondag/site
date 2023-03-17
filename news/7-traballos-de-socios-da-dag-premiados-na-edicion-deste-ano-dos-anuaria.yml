@@ -3,7 +3,7 @@ title: '7 traballos de socios da DAG premiados na edición deste ano dos Anuaria
 body:
   -
     list: after
-    image: /news/images/o-almacen.jpeg
+    image: /img/news/images/o-almacen.jpeg
     text: 'O Almacén de Guillotina Estudio, Anuaria de Ouro na categoría de mellor programa de identidade corporativa'
     mode: normal
     type: image
@@ -12,19 +12,19 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/o-almacen.jpeg
+    image: /img/news/images/o-almacen.jpeg
     text: 'O Almacén de Guillotina Estudio, Anuaria de Ouro na categoría de mellor programa de identidade corporativa'
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/astrovisit-teide.jpeg
+    image: /img/news/images/astrovisit-teide.jpeg
     text: 'Astrovisit Teide de Guillotina Estudio, Selección Anuaria na categoría de mellor programa de identidade corporativa'
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/adegas-tollodouro.jpeg
+    image: /img/news/images/adegas-tollodouro.jpeg
     text: 'Adegas Tollodouro de Guillotina Estudio, Selección Anuaria na categoría de mellor packaging'
     mode: normal
     type: image
@@ -33,19 +33,19 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/hakon-bleken.jpeg
+    image: /img/news/images/hakon-bleken.jpeg
     text: '_Hakon Bleken. El camino entre la abstracción y la figuración_ de Dardo, Selección Anuaria na categoría de mellor cuberta dun libro'
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/autopromocion-dardo.jpeg
+    image: /img/news/images/autopromocion-dardo.jpeg
     text: 'Dardo, Selección Anuaria na categoría de mellor traballo de autopromoción'
     mode: normal
     type: image
   -
     list: ''
-    image: /news/images/la-monda.jpeg
+    image: /img/news/images/la-monda.jpeg
     text: 'La Monda de Dardo, Selección Anuaria na categoría de mellor programa de identidade corporativa'
     mode: normal
     type: image
@@ -54,7 +54,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/festival-jazz-e-blues.jpeg
+    image: /img/news/images/festival-jazz-e-blues.jpeg
     text: 'Cartel do Festival Internacional de Jazz e Blues de Pontevedra de Era Comunicación, Selección Anuaria na categoría de mellor cartel'
     mode: normal
     type: image

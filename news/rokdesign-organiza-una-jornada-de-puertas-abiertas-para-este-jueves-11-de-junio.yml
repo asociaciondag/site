@@ -12,7 +12,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/55a29aa41deb1-bdw.jpg
+    image: /img/news/images/55a29aa41deb1-bdw.jpg
     text: 'ROKdesign organiza una jornada de puertas abiertas para este jueves 11 de junio'
     mode: normal
     type: image

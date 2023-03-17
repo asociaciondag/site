@@ -3,7 +3,7 @@ title: 'Pepe Barro diseña el nuevo Museo Ramón Cabanillas de Cambados'
 body:
   -
     list: after
-    image: /news/images/2-museocabanillas.jpg
+    image: /img/news/images/2-museocabanillas.jpg
     text: 'Pepe Barro. Boceto de trabajo para definir las piezas a reproducir y a qué tamaños en la línea de tiempo'
     mode: normal
     type: image
@@ -23,7 +23,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/3-museocabanillas.jpg
+    image: /img/news/images/3-museocabanillas.jpg
     text: 'Pepe Barro. La mesa de Cabanillas preside el espacio de la sala central del Museo Cabanillas'
     mode: normal
     type: image
@@ -47,7 +47,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/5-museocabanillas.jpg
+    image: /img/news/images/5-museocabanillas.jpg
     text: 'Pepe Barro. La «capilla» muestra la máscara fúnebre y el estuche con el laurel rosaliano. El espacio fue construido totalmente en madera, dentro de una antigua galería toda acristalada'
     mode: normal
     type: image
@@ -66,7 +66,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/9-pepe-pitusaepaco.jpg
+    image: /img/news/images/9-pepe-pitusaepaco.jpg
     text: 'Pepe Barro. De derecha a izquierda: Francisco Fernández Rei, académico de la RAG, que terminó de catalogar el legado de la familia Cabanillas; Pitusa Vidal Cabanillas, nieta del poeta y portavoz de la familia; Pepe Barro, director y diseñador del proyecto'
     mode: normal
     type: image

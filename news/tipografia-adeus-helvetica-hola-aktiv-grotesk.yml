@@ -9,12 +9,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a98e1747-aktivgrotesk1.png
+    image: /img/news/images/553e7a98e1747-aktivgrotesk1.png
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a98e1747-aktivgrotesk2.jpg
+    image: /img/news/images/553e7a98e1747-aktivgrotesk2.jpg
     text: ''
     type: image
 intro: 'A tendencia ó _revival_ ou _remake_ de tipografías lineales grotescas ó estilo de Helvetica ou Univers, non fai mais que medrar na última década.'

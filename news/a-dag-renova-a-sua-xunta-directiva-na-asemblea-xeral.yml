@@ -3,7 +3,7 @@ title: 'A DAG renova a súa xunta directiva na Asemblea Xeral'
 body:
   -
     list: after
-    image: /news/images/imaxe-asemblea22.png
+    image: /img/news/images/imaxe-asemblea22.png
     text: ''
     mode: normal
     type: image
@@ -21,7 +21,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/202206-dag-mg-8523.jpg
+    image: /img/news/images/202206-dag-mg-8523.jpg
     text: ''
     mode: normal
     type: image

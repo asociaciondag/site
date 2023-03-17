@@ -3,7 +3,7 @@ title: 'El estudio gallego desescribir nominado a dos Laus en su 50ª edición '
 body:
   -
     list: after
-    image: /news/images/cdc-baixa.jpg
+    image: /img/news/images/cdc-baixa.jpg
     text: ''
     mode: normal
     type: image
@@ -15,7 +15,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/approach-baixa.jpg
+    image: /img/news/images/approach-baixa.jpg
     text: ''
     mode: normal
     type: image

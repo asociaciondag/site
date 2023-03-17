@@ -11,7 +11,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9f5941f-designa-2011.jpg
+    image: /img/news/images/553e7a9f5941f-designa-2011.jpg
     text: ''
     type: image
 intro: 'Tomando como punto de partida, el clásico ensayo de Tomás Maldonado _La esperanza proyectual_...'

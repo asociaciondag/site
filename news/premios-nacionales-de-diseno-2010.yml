@@ -6,7 +6,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a983a780-premiosdddi.jpg
+    image: /img/news/images/553e7a983a780-premiosdddi.jpg
     text: ''
     type: image
 intro: 'El Ministerio de Ciencia e Innovación convoca los Premios Nacionales de Diseño 2010.'

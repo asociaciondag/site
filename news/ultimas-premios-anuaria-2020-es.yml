@@ -9,7 +9,7 @@ body:
     type: image
   -
     list: after
-    image: /news/images/anuaria.jpg
+    image: /img/news/images/anuaria.jpg
     text: ''
     mode: normal
     type: image

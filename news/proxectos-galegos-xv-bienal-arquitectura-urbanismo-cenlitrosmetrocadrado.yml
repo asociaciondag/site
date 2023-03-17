@@ -3,7 +3,7 @@ title: 'Proxectos galegos na XV Bienal Española de Arquitectura e Urbanismo coa
 body:
   -
     list: after
-    image: /news/images/trecerosas.jpg
+    image: /img/news/images/trecerosas.jpg
     text: 'Fotos: Luis Díaz Díaz'
     mode: normal
     type: image
@@ -12,7 +12,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/albeida.jpg
+    image: /img/news/images/albeida.jpg
     text: 'Fotos: Roi Alonso'
     mode: normal
     type: image
@@ -21,7 +21,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/casa-cotona.jpg
+    image: /img/news/images/casa-cotona.jpg
     text: 'Fotos: Roi Alonso'
     mode: normal
     type: image

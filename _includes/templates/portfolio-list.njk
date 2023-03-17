@@ -1,0 +1,25 @@
+<article class="portfolio portfolio-list">
+  <a href="{{ portfolio.url }}">
+
+    <figure class="portfolio-thumbnail">
+      <img src="{{ portfolio.cover }}" width="420" height="200" alt="">
+    </figure>
+
+    <div>
+      <header class="portfolio-header">
+        <h1>
+          {{ portfolio.title }}
+        </h1>
+      </header>
+
+      <ul class="portfolio-authors">
+        {% for member in portfolio.members %}
+        <li class="member-avatar">
+          <img src="{{ member.avatar }}" width="48" height="48" alt="{{ member.name }}">
+          <span>{{ member.name }}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </a>
+</article>

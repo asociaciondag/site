@@ -11,7 +11,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9c942aa-dardo-magazine-arquichecture-design.jpg
+    image: /img/news/images/553e7a9c942aa-dardo-magazine-arquichecture-design.jpg
     text: ''
     type: image
 intro: 'Esta nueva publicación de DARDO comparte cabecera con su ya conocida revista de arte contemporáneo, _Dardo magazine,_ que a partir de ahora se desdobla en dos: _Dardo magazine\_contemporary art_ y _Dardo magazine\_architecture+design,_ con temáticas diferentes.'

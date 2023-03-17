@@ -11,12 +11,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a994154d-grafisme1.jpg
+    image: /img/news/images/553e7a994154d-grafisme1.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a994154d-grafisme2.jpg
+    image: /img/news/images/553e7a994154d-grafisme2.jpg
     text: ''
     type: image
 intro: 'Un encontro aberto en torno á función comunicativa e social do deseño gráfico dende unha perspectiva consciente, serena, "slow", desmarcada do estrés habitual dos entornos nos que se traballa o grafismo. Un encontro para reflexionar e para abrirse.'

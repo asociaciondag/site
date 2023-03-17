@@ -6,12 +6,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9a1aea5-portada-uma-gente-sen-terra.jpg
+    image: /img/news/images/553e7a9a1aea5-portada-uma-gente-sen-terra.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9a1aea5-interior-uma-gente-sen-terra.jpg
+    image: /img/news/images/553e7a9a1aea5-interior-uma-gente-sen-terra.jpg
     text: ''
     type: image
 intro: '**Uma terra sem gente para gente sem terra** é unha exposición de carteis gráficos interactivos sobre o conflito entre Israel e Palestina. Xera un discurso visual ao redor das tensións sociais da vida cotiá nesta rexión onde se encontran tres continentes, e propón unha nova abordaxe sobre o conflito. O discurso é crítico, mais tamén irónico e, dunha forma informal, expón a situación actual, e convida as persoas a colorear os mapas e deseños ao longo da exposición.'

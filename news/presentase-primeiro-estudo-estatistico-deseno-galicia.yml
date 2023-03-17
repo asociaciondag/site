@@ -3,7 +3,7 @@ title: 'Preséntase o primeiro Estudo estatístico sobre o sector do Deseño en 
 body:
   -
     list: before
-    image: /news/images/imaxe-noticia-estudo.png
+    image: /img/news/images/imaxe-noticia-estudo.png
     text: ''
     mode: normal
     type: image
@@ -15,7 +15,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/dato-salientable-estudo.png
+    image: /img/news/images/dato-salientable-estudo.png
     text: ''
     mode: normal
     type: image
@@ -29,7 +29,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/grafica01-proteccion-deseno-empresas.png
+    image: /img/news/images/grafica01-proteccion-deseno-empresas.png
     text: 'A protección do deseño está ligada coa importancia que se ​​lle da aos procesos, produtos e servizos que as empresas desenvolven. É unha maneira máis de valorar ​o uso do deseño e apréciase máis nas empresas de maior volume.'
     mode: normal
     type: image
@@ -38,7 +38,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/grafica-02-xenero-conta-propia.png
+    image: /img/news/images/grafica-02-xenero-conta-propia.png
     text: 'Dentro da mostra de profesionais por conta propia hai maior representación de homes que de mulleres (60% fronte ao 38,6%); igualmente, existen máis homes que mulleres á fronte dunha empresa de deseño. ​'
     mode: normal
     type: image

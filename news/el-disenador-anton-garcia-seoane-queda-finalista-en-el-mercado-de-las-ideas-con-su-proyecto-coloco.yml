@@ -13,12 +13,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7aa4e9b0d-coloco.jpg
+    image: /img/news/images/553e7aa4e9b0d-coloco.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7aa4e9b0d-coloco-escena-habitat.jpg
+    image: /img/news/images/553e7aa4e9b0d-coloco-escena-habitat.jpg
     text: ''
     type: image
 intro: 'El pasado 26 de noviembre, en el centro Arts Santa Mónica, se dieron a conocer los finalistas del Mercado de las Ideas (MID). El MID se trata de un programa organizado por Barcelona Centro de Diseño (BCD) que fomenta la creación de oportunidades de negocio y ayuda a encontrar financiación a todos aquellos creadores que tengan un proyecto innovador con un fuerte componente de diseño.'

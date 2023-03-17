@@ -11,7 +11,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7aa073022-charlasdag.jpg
+    image: /img/news/images/553e7aa073022-charlasdag.jpg
     text: ''
     type: image
 intro: 'El director del Área Multimedia de [FrutoDS](http://frutods.com/blog/), David Dopacio, será el invitado este miércoles dentro del ciclo de las #charlasnaDAG que está teniendo lugar en la Trisca.'

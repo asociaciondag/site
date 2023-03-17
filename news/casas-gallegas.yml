@@ -6,12 +6,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a99987c4-download-4.jpg
+    image: /img/news/images/553e7a99987c4-download-4.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a99987c4-download-5.jpg
+    image: /img/news/images/553e7a99987c4-download-5.jpg
     text: ''
     type: image
 intro: 'O artista suspéndese no exterior de casas unifamiliares galegas. O itinerario, co que pretende abranguer a maior extensión posible de territorio galego, vaise creando a partir da invitación espontánea de cada propietario.'

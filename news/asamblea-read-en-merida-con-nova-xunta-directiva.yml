@@ -3,7 +3,7 @@ title: 'Asamblea READ en Mérida con nova Xunta Directiva'
 body:
   -
     list: before
-    image: /news/images/imagen-asamblea.jpg
+    image: /img/news/images/imagen-asamblea.jpg
     text: ''
     mode: normal
     type: image
@@ -19,7 +19,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/imagen02-asamblea.jpg
+    image: /img/news/images/imagen02-asamblea.jpg
     text: 'Juan Lázaro e Uqui Permui'
     mode: normal
     type: image

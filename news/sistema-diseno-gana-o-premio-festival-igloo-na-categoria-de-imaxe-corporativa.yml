@@ -6,17 +6,17 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9c917b5-sistema-mobalco-1.jpg
+    image: /img/news/images/553e7a9c917b5-sistema-mobalco-1.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9c917b5-sisitema-mobalco-2.jpg
+    image: /img/news/images/553e7a9c917b5-sisitema-mobalco-2.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9c917b5-sistema-mobalco-3.jpg
+    image: /img/news/images/553e7a9c917b5-sistema-mobalco-3.jpg
     text: ''
     type: image
 intro: 'A principios deste ano deuse a coñecer o fallo do xurado no concurso de deseño Festival Igloo, organizado polo grupo papeleiro Torraspapel.'

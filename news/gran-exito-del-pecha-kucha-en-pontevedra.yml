@@ -9,22 +9,22 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a97358f9-6011-1024998764636-1815278526-51858-5484131-n.jpg
+    image: /img/news/images/553e7a97358f9-6011-1024998764636-1815278526-51858-5484131-n.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a97358f9-6051-101997094189-549489189-1932063-7681374-n.jpg
+    image: /img/news/images/553e7a97358f9-6051-101997094189-549489189-1932063-7681374-n.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a97358f9-6051-101997074189-549489189-1932059-7219740-n.jpg
+    image: /img/news/images/553e7a97358f9-6051-101997074189-549489189-1932059-7219740-n.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a97358f9-6011-1025003124745-1815278526-51887-3577196-n.jpg
+    image: /img/news/images/553e7a97358f9-6011-1025003124745-1815278526-51887-3577196-n.jpg
     text: ''
     type: image
 intro: 'A PECHA KUCHA NIGHT organizada por la DAG reúne en Pontevedra a media docena de creativos de ámbitos tan diversos como el diseño, la cocina, la literatura o la arquitectura.'

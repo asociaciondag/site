@@ -23,7 +23,7 @@ body:
     type: text
   -
     list: after
-    image: /news/images/5552435c8ae07-slider-01.jpg
+    image: /img/news/images/5552435c8ae07-slider-01.jpg
     text: ''
     mode: normal
     type: image

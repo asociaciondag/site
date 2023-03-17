@@ -3,7 +3,7 @@ title: 'Benvindo, Alberto!'
 body:
   -
     list: after
-    image: /news/images/alberto-fernandez-garcia-noticia.jpg
+    image: /img/news/images/alberto-fernandez-garcia-noticia.jpg
     text: ''
     mode: normal
     type: image

@@ -3,7 +3,7 @@ title: 'Roberto Núñez Studio e as adegas Viña Almirante e Davide, premiados n
 body:
   -
     list: after
-    image: /news/images/01-roberto-nunez-graphis.png
+    image: /img/news/images/01-roberto-nunez-graphis.png
     text: ''
     mode: normal
     type: image
@@ -12,7 +12,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/02-symbol-logo.jpg
+    image: /img/news/images/02-symbol-logo.jpg
     text: ''
     mode: normal
     type: image

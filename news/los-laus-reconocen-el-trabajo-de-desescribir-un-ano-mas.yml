@@ -3,7 +3,7 @@ title: 'Los Laus reconocen el trabajo de desescribir un año más'
 body:
   -
     list: after
-    image: /news/images/laus-bronce-desescribir-1.jpg
+    image: /img/news/images/laus-bronce-desescribir-1.jpg
     text: ''
     mode: normal
     type: image
@@ -15,7 +15,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/laus-bronce-desescribir-2.jpg
+    image: /img/news/images/laus-bronce-desescribir-2.jpg
     text: ''
     mode: normal
     type: image

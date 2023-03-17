@@ -9,7 +9,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9378fe4-imagen1.jpg
+    image: /img/news/images/553e7a9378fe4-imagen1.jpg
     text: ''
     type: image
 intro: 'Creación de fontes tipográficas FontFruct presenta unha nova creación de fontes tipográficas de maneira online.'

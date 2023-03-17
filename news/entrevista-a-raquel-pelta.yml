@@ -22,7 +22,7 @@ body:
     type: text
   -
     list: after
-    image: /news/images/563203bbd45ab-1-raquel.jpg
+    image: /img/news/images/563203bbd45ab-1-raquel.jpg
     text: ''
     mode: normal
     type: image

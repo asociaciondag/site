@@ -6,12 +6,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7aa04b38c-rias-baixas-1.jpg
+    image: /img/news/images/553e7aa04b38c-rias-baixas-1.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7aa04b38c-rias-baixas-2.jpg
+    image: /img/news/images/553e7aa04b38c-rias-baixas-2.jpg
     text: ''
     type: image
 intro: 'La publicación **Rías Baixas. Territorio gastronómico** que coordina [Uqui Permui](http://www.uquicebra.com/) y Marta Lucio y edita la Diputación de Pontevedra acaba de ser reconocida con un Gourmand Cookbook Award España en la categoría de mejor libro de cocina local.'

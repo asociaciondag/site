@@ -3,7 +3,7 @@ title: 'Llega una nueva edición del FEED'
 body:
   -
     list: after
-    image: /news/images/artboard.jpg
+    image: /img/news/images/artboard.jpg
     text: ''
     mode: normal
     type: image

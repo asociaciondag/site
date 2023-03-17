@@ -9,7 +9,7 @@ body:
     type: text
   -
     list: after
-    image: /news/images/570e68d159120-asamblea-read-16-banner-web.png
+    image: /img/news/images/570e68d159120-asamblea-read-16-banner-web.png
     text: ''
     mode: normal
     type: image

@@ -6,12 +6,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a99af940-download-11.jpg
+    image: /img/news/images/553e7a99af940-download-11.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a99af940-download-12.jpg
+    image: /img/news/images/553e7a99af940-download-12.jpg
     text: ''
     type: image
 intro: 'O artista Carlos Rodríguez-Méndez pídelles a homes maiores de 70 anos residentes en Madrid que emitan un son continuado e intelixible durante un minuto mentres son fotografados e gravados en vídeo cenitalmente.'

@@ -6,12 +6,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a9a0519c-download-13.jpg
+    image: /img/news/images/553e7a9a0519c-download-13.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a9a0519c-download-14.jpg
+    image: /img/news/images/553e7a9a0519c-download-14.jpg
     text: ''
     type: image
 intro: 'La Más Bella é un proxecto de acción e experimentación editorial, que impulsa e realiza proxectos artísticos especificamente pensados para seren editados por canles e métodos alternativos ao mundo editorial convencional.'

@@ -3,7 +3,7 @@ title: 'Os Laus 2021 premian o traballo de desescribir e Roberto Núñez'
 body:
   -
     list: after
-    image: /news/images/premioslaus.jpg
+    image: /img/news/images/premioslaus.jpg
     text: ''
     mode: normal
     type: image
@@ -17,7 +17,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/davide.jpg
+    image: /img/news/images/davide.jpg
     text: ''
     mode: normal
     type: image
@@ -31,7 +31,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/ons-peq.jpg
+    image: /img/news/images/ons-peq.jpg
     text: ''
     mode: normal
     type: image

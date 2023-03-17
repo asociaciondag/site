@@ -13,27 +13,27 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a93cddef-291208084918523.jpg
+    image: /img/news/images/553e7a93cddef-291208084918523.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a93cddef-dsc07771.jpg
+    image: /img/news/images/553e7a93cddef-dsc07771.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a93cddef-dsc07776.jpg
+    image: /img/news/images/553e7a93cddef-dsc07776.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a93cddef-dsc07791.jpg
+    image: /img/news/images/553e7a93cddef-dsc07791.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a93cddef-gisela-ahumada-entrevistada-por-miraxes.jpg
+    image: /img/news/images/553e7a93cddef-gisela-ahumada-entrevistada-por-miraxes.jpg
     text: ''
     type: image
 intro: 'O vindeiro día 8 de xaneiro preséntase no CGAC as 20:00 horas a exposición "En torno da Baskerville".'

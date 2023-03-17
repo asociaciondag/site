@@ -13,12 +13,12 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a98ca5a4-hhbg.png
+    image: /img/news/images/553e7a98ca5a4-hhbg.png
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a98ca5a4-vitra.jpg
+    image: /img/news/images/553e7a98ca5a4-vitra.jpg
     text: ''
     type: image
 intro: 'Los utilizamos todos los días. Influyen en nuestras vidas. Son miles de millones. Son tan comunes que incluso rara vez pensamos en ellos: objetos ocultos de la vida cotidiana. Ya sea un tornillo, una bolsa de té, un sacacorchos, un clip o una cremallera, estos objetos son clásicos.'

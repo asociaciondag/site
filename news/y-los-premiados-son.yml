@@ -3,7 +3,7 @@ title: 'Y los premiados son...'
 body:
   -
     list: after
-    image: /news/images/desonos-1.jpeg
+    image: /img/news/images/desonos-1.jpeg
     text: ''
     mode: normal
     type: image
@@ -19,7 +19,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/pepe-vieira-web-01.jpg
+    image: /img/news/images/pepe-vieira-web-01.jpg
     text: ''
     mode: normal
     type: image
@@ -31,7 +31,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/2-cartel-campus.jpg
+    image: /img/news/images/2-cartel-campus.jpg
     text: ''
     mode: normal
     type: image
@@ -47,7 +47,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/cenlitrosmetrocadrado-naturhall.jpg
+    image: /img/news/images/cenlitrosmetrocadrado-naturhall.jpg
     text: ''
     mode: normal
     type: image
@@ -63,7 +63,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/drift-1.jpg
+    image: /img/news/images/drift-1.jpg
     text: ''
     mode: normal
     type: image

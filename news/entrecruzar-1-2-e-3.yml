@@ -9,17 +9,17 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7a99a7a5a-download-8.jpg
+    image: /img/news/images/553e7a99a7a5a-download-8.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a99a7a5a-download-9.jpg
+    image: /img/news/images/553e7a99a7a5a-download-9.jpg
     text: ''
     type: image
   -
     list: ''
-    image: /news/images/553e7a99a7a5a-download-10.jpg
+    image: /img/news/images/553e7a99a7a5a-download-10.jpg
     text: ''
     type: image
 intro: '**Entrecruzar 1** Formou parte do Proxecto-Edición. Cada edición variou de formato e contido, aínda que o eixe central foi o territorio e os espazos públicos.'

@@ -6,7 +6,7 @@ body:
     type: text
   -
     list: ''
-    image: /news/images/553e7aa604db0-2o-encontro-read.jpg
+    image: /img/news/images/553e7aa604db0-2o-encontro-read.jpg
     text: ''
     type: image
 intro: 'La DAG, Asociación Gallega de Diseñadores, participará el próximo 12 y 13 de junio de 2014 en el [segundo encuentro nacional de asociaciones de diseño](http://www.designread.es/2encuentro/) en la Central de Diseño Matadero en Madrid.'
