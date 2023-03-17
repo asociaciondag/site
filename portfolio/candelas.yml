@@ -6,26 +6,26 @@ body:
     text: 'Deseño da presencia de marca de Cafés Candelas no 52 Festival de Sitges.'
     type: text
   -
-    image: /portfolios/images/azucarillos.jpg
+    image: /img/portfolio/images/azucarillos.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/graficas.jpg
+    image: /img/portfolio/images/graficas.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/publicacionxeral.jpg
+    image: /img/portfolio/images/publicacionxeral.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/reacciones.jpg
+    image: /img/portfolio/images/reacciones.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/vaso.jpg
+    image: /img/portfolio/images/vaso.jpg
     text: ''
     type: image
-cover: /portfolios/covers//portadacandelas.jpg
+cover: /img/portfolio/covers/portadacandelas.jpg
 tags:
   - Gráfico
 members_id:

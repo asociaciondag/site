@@ -3,14 +3,14 @@ title: 'María Victoria Moreno'
 slug: maria-victoria-moreno
 body:
   -
-    image: /portfolios/images/cartel-maria-victoria-moreno.jpg
+    image: /img/portfolio/images/cartel-maria-victoria-moreno.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/selo-conmemorativo-mvm.jpg
+    image: /img/portfolio/images/selo-conmemorativo-mvm.jpg
     text: ''
     type: image
-cover: /portfolios/covers//cartel-maria-victoria-moreno.jpg
+cover: /img/portfolio/covers/cartel-maria-victoria-moreno.jpg
 tags:
   - Gráfico
 members_id:

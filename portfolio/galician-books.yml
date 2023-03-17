@@ -6,26 +6,26 @@ body:
     text: 'Distintivo para a promoción dos libros galegos no estranxeiro.'
     type: text
   -
-    image: /portfolios/images/55859bdeaf9cf-galiciabooks-03.jpg
+    image: /img/portfolio/images/55859bdeaf9cf-galiciabooks-03.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859bdeafbbc-galiciabooks-04.jpg
+    image: /img/portfolio/images/55859bdeafbbc-galiciabooks-04.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859bdeafdae-galiciabooks-05.jpg
+    image: /img/portfolio/images/55859bdeafdae-galiciabooks-05.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859bdeaff86-galiciabooks-06.jpg
+    image: /img/portfolio/images/55859bdeaff86-galiciabooks-06.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859bdeb014b-galiciabooks-07.jpg
+    image: /img/portfolio/images/55859bdeb014b-galiciabooks-07.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5585b2ed0ba30-pepe.jpg
+cover: /img/portfolio/covers/5585b2ed0ba30-pepe.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

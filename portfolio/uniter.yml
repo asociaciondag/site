@@ -6,10 +6,10 @@ body:
     text: ''
     type: text
   -
-    image: /portfolios/images/20210805-6.jpg
+    image: /img/portfolio/images/20210805-6.jpg
     text: ''
     type: image
-cover: /portfolios/covers//20210805-6.jpg
+cover: /img/portfolio/covers/20210805-6.jpg
 tags:
   - Gráfico
   - Embalaxe

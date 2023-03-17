@@ -10,18 +10,18 @@ body:
        
     type: text
   -
-    image: /portfolios/images/box-tv-black-wave-texture-topview.jpg
+    image: /img/portfolio/images/box-tv-black-wave-texture-topview.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/box-tv-white-3-4-view.jpg
+    image: /img/portfolio/images/box-tv-white-3-4-view.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/202105-roctool-tv-box4.jpg
+    image: /img/portfolio/images/202105-roctool-tv-box4.jpg
     text: ''
     type: image
-cover: /portfolios/covers//box-tv-black-wave-texture-topview.jpg
+cover: /img/portfolio/covers/box-tv-black-wave-texture-topview.jpg
 tags:
   - Produto
 members_id:

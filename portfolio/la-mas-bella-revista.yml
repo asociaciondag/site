@@ -9,18 +9,18 @@ body:
       _La Más Bella_ é un proxecto de acción e experimentación editorial que desde 1993, reflexiona no mundo da edición da arte contemporánea. O número foi presentado coincidindo con Arco 2011, <http://www.lamasbella.org/>
     type: text
   -
-    image: /portfolios/images/55859862bfcb0-lamasbella-cabeceira.jpg
+    image: /img/portfolio/images/55859862bfcb0-lamasbella-cabeceira.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859862c0065-lamasbella-1.jpg
+    image: /img/portfolio/images/55859862c0065-lamasbella-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859862c0652-lamasbella-2.jpg
+    image: /img/portfolio/images/55859862c0652-lamasbella-2.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55859862bf836-lamasbella-cabeceira.jpg
+cover: /img/portfolio/covers/55859862bf836-lamasbella-cabeceira.jpg
 tags:
   - Editorial
   - Tipografía

@@ -9,18 +9,18 @@ body:
       Este proyecto no se llegó a ejecutar.
     type: text
   -
-    image: /portfolios/images/1.jpg
+    image: /img/portfolio/images/1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/2.jpg
+    image: /img/portfolio/images/2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5.jpg
+    image: /img/portfolio/images/5.jpg
     text: ''
     type: image
-cover: /portfolios/covers//5.jpg
+cover: /img/portfolio/covers/5.jpg
 tags:
   - Espazos
 members_id:

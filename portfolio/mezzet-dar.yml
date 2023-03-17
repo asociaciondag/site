@@ -13,38 +13,38 @@ body:
       Jugamos con tres tipos de papel, ilustraciones surrealistas y una maquetación elegante, estructurada como si de un LP de _rock and roll_ se tratase, con su postre/_bonus track_ escondido en el final.
     type: text
   -
-    image: /portfolios/images/57487dc4c14ae-dar-1.png
+    image: /img/portfolio/images/57487dc4c14ae-dar-1.png
     text: ''
     type: image
   -
-    image: /portfolios/images/57487f31cb7ce-dar-2.png
+    image: /img/portfolio/images/57487f31cb7ce-dar-2.png
     text: ''
     type: image
   -
-    image: /portfolios/images/57487f31cbdb6-dar-3.png
+    image: /img/portfolio/images/57487f31cbdb6-dar-3.png
     text: ''
     type: image
   -
-    image: /portfolios/images/57487f31cbfc6-dar-4.png
+    image: /img/portfolio/images/57487f31cbfc6-dar-4.png
     text: ''
     type: image
   -
-    image: /portfolios/images/57487f31cc146-dar-5.png
+    image: /img/portfolio/images/57487f31cc146-dar-5.png
     text: ''
     type: image
   -
-    image: /portfolios/images/57487f31cc2c0-dar-6.png
+    image: /img/portfolio/images/57487f31cc2c0-dar-6.png
     text: ''
     type: image
   -
-    image: /portfolios/images/57487f31cc426-dar-7.png
+    image: /img/portfolio/images/57487f31cc426-dar-7.png
     text: ''
     type: image
   -
-    image: /portfolios/images/57487f31cc5a4-dar-8.png
+    image: /img/portfolio/images/57487f31cc5a4-dar-8.png
     text: ''
     type: image
-cover: /portfolios/covers/57487dc4c1116-dar-1.png
+cover: /img/portfolio/covers/57487dc4c1116-dar-1.png
 tags: []
 members_id:
   - 53

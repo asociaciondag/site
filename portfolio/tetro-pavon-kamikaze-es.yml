@@ -6,14 +6,14 @@ body:
     text: 'Diseño de la identidad gráfica del Teatro Pavón Kamikaze.'
     type: text
   -
-    image: /portfolios/images/imagen-teatro-1.jpg
+    image: /img/portfolio/images/imagen-teatro-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/imagen-teatro-2.jpg
+    image: /img/portfolio/images/imagen-teatro-2.jpg
     text: ''
     type: image
-cover: /portfolios/covers//portadapavon.jpg
+cover: /img/portfolio/covers/portadapavon.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

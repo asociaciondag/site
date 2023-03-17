@@ -6,10 +6,10 @@ body:
     text: 'Imaxe gráfica para as actividades do _Año Sabatini 2021._'
     type: text
   -
-    image: /portfolios/images/publicacionsabatini.jpg
+    image: /img/portfolio/images/publicacionsabatini.jpg
     text: ''
     type: image
-cover: /portfolios/covers//portadasabatini.jpg
+cover: /img/portfolio/covers/portadasabatini.jpg
 tags:
   - Gráfico
   - 'Identidade corporativa'

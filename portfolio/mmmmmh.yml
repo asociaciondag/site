@@ -6,26 +6,26 @@ body:
     text: 'Catálogo de exposición realizada na SALA X, recolle a obra de oito artistas seleccionados da Facultade de Belas Artes de Pontevedra.'
     type: text
   -
-    image: /portfolios/images/555ce04cc01ff-mmmmmh-6.jpg
+    image: /img/portfolio/images/555ce04cc01ff-mmmmmh-6.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555ce04cc0836-mmmmmh-2.jpg
+    image: /img/portfolio/images/555ce04cc0836-mmmmmh-2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555ce04cc0c5b-mmmmmh-3.jpg
+    image: /img/portfolio/images/555ce04cc0c5b-mmmmmh-3.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555ce04cc10d2-mmmmmh-4.jpg
+    image: /img/portfolio/images/555ce04cc10d2-mmmmmh-4.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555ce04cc1601-mmmmmh-5.jpg
+    image: /img/portfolio/images/555ce04cc1601-mmmmmh-5.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55855b8409af3-555ce04cc01ff-mmmmmh-6.jpg
+cover: /img/portfolio/covers/55855b8409af3-555ce04cc01ff-mmmmmh-6.jpg
 tags:
   - Editorial
 members_id:

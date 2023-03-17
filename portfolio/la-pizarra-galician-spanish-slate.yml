@@ -15,30 +15,30 @@ body:
       Procuramos facer fincapé na materialidade e na ausencia de gráfica imaxinando que alguén que non lese o texto, pero que vise e percorrese o libro, lle chegase a esencia do seu contido. Lendo, sen ler.
     type: text
   -
-    image: /portfolios/images/5557236de5f0a-0215.jpg
+    image: /img/portfolio/images/5557236de5f0a-0215.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5557236de5f0a-0119.jpg
+    image: /img/portfolio/images/5557236de5f0a-0119.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5557236de5f0a-0314.jpg
+    image: /img/portfolio/images/5557236de5f0a-0314.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5557236de5f0a-0415.jpg
+    image: /img/portfolio/images/5557236de5f0a-0415.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5557236de5f0a-059.jpg
+    image: /img/portfolio/images/5557236de5f0a-059.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5557239d463d6-067.jpg
+    image: /img/portfolio/images/5557239d463d6-067.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558556e764026-5557236de5f0a-0215.jpg
+cover: /img/portfolio/covers/558556e764026-5557236de5f0a-0215.jpg
 tags:
   - Editorial
 members_id:

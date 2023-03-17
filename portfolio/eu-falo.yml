@@ -9,22 +9,22 @@ body:
       [www.eufalo.tv](http://www.eufalo.tv)
     type: text
   -
-    image: /portfolios/images/55859fb20d9a5-logo.jpg
+    image: /img/portfolio/images/55859fb20d9a5-logo.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859fb20de4b-proceso-logo.jpg
+    image: /img/portfolio/images/55859fb20de4b-proceso-logo.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859fb20e229-eufalo-portada.jpg
+    image: /img/portfolio/images/55859fb20e229-eufalo-portada.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859fb20e90b-eufalo-interior.jpg
+    image: /img/portfolio/images/55859fb20e90b-eufalo-interior.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55859fb20d199-eufalo-portada.jpg
+cover: /img/portfolio/covers/55859fb20d199-eufalo-portada.jpg
 tags:
   - 'Identidade corporativa'
   - Web

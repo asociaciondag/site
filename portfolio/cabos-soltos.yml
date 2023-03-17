@@ -3,14 +3,14 @@ title: 'Cabos soltos'
 slug: cabos-soltos
 body:
   -
-    image: /portfolios/images/logotipo-cabos-soltos-negativo.jpg
+    image: /img/portfolio/images/logotipo-cabos-soltos-negativo.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/logotipo-cabos-soltos-circular.jpg
+    image: /img/portfolio/images/logotipo-cabos-soltos-circular.jpg
     text: ''
     type: image
-cover: /portfolios/covers//logotipo-cabos-soltos-negativo.jpg
+cover: /img/portfolio/covers/logotipo-cabos-soltos-negativo.jpg
 tags:
   - Gráfico
 members_id:

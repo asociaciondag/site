@@ -21,30 +21,30 @@ body:
       Para a portada, asociamos cada unhas das fases da evolución urbana (_polis, civitas,_ cidade, metrópole e posmetrópole) a unha unidade de trama representativa —círculo para a _polis_ grega, cruz para a _civitas_ romana (cardo e decumanus), aspa para a cidade medieval (puntos estruturadores do territorio), un dobre círculo para a metrópole (centro e periferia) e trama de puntos para a cidade difusa no territorio— e superpuxemos as diferentes tramas escribindo o nome de cada forma urbana coa súa trama asociada, reflectindo así a evolución que amosa o libro, configurando unha maior densidade de tramas no centro do libro e súa expansión e crecemento cara aos seus límites.
     type: text
   -
-    image: /portfolios/images/55576701b0720-01.jpg
+    image: /img/portfolio/images/55576701b0720-01.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576701b0720-02.jpg
+    image: /img/portfolio/images/55576701b0720-02.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576701b0720-03.jpg
+    image: /img/portfolio/images/55576701b0720-03.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576701b0720-04.jpg
+    image: /img/portfolio/images/55576701b0720-04.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576701b0720-06.jpg
+    image: /img/portfolio/images/55576701b0720-06.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576701b0720-08.jpg
+    image: /img/portfolio/images/55576701b0720-08.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5585676d8bc4b-55576701b0720-03.jpg
+cover: /img/portfolio/covers/5585676d8bc4b-55576701b0720-03.jpg
 tags:
   - Editorial
 members_id:

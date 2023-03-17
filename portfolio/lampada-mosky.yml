@@ -9,30 +9,30 @@ body:
       Equipada con tira de led de 4.8 w, 495 lm (saída) 3000ºK e 24V.
     type: text
   -
-    image: /portfolios/images/lampara-sobremesa-mosky-dos-frontal.jpg
+    image: /img/portfolio/images/lampara-sobremesa-mosky-dos-frontal.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lampara-sobremesa-mosky-frontal-asfalto-peq.jpg
+    image: /img/portfolio/images/lampara-sobremesa-mosky-frontal-asfalto-peq.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lampara-sobremesa-mosky-general-horizontal.jpg
+    image: /img/portfolio/images/lampara-sobremesa-mosky-general-horizontal.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lampara-sobremesa-mosky-negra-vertical.jpg
+    image: /img/portfolio/images/lampara-sobremesa-mosky-negra-vertical.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lampara-sobremesa-mosky-planta-asfalto.jpg
+    image: /img/portfolio/images/lampara-sobremesa-mosky-planta-asfalto.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lampara-sobremesa-mosky-planta.jpg
+    image: /img/portfolio/images/lampara-sobremesa-mosky-planta.jpg
     text: ''
     type: image
-cover: /portfolios/covers//lampara-sobremesa-mosky-general-horizontal.jpg
+cover: /img/portfolio/covers/lampara-sobremesa-mosky-general-horizontal.jpg
 tags:
   - Iluminación
 members_id:

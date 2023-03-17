@@ -3,14 +3,14 @@ title: 'Modelo Bb'
 slug: modelo-bb
 body:
   -
-    image: /portfolios/images/0-bb.jpg
+    image: /img/portfolio/images/0-bb.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/00-bb.jpg
+    image: /img/portfolio/images/00-bb.jpg
     text: ''
     type: image
-cover: /portfolios/covers//0-bb.jpg
+cover: /img/portfolio/covers/0-bb.jpg
 tags:
   - Industrial
   - Produto

@@ -6,10 +6,10 @@ body:
     text: '[→ Visitar a web](https://oneteam.report)'
     type: text
   -
-    image: /portfolios/images/landing-page.png
+    image: /img/portfolio/images/landing-page.png
     text: ''
     type: image
-cover: /portfolios/covers//marca.png
+cover: /img/portfolio/covers/marca.png
 tags:
   - 'Identidade corporativa'
   - Web

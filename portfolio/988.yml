@@ -11,10 +11,10 @@ body:
       A nivel gráfico, o elemento central da nosa imaxe recae nunha tipografía personalizada de tipo industrial, modular e stencil que xunto a xerarquías espaciais diáfanas permite xerar un sistema que busca salientar os principais valores da marca (sinxeleza, calidade e honestidade) a través das distintas aplicacións.
     type: text
   -
-    image: /portfolios/images/988.jpg
+    image: /img/portfolio/images/988.jpg
     text: ''
     type: image
-cover: /portfolios/covers//988-thumbnail.jpg
+cover: /img/portfolio/covers/988-thumbnail.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

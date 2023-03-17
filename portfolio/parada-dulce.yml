@@ -3,14 +3,14 @@ title: 'Parada Dulce'
 slug: parada-dulce
 body:
   -
-    image: /portfolios/images/parada-dulce-concepto-de-tienda.jpg
+    image: /img/portfolio/images/parada-dulce-concepto-de-tienda.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/para-dulce-diseno-de-marca-y-concepto-de-tienda.jpg
+    image: /img/portfolio/images/para-dulce-diseno-de-marca-y-concepto-de-tienda.jpg
     text: ''
     type: image
-cover: /portfolios/covers//parada-dulce-concepto-de-tienda.jpg
+cover: /img/portfolio/covers/parada-dulce-concepto-de-tienda.jpg
 tags:
   - Espazos
   - 'Identidade corporativa'

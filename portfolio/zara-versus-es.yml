@@ -6,10 +6,10 @@ body:
     text: 'Diseño campaña del juego «Versus».'
     type: text
   -
-    image: /portfolios/images/publicacionversus.jpg
+    image: /img/portfolio/images/publicacionversus.jpg
     text: ''
     type: image
-cover: /portfolios/covers//portadaversus.jpg
+cover: /img/portfolio/covers/portadaversus.jpg
 tags:
   - Gráfico
 members_id:

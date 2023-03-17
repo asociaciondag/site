@@ -6,34 +6,34 @@ body:
     text: 'Reforma integral dun piso de 166 m² no centro de Vigo. Neste caso o cliente necesitaba actualizar instalacións, acabados e sobre todo adaptar a cociña ás novas necesidades (estaba moi mal distribuida), conectándoa co salón pero coa posibilidade de independizala en momentos puntuais. Para isto creamos unha porta corredía de ferro e cristal con porta abatible integrada, que pode “desaparecer” para unha integración total salón-cociña.'
     type: text
   -
-    image: /portfolios/images/lan4562.jpg
+    image: /img/portfolio/images/lan4562.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lan4587.jpg
+    image: /img/portfolio/images/lan4587.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lan4589.jpg
+    image: /img/portfolio/images/lan4589.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lan4601.jpg
+    image: /img/portfolio/images/lan4601.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lan4606.jpg
+    image: /img/portfolio/images/lan4606.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lan4621.jpg
+    image: /img/portfolio/images/lan4621.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/lan4675.jpg
+    image: /img/portfolio/images/lan4675.jpg
     text: ''
     type: image
-cover: /portfolios/covers//lan4601.jpg
+cover: /img/portfolio/covers/lan4601.jpg
 tags:
   - Espazos
 members_id:

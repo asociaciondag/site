@@ -9,30 +9,30 @@ body:
       O noso proxecto consistiu na actualización do seu logotipo e das súas aplicacións.
     type: text
   -
-    image: /portfolios/images/5564ccd743734-dimensiona-logo.jpg
+    image: /img/portfolio/images/5564ccd743734-dimensiona-logo.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564ccd743bb3-dimensiona-logo-blanco.jpg
+    image: /img/portfolio/images/5564ccd743bb3-dimensiona-logo-blanco.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564ccd743ef5-dimensiona-folio.jpg
+    image: /img/portfolio/images/5564ccd743ef5-dimensiona-folio.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564ccd744266-dimensiona-cd.jpg
+    image: /img/portfolio/images/5564ccd744266-dimensiona-cd.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564ccd7445f6-dimensiona-tarxetas.jpg
+    image: /img/portfolio/images/5564ccd7445f6-dimensiona-tarxetas.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564ccd7448fc-sobre.jpg
+    image: /img/portfolio/images/5564ccd7448fc-sobre.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558594e9acd7e-5564ccd743734-dimensiona-logo.jpg
+cover: /img/portfolio/covers/558594e9acd7e-5564ccd743734-dimensiona-logo.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

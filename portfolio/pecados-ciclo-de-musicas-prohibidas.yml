@@ -11,26 +11,26 @@ body:
       Pecados: Ciclo de músicas prohibidas é un ciclo de concertos organizado polo Concello de Pontevedra e SinSal audio.
     type: text
   -
-    image: /portfolios/images/5585959db5ef5-logo2.jpg
+    image: /img/portfolio/images/5585959db5ef5-logo2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585959db6448-pecados2b.jpg
+    image: /img/portfolio/images/5585959db6448-pecados2b.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585959db6e2c-pecados3b.jpg
+    image: /img/portfolio/images/5585959db6e2c-pecados3b.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585959db73d2-3.jpg
+    image: /img/portfolio/images/5585959db73d2-3.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585959db78bb-51.jpg
+    image: /img/portfolio/images/5585959db78bb-51.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5585959db58e2-logo2.jpg
+cover: /img/portfolio/covers/5585959db58e2-logo2.jpg
 tags:
   - Gráfico
 members_id:

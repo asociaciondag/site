@@ -13,30 +13,30 @@ body:
       Proyecto desarrollado en el Máster de diseño de Mobiliario dirigido por Ricard Ferrer, que se imparte en la escuela Elisava (Escola Superior de Disseny i Enginyeria) de Barcelona.
     type: text
   -
-    image: /portfolios/images/555cdae76161e-1-nauha-imagen1.jpg
+    image: /img/portfolio/images/555cdae76161e-1-nauha-imagen1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdae761b7c-1-nauha-imagen2.jpg
+    image: /img/portfolio/images/555cdae761b7c-1-nauha-imagen2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdae761f6f-1-nauha-imagen3.jpg
+    image: /img/portfolio/images/555cdae761f6f-1-nauha-imagen3.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdae7624cc-1-nauha-imagen4.jpg
+    image: /img/portfolio/images/555cdae7624cc-1-nauha-imagen4.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdae762c96-1-nauha-imagen5.jpg
+    image: /img/portfolio/images/555cdae762c96-1-nauha-imagen5.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdae76311d-1-nauha-imagen6.jpg
+    image: /img/portfolio/images/555cdae76311d-1-nauha-imagen6.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558557bc0187a-555cdae761f6f-1-nauha-imagen3.jpg
+cover: /img/portfolio/covers/558557bc0187a-555cdae761f6f-1-nauha-imagen3.jpg
 tags:
   - Mobiliario
 members_id:

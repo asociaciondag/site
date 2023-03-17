@@ -11,50 +11,50 @@ body:
       ratio: ''
     type: embed
   -
-    image: /portfolios/images/01meister.png
+    image: /img/portfolio/images/01meister.png
     text: ''
     type: image
   -
-    image: /portfolios/images/02meister.png
+    image: /img/portfolio/images/02meister.png
     text: ''
     type: image
   -
-    image: /portfolios/images/03meister.png
+    image: /img/portfolio/images/03meister.png
     text: ''
     type: image
   -
-    image: /portfolios/images/04meister.png
+    image: /img/portfolio/images/04meister.png
     text: ''
     type: image
   -
-    image: /portfolios/images/05meister.png
+    image: /img/portfolio/images/05meister.png
     text: ''
     type: image
   -
-    image: /portfolios/images/06meister.png
+    image: /img/portfolio/images/06meister.png
     text: ''
     type: image
   -
-    image: /portfolios/images/07meister.png
+    image: /img/portfolio/images/07meister.png
     text: ''
     type: image
   -
-    image: /portfolios/images/08meister.png
+    image: /img/portfolio/images/08meister.png
     text: ''
     type: image
   -
-    image: /portfolios/images/09meister.png
+    image: /img/portfolio/images/09meister.png
     text: ''
     type: image
   -
-    image: /portfolios/images/10meister.png
+    image: /img/portfolio/images/10meister.png
     text: ''
     type: image
   -
-    image: /portfolios/images/11meister.png
+    image: /img/portfolio/images/11meister.png
     text: ''
     type: image
-cover: /portfolios/covers//01meister.png
+cover: /img/portfolio/covers/01meister.png
 tags:
   - Tipografía
 members_id:

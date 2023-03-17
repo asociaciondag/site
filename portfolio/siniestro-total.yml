@@ -9,14 +9,14 @@ body:
       O primeiro reto no deseño foi atopar a identidade gráfica de Siniestro Total, moi dispersa ao longo da súa historia. Non había un logotipo oficial, nin un estilo definido. Optouse por unha web en branco e negro combinados con vermello, por seren as cores máis empregadas ata agora, e tamén as da gráfica do novo disco. Debido á inmensa cantidade de información que había, houbo que crear caixas de distintas cores para axudar a orientarse. Por exemplo, os comentarios e todo o xerado polos usuarios vai sobre fondo branco, o dazibao (que é o muro onde os visitantes deixan mensaxes e se mostra a súa actividade) sobre vermello, e os vídeos, fotos e todo o material audiovisual en gris. Tamén foi unha das primeiras webs que fixemos onde incluímos por css unha tipografía especial para os títulos, en concreto a CA BND Web Bold, da fundición Cape Arcona, unha tipografía gratuíta deseñada especificamente para usar en web. Outra das novidades foi un sistema de comentarios onde os usuarios non só comentan con texto, senón que poden subir fotos e vídeos e deste xeito axudan a completar coas súas achegas a pequena enciclopedia da historia de Siniestro Total.
     type: text
   -
-    image: /portfolios/images/5585a034d8fbd-siniestro-total-portada.jpg
+    image: /img/portfolio/images/5585a034d8fbd-siniestro-total-portada.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585a034d9b28-siniestro-total-interior.jpg
+    image: /img/portfolio/images/5585a034d9b28-siniestro-total-interior.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5585a034d7d75-siniestro-total-portada.jpg
+cover: /img/portfolio/covers/5585a034d7d75-siniestro-total-portada.jpg
 tags:
   - Web
 members_id:

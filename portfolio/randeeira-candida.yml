@@ -11,26 +11,26 @@ body:
       Cándida é, como non, madeira pero tamén esvelteza. Queriamos demostrar que este material non ten que ser basto para dar sensación de estabilidade e resistencia. Quixemos levar a súa lixeireza ao extremo e que a sensación que produce ao vela acompañe o movemento cando se abala candidamente.
     type: text
   -
-    image: /portfolios/images/56e1474d36297-candida-02.jpg
+    image: /img/portfolio/images/56e1474d36297-candida-02.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/56e1474d365c1-candida-03.jpg
+    image: /img/portfolio/images/56e1474d365c1-candida-03.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/56e1474d3685c-candida-04.jpg
+    image: /img/portfolio/images/56e1474d3685c-candida-04.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/56e1474d36ada-candida-05.jpg
+    image: /img/portfolio/images/56e1474d36ada-candida-05.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/56e1474d36d7b-candida-06.jpg
+    image: /img/portfolio/images/56e1474d36d7b-candida-06.jpg
     text: ''
     type: image
-cover: /portfolios/covers/56e1474d35e85-candida-01.jpg
+cover: /img/portfolio/covers/56e1474d35e85-candida-01.jpg
 tags: []
 members_id:
   - 49

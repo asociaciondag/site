@@ -6,34 +6,34 @@ body:
     text: 'Algunas muestras de moodboards de materiales que he realizado para algunos proyectos y colaboraciones. Siempre empiezo con los pronósticos de tendencias, a veces lo hago de manera tradicional, otras veces mezclando el método tradicional con mis habilidades de análisis de datos. Pero, por supuesto muchas veces es el equipo de marketing del cliente me da esta información, que luego tomo como punto de partida para mi investigación. Para la realización de los moodboards, a veces utilizo muestras físicas, pero la mayoría de las veces utilizo software cgi (Susbtance Sampler and Designer) para generar gráficos digitales. ¿Por qué prefiero CGI? Porque me da mucha libertad para explorar nuevas texturas, acabados, materiales y colores. Luego, uso estos CGI para comunicarme con mis clientes y sus equipos (marketing, producción, técnico) e incluso ser usados en aplicaciones de realidad virtual y realidad aumentada.'
     type: text
   -
-    image: /portfolios/images/cmf-retro-lines.JPG
+    image: /img/portfolio/images/cmf-retro-lines.JPG
     text: ''
     type: image
   -
-    image: /portfolios/images/retro-cmf3.jpg
+    image: /img/portfolio/images/retro-cmf3.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/retro-cmf4.jpg
+    image: /img/portfolio/images/retro-cmf4.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/flow-moodboard-v2.jpg
+    image: /img/portfolio/images/flow-moodboard-v2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/202112-adult-cmf-strategy-moodboard7.jpg
+    image: /img/portfolio/images/202112-adult-cmf-strategy-moodboard7.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/202112-adult-cmf-strategy-moodboard6.jpg
+    image: /img/portfolio/images/202112-adult-cmf-strategy-moodboard6.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/retro-cmf.jpg
+    image: /img/portfolio/images/retro-cmf.jpg
     text: ''
     type: image
-cover: /portfolios/covers//cmf-retro-lines.JPG
+cover: /img/portfolio/covers/cmf-retro-lines.JPG
 tags:
   - Produto
 members_id:

@@ -6,10 +6,10 @@ body:
     text: 'Diseño campaña I–III ediciones.'
     type: text
   -
-    image: /portfolios/images/semua-1.jpg
+    image: /img/portfolio/images/semua-1.jpg
     text: ''
     type: image
-cover: /portfolios/covers//semua-portada.jpg
+cover: /img/portfolio/covers/semua-portada.jpg
 tags:
   - Gráfico
 members_id:

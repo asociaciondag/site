@@ -3,14 +3,14 @@ title: 'BEN VEÑAS MAIO'
 slug: ben-venas-maio
 body:
   -
-    image: /portfolios/images/ben-venas-maio-aplicacions.jpg
+    image: /img/portfolio/images/ben-venas-maio-aplicacions.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/cartel-ben-venas-maio.jpg
+    image: /img/portfolio/images/cartel-ben-venas-maio.jpg
     text: ''
     type: image
-cover: /portfolios/covers//ben-venas-maio-aplicacions.jpg
+cover: /img/portfolio/covers/ben-venas-maio-aplicacions.jpg
 tags:
   - Gráfico
 members_id:

@@ -3,10 +3,10 @@ title: 'Chilam Balam'
 slug: chilam-balam
 body:
   -
-    image: /portfolios/images/chilambalamvigo.jpg
+    image: /img/portfolio/images/chilambalamvigo.jpg
     text: ''
     type: image
-cover: /portfolios/covers//chilambalamvigo.jpg
+cover: /img/portfolio/covers/chilambalamvigo.jpg
 tags:
   - Industrial
   - Produto

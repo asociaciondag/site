@@ -9,22 +9,22 @@ body:
       [http://www.revista.mundo-r.com](http://www.revista.mundo-r.com/)
     type: text
   -
-    image: /portfolios/images/558595277b480-16.jpg
+    image: /img/portfolio/images/558595277b480-16.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/558595277b9ee-24.jpg
+    image: /img/portfolio/images/558595277b9ee-24.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/558595277be70-34.jpg
+    image: /img/portfolio/images/558595277be70-34.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/558595277c2b5-43.jpg
+    image: /img/portfolio/images/558595277c2b5-43.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558595277ae0a-16.jpg
+cover: /img/portfolio/covers/558595277ae0a-16.jpg
 tags:
   - Web
 members_id:

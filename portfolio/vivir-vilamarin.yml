@@ -13,10 +13,10 @@ body:
       Las aplicaciones de la marca crecen con la iniciativa gracias al dinamismo y versatilidad del sistema compositivo.
     type: text
   -
-    image: /portfolios/images/vivir-vilamari-uen.jpg
+    image: /img/portfolio/images/vivir-vilamari-uen.jpg
     text: ''
     type: image
-cover: /portfolios/covers//vivir-vilamari-n-thumbnail.jpg
+cover: /img/portfolio/covers/vivir-vilamari-n-thumbnail.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

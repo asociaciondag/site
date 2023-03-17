@@ -6,10 +6,10 @@ body:
     text: 'Cartaz para a difusión do Grao en Relacións Laborais e Recursos Humanos da E.U. Relacións Laborais de Lugo – USC.'
     type: text
   -
-    image: /portfolios/images/55a3d3b181307-cartel.jpg
+    image: /img/portfolio/images/55a3d3b181307-cartel.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55a3d80695477-cuberta.png
+cover: /img/portfolio/covers/55a3d80695477-cuberta.png
 tags:
   - Gráfico
 members_id:

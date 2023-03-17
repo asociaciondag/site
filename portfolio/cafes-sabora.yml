@@ -6,50 +6,50 @@ body:
     text: 'Rediseño de la imagen y del _packaging_ de la empresa de café compostelana.'
     type: text
   -
-    image: /portfolios/images/5554e276ce830-sabora_bodegon11.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_bodegon11.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e276ce830-sabora_asucar.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_asucar.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e276ce830-sabora_cafe.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_cafe.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e276ce830-sabora_ceniceros.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_ceniceros.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e276ce830-sabora_envases.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_envases.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e276ce830-sabora_envases1.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_envases1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e276ce830-sabora_furgo1.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_furgo1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e276ce830-sabora_furgo3.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_furgo3.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e276ce830-sabora_paquetes1.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_paquetes1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e276ce830-sabora_paquetes2.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_paquetes2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e276ce830-sabora_vasos.jpg
+    image: /img/portfolio/images/5554e276ce830-sabora_vasos.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5585521aef809-5554e276ce830-sabora-ceniceros.jpg
+cover: /img/portfolio/covers/5585521aef809-5554e276ce830-sabora-ceniceros.jpg
 tags:
   - Embalaxe
   - Gráfico

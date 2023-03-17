@@ -3,10 +3,10 @@ title: 'Zara Home'
 slug: zara-home
 body:
   -
-    image: /portfolios/images/zara-home.jpg
+    image: /img/portfolio/images/zara-home.jpg
     text: ''
     type: image
-cover: /portfolios/covers//zara-home.jpg
+cover: /img/portfolio/covers/zara-home.jpg
 tags:
   - Embalaxe
 members_id:

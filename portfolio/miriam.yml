@@ -3,22 +3,22 @@ title: Miriam
 slug: miriam
 body:
   -
-    image: /portfolios/images/573f2e3935070-miriam-digital-art-1-bh.jpg
+    image: /img/portfolio/images/573f2e3935070-miriam-digital-art-1-bh.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/573f2ed62d8fb-miriam-digital-art-2-bh.jpg
+    image: /img/portfolio/images/573f2ed62d8fb-miriam-digital-art-2-bh.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/573f31f6c3273-miriam-digital-art-3-bh.jpg
+    image: /img/portfolio/images/573f31f6c3273-miriam-digital-art-3-bh.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/573f322da6c48-miriam-digital-art-4-bh.jpg
+    image: /img/portfolio/images/573f322da6c48-miriam-digital-art-4-bh.jpg
     text: ''
     type: image
-cover: /portfolios/covers/573f2e0c21bbb-portada-miriam-bh.jpg
+cover: /img/portfolio/covers/573f2e0c21bbb-portada-miriam-bh.jpg
 tags: []
 members_id:
   - 52

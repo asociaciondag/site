@@ -6,22 +6,22 @@ body:
     text: 'La Casa das Campás diseña cada año los materiales de promoción de las actividades, cursos y talleres que se promueven desde la Universidad de Vigo para todo el Campus de Pontevedra. En esta ocasión, teniendo que mantener los colores corporativos y los formatos utilizados en anteriores ocasiones, diseñamos un cartel, un desplegable, un mantel para los comedores universitarios y un librito de 24 páginas.'
     type: text
   -
-    image: /portfolios/images/555cdf3e78eda-casacampas-01.jpg
+    image: /img/portfolio/images/555cdf3e78eda-casacampas-01.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdf3e794fe-casacampas-02.jpg
+    image: /img/portfolio/images/555cdf3e794fe-casacampas-02.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdf3e799fd-casacampas-03.jpg
+    image: /img/portfolio/images/555cdf3e799fd-casacampas-03.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdf3e79f47-casacampas-04.jpg
+    image: /img/portfolio/images/555cdf3e79f47-casacampas-04.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558564d3ac489-555cdf3e794fe-casacampas-02.jpg
+cover: /img/portfolio/covers/558564d3ac489-555cdf3e794fe-casacampas-02.jpg
 tags:
   - Gráfico
 members_id:

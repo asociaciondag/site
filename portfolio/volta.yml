@@ -13,42 +13,42 @@ body:
       Para os bosquexos empregouse o cálamo, a ferramenta de escritura tradicional do mundo árabe.
     type: text
   -
-    image: /portfolios/images/5564c615b2815-itunes-ok.jpg
+    image: /img/portfolio/images/5564c615b2815-itunes-ok.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c615b2ce9-volta-pack-02-copia.jpg
+    image: /img/portfolio/images/5564c615b2ce9-volta-pack-02-copia.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c615b3012-volta-pack-03.jpg
+    image: /img/portfolio/images/5564c615b3012-volta-pack-03.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c615b3364-volta-pack-05.jpg
+    image: /img/portfolio/images/5564c615b3364-volta-pack-05.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c615b362e-volta-pack-08.jpg
+    image: /img/portfolio/images/5564c615b362e-volta-pack-08.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c615b38ff-volta-pack-09.jpg
+    image: /img/portfolio/images/5564c615b38ff-volta-pack-09.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c615b3bbc-volta-pack-14.jpg
+    image: /img/portfolio/images/5564c615b3bbc-volta-pack-14.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c615b3e30-volta-pack-18.jpg
+    image: /img/portfolio/images/5564c615b3e30-volta-pack-18.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c615b4051-volta-pack-19.jpg
+    image: /img/portfolio/images/5564c615b4051-volta-pack-19.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558567e63feff-5564c615b2815-itunes-ok.jpg
+cover: /img/portfolio/covers/558567e63feff-5564c615b2815-itunes-ok.jpg
 tags:
   - Tipografía
 members_id:

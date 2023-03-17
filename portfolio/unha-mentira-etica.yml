@@ -11,34 +11,34 @@ body:
       As imaxes do proceso e uns bosquexos dixitais foron presentados ao cliente para darlle unha idea visual do produto final.
     type: text
   -
-    image: /portfolios/images/asulab-textures2.jpg
+    image: /img/portfolio/images/asulab-textures2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/asulab-textures3.jpg
+    image: /img/portfolio/images/asulab-textures3.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/asulab-textures4.jpg
+    image: /img/portfolio/images/asulab-textures4.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/asulab-textures5.jpg
+    image: /img/portfolio/images/asulab-textures5.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/asulab-textures6.jpg
+    image: /img/portfolio/images/asulab-textures6.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/asulab-textures7.jpg
+    image: /img/portfolio/images/asulab-textures7.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/asulab-textures8.jpg
+    image: /img/portfolio/images/asulab-textures8.jpg
     text: ''
     type: image
-cover: /portfolios/covers//asulab-textures8.jpg
+cover: /img/portfolio/covers/asulab-textures8.jpg
 tags:
   - Produto
 members_id:

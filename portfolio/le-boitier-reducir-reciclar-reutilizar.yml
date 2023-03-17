@@ -12,14 +12,14 @@ body:
        
     type: text
   -
-    image: /portfolios/images/boitierrr-cover-alternance-fond-transparent.png
+    image: /img/portfolio/images/boitierrr-cover-alternance-fond-transparent.png
     text: ''
     type: image
   -
-    image: /portfolios/images/exploded-view.png
+    image: /img/portfolio/images/exploded-view.png
     text: ''
     type: image
-cover: /portfolios/covers//boitierrr-cover-alternance-fond-transparent.png
+cover: /img/portfolio/covers/boitierrr-cover-alternance-fond-transparent.png
 tags:
   - Produto
 members_id:

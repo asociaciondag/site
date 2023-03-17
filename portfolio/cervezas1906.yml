@@ -3,10 +3,10 @@ title: 'Cervezas 1906'
 slug: cervezas1906
 body:
   -
-    image: /portfolios/images/cervezas-1906.png
+    image: /img/portfolio/images/cervezas-1906.png
     text: ''
     type: image
-cover: /portfolios/covers//cervezas-1906.png
+cover: /img/portfolio/covers/cervezas-1906.png
 tags:
   - Embalaxe
 members_id:

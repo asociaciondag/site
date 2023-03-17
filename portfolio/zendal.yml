@@ -3,10 +3,10 @@ title: Zendal
 slug: zendal
 body:
   -
-    image: /portfolios/images/zendal-awards.jpg
+    image: /img/portfolio/images/zendal-awards.jpg
     text: ''
     type: image
-cover: /portfolios/covers//zendal-awards.jpg
+cover: /img/portfolio/covers/zendal-awards.jpg
 tags:
   - Produto
 members_id:

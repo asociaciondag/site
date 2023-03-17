@@ -6,30 +6,30 @@ body:
     text: 'Ilustracións vectoriais para _packaging_.'
     type: text
   -
-    image: /portfolios/images/01.jpg
+    image: /img/portfolio/images/01.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/02.jpg
+    image: /img/portfolio/images/02.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/03.jpg
+    image: /img/portfolio/images/03.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/04.jpg
+    image: /img/portfolio/images/04.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/05.jpg
+    image: /img/portfolio/images/05.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/ilustracions.jpg
+    image: /img/portfolio/images/ilustracions.jpg
     text: ''
     type: image
-cover: /portfolios/covers//03.jpg
+cover: /img/portfolio/covers/03.jpg
 tags: []
 members_id:
   - 69

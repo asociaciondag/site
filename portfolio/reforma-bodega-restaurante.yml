@@ -11,18 +11,18 @@ body:
       Deseñamos as mesas, botelleiro, carros de apoio, etc.
     type: text
   -
-    image: /portfolios/images/a2b8559.jpg
+    image: /img/portfolio/images/a2b8559.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/a2b8585.jpg
+    image: /img/portfolio/images/a2b8585.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/a2b8587.jpg
+    image: /img/portfolio/images/a2b8587.jpg
     text: ''
     type: image
-cover: /portfolios/covers//a2b8559.jpg
+cover: /img/portfolio/covers/a2b8559.jpg
 tags:
   - Espazos
   - Mobiliario

@@ -6,10 +6,10 @@ body:
     text: 'Deseño de imaxe gráfica para o programa de música tradicional Tradigalu, lanzado pola Deputación de Lugo'
     type: text
   -
-    image: /portfolios/images/tradigalu-cartaz.jpg
+    image: /img/portfolio/images/tradigalu-cartaz.jpg
     text: ''
     type: image
-cover: /portfolios/covers//tradigalu-cartaz.jpg
+cover: /img/portfolio/covers/tradigalu-cartaz.jpg
 tags:
   - Sinalética
 members_id:

@@ -6,14 +6,14 @@ body:
     text: 'Ilustración de una consola Sony PSP totalmente vectorial creada en Adobe Illustrator.'
     type: text
   -
-    image: /portfolios/images/detalle-ilustracion.jpg
+    image: /img/portfolio/images/detalle-ilustracion.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/ilustracion-vectorial.jpg
+    image: /img/portfolio/images/ilustracion-vectorial.jpg
     text: ''
     type: image
-cover: /portfolios/covers//detalle-ilustracion.jpg
+cover: /img/portfolio/covers/detalle-ilustracion.jpg
 tags: []
 members_id:
   - 69

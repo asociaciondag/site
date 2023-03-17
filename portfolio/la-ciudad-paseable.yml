@@ -19,38 +19,38 @@ body:
       Agardamos que a cidade que se propón para o peón sexa o libro para o lector.
     type: text
   -
-    image: /portfolios/images/555a4a86b6189-00.jpg
+    image: /img/portfolio/images/555a4a86b6189-00.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555a4a86b668d-018.jpg
+    image: /img/portfolio/images/555a4a86b668d-018.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555a4a86b6ad2-027.jpg
+    image: /img/portfolio/images/555a4a86b6ad2-027.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555a4a86b701c-036.jpg
+    image: /img/portfolio/images/555a4a86b701c-036.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555a4a86b7415-046.jpg
+    image: /img/portfolio/images/555a4a86b7415-046.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555a4a86b784e-062.jpg
+    image: /img/portfolio/images/555a4a86b784e-062.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555a4a86b7d4d-081.jpg
+    image: /img/portfolio/images/555a4a86b7d4d-081.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555a4a86b8155-90.jpg
+    image: /img/portfolio/images/555a4a86b8155-90.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55859aa8b53c9-555a4a86b6ad2-027.jpg
+cover: /img/portfolio/covers/55859aa8b53c9-555a4a86b6ad2-027.jpg
 tags:
   - Editorial
 members_id:

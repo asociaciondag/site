@@ -3,14 +3,14 @@ title: 'Modelo 176'
 slug: modelo-176
 body:
   -
-    image: /portfolios/images/0-176.jpg
+    image: /img/portfolio/images/0-176.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/00-176.jpg
+    image: /img/portfolio/images/00-176.jpg
     text: ''
     type: image
-cover: /portfolios/covers//0-176.jpg
+cover: /img/portfolio/covers/0-176.jpg
 tags:
   - Industrial
   - Produto

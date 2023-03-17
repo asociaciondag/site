@@ -19,18 +19,18 @@ body:
       <http://moccahelados.com>
     type: text
   -
-    image: /portfolios/images/5585a29994544-01.jpg
+    image: /img/portfolio/images/5585a29994544-01.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585a299947fb-02.jpg
+    image: /img/portfolio/images/5585a299947fb-02.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585a29994a56-03.jpg
+    image: /img/portfolio/images/5585a29994a56-03.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5585b6d4dd2c2-mocca.jpg
+cover: /img/portfolio/covers/5585b6d4dd2c2-mocca.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

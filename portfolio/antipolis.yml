@@ -23,30 +23,30 @@ body:
       Imaxinamos un (deseño de) libro que non se esgote nunha primeira mirada.
     type: text
   -
-    image: /portfolios/images/55576478e4376-0112.jpg
+    image: /img/portfolio/images/55576478e4376-0112.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576478e4376-0210.jpg
+    image: /img/portfolio/images/55576478e4376-0210.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576478e4376-039.jpg
+    image: /img/portfolio/images/55576478e4376-039.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576478e4376-049.jpg
+    image: /img/portfolio/images/55576478e4376-049.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576478e4376-056.jpg
+    image: /img/portfolio/images/55576478e4376-056.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576478e4376-065.jpg
+    image: /img/portfolio/images/55576478e4376-065.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55856622cae11-55576478e4376-049.jpg
+cover: /img/portfolio/covers/55856622cae11-55576478e4376-049.jpg
 tags:
   - Editorial
 members_id:

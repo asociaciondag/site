@@ -3,10 +3,10 @@ title: 'A Porta Aberta'
 slug: a-porta-aberta
 body:
   -
-    image: /portfolios/images/aportaaberta.jpg
+    image: /img/portfolio/images/aportaaberta.jpg
     text: ''
     type: image
-cover: /portfolios/covers//aportaaberta.jpg
+cover: /img/portfolio/covers/aportaaberta.jpg
 tags:
   - Gráfico
   - Espazos

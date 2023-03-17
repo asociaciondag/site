@@ -3,14 +3,14 @@ title: 'Burmet Burger & Grill'
 slug: burmet-burger-grill
 body:
   -
-    image: /portfolios/images/burmet-burger-grill.jpg
+    image: /img/portfolio/images/burmet-burger-grill.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/burmet-bolsa.jpg
+    image: /img/portfolio/images/burmet-bolsa.jpg
     text: ''
     type: image
-cover: /portfolios/covers//burmet-burger-grill.jpg
+cover: /img/portfolio/covers/burmet-burger-grill.jpg
 tags:
   - 'Identidade corporativa'
   - Embalaxe

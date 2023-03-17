@@ -6,10 +6,10 @@ body:
     text: 'Imagen aplicada a carteles, papelería, serigrafía de vasos, programación del evento y señalética'
     type: text
   -
-    image: /portfolios/images/5564c8b36b8cc-sabores-e-saberes.jpg
+    image: /img/portfolio/images/5564c8b36b8cc-sabores-e-saberes.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55859c01926d0-5564c8b36b8cc-sabores-e-saberes.jpg
+cover: /img/portfolio/covers/55859c01926d0-5564c8b36b8cc-sabores-e-saberes.jpg
 tags: []
 members_id:
   - 21

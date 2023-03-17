@@ -6,30 +6,30 @@ body:
     text: 'O obxectivo do proxecto era presentar esta exposición do Museo de Deseño de Zúric cun ton didáctico e colorido, contraposta á imaxe sobria e fría con que foi presentada en Zúric.'
     type: text
   -
-    image: /portfolios/images/56fb8df45763a-type-in-motion-miniatura.jpg
+    image: /img/portfolio/images/56fb8df45763a-type-in-motion-miniatura.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cf3da1ba60-dag004-tim003.jpg
+    image: /img/portfolio/images/555cf3da1ba60-dag004-tim003.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cf3da1bef0-dag004-tim004.jpg
+    image: /img/portfolio/images/555cf3da1bef0-dag004-tim004.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cf3da1c41b-dag004-tim005.jpg
+    image: /img/portfolio/images/555cf3da1c41b-dag004-tim005.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cf3da1c94d-dag004-tim006.jpg
+    image: /img/portfolio/images/555cf3da1c94d-dag004-tim006.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cf3da1af1d-dag004-tim001.jpg
+    image: /img/portfolio/images/555cf3da1af1d-dag004-tim001.jpg
     text: ''
     type: image
-cover: /portfolios/covers/56fbdfa730b0d-type-in-motion-miniatura.jpg
+cover: /img/portfolio/covers/56fbdfa730b0d-type-in-motion-miniatura.jpg
 tags:
   - Exposicións
   - Gráfico

@@ -6,14 +6,14 @@ body:
     text: 'Imagen aplicada a los carteles, _merchandising,_ _digipack_ de la banda sonora, y otros artículos promocionales.'
     type: text
   -
-    image: /portfolios/images/5564c824cc85e-krebinsky.jpg
+    image: /img/portfolio/images/5564c824cc85e-krebinsky.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c824ccd33-krebinsky-logo.jpg
+    image: /img/portfolio/images/5564c824ccd33-krebinsky-logo.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558567156a4f9-5564c824ccd33-krebinsky-logo.jpg
+cover: /img/portfolio/covers/558567156a4f9-5564c824ccd33-krebinsky-logo.jpg
 tags:
   - Gráfico
 members_id:

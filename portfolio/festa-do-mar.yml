@@ -3,10 +3,10 @@ title: 'Festa do mar'
 slug: festa-do-mar
 body:
   -
-    image: /portfolios/images/festa-do-mar-2015.jpg
+    image: /img/portfolio/images/festa-do-mar-2015.jpg
     text: ''
     type: image
-cover: /portfolios/covers//festa-do-mar-2015.jpg
+cover: /img/portfolio/covers/festa-do-mar-2015.jpg
 tags: []
 members_id:
   - 23

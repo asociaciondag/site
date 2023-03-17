@@ -9,26 +9,26 @@ body:
       Redeseñamos a marca gráfica e creamos un _packaging_ axustado ás súas necesidades técnicas e empresariais.
     type: text
   -
-    image: /portfolios/images/56fb96f524661-millo-verde-02-desonhos.jpg
+    image: /img/portfolio/images/56fb96f524661-millo-verde-02-desonhos.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/56fb96f524966-millo-verde-03-desonhos.jpg
+    image: /img/portfolio/images/56fb96f524966-millo-verde-03-desonhos.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/56fb96f524abd-millo-verde-04-desonhos.jpg
+    image: /img/portfolio/images/56fb96f524abd-millo-verde-04-desonhos.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/56fb96f524c04-millo-verde-05-desonhos.jpg
+    image: /img/portfolio/images/56fb96f524c04-millo-verde-05-desonhos.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/56fb96f524ded-millo-verde-06-desonhos.jpg
+    image: /img/portfolio/images/56fb96f524ded-millo-verde-06-desonhos.jpg
     text: ''
     type: image
-cover: /portfolios/covers/56fb96f5243d7-millo-verde-01-desonhos.jpg
+cover: /img/portfolio/covers/56fb96f5243d7-millo-verde-01-desonhos.jpg
 tags: []
 members_id:
   - 2

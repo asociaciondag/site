@@ -9,26 +9,26 @@ body:
       Web: [atipofoundry.com/fonts/knile](http://atipofoundry.com/fonts/knile)
     type: text
   -
-    image: /portfolios/images/knile1.png
+    image: /img/portfolio/images/knile1.png
     text: ''
     type: image
   -
-    image: /portfolios/images/knile2.png
+    image: /img/portfolio/images/knile2.png
     text: ''
     type: image
   -
-    image: /portfolios/images/knile3.png
+    image: /img/portfolio/images/knile3.png
     text: ''
     type: image
   -
-    image: /portfolios/images/knile4.png
+    image: /img/portfolio/images/knile4.png
     text: ''
     type: image
   -
-    image: /portfolios/images/knile5.png
+    image: /img/portfolio/images/knile5.png
     text: ''
     type: image
-cover: /portfolios/covers//knile1.png
+cover: /img/portfolio/covers/knile1.png
 tags:
   - Tipografía
 members_id:

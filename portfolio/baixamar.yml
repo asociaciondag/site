@@ -13,18 +13,18 @@ body:
       Las combinaciones cromáticas (en clara alusión al pintado tradicional de dichas embarcaciones) y el contraste con la madera natural, dotan a los estantes de una premeditada “calidez artesanal”.
     type: text
   -
-    image: /portfolios/images/570f65e499654-bai003-lateral.jpg
+    image: /img/portfolio/images/570f65e499654-bai003-lateral.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f4dc7b09fb-bai003-perspectiva.jpg
+    image: /img/portfolio/images/570f4dc7b09fb-bai003-perspectiva.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f4dc7b0ccb-baixamar-composicion-1.jpg
+    image: /img/portfolio/images/570f4dc7b0ccb-baixamar-composicion-1.jpg
     text: ''
     type: image
-cover: /portfolios/covers/570f4dc7b061d-bai003-lateral.jpg
+cover: /img/portfolio/covers/570f4dc7b061d-bai003-lateral.jpg
 tags: []
 members_id:
   - 51

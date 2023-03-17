@@ -6,46 +6,46 @@ body:
     text: 'Swiss Style Design é un proxecto sen ánimo de lucro cun obxectivo claro: conformar un escaparate do deseño suízo a través de carteis de películas. A miña proposta para tal convocatoria foi este cartel de _O acoirazado Potemkin._ A propósito deste traballo saíron outras propostas que conforman un proxecto persoal propio.'
     type: text
   -
-    image: /portfolios/images/2.jpg
+    image: /img/portfolio/images/2.jpg
     text: 'Deseño do cartel do filme _O acoirazado Potemkin_'
     type: image
   -
-    image: /portfolios/images/1.jpg
+    image: /img/portfolio/images/1.jpg
     text: 'Deseño do cartel do filme _O bo, o feo e o mao_'
     type: image
   -
-    image: /portfolios/images/3.jpg
+    image: /img/portfolio/images/3.jpg
     text: 'Deseño do cartel do filme _O resplandor_'
     type: image
   -
-    image: /portfolios/images/4.jpg
+    image: /img/portfolio/images/4.jpg
     text: 'Deseño do cartel do filme _A xanela indiscreta_'
     type: image
   -
-    image: /portfolios/images/6.jpg
+    image: /img/portfolio/images/6.jpg
     text: 'Deseño do cartel do filme _Memento_'
     type: image
   -
-    image: /portfolios/images/8.jpg
+    image: /img/portfolio/images/8.jpg
     text: 'Deseño do cartel do filme _Psicose_'
     type: image
   -
-    image: /portfolios/images/9.jpg
+    image: /img/portfolio/images/9.jpg
     text: 'Deseño do cartel do filme _Stoker_'
     type: image
   -
-    image: /portfolios/images/10.jpg
+    image: /img/portfolio/images/10.jpg
     text: 'Deseño do cartel do filme _Tiburón_'
     type: image
   -
-    image: /portfolios/images/5.jpg
+    image: /img/portfolio/images/5.jpg
     text: 'Deseño do cartel do filme _Os paxaros_'
     type: image
   -
-    image: /portfolios/images/7.jpg
+    image: /img/portfolio/images/7.jpg
     text: 'Deseño do cartel do filme _O meu tío_'
     type: image
-cover: /portfolios/covers/5603c7ffeba8c-el-acorazado-potemkin.jpg
+cover: /img/portfolio/covers/5603c7ffeba8c-el-acorazado-potemkin.jpg
 tags: []
 members_id:
   - 40

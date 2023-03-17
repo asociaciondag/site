@@ -17,30 +17,30 @@ body:
       Obra a la venta en [galería Monty4](https://latienda.monty4.com/collections/begona-pastoriza).
     type: text
   -
-    image: /portfolios/images/covid-confinamiento1-1.jpg
+    image: /img/portfolio/images/covid-confinamiento1-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/covid-confinamiento2.jpg
+    image: /img/portfolio/images/covid-confinamiento2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/covid-explosion.jpg
+    image: /img/portfolio/images/covid-explosion.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/covid-luna-1.jpg
+    image: /img/portfolio/images/covid-luna-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/postcovid-matildamoisant-1.jpg
+    image: /img/portfolio/images/postcovid-matildamoisant-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/postcovid-salto.jpg
+    image: /img/portfolio/images/postcovid-salto.jpg
     text: ''
     type: image
-cover: /portfolios/covers//covid-explosion.jpg
+cover: /img/portfolio/covers/covid-explosion.jpg
 tags:
   - Gráfico
 members_id:

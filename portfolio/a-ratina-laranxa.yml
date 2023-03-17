@@ -9,14 +9,14 @@ body:
       A Ratiña Laranxa é unha proposta didáctico musical —dirixida ao público infantil— producida e interpretada polo cuarteto Caramuxo e realizada recentemente dentro da programación de concertos didácticos da Orquestra Sinfónica de Galicia. Para levar adiante este proxecto, Caramuxo creou un equipo de traballo no que participan unha serie de persoas, cada unha delas especializada en diferentes campos: literatura infantil, teatro e escenografía.
     type: text
   -
-    image: /portfolios/images/5564c70675d27-maqueta.jpg
+    image: /img/portfolio/images/5564c70675d27-maqueta.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c70676292-ratin-a-laranxa.jpg
+    image: /img/portfolio/images/5564c70676292-ratin-a-laranxa.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55859b934cfdb-5564c70676292-ratin-a-laranxa.jpg
+cover: /img/portfolio/covers/55859b934cfdb-5564c70676292-ratin-a-laranxa.jpg
 tags:
   - Gráfico
 members_id:

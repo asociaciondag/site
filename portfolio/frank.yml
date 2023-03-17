@@ -9,10 +9,10 @@ body:
       Así pues, y cogiendo como referencia la heráldica patronímica, se hace una revisión de sus potentes elementos y se obtiene como resultado una imagen que transmite confianza y seguridad y enfatiza su razón de ser. En lo tocante a la tipografía, se escogió una sans-serif con el ánimo de preservar la robustez de la anterior, y que le da un carácter más neutro y actual.
     type: text
   -
-    image: /portfolios/images/frank.jpg
+    image: /img/portfolio/images/frank.jpg
     text: ''
     type: image
-cover: /portfolios/covers//frank-thumbnail.jpg
+cover: /img/portfolio/covers/frank-thumbnail.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

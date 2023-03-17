@@ -3,13 +3,13 @@ title: 'Mami natureza, campaña postal'
 slug: mami-natureza-campana-postal
 body:
   -
-    image: /portfolios/images/mahoma2.jpg
+    image: /img/portfolio/images/mahoma2.jpg
     text: ''
     type: image
   -
     text: '[Mami natureza, campaña postal](https://davidrivada.es/postal.html)'
     type: text
-cover: /portfolios/covers//mahoma2.jpg
+cover: /img/portfolio/covers/mahoma2.jpg
 tags:
   - Gráfico
   - Editorial

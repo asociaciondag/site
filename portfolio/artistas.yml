@@ -3,18 +3,18 @@ title: Artistas
 slug: artistas
 body:
   -
-    image: /portfolios/images/artistas.jpg
+    image: /img/portfolio/images/artistas.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/artistas-folleto-1.jpg
+    image: /img/portfolio/images/artistas-folleto-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/artistas-folleto-2.jpg
+    image: /img/portfolio/images/artistas-folleto-2.jpg
     text: ''
     type: image
-cover: /portfolios/covers//artistas.jpg
+cover: /img/portfolio/covers/artistas.jpg
 tags:
   - Gráfico
 members_id:

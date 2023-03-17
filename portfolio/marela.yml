@@ -11,22 +11,22 @@ body:
       La colaboración con el irreverente ilustrador Alberto Guitián se pone de manifiesto en los pequeños detalles distintivos de estos adorables bóvidos, como el “orificio posterior de escape” o las “ruedas tractoreñas”.
     type: text
   -
-    image: /portfolios/images/570f55828290e-marela-composicion-1.jpg
+    image: /img/portfolio/images/570f55828290e-marela-composicion-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f558282be0-marela-composicion-2.jpg
+    image: /img/portfolio/images/570f558282be0-marela-composicion-2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f63ac27f95-mar001-forntal.jpg
+    image: /img/portfolio/images/570f63ac27f95-mar001-forntal.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f558282f16-marela-vista-posterior.jpg
+    image: /img/portfolio/images/570f558282f16-marela-vista-posterior.jpg
     text: ''
     type: image
-cover: /portfolios/covers/570f6384e4778-marela-composicion-1.jpg
+cover: /img/portfolio/covers/570f6384e4778-marela-composicion-1.jpg
 tags: []
 members_id:
   - 51

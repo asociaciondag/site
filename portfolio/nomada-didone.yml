@@ -9,26 +9,26 @@ body:
       Web: [www.tipografies.com/fonts/nomada-didone/styles/](http://www.tipografies.com/fonts/nomada-didone/styles/)
     type: text
   -
-    image: /portfolios/images/nomada.png
+    image: /img/portfolio/images/nomada.png
     text: ''
     type: image
   -
-    image: /portfolios/images/nomada2.png
+    image: /img/portfolio/images/nomada2.png
     text: ''
     type: image
   -
-    image: /portfolios/images/nomada3.png
+    image: /img/portfolio/images/nomada3.png
     text: ''
     type: image
   -
-    image: /portfolios/images/nomada4.png
+    image: /img/portfolio/images/nomada4.png
     text: ''
     type: image
   -
-    image: /portfolios/images/nomada5.png
+    image: /img/portfolio/images/nomada5.png
     text: ''
     type: image
-cover: /portfolios/covers//nomada.png
+cover: /img/portfolio/covers/nomada.png
 tags:
   - Tipografía
 members_id:

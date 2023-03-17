@@ -6,10 +6,10 @@ body:
     text: 'Imagen gráfica de las ediciones 29–33.'
     type: text
   -
-    image: /portfolios/images/publicacionnoroeste.jpg
+    image: /img/portfolio/images/publicacionnoroeste.jpg
     text: ''
     type: image
-cover: /portfolios/covers//portadanoroeste.jpg
+cover: /img/portfolio/covers/portadanoroeste.jpg
 tags:
   - 'Identidade corporativa'
   - Gráfico

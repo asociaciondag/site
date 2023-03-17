@@ -6,22 +6,22 @@ body:
     text: 'La tienda Pecados de Compostela necesitaba un embalaje para regalar chucherías y caramelos en esas ocasiones especiales, personales o de celebración conjunta. Creamos un estuchado divertido y festivo, con una presentación colorista, junto con una serie de postales y tarjetas de felicitación como el complemento ideal para un producto dulce y variado.'
     type: text
   -
-    image: /portfolios/images/555cdee9c425e-pecados-01.jpg
+    image: /img/portfolio/images/555cdee9c425e-pecados-01.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdee9c4b4d-pecados-02.jpg
+    image: /img/portfolio/images/555cdee9c4b4d-pecados-02.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdee9c5144-pecados-03.jpg
+    image: /img/portfolio/images/555cdee9c5144-pecados-03.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdee9c57b9-pecados-04.jpg
+    image: /img/portfolio/images/555cdee9c57b9-pecados-04.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558561544da65-555cdee9c4b4d-pecados-02.jpg
+cover: /img/portfolio/covers/558561544da65-555cdee9c4b4d-pecados-02.jpg
 tags:
   - Embalaxe
   - Gráfico

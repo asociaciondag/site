@@ -6,34 +6,34 @@ body:
     text: 'Identidad corporativa e ilustraciones para _startup_ alemana para la promoción de un controlador de videojuegos orientados a simuladores de vuelo.'
     type: text
   -
-    image: /portfolios/images/fondo-newsletter-2-1.jpg
+    image: /img/portfolio/images/fondo-newsletter-2-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/fondo-newsletter-3-2.jpg
+    image: /img/portfolio/images/fondo-newsletter-3-2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/fondo-newsletter-1-1.jpg
+    image: /img/portfolio/images/fondo-newsletter-1-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/soldado.jpg
+    image: /img/portfolio/images/soldado.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/controlador-videojuegos.jpg
+    image: /img/portfolio/images/controlador-videojuegos.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/blackhog-logo.jpg
+    image: /img/portfolio/images/blackhog-logo.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/tshirs.jpg
+    image: /img/portfolio/images/tshirs.jpg
     text: ''
     type: image
-cover: /portfolios/covers//blackhog-logo-portada.jpg
+cover: /img/portfolio/covers/blackhog-logo-portada.jpg
 tags:
   - 'Identidade corporativa'
   - Gráfico

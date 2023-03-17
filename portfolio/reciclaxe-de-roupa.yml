@@ -3,38 +3,38 @@ title: 'Reciclaxe de roupa'
 slug: reciclaxe-de-roupa
 body:
   -
-    image: /portfolios/images/photo-2021-11-15-12-14-36.jpg
+    image: /img/portfolio/images/photo-2021-11-15-12-14-36.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/photo-2021-07-21-14-39-57.jpg
+    image: /img/portfolio/images/photo-2021-07-21-14-39-57.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/img-0460-reduc.jpg
+    image: /img/portfolio/images/img-0460-reduc.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/auchan-cover.jpg
+    image: /img/portfolio/images/auchan-cover.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/mobilephones.jpg
+    image: /img/portfolio/images/mobilephones.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/photo-2019-05-01-14-53-11.jpg
+    image: /img/portfolio/images/photo-2019-05-01-14-53-11.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/auchan1.JPG
+    image: /img/portfolio/images/auchan1.JPG
     text: ''
     type: image
   -
-    image: /portfolios/images/auchan2.JPG
+    image: /img/portfolio/images/auchan2.JPG
     text: ''
     type: image
-cover: /portfolios/covers//auchan-cover.jpg
+cover: /img/portfolio/covers/auchan-cover.jpg
 tags:
   - Produto
 members_id:

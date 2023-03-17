@@ -6,14 +6,14 @@ body:
     text: 'Fotografía de moda inspirada en retratistas de la década de los as años 50. Un recorrido que abarca desde la moda hasta el detalle del retrato.'
     type: text
   -
-    image: /portfolios/images/retoque-5.jpg
+    image: /img/portfolio/images/retoque-5.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/retoque-8.jpg
+    image: /img/portfolio/images/retoque-8.jpg
     text: ''
     type: image
-cover: /portfolios/covers//retoque-5.jpg
+cover: /img/portfolio/covers/retoque-5.jpg
 tags: []
 members_id:
   - 59

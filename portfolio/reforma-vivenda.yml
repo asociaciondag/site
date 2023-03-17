@@ -6,22 +6,22 @@ body:
     text: 'Reforma dun piso nun edificio dos anos 70 que non sufrira ningunha actualización. Tratábase dun piso con demasiadas divisións, con boa luz natural pero que non chegaba a todos os recunchos. Decidimos comunicar estancias aproveitando a luz natural, ademais de aplicar novos acabados, novas instalacións e equipamento.'
     type: text
   -
-    image: /portfolios/images/img-2768.jpg
+    image: /img/portfolio/images/img-2768.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/img-2785.jpg
+    image: /img/portfolio/images/img-2785.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/img-2797.jpg
+    image: /img/portfolio/images/img-2797.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/img-2802.jpg
+    image: /img/portfolio/images/img-2802.jpg
     text: ''
     type: image
-cover: /portfolios/covers//img-2768.jpg
+cover: /img/portfolio/covers/img-2768.jpg
 tags:
   - Espazos
 members_id:

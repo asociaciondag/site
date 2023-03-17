@@ -21,30 +21,30 @@ body:
       Gustábanos a idea de levar ao lector da man nun paseo por Compostela.
     type: text
   -
-    image: /portfolios/images/555724ae3b35c-0120.jpg
+    image: /img/portfolio/images/555724ae3b35c-0120.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555724ae3b35c-068.jpg
+    image: /img/portfolio/images/555724ae3b35c-068.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555724ae3b35c-0216.jpg
+    image: /img/portfolio/images/555724ae3b35c-0216.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555724ae3b35c-0315.jpg
+    image: /img/portfolio/images/555724ae3b35c-0315.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555724ae3b35c-0416.jpg
+    image: /img/portfolio/images/555724ae3b35c-0416.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555724ae3b35c-0510.jpg
+    image: /img/portfolio/images/555724ae3b35c-0510.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55855a45a3e9e-555724ae3b35c-0416.jpg
+cover: /img/portfolio/covers/55855a45a3e9e-555724ae3b35c-0416.jpg
 tags:
   - Editorial
 members_id:

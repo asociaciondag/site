@@ -13,22 +13,22 @@ body:
       El resultado es una escultura de luz, una solución especial, con carácter, que permite incorporar múltiples accesorios, carril trifásico, así como alojar tiras de led en la parte superior y en la inferior, para disponer de la luz necesaria en el momento justo.
     type: text
   -
-    image: /portfolios/images/infografiaados-alum-general-peq.jpg
+    image: /img/portfolio/images/infografiaados-alum-general-peq.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/infografiaados-cuadros-1.jpg
+    image: /img/portfolio/images/infografiaados-cuadros-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/infografiaados-cuadros-2.jpg
+    image: /img/portfolio/images/infografiaados-cuadros-2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/infografiaados-cuadros-3.jpg
+    image: /img/portfolio/images/infografiaados-cuadros-3.jpg
     text: ''
     type: image
-cover: /portfolios/covers//infografiaados-alum-general-peq.jpg
+cover: /img/portfolio/covers/infografiaados-alum-general-peq.jpg
 tags:
   - 3D/CGI
   - Espazos

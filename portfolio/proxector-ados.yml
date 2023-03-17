@@ -11,14 +11,14 @@ body:
       Inclue a posibilidade de aloxar un panel de abella _antideslumbrante_.
     type: text
   -
-    image: /portfolios/images/proyector-ados-mini-1.jpg
+    image: /img/portfolio/images/proyector-ados-mini-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/proyector-ados-mini-2.jpg
+    image: /img/portfolio/images/proyector-ados-mini-2.jpg
     text: ''
     type: image
-cover: /portfolios/covers//proyector-ados-mini-1.jpg
+cover: /img/portfolio/covers/proyector-ados-mini-1.jpg
 tags:
   - Produto
   - Iluminación

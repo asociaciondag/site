@@ -10,34 +10,34 @@ body:
        
     type: text
   -
-    image: /portfolios/images/cmf-retro-lines.JPG
+    image: /img/portfolio/images/cmf-retro-lines.JPG
     text: ''
     type: image
   -
-    image: /portfolios/images/retro-cmf3.jpg
+    image: /img/portfolio/images/retro-cmf3.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/retro-cmf4.jpg
+    image: /img/portfolio/images/retro-cmf4.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/flow-moodboard-v2.jpg
+    image: /img/portfolio/images/flow-moodboard-v2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/202112-adult-cmf-strategy-moodboard7.jpg
+    image: /img/portfolio/images/202112-adult-cmf-strategy-moodboard7.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/202112-adult-cmf-strategy-moodboard6.jpg
+    image: /img/portfolio/images/202112-adult-cmf-strategy-moodboard6.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/retro-cmf.jpg
+    image: /img/portfolio/images/retro-cmf.jpg
     text: ''
     type: image
-cover: /portfolios/covers//cmf-retro-lines.JPG
+cover: /img/portfolio/covers/cmf-retro-lines.JPG
 tags:
   - Produto
 members_id:

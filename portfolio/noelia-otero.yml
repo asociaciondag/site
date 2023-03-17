@@ -3,25 +3,25 @@ title: 'Noelia Otero'
 slug: noelia-otero
 body:
   -
-    image: /portfolios/images/5807b616323f3-noelia-otero-diseno-logo.png
+    image: /img/portfolio/images/5807b616323f3-noelia-otero-diseno-logo.png
     text: ''
     type: image
   -
-    image: /portfolios/images/5807b616328ce-noelia-otero-diseno-papeleria.jpg
+    image: /img/portfolio/images/5807b616328ce-noelia-otero-diseno-papeleria.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5807b61632b01-noelia-otero-diseno-tarjetas.jpg
+    image: /img/portfolio/images/5807b61632b01-noelia-otero-diseno-tarjetas.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5807b61632fe3-noelia-otero-diseno-web.jpg
+    image: /img/portfolio/images/5807b61632fe3-noelia-otero-diseno-web.jpg
     text: ''
     type: image
   -
     text: 'Más información en: <http://innovacionagil.com/portfolio/noelia-otero-osteopatia-en-esencia/>'
     type: text
-cover: /portfolios/covers/5810c520327a5-noelia-otero-diseno-tarjetas.jpg
+cover: /img/portfolio/covers/5810c520327a5-noelia-otero-diseno-tarjetas.jpg
 tags: []
 members_id:
   - 54

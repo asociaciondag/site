@@ -3,10 +3,10 @@ title: 'MEGA Mundo Estrella Galicia'
 slug: mega
 body:
   -
-    image: /portfolios/images/mega.jpg
+    image: /img/portfolio/images/mega.jpg
     text: ''
     type: image
-cover: /portfolios/covers//mega.jpg
+cover: /img/portfolio/covers/mega.jpg
 tags:
   - 'Identidade corporativa'
   - Gráfico

@@ -6,10 +6,10 @@ body:
     text: 'Este trío de músicos establecidos en Santiago quería que o nome que os representase tivese certa elegancia, que transmitise dunha forma sinxela o tipo de música que eles fan. Velaquí o resultado.'
     type: text
   -
-    image: /portfolios/images/5613a0b67d5f3-ark-o.jpg
+    image: /img/portfolio/images/5613a0b67d5f3-ark-o.jpg
     text: 'Logotipo ArK.O'
     type: image
-cover: /portfolios/covers/5603f6961985c-arko.jpg
+cover: /img/portfolio/covers/5603f6961985c-arko.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

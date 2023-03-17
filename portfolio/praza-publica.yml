@@ -11,34 +11,34 @@ body:
       Ademáis diso queríamos un xornal que se adaptara ao novo xeito de consumir información en internet onde o uso de móbiles e tablets estaba medrando de xeito vertixinoso, por iso fixemos que todas as páxinas se adaptasen a calquera tamaño de pantalla.
     type: text
   -
-    image: /portfolios/images/55859f5c0d7f1-praza1.jpg
+    image: /img/portfolio/images/55859f5c0d7f1-praza1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859f5c0e26b-praza2.jpg
+    image: /img/portfolio/images/55859f5c0e26b-praza2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859f5c0eacd-praza3.jpg
+    image: /img/portfolio/images/55859f5c0eacd-praza3.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859f5c0f208-praza4.jpg
+    image: /img/portfolio/images/55859f5c0f208-praza4.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859f5c0fab7-praza5.jpg
+    image: /img/portfolio/images/55859f5c0fab7-praza5.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859f5c10345-praza6.jpg
+    image: /img/portfolio/images/55859f5c10345-praza6.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859f5c10e8a-praza7.jpg
+    image: /img/portfolio/images/55859f5c10e8a-praza7.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55859f5c0cc7c-praza1.jpg
+cover: /img/portfolio/covers/55859f5c0cc7c-praza1.jpg
 tags:
   - Web
 members_id:

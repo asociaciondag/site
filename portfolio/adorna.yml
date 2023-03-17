@@ -13,30 +13,30 @@ body:
       Las combinaciones cromáticas (en clara alusión al pintado tradicional de dichas embarcaciones) y el contraste con la madera natural, dotan a los estantes de una premeditada “calidez artesanal”.
     type: text
   -
-    image: /portfolios/images/570f4c420e687-adorna-composicion-1.jpg
+    image: /img/portfolio/images/570f4c420e687-adorna-composicion-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f669ec42df-ado001-perspectiva.jpg
+    image: /img/portfolio/images/570f669ec42df-ado001-perspectiva.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f4c420e8f1-adorna-composicion-2.jpg
+    image: /img/portfolio/images/570f4c420e8f1-adorna-composicion-2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f4c420ebdd-adorna-composicion-4.jpg
+    image: /img/portfolio/images/570f4c420ebdd-adorna-composicion-4.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f4c420ef32-adorna-con-cuentos-composicion-1.jpg
+    image: /img/portfolio/images/570f4c420ef32-adorna-con-cuentos-composicion-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f4c420f072-adorna-con-cuentos-composicion-2.jpg
+    image: /img/portfolio/images/570f4c420f072-adorna-con-cuentos-composicion-2.jpg
     text: ''
     type: image
-cover: /portfolios/covers/570f6672e0803-adorna-composicion-1.jpg
+cover: /img/portfolio/covers/570f6672e0803-adorna-composicion-1.jpg
 tags: []
 members_id:
   - 51

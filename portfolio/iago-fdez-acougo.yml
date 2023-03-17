@@ -11,38 +11,38 @@ body:
       En ambos casos quisimos representar la "calma" de la que habla el disco (y la cita de Vidal Bolaño a la que remite) con un diseño de mínimos, intentando reproducir la sensación de dejar entrar la luz (la música) en la oscuridad, en el vacío.
     type: text
   -
-    image: /portfolios/images/574876e24ae07-iago-acougo-1.png
+    image: /img/portfolio/images/574876e24ae07-iago-acougo-1.png
     text: ''
     type: image
   -
-    image: /portfolios/images/574876e24b255-iago-acougo-2.png
+    image: /img/portfolio/images/574876e24b255-iago-acougo-2.png
     text: ''
     type: image
   -
-    image: /portfolios/images/574878ab80ab9-iago-acougo-3.png
+    image: /img/portfolio/images/574878ab80ab9-iago-acougo-3.png
     text: ''
     type: image
   -
-    image: /portfolios/images/574878ab80d41-iago-acougo-4.png
+    image: /img/portfolio/images/574878ab80d41-iago-acougo-4.png
     text: ''
     type: image
   -
-    image: /portfolios/images/574878ab810f5-iago-acougo-5.png
+    image: /img/portfolio/images/574878ab810f5-iago-acougo-5.png
     text: ''
     type: image
   -
-    image: /portfolios/images/574878ab8125c-iago-acougo-6.png
+    image: /img/portfolio/images/574878ab8125c-iago-acougo-6.png
     text: ''
     type: image
   -
-    image: /portfolios/images/574878ab81932-iago-acougo-7.png
+    image: /img/portfolio/images/574878ab81932-iago-acougo-7.png
     text: ''
     type: image
   -
-    image: /portfolios/images/574878ab81a78-iago-acougo-8.png
+    image: /img/portfolio/images/574878ab81a78-iago-acougo-8.png
     text: ''
     type: image
-cover: /portfolios/covers/574876e24a748-iago-acougo-1.png
+cover: /img/portfolio/covers/574876e24a748-iago-acougo-1.png
 tags: []
 members_id:
   - 53

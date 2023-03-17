@@ -6,18 +6,18 @@ body:
     text: 'Diseño de nuevo _packaging_ y cartel promocional.'
     type: text
   -
-    image: /portfolios/images/caixas.jpg
+    image: /img/portfolio/images/caixas.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/cartel-conservas-gourmet.jpg
+    image: /img/portfolio/images/cartel-conservas-gourmet.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/troquel-lata-conservas.jpg
+    image: /img/portfolio/images/troquel-lata-conservas.jpg
     text: ''
     type: image
-cover: /portfolios/covers//caixas.jpg
+cover: /img/portfolio/covers/caixas.jpg
 tags:
   - Embalaxe
 members_id:

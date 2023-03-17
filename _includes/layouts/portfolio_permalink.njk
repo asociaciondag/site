@@ -31,7 +31,7 @@ layout: ./base.njk
 			{% for member in members %}
 			<li class="member-avatar">
 				<a href="{{ member.url }}">
-					<img src="<?= Img::getUri($member->avatar, 'resizeCrop,48,48') ?>" alt="{{ member.name }}">
+					<img src="{{ member.avatar }}" width=48 height=48 alt="{{ member.name }}">
 					<span>{{ member.name }}</span>
 				</a>
 			</li>

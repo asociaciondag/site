@@ -37,7 +37,7 @@ css: [/css/portfolios.css]
       <a href="{{ portfolio.url }}">
 
         <figure class="portfolio-thumbnail">
-          <img src="<?= Img::getUri($portfolio->cover, 'resizeCrop,420,200') ?>" alt="">
+          <img src="{{ portfolio.cover }}" width="420" height="200" alt="">
         </figure>
 
         <div>
@@ -50,7 +50,7 @@ css: [/css/portfolios.css]
           <ul class="portfolio-authors">
             {% for member in portfolio.members %}
             <li class="member-avatar">
-              <img src="<?= Img::getUri($member->avatar, 'resizeCrop,48,48') ?>" alt="{{ member.name }}">
+              <img src="{{ member.avatar }}" width="48" height="48" alt="{{ member.name }}">
               <span>{{ member.name }}</span>
             </li>
             {% endfor %}

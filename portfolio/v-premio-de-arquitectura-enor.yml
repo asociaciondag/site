@@ -13,31 +13,31 @@ body:
       Para aforrar pranchas de impresión e poder conseguir varias cores, tanto no cartel coma no políptico, utilizamos a técnica Iris dunha maneira artesanal, sempre coa complicidade de Gráficas Brial.
     type: text
   -
-    image: /portfolios/images/555768125afeb-017.jpg
+    image: /img/portfolio/images/555768125afeb-017.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555768125afeb-026.jpg
+    image: /img/portfolio/images/555768125afeb-026.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555768125afeb-035.jpg
+    image: /img/portfolio/images/555768125afeb-035.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555768125afeb-045.jpg
+    image: /img/portfolio/images/555768125afeb-045.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555768125afeb-052.jpg
+    image: /img/portfolio/images/555768125afeb-052.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555768125afeb-061.jpg
+    image: /img/portfolio/images/555768125afeb-061.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555768125afeb-01a.jpg
+    image: /img/portfolio/images/555768125afeb-01a.jpg
     text: ''
     type: image
   -
@@ -45,7 +45,7 @@ body:
       code: '<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="760" width="950"><param name="data" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"><param name="flashvars" value="intl_lang=en-us&amp;photo_secret=1955beb55b&amp;photo_id=5235860891"><param name="bgcolor" value="#000000"><param name="allowFullScreen" value="true"><param name="src" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"><param name="allowfullscreen" value="true"><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=71377" allowfullscreen="true" bgcolor="#000000" flashvars="intl_lang=en-us&amp;photo_secret=1955beb55b&amp;photo_id=5235860891" data="http://www.flickr.com/apps/video/stewart.swf?v=71377" height="760" width="950"></object>'
       ratio: '56.25'
     type: embed
-cover: /portfolios/covers/5586008853727-555768125afeb-017.jpg
+cover: /img/portfolio/covers/5586008853727-555768125afeb-017.jpg
 tags: []
 members_id:
   - 26

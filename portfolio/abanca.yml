@@ -17,34 +17,34 @@ body:
       Ademais da páxina comercial, tamén se fixo [unha páxina específica para comunicación e prensa](http://comunicacion.abanca.com) e outra [con información corporativa](http://abancacorporacionbancaria.com) que manteñen unha consistencia visual coa páxina principal.
     type: text
   -
-    image: /portfolios/images/5762fc9a960bd-home-abanca.jpg
+    image: /img/portfolio/images/5762fc9a960bd-home-abanca.jpg
     text: 'Vista da portada da web en navegador de escritorio.'
     type: image
   -
-    image: /portfolios/images/5762fc9a96615-responsive-abanca.jpg
+    image: /img/portfolio/images/5762fc9a96615-responsive-abanca.jpg
     text: 'Portada da portada con diferentes promocións na parte superior vistas en distintos dispositivos'
     type: image
   -
-    image: /portfolios/images/5762fc9a96864-comparador-abanca.jpg
+    image: /img/portfolio/images/5762fc9a96864-comparador-abanca.jpg
     text: 'Comparador de hipotecas en _desktop_'
     type: image
   -
-    image: /portfolios/images/5762fc9a96ba9-comparador-responsive-abanca.jpg
+    image: /img/portfolio/images/5762fc9a96ba9-comparador-responsive-abanca.jpg
     text: 'Vista do comparador de hipotecas en _tablet_ e _smartphone._'
     type: image
   -
-    image: /portfolios/images/5762fc9a96dce-mediateca-responsive-abanca.jpg
+    image: /img/portfolio/images/5762fc9a96dce-mediateca-responsive-abanca.jpg
     text: 'A web dedicada a prensa e comunicación dispón dunha mediateca onde se poden atopar todo tipo de imaxes, vídeos, documentos e audios.'
     type: image
   -
-    image: /portfolios/images/5762fc9a96ff0-corporativa-abanca.jpg
+    image: /img/portfolio/images/5762fc9a96ff0-corporativa-abanca.jpg
     text: 'Vista do _minisite_ para a información corporativa'
     type: image
   -
-    image: /portfolios/images/5762fc9a971f1-corporativa-responsive-abanca.jpg
+    image: /img/portfolio/images/5762fc9a971f1-corporativa-responsive-abanca.jpg
     text: 'Vista do _minisite_ corporativo en diferentes dispositivos'
     type: image
-cover: /portfolios/covers/5762fbb52a583-portada.png
+cover: /img/portfolio/covers/5762fbb52a583-portada.png
 tags:
   - Web
 members_id:

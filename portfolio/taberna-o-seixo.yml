@@ -3,10 +3,10 @@ title: 'Taberna O Seixo'
 slug: taberna-o-seixo
 body:
   -
-    image: /portfolios/images/573f376f122ae-presentacion-seixo-bh.jpg
+    image: /img/portfolio/images/573f376f122ae-presentacion-seixo-bh.jpg
     text: ''
     type: image
-cover: /portfolios/covers/573f36feddcc8-portadaseixo-bh.jpg
+cover: /img/portfolio/covers/573f36feddcc8-portadaseixo-bh.jpg
 tags: []
 members_id:
   - 52

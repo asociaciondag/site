@@ -3,10 +3,10 @@ title: 'Sebastian Suite'
 slug: sebastian-suite
 body:
   -
-    image: /portfolios/images/sebastian-suite-diseno-web.jpg
+    image: /img/portfolio/images/sebastian-suite-diseno-web.jpg
     text: ''
     type: image
-cover: /portfolios/covers//sebastian-suite-diseno-web.jpg
+cover: /img/portfolio/covers/sebastian-suite-diseno-web.jpg
 tags:
   - Web
 members_id:

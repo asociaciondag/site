@@ -6,10 +6,10 @@ body:
     text: 'Diseño de la imagen gráfica de la compañía Voadora.'
     type: text
   -
-    image: /portfolios/images/voadora-completo.jpg
+    image: /img/portfolio/images/voadora-completo.jpg
     text: ''
     type: image
-cover: /portfolios/covers//portadavoadora.jpg
+cover: /img/portfolio/covers/portadavoadora.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

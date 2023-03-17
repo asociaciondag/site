@@ -6,10 +6,10 @@ body:
     text: 'Unha proposta dinámica e actual. A utilización da cor azul achega seriedade e estabilidade. A verde, frescura. Os trazos do símbolo suxiren rapidez.'
     type: text
   -
-    image: /portfolios/images/56139ed9a36cc-noratrans.jpg
+    image: /img/portfolio/images/56139ed9a36cc-noratrans.jpg
     text: 'Logotipo Noratrans'
     type: image
-cover: /portfolios/covers/5603e36de7ed4-noratrans.jpg
+cover: /img/portfolio/covers/5603e36de7ed4-noratrans.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

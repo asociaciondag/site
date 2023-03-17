@@ -11,38 +11,38 @@ body:
       <http://www.esdemga.uvigo.es/debut2010>
     type: text
   -
-    image: /portfolios/images/5585941b53c0e-debut10-1.jpg
+    image: /img/portfolio/images/5585941b53c0e-debut10-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585941b54819-dsc-0015.jpg
+    image: /img/portfolio/images/5585941b54819-dsc-0015.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585941b54da8-dsc-0018.jpg
+    image: /img/portfolio/images/5585941b54da8-dsc-0018.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585941b55481-dsc-00171.jpg
+    image: /img/portfolio/images/5585941b55481-dsc-00171.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585941b55c53-dscn38892.jpg
+    image: /img/portfolio/images/5585941b55c53-dscn38892.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585941b565c7-2.jpg
+    image: /img/portfolio/images/5585941b565c7-2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585941b5694e-11-1.jpg
+    image: /img/portfolio/images/5585941b5694e-11-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585941b56d7b-36.jpg
+    image: /img/portfolio/images/5585941b56d7b-36.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5585946a54e73-dsc-0015.jpg
+cover: /img/portfolio/covers/5585946a54e73-dsc-0015.jpg
 tags:
   - Gráfico
   - Editorial

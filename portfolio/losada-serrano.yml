@@ -3,10 +3,10 @@ title: 'Losada Serrano'
 slug: losada-serrano
 body:
   -
-    image: /portfolios/images/losada-serrano.jpg
+    image: /img/portfolio/images/losada-serrano.jpg
     text: ''
     type: image
-cover: /portfolios/covers//losada-serrano.jpg
+cover: /img/portfolio/covers/losada-serrano.jpg
 tags:
   - Sinalética
 members_id:

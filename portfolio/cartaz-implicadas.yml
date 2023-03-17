@@ -6,10 +6,10 @@ body:
     text: 'Cartel realizado para la ONG Implicadas no Desenvolvemento.'
     type: text
   -
-    image: /portfolios/images/implicadas.jpg
+    image: /img/portfolio/images/implicadas.jpg
     text: ''
     type: image
-cover: /portfolios/covers//implicadas.jpg
+cover: /img/portfolio/covers/implicadas.jpg
 tags: []
 members_id:
   - 40

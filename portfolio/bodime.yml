@@ -11,26 +11,26 @@ body:
       El acabado natural de estas piezas responde, principalmente a tres premisas. Por una parte (y debido fundamentalmente a que se trata de un objeto manipulable) se quiso “acercar” a los niños esa textura tan formidable que nos ofrece la madera sin ningún tipo de tratamiento. Por otra parte, evidenciar de manera manifiesta la finalización artesanal del objeto dentro del proceso productivo. Y por último, permitir la posibilidad de que el niño pintase el juguete a su antojo (con un suave lijado retomará su aspecto original).
     type: text
   -
-    image: /portfolios/images/570f64e07e3be-bod001-lateral.jpg
+    image: /img/portfolio/images/570f64e07e3be-bod001-lateral.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f4ec0de0dc-bod003-lateral.jpg
+    image: /img/portfolio/images/570f4ec0de0dc-bod003-lateral.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f4ec0de549-bodime-composicion-1.jpg
+    image: /img/portfolio/images/570f4ec0de549-bodime-composicion-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f4ec0de8d0-bodime-composicion-2.jpg
+    image: /img/portfolio/images/570f4ec0de8d0-bodime-composicion-2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f4ec0def7f-bodime-composicion-3.jpg
+    image: /img/portfolio/images/570f4ec0def7f-bodime-composicion-3.jpg
     text: ''
     type: image
-cover: /portfolios/covers/570f4ec0ddab5-bod001-lateral.jpg
+cover: /img/portfolio/covers/570f4ec0ddab5-bod001-lateral.jpg
 tags: []
 members_id:
   - 51

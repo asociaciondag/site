@@ -6,18 +6,18 @@ body:
     text: 'Diseño d_e packaging_  de tapas de algas y setas, en el que las ilustraciones vectoriales de trazo suelto con fuerte protagonismo cromático conviven con tipografías contundentes de la familia Helvética Neue.'
     type: text
   -
-    image: /portfolios/images/55a3d64ec5984-luisgalan-tapade1.jpg
+    image: /img/portfolio/images/55a3d64ec5984-luisgalan-tapade1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55a3d64ec5c66-luisgalan-tapade02.jpg
+    image: /img/portfolio/images/55a3d64ec5c66-luisgalan-tapade02.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55a3d64ec5e84-luisgalan-tapade03.jpg
+    image: /img/portfolio/images/55a3d64ec5e84-luisgalan-tapade03.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55a3d6af45826-cuberta.png
+cover: /img/portfolio/covers/55a3d6af45826-cuberta.png
 tags:
   - Embalaxe
 members_id:

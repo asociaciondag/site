@@ -17,42 +17,42 @@ body:
       Transversal Magazine é un proxecto persoal de Martiño Villaverde e Marcela Orozco.
     type: text
   -
-    image: /portfolios/images/5564c56660a6c-tr.jpg
+    image: /img/portfolio/images/5564c56660a6c-tr.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c56661485-tr1.jpg
+    image: /img/portfolio/images/5564c56661485-tr1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c56661b1b-tr2.jpg
+    image: /img/portfolio/images/5564c56661b1b-tr2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c566621fe-tr3.jpg
+    image: /img/portfolio/images/5564c566621fe-tr3.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c56662730-tr4.jpg
+    image: /img/portfolio/images/5564c56662730-tr4.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c56662d1c-tr5.jpg
+    image: /img/portfolio/images/5564c56662d1c-tr5.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c5666341d-tr6.jpg
+    image: /img/portfolio/images/5564c5666341d-tr6.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c56663a12-tr7.jpg
+    image: /img/portfolio/images/5564c56663a12-tr7.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5564c5666401b-tr8.jpg
+    image: /img/portfolio/images/5564c5666401b-tr8.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5585645f2f5b3-5564c5666401b-tr8.jpg
+cover: /img/portfolio/covers/5585645f2f5b3-5564c5666401b-tr8.jpg
 tags:
   - Editorial
 members_id:

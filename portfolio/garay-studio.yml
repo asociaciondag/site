@@ -3,10 +3,10 @@ title: 'Garay Studio'
 slug: garay-studio
 body:
   -
-    image: /portfolios/images/garaystudio.jpg
+    image: /img/portfolio/images/garaystudio.jpg
     text: ''
     type: image
-cover: /portfolios/covers//garaystudio.jpg
+cover: /img/portfolio/covers/garaystudio.jpg
 tags:
   - Gráfico
 members_id:

@@ -6,10 +6,10 @@ body:
     text: 'Redeseño de logotipo. Apostouse por unha proposta máis actual, con cores simples, con pequenas sombras suxeridas, e co nome da empresa en letra sinxela, clara e discreta, que proporciona certa seriedade (na anterior fase, o logotipo representábase coas letras en distintas cores, e colocadas encima do símbolo).'
     type: text
   -
-    image: /portfolios/images/56139fd862873-the-quiz-project.jpg
+    image: /img/portfolio/images/56139fd862873-the-quiz-project.jpg
     text: 'Logo The Quiz Project'
     type: image
-cover: /portfolios/covers/5603f6c593aad-quiz.jpg
+cover: /img/portfolio/covers/5603f6c593aad-quiz.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

@@ -3,10 +3,10 @@ title: 'Yoyó L'
 slug: yoyo-l
 body:
   -
-    image: /portfolios/images/yoyo.jpg
+    image: /img/portfolio/images/yoyo.jpg
     text: ''
     type: image
-cover: /portfolios/covers//yoyo.jpg
+cover: /img/portfolio/covers/yoyo.jpg
 tags:
   - Industrial
   - Produto

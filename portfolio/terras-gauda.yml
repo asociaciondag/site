@@ -6,10 +6,10 @@ body:
     text: ''
     type: text
   -
-    image: /portfolios/images/20210805-4.jpg
+    image: /img/portfolio/images/20210805-4.jpg
     text: ''
     type: image
-cover: /portfolios/covers//20210805-4.jpg
+cover: /img/portfolio/covers/20210805-4.jpg
 tags:
   - Gráfico
 members_id:

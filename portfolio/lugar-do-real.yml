@@ -15,26 +15,26 @@ body:
       A cor está moi presente en cada unha destas seccións, tanto no fondo como nos distintos elementos interactivos e de navegación. Dóuselle especial importancia ao reproductor de vídeo, creando un gran botón _play_ que inclúe dentro as tres calidades das que dispón cada peza. Tamén se mellorou todo o sistema de categorización e tags, meténdoo nun megamenú desplegable e o sistema de votación foi redeseñado usando un sinxelo círculo que representa visualmente a valoración obtida.
     type: text
   -
-    image: /portfolios/images/5762fd1bdf9ba-home-ldr.jpg
+    image: /img/portfolio/images/5762fd1bdf9ba-home-ldr.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5762fd1bdff20-home-responsive-ldr.jpg
+    image: /img/portfolio/images/5762fd1bdff20-home-responsive-ldr.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5762fd1be0178-seccion-ldr.jpg
+    image: /img/portfolio/images/5762fd1be0178-seccion-ldr.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5762fd1be0380-fotomemoria-ldr.jpg
+    image: /img/portfolio/images/5762fd1be0380-fotomemoria-ldr.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5762fd1be05b4-video-ldr.jpg
+    image: /img/portfolio/images/5762fd1be05b4-video-ldr.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5762fb06eb162-ldr.png
+cover: /img/portfolio/covers/5762fb06eb162-ldr.png
 tags:
   - Web
 members_id:

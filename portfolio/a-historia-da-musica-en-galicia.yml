@@ -9,50 +9,50 @@ body:
       Las portadas están ilustradas con una interpretación libre de dos letras iluminadas del _Códice Calixtino_ (s.XII): Galicia (G), Música (M).
     type: text
   -
-    image: /portfolios/images/5554e676a58fd-01-1024x766.jpg
+    image: /img/portfolio/images/5554e676a58fd-01-1024x766.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e676a58fd-02-1024x768.jpg
+    image: /img/portfolio/images/5554e676a58fd-02-1024x768.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e676a58fd-04-1024x768.jpg
+    image: /img/portfolio/images/5554e676a58fd-04-1024x768.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e676a58fd-05-1024x768.jpg
+    image: /img/portfolio/images/5554e676a58fd-05-1024x768.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e676a58fd-06-1024x765.jpg
+    image: /img/portfolio/images/5554e676a58fd-06-1024x765.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e676a58fd-07-1024x768.jpg
+    image: /img/portfolio/images/5554e676a58fd-07-1024x768.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e676a58fd-08-1024x768.jpg
+    image: /img/portfolio/images/5554e676a58fd-08-1024x768.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e676a58fd-09-1024x768.jpg
+    image: /img/portfolio/images/5554e676a58fd-09-1024x768.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e676a58fd-10-1024x768.jpg
+    image: /img/portfolio/images/5554e676a58fd-10-1024x768.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e676a58fd-11-1024x768.jpg
+    image: /img/portfolio/images/5554e676a58fd-11-1024x768.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5554e676a58fd-12-1024x768.jpg
+    image: /img/portfolio/images/5554e676a58fd-12-1024x768.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558554f8a0892-5554e676a58fd-01-1024x766.jpg
+cover: /img/portfolio/covers/558554f8a0892-5554e676a58fd-01-1024x766.jpg
 tags:
   - Editorial
 members_id:

@@ -3,10 +3,10 @@ title: Orballo
 slug: orballo-espazo
 body:
   -
-    image: /portfolios/images/orballo.jpg
+    image: /img/portfolio/images/orballo.jpg
     text: ''
     type: image
-cover: /portfolios/covers//orballo.jpg
+cover: /img/portfolio/covers/orballo.jpg
 tags:
   - Espazos
 members_id:

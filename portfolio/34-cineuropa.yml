@@ -6,10 +6,10 @@ body:
     text: 'Imaxe gráfica do 34 Festival Cineuropa.'
     type: text
   -
-    image: /portfolios/images/publicacion.jpg
+    image: /img/portfolio/images/publicacion.jpg
     text: ''
     type: image
-cover: /portfolios/covers//portada.jpg
+cover: /img/portfolio/covers/portada.jpg
 tags:
   - Gráfico
 members_id:

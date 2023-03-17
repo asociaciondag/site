@@ -11,30 +11,30 @@ body:
       O logotipo tamén foi obxecto dun exercicio de estilización que simplificou os seus trazos, a construción tipográfica de ‘Berrogüetto’ e ‘kosmogonías’ busca analoxías formais con este renovado logotipo.
     type: text
   -
-    image: /portfolios/images/55571d674205d-berroguetto_01.jpg
+    image: /img/portfolio/images/55571d674205d-berroguetto_01.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55571d674205d-berroguetto_02.jpg
+    image: /img/portfolio/images/55571d674205d-berroguetto_02.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55571d674205d-berroguetto_03.jpg
+    image: /img/portfolio/images/55571d674205d-berroguetto_03.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55571d674205d-berroguetto_04.jpg
+    image: /img/portfolio/images/55571d674205d-berroguetto_04.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55571d674205d-berroguetto_05.jpg
+    image: /img/portfolio/images/55571d674205d-berroguetto_05.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55571d674205d-berroguetto_06.jpg
+    image: /img/portfolio/images/55571d674205d-berroguetto_06.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558597034c9d1-55571d674205d-berroguetto-02.jpg
+cover: /img/portfolio/covers/558597034c9d1-55571d674205d-berroguetto-02.jpg
 tags: []
 members_id:
   - 13

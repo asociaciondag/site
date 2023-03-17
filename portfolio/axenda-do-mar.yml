@@ -9,22 +9,22 @@ body:
       Para o deseño busquei o equilibrio entre unha axenda ao uso e un pequeno monográfico sobre o mar, para o que fuxín do formato de grella ríxida que adoitan ter as axendas e creei dobres páxinas máis variadas. As tipografías empregadas foron a Adobe Garamond polos seus fermosos e elegantes números e a Profile, unha tipografía de pau seco de formas clásicas que combina perfectamente coa Garamond pero cunha aparencia moito máis contemporánea. Empreguei a cor para o tratamento da información: o azul reserveino para os textos en bretón e o vermello para as festividades. O resultado foi un fermoso libro con grande acollida como se mostra neste artigo de [Méndez Ferrín](http://www.farodevigo.es/secciones/noticiaOpinion.jsp?pRef=3258_5_198719__Opinion-Tuir-Breogain).
     type: text
   -
-    image: /portfolios/images/5585a068cf900-portada.jpg
+    image: /img/portfolio/images/5585a068cf900-portada.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585a068cfe83-aberto1.jpg
+    image: /img/portfolio/images/5585a068cfe83-aberto1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585a068d02cb-aberto2.jpg
+    image: /img/portfolio/images/5585a068d02cb-aberto2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5585a068d06c6-detalle.jpg
+    image: /img/portfolio/images/5585a068d06c6-detalle.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5585a068cf45f-portada.jpg
+cover: /img/portfolio/covers/5585a068cf45f-portada.jpg
 tags:
   - Editorial
 members_id:

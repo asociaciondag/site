@@ -3,10 +3,10 @@ title: 'Clube Ciclista Velouzas'
 slug: velouzas
 body:
   -
-    image: /portfolios/images/velouzas.jpg
+    image: /img/portfolio/images/velouzas.jpg
     text: ''
     type: image
-cover: /portfolios/covers//velouzas.jpg
+cover: /img/portfolio/covers/velouzas.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

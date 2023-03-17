@@ -9,14 +9,14 @@ body:
       Cores saturadas, vivas, en consonancia co logo do centro. Debuxos, esquemas...
     type: text
   -
-    image: /portfolios/images/5613a699232e7-maumarela-1.jpg
+    image: /img/portfolio/images/5613a699232e7-maumarela-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5613a69923753-maumarela-2.jpg
+    image: /img/portfolio/images/5613a69923753-maumarela-2.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5603f5ab0bb34-robotica.jpg
+cover: /img/portfolio/covers/5603f5ab0bb34-robotica.jpg
 tags:
   - Gráfico
 members_id:

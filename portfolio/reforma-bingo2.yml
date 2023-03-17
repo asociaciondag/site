@@ -6,30 +6,30 @@ body:
     text: 'Realizamos a reforma da zona de admisión 2 dun bingo en Vigo, local que iniciou a súa actividade nos anos 80 e non sufrira ningunha reforma. Nesta reforma decidiuse ampliar os m² quitándollelos á sala de bingo, xerando así unha zona de máquinas recreativas, zona de apostas deportivas, recepción de clientes e aseos.'
     type: text
   -
-    image: /portfolios/images/img-8559.jpg
+    image: /img/portfolio/images/img-8559.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/bdm1688.jpg
+    image: /img/portfolio/images/bdm1688.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/bdm1712.jpg
+    image: /img/portfolio/images/bdm1712.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/img-8541.jpg
+    image: /img/portfolio/images/img-8541.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/img-8548.jpg
+    image: /img/portfolio/images/img-8548.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/img-8553.jpg
+    image: /img/portfolio/images/img-8553.jpg
     text: ''
     type: image
-cover: /portfolios/covers//bdm1688.jpg
+cover: /img/portfolio/covers/bdm1688.jpg
 tags:
   - Espazos
   - Iluminación

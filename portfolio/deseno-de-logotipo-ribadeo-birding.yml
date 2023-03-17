@@ -9,10 +9,10 @@ body:
       O logotipo amosa as formas dunha das especies de aves máis comúns na zona de Ribadeo.
     type: text
   -
-    image: /portfolios/images/5613a187db63b-ribadeo-birding.jpg
+    image: /img/portfolio/images/5613a187db63b-ribadeo-birding.jpg
     text: 'Logo Ribadeo Birding'
     type: image
-cover: /portfolios/covers/5603defe5dd93-logo-ribadeo-birding.jpg
+cover: /img/portfolio/covers/5603defe5dd93-logo-ribadeo-birding.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

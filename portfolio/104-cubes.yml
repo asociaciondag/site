@@ -13,22 +13,22 @@ body:
       O deseño do logo é o reflexo real do naming, para o cal creouse unha colección de teclas alfabéticas en tipo Helvética Condensed que posteriormente se lle entregaron á empresa para aplicar nas súas diferentes comunicacións.
     type: text
   -
-    image: /portfolios/images/555cdc7a177fb-r-caccamo-1a.jpg
+    image: /img/portfolio/images/555cdc7a177fb-r-caccamo-1a.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdc7a17c85-r-caccamo-1b.jpg
+    image: /img/portfolio/images/555cdc7a17c85-r-caccamo-1b.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdc7a17f78-r-caccamo-1c.jpg
+    image: /img/portfolio/images/555cdc7a17f78-r-caccamo-1c.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/555cdc7a18334-r-caccamo-1d.jpg
+    image: /img/portfolio/images/555cdc7a18334-r-caccamo-1d.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55855fa4bb0f6-555cdc7a177fb-r-caccamo-1a.jpg
+cover: /img/portfolio/covers/55855fa4bb0f6-555cdc7a177fb-r-caccamo-1a.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

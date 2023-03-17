@@ -9,18 +9,18 @@ body:
       Enlace: [www.estoesnacional6.com](http://estoesnacional6.com/)
     type: text
   -
-    image: /portfolios/images/5613a5700d74d-nacional-6.jpg
+    image: /img/portfolio/images/5613a5700d74d-nacional-6.jpg
     text: 'Deseño de logotipo'
     type: image
   -
-    image: /portfolios/images/5603ddfac0d01-lamina-nacional-6-2.jpg
+    image: /img/portfolio/images/5603ddfac0d01-lamina-nacional-6-2.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/5603ddfac0fe9-lamina-nacional-6.jpg
+    image: /img/portfolio/images/5603ddfac0fe9-lamina-nacional-6.jpg
     text: ''
     type: image
-cover: /portfolios/covers/5603f62b97672-nacional6.jpg
+cover: /img/portfolio/covers/5603f62b97672-nacional6.jpg
 tags:
   - 'Identidade corporativa'
 members_id:

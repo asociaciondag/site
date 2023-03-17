@@ -6,38 +6,38 @@ body:
     text: 'Proxecto museolóxico e museográfico da casa museo do poeta vangardista Manuel Antonio. Traballo realizado coa colaboración de Xosé Luís Axeitos.'
     type: text
   -
-    image: /portfolios/images/55859cd997bdc-01ma.jpg
+    image: /img/portfolio/images/55859cd997bdc-01ma.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859cd998045-02ma.jpg
+    image: /img/portfolio/images/55859cd998045-02ma.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859cd9983fa-03ma.jpg
+    image: /img/portfolio/images/55859cd9983fa-03ma.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859cd9987e1-04ma.jpg
+    image: /img/portfolio/images/55859cd9987e1-04ma.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859cd998bdc-05ma.jpg
+    image: /img/portfolio/images/55859cd998bdc-05ma.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859cd998fd0-06ma.jpg
+    image: /img/portfolio/images/55859cd998fd0-06ma.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859cd99939c-07ma.jpg
+    image: /img/portfolio/images/55859cd99939c-07ma.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55859cd999843-08ma.jpg
+    image: /img/portfolio/images/55859cd999843-08ma.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55859cd9976d1-01ma.jpg
+cover: /img/portfolio/covers/55859cd9976d1-01ma.jpg
 tags:
   - Exposicións
 members_id:

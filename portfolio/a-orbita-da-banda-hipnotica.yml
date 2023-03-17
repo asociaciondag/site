@@ -6,10 +6,10 @@ body:
     text: 'Creación de la imagen del nuevo LP del grupo. Imagen aplicada a carteles, _digipac_ del grupo y _merchandishing._'
     type: text
   -
-    image: /portfolios/images/5564c8ed0ee02-lamatumba.jpg
+    image: /img/portfolio/images/5564c8ed0ee02-lamatumba.jpg
     text: ''
     type: image
-cover: /portfolios/covers/55859d912d35d-5564c8ed0ee02-lamatumba.jpg
+cover: /img/portfolio/covers/55859d912d35d-5564c8ed0ee02-lamatumba.jpg
 tags: []
 members_id:
   - 21

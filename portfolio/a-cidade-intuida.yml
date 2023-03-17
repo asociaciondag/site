@@ -17,62 +17,62 @@ body:
       \+ info [www.acidadeintuida.org](http://www.acidadeintuida.org)
     type: text
   -
-    image: /portfolios/images/55576647e28a5-01.jpg
+    image: /img/portfolio/images/55576647e28a5-01.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-02.jpg
+    image: /img/portfolio/images/55576647e28a5-02.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-03.jpg
+    image: /img/portfolio/images/55576647e28a5-03.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-04.jpg
+    image: /img/portfolio/images/55576647e28a5-04.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-05.jpg
+    image: /img/portfolio/images/55576647e28a5-05.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-06.jpg
+    image: /img/portfolio/images/55576647e28a5-06.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-07.jpg
+    image: /img/portfolio/images/55576647e28a5-07.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-08.jpg
+    image: /img/portfolio/images/55576647e28a5-08.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-5500589393_429b0063c3_b.jpg
+    image: /img/portfolio/images/55576647e28a5-5500589393_429b0063c3_b.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-5500595675_b64649974e_b.jpg
+    image: /img/portfolio/images/55576647e28a5-5500595675_b64649974e_b.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-5500601743_dd6e01046e_b.jpg
+    image: /img/portfolio/images/55576647e28a5-5500601743_dd6e01046e_b.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-5501186924_0644db2205_b.jpg
+    image: /img/portfolio/images/55576647e28a5-5501186924_0644db2205_b.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-5511287139_5f7ebc684c_b.jpg
+    image: /img/portfolio/images/55576647e28a5-5511287139_5f7ebc684c_b.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/55576647e28a5-5539189507_8651895124_b.jpg
+    image: /img/portfolio/images/55576647e28a5-5539189507_8651895124_b.jpg
     text: ''
     type: image
-cover: /portfolios/covers/558566a50f66f-55576647e28a5-02.jpg
+cover: /img/portfolio/covers/558566a50f66f-55576647e28a5-02.jpg
 tags:
   - Gráfico
 members_id:

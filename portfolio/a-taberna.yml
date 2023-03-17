@@ -3,26 +3,26 @@ title: 'A taberna'
 slug: a-taberna
 body:
   -
-    image: /portfolios/images/a-taberna-lugo.jpg
+    image: /img/portfolio/images/a-taberna-lugo.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/cartas-exterior.jpg
+    image: /img/portfolio/images/cartas-exterior.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/cartas-interior.jpg
+    image: /img/portfolio/images/cartas-interior.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/cartas.jpg
+    image: /img/portfolio/images/cartas.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/mandilon-restaurante.jpg
+    image: /img/portfolio/images/mandilon-restaurante.jpg
     text: ''
     type: image
-cover: /portfolios/covers//cartas.jpg
+cover: /img/portfolio/covers/cartas.jpg
 tags:
   - 'Identidade corporativa'
   - Gráfico

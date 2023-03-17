@@ -3,13 +3,13 @@ title: 'Naos, proxecto editorial'
 slug: naos-proxecto-editorial
 body:
   -
-    image: /portfolios/images/revista.jpg
+    image: /img/portfolio/images/revista.jpg
     text: ''
     type: image
   -
     text: '[Naos, proxecto editorial](https://davidrivada.es/proyecto.html)'
     type: text
-cover: /portfolios/covers//revista.jpg
+cover: /img/portfolio/covers/revista.jpg
 tags:
   - Editorial
   - Tipografía

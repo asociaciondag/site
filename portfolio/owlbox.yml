@@ -11,22 +11,22 @@ body:
       O proceso é moi esquemático, primeiro deben facerse uns bosquexos tradicionais, e logo un ficheiro vectorial seguindo certos principios de gradientes de grises e negativos, posto que iso é o que lle indica ao láser a profundidade de mecanizado que debe facer no molde. Nas imaxes pódese ver a peza final e o proceso.
     type: text
   -
-    image: /portfolios/images/effects-described-01.jpg
+    image: /img/portfolio/images/effects-described-01.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/img-1098.JPG
+    image: /img/portfolio/images/img-1098.JPG
     text: ''
     type: image
   -
-    image: /portfolios/images/owl-finished.jpg
+    image: /img/portfolio/images/owl-finished.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/owlbox.JPG
+    image: /img/portfolio/images/owlbox.JPG
     text: ''
     type: image
-cover: /portfolios/covers//owl-finished.jpg
+cover: /img/portfolio/covers/owl-finished.jpg
 tags:
   - Produto
 members_id:

@@ -11,26 +11,26 @@ body:
       Una pieza de mobiliario muy interesante, sobre todo para usos con más de un niño. En cuanto a la proyección lúdica de la que hacen gala diferentes productos de cucuducho, en esta ocasión, la misma, resulta evidente. Así, los niños podrán realizar cualquier juego simbólico asociado a todo tipo de edificación o establecimiento (vivienda, hospital, tienda...). También permite juegos de representación y de teatralización, etc...
     type: text
   -
-    image: /portfolios/images/570f67286c0c4-mai002-frontal.jpg
+    image: /img/portfolio/images/570f67286c0c4-mai002-frontal.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f54bfae4c8-mai003-lateral.jpg
+    image: /img/portfolio/images/570f54bfae4c8-mai003-lateral.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f54bfaeaff-mai004-perspectiva.jpg
+    image: /img/portfolio/images/570f54bfaeaff-mai004-perspectiva.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f54bfaedd4-maijom-composicion-1.jpg
+    image: /img/portfolio/images/570f54bfaedd4-maijom-composicion-1.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/570f54bfaf0c4-maijom-detalle-1.jpg
+    image: /img/portfolio/images/570f54bfaf0c4-maijom-detalle-1.jpg
     text: ''
     type: image
-cover: /portfolios/covers/570f54bfadf6a-mai002-frontal.jpg
+cover: /img/portfolio/covers/570f54bfadf6a-mai002-frontal.jpg
 tags: []
 members_id:
   - 51

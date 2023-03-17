@@ -3,22 +3,22 @@ title: 'Identidad del ayuntamiento de Poio'
 slug: identidad-del-ayuntamiento-de-poio
 body:
   -
-    image: /portfolios/images/simbolo-marca-poio.jpg
+    image: /img/portfolio/images/simbolo-marca-poio.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/simbolo-logotipo-marca-poio.jpg
+    image: /img/portfolio/images/simbolo-logotipo-marca-poio.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/positivo-e-negativo.jpg
+    image: /img/portfolio/images/positivo-e-negativo.jpg
     text: ''
     type: image
   -
-    image: /portfolios/images/sello-antiguo-poio.jpg
+    image: /img/portfolio/images/sello-antiguo-poio.jpg
     text: ''
     type: image
-cover: /portfolios/covers//simbolo-marca-poio.jpg
+cover: /img/portfolio/covers/simbolo-marca-poio.jpg
 tags:
   - 'Identidade corporativa'
 members_id:
