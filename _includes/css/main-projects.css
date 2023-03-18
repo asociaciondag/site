@@ -1,22 +1,22 @@
 /* BÁSICO */
-@import "../../node_modules/normalize.css/normalize.css";
-@import "isaac-font.css";
-@import "social-font.css";
-@import "variables.css";
-@import "common.css";
+@import "https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.css";
+@import "./isaac-font.css";
+@import "./social-font.css";
+@import "./variables.css";
+@import "./common.css";
 
 /* MÓDULOS */
-@import "modules/button.css";
-@import "modules/share.css";
-@import "modules/cookies.css";
+@import "./modules/button.css";
+@import "./modules/share.css";
+@import "./modules/cookies.css";
 
 /* LAYOUTS */
-@import "layouts/wrappers.css";
-@import "layouts/columns.css";
-@import "layouts/grid.css";
+@import "./layouts/wrappers.css";
+@import "./layouts/columns.css";
+@import "./layouts/grid.css";
 
 /* ENTIDADES */
-@import "entities/news.css";
+@import "./entities/news.css";
 
 %csans-aspect-ratio {
 	max-width: 100%;

@@ -17,47 +17,45 @@ const site = lume(
 );
 
 site.copy("fonts")
-    .copy("img")
-    .copy("files")
-    .copy("feet-2010/media")
-    .copy("feet-2010/view")
-    .copy("feed-2013/flowplayer")
-    .copy("feed-2013/fonts")
-    .copy("feed-2013/img")
-    .copy("feed-2013/js")
-    .copy("feed-2013/video")
-    .use(inline())
-    .use(date({
-      locales: { gl, es },
-    }))
-    .use(postcss({
-      plugins: [
-        postcssExtendRule(),
-        postcssCustomMedia(),
-      ],
-      keepDefaultPlugins: true,
-    }))
-    .use(esbuild())
-    .use(multilanguage({
-      languages: ["gl", "es"],
-      defaultLanguage: "gl",
-    }))
-    .use(slugifyUrls())
-    .use(relations({
-      foreignKeys: {
-        member: {
-          foreignKey: "members_id",
-          relationKey: "member",
-          pluralRelationKey: "members",
-          filter: (data1, data2) => data1.lang === data2.lang,
-        },
-        portfolio: {
-          foreignKey: "portfolio_id",
-          relationKey: "portfolio",
-          pluralRelationKey: "portfolios",
-          filter: (data1, data2) => data1.lang === data2.lang,
-        },
+  .copy("img")
+  .copy("files")
+  .copy((path) => path.startsWith("/feet-2010/") && !path.match(/\.(css|njk)$/))
+  .copy((path) => path.startsWith("/feed-2013/") && !path.match(/\.(css|njk)$/))
+  .copy((path) =>
+    path.startsWith("/visita-a-guarda/") && !path.match(/\.(css|njk)$/)
+  )
+  .use(inline())
+  .use(date({
+    locales: { gl, es },
+  }))
+  .use(postcss({
+    plugins: [
+      postcssExtendRule(),
+      postcssCustomMedia(),
+    ],
+    keepDefaultPlugins: true,
+  }))
+  .use(esbuild())
+  .use(multilanguage({
+    languages: ["gl", "es"],
+    defaultLanguage: "gl",
+  }))
+  .use(slugifyUrls())
+  .use(relations({
+    foreignKeys: {
+      member: {
+        foreignKey: "members_id",
+        relationKey: "member",
+        pluralRelationKey: "members",
+        filter: (data1, data2) => data1.lang === data2.lang,
       },
-    }));
+      portfolio: {
+        foreignKey: "portfolio_id",
+        relationKey: "portfolio",
+        pluralRelationKey: "portfolios",
+        filter: (data1, data2) => data1.lang === data2.lang,
+      },
+    },
+  }));
 
 export default site;

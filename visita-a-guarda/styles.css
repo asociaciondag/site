@@ -1,0 +1,122 @@
+@import "css/main-projects.css";
+
+/* Variables */
+:root {
+	--color-back: #C7FFFF;
+	--color-front: #0000FE;
+	--color-front-alpha: #0000FE22;
+}
+
+html {
+	color: var(--color-front);
+	background: var(--color-back);
+}
+
+.page-header {
+	background: var(--color-back);
+
+	& .page-logo {
+		color: var(--color-front);
+
+		& path {
+			fill: var(--color-front);
+		}
+
+		&:hover {
+			color: black;
+
+			& path {
+				fill: black;
+			}
+		}
+	}
+}
+
+.project {
+	margin-top: 2rem;
+	margin-bottom: 3rem;
+	max-width: 30rem;
+	font-weight: var(--fw-light);
+
+	@media (--tablet) {
+		background: url('/visita-a-guarda/logo.svg') no-repeat left top;
+		padding-left: 300px;
+		min-height: 750px;
+	}
+
+	& header {
+		color: black;
+
+		& h1 {
+			font-size: 3em;
+			line-height: 1.1;
+			font-weight: var(--fw-bold);
+			margin: 0;
+
+			@media (--mobile-landscape) {
+				font-size: 4em;
+			}
+		}
+
+		& p {
+			font-size: var(--fs-26);
+			margin: 0;
+		}
+	}
+
+	& h2 {
+		font-size: 1.2rem;
+	}
+
+	& ul {
+		list-style: none;
+		padding: 0;
+
+		& p {
+			margin: 0;
+			display: inline;
+		}
+
+		& li {
+			display: flex;
+		}
+		& time {
+			font-weight: var(--fw-bold);
+			flex: 0 0 auto;
+			margin-right: 1em;
+			width: 4em;
+		}
+	}
+
+	& a {
+		color: inherit;
+
+		&:hover {
+			color: black;
+			text-decoration: none;
+		}
+	}
+}
+
+.project-news {
+	& .new-list {
+		border-color: var(--color-front-alpha);
+
+		& .new-header h1 a {
+			&:hover {
+				color: var(--color-front);
+			}
+		}
+	}
+}
+
+.project-news-external {
+	& ul {
+		& > li {
+			border-color: var(--color-front-alpha);
+		}
+	}
+	& a:hover {
+		color: var(--color-front);
+	}
+}

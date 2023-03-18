@@ -105,20 +105,7 @@
         </footer>
         <!-- FOOTER -->
 
-        <!-- Cookies -->
-        <div class="cookies-advise is-hidden">
-            {{ t.cookies.text | md | safe }}
-            <p><button id="cookies_accept">{{ t.cookies.accept }}</button></p>
-        </div>
-
-        <script src="/js/main.js"></script>
-        {% for src in js %}
-        <script src="{{ src }}"></script>
-        {% endfor %}
-
-        {# <?php if ($this->jsModule()): ?>
-        <script src="<?= $app->getUri('assets/js/'.$this->jsModule().'.js') ?>?=v1"></script>
-        <?php endif ?> #}
+        {% include "templates/scripts.njk" %}
     </body>
 </html>
 
