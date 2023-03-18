@@ -1,0 +1,202 @@
+/**
+ * RETICULAS CSSFRAMEWORK - base.css
+ *
+ * @description     Basics adjustments:
+ *                  text, list, table.
+ *                  Default value browser 16px (0.75 * 16px = 12px)
+ *
+ * @copyright       Copyright (C) 2010, Sond3
+ * @license         CC BY-NC-SA http://creativecommons.org/licenses/by-nc-sa/3.0/es/
+ *                  http://creativecommons.org/licenses/by-nc-sa/3.0/es/legalcode.es
+ *
+ * @link            http://www.reticulas.com
+ * @info            http://www.sond3.com
+ *
+ * @version         0.7.0
+ * @revision        $Rev: 253 $
+ *
+ * @ultimocambio:   $LastChangedDate: 2010-07-26 19:08:05 +0200 (Mon, 26 Jul 2010) $
+ * @realizadopor:   $LastChangedBy: segun $
+ */
+ 
+/* Essential module - Structural
+----------------------------------------------------------------------------- */
+body          { font-size:75%;
+                color:#000;
+                font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Essential module - Hipertext
+----------------------------------------------------------------------------- */
+a             { color:#09C; text-decoration:none;}
+a:hover,
+a:focus       { color:#000; text-decoration:underline;}
+
+/* Essential module - List
+----------------------------------------------------------------------------- */
+dl            { margin:0 0 1.5em 0;}
+dl dt         { font-weight:bold;}
+dd            { margin-left:1.5em;}
+
+ul, ol        { margin:0 1.5em 1.5em 1.5em;}
+ul            { list-style-type:disc;}
+ol            { list-style-type:decimal;}
+li ul, li ol  { margin:0 1.5em;}
+
+/* Essential module - Text
+----------------------------------------------------------------------------- */
+abbr,
+acronym       { border-bottom:1px dotted #666;}
+address       { margin:0 0 1.5em 0; font-style:italic;}
+
+blockquote    { font-style:italic; margin:1.31em; color:#666;}
+
+/* cite */
+pre           { margin:1em 0; white-space:pre;}
+pre, code,
+/* var - NEW!! - CHECK IN IE */
+/* tt - deleted in reset.css. Not Supported in HTML 5. */
+tt, var       { font:1em 'andale mono', 'lucida console', monospace; 
+                line-height:1.3em;
+}
+
+dfn, em       { font-style:italic;}
+dfn           { font-weight:bold;}
+
+/* div - Defined in reticula */
+
+h1,h2,h3,
+h4,h5,h6      { font-weight:normal;}
+
+h1 { font-size:2.3333em; line-height:1.25em;   margin-bottom:0.5em;}
+h2 { font-size:2em;      line-height:1.35em;   margin-bottom:0.4em;}
+h3 { font-size:1.777em;  line-height:1.2em;    margin-bottom:0.4em;}
+h4 { font-size:1.555em;  line-height:1.1em;    margin-bottom:0.4em;}
+h5 { font-size:1.3333em; line-height:1.1em;    margin-bottom:0.4em;}
+h6 { font-size:1.1667em; line-height:1.2857em; margin-bottom:1.2857em;}
+
+h1 img, h2 img,
+h3 img, h4 img,
+h5 img, h6 img{ margin:0;}
+
+/* kdb */
+
+p             { margin:0 0 1em 0;}
+p img.left    { margin:0.32em 1.5em 1.2em 0; padding:0; float:left;}
+p img.right   { margin:0.32em 0 1.2em 1.5em;            float:right;}
+
+/* q */
+/* samp */
+/* span */
+
+strong        { font-weight:bold;}
+
+/* Extension modules text - Presentation
+----------------------------------------------------------------------------- */
+sup, sub      { line-height:0;}
+
+/* NEW!! sup sub - WORKS IN IE6 */
+sup           { vertical-align:text-top;}
+sub           { vertical-align:sub;}
+
+/* NEED EXPLORER HACK MARGIN | core/ie.css */
+hr            { clear:both;
+                float:none;
+                width:100%;
+                height:1px;
+                border:none;
+                margin:0;
+                background-color:transparent; /*defined for solid line*/
+                visibility:hidden; /*defined for solid line*/
+}
+
+
+/* Extension modules text - Edition
+----------------------------------------------------------------------------- */
+del           { color:#666;}
+ins           { background-color:#F5E498;}
+
+/* Table Module
+----------------------------------------------------------------------------- */
+table         { margin-bottom:1em; width:100%;}
+
+th            { font-weight:bold;}
+
+thead th      { background:#CCC;}
+
+th,td,caption { padding:4px 10px 4px 5px; border:1px solid #333333;}
+
+/* tr.marked - concrete color for td with tr.marked */
+tr.marked td  { background: #F5F5F5;}
+tfoot         { font-style: italic;}
+caption       { background: #333; color:#FFFFFF; font-weight:bold;}
+
+/* Size
+----------------------------------------------------------------------------- */
+.mini         { font-size:0.8333em; line-height:1.6em;    margin-bottom:1.6em;}
+.medium       { font-size:1.1667em; line-height:1.2857em; margin-bottom:0.6em;}
+.large        { font-size:1.3333em; line-height:1.2857em; margin-bottom:0.6em;}
+.big          { font-size:1.6667em; line-height:1.318em;  margin-bottom:0.6em;}
+.enormous     { font-size:3em;      line-height:1em;      margin-bottom:0.5em;}
+
+/* Colors: Grey scale
+----------------------------------------------------------------------------- */
+.white        { color:#FFF;}
+.lightgrey    { color:#CCC;}
+.mediumgrey   { color:#999;}
+.darkgrey     { color:#666;}
+.almostblack  { color:#333;}
+.black        { color:#000;}
+
+/* Text aling
+----------------------------------------------------------------------------- */
+.textalingr   { text-align:right;}
+.textalingl   { text-align:left;}
+.textalingj   { text-align:justify;}
+.textalingc   { text-align:center;}
+
+/* Notices
+----------------------------------------------------------------------------- */
+.emphasized   { background:#FF6; color:#000; padding:2px;}
+.correct      { background:#6C3; color:#FFF; padding:2px;}
+.erased       { background:#F00; color:#FFF; padding:2px;}
+
+/* Common
+----------------------------------------------------------------------------- */
+.floatr       { float:right;}
+.floatl       { float:left;}
+
+.hide         { display:none;}
+
+.clear        { clear:both;}
+
+/*- NEW CLEAR!! - CHECK IN IE */
+.clearfix:after       { content:".";
+                        display:block;
+                        clear:both;
+                        visibility:hidden;
+                        font-size: 0;
+                        line-height:0;
+                        height:0;
+}
+.clearfix             { display:inline-block;}
+html[xmlns] .clearfix { display:block;}
+* html .clearfix      { height:1%;}
+
+/* Clearfix-Hack
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.clearfix {display: inline-table;}
+
+ Hides from IE-mac
+
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+
+ End hide from IE-mac */

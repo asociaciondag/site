@@ -1,0 +1,93 @@
+/**
+ * RETICULAS CSSFRAMEWORK - reset.css
+ *
+ * @description     Removes default styling tags of HTML
+ *                  Based on Eric Meyer's work:
+ *                  http://meyerweb.com/eric/tools/css/reset/
+ *
+ * @copyright       Copyright (C) 2010, Sond3
+ * @license         CC BY-NC-SA http://creativecommons.org/licenses/by-nc-sa/3.0/es/
+ *                  http://creativecommons.org/licenses/by-nc-sa/3.0/es/legalcode.es
+ *
+ * @link            http://www.reticulas.com
+ * @info            http://www.sond3.com
+ *
+ * @version         0.7.0
+ * @revision        $Rev: 225 $
+ *
+ * @ultimocambio:   $LastChangedDate: 2010-07-09 12:48:36 +0200 (Fri, 09 Jul 2010) $
+ * @realizadopor:   $LastChangedBy: segun $
+ */
+
+/*
+DELETE FROM ORIGINAL MEYER RESET
+big,font,s,small,strike,tt,b,u,i,center
+*/
+
+/* Essential module - Structural */
+body, html,
+
+/* Essential module - Hipertext */
+a,
+
+/* Essential module - List */
+dl, dt, dd, ol, ul, li,
+
+/* Essential module - Text */
+abbr, acronym, address, blockquote, /*br, include?*/
+cite, code, dfn, div, em,
+h1, h2, h3, h4, h5, h6,
+kbd, p, pre, q, samp, span, strong, var,
+
+/* Extension modules text - Presentation */
+sub, sup, /*hr, defined in base.css*/
+
+/* Extension modules text - Edition */
+del, ins,
+
+/* Table Module */
+caption, table, td, th, tr, tbody, thead, tfoot,
+
+/* Forms */
+form, fieldset, label, legend,
+
+/* Image */
+img,
+
+/* Object */
+object,
+
+/* Inline Frame */
+iframe  { margin:0;
+	  padding:0;
+	  border:0;
+	  outline:0;
+	  font-size:100%;
+	  vertical-align:baseline;
+	  background:transparent;
+}
+
+body    { line-height:1.618em;}
+
+ol, ul  { list-style:none;}
+
+blockquote,
+q       { quotes:none;}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after { content:'';
+          content:none;
+}
+
+/* remember to define focus styles! */
+:focus  { outline:0;}
+
+del     { text-decoration:line-through;}
+ins     { text-decoration:none;}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table   { border-collapse:collapse;
+	  border-spacing:0;
+}

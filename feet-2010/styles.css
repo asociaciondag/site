@@ -1,0 +1,8 @@
+@import "./view/skin1/reticulas_cssframework/core/core.css";
+@import "./view/skin1/reticulas_cssframework/extended/reticulas/reticulas.css";
+
+.carousel-item {
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+}

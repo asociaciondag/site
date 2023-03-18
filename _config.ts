@@ -17,11 +17,11 @@ const site = lume(
 );
 
 site.copy("fonts");
-site.copy("img");
+site.copy([".jpg", ".png", ".gif", ".svg"]);
 site.copy("files");
 site.use(inline());
 site.use(date({
-  locales: { gl, es }
+  locales: { gl, es },
 }));
 
 site.use(postcss({
@@ -52,8 +52,8 @@ site.use(relations({
       relationKey: "portfolio",
       pluralRelationKey: "portfolios",
       filter: (data1, data2) => data1.lang === data2.lang,
-    }
-  }
+    },
+  },
 }));
 
 export default site;

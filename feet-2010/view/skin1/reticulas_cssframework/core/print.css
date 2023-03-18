@@ -1,0 +1,39 @@
+/**
+ * RETICULAS CSSFRAMEWORK - print.css
+ *
+ * @description     Print basic aspect.
+ *
+ * @copyright       Copyright (C) 2010, Sond3
+ * @license         CC BY-NC-SA http://creativecommons.org/licenses/by-nc-sa/3.0/es/
+ *                  http://creativecommons.org/licenses/by-nc-sa/3.0/es/legalcode.es
+ *
+ * @link            http://www.reticulas.com
+ * @info            http://www.sond3.com
+ *
+ * @version         0.7.0
+ * @revision        $Rev: 240 $
+ *
+ * @ultimocambio:   $LastChangedDate: 2010-07-21 19:52:52 +0200 (Wed, 21 Jul 2010) $
+ * @realizadopor:   $LastChangedBy: segun $
+*/
+
+body            { font-size: 75%;
+                  color: #000000;
+                  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+hr              { clear:both;
+                  float:none;
+                  width:100%;
+                  height:1px;
+                  border:none;
+                  margin:0;
+                  background-color:#000; /*defined for solid line*/
+                  visibility:visible; /*defined for solid line*/
+}
+
+a               { color:#09C;}
+a:link:after,
+a:visited:after { content: " ( " attr(href) " ) ";
+                  font-size:90%;
+}

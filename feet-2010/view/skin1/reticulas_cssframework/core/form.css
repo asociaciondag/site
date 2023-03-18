@@ -1,0 +1,67 @@
+/**
+ * RETICULAS CSSFRAMEWORK - form.css
+ *
+ * @description     Basic aspect forms
+ *
+ * @copyright       Copyright (C) 2010, Sond3
+ * @license         CC BY-NC-SA http://creativecommons.org/licenses/by-nc-sa/3.0/es/
+ *                  http://creativecommons.org/licenses/by-nc-sa/3.0/es/legalcode.es
+ *
+ * @link            http://www.reticulas.com
+ * @info            http://www.sond3.com
+ *
+ * @version         0.7.0
+ * @revision        $Rev: 246 $
+ *
+ * @ultimocambio:   $LastChangedDate: 2010-07-22 17:44:37 +0200 (Thu, 22 Jul 2010) $
+ * @realizadopor:   $LastChangedBy: segun $
+ */
+
+label        { font-weight: bold;}
+fieldset     { margin:0 0 1.5em 0; padding:1.4em; border:1px solid #ccc;}
+legend       { font-weight: bold; font-size:1.2em;}
+
+/* Form
+-------------------------------------------------------------- */
+input.text,
+input.title,
+textarea,
+select       { margin:0.3em 0 0px 0; border:1px solid #bbb;}
+
+input.text:focus,
+input.title:focus,
+textarea:focus,
+select:focus { border:1px solid #666; background-color:#F5F5F5;}
+
+input.text,
+input.title  { width:99%; padding:2px; color: #333;}
+
+input.title  { font-size:1.4em; color:#000;}
+
+textarea     { width:99%; height:250px; padding:1px; color:#666;}
+
+/* correcto(accepted), aviso(notice) y error
+-------------------------------------------------------------- */
+.error,
+.notice,
+.accepted    { padding:.8em; margin-bottom:1em; border:2px solid #ddd;}
+
+.error       { background:#FBE3E4; color:#8a1f11; border-color:#FBC2C4;}
+.notice      { background:#FFF6BF; color:#514721; border-color:#FFD324;}
+.accepted    { background:#E6EFC2; color:#264409; border-color:#C6D880;}
+
+.error a     { color:#8a1f11;}
+.notice a    { color:#514721;}
+.accepted a  { color:#264409;}
+
+/*Button
+-------------------------------------------------------------- */
+.button      { padding:4px 4px 4px 4px;
+               background-color:#505761;
+               border: 1px solid #000;
+               font-size:10px;
+               color:#FFF;
+               text-decoration:none;
+               cursor:pointer;
+}
+.button:hover{ background-color:#333;}

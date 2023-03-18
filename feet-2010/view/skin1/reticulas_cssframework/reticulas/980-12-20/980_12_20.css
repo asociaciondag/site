@@ -1,0 +1,122 @@
+/**
+ * RETICULAS CSSFRAMEWORK - 980_12_20.css
+ *
+ * @description     Modules to build a grid-based structure.
+ *                  980px, 12 columns with gutter and margin of 20px
+ *
+ * @copyright       Copyright (C) 2010, Sond3
+ * @license         CC BY-NC-SA http://creativecommons.org/licenses/by-nc-sa/3.0/es/
+ *                  http://creativecommons.org/licenses/by-nc-sa/3.0/es/legalcode.es
+ *
+ * @link            http://www.reticulas.com
+ * @info            http://www.sond3.com
+ *
+ * @version         0.7.0
+ * @revision        $Rev: 247 $
+ *
+ * @ultimocambio:   $LastChangedDate: 2010-07-22 17:46:09 +0200 (Thu, 22 Jul 2010) $
+ * @realizadopor:   $LastChangedBy: segun $
+ */
+
+ /* To see background grid
+----------------------------------------------------------*/
+.reticula        { background:url(980_12_20.jpg) top left;}
+
+/* General container: contains all remaining
+----------------------------------------------------------*/
+#page-wrapper    { width:940px;
+                   margin:0 auto;
+                   padding:20px 20px 20px 20px;
+                   border:1px solid #CCC;
+}
+
+/* Modules: different widths to modulate
+----------------------------------------------------------*/
+div.module1, div.module2, div.module3,
+div.module4, div.module5, div.module6,
+div.module7, div.module8, div.module9,
+div.module10,div.module11,div.module12 {
+    float:left;
+    overflow: hidden;
+}
+
+.module1	 { width:60px;}
+.module2	 { width:140px;}
+.module3	 { width:220px;}
+.module4	 { width:300px;}
+.module5	 { width:380px;}
+.module6	 { width:460px;}
+.module7	 { width:540px;}
+.module8	 { width:620px;}
+.module9	 { width:700px;}
+.module10	 { width:780px;}
+.module11	 { width:860px;}
+.module12	 { width:940px;}
+
+/* Margins
+----------------------------------------------------------------------------- */
+/* top */
+.margintop0      { margin-top:0px;}
+.margintop5      { margin-top:5px;}
+.margintop10     { margin-top:10px;}
+.margintop15     { margin-top:15px;}
+.margintop20     { margin-top:20px;}
+
+/* right */
+.marginright0    { margin-right:0px;}
+.marginright5    { margin-right:5px;}
+.marginright10   { margin-right:10px;}
+.marginright15   { margin-right:15px;}
+.marginright20   { margin-right:20px;}
+
+/* bottom */
+.marginbottom0   { margin-bottom:0px;}
+.marginbottom5   { margin-bottom:5px;}
+.marginbottom10  { margin-bottom:10px;}
+.marginbottom15  { margin-bottom:15px;}
+.marginbottom20  { margin-bottom:20px;}
+
+/* left */
+.marginleft0     { margin-left:0px;}
+.marginleft5     { margin-left:5px;}
+.marginleft10    { margin-left:10px;}
+.marginleft15    { margin-left:15px;}
+.marginleft20    { margin-left:20px;}
+
+/* full */
+.marginfull5     { margin:5px 5px 5px 5px;}
+.marginfull10    { margin:10px 10px 10px 10px;}
+.marginfull15    { margin:15px 15px 15px 15px;}
+.marginfull20    { margin:20px 20px 20px 20px;}
+
+/* Paddings
+----------------------------------------------------------------------------- */
+/* top */
+.paddingtop5     { padding-top:5px;}
+.paddingtop10    { padding-top:10px;}
+.paddingtop15    { padding-top:15px;}
+.paddingtop20    { padding-top:20px;}
+
+/* right */
+.paddingright5   { padding-right:5px;}
+.paddingright10  { padding-right:10px;}
+.paddingright15  { padding-right:15px;}
+.paddingright20  { padding-right:20px;}
+
+/* bottom */
+.paddingbottom5  { padding-bottom:5px;}
+.paddingbottom10 { padding-bottom:10px;}
+.paddingbottom15 { padding-bottom:15px;}
+.paddingbottom20 { padding-bottom:20px;}
+
+/* left */
+.paddingleft5    { padding-left:5px;}
+.paddingleft10   { padding-left:10px;}
+.paddingleft15   { padding-left:15px;}
+.paddingleft20   { padding-left:20px;}
+
+/* full */
+.paddingfull5    { padding:5px 5px 5px 5px;}
+.paddingfull10   { padding:10px 10px 10px 10px;}
+.paddingfull15   { padding:15px 15px 15px 15px;}
+.paddingfull20   { padding:20px 20px 20px 20px;}

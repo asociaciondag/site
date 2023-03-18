@@ -1,0 +1,21 @@
+/**
+ * RETICULAS CSSFRAMEWORK - ie.css
+ *
+ * @description     Settings for Internet Explorer 8
+ *
+ * @copyright       Copyright (C) 2010, Sond3
+ * @license         CC BY-NC-SA http://creativecommons.org/licenses/by-nc-sa/3.0/es/
+ *                  http://creativecommons.org/licenses/by-nc-sa/3.0/es/legalcode.es
+ *
+ * @link            http://www.reticulas.com
+ * @info            http://www.sond3.com
+ *
+ * @version         0.7.0
+ * @revision        $Rev: 225 $
+ *
+ * @ultimocambio:   $LastChangedDate: 2010-07-09 12:48:36 +0200 (Fri, 09 Jul 2010) $
+ * @realizadopor:   $LastChangedBy: segun $
+ */
+
+/* RESOLVED HR MARGIN PROBLEMS FOR IE8  */
+hr  { margin: 8px auto 8px ; }
