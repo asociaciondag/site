@@ -16,44 +16,48 @@ const site = lume(
   { search: { returnPageData: true } },
 );
 
-site.copy("fonts");
-site.copy([".jpg", ".png", ".gif", ".svg"]);
-site.copy("files");
-site.use(inline());
-site.use(date({
-  locales: { gl, es },
-}));
-
-site.use(postcss({
-  plugins: [
-    postcssExtendRule(),
-    postcssCustomMedia(),
-  ],
-  keepDefaultPlugins: true,
-}));
-
-site.use(esbuild());
-site.use(multilanguage({
-  languages: ["gl", "es"],
-  defaultLanguage: "gl",
-}));
-site.use(slugifyUrls());
-
-site.use(relations({
-  foreignKeys: {
-    member: {
-      foreignKey: "members_id",
-      relationKey: "member",
-      pluralRelationKey: "members",
-      filter: (data1, data2) => data1.lang === data2.lang,
-    },
-    portfolio: {
-      foreignKey: "portfolio_id",
-      relationKey: "portfolio",
-      pluralRelationKey: "portfolios",
-      filter: (data1, data2) => data1.lang === data2.lang,
-    },
-  },
-}));
+site.copy("fonts")
+    .copy("img")
+    .copy("files")
+    .copy("feet-2010/media")
+    .copy("feet-2010/view")
+    .copy("feed-2013/flowplayer")
+    .copy("feed-2013/fonts")
+    .copy("feed-2013/img")
+    .copy("feed-2013/js")
+    .copy("feed-2013/video")
+    .use(inline())
+    .use(date({
+      locales: { gl, es },
+    }))
+    .use(postcss({
+      plugins: [
+        postcssExtendRule(),
+        postcssCustomMedia(),
+      ],
+      keepDefaultPlugins: true,
+    }))
+    .use(esbuild())
+    .use(multilanguage({
+      languages: ["gl", "es"],
+      defaultLanguage: "gl",
+    }))
+    .use(slugifyUrls())
+    .use(relations({
+      foreignKeys: {
+        member: {
+          foreignKey: "members_id",
+          relationKey: "member",
+          pluralRelationKey: "members",
+          filter: (data1, data2) => data1.lang === data2.lang,
+        },
+        portfolio: {
+          foreignKey: "portfolio_id",
+          relationKey: "portfolio",
+          pluralRelationKey: "portfolios",
+          filter: (data1, data2) => data1.lang === data2.lang,
+        },
+      },
+    }));
 
 export default site;
