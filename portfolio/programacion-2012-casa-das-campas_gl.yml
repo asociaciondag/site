@@ -1,0 +1,44 @@
+id: 40
+title: 'Programación 2012 Casa das Campás'
+slug: programacion-2012-casa-das-campas
+body:
+  -
+    text: 'A Casa das Campás deseña cada ano os materiais de promoción das actividades, cursos e obradoiros que se promoven desde a Universidade de Vigo para todo o Campus de Pontevedra. Desta vez, tendo que manter as cores corporativas e os formatos utilizados en anteriores ocasións, deseñamos un cartel, un despregable, un mantel para os comedores universitarios e un libriño de 24 páxinas.'
+    type: text
+  -
+    image: /img/portfolio/images/555cdf3e78eda-casacampas-01.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/555cdf3e794fe-casacampas-02.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/555cdf3e799fd-casacampas-03.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/555cdf3e79f47-casacampas-04.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/558564d3ac489-555cdf3e794fe-casacampas-02.jpg
+tags:
+  - Gráfico
+members_id:
+  - 3
+  - 18
+lang: gl
+info:
+  -
+    name: Estudio
+    value: 'Ekinocio comunicación'
+  -
+    name: Proxecto
+    value: 'Programación de Outono 2012 da Casa das Campás'
+  -
+    name: Cliente
+    value: 'Casa das Campás, Vicerreitoría do Campus de Pontevedra da Universidade de Vigo.'
+  -
+    name: Ano
+    value: '2012'
+draft: false

@@ -1,0 +1,67 @@
+id: 3
+title: 'Cafés Sabora'
+slug: cafes-sabora
+body:
+  -
+    text: 'Redeseño da imaxe e do _packaging_ da empresa de café compostelá.'
+    type: text
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_bodegon11.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_asucar.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_cafe.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_ceniceros.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_envases.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_envases1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_furgo1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_furgo3.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_paquetes1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_paquetes2.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e276ce830-sabora_vasos.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/5585521aef809-5554e276ce830-sabora-ceniceros.jpg
+tags:
+  - Embalaxe
+  - Gráfico
+  - 'Identidade corporativa'
+members_id:
+  - 10
+lang: gl
+info:
+  -
+    name: Cliente
+    value: 'Cafés Sabora'
+  -
+    name: Ano
+    value: '2008'
+draft: false

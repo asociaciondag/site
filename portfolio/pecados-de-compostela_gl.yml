@@ -1,0 +1,46 @@
+id: 29
+title: 'Pecados de Compostela'
+slug: pecados-de-compostela
+body:
+  -
+    text: 'A tenda Pecados de Compostela precisaba dun embalaxe para regalar lambonadas e caramelos nesas ocasións especiais, persoais ou de celebración conxunta. Creamos un estuchado divertido e festivo, cunha presentación colorista, xunto cunha serie de postais e tarxetas de felicitacións como o complemento ideal para un produto doce e variado.'
+    type: text
+  -
+    image: /img/portfolio/images/555cdee9c425e-pecados-01.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/555cdee9c4b4d-pecados-02.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/555cdee9c5144-pecados-03.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/555cdee9c57b9-pecados-04.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/558561544da65-555cdee9c4b4d-pecados-02.jpg
+tags:
+  - Embalaxe
+  - Gráfico
+  - 'Identidade corporativa'
+members_id:
+  - 3
+  - 18
+lang: gl
+info:
+  -
+    name: Estudio
+    value: 'Ekinocio comunicación'
+  -
+    name: Proxecto
+    value: 'Embalaxes de regalos'
+  -
+    name: Cliente
+    value: 'Pecados de Compostela'
+  -
+    name: Ano
+    value: '2012'
+draft: false

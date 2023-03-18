@@ -1,0 +1,25 @@
+id: 95
+title: 'Terras Gauda'
+slug: terras-gauda
+body:
+  -
+    text: 'Para esta proposta de cartel empregamos unha botella real de albariño Terras Gauda como soporte directo da ilustración. Deste xeito, apropiámonos dun obxecto producido en serie, e que dotamos dun carácter único, a través da asociación entre a elaboración do viño e a arte.'
+    type: text
+  -
+    image: /img/portfolio/images/5564c738ced40-terrasgauda.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/55859ca991a59-5564c738ced40-terrasgauda.jpg
+tags:
+  - Gráfico
+members_id:
+  - 33
+lang: gl
+info:
+  -
+    name: Cliente
+    value: 'Proposta finalista concurso de carteis Francisco Mantecón'
+  -
+    name: Ano
+    value: '2009'
+draft: false

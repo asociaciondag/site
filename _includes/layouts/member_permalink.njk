@@ -4,14 +4,17 @@ layout: layouts/base.njk
 
 <div class="wrapper">
 	<nav class="buttons-tabs">
-		<a class="button is-selected" href="<?= $this->url('members') ?>"><?= __('Socios') ?></a>
-		<a class="button" href="<?= $this->url('portfolios') ?>"><?= __('Proxectos') ?></a>
+    {% set p = search.page("id=members lang=" + lang) %}
+		<a class="button is-selected" href="{{ p.url }}">{{ t.members.members }}</a>
+
+    {% set p = search.page("id=portfolio lang=" + lang) %}
+		<a class="button" href="{{ p.url }}">{{ t.members.projects }}</a>
 	</nav>
 </div>
 
-<article class="wrapper-narrow member member-permalink" data-folk="members,<?= $member->id ?>">
+<article class="wrapper-narrow member member-permalink">
 	<figure class="member-avatar">
-		<img src="<?= Img::getUri($member->avatarBig ?: $member->avatar, 'resizeCrop,128,128'); ?>" alt="">
+		<img src="{{ avatarBig or avatar }}" width="128" height="128" alt="">
 	</figure>
 
 	<header class="member-header">
@@ -40,12 +43,10 @@ layout: layouts/base.njk
   {% endif %}
 </article>
 
-<?php if ($portfolios->count()): ?>
+{% if portfolios.length %}	
 <div class="portfolios-grid wrapper">
-	<?php
-    foreach ($portfolios as $portfolio) {
-        $this->insert('portfolio/list', ['portfolio' => $portfolio]);
-    }
-    ?>
+	{% for portfolio in portfolios %}
+	{% include "templates/portfolio-list.njk" %}
+	{% endfor %}
 </div>
-<?php endif; ?>
+{% endif %}

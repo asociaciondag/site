@@ -1,0 +1,39 @@
+id: 133
+title: Maijom
+slug: maijom
+body:
+  -
+    text: |-
+      Maijom é un escritorio dobre que, a súa vez, funciona como un versátil elemento de xogo. Ao mesmo tempo, o seu elevado valor estético convérteno nun apreciado obxecto decorativo dentro de calquera espazo.
+
+      Un trazo infantil sintetizando unha casa, serviu como punto de partida para crear esta mesiña. "Xogando" coa escala dunha vivenda a dúas augas, conseguimos crear un escritorio dobre. Unha peza de mobiliario moi interesante, sobre todo para usos con máis dun neno.
+
+      Canto á proxección lúdica da que fan gala diferentes produtos de cucuducho, nesta ocasión resulta evidente. Así, os nenos poderán realizar calquera xogo simbólico asociado a todo tipo de edificación ou establecemento (vivenda, hospital, tenda...). Tamén permite xogos de representación e de teatralización, etc.
+    type: text
+  -
+    image: /img/portfolio/images/570f67286c0c4-mai002-frontal.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f54bfae4c8-mai003-lateral.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f54bfaeaff-mai004-perspectiva.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f54bfaedd4-maijom-composicion-1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f54bfaf0c4-maijom-detalle-1.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/570f54bfadf6a-mai002-frontal.jpg
+tags: []
+members_id:
+  - 51
+lang: gl
+info: []
+draft: false

@@ -1,0 +1,61 @@
+id: 258
+title: Movement
+slug: movement
+body:
+  -
+    text: |-
+      Tipografía de deseño experimental inspirada polo movemento na danza contemporánea. Este proxecto xorde en colaboración con Design Indaba, con motivo da celebración do festival anual de deseño na Cidade do Cabo en 2019. Movement é unha fonte variable que establece dous eixos para o seu espazo de deseño: peso e espazo. Esta estrutura da familia tipográfica fai referencia ás teorías sobre o movemento do histórico coreógrafo Rudolf Laban.
+
+      Web: [www.nmtype.com/movement/](http://www.nmtype.com/movement/)
+    type: text
+  -
+    image: /img/portfolio/images/movement-5.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/movement-6.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/movement-9.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/movement-10.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/movement-11.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/movement-12.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/movement-14.png
+    text: ''
+    type: image
+cover: /img/portfolio/covers/movement-1.png
+tags:
+  - Tipografía
+members_id:
+  - 56
+lang: gl
+info:
+  -
+    name: Estudio
+    value: 'NM type'
+  -
+    name: Coautor
+    value: 'Noel Pretorius'
+  -
+    name: Produción
+    value: 'Design Indaba'
+  -
+    name: Colaboración
+    value: 'Andile Vellem'
+  -
+    name: Ano
+    value: '2019'
+draft: true

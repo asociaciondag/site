@@ -1,0 +1,22 @@
+id: 208
+title: Frank
+slug: frank
+body:
+  -
+    text: |-
+      Esta identidade corresponde ao redeseño para unha tenda local de moda masculina. O obxectivo era conseguir unha imaxe potente que tivese como valores de marca fundamentais a representación da calidade e a masculinidade sen perder o legado familiar da empresa.
+
+      Así pois, e collendo como referencia a heráldica patronímica, faise unha revisión dos seus potentes elementos para obter unha imaxe que transmite confianza e seguridade, e enfatiza a súa razón de ser. No tocante á tipografía, escóllese unha sans-serif co ánimo de preservar a robustez da anterior e que lle dá un carácter máis neutro e actual.
+    type: text
+  -
+    image: /img/portfolio/images/frank.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/frank-thumbnail.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 57
+lang: gl
+info: []
+draft: false

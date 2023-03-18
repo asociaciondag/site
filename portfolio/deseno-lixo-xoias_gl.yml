@@ -1,0 +1,38 @@
+id: 192
+title: 'Deseño&Lixo // Xoias'
+slug: deseno-lixo-xoias
+body:
+  -
+    text: '100% Lixo (plástico)'
+    type: text
+  -
+    image: /img/portfolio/images/587923a3b7291-bealema-03-1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/587923bef34ec-bealema-03-2.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/587923bef37b8-bealema-03-3.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/587923e03e13c-bealema-03-4.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/587923e03e48b-bealema-03-5.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/587923e03e6e1-bealema-03-6.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/587922fa01067-bealema-03-1.jpg
+tags: []
+members_id:
+  - 55
+lang: gl
+info: []
+draft: false

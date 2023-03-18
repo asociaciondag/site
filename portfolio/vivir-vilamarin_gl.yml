@@ -1,0 +1,26 @@
+id: 212
+title: 'Vivir Vilamarín'
+slug: vivir-vilamarin
+body:
+  -
+    text: |-
+      Vivir Vilamarín é unha iniciativa creada co obxectivo de revitalizar os espazos agrarios do concello de Vilamarín a través da oferta de diversas actividades culturais (poesía, música, cine, obradoiros...). VV busca ser un punto de encontro entre o novo e o vello, o urbano e o rural, a cultura e o agro.
+
+      Baixo estas premisas concibimos unha identidade que debe responder a tres necesidades fundamentais: unha fácil lecturabilidade debido ao seu target, a sinxeleza na produción e a fácil adaptabilidade a aplicacións de formato artesanal.
+
+      Para conseguilo utilízase unha tipografía industrial personalizada, cos bordos suavizados e inspirada no antigo marcado de reses e sacos. A cor primaria da marca é vibrante, contemporánea pero tamén recoñecible (escudo de armas).
+
+      As aplicacións da marca crecen coa iniciativa grazas ao dinamismo e versatilidade do sistema compositivo.
+    type: text
+  -
+    image: /img/portfolio/images/vivir-vilamari-uen.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/vivir-vilamari-n-thumbnail.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 57
+lang: gl
+info: []
+draft: false

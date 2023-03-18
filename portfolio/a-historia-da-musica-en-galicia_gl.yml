@@ -1,0 +1,68 @@
+id: 8
+title: 'A historia da música en Galicia'
+slug: a-historia-da-musica-en-galicia
+body:
+  -
+    text: |-
+      Nestes días de flores e libros comparto convosco un novo proxecto. Máis de 400 páxinas só a dúas tintas (negra e amarela) sobre a historia da música en Galicia. Un percorrido desde a época castrexa ata o século XX da man de Lorena López Cobas.
+
+      As cubertas están ilustradas cunha interpretación libre de dúas letras iluminadas do _Códice Calixtino_ (s.XII): Galicia (G), Música (M).
+    type: text
+  -
+    image: /img/portfolio/images/5554e676a58fd-01-1024x766.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e676a58fd-02-1024x768.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e676a58fd-04-1024x768.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e676a58fd-05-1024x768.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e676a58fd-06-1024x765.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e676a58fd-07-1024x768.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e676a58fd-08-1024x768.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e676a58fd-09-1024x768.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e676a58fd-10-1024x768.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e676a58fd-11-1024x768.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5554e676a58fd-12-1024x768.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/558554f8a0892-5554e676a58fd-01-1024x766.jpg
+tags:
+  - Editorial
+members_id:
+  - 10
+lang: gl
+info:
+  -
+    name: Cliente
+    value: Ouvirmos
+  -
+    name: Ano
+    value: '2013'
+draft: false

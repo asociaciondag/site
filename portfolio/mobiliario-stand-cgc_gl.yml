@@ -1,0 +1,42 @@
+id: 190
+title: 'Mobiliario stand CGC'
+slug: mobiliario-stand-cgc
+body:
+  -
+    text: 'Deseño do mobiliario para a caseta do Consello Galego de Cooperativas, no Culturgal 2016. Proxecto xestionado e desenvolvido por 7H Coop.'
+    type: text
+  -
+    image: /img/portfolio/images/58791eb920b5a-bealema-02-1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/58791f7f2481f-bealema-02-2.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/58791f7f24dd5-bealema-02-3.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/58791f7f250bc-bealema-02-4.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/58791f7f25394-bealema-02-5.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/58791f7f255a7-bealema-02-6.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/58791f7f257d1-bealema-02-7.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/58791eb92083a-bealema-02-1.jpg
+tags: []
+members_id:
+  - 55
+lang: gl
+info: []
+draft: false

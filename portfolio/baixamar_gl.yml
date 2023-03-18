@@ -1,0 +1,33 @@
+id: 130
+title: Baixamar
+slug: baixamar
+body:
+  -
+    text: |-
+      Baixamar é un estante para albergar, principalmente, contos infantís. Aínda que realmente, admite calquera obxecto cuxas dimensións se adapten ás do oco presentado.
+
+      Baixamar xorde da combinación de dous estantes individuais Adorna situados en paralelo. Unha vez colocados estes estantes e a partir de tres sinxelos pasos, obtemos un estante maior(e sen necesidade de ferramentas).
+
+      Baixamar toma como referencia as embarcación típicas galegas (dornas) para dotalas dun significado máis poético (se cabe). O contido convértese nun continente e a idea vólvese evidente. Os contos transformaranse así, nas embarcacións para navegarem polo océanos da imaxinación.
+
+      As combinacións cromáticas (en clara alusión ao pintado tradicional destas embarcacións) e o contraste coa madeira natural, dotan os estantes dunha premeditada "calidez artesanal".
+    type: text
+  -
+    image: /img/portfolio/images/570f65e499654-bai003-lateral.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f4dc7b09fb-bai003-perspectiva.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f4dc7b0ccb-baixamar-composicion-1.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/570f4dc7b061d-bai003-lateral.jpg
+tags: []
+members_id:
+  - 51
+lang: gl
+info: []
+draft: false

@@ -24,8 +24,6 @@ site.use(date({
   locales: { gl, es }
 }));
 
-// site.ignore((path:string) => path !== "/index.njk")
-
 site.use(postcss({
   plugins: [
     postcssExtendRule(),
@@ -40,12 +38,19 @@ site.use(multilanguage({
   defaultLanguage: "gl",
 }));
 site.use(slugifyUrls());
+
 site.use(relations({
   foreignKeys: {
     member: {
       foreignKey: "members_id",
       relationKey: "member",
       pluralRelationKey: "members",
+      filter: (data1, data2) => data1.lang === data2.lang,
+    },
+    portfolio: {
+      foreignKey: "portfolio_id",
+      relationKey: "portfolio",
+      pluralRelationKey: "portfolios",
       filter: (data1, data2) => data1.lang === data2.lang,
     }
   }

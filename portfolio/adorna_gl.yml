@@ -1,0 +1,45 @@
+id: 129
+title: Adorna
+slug: adorna
+body:
+  -
+    text: |-
+      Adorna é un estante individual para albergar, principalmente, contos infantís. Aínda que realmente, admite calquera obxecto cuxas dimensións se adapten ás do oco presentado.
+
+      Adorna permite crear infinidade de composicións sobre calquera tipo de parede, dun xeito realmente sinxelo. Ao mesmo tempo, poderemos aumentar a capacidade de almacenaxe grazas aos seus estantes lineais (Baixamar).
+
+      Adorna toma como referencia as embarcación típicas galegas (dornas) para dotalas dun significado máis poético (se cabe). O contido convértese nun continente e a idea vólvese evidente. Os contos transformaranse así, nas embarcacións para navegar polo océanos da imaxinación.
+
+      As combinacións cromáticas (en clara alusión ao pintado tradicional destas embarcacións) e o contraste coa madeira natural, dotan os estantes dunha premeditada "calidez artesanal".
+    type: text
+  -
+    image: /img/portfolio/images/570f4c420e687-adorna-composicion-1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f669ec42df-ado001-perspectiva.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f4c420e8f1-adorna-composicion-2.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f4c420ebdd-adorna-composicion-4.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f4c420ef32-adorna-con-cuentos-composicion-1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f4c420f072-adorna-con-cuentos-composicion-2.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/570f6672e0803-adorna-composicion-1.jpg
+tags: []
+members_id:
+  - 51
+lang: gl
+info: []
+draft: false

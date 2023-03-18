@@ -1,0 +1,43 @@
+id: 132
+title: Cuncha
+slug: cuncha
+body:
+  -
+    text: |-
+      Cuncha es un asiento enteramente artesanal, informal, cálido y sorprendente. Al voltearlo, nos encontramos con un parte inferior hueca, donde se esconden dos cinchas que supondrán el arranque para un sinfín de situaciones lúdicas.
+
+      Quién no se ha sentado en una roca a descansar y se le ha empezado a mover?. Ese momento se antojaría como el punto de partida para empezar a desarrollar el producto. Sin embargo, y para distanciarnos de ese simil pétreo, nos centramos en revestir con una “piel” lo suficientemente cálida nuestro “caparazón” como para que invitase a sentar (y a manipular).
+
+      La estructura metálica interior queda semi oculta gracias al trabajo artesanal de Idoia Cuesta, al aplicar técnicas de cestería tradicionales reformuladas. El empleo del algodón trenzado reforzará el mensaje del producto.
+    type: text
+  -
+    image: /img/portfolio/images/570f5349a83b6-cun003-perspectiva-inferior.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f5349a8f63-cun003-perspectiva.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f5349a90c0-cuncha-composicion-1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f5349a91fb-cuncha-composicion-2.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f5349a933a-cuncha-detalle-2.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/570f6447ed295-cun003-detalle.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/570f5349a7dd6-cun003-detalle.jpg
+tags: []
+members_id:
+  - 51
+lang: es
+info: []
+draft: false

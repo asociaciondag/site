@@ -2,7 +2,13 @@
 layout: layouts/base.njk
 ---
 
-<article class="article article-permalink is-blur" data-folk="articles,<?= $article->id ?>">
+<style>
+	.article-permalink .article-header {
+		background-image: url("{{ cover }}");
+	}
+</style>
+
+<article class="article article-permalink is-blur">
 	<header class="article-header wrapper-narrow">
 		<h1>{{ title }}</h1>
 		<p class="article-author">Por {{ author }}</p>

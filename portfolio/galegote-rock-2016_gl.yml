@@ -1,0 +1,65 @@
+id: 172
+title: 'Galegote Rock 2016'
+slug: galegote-rock-2016
+body:
+  -
+    text: |-
+      O Galegote Rock é o festival da música en galego. Celébrase en maio en Pontevedra e xa é todo un referente con 5 edicións ás súas costas.
+
+      Para a imaxe deste ano decidímonos por crear unha ilustración moi rockeira e orgullosa da súa lingua (claro que si!) e acompañámola cun _lettering_ feito a man cun aire sesenteiro con moito _groove._
+    type: text
+  -
+    image: /img/portfolio/images/5745f5ac1d503-galegote16-1.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f5ac1d6af-galegote16-2.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f5ac1d908-galegote16-3.gif
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f5ac1da89-galegote16-4.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f5ac1dbc4-galegote16-5.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f5ed11e08-galegote16-6.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f62fa5a43-galegote16-7.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f6a229ef0-galegote16-8.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f7046ef65-galegote16-9.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f7046f299-galegote16-10.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f7562a434-galegote16-11.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/5745f7562a58d-galegote16-12.png
+    text: ''
+    type: image
+cover: /img/portfolio/covers/5745f5ac1d137-galegote16-1.png
+tags: []
+members_id:
+  - 53
+lang: gl
+info: []
+draft: false

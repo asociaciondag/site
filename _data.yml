@@ -10,12 +10,12 @@ gl:
       accept: Entendido
     menu:
       about: Acerca da DAG
-      news: Novidades
+      news: Novas
       projects: Proxectos
       members: Socios e socias
       forum: Foro
     home:
-      more_news: Ver máis noticias
+      more_news: Ver máis novas
     news:
       news: Novas
       articles: Artigos

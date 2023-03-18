@@ -1,0 +1,22 @@
+id: 238
+title: 'Coworking Pobra'
+slug: coworking-pobra
+body:
+  -
+    image: /img/portfolio/images/coworking-pobra-2016-branding-y-comunicacion-visual.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/coworking-pobra-2016-branding-y-comunicacion-visual.jpg
+tags:
+  - 'Identidade corporativa'
+members_id:
+  - 67
+lang: gl
+info:
+  -
+    name: Proxecto
+    value: 'Coworking Pobra'
+  -
+    name: Ano
+    value: '2016'
+draft: false

@@ -1,0 +1,53 @@
+id: 176
+title: 'Mezzet Dar'
+slug: mezzet-dar
+body:
+  -
+    text: |-
+      O Mezzet Dar é un restaurante situado no corazón de East Molesey, no sudeste da área metropolitana de Londres e a poucos quilómetros do centro da _city_.
+
+      A súa cociña de fusión e petiscos, baseada na tradición española e libanesa, conta con cada vez máis adeptos e mellores críticas.
+
+      Encargáronnos o deseño da súa nova e deliciosa carta. Debía ter un puntiño irreverente, de produción e adaptabilidade accesibles, e sinxela de trasladar fóra do continente.
+
+      Xogamos con tres tipos de papel, ilustracións surrealistas e unha maquetación elegante, estruturada como se dun LP de _rock and roll_ se tratase, coa súa sobremesa/_bonus track_ acochado no final_._
+    type: text
+  -
+    image: /img/portfolio/images/57487dc4c14ae-dar-1.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/57487f31cb7ce-dar-2.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/57487f31cbdb6-dar-3.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/57487f31cbfc6-dar-4.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/57487f31cc146-dar-5.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/57487f31cc2c0-dar-6.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/57487f31cc426-dar-7.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/57487f31cc5a4-dar-8.png
+    text: ''
+    type: image
+cover: /img/portfolio/covers/57487dc4c1116-dar-1.png
+tags: []
+members_id:
+  - 53
+lang: gl
+info: []
+draft: false

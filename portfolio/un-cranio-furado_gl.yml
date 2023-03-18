@@ -1,0 +1,24 @@
+id: 78
+title: 'Un cranio furado'
+slug: un-cranio-furado
+body:
+  -
+    text: 'Creación da imaxe e dos carteis para a peza teatral _Un cranio furado._ Imaxe aplicada aos carteis, á programación e a outros artigos promocionais.'
+    type: text
+  -
+    image: /img/portfolio/images/5564c85a85cbe-cranio-furado1.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/5585983fab85b-5564c85a85cbe-cranio-furado1.jpg
+tags: []
+members_id:
+  - 21
+lang: gl
+info:
+  -
+    name: Cliente
+    value: 'Excéntricas producións teatrais'
+  -
+    name: Ano
+    value: '2010'
+draft: false

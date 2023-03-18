@@ -1,0 +1,30 @@
+id: 272
+title: Artistas
+slug: artistas
+body:
+  -
+    image: /img/portfolio/images/artistas.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/artistas-folleto-1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/artistas-folleto-2.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/artistas.jpg
+tags:
+  - Gráfico
+members_id:
+  - 23
+lang: es
+info:
+  -
+    name: Cliente
+    value: 'Universidad de Vigo'
+  -
+    name: Año
+    value: '2011'
+draft: false

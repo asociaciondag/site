@@ -1,0 +1,41 @@
+id: 202
+title: Sastre
+slug: sastre
+body:
+  -
+    text: 'Deseño dunha familia tipográfica para os alfabetos latino, grego e hebreo. Seleccionada para a exposición internacional de tipografía Pangramme (Francia, 2016) e como finalista na Morisawa Type Design Competition (O Xapón, 2016). Recoñecida co _Best in class_ no Type &amp; Lettering Awards da revista _Print_ (EE.UU., 2015). Esta familia tipográfica é un proxecto en curso, aínda non dispoñible para a súa distribución comercial.'
+    type: text
+  -
+    image: /img/portfolio/images/sastre.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/sastre2.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/sastre3.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/sastre4.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/sastre5.png
+    text: ''
+    type: image
+cover: /img/portfolio/covers/sastre0.png
+tags:
+  - Tipografía
+members_id:
+  - 56
+lang: gl
+info:
+  -
+    name: 'Proxecto académico'
+    value: 'Universidade de Reading'
+  -
+    name: 'Ano:'
+    value: '2015'
+draft: true

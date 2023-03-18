@@ -1,0 +1,23 @@
+id: 240
+title: 'New Loft'
+slug: new-loft
+body:
+  -
+    image: /img/portfolio/images/new-loft-2016-branding-y-comunicacion-visual.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/new-loft-2016-branding-y-comunicacion-visual.jpg
+tags:
+  - 'Identidade corporativa'
+  - Gráfico
+members_id:
+  - 67
+lang: gl
+info:
+  -
+    name: Proxecto
+    value: 'New Loft. Tenda de roupa'
+  -
+    name: Ano
+    value: '2016'
+draft: false

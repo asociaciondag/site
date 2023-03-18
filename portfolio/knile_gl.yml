@@ -1,0 +1,44 @@
+id: 203
+title: Knile
+slug: knile
+body:
+  -
+    text: |-
+      Deseño dunha familia tipográfica mecana. Knile é curmá da Geomanist coa que comparte algunhas características, como a súa aparencia xeométrica ou a altura do seu corpo. Inclúe 8 pesos mais as itálicas. Esta tipografía foi creada en colaboración co estudio asturiano atipo.
+
+      Web: [atipofoundry.com/fonts/knile](http://atipofoundry.com/fonts/knile)
+    type: text
+  -
+    image: /img/portfolio/images/knile1.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/knile2.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/knile3.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/knile4.png
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/knile5.png
+    text: ''
+    type: image
+cover: /img/portfolio/covers/knile1.png
+tags:
+  - Tipografía
+members_id:
+  - 56
+lang: gl
+info:
+  -
+    name: 'Estudio:'
+    value: atipo
+  -
+    name: 'Ano:'
+    value: '2016'
+draft: true
