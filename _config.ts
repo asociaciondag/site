@@ -19,11 +19,10 @@ const site = lume(
 site.copy("fonts")
   .copy("img")
   .copy("files")
-  .copy((path) => path.startsWith("/feet-2010/") && !path.match(/\.(css|njk)$/))
-  .copy((path) => path.startsWith("/feed-2013/") && !path.match(/\.(css|njk)$/))
-  .copy((path) =>
-    path.startsWith("/visita-a-guarda/") && !path.match(/\.(css|njk)$/)
-  )
+  .copyRemainingFiles((path) => {
+    const regexp = /^\/(feet-2010|feed-\d{4}|visita-a-guarda)\//;
+    return regexp.test(path);
+  })
   .use(inline())
   .use(date({
     locales: { gl, es },
