@@ -11,35 +11,29 @@ import postcssCustomMedia from "npm:postcss-custom-media@9.1.2";
 import gl from "npm:date-fns/locale/gl/index.js";
 import es from "npm:date-fns/locale/es/index.js";
 
-const site = lume(
-  {},
-  { search: { returnPageData: true } },
-);
+const site = lume();
 
-site.copy("fonts")
-  .copy("img")
-  .copy("files")
-  .copyRemainingFiles((path) => {
-    const regexp = /^\/(feet-2010|feed-\d{4}|visita-a-guarda)\//;
-    return regexp.test(path);
-  })
-  .use(inline())
+site.add("fonts")
+  .add("img")
+  .add("files")
   .use(date({
     locales: { gl, es },
   }))
+  .use(esbuild())
+  .add("css")
+  .add("js")
   .use(postcss({
     plugins: [
       postcssExtendRule(),
-      postcssCustomMedia(),
+      postcssCustomMedia,
     ],
-    keepDefaultPlugins: true,
   }))
-  .use(esbuild())
+  .use(slugifyUrls())
+  .use(inline())
   .use(multilanguage({
     languages: ["gl", "es"],
     defaultLanguage: "gl",
   }))
-  .use(slugifyUrls())
   .use(relations({
     foreignKeys: {
       member: {

@@ -1,14 +1,12 @@
 id: 933
-title: 'A DAG continúa a medrar!'
+title: "A DAG continúa a medrar!"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-noticia-presentacion-javier-caamano.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Boas,
 
       Son Javier Caamaño, fundador e deseñador gráfico en [Mascolor Comunicación](https://mascolor.eu/) en Boiro, A Coruña.
@@ -23,15 +21,14 @@ body:
 
       Como xa vos dixen, encántame aprender e por iso quixen entrar nesta asociación, que reúne tanta xente diversa desta profesión. Espero poder contribuír co meu gran de area e, sobre todo, adquirir coñecementos de todos vós.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/javier-caamano/'
-    text: 'Perfil de Javier Caamaño na DAG'
+  - list: ""
+    url: "https://dag.gal/gl/javier-caamano/"
+    text: "Perfil de Javier Caamaño na DAG"
     type: button
-intro: 'Boa proba disto é que tan só un par de días despois de recibirmos o novo socio [Alberto Fernández](https://dag.gal/gl/benvindo-alberto/), hoxe dámoslle a benvinda a unha nova incorporación: Javier Caamaño, un deseñador gráfico que tras dar os primeiros pasos no mundo da impresión, decidiu dar un xiro profesional e apostar polo que realmente o apaixona: a comunicación visual e o branding.'
+intro: "Boa proba disto é que tan só un par de días despois de recibirmos o novo socio [Alberto Fernández](https://dag.gal/gl/benvindo-alberto/), hoxe dámoslle a benvinda a unha nova incorporación: Javier Caamaño, un deseñador gráfico que tras dar os primeiros pasos no mundo da impresión, decidiu dar un xiro profesional e apostar polo que realmente o apaixona: a comunicación visual e o branding."
 slug: a-dag-continua-a-medrar
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2019-11-12T17:57:19+00:00

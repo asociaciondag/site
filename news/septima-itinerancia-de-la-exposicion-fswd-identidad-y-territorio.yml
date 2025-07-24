@@ -1,26 +1,23 @@
 id: 1273
-title: 'Séptima itinerancia de la exposición FSWD: Identidad y territorio'
+title: "Séptima itinerancia de la exposición FSWD: Identidad y territorio"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/fswd-madrid.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       FSWD es un proyecto de [READ](https://designread.es/) concebido colaborativamente en los Encuentros Nacionales de Diseño (ENAD) como una herramienta para la proyección del diseño español a nivel nacional e internacional. Dentro del conjunto del proyecto, que incluye una [plataforma _online_](https://fswd.es/) _responsive_, una publicación y un documental interactivo (en proceso), «FSWD: Identidad y territorio» es una exposición viva. Al conjunto de trabajos que ya tiene la muestra, también de socios y socias de DAG, se incorporan propuestas de profesionales y empresas de diseño madrileñas que ofrecerán un actualizado panorama del sector y de las innovaciones de la disciplina en la región.
 
       Los trabajos que se pueden ver en la exposición siguen un hilo conductor a través de cinco ejes temáticos: Identidad y territorio, Intersecciones, Internacionalización, Sostenibilidad y Complicidades. La persona visitante econtrará más de 100 piezas de diseño y un amplio programa de actividades paralelas creado por READ e DIMAD, que incluye charlas y talleres, tanto para el público general como para profesionales y empresas.
 
       La exposición está comisariada y coordinada por nuestra socia Uqui Permui (DAG), Ángel Martínez (ADCV), Gloria Escribano (DIMAD) y Juan Lázaro (Cuenca Diseño). En esta ocasión, la muestra es posible gracias al patrocinio de UDIT y se suma a la programación del [Madrid Design Festival 2024](https://madriddesignfestival.lafabrica.com/).
     type: text
-  -
-    list: ''
-    url: 'https://fswd.es/'
-    text: 'Web FSWD'
+  - list: ""
+    url: "https://fswd.es/"
+    text: "Web FSWD"
     type: button
-intro: '«From Spain With Design», el proyecto expositivo de la Red Española de Asociaciones de Diseño llega a Madrid tras inaugurarse en Santiago de Compostela en 2021 e itinerar por Aveiro, Valencia, Murcia, Badajoz y Asturias. Estará ubicada en la Central del Diseño Matadero desde el 1 de febrero hasta el 17 de marzo.'
+intro: "«From Spain With Design», el proyecto expositivo de la Red Española de Asociaciones de Diseño llega a Madrid tras inaugurarse en Santiago de Compostela en 2021 e itinerar por Aveiro, Valencia, Murcia, Badajoz y Asturias. Estará ubicada en la Central del Diseño Matadero desde el 1 de febrero hasta el 17 de marzo."
 slug: septima-itinerancia-de-la-exposicion-fswd-identidad-y-territorio
 tags: []
 lang: es

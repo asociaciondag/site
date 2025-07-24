@@ -1,14 +1,12 @@
 id: 975
-title: 'Damos la bienvenida a un nuevo socio, Pablo Villaverde'
+title: "Damos la bienvenida a un nuevo socio, Pablo Villaverde"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-pablo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola, soy Pablo Villaverde, diseñador gráfico especializado en identidad visual, desarrollo web e ilustración tanto técnica como artística, con más de 20 años de experiencia.
 
       Empecé en el sector a mediados de los 90, manejando las primeras versiones de Adobe Photoshop o Quark mientras trabajaba en Macrom (A Coruña), unha de las empresas punteras en el campo de las Artes Gráficas.
@@ -17,15 +15,14 @@ body:
 
       En el año 2010 empecé mi carrera profesional como _freelance_, explorando todos los ámbitos del diseño y de la comunicación corporativa, realizando trabajos de diseño de marcas para sectores tan variados como la industria alimentaria, la electrónica, o la arquitectura ecológica; y para clientes y agencias de toda España y algún país de Europa (Alemania, Reino Unido...).
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/pablo-villaverde/'
-    text: 'Perfil de Pablo Villaverde'
+  - list: ""
+    url: "https://dag.gal/gl/pablo-villaverde/"
+    text: "Perfil de Pablo Villaverde"
     type: button
-intro: 'Nuestra actividad no para, así como no para de crecer la lista de profesionales que ya son parte de la DAG. Hoy damos la bienvenida a Pablo Villaverde, un profesional con una extensa experiencia, que ha vivido en primera persoa el cambio de siglo como diseñador, adaptándose a nuevas herramientas y nuevas formas de trabajar; porque cada día es un día de aprendizaje y adaptación para adelantarnos a lo que está por venir y para seguir avanzando.'
+intro: "Nuestra actividad no para, así como no para de crecer la lista de profesionales que ya son parte de la DAG. Hoy damos la bienvenida a Pablo Villaverde, un profesional con una extensa experiencia, que ha vivido en primera persoa el cambio de siglo como diseñador, adaptándose a nuevas herramientas y nuevas formas de trabajar; porque cada día es un día de aprendizaje y adaptación para adelantarnos a lo que está por venir y para seguir avanzando."
 slug: bienvenida-pablo-villaverde
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2020-03-24T11:22:06+00:00

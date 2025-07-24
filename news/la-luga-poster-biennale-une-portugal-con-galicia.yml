@@ -1,14 +1,12 @@
 id: 1301
-title: 'La LUGA Poster Biennale une Portugal con Galicia'
+title: "La LUGA Poster Biennale une Portugal con Galicia"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/luga-posterbiennale-2024.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El fin último del proyecto LUGA es la creación de una Bienal del Cartel Luso-Galaica y establecer un evento internacional dedicado a la promoción y a la celebración del cartel como forma de expresión artística y comunicativa.
 
       La bienal tiene como objetivo reunir a diseñadores, artistas y profesionales del ámbito del diseño gráfico y de la comunicación visual (entre otras áreas), más directamente entre Portugal y Galicia, para compartir sus creaciones, explorar tendencias y estimular el diálogo y la colaboración entre comunidades.
@@ -21,12 +19,11 @@ body:
 
       Animamos a estudiantes y diseñadores y diseñadoras gallegas a presentar sus creaciones y fomentar ese intercambio cultural con el país vecino, para conocer puntos en común y diferencias que podemos encontrar entre las distintas formas de creación visual.
     type: text
-  -
-    list: ''
-    url: 'https://lugaposterbiennale.org/ES/'
-    text: 'Web LUGA Poster Biennale'
+  - list: ""
+    url: "https://lugaposterbiennale.org/ES/"
+    text: "Web LUGA Poster Biennale"
     type: button
-intro: 'La Luga Poster Biennale es un proyecto de la Escola Superior de Media Artes e Design, del Instituto Politécnico de Porto y del Instituto de Investigación en Deseño, Medios e Cultura, que pretende explorar el cartel como elemento fundamental de la investigación. La DAG colabora en la difusión de este evento en Galicia.'
+intro: "La Luga Poster Biennale es un proyecto de la Escola Superior de Media Artes e Design, del Instituto Politécnico de Porto y del Instituto de Investigación en Deseño, Medios e Cultura, que pretende explorar el cartel como elemento fundamental de la investigación. La DAG colabora en la difusión de este evento en Galicia."
 slug: la-luga-poster-biennale-une-portugal-con-galicia
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 753
-title: 'Un taller de Visual Thinking abrirá el FEED 2017'
+title: "Un taller de Visual Thinking abrirá el FEED 2017"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/elena-we.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Elena Urizar empezó a trabajar a principios de 2000 en lo que ahora se conoce como experiencia de usuario, defendiendo la integración de esta disciplina como elemento estratégico en el desarrollo de proyectos y colaborando con los clientes en el establecimiento del diálogo entre su marca y los nuevos canales de comunicación.
 
       Su carrera se puede definir como multidisciplinar. En etapas anteriores trabajó como diseñadora en diversas agencias de publicidad y en el Museo Guggenheim de Nueva York y, también, se dedicó a la gestión de cuentas de comunicación. Durante más de diez años ha sido la responsable de definir y coordinar proyectos online en Indra Sistemas.
@@ -19,15 +17,14 @@ body:
 
       Toda la información sobre la inscripción en:
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/feed2017/'
-    text: 'Feed 2017'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
+    text: "Feed 2017"
     type: button
-intro: 'La encargada de conducir este workshop será Elena Urizar, una profesional con una gran experiencia en UX y facilitación visual.'
+intro: "La encargada de conducir este workshop será Elena Urizar, una profesional con una gran experiencia en UX y facilitación visual."
 slug: un-taller-de-visual-thinking-abrira-el-feed-2017
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2017-10-16T19:55:48+00:00

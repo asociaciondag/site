@@ -4,23 +4,19 @@ contact: |-
 
   <manueldelrio@gmail.com>
 links:
-  -
-    text: cenlitrosmetrocadrado
-    url: 'http://cenlitrosmetrocadrado.com/'
+  - text: cenlitrosmetrocadrado
+    url: "http://cenlitrosmetrocadrado.com/"
     type: link
-  -
-    text: 'Acerca de'
-    url: 'https://about.me/manueldelrioregos'
+  - text: "Acerca de"
+    url: "https://about.me/manueldelrioregos"
     type: link
-  -
-    text: Twitter
-    url: 'https://twitter.com/manuel2R'
+  - text: Twitter
+    url: "https://twitter.com/manuel2R"
     type: twitter
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/manueldelrioregos'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/manueldelrioregos"
     type: linkedin
-name: 'Manuel del Río Regos'
+name: "Manuel del Río Regos"
 slug: manuel-del-rio-regos
 avatarBig: null
 avatar: /img/avatars/554cf8c81eae6-manuel-del-rio-regos.jpg
@@ -32,5 +28,5 @@ tags:
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico e industrial'
-job.es: 'Diseñador gráfico e industrial'
+job.gl: "Deseñador gráfico e industrial"
+job.es: "Diseñador gráfico e industrial"

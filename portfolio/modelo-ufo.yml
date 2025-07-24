@@ -1,18 +1,15 @@
 id: 392
-title: 'Modelo UFO'
+title: "Modelo UFO"
 slug: modelo-ufo
 body:
-  -
-    image: /img/portfolio/images/000-ufodsk.jpg
-    text: ''
+  - image: /img/portfolio/images/000-ufodsk.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/00-ufo-dsk.jpg
-    text: ''
+  - image: /img/portfolio/images/00-ufo-dsk.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/0-ufo-dsk.jpg
-    text: ''
+  - image: /img/portfolio/images/0-ufo-dsk.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/000-ufodsk.jpg
 tags:

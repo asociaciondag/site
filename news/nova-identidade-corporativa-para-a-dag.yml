@@ -1,8 +1,7 @@
 id: 520
-title: 'Nova identidade corporativa para a DAG'
+title: "Nova identidade corporativa para a DAG"
 body:
-  -
-    text: |-
+  - text: |-
       A nova identidade corporativa da DAG busca un cambio discreto, unha evolución respetuosa coa súa imaxe anterior. Se seguimos a tipoloxía definida por Norberto Chaves, a identidade da DAG basease nunha denominación por contracción (construcción artificial mediante iniciais) na que tanto o logotipo como o imagotipo constituese por unha forma tipográfica. Mantendo esa estructura, actuase sobre a tipografía como elemento identitario. As cores corporativas seguen a ser o branco e o negro.
 
       Para esa evolución usase a tipografía Isaac Sans, deseñada por Marcos Dopico na fundición tipográfica galega Mais Types (www.maistypes.com). A Isaac Sans é unha tipografía "lineal grotesca construída", término acuñado por Adrian Frutiger nos anos 80 para definir unha nova tipoloxía a medio camiño entre as lineais grotescas e as lineais xeométricas. Obedecen á idea de unir a eficacia en todo tipo de contextos dunha lineal grotesca (ou neogrotesca) e a forza estética e radical dunha lineal xeométrica da vangarda histórica.
@@ -19,27 +18,23 @@ body:
 
       Para o resto de aplicacións corporativas usaranse as diferentes variantes da tipografía: Light, Book, Regular, Normal, Bold, e as súas correspondentes italicas. A Isaac Sans está dispoñible en formato Opentype - codificación Latin 1 - e WebFont para as aplicacións web.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa73e908-imx-1.png
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa73e908-imx-2.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa73e908-imx-3.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa73e908-imx-4.png
-    text: ''
+    text: ""
     type: image
-intro: 'Pasaron oitos anos desde a súa creación e a DAG renova a súa identidade corporativa'
+intro: "Pasaron oitos anos desde a súa creación e a DAG renova a súa identidade corporativa"
 slug: nova-identidade-corporativa-para-a-dag
 tags: []
 lang: gl

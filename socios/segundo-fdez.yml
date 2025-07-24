@@ -1,27 +1,22 @@
 id: 15
 contact: null
 links:
-  -
-    text: sond3
-    url: 'http://sond3.com'
+  - text: sond3
+    url: "http://sond3.com"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/sond3estudio/'
+  - text: Instagram
+    url: "https://www.instagram.com/sond3estudio/"
     type: link
-  -
-    text: segundofdez
-    url: 'http://www.segundofdez.com/'
+  - text: segundofdez
+    url: "http://www.segundofdez.com/"
     type: link
-  -
-    text: Twitter
-    url: 'https://twitter.com/segundo_fdez'
+  - text: Twitter
+    url: "https://twitter.com/segundo_fdez"
     type: link
-  -
-    text: Github
-    url: 'https://github.com/segundofdez'
+  - text: Github
+    url: "https://github.com/segundofdez"
     type: link
-name: 'Segundo Fdez'
+name: "Segundo Fdez"
 slug: segundo-fdez
 avatarBig: null
 avatar: /img/avatars/554cfa899b042-segundo-fernandez.png
@@ -29,7 +24,7 @@ tags:
   - Sinalética
   - Web
   - Editorial
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
   - Embalaxe
 draft: false
@@ -49,5 +44,5 @@ bio.es: |-
   De forma paralela a los encargos del estudio, trabaljan en proyectos propios con un carácter más experimental, permitiendo investigar, probar y seguir disfrutando del trabajo. Por otro lado Natalia Crecente combina su labor con la docencia en la Escola de Arte e Superior de Deseño Ramón Falcón de Lugo.
 
   El estudio fue premiado en la II bienal de diseño iberoamericano Bid 2010 en la categoría de deseño digital y fue finalista en los Premios Paraugas en la categoría de mejor diseño gráfico gallego (2019).
-job.gl: 'Deseñador gráfico e web en Sond3'
-job.es: 'Diseñador gráfico y web en Sond3'
+job.gl: "Deseñador gráfico e web en Sond3"
+job.es: "Diseñador gráfico y web en Sond3"

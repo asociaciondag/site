@@ -1,14 +1,12 @@
 id: 913
-title: 'Chega unha nova edición do FEED'
+title: "Chega unha nova edición do FEED"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/artboard.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Como xa vén sendo habitual, no programa conviven as distintas vertentes da disciplina: deseño gráfico, deseño de produto, deseño dixital, deseño de estratexia ou deseño de servizos, as cales serán abordadas ao longo de dous días moi intensos: **venres 4 e sábado 5 de outubro**, con xornadas divididas en sesións de mañá, dedicada cada unha delas a un obradoiro, e sesións de tarde, con varias conferencias programadas para cada día.
 
       Os obradoiros terán lugar ambos en [DIDAC](http://www.didac.gal/didac/gl). O primeiro deles, **Pasando revista**, a cargo de [Artur Galocha](https://www.behance.net/arturgalocha), desenvolverase o venres 4 de outubro entre as **09.30 e as 13.30 h**. Catro horas en que os participantes terán que conceptualizar e dar forma a unha revista. O sábado día 5 de outubro, no mesmo horario, será a vez do deseñador UX [Danny Saltaren](https://mendesaltaren.com/) e do seu obradoiro dixital enfocado na xestión de equipos e na mellora de procesos.
@@ -19,15 +17,14 @@ body:
 
       Información e inscricións na web do foro:
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/feed2019/'
-    text: 'FEED 2019'
+  - list: ""
+    url: "https://dag.gal/gl/feed2019/"
+    text: "FEED 2019"
     type: button
-intro: 'O FEED, o foro de deseño de carácter bianual que organiza a DAG, Asociación Galega de Deseño, co patrocinio de AGADIC chega á súa quinta edición sen perder o espírito co que naceu: servir de punto de encontro para compartir as experiencias de profesionais do deseño, tanto galegos como de ámbito nacional.'
+intro: "O FEED, o foro de deseño de carácter bianual que organiza a DAG, Asociación Galega de Deseño, co patrocinio de AGADIC chega á súa quinta edición sen perder o espírito co que naceu: servir de punto de encontro para compartir as experiencias de profesionais do deseño, tanto galegos como de ámbito nacional."
 slug: chega-unha-nova-edicion-do-feed
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2019-09-10T18:55:06+00:00

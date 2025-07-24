@@ -1,14 +1,12 @@
 id: 751
-title: 'Una nueva edición del FEED'
+title: "Una nueva edición del FEED"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/slider-feed-17-read.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En esta cuarta edición, el FEED tendrá lugar el 3 y el 4 de noviembre en Santiago de Compostela y reunirá a un grupo heterogéneo de profesionales, con facetas muy distintas, para ofrecer a lo largo de dos días una panorámica lo más diversa posible del trabajo del diseñador: diferentes ámbitos de especialización del diseño, diferentes metodologías de trabajo, de organización, de relación...
 
       Al igual que en años anteriores, el programa de este año combina 3 tipos de actividades:
@@ -16,18 +14,17 @@ body:
       - 2 talleres para grupos grupos reducidos: uno de visual thinking que impartirá [Elena Urizar](https://www.linkedin.com/in/elena-urizar-eu/) y otro sobre tipografía digital con software GlyphsApp, a cargo de la diseñadora de tipos [Joana Correia](http://joanacorreiatype.com/). Ambos se desenvolverán en horario de mañana en la sala [Dídac](http://www.didac.gal/didac/).
       - 7 conferencias que se celebrarán durante las tardes en el auditorio del Centro Galego de Arte Contemporánea ([CGAC](http://cgac.xunta.gal/GL)). Los conferenciantes del primer día serán Lois Guillán ([cucuducho](http://cucuducho.com/cms/gl/)), João Martino y Miguel Almeida ([Non-Verbal Club](http://nonverbalclub.pt/)) y [Elena Urizar](https://www.linkedin.com/in/elena-urizar-eu/). El segundo día nos acompañarán [Coca Rivas](https://www.linkedin.com/in/cocarivas/), Francesco Furno y Pablo Galeano ([relajaelcoco](http://www.relajaelcoco.com/)), [Joana Correia](http://joanacorreiatype.com/) e [Bea Lema](http://bealema.com/).
       - 1 mesa de debate con alumnos de las escuelas de diseño gallegas que tendrá lugar el viernes 3 de noviembre a las 18.45 h.
-       
+
       Os invitamos a todos y a todas a visitar la web y a participar en el FEED!
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/feed2017/'
-    text: 'FEED 2017'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
+    text: "FEED 2017"
     type: button
-intro: 'Como cada dos años desde aquella primera edición de 2010, tenemos aquí el FEED 2017, el Foro de Edición y Diseño que organiza la Asociación Gallega de Diseño DAG, con el patrocinio de Agadic.'
+intro: "Como cada dos años desde aquella primera edición de 2010, tenemos aquí el FEED 2017, el Foro de Edición y Diseño que organiza la Asociación Gallega de Diseño DAG, con el patrocinio de Agadic."
 slug: una-nueva-edicion-del-feed
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2017-10-09T12:24:19+00:00

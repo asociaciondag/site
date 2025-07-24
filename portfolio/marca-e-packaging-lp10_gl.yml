@@ -1,14 +1,13 @@
 id: 414
-title: 'Marca e packaging LP10'
+title: "Marca e packaging LP10"
 slug: marca-e-packaging-lp10
 body:
-  -
-    image: /img/portfolio/images/marca-y-packaging-lp10.jpg
-    text: ''
+  - image: /img/portfolio/images/marca-y-packaging-lp10.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/marca-y-packaging-lp10.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Embalaxe
 members_id:
   - 93

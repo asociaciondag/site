@@ -1,14 +1,12 @@
 id: 1237
-title: 'La DAG celebra su Asamblea General en el Museo do Pobo Galego'
+title: "La DAG celebra su Asamblea General en el Museo do Pobo Galego"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-noticia-asemblea-2023.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El Museo do Pobo Galego acogió por segundo año consecutivo a las personas asistentes a la Asamblea General. En el orden del día quedaron aprobadas las cuentas del año 2022, se presentó la previsión de ingresos y gastos para el período 2023-2024, se habló del trabajo interno de la Junta Directiva y de la gestión diaria de la asociación, con la inclusión de herramientas que aportan agilidad y nuevos canales de más directos para las asociadas. Se presentó también un cronograma resumen de la actividad desarrollada desde junio de 2022 y la programación que se activará a partir de junio de este año.
 
       Entre los hitos a destacar en este período están la co-organización del [X ENAD](https://designread.es/10enad/) en Pontevedra, con un programa de actividades paralelas que duró hasta el 25 de noviembre, la activación del [proyecto AR\\DE](https://arde.gal/) que presentó imagen y web en enero de este año, la participación en varias mesas de trabajo sectoriales organizadas por la Xunta de Galicia para la redacción de varios Anteproyectos de Ley relacionados con la cultura inclusiva y digital de Galicia, la creación de un Manual de Bienvenida para nuevas asociadas, la grabación del progama A Porta Aberta para la TVG en el que participaron Uqui Permui, Xóse García, María Ramos y Óscar Otero, la participación como jurado en varios certámenes y premios de diseño como los Premios Innovación e Deseño de la Xunta de Galicia, los Premios Paraugas o los Anuaria, y la organización del [2º Encontro de Deseño Galego](https://dag.gal/2-encontro/) en Casa Museo Rosalía de Castro el pasado 27 de mayo.
@@ -19,16 +17,15 @@ body:
 
       Con la entrega de los carnés a las nuevas asociadas se dio por concluida la Asamblea y se puso rumbo ya a la organización de las nuevas actividades y a la participación continuada de proyectos y reuniones con entidades colaboradoras: el 7º FEED, el 3º Encontro de Deseño Galego, el Nodo Galego del SNIC, AR\\DE, la Asamblea READ, el XI ENAD...
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/foto-asemblea-2023.jpg
-    text: 'Parte del grupo que quedó hasta el final de la comida organizada en la Pulpería Concheiros'
+    text: "Parte del grupo que quedó hasta el final de la comida organizada en la Pulpería Concheiros"
     mode: normal
     type: image
-intro: 'El sábado 17 de junio la DAG celebró su Asamblea General donde se dio cuenta de todo el trabajo realizado en este último año y cerró un ciclo importante con la entrega de la presidencia de la Red Española de Asociaciones de Diseño READ a Cuenca Diseño.'
+intro: "El sábado 17 de junio la DAG celebró su Asamblea General donde se dio cuenta de todo el trabajo realizado en este último año y cerró un ciclo importante con la entrega de la presidencia de la Red Española de Asociaciones de Diseño READ a Cuenca Diseño."
 slug: la-dag-celebra-su-asamblea-general-en-el-museo-do-pobo-galego
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2023-06-22T20:25:26+00:00

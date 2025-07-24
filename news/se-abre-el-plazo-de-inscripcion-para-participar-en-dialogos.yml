@@ -1,8 +1,7 @@
 id: 23
-title: 'Se abre el plazo de inscripción para participar en DIÁLOGOS'
+title: "Se abre el plazo de inscripción para participar en DIÁLOGOS"
 body:
-  -
-    text: |-
+  - text: |-
       **1 julio - 31 agosto:** Sala de exposiciones; Pazo da Cultura de Pontevedra
 
       **Estás a tiempo de participar en la exposición de marcas/ logotipos/ identidade gráfica:** selecciona uno, máximo dos, trabajos y envíanoslo a: info@asociaciondag.org
@@ -15,15 +14,14 @@ body:
 
       Los logotipos y aplicaciones para la exposición serán seleccionados por la directiva de DAG en una junta extraordinaria, que tendrá lugar entre el día 8 y 11 de junio.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a95bdc07-pbarro3-p.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'La DAG, Asociación Gallega de Diseñadores, selecciona trabajos de diseñadores para su exposición de marcas, logotipos e identidades Diálogos.'
+intro: "La DAG, Asociación Gallega de Diseñadores, selecciona trabajos de diseñadores para su exposición de marcas, logotipos e identidades Diálogos."
 slug: se-abre-el-plazo-de-inscripcion-para-participar-en-dialogos
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2009-05-11T14:23:22+00:00

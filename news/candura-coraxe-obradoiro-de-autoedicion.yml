@@ -1,17 +1,14 @@
 id: 354
-title: 'Candura & Coraxe. Obradoiro de autoedición'
+title: "Candura & Coraxe. Obradoiro de autoedición"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Con motivo da exposición [Do it yourself! Os incunables contemporáneos dun impresor particular](http://www.cidadedacultura.org/cultural/seccion.aspx?Id=330), a Cidade da Cultura pon en marcha do 7 ao 12 de maio Candura &amp; Coraxe, un taller gráfico e de autoedición impartido polo artista Federico Guzmán. Con Seoane, Castelao e Chankecham como referentes, Federico Guzmán adoptará neste obradoiro un enfoque sobre o debuxo como pegada e rastro da vida. O primeiro día presentaralles aos participantes unha serie de casos artísticos, feitos poéticos e proxectos colaborativos sobre autoedición, e o segundo día será a quenda dos alumnos, aos que invitará a que incorporen, dalgún xeito, situacións, acontecementos e procesos do seu contexto local ou persoal co fin de crear unha obra gráfica colectiva inventada e plasmada entre todos. A inscrición é gratuíta e o único que tes que facer para participar é enviar os teus datos persoais (nome, apelidos, enderezo electrónico e mais teléfono de contacto) ao mail online@cidadedacultura.org, e tres palabras que sinteticen as razóns que te levan a querer tomar parte no obradoiro. Máis información en: [Candura &amp; Coraxe](http://www.cidadedacultura.org/cultural/seccion.aspx?Id=348)
 
       Descarga o programa:
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa10eab5-candura-coraxe.png
-  -
-    type: file
+  - type: file
     text: Descargar
     file: /files/553e7aa10eab5-candura-coraxe.pdf
 intro: null

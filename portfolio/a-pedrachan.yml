@@ -1,46 +1,37 @@
 id: 54
-title: 'A Pedrachán'
+title: "A Pedrachán"
 slug: a-pedrachan
 body:
-  -
-    text: |-
+  - text: |-
       Enmarcado nun proxecto interdisciplinar de reintegración do patrimonio cultural da ribeira do río Traba, na vila de Noia, cuxo obxectivo é dignificar un espazo social vinculado aos diversos aproveitamentos do río, desenvolvemos a sinalización direccional, microtoponímica e de interpretación do espazo.
 
       No sistema gráfico quixemos reflectir a diversidade de aproveitamentos do río desde unha perspectiva humana. Un conxunto de pictogramas identifican os diferentes gremios mediante posicións corporais, indumentaria, apeiros…
 
       No que respecta á solución material, os materiais empregados axudan a fixar carga semántica. As tonalidades da pasta cerámica na que se gravan os pictogramas fai referencia ás cores da area que vai sedimentando o río, ademais a porosidade do material permite a súa colonización por pátinas vexetais. Á súa vez a chapa de zinc remite á aplicación tradicional deste material en caldeiraría e canos de recollida de augas.
     type: text
-  -
-    image: /img/portfolio/images/55571b5b4a80a-apedrachan_01.jpg
-    text: ''
+  - image: /img/portfolio/images/55571b5b4a80a-apedrachan_01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571b5b4a80a-apedrachan_02.jpg
-    text: ''
+  - image: /img/portfolio/images/55571b5b4a80a-apedrachan_02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571b5b4a80a-apedrachan_03.jpg
-    text: ''
+  - image: /img/portfolio/images/55571b5b4a80a-apedrachan_03.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571b5b4a80a-apedrachan_04.jpg
-    text: ''
+  - image: /img/portfolio/images/55571b5b4a80a-apedrachan_04.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571b5b4a80a-apedrachan_05.jpg
-    text: ''
+  - image: /img/portfolio/images/55571b5b4a80a-apedrachan_05.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571b5b4a80a-apedrachan_06.jpg
-    text: ''
+  - image: /img/portfolio/images/55571b5b4a80a-apedrachan_06.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571b5b4a80a-apedrachan_07.jpg
-    text: ''
+  - image: /img/portfolio/images/55571b5b4a80a-apedrachan_07.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571b5b4a80a-apedrachan_08.jpg
-    text: ''
+  - image: /img/portfolio/images/55571b5b4a80a-apedrachan_08.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558568a807c9c-55571b5b4a80a-apedrachan-07.jpg
 tags:
@@ -53,19 +44,14 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Cenlitrosmetrocadrado
-  -
-    name: Cliente
-    value: 'Concello de Noia'
-  -
-    name: Ano
-    value: '2010'
-  -
-    name: 'Estudio antropolóxico'
-    value: 'Ana Filgueiras'
-  -
-    name: Cerámica
-    value: 'Puri Fernández'
+  - name: Cliente
+    value: "Concello de Noia"
+  - name: Ano
+    value: "2010"
+  - name: "Estudio antropolóxico"
+    value: "Ana Filgueiras"
+  - name: Cerámica
+    value: "Puri Fernández"
 draft: true

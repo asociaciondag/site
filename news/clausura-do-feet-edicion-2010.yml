@@ -1,19 +1,17 @@
 id: 186
-title: 'Clausura do feet edición 2010'
+title: "Clausura do feet edición 2010"
 body:
-  -
-    text: 'Clausúrase a primeira parte do feet 2010 dedicada á edición. Aquí podedes ver unha pequena mostra de todo o que deu de si: [flickr do feet 2010](http://www.flickr.com/groups/1553357@N20/), pero lembrade que a partir do xoves 16 de decembro volvemos á Casa das Campás co [feet tipográfico](http://feet.asociaciondag.org/programa/).'
+  - text: "Clausúrase a primeira parte do feet 2010 dedicada á edición. Aquí podedes ver unha pequena mostra de todo o que deu de si: [flickr do feet 2010](http://www.flickr.com/groups/1553357@N20/), pero lembrade que a partir do xoves 16 de decembro volvemos á Casa das Campás co [feet tipográfico](http://feet.asociaciondag.org/programa/)."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9b55589-remata-o-feet-2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'Clausúrase a primeira parte do feet 2010 dedicada á edición. Aquí podedes ver unha pequena mostra de todo o que deu de si: [flickr do feet 2010](http://www.flickr.com/groups/1553357@N20/), pero lembrade que a partir do xoves 16 de decembro volvemos á Casa das Campás co [feet tipográfico](http://feet.asociaciondag.org/programa/).'
+intro: "Clausúrase a primeira parte do feet 2010 dedicada á edición. Aquí podedes ver unha pequena mostra de todo o que deu de si: [flickr do feet 2010](http://www.flickr.com/groups/1553357@N20/), pero lembrade que a partir do xoves 16 de decembro volvemos á Casa das Campás co [feet tipográfico](http://feet.asociaciondag.org/programa/)."
 slug: clausura-do-feet-edicion-2010
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2010-12-05T12:11:48+00:00

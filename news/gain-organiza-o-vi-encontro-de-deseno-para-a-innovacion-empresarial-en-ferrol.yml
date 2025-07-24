@@ -1,26 +1,23 @@
 id: 1238
-title: 'Gain organiza o VI Encontro de Deseño para a Innovación Empresarial en Ferrol'
+title: "Gain organiza o VI Encontro de Deseño para a Innovación Empresarial en Ferrol"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/foto-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Nesta edición, o foco céntrase en como o deseño é clave para a consecución de impacto económico, social e medioambiental, tratando cuestións fundamentais como o deseño do propósito, os sistemas de medición, a innovación empresarial, o impacto social no relativo ás persoas e ás solucións inclusivas ou o desenvolvemento sostible como valor estratéxico.
 
       O programa divídese en tres partes: a primeira sobre Deseño e impacto económico no que falarán Patricia Gabeiras de Gabeiras &amp; Asociados e os compañeiros de [Desoños](https://estudio.desonhos.gal/), Noelia Estévez e Carlos Álvarez; a segunda sobre Deseño e impacto social no que intervirán Marcos Saavedra de DesignThinking.gal e Noelia López de Envita; e a última sobre Deseño e impacto para o desenvolvemento sostible onde estarán Javier García e Juan Lago de Sinerxia, e Rosana Agrelo de The Painter´s Wife.
 
       O peche do Encontro está previsto para as 12.45 h cun aperitivo _networking_. Ademais, David Barro, asesor do programa Deseño para a Innovación e a Sustentabilidade Diferenza 2024 e director da Fundación DIDAC, falará das liñas xerais que seguirá como comisario do país invitado na Porto Design Biennale.
     type: text
-  -
-    list: ''
-    url: 'https://www.cistecnoloxiaedeseno.gal/evento/vi-encontro-de-deseno-para-a-innovacion-empresarial-en-galicia/'
-    text: 'Programa e inscricións'
+  - list: ""
+    url: "https://www.cistecnoloxiaedeseno.gal/evento/vi-encontro-de-deseno-para-a-innovacion-empresarial-en-galicia/"
+    text: "Programa e inscricións"
     type: button
-intro: 'O vindeiro 29 de xuño a Axencia Galega de Innovación organiza no CIS Ferrol o VI Encontro de Deseño para a Innovación Empresarial baixo o título «O Deseño como feramenta de impacto» e contará con empresas e estudios de deseño protagonistas do tecido empresarial actual.'
+intro: "O vindeiro 29 de xuño a Axencia Galega de Innovación organiza no CIS Ferrol o VI Encontro de Deseño para a Innovación Empresarial baixo o título «O Deseño como feramenta de impacto» e contará con empresas e estudios de deseño protagonistas do tecido empresarial actual."
 slug: gain-organiza-o-vi-encontro-de-deseno-para-a-innovacion-empresarial-en-ferrol
 tags: []
 lang: gl

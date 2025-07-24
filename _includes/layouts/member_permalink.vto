@@ -1,0 +1,54 @@
+---
+layout: layouts/base.vto
+---
+
+<div class="wrapper">
+  <nav class="buttons-tabs">
+    {{ set p = search.page("id=members lang=" + lang) }}
+    <a class="button is-selected" href="{{ p.url }}">{{ t.members.members }}</a>
+
+    {{ set p = search.page("id=portfolio lang=" + lang) }}
+    <a class="button" href="{{ p.url }}">{{ t.members.projects }}</a>
+  </nav>
+</div>
+
+<article class="wrapper-narrow member member-permalink">
+  <figure class="member-avatar">
+    <img src="{{ avatarBig || avatar }}" width="128" height="128" alt="">
+  </figure>
+
+  <header class="member-header">
+    <h1>{{ name }}</h1>
+    <p>{{ job }}</p>
+  </header>
+
+  <address class="member-address">
+    {{ contact |> md }}
+
+    {{ if links }}
+      <ul>
+        {{ for link of links }}
+          <li>
+            <a class="button-secondary member-link" href="{{ link.url }}">{{
+              link.text
+            }}</a>
+          </li>
+        {{ /for }}
+      </ul>
+    {{ /if }}
+  </address>
+
+  {{ if bio }}
+    <div class="member-bio">
+      {{ bio |> md }}
+    </div>
+  {{ /if }}
+</article>
+
+{{ if portfolios?.length }}
+  <div class="portfolios-grid wrapper">
+    {{ for portfolio of portfolios }}
+      {{ include "templates/portfolio-list.vto" { portfolio } }}
+    {{ /for }}
+  </div>
+{{ /if }}

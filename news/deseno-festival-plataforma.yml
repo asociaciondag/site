@@ -1,34 +1,30 @@
 id: 1004
-title: 'O deseño estará presente na 1ª edición do Festival Plataforma'
+title: "O deseño estará presente na 1ª edición do Festival Plataforma"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/plataforma.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O festival inicia a súa programación o xoves 10 de setembro no Museo das Peregrinacións, coa presentación do futuro pavillón-plataforma ideado polos nosos socios de [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com). Esta construción é froito da colaboración da organización e o estudio como parte do propio festival. Os compañeiros de cenlitros explicarán a súa conceptualización e posibles usos de cara á súa contrucción para a próxima edición do festival. A xornada inaugural continúa cunha charla sobre tipografía da nosa compañeira María Ramos, na que falará das posibilidades da tipografía contemporánea e do caso concreto do seu proxecto [Movement](http://www.nmtype.com/movement/). A primeira xornada remata coa conversa entre as persoas relatoras e a concelleira de Acción Cultural Mercedes Rosón, que estará moderada por David Barro e dará paso a unha serie de accións performativas do artista Juan López, en colaboración coa Banda Municipal de Música de Santiago de Compostela.
 
       O Festival estende a súa programación ata o venres 18. Una semana chea de actividades que convidan a reflexionar sobre o espazo público. Os fíos conectores entre distintas disciplinas artísticas —visuais e sonoras— vertebran este novo festival, que conta coa colaboración de distintas institucións para converteren a cidade na auténtica protagonista da súa programación.
 
       As actividades do festival son gratuítas, aínda que, seguindo as recomendacións sanitarias e a legalidade vixentes, teñen limitacións de público. É necesario o rexistro previo para asistir.
     type: text
-  -
-    list: ''
-    url: 'https://www.eventbrite.es/e/entradas-plataforma-voces-deseno-performativo-con-cenlitros-e-maria-ramos-119396743875'
-    text: 'Reserva de prazas'
+  - list: ""
+    url: "https://www.eventbrite.es/e/entradas-plataforma-voces-deseno-performativo-con-cenlitros-e-maria-ramos-119396743875"
+    text: "Reserva de prazas"
     type: button
-  -
-    list: ''
-    url: 'https://plataforma.gal/'
-    text: 'Web Festival Plataforma'
+  - list: ""
+    url: "https://plataforma.gal/"
+    text: "Web Festival Plataforma"
     type: button
-intro: 'Santiago de Compostela será o escenario dun festival de artes performativas que bota a andar esta semana: Plataforma. O seu programa inclúe accións, conversas, exposicións e concertos en distintos espazos da cidade.'
+intro: "Santiago de Compostela será o escenario dun festival de artes performativas que bota a andar esta semana: Plataforma. O seu programa inclúe accións, conversas, exposicións e concertos en distintos espazos da cidade."
 slug: deseno-festival-plataforma
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2020-09-07T13:09:25+00:00

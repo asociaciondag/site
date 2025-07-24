@@ -1,14 +1,12 @@
 id: 657
-title: 'Obradoiro de iniciación á caligrafía en Unitaria'
+title: "Obradoiro de iniciación á caligrafía en Unitaria"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/56fe56ca3f713-unitaria-caligrafia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       **Impartido por:** Iván Caíña
 
       **Nivel:** Iniciación
@@ -27,12 +25,11 @@ body:
 
       **INSCRICIÓN:** chamando ao 609 830 553 ou enviando un e-mail cos vosos datos e os do obradoiro en que queredes participar a queroaprender@escolaunitaria.com
     type: text
-  -
-    list: ''
-    url: 'http://escolaunitaria.com/2016/02/04/caligrafia/'
-    text: 'Infórmate en Unitaria'
+  - list: ""
+    url: "http://escolaunitaria.com/2016/02/04/caligrafia/"
+    text: "Infórmate en Unitaria"
     type: button
-intro: 'Os asistentes poderán iniciarse na técnica da caligrafía con pincel. Comezarán practicando desde cero os trazos básicos da caligrafía Itálica para acabar o obradoiro compondo os seus propios textos con soltura.'
+intro: "Os asistentes poderán iniciarse na técnica da caligrafía con pincel. Comezarán practicando desde cero os trazos básicos da caligrafía Itálica para acabar o obradoiro compondo os seus propios textos con soltura."
 slug: obradoiro-de-iniciacion-a-caligrafia-en-unitaria
 tags: []
 lang: gl

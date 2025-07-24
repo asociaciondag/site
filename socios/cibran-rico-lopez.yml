@@ -1,30 +1,26 @@
 id: 26
 contact: null
 links:
-  -
-    text: Desescribir
-    url: 'http://www.desescribir.com/'
+  - text: Desescribir
+    url: "http://www.desescribir.com/"
     type: link
-  -
-    text: Behance
-    url: 'https://www.behance.net/desescribir'
+  - text: Behance
+    url: "https://www.behance.net/desescribir"
     type: link
-  -
-    text: Twitter
-    url: 'https://twitter.com/desescribir'
+  - text: Twitter
+    url: "https://twitter.com/desescribir"
     type: twitter
-  -
-    text: Fabulatorio
-    url: 'http://fabulatorio.org/'
+  - text: Fabulatorio
+    url: "http://fabulatorio.org/"
     type: link
-name: 'Cibrán Rico López'
+name: "Cibrán Rico López"
 slug: cibran-rico-lopez
 avatarBig: /img/avatars/desescribir.jpg
 avatar: /img/avatars/cibran.jpg
 tags:
   - Editorial
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Espazos
   - Embalaxe
   - Sinalética
@@ -55,5 +51,5 @@ bio.es: |-
   En 2012 fundamos Fabulatorio, una editorial independiente centrada en proyectos sobre arte, diseño y cultura visual. El segundo título publicado por Fabulatorio fue incluído en la lista de los mejores libros de fotografía del mundo del año 2014 que publica el ICP (International Center of Photography) de Nueva York.
 
   Entre los anos 2014 y 2017 formamos parte de la Junta Directiva de la DAG y actuamos como presidente de la asociación (Suso Vázquez) y vocal (Cibrán Rico).
-job.gl: 'Deseñador gráfico en Desescribir'
-job.es: 'Diseñador gráfico en Desescribir'
+job.gl: "Deseñador gráfico en Desescribir"
+job.es: "Diseñador gráfico en Desescribir"

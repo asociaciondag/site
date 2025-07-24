@@ -1,14 +1,12 @@
 id: 1385
-title: 'DAG participó en la asamblea anual de READ en Canarias'
+title: "DAG participó en la asamblea anual de READ en Canarias"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/read-asamblea-2025.jpg
-    text: 'Imagen del evento / ©READ'
+    text: "Imagen del evento / ©READ"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los pasados​ 21 y 22 de marzo tuvo lugar en la ciudad de las Palmas de Gran Canaria la Asamblea Ordinaria de READ con la participación de las personas delegadas de cada una de las asociaciones. La jornada del viernes se desarrolló en las instalaciones del Gabinete Literario con la celebración de la Asamblea Ordinaria.
 
       La orden del día comenzó con la presentación de la memoria de actividades, en la que se compartió información sobre eventos como el ENAD de Cuenca, la participación en la Paris Design Week con ‘Diálogos sur le design’ o las itinerancias de From Spain With Design, entre otras iniciativas. Continuó con el informe de comunicación y la aprobación de cuentas del 2024 para dar paso después al nombramiento de DIEX (Extremadura) como asociación que ejercerá la presidencia durante los dos próximos años en la persona de Silvia González.
@@ -19,14 +17,12 @@ body:
 
       Myriam Cea de DIMAD (Madrid) será la nueva responsable de comunicación, Lander Balza, de EIDE (Euskadi y Navarra) coordinará los grupos de trabajo, figura que hasta ahora ejercía Uqui Permui y Kike Correcher continuará como representante en BEDA.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/asamblea-read-gc-21-22-03-2025-43.jpg
-    text: 'Representantes de las asociaciones / ©READ'
+    text: "Representantes de las asociaciones / ©READ"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A lo largo de la Asamblea se debatieron cuestiones relativas al funcionamiento de la red, se compartieron experiencias desde las asociaciones y se propusieron mejoras para los flujos de trabajo y roles. Después de la votación, que se aprobó por unanimidad, se procedió a la presentación de los presupuestos para el 2025 y las líneas de trabajo, así como el próximo ENAD que se celebrará en Badajoz en el mes de octubre.
 
       Juan Lázaro tuvo unas palabras para agradecer el trabajo a las personas que conformaron su directiva, entre ellas Uqui Permui, que dejaba los puestos de representación después de mucho tiempo de participación activa en READ y de ejercer la presidencia en los años 2021-2022.
@@ -37,10 +33,10 @@ body:
 
       Agradecemos a [DICA](https://di-ca.es/) su agradable acogida, fue un placer acercarnos a la cultura y el diseño canario; y a los compañeros y compañeras de [READ](https://designread.es/), la celebración de esta Asamblea para seguir trabajando por el bien común desde nuestras singularidades.
     type: text
-intro: 'En esta ocasión fue DICA (Asociación de Profesionales y Empresas de Diseño de Canarias) la anfitriona que recibió a la​s personas que representan a cada una de las asociaciones de READ para su Asamblea anual en la que se procedió al nombramiento de la asociación que ejercerá la presidencia para los próximos dos años y su equipo. ​'
+intro: "En esta ocasión fue DICA (Asociación de Profesionales y Empresas de Diseño de Canarias) la anfitriona que recibió a la​s personas que representan a cada una de las asociaciones de READ para su Asamblea anual en la que se procedió al nombramiento de la asociación que ejercerá la presidencia para los próximos dos años y su equipo. ​"
 slug: asamblea-read-2025
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2025-03-28T14:24:00+00:00

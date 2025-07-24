@@ -1,74 +1,60 @@
 id: 28
-title: 'O deseño na historia da prensa galega (I)'
-author: 'Ana Boquete'
+title: "O deseño na historia da prensa galega (I)"
+author: "Ana Boquete"
 body:
-  -
-    text: 'No ano 1800 aparece o primeiro xornal galego, _El Catón Compostelano_. Impreso por Heredera de Frayz en oitava, foi un xornal de deseño austero composto a unha soa columna con tipos con serifa, sen ningún tipo de alarde ornamental na súa cabeceira. Tiña un tamaño reducido, menor ao dun A4 e só dezaseis páxinas, publicábase cada semana en Compostela en castelán e aínda que se descoñece quen foi o fundador, Manuel Murguía atribuiu a dirección a Francisco del Valle Inclán.'
+  - text: "No ano 1800 aparece o primeiro xornal galego, _El Catón Compostelano_. Impreso por Heredera de Frayz en oitava, foi un xornal de deseño austero composto a unha soa columna con tipos con serifa, sen ningún tipo de alarde ornamental na súa cabeceira. Tiña un tamaño reducido, menor ao dun A4 e só dezaseis páxinas, publicábase cada semana en Compostela en castelán e aínda que se descoñece quen foi o fundador, Manuel Murguía atribuiu a dirección a Francisco del Valle Inclán."
     type: text
-  -
-    image: /img/articles/images/fig-1-el-caton-compostelano.jpg
-    text: 'Figura 1. _El Catón Compostelano_ comeza a publicarse o 1 de maio de 1800 en Santiago de Compostela. Debido á invasión francesa non se publicarán novos xornais ata oito anos máis tarde.'
+  - image: /img/articles/images/fig-1-el-caton-compostelano.jpg
+    text: "Figura 1. _El Catón Compostelano_ comeza a publicarse o 1 de maio de 1800 en Santiago de Compostela. Debido á invasión francesa non se publicarán novos xornais ata oito anos máis tarde."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Van máis de 220 anos dende que apareceu a prensa en Galiza e, a día de hoxe, podemos saber que saíron do prelo milleiros de xornais e revistas, grazas aos estudos de Enrique Santos Gayoso ou os monográficos sobre a Historia da Imprenta de Antonio Odriozola e Xosé Ramón Barreiro.
 
       Maila que a produción impresa en Galiza foi un tema tratado dende a óptica da historia, aínda estamos por construír e sobre todo por documentar as pezas e o papel do deseño na historia da prensa galega.
     type: text
-  -
-    image: /img/articles/images/fig-2-xornais-decada-1810.jpg
-    text: 'Figura 2. _Diario de La Coruña_ (1808), _Diario de Santiago_ (1808), _Telégrafo Político y Literario de La Coruña_ (1808).'
+  - image: /img/articles/images/fig-2-xornais-decada-1810.jpg
+    text: "Figura 2. _Diario de La Coruña_ (1808), _Diario de Santiago_ (1808), _Telégrafo Político y Literario de La Coruña_ (1808)."
     mode: normal
     type: image
-  -
-    text: 'Dando un paso máis alá de inventariar ou cuantificar os xornais e revistas publicados, dende a perspectiva do deseño podemos observar a necesidade de recopilar e analizar as súas capas e as súas cabeceiras para achegarnos a temas como a evolución nas composicións e tipografías utilizadas, os anuncios e a historia da nosa publicidade e outros aspectos tan fundamentais como poñer nome ás impresoras que formaban parte dos talleres tipográficos, deixando atrás os apelativos de «viúva de» para poñer nome e apelidos ás que podemos considerar as primeiras deseñadoras editoriais galegas.'
+  - text: "Dando un paso máis alá de inventariar ou cuantificar os xornais e revistas publicados, dende a perspectiva do deseño podemos observar a necesidade de recopilar e analizar as súas capas e as súas cabeceiras para achegarnos a temas como a evolución nas composicións e tipografías utilizadas, os anuncios e a historia da nosa publicidade e outros aspectos tan fundamentais como poñer nome ás impresoras que formaban parte dos talleres tipográficos, deixando atrás os apelativos de «viúva de» para poñer nome e apelidos ás que podemos considerar as primeiras deseñadoras editoriais galegas."
     type: text
-  -
-    image: /img/articles/images/fig-3-exacto-correo-de-espan-a-en-la-coruna.jpg
-    text: 'Figura 3. _Exacto_ _Correo de España en La Coruña_. Aparece o 22 de decembro de 1810, a partir deste momento comezamos a ver deseños máis coidados nas cabeceiras dos xornais.'
+  - image: /img/articles/images/fig-3-exacto-correo-de-espan-a-en-la-coruna.jpg
+    text: "Figura 3. _Exacto_ _Correo de España en La Coruña_. Aparece o 22 de decembro de 1810, a partir deste momento comezamos a ver deseños máis coidados nas cabeceiras dos xornais."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A prensa é, ademais, un obxecto de estudo no que podemos atopar reflexo da historia galega e como foi transmitida, como se foron trasladando os acontecementos á poboación, en que lingua, que tipo de revistas e publicacións literarias ou humorísticas se demandaban, desfrutar de ilustracións, retratos ou caricaturas ou ler moitos dos primeiros textos das grandes escritoras da literatura galega; tamén podemos converternos en testemuña do calado ou a importancia de personaxes como Rosalía de Castro e todas as homenaxes que xurdiron a raíz da súa morte.
 
       Con este artigo iniciamos unha serie de publicacións nas que poderemos ver as portadas dos principais xornais e revistas de cada época e como foi evolucionando o papel do deseño nelas.
     type: text
-  -
-    image: /img/articles/images/fig-4-semanario-instructivo-prospecto-n1.jpg
-    text: 'Figura 4. _Semanario Instructivo_, primeira revista ilustrada publicada en Galiza. Prospecto e número 1.'
+  - image: /img/articles/images/fig-4-semanario-instructivo-prospecto-n1.jpg
+    text: "Figura 4. _Semanario Instructivo_, primeira revista ilustrada publicada en Galiza. Prospecto e número 1."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/fig-5-ilustracion-seminario-instructivo.jpg
-    text: 'Figura 5. Litografía de Ramón Gil Rey incluída no número 1 de _Semanario Instructivo_.'
+  - image: /img/articles/images/fig-5-ilustracion-seminario-instructivo.jpg
+    text: "Figura 5. Litografía de Ramón Gil Rey incluída no número 1 de _Semanario Instructivo_."
     mode: right
     type: image
-  -
-    text: 'Comezaremos vendo a austeridade que caracterizou aos xornais galegos nas catro primeiras décadas da prensa, dende a publicación de _El Catón Compostelano_, no ano 1800, á aparición da primeira revista ilustrada en Galiza en 1838, _Semanario Instructivo_, que xa contaba con litografías e ilustracións policromadas.'
+  - text: "Comezaremos vendo a austeridade que caracterizou aos xornais galegos nas catro primeiras décadas da prensa, dende a publicación de _El Catón Compostelano_, no ano 1800, á aparición da primeira revista ilustrada en Galiza en 1838, _Semanario Instructivo_, que xa contaba con litografías e ilustracións policromadas."
     type: text
-  -
-    text: 'O seguinte bloque trasladaranos ata a metade do século XIX e veremos nas publicacións o reflexo das novas tendencias políticas centradas en recuperar os dereitos e liberdades que nalgún momento se tiveran. Veremos xornais e revistas vencelladas ao posicionamento ideolóxico rexionalista, preocupadas pola situación socioeconómica de Galiza e polas raíces literarias e históricas. A presenza de litografías ou ilustracións comezará a ser máis común e tamén a fotografía, pois será no ano 1843 cando Enrique Luard abrirá a primeira tenda de fotografía na rúa San Andrés da cidade da Coruña.'
+  - text: "O seguinte bloque trasladaranos ata a metade do século XIX e veremos nas publicacións o reflexo das novas tendencias políticas centradas en recuperar os dereitos e liberdades que nalgún momento se tiveran. Veremos xornais e revistas vencelladas ao posicionamento ideolóxico rexionalista, preocupadas pola situación socioeconómica de Galiza e polas raíces literarias e históricas. A presenza de litografías ou ilustracións comezará a ser máis común e tamén a fotografía, pois será no ano 1843 cando Enrique Luard abrirá a primeira tenda de fotografía na rúa San Andrés da cidade da Coruña."
     type: text
-  -
-    image: /img/articles/images/fig-6-o-vello-do-pico-sagro-n1.jpg
-    text: 'Figura 6. _O Vello do Pico-Sagro_ (1860) primeira revista escrita enteiramente en galego.'
+  - image: /img/articles/images/fig-6-o-vello-do-pico-sagro-n1.jpg
+    text: "Figura 6. _O Vello do Pico-Sagro_ (1860) primeira revista escrita enteiramente en galego."
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       Será tamén durante esta época, no ano 1860, cando se publique a primeira revista escrita enteiramente en galego, _O Vello do Pico-Sagro_. Dende este momento aflorarán as revistas e xornais escritos en galego, aínda que nunca chegarán a ser a maioría. Neste terceiro bloque veremos moitas revistas ilustradas, as composicións tamén se verán influenciadas polas correntes artísticas e vangardistas que comezarán a coexistir nas seguintes décadas.
 
       Poderedes seguir toda esta serie de publicacións dende a web e as redes sociais da DAG.
     type: text
-  -
-    text: |-
+  - text: |-
       **Referencias bibliográficas**
 
       - Gayoso, E. S. (1990). _Historia de la prensa gallega, 1800-1986_. Sada, España: Ediciós do Castro.
       - Odriozola, A., &amp; Fernández, J. R. B. (1992). _Historia de la imprenta en Galicia_. Santiago de Compostela, España: Biblioteca Gallega.
-       
+
       © Imaxes contidas no artigo: [Galiciana-Biblioteca Dixital de Galicia](http://www.galiciana.bibliotecadegalicia.xunta.es/gl/inicio/inicio.do).
     type: text
 position: null

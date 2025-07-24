@@ -1,19 +1,17 @@
 id: 119
-title: 'VDW Valencia Disseny Week 2010'
+title: "VDW Valencia Disseny Week 2010"
 body:
-  -
-    text: |-
+  - text: |-
       Unha iniciativa da Asociación de Deseñadores da Comunidade Valenciana (ADCV) que pretende situar a Valencia na axenda internacional dos eventos similares (Milán, Londres, Barcelona, Tokio, entre outros) do sector do deseño, agrupando durante unha semana todas as iniciativas relacionadas co deseño na cidade de Valencia.
 
       - info en [www.valenciadissenyweek.com](http://www.valenciadissenyweek.com)
-       
+
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9935d88-vdw.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'O próximo 27 de setembro darase o pistoletazo de saída para a segunda edición da Valencia Disseny Week (VDW).'
+intro: "O próximo 27 de setembro darase o pistoletazo de saída para a segunda edición da Valencia Disseny Week (VDW)."
 slug: vdw-valencia-disseny-week-2010
 tags: []
 lang: gl

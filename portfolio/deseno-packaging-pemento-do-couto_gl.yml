@@ -1,10 +1,9 @@
 id: 407
-title: 'Deseño packaging Pemento do Couto'
+title: "Deseño packaging Pemento do Couto"
 slug: deseno-packaging-pemento-do-couto
 body:
-  -
-    image: /img/portfolio/images/diseno-packaging-pemento-do-couto.jpg
-    text: ''
+  - image: /img/portfolio/images/diseno-packaging-pemento-do-couto.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/diseno-packaging-pemento-do-couto.jpg
 tags:

@@ -1,10 +1,9 @@
 id: 393
-title: 'Yoyó L'
+title: "Yoyó L"
 slug: yoyo-l
 body:
-  -
-    image: /img/portfolio/images/yoyo.jpg
-    text: ''
+  - image: /img/portfolio/images/yoyo.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/yoyo.jpg
 tags:

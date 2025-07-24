@@ -1,14 +1,12 @@
 id: 1379
-title: 'Charla de Sofía F. de Ana en la EASD Pablo Picasso'
+title: "Charla de Sofía F. de Ana en la EASD Pablo Picasso"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/web-sofifinal.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Nuestra asociada [Sofía Fernández de Ana](https://dag.gal/gl/sofia-f-de-ana/) (@sofia4design) impartirá la charla «Comunicar visualmente» con la que ofrecerá su experiencia al alumnado en el campo del diseño gráfico, desarrollando proyectos de identidad corporativa, packaging, publicaciones e imagen de eventos.
 
       Licenciada en en Bellas Artes y con un máster en diseño y comunicación por el Pratt Institute, School of Art &amp; Design de Nueva York, cuenta con una larga trayectoria en el sector desarrollada en distintos lugares del mundo. Desde sus comienzos haciendo práticas en el estudio de Milton Glaser hasta su actual puesto como creativa senior en Hifas da Terra (Pontevedra), pasó por Apple Design Source Inc y Russell Design Associates en Nova York y Frank Schröder London en Londres.
@@ -17,15 +15,14 @@ body:
 
       Además de su intervención, comenzará a las 12.00 h, la Escola programa para ese día una exposición de versos que reivindican a las mujeres seleccionados del cancionero tradicional gallego.
     type: text
-  -
-    list: ''
-    url: 'https://eapicasso.com/conmemoracion-8m-2025/'
-    text: 'Más info sobre las jornadas'
+  - list: ""
+    url: "https://eapicasso.com/conmemoracion-8m-2025/"
+    text: "Más info sobre las jornadas"
     type: button
-intro: 'La diseñadora visitará la Escuela de Arte Superior y Diseño de A Coruña el martes 11 de marzo, en el marco de las actividades programadas por el centro para conmemorar el 8M.'
+intro: "La diseñadora visitará la Escuela de Arte Superior y Diseño de A Coruña el martes 11 de marzo, en el marco de las actividades programadas por el centro para conmemorar el 8M."
 slug: charla-de-sofia-f-de-ana-en-la-easd-pablo-picasso
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2025-03-10T22:39:21+00:00

@@ -1,15 +1,13 @@
 id: 228
-title: 'O libro do IV Premio Enor na final dos Premios Visual'
+title: "O libro do IV Premio Enor na final dos Premios Visual"
 body:
-  -
-    text: 'Entre os finalistas nesta VIII edición, cómpre destacar o traballo de Cibrán Rico e Jesús Vázquez ([Desescribir](http://www.desescribir.com/)), seleccionado na categoría de libro institucional promocional/de empresa e que finalmente foi recoñecido cun diploma polo xurado.'
+  - text: "Entre os finalistas nesta VIII edición, cómpre destacar o traballo de Cibrán Rico e Jesús Vázquez ([Desescribir](http://www.desescribir.com/)), seleccionado na categoría de libro institucional promocional/de empresa e que finalmente foi recoñecido cun diploma polo xurado."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9cf1f6b-libro-do-iv-premio-enor.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'O pasado martes, 5 de abril, tivo lugar a gala de entrega dos Premios Visual de Deseño de Libros que convoca anualmente a revista [Visual](http://visual.gi/) e cos que pretende destacar os deseños das mellores publicacións editadas en español, galego, catalán, éuscaro e portugués.'
+intro: "O pasado martes, 5 de abril, tivo lugar a gala de entrega dos Premios Visual de Deseño de Libros que convoca anualmente a revista [Visual](http://visual.gi/) e cos que pretende destacar os deseños das mellores publicacións editadas en español, galego, catalán, éuscaro e portugués."
 slug: o-libro-do-iv-premio-enor-na-final-dos-premios-visual
 tags: []
 lang: gl

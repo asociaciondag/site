@@ -1,8 +1,7 @@
 id: 24
-title: 'Ábrese o prazo de inscrición para participar en DIÁLOGOS'
+title: "Ábrese o prazo de inscrición para participar en DIÁLOGOS"
 body:
-  -
-    text: |-
+  - text: |-
       **1 xullo - 31 agosto**: Sala de exposicións; Pazo da Cultura de Pontevedra.
 
       **Estás a tempo de participar na exposición de marcas/ logotipos / identidade gráfica:** selecciona un, máximo dous, traballos e envíanolos a: info@asociaciondag.org
@@ -17,15 +16,14 @@ body:
 
       Baixo o título de ACCIÓN-DAG, reuniránse os traballos realizados pola DAG neste ano: A exposición "En torno da Baskerville", proxección do resultado do taller de tipografía "o ollo na rúa" e unha exposición sobre as mellores e máis recentes marcas galegas, ademais dun seminario, festa, etc.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a95c601d-pbarro3-p.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'A DAG, Asociación Galega de Deseñadores, selecciona traballos de deseñadores para a súa exposición de marcas, logotipos e identidades Diálogos.'
+intro: "A DAG, Asociación Galega de Deseñadores, selecciona traballos de deseñadores para a súa exposición de marcas, logotipos e identidades Diálogos."
 slug: abrese-o-prazo-de-inscricion-para-participar-en-dialogos
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2009-05-11T14:23:22+00:00

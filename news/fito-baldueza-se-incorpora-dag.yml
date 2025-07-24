@@ -1,14 +1,12 @@
 id: 1095
-title: 'Fito Baldueza se incorpora a la DAG y seguimos creciendo'
+title: "Fito Baldueza se incorpora a la DAG y seguimos creciendo"
 body:
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/imaxe-perfil.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola,
 
       Me presento, soy Fito, de Lugo cien por cien aunque me crié en Valladolid, dónde empecé a formarme como diseñador y tipógrafo. Después de trabajar para publicaciones, agencias y estudios en Madrid y A Coruña, me establecí como _freelance_ con base en A Coruña.
@@ -21,15 +19,14 @@ body:
 
       Ahora, sin más, saludos y a vuestra disposición.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/es/fito-baldueza/'
-    text: 'Perfil de Fito Baldueza'
+  - list: ""
+    url: "https://dag.gal/es/fito-baldueza/"
+    text: "Perfil de Fito Baldueza"
     type: button
-intro: 'Empezamos la semana presentando a Fito Baldueza, una de las últimas incorporaciones a la Asociación Galega de Deseño. En este otoño con tanta actividad seguimos sumando buenos profesionales del diseño como Fito, especializado en creación de marca y tipografía, que hace tiempo regresó a Galicia para trabajar desde aquí. ¡Bienvenido!'
+intro: "Empezamos la semana presentando a Fito Baldueza, una de las últimas incorporaciones a la Asociación Galega de Deseño. En este otoño con tanta actividad seguimos sumando buenos profesionales del diseño como Fito, especializado en creación de marca y tipografía, que hace tiempo regresó a Galicia para trabajar desde aquí. ¡Bienvenido!"
 slug: fito-baldueza-se-incorpora-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2021-10-26T11:27:54+00:00

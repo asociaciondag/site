@@ -1,14 +1,12 @@
 id: 1203
-title: 'Asociadas DAG en el jurado de los Premios Canarias de Diseño'
+title: "Asociadas DAG en el jurado de los Premios Canarias de Diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-xurado-dica-2023.jpg
-    text: 'Alberto Carballido, Ana Besada y Samuel Baltar'
+    text: "Alberto Carballido, Ana Besada y Samuel Baltar"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los [Premios Canarias de Deseño](https://www.premiosdica.com/) son el reconocimiento público de todo el valor que profesionales y empresas de diseño, empresas que confían en su trabajo y estudiantes de las diferentes disciplinas del diseño aportan a la sociedad, en la que, como factor estratégico de competitividad, contribuyen apostando por la innovación y generando riqueza. A través de estos premios, DI-CA pretende además explicar al conjunto de la sociedad la importancia del diseño y dotarlo de mayor visibilidad.
 
       La inscripción de proyectos se abrió el 27 de diciembre de 2022 y se cerró el pasado 3 de febrero de 2023. En la presente edición conviven tres tipos de premios con sus correspondientes jurados, además del Premio Trayectoria seleccionado directamente por la Junta Directiva actual de DI-CA: Premio Canarias de Diseño Oro, Premio Diseñadores/as, Premio Estudiantes.
@@ -17,10 +15,10 @@ body:
 
       La DAG colabora como jurado con asociaciones y entidades promotoras de premios que valoran el sector del diseño, y también en convocatorias de jurados profesionales para llamadas a proyecto como buena práctica en la contratación de servicios de diseño.
     type: text
-intro: 'La asociación DI-CA, compañera de READ, rescata los Premios Canarias de Diseño para trabajos producidos, impresos, publicados, emitidos, visionados online y editados desde lo 16 de abril de 2019 hasta el 23 de diciembre de 2022, y entre las personas miembros del jurado encontramos a Alberto Carballido, Samuel Baltar y Ana Besada, socios y socia de DAG.'
+intro: "La asociación DI-CA, compañera de READ, rescata los Premios Canarias de Diseño para trabajos producidos, impresos, publicados, emitidos, visionados online y editados desde lo 16 de abril de 2019 hasta el 23 de diciembre de 2022, y entre las personas miembros del jurado encontramos a Alberto Carballido, Samuel Baltar y Ana Besada, socios y socia de DAG."
 slug: asociadas-dag-en-el-jurado-de-los-premios-canarias-de-diseno
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2023-02-08T12:00:00+00:00

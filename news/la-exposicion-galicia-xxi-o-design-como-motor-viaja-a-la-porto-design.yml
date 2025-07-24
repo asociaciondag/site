@@ -1,14 +1,12 @@
 id: 922
-title: 'La exposición Galicia XXI. O design como motor viaja a la Porto Design '
+title: "La exposición Galicia XXI. O design como motor viaja a la Porto Design "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-noticia-expo-gain-porto.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Se trata de la exposición “Galicia XXI. O design como motor”, que será inaugurada el próximo 16 de octubre en el espacio [WOW-Work on Wood by Finsa](https://www.wowbyfinsa.com/es), en Porto.
 
       La muestra, que permanecerá abierta hasta el 24 de noviembre, tiene como principal objetivo posicionar y difundir el potencial creativo del diseño galego en la [Porto Design Biennale](https://portodesignbiennale.pt/pt). Este evento, que celebra su primeira edición como gran cita del diseño europeo de este año, está organizado por esad—idea y promovida por las Cámaras Municipais de Porto y de Matosinhos.
@@ -21,16 +19,15 @@ body:
 
       Confirmación de asistencia mediante correo electrónico a programadeseno.gain@xunta.gal ou chamando ao +34 881 999 120.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/imaxe-porto-design-bienalle-2019.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'El diseño gallego contará con un espacio propio en la [Porto Design Biennale](https://portodesignbiennale.pt/) a iniciativa de la Consellería de Economía, Emprego e Industria, a través del Programa de Deseño para a Innovación 2020 de la Axencia Galega de Innovación (GAIN) y con la colaboración del Grupo Finsa.'
+intro: "El diseño gallego contará con un espacio propio en la [Porto Design Biennale](https://portodesignbiennale.pt/) a iniciativa de la Consellería de Economía, Emprego e Industria, a través del Programa de Deseño para a Innovación 2020 de la Axencia Galega de Innovación (GAIN) y con la colaboración del Grupo Finsa."
 slug: la-exposicion-galicia-xxi-o-design-como-motor-viaja-a-la-porto-design
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-10-10T21:29:40+00:00

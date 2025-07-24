@@ -1,10 +1,9 @@
 id: 337
-title: 'Pinto & Chinto'
+title: "Pinto & Chinto"
 slug: pinto-chinto
 body:
-  -
-    image: /img/portfolio/images/pinto-chinto.jpg
-    text: ''
+  - image: /img/portfolio/images/pinto-chinto.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/pinto-chinto.jpg
 tags:

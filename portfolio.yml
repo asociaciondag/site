@@ -1,4 +1,4 @@
-layout: layouts/portfolio_list.njk
+layout: layouts/portfolio_list.vto
 main_menu: members
 lang: [gl, es]
 url.gl: /gl/portfolio/

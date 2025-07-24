@@ -2,37 +2,30 @@ id: 74
 title: Kosmogonías
 slug: kosmogonias
 body:
-  -
-    text: |-
+  - text: |-
       En palabras de Berrogüetto ‘Kosmogonías é unha reflexión entre a humanidade e o universo, unha chamada chea de optimismo cara á consecución dun sistema de organización máis xusto’. É esta idea o fío común de todo o disco, unha visión poliédrica que non fai outra cousa que reforzar a unicidade do discurso kosmogónico.
 
       No desenvolvemento gráfico asimilamos a mensaxe kosmogónica e aplicámola -deconstruída- nos diversos materiais que compoñen o disco. Así, creamos constelacións e símbolos que compoñen unha iconografía inventada, radiacións de fondo cósmicas que identifican á música cos seus creadores ou nebulosas ficticias que ilustran esta mensaxe común do disco.
 
       O logotipo tamén foi obxecto dun exercicio de estilización que simplificou os seus trazos, a construción tipográfica de ‘Berrogüetto’ e ‘kosmogonías’ busca analoxías formais con este renovado logotipo.
     type: text
-  -
-    image: /img/portfolio/images/55571d674205d-berroguetto_01.jpg
-    text: ''
+  - image: /img/portfolio/images/55571d674205d-berroguetto_01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571d674205d-berroguetto_02.jpg
-    text: ''
+  - image: /img/portfolio/images/55571d674205d-berroguetto_02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571d674205d-berroguetto_03.jpg
-    text: ''
+  - image: /img/portfolio/images/55571d674205d-berroguetto_03.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571d674205d-berroguetto_04.jpg
-    text: ''
+  - image: /img/portfolio/images/55571d674205d-berroguetto_04.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571d674205d-berroguetto_05.jpg
-    text: ''
+  - image: /img/portfolio/images/55571d674205d-berroguetto_05.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55571d674205d-berroguetto_06.jpg
-    text: ''
+  - image: /img/portfolio/images/55571d674205d-berroguetto_06.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558597034c9d1-55571d674205d-berroguetto-02.jpg
 tags: []
@@ -44,13 +37,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Cenlitrosmetrocadrado
-  -
-    name: Cliente
+  - name: Cliente
     value: Berrogüetto
-  -
-    name: Ano
-    value: '2010'
+  - name: Ano
+    value: "2010"
 draft: true

@@ -1,19 +1,17 @@
 id: 652
-title: 'Pepe Barro hablará sobre la identidad gráfica de Zeltia en la EASD Antonio Faílde'
+title: "Pepe Barro hablará sobre la identidad gráfica de Zeltia en la EASD Antonio Faílde"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/56e4fdd7d8178-zeltia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'No dejéis pasar la oportunidad!'
+  - text: "No dejéis pasar la oportunidad!"
     type: text
-intro: 'Una empresa con un nombre, Zeltia, y un símbolo de identidad gráfica, el trisquel, que nos remiten al pasado mítico de Galicia. La explicación, profusamente ilustrada por Pepe Barro, es casi una novela de intriga en la que se mezcla historia, cultura, política, ciencia y la vida de los dos hermanos protagonistas: el autor del nombre y logotipo y el autor del símbolo.'
+intro: "Una empresa con un nombre, Zeltia, y un símbolo de identidad gráfica, el trisquel, que nos remiten al pasado mítico de Galicia. La explicación, profusamente ilustrada por Pepe Barro, es casi una novela de intriga en la que se mezcla historia, cultura, política, ciencia y la vida de los dos hermanos protagonistas: el autor del nombre y logotipo y el autor del símbolo."
 slug: pepe-barro-hablara-sobre-la-identidad-grafica-de-zeltia-en-la-easd-antonio-failde
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2016-03-14T13:26:27+00:00

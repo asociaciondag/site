@@ -1,14 +1,12 @@
 id: 1213
-title: 'Asamblea READ en Mérida con nueva Junta Directiva'
+title: "Asamblea READ en Mérida con nueva Junta Directiva"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imagen-asamblea.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Representantes de las trece asociaciones READ se dieron cita en Mérida para participar en la Asamblea anual y afrontar una nueva etapa donde asume la presidencia Juan Lázaro en representación de Cuenta Diseño y la vicepresidencia primera Silvia González de DIEX. El resto de la Junta Directiva está formada por Uqui Permui de DAG como vicepresidenta segunda y coordinadora de grupos de trabajo, Benicio Aguerrea de EIDE como secretario, Sergio Sánchez de DiCA como tesorero, y en las vocalías Félix Rodríguez de Dime, Diego Isaac Rozada de AGA, Ángela Rodríguez de AAD, Juana Valcárcel de DIP, Luisa Valliser de Dimad, Cristina Cavaller de La Exprimidora que ejercerá además de coordinadora de comunicación, Alfonso Pérez de DIS y Vicente Gallega de ADCV.
 
       En la asamblea quedaron aprobadas las actas de la asamblea anterior, las cuentas y la memoria económica de 2022 así como la previsión de ingresos para el 2023. Uqui Permui habló de las actividades desarrolladas, destacando el hito de la aprobación del _Código Deontológico del Diseño_ y el cambio de directivas en diferentes asociaciones de la red. También fue importante la colaboración realizada con Acción Cultural Española para la Feria del Libro de Fráncfort, para la que se hizo una llamada a proyecto y tuvo muy buena acogida en la administración, la celebración del 10ENAD en Pontevedra con la inclusión de nuevas mesas de trabajo a abordar dentro de la actividad anual, la participación en los Premios Nacionales de Artesanía y los de Diseño así como en el Congreso Mundial de Políticas Públicas de Valencia, la itinerancia de la exposición FSWD o el rediseño de la web de READ. Muchas acciones que se complementan con la presencia en BEDA, relaciones más cercanas con el gobierno nacional para el avance del Pacto por el Diseño y La Multilateral, y nuevos proyectos en colaboración con diferentes ministerios y entidades de ámbito nacional.
@@ -17,22 +15,20 @@ body:
 
       El plan de acción que presentó Juan Lázaro como nuevo presidente para los próximos dos años, parte de una máxima: trabajo colaborativo en red, propositivo y de calidad, con respecto a la profesión y profesionalizando a la entidad. READ y Cuenca Diseño ponen ya el punto de mira en la organización del 11ENAD que se celebrará en Cuenca el 27 y 28 de octubre de 2023 y para el que crearon un grupo de trabajo abierto con presencia de diferentes personas expertas.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/imagen02-asamblea.jpg
-    text: 'Juan Lázaro y Uqui Permui'
+    text: "Juan Lázaro y Uqui Permui"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Desde DAG queremos agradecer enormemente el papel desempeñado por Uqui Permui estos dos años de presidencia de READ como representante de DAG. Una tarea intensa, con dedicación casi exclusiva, y que tan bien ha desarrollado. Y trasladamos mucha energía al compañero Juan Lázaro y a Cuenca Diseño en esta etapa que asumen.
 
       [DIEX](https://www.diex.es/#), la asociación anfitriona, con motivo de su 20 aniversario, preparó un programa completo de actividades dentro del marco del [DIEX _Design Festival_](https://www.diex.es/festival/), que comenzó el jueves 2 de marzo y finalizó el sábado 4. El jueves se desarrolló «[Encendidos](https://www.encendidos.diex.es/)», un evento abierto al público con cuatro presentaciones de proyectos de diseño de diferentes disciplinas. El viernes por la mañana se realizó un taller dirigido a estudiantes de la EASD de Mérida sobre diseño gráfico y diseño de interiores. Por la tarde tuvo lugar la Asamblea propiamente dicha y una visita a la tienda de cerámica Terracota. El sábado por la mañana se presentaron proyectos de la región e iniciativas innovadoras muy interesantes, como «[La Fábrica de toda la vida](https://lfdtv.org/)», Loupe o [Laura Manuela](https://lauramanuela.es/). Además, Uqui Permui y Juan Lázaro hablaron de READ y el modelo de gestión asociativo que sigue la red a nivel nacional, Ismael Barros de Soluble Estudio, habló de la importancia de cuidar la salud mental en esta profesión tan exigente, y los compañeros del grupo de trabajo de comunicación de DIEX presentaron la gráfica del festival, muy ligada a las tradiciones populares de distintas zonas de la comunidad. El festival se cerró con una comida extremeña y con una visita guiada al teatro y anfiteatro de Mérida.
     type: text
-intro: 'El pasado 3 de marzo se celebró en Mérida la Asamblea de READ, en el marco del DIEX _Design Festival_, donde se ratificó la entrada de DIME en la red y quedó aprobada la nueva Junta Directiva para los próximos dos años, con Juan Lázaro de Cuenca Diseño como presidente.'
+intro: "El pasado 3 de marzo se celebró en Mérida la Asamblea de READ, en el marco del DIEX _Design Festival_, donde se ratificó la entrada de DIME en la red y quedó aprobada la nueva Junta Directiva para los próximos dos años, con Juan Lázaro de Cuenca Diseño como presidente."
 slug: asamblea-read-en-merida-con-nueva-junta-directiva
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2023-03-07T11:51:51+00:00

@@ -4,24 +4,22 @@ contact: |-
 
   <dg.alberto.rodriguez@gmail.com>
 links:
-  -
-    text: Web
-    url: 'http://www.arrp.es'
+  - text: Web
+    url: "http://www.arrp.es"
     type: link
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/albertorrp'
+  - text: Facebook
+    url: "https://www.facebook.com/albertorrp"
     type: facebook
-name: 'Alberto Rodriguez Pérez'
+name: "Alberto Rodriguez Pérez"
 slug: alberto-rodriguez-perez
 avatarBig: null
 avatar: /img/avatars/alberto-rodriguez-perez-perfil.jpg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Editorial
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

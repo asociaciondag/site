@@ -1,14 +1,12 @@
 id: 1302
-title: 'Ismael Velo, nova conexión Amsterdam-Galicia vía DAG'
+title: "Ismael Velo, nova conexión Amsterdam-Galicia vía DAG"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imagen-ismaelvelo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola familia!
 
       Son Ismael, deseñador industrial de Ourense afincado en Amsterdam dende hai 10 anos. Antes diso estiven en Barcelona maiormente, aínda que tamén en Noruega brevemente.
@@ -17,10 +15,10 @@ body:
 
       Unha aperta e espero coñecervos a todos pronto.
     type: text
-intro: 'Ismael leva moitos anos vivindo fóra de Galicia mais a relación coa terra existe e busca estar máis conectado con profesionais do deseño de aquí formando parte do colectivo DAG. Esta é a súa presentación. Benvido!!!'
+intro: "Ismael leva moitos anos vivindo fóra de Galicia mais a relación coa terra existe e busca estar máis conectado con profesionais do deseño de aquí formando parte do colectivo DAG. Esta é a súa presentación. Benvido!!!"
 slug: ismael-velo-nova-conexion-amsterdam-galicia-via-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2024-05-20T11:46:34+00:00

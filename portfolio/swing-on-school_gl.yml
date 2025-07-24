@@ -1,62 +1,49 @@
 id: 178
-title: 'Swing on School'
+title: "Swing on School"
 slug: swing-on-school
 body:
-  -
-    text: |-
+  - text: |-
       Swing on School é unha escola de bailes _swing_ con sede en Vigo, aínda que tamén imparten clases por toda Galicia (Cangas, Bueu, Santiago, Vilagarcía…).
 
       Os seus fundadores viñan ofrecendo talleres desde hai varios anos, converténdose así en catalizadores dunha escena que xa se está a consolidar por todo o país.
 
       Deseñamos a súa imaxe e material promocional apoiándonos nun _lettering_ personalizado con reminiscencias á febre do _swing_ dos anos 30.
     type: text
-  -
-    image: /img/portfolio/images/574883212c8e1-swingon-1.png
-    text: ''
+  - image: /img/portfolio/images/574883212c8e1-swingon-1.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5748845202b8a-swingon-2.png
-    text: ''
+  - image: /img/portfolio/images/5748845202b8a-swingon-2.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5748845203095-swingon-3.png
-    text: ''
+  - image: /img/portfolio/images/5748845203095-swingon-3.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5748845203608-swingon-4.png
-    text: ''
+  - image: /img/portfolio/images/5748845203608-swingon-4.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/57488452036db-swingon-5.png
-    text: ''
+  - image: /img/portfolio/images/57488452036db-swingon-5.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5748845203789-swingon-6.png
-    text: ''
+  - image: /img/portfolio/images/5748845203789-swingon-6.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5748845203842-swingon-7.png
-    text: ''
+  - image: /img/portfolio/images/5748845203842-swingon-7.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5748845203914-swingon-8.png
-    text: ''
+  - image: /img/portfolio/images/5748845203914-swingon-8.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/57488452039cc-swingon-9.png
-    text: ''
+  - image: /img/portfolio/images/57488452039cc-swingon-9.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5748845203a81-swingon-10.png
-    text: ''
+  - image: /img/portfolio/images/5748845203a81-swingon-10.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5748845203b2f-swingon-11.png
-    text: ''
+  - image: /img/portfolio/images/5748845203b2f-swingon-11.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5748845203bde-swingon-12.png
-    text: ''
+  - image: /img/portfolio/images/5748845203bde-swingon-12.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/574883212c7c7-swingon-1.png
 tags: []

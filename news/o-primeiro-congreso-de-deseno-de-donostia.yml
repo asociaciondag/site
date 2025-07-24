@@ -1,29 +1,26 @@
 id: 683
-title: 'O primeiro Congreso de Deseño de Donostia'
+title: "O primeiro Congreso de Deseño de Donostia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/578689302204a-congreso-donosti-1.gif
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O programa inclúe numerosos relatorios e comunicacións de expertos profesionais do Deseño Gráfico, profesores e investigadores. Joan Costa, Emilio Gil, Enric Jardí, Daniel Raposo, Manuel Estrada, Leire Fernández e Eduardo Herrera encóntranse entre os relatores.
 
       Polo que respecta ás sesións de comunicacións, temos que destacar as contribucións de dous dos nosos socios que presentan comunicacións a tarde do 19 de xullo: [Marcos Dopico](https://dag.gal/gl/marcos-dopico-castro/) lerá A Influencia da tipografía do proxecto moderno na identidade corporativa contemporánea. Do símbolo ao programa tipográfico, e [Uqui Permui](https://dag.gal/gl/uqui-permui/), A marca dun territorio feminista.
 
       Alén destas actividades, están programados tamén un _workshop,_ impartido por Leire Fernández e Eduardo Herrera, e a exposición Marcas da casa, onde se poderán ver traballos de deseño de marcas gráficas realizados por estudios profesionais de Donostia como contributo específico do Congreso ao fomento da creatividade e innovación dentro do programa cultural Donostia/San Sebastián 2016 Capital Europea da Cultura.
     type: text
-  -
-    list: ''
-    url: 'http://congresodedisenografico.es/index.html'
-    text: '1º Congreso de Deseño de Donostia'
+  - list: ""
+    url: "http://congresodedisenografico.es/index.html"
+    text: "1º Congreso de Deseño de Donostia"
     type: button
-intro: 'Terá lugar entre o 18 e o 20 de xullo, a comezos da semana que vén, dentro do marco do Programa dos Cursos de Verán da UPV/EHU – UPV/EHUko Uda Ikastaroak, e esta primeira edición estará dedicada ás marcas gráficas de identidade corporativa.'
+intro: "Terá lugar entre o 18 e o 20 de xullo, a comezos da semana que vén, dentro do marco do Programa dos Cursos de Verán da UPV/EHU – UPV/EHUko Uda Ikastaroak, e esta primeira edición estará dedicada ás marcas gráficas de identidade corporativa."
 slug: o-primeiro-congreso-de-deseno-de-donostia
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2016-07-13T20:14:40+00:00

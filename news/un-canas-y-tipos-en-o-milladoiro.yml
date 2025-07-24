@@ -1,14 +1,12 @@
 id: 1401
-title: 'Un Cañas y Tipos en O Milladoiro'
+title: "Un Cañas y Tipos en O Milladoiro"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/can-asytipos-milladoiro-2025.jpeg
-    text: 'Imagen del evento diseñada por Carla Bautís'
+    text: "Imagen del evento diseñada por Carla Bautís"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [Magenta Coop](https://www.instagram.com/espacio.magenta.coop/?hl=es) es un espacio creativo multidisciplinar donde además de charlas y eventos, se dan clases de pintura y talleres variados. Este segundo Cañas y Tipos gallego de 2025 se traslada al ayuntamiento de Ames y las personas asistentes podrán conocer más en profundidad a [María Ramos](https://www.marsidesino.com/), socia de DAG, duseñadora, cofundadora de NM Type y creadora del proyecto Fontlicensing; [Mou](https://derrubandomuros.gal/artista/mou/), organizador de los Festivales de Arte Urbano Desordes Creativas y Rexenera Fest y miembro del grupo Dios Ke Te Crew; y [Rubén Grilo](https://www.rubengrilo.net/), un artista que se expresa a través de diferentes medios como la escultura, el sonido o la imagen en movimiento.
 
       Recordad que este evento termina con el Tipobingo, donde se sortean piezas y material donado por diseñadores y diseñadoras entre las consumiciones que se realicen en el local organizador.
@@ -17,15 +15,14 @@ body:
 
       El evento en Galicia está organizado por los socios de DAG María Ramos, Bernardo Paz y Daniel Pino, junto con Yolanda González y Carla Bautís. La entrada es gratuita hasta completar el aforo.
     type: text
-  -
-    list: ''
-    url: 'https://www.canyasytipos.com/'
-    text: 'Sobre Cañas y Tipos'
+  - list: ""
+    url: "https://www.canyasytipos.com/"
+    text: "Sobre Cañas y Tipos"
     type: button
-intro: 'El próximo 24 de mayo tenemos nueva cita con el diseño en el espacio Magenta Coop en O Milladoiro. El evento tipográfico itinerante que se mueve por diferentes localidades gallegas contará esta vez con María Ramos, Mou y Rubén Grilo.'
+intro: "El próximo 24 de mayo tenemos nueva cita con el diseño en el espacio Magenta Coop en O Milladoiro. El evento tipográfico itinerante que se mueve por diferentes localidades gallegas contará esta vez con María Ramos, Mou y Rubén Grilo."
 slug: un-canas-y-tipos-en-o-milladoiro
 tags:
-  - 'Difusión eventos'
+  - "Difusión eventos"
 lang: es
 draft: false
 date: 2025-05-15T17:38:30+00:00

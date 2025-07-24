@@ -1,14 +1,12 @@
 id: 867
-title: 'Propósito para este 2019: ser de la DAG ✔️'
+title: "Propósito para este 2019: ser de la DAG ✔️"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/paula-cantero.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola, soy Paula
 
       Un cúmulo de circunstancias hicieron que cayera en este apasionante, aunque exigente, mundo del diseño después de finalizar mi formación universitaria. Son una entusiasta del diseño editorial y gozo de hacer libros, revistas, catálogos… desde hay cerca de 15 años. Pero en esta profesión, frecuentemente son los proyectos los que nos eligen a nosotros y, a veces, acabo desarrollando otro tipo de trabajos de diseño que no entraban nos mis planes, pero que al final resultan grandes experiencias en las que me relaciono con otros profesionales y aprendo del proceso.
@@ -17,15 +15,14 @@ body:
 
       Empiezo el 2019 cumpliendo un propósito con el firme convencimiento de que la unión hace la fuerza, de que lo colectivo aporta y enriquece mucho más que el individual y que ser de la DAG hará que este trabajo, que a menudo es tan solitario, se convierta en un espacio de encuentro. Espero acercar mi granito de arena al proyecto de la asociación, deseo ser una socia proactiva e involucrarme en las distintas iniciativas que se organicen. Muchas gracias por acogerme.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/paula-cantero-rey/'
-    text: 'Perfil en la web de la DAG'
+  - list: ""
+    url: "https://dag.gal/gl/paula-cantero-rey/"
+    text: "Perfil en la web de la DAG"
     type: button
-intro: 'Qué alegría saber que, como en el caso de Paula Cantero, hay diseñadores gallegos que tienen entre sus propósitos de año nuevo hacerse de la DAG. Bienvenida, compañera!'
+intro: "Qué alegría saber que, como en el caso de Paula Cantero, hay diseñadores gallegos que tienen entre sus propósitos de año nuevo hacerse de la DAG. Bienvenida, compañera!"
 slug: proposito-para-el-2019-ser-de-la-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-02-07T10:59:36+00:00

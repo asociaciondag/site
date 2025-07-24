@@ -1,14 +1,12 @@
 id: 1086
-title: 'Chega unha nova edición do FEED '
+title: "Chega unha nova edición do FEED "
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/feed-2021-imaxe-noticia-web-dag.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A dinámica será a mesma que en edicións anteriores pero este ano aglutí​nase todo o programa nun so día, **o 14 de outubro**, xa que o 15, 16 e 17 de outubro se celebra o 9º Encontro Nacional de Asociacións de Deseño (ENAD) por asumir DAG a presidencia da Rede Española de Asociacións de Deseño (READ) entre os anos 2021–2023.
 
       Como xa vén sendo habitual, no programa do FEED 2021 conviven distintas disciplinas da profesión: deseño gráfico, deseño de produto, deseño dixital, deseño de estratexia ou deseño de servizos e experiencias, as cales serán abordadas ao longo do día, nunha xornada dividida en dúas partes:​ a sesión de mañá adicada a dous obradoiros, e a sesión de tarde con seis conferencias e unha rolda final de preguntas entre relatoras e asistentes.
@@ -23,15 +21,14 @@ body:
 
       Toda a información sobre o programa e inscricións pode atoparse na web do foro.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/feed2021/'
-    text: 'Web FEED 2021'
+  - list: ""
+    url: "https://dag.gal/feed2021/"
+    text: "Web FEED 2021"
     type: button
-intro: 'O FEED, o Foro de Deseño de carácter bianual que organiza a DAG, chega a súa sexta edición despois dun ano complicado, sen perder o espírito co que naceu: servir de punto de encontro para compartir experiencias entre estudantes e profesionais do deseño, tanto galegos como de ámbito nacional e internacional. Nesta edición conta co patrocinio oficial da Xunta de Galicia a través de AGADIC, e a colaboración do CGAC e do Museo do Pobo Galego.'
+intro: "O FEED, o Foro de Deseño de carácter bianual que organiza a DAG, chega a súa sexta edición despois dun ano complicado, sen perder o espírito co que naceu: servir de punto de encontro para compartir experiencias entre estudantes e profesionais do deseño, tanto galegos como de ámbito nacional e internacional. Nesta edición conta co patrocinio oficial da Xunta de Galicia a través de AGADIC, e a colaboración do CGAC e do Museo do Pobo Galego."
 slug: chega-nova-edicion-feed-2021
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2021-09-23T13:04:56+00:00

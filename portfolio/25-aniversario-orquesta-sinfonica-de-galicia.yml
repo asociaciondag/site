@@ -1,10 +1,9 @@
 id: 422
-title: '25 Aniversario Orquesta Sinfónica de Galicia'
+title: "25 Aniversario Orquesta Sinfónica de Galicia"
 slug: 25-aniversario-orquesta-sinfonica-de-galicia
 body:
-  -
-    image: /img/portfolio/images/25-aniversario-orquesta-sinfonica-de-galicia.png
-    text: ''
+  - image: /img/portfolio/images/25-aniversario-orquesta-sinfonica-de-galicia.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/25-aniversario-orquesta-sinfonica-de-galicia.png
 tags:

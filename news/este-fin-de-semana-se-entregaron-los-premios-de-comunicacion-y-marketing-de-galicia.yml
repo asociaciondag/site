@@ -1,21 +1,19 @@
 id: 775
-title: 'Este fin de semana se entregaron los Premios de Comunicación y Marketing de Galicia'
+title: "Este fin de semana se entregaron los Premios de Comunicación y Marketing de Galicia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premiosparaugas2017.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ¡Preparaos porque la lista es larga!
 
       El primero de todos, nuestro querido [Pepe Barro](https://dag.gal/es/pepe-barro/), premio de honor en esta edición; y junto a él muchos otros, como [desescribir](http://www.desescribir.com/), ganadores del premio al mejor diseño gráfico por la identidad gráfica Colab; [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/), premiados por segundo año consecutivo en la categoría de mejor diseño industrial, en esta ocasión por su trabajo [Global Refuge](http://cenlitrosmetrocadrado.com/global-refuge/); [Desoños](http://www.desonhos.gal/), ganadores del premio al mejor diseño digital e interactivo por su trabajo [Afundación](http://www.desonhos.gal/portfolio_page/afundacion/) y finalistas en la categoría de mejor diseño gráfico con el proyecto Erregueté; [Tony Le Brand](http://www.lebrand.es/), ganador con Clickfer del premio a la mejor creatividad audiovisual y finalista con Abanca me importas tú de la mejor estrategia de comunicación externa; [Piedrapapeltijera](http://www.piedrapapeltijera.com/), finalista en la categoría de diseño digital e interactivo por [Páginas de Zahorí](http://paginasdezahori.com/); [Silvosa París Arquitectura](http://www.silvosaparis.com/), finalista en el apartado de diseño industrial por [Orballo](http://www.silvosaparis.com/orballo.html), espacio de tiendas y catas; [Artedardo](https://dag.gal/gl/conchi-mayo/), finalista en la categoría de mejor libro de arte con _Galicia e os Camiños de Santiago;_ o [Campus na Nube](https://campusnanube.gal/), finalista con Fotoforum Compostela del premio especial a la idea integrada o crossmedia.
 
       ¡Enhorabuena a todos!
     type: text
-intro: 'Y entre los premiados y finalistas tenemos a muchas socias y socios de la DAG :)'
+intro: "Y entre los premiados y finalistas tenemos a muchas socias y socios de la DAG :)"
 slug: este-fin-de-semana-se-entregaron-los-premios-de-comunicacion-y-marketing-de-galicia
 tags: []
 lang: es

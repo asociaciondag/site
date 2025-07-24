@@ -1,26 +1,23 @@
 id: 1345
-title: 'Nueva edición de los Premios Anuaria de Diseño Gráfico'
+title: "Nueva edición de los Premios Anuaria de Diseño Gráfico"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/anuaria-2024.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los socios y socias de DAG, además de las promociones que ofrece la organización por inscripción temprana o por la presentación de múltiples proyectos, gozarán de un 10% de descuento acumulable a otras ofertas destinado al Programa de Apoyo a Organizaciones de la Fundación Veredictas Internacional, que puede repercutir en DAG si así se marca en el formulario.
 
       Los Anuaria establecen 21 premios repartidos en 4 categorías: branding y aplicación de marca, publicidad y comunicación, editorial y recursos gráficos.
 
       Como viene siendo habitual, la DAG colabora con la organización en la difusión de los premios y en el jurado que seleccionará los mejores trabajos, con un Anuaria de Ouro en cada categoría y hasta 10 Selecciones Anuaria por categoría. Este año cuentan con el socio y miembro de la Junta Directiva, Carlos El Rojo.
     type: text
-  -
-    list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-anuaria/bases-fechas.html'
-    text: 'Bases e inscripciones'
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-anuaria/bases-fechas.html"
+    text: "Bases e inscripciones"
     type: button
-intro: 'Ya está en marcha la convocatoria para participar en los Premios Anuaria 2024, con trabajos realizados en los años 2023 y 2024. La inscripción está abierta hasta el 15 de noviembre. Estos premios reconocen la excelencia del diseño gráfico de España desde hace 31 años.'
+intro: "Ya está en marcha la convocatoria para participar en los Premios Anuaria 2024, con trabajos realizados en los años 2023 y 2024. La inscripción está abierta hasta el 15 de noviembre. Estos premios reconocen la excelencia del diseño gráfico de España desde hace 31 años."
 slug: nueva-edicion-de-los-premios-anuaria-de-diseno-grafico
 tags: []
 lang: es

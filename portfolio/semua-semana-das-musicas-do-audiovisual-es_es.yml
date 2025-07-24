@@ -1,13 +1,11 @@
 id: 381
-title: 'SEMUA: Semana das músicas do audiovisual'
+title: "SEMUA: Semana das músicas do audiovisual"
 slug: semua-semana-das-musicas-do-audiovisual-es
 body:
-  -
-    text: 'Diseño campaña I–III ediciones.'
+  - text: "Diseño campaña I–III ediciones."
     type: text
-  -
-    image: /img/portfolio/images/semua-1.jpg
-    text: ''
+  - image: /img/portfolio/images/semua-1.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/semua-portada.jpg
 tags:
@@ -16,7 +14,6 @@ members_id:
   - 81
 lang: es
 info:
-  -
-    name: Cliente
-    value: 'Academia Galega do Audiovisual'
+  - name: Cliente
+    value: "Academia Galega do Audiovisual"
 draft: false

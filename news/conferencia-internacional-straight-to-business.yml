@@ -1,15 +1,13 @@
 id: 93
 title: 'Conferencia Internacional "Straight to Business"'
 body:
-  -
-    text: ' O programa cubrirá avances, estudos de casos e experiencias reais acerca de estratexia e deseño, comunicación, marca e xestión da imaxe, mediante actividades dirixidas a diversos perfís profesionais, como responsables e directivos de comunicación, deseño, marca, identidade corporativa, mercadotecnia, e a outros profesionais do as industrias creativas. [ Para realizar inscricións e/ou solicitar información adicional](http://www.icogradadesignweekmadrid.org/es/)'
+  - text: " O programa cubrirá avances, estudos de casos e experiencias reais acerca de estratexia e deseño, comunicación, marca e xestión da imaxe, mediante actividades dirixidas a diversos perfís profesionais, como responsables e directivos de comunicación, deseño, marca, identidade corporativa, mercadotecnia, e a outros profesionais do as industrias creativas. [ Para realizar inscricións e/ou solicitar información adicional](http://www.icogradadesignweekmadrid.org/es/)"
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a98a6602-mmm.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Organiza a Sociedade estatal ddi o 24 e 25 de xuño dentro da Icograda Design Week Madrid.'
+intro: "Organiza a Sociedade estatal ddi o 24 e 25 de xuño dentro da Icograda Design Week Madrid."
 slug: conferencia-internacional-straight-to-business
 tags: []
 lang: gl

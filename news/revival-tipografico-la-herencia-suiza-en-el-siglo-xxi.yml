@@ -1,8 +1,7 @@
 id: 293
-title: 'Revival tipográfico. La herencia suiza en el siglo XXI'
+title: "Revival tipográfico. La herencia suiza en el siglo XXI"
 body:
-  -
-    text: |-
+  - text: |-
       Ficha de la 2ª charla:
 
       Título: Revival tipográfico. La herencia suiza en el siglo XXI
@@ -21,13 +20,11 @@ body:
 
       Descarga el programa de las #charlasnaDAG:
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9eec20a-charlasdag.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9eec20a-charlasnadag.pdf
     text: Descargar
     type: file

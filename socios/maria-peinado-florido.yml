@@ -1,19 +1,16 @@
 id: 82
-contact: '<info@mariapeinado.com>'
+contact: "<info@mariapeinado.com>"
 links:
-  -
-    text: Web
-    url: 'https://mariapeinado.com'
+  - text: Web
+    url: "https://mariapeinado.com"
     type: link
-  -
-    text: Behance
-    url: 'https://www.behance.net/BegoPastoriza'
+  - text: Behance
+    url: "https://www.behance.net/BegoPastoriza"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/mariapeinadoflorido/'
+  - text: Instagram
+    url: "https://www.instagram.com/mariapeinadoflorido/"
     type: link
-name: 'María Peinado'
+name: "María Peinado"
 slug: maria-peinado-florido
 avatarBig: null
 avatar: /img/avatars/bio-maria-peinado.jpg
@@ -36,5 +33,5 @@ bio.es: |-
   Desarrolla especial interés por los catálogos de arte y por el libro impreso. El libro como objeto, como imagen, como memoria y lugar, como contenedor de narrativa visual y conceptual y como herramienta de humanización y mejora social.
 
   Desde 2011 es la diseñadora de la compañía de danza contemporánea La Phármaco y recientemente ha trabajado para Lacasta Design o editoriales como Flanêur, Col&amp;Col o Cuadernos del Vigía.
-job.gl: 'Deseñadora editorial'
-job.es: 'Diseñadora editorial'
+job.gl: "Deseñadora editorial"
+job.es: "Diseñadora editorial"

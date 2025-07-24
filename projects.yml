@@ -1,4 +1,4 @@
-layout: layouts/projects.njk
+layout: layouts/projects.vto
 main_menu: projects
 
 title.gl: Proxectos

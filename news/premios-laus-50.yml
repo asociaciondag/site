@@ -1,26 +1,23 @@
 id: 958
-title: 'Los premios Laus cumplen 50 años'
+title: "Los premios Laus cumplen 50 años"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/callforentries-1920x1080.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La convocatoria de los Laus está dirigida a profesionales del diseño gráfico, la publicidad y la comunicación visual. El plazo de inscripción para presentar proyectos estará abierto hasta el próximo lunes 10 de febrero. Las socias y los socios de la DAG, como miembros también de READ, podrán aplicar un descuento del 15% en todos los proyectos presentados.
 
       Celebramos el reconocimiento al trabajo de nuestros socios en [pasadas](https://dag.gal/gl/os-laus-reconecen-o-traballo-de-desescribir-un-ano-mais/) [ediciones](https://dag.gal/gl/desescribir-e-roberto-nunez-premiados-na-49a-edicion-dos-laus/). Este año, además, tres socios de la DAG han sido seleccionados para formar parte del jurado profesional que evaluará los proyectos. Entre reconocidas profesionales como Liza Enebeis (Studio Dumbar) o Ena Cardenal encontramos también a [Roberto Núñez](https://robertonunez.com) y a [Artur Galocha](https://www.behance.net/arturgalocha); ambos formarán parte del jurado en la categoría de Diseño Gráfico. Por otro lado [Iago Barreiro](https://www.iagobarreiro.com) será responsable de evaluar los proyectos de la sección Digital, junto a compañeros y compañeras de profesión como Aino Hantuu de Hanzo Studio.
 
       Un año más los premios Laus celebran el diseño. En esta ocasión la organización informa de que los emblemáticos trofeos serán producidos con materiales respetuosos con el medioambiente. El trofeo, ideado en 1969 por Tomás Vellvé, será reconceptualizado por [Oiko](http://www.oikodesignoffice.com/), un estudio especializado en economía circular. Además, para celebrar el 50 aniversario, la ADG-FAD quiere rendir homenaje a los premiados en su larga trayectoria. Se llevarán a cabo diferentes acciones comunicativas que culminarán en la _Nit ADG Laus_, la cerimonia de entrega de premios que se celebrará en junio durante a _Barcelona Design Week_.
     type: text
-  -
-    list: ''
-    url: 'https://www.adg-fad.org/es/laus/premios'
-    text: 'Bases e inscripciones Premios Laus'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premios"
+    text: "Bases e inscripciones Premios Laus"
     type: button
-intro: 'La Asociación de Directores de Arte y Diseñadores Gráficos del FAD convocan un año más los premios Laus. Estos premios, que buscan reconocer la excelencia en la comunicación gráfica, son ciertamente un referente en el sector del diseño.'
+intro: "La Asociación de Directores de Arte y Diseñadores Gráficos del FAD convocan un año más los premios Laus. Estos premios, que buscan reconocer la excelencia en la comunicación gráfica, son ciertamente un referente en el sector del diseño."
 slug: premios-laus-50
 tags: []
 lang: es

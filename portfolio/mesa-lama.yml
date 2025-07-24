@@ -1,14 +1,12 @@
 id: 425
-title: 'Mesa Lama'
+title: "Mesa Lama"
 slug: mesa-lama
 body:
-  -
-    image: /img/portfolio/images/mesa-lama-2.jpg
-    text: ''
+  - image: /img/portfolio/images/mesa-lama-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/mesa-lama-1.jpg
-    text: ''
+  - image: /img/portfolio/images/mesa-lama-1.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/mesa-lama-2.jpg
 tags:

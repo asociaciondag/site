@@ -1,14 +1,12 @@
 id: 638
-title: 'Miguel Sabel ya es de la DAG :)'
+title: "Miguel Sabel ya es de la DAG :)"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/56a223dab0a4d-miguel-sabel-present.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola, soy Miguel Sabel. Trabajo como diseñador en la oficina que [Designit](https://designit.com/) tiene en Madrid. En la mayor parte de los proyectos en los que trabajo diseño servicios, definiendo nuevos modelos de negocio y relación entre organizaciones y sus clientes o usuarios.
 
       Antes pasé por una consultora de investigación tecnológica, también en Madrid, y algo antes por una pequeña compañía de diseño en Barcelona. Fui a Barcelona para estudiar un máster después de pasar por la escuela de Diseño de Ferrol. Llevo algo más de siete años fuera de Galicia.
@@ -21,12 +19,11 @@ body:
 
       Decidí por lo tanto que he entrado en la DAG para buscar que la motivación de marcharme sea lo más dulce posible. Apertura para aprender y disfrutar. Y para hacer que el camino de vuelta sea más sencillo. Para sentir que puedo volver cuando me dé la gana. Comenzando por mí mismo pero ojalá también para otros. No tengo ni idea de cómo hacerlo.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/miguel-sabel/'
-    text: 'Ficha de socio DAG'
+  - list: ""
+    url: "https://dag.gal/gl/miguel-sabel/"
+    text: "Ficha de socio DAG"
     type: button
-intro: 'Desde la asociación solo podemos expresar el más profundo agradecimiento a Miguel Sabel, y a otros socios que como él desarrollan sus carreras profesionales fuera de Galicia, por su compromiso con la DAG. Bienvenido!'
+intro: "Desde la asociación solo podemos expresar el más profundo agradecimiento a Miguel Sabel, y a otros socios que como él desarrollan sus carreras profesionales fuera de Galicia, por su compromiso con la DAG. Bienvenido!"
 slug: miguel-sabel-ya-es-de-la-dag
 tags: []
 lang: es

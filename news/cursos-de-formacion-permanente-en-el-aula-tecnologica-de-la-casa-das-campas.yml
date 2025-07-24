@@ -1,8 +1,7 @@
 id: 283
-title: 'Cursos de formación permanente en el Aula Tecnológica de la Casa das Campás'
+title: "Cursos de formación permanente en el Aula Tecnológica de la Casa das Campás"
 body:
-  -
-    text: |-
+  - text: |-
       Los cursos son:
 
       **Sketchup 8: modelado en 3D para todos**, impartido por Lucía Fernández Constela Fechas: 3, 5, 6, 10, 11 y 13 de octubre Plazo de matrícula entre el 23.09.11 y el 30.09.11
@@ -23,17 +22,15 @@ body:
 
       Descarga el programa:
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9ec00f3-casadascampas.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9ec00f3-cursos-aula-tecnoloxica-outono2011.pdf
     text: Descargar
     type: file
-intro: 'La programación del Aula Tecnológica de la Casa das Campás para el otoño oferta cinco cursos que coordina y dirige Alberto García Ariza.'
+intro: "La programación del Aula Tecnológica de la Casa das Campás para el otoño oferta cinco cursos que coordina y dirige Alberto García Ariza."
 slug: cursos-de-formacion-permanente-en-el-aula-tecnologica-de-la-casa-das-campas
 tags: []
 lang: es

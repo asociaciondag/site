@@ -1,14 +1,12 @@
 id: 1407
-title: 'La 55 Edición de los Premios Laus ya tiene finalistas'
+title: "La 55 Edición de los Premios Laus ya tiene finalistas"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/seleccion-laus-2025.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Este año, todos los proyectos seleccionados adquieren el reconocimiento _In Book_ aunque no obtengan trofeo en esa final en directo, y formarán parte del Libro ADG Laus 2025, una publicación con distribución nacional e internacional referente en el sector. El estudio [Novagarda](https://novagarda.gal/) presentó el diseño de la web de [Noroeste Obradoiro](https://noroesteobradoiro.com/), una marca de joyería afincada en Santiago con un amplio recorrido y reconocimiento.
 
       Entre todos estos proyectos el jurado podrá otorgar un máximo de 3 Bronces por cada uno de los 52 apartados. De esos Bronces, un máximo de 2 Platas por apartado; y de las Platas, un máximo de 1 Oro en cada apartado. Además, como viene siendo habitual, entre todos los Oros de las 7 categorías el jurado escogerá un proyecto (máximo dos) que ganará el Gand Laus.
@@ -17,15 +15,14 @@ body:
 
       El Laus de Honor este año es para Mario Eskenazi. Esta gran figura del diseño gráfico que tuvimos la oportunidad de escuchar recientemente en el Festival Creativa, participará en una conversación _ADGTalk_ junto con Javier Jaén y Gemma Villegas el 4 de junio en el DHub Barcelona. El ADG Laus Empresas y Entidades es para El Celler de Can Roca.
     type: text
-  -
-    list: ''
-    url: 'https://adg-fad.org/laus/premios/'
-    text: 'Más info'
+  - list: ""
+    url: "https://adg-fad.org/laus/premios/"
+    text: "Más info"
     type: button
-intro: 'La gala tendrá lugar en los Cines Aribau de Barcelona el próximo 19 de junio y entre todos los proyectos seleccionados encontramos el trabajo de los compañeros Alberto Carballido e Iago Barreiro, del estudio Novagarda.'
+intro: "La gala tendrá lugar en los Cines Aribau de Barcelona el próximo 19 de junio y entre todos los proyectos seleccionados encontramos el trabajo de los compañeros Alberto Carballido e Iago Barreiro, del estudio Novagarda."
 slug: la-55-edicion-de-los-premios-laus-ya-tiene-finalistas
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2025-06-16T11:01:10+00:00

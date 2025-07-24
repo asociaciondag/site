@@ -1,14 +1,12 @@
 id: 1069
-title: 'El Ayuntamiento de Pontevedra convoca una llamada a proyecto para desarrollar su nueva imagen corporativa'
+title: "El Ayuntamiento de Pontevedra convoca una llamada a proyecto para desarrollar su nueva imagen corporativa"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/concellopontevedra.jpg
-    text: 'Logotipo actual del Ayuntamiento de Pontevedra, diseñado por Xosé María Torné'
+    text: "Logotipo actual del Ayuntamiento de Pontevedra, diseñado por Xosé María Torné"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La decisión del Ayuntamiento de Pontevedra de renovar su identidad está motivada, entre otras cosas, por la necesidad de adaptar la marca Pontevedra a los códigos gráficos y necesidades actuales.
 
       Las candidaturas deberán presentar una muestra de trabajos a través de la sede electrónica del ayuntamiento. Con el objetivo de proteger el anonimato de las candidaturas no se podrán incluir proyectos ya desarrollados para el Ayuntamiento de Pontevedra. De todas las candidaturas presentadas serán 4 las seleccionadas por el jurado. Estas, deberán entonces presentar su propuesta de imagotipo y memoria explicativa con cinco ejemplos de aplicación. El jurado escogerá la candidatura adjudicataria del proyecto, que deberá desarrollar el Manual de Identidad Visual Corporativa a partir de la propuesta presentada, incluyendo los puntos definidos en las bases de la convocatoria.
@@ -17,12 +15,11 @@ body:
 
       El jurado estará integrado por personal del ayuntamiento (dos técnicas del departamento de Comunicación, el jefe de la Oficina Técnica de Arquitectura y Planeamiento, la jefa de Servicio de Secretaría y Asuntos Generales, y la concejala de Régimen Interior y Contratación) y dos personas, profesionales del diseño, nombradas por la DAG. Además, el jurado contará con el asesoramiento de un comité de expertos que estará compuesto por 4 personas directamente vinculadas a la docencia universitaria y al diseño: Marcos Dopico, docente y profesional del diseño; Cristina Varela, docente en la Universidad de Vigo y diseñadora gráfica; y Juan Manuel Corbacho y Alberto Dafonte, docentes e investigadores de comunicación audiovisual y publicidad en el campus universitario de Pontevedra.
     type: text
-  -
-    list: ''
-    url: 'https://sede.pontevedra.gal/public/catalog-detail/1218'
-    text: 'Más información'
+  - list: ""
+    url: "https://sede.pontevedra.gal/public/catalog-detail/1218"
+    text: "Más información"
     type: button
-intro: 'La convocatoria está dirigida a profesionales y empresas de diseño, que podrán presentar su candidatura hasta el día 2 de julio. La Asociación Gallega de Diseño, con el objetivo claro de intentar establecer un procedimiento que valore y considere de manera justa las candidaturas y su trabajo, ha colaborado con el ayuntamiento y ha asesorado al equipo encargado de definir las bases reguladoras de esta convocatoria.'
+intro: "La convocatoria está dirigida a profesionales y empresas de diseño, que podrán presentar su candidatura hasta el día 2 de julio. La Asociación Gallega de Diseño, con el objetivo claro de intentar establecer un procedimiento que valore y considere de manera justa las candidaturas y su trabajo, ha colaborado con el ayuntamiento y ha asesorado al equipo encargado de definir las bases reguladoras de esta convocatoria."
 slug: ayuntamiento-pontevedra-llamada-a-proyecto-imagen-corporativa
 tags:
   - concursos

@@ -1,29 +1,26 @@
 id: 1381
-title: 'Jornada «Isaac, editor»'
+title: "Jornada «Isaac, editor»"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/ccg-diazpardo.jpg
-    text: 'Fotografía: Isaac Díaz Pardo, 1987, ©Xurxo Lobato'
+    text: "Fotografía: Isaac Díaz Pardo, 1987, ©Xurxo Lobato"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El programa, que tendrá lugar en la mañana del jueves 27 de marzo, constará de dos relatorios. El primero a cargo de Charo Portela, quien fuera subdirectora de Ediciós do Castro y coordinadora de la actividad cultural del Instituto Galego da Información hasta 2008, que se centrará en el perfil de Díaz Pardo como editor. El segundo, a cargo de nuestro asociado, el diseñador Pepe Barro, que ofrecerá una panorámica sobre diseño e identidad del libro gallego hasta los tiempos de la editorial, fundada en 1963.
 
       A través de estas dos conferencias nos aproximaremos al universo visual y conceptual de un de los proyectos editoriales más destacados de Galicia en el siglo XX, especializado en la recuperación de la memoria histórica y la divulgación cultural y científica gallegas. Además de profundizar en la figura de su fundador y socio de honor de la Asociación Galega de Editores desde 2006.
 
       La jornada se desarrollará en horario de 10.30-13.00 h en la sede del Consello da Cultura Galega y cuenta ocn el apoyo de la Diputación de A Coruña. El acceso estará abierto al público hasta completar aforo.
     type: text
-  -
-    list: ''
-    url: 'https://consellodacultura.gal/evento.php?id=202114'
-    text: 'Más info'
+  - list: ""
+    url: "https://consellodacultura.gal/evento.php?id=202114"
+    text: "Más info"
     type: button
-intro: 'La Asociación Galega de Editoras celebrará a Isaac Díaz Pardo, en el año en el que se le dedica el Día de las Artes Gallegas, con una jornada centrada en su papel al frente de Ediciós do Castro.'
+intro: "La Asociación Galega de Editoras celebrará a Isaac Díaz Pardo, en el año en el que se le dedica el Día de las Artes Gallegas, con una jornada centrada en su papel al frente de Ediciós do Castro."
 slug: jornada-isaac-editor
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2025-03-12T10:05:28+00:00

@@ -1,21 +1,19 @@
 id: 530
-title: 'Benvido á DAG, Álvaro'
+title: "Benvido á DAG, Álvaro"
 body:
-  -
-    text: |-
+  - text: |-
       Ola! Son Álvaro Justo, deseñador gráfico e multimedia. Encántame todo o relacionado coa tipografía e sempre ando á procura de discos con boa música…
 
       Actualmente estou rematando os estudos de grao en Deseño Gráfico na EASD Valencia. Uninme á DAG para facer un pouco de piña con outros profesionais do deseño e apoiar o deseño galego, impulsar o seu recoñecemento e pór en valor o noso labor. Graciñas pola acollida e un saúdo
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa7b210f-alvarojusto.png
-    text: ''
+    text: ""
     type: image
-intro: 'Álvaro Justo é o novo socio estudante que se acaba de incorporar á DAG'
+intro: "Álvaro Justo é o novo socio estudante que se acaba de incorporar á DAG"
 slug: benvido-a-dag-alvaro
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2014-11-25T18:30:06+00:00

@@ -1,2 +1,2 @@
-layout: layouts/about.njk
+layout: layouts/about.vto
 main_menu: about

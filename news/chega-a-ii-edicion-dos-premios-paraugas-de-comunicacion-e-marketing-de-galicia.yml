@@ -1,14 +1,12 @@
 id: 746
-title: 'Chega a II edición dos Premios Paraugas de Comunicación e Marketing de Galicia'
+title: "Chega a II edición dos Premios Paraugas de Comunicación e Marketing de Galicia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premios-paraugas-2017.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Nesta segunda edición os participantes poderán inscribir aqueles proxectos realizados desde outubro de 2016 a outubro de 2017 nas seguintes categorías e subcategorías:
 
       ## 1. Creatividade
@@ -16,43 +14,42 @@ body:
       - Creatividade gráfica
       - Creatividade audiovisual
       - Creatividade no uso dos medios
-       
+
       ## 2. Deseño
 
       - Deseño gráfico
       - Deseño industrial
       - Deseño dixital e interactivo
-       
+
       ## 3. Artes gráficas e editorial
 
       - Libro de arte
       - Catálogo publicitario
       - Álbum ou libro infantil
-       
+
       ## 4. Marketing
 
       - Estratexia/acción de branding
       - Acción relación/escoita do cliente
       - Estratexia/acción de produto
-       
+
       ## 5. Comunicación
 
       - Estratexia de comunicación externa
       - Estratexia de comunicación interna
       - Práctica na comunicación da RSE
-       
+
       Alén destas categorías o xurado outorgará un Premio Especial á Idea Integrada ou Crossmedia. Trátase dun premio que valorará a execución dunha campaña/acción que utilice dous ou máis elementos da cadea de valor da comunicación en Galicia, de modo que a suma deses elementos mellore o resultado final.
 
       O prazo para presentar as candidaturas féchase o día 6 de outubro ás 20 h.
 
       Información e inscrición en:
     type: text
-  -
-    list: ''
-    url: 'http://premios.clustercomunicacion.gal/'
-    text: 'Premios Paraugas'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/"
+    text: "Premios Paraugas"
     type: button
-intro: 'Estes premios foron creados no 2016 polo Clúster da Comunicación Gráfica de Galicia para distinguir aquelas pezas e/ou estratexias de creatividade, de deseño, de edición, de industria gráfica, de marketing e de comunicación que destacan pola súa innovación, pola súa funcionalidade, polas boas prácticas e pola obtención de resultados tanxíbeis.'
+intro: "Estes premios foron creados no 2016 polo Clúster da Comunicación Gráfica de Galicia para distinguir aquelas pezas e/ou estratexias de creatividade, de deseño, de edición, de industria gráfica, de marketing e de comunicación que destacan pola súa innovación, pola súa funcionalidade, polas boas prácticas e pola obtención de resultados tanxíbeis."
 slug: chega-a-ii-edicion-dos-premios-paraugas-de-comunicacion-e-marketing-de-galicia
 tags: []
 lang: gl

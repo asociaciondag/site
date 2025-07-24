@@ -1,24 +1,21 @@
 id: 1107
-title: '«Xornadas Bisiona» en la EASD Pablo Picasso'
+title: "«Xornadas Bisiona» en la EASD Pablo Picasso"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/web-entrada-bisiona.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En esta V Edición, las jornadas Bisiona cuentan con profesionales del ámbito de la fotografía, de la ilustración, de la policromía, de la escultura, de la cerámica, del diseño gráfico y del diseño de interiores​. Durante tres días, ​el alumnado podrá disfrutar de la experiencia de​ [David Barro](http://didac.gal/didac/es/encontros/unseculocreacion/david-barro),​​ [Christian García Bello](http://www.christiangarciabello.es/), [Ruth Villamagna](https://www.rutvillamagna.com/), [Iv​án Cotado](https://ivancotado.es/), [Daniel Ayuso](https://graphic.elisava.net/es/events/daniel-ayuso-clase/), [Elena Ramírez](https://www.ashler.design/), [Calros Silvar](https://agpi.es/ilustradores/calros-silvar/), [Gimena Berenguer](https://www.gimenaberenguer.com/), Noemí López e [Idea Creatividad](http://www.ideacreatividad.es/trabajos.html); esta última presentará además la nueva imagen corporativa de la escuela​​.
 
       La imagen gráfic​a de este año se seleccionó entre otras propuestas desarrolladas por los alumnos y alumnas de 4º Curso de Diseño Gráfico.
     type: text
-  -
-    list: ''
-    url: 'https://www.eapicasso.com/v-xornadas-de-arte-e-deseno/'
-    text: 'Más información'
+  - list: ""
+    url: "https://www.eapicasso.com/v-xornadas-de-arte-e-deseno/"
+    text: "Más información"
     type: button
-intro: 'La Escuela de Arte y Diseño Pablo Picasso de A Coruña organiza [Bisiona](https://www.eapicasso.com/v-xornadas-de-arte-e-deseno/), las «V Xornadas de Arte e Deseño» los ​días 15, 16 y 17 de diciembre. Este año las charlas serán presenciales para el alumnado de la escuela y el público externo podrá seguirlas a través de [su canal de Youtube.](https://www.youtube.com/channel/UCc2hlmi6Mn3WUAPxexW6p-Q/featured)'
+intro: "La Escuela de Arte y Diseño Pablo Picasso de A Coruña organiza [Bisiona](https://www.eapicasso.com/v-xornadas-de-arte-e-deseno/), las «V Xornadas de Arte e Deseño» los ​días 15, 16 y 17 de diciembre. Este año las charlas serán presenciales para el alumnado de la escuela y el público externo podrá seguirlas a través de [su canal de Youtube.](https://www.youtube.com/channel/UCc2hlmi6Mn3WUAPxexW6p-Q/featured)"
 slug: jornadas-bisiona-easd-pablo-picasso
 tags: []
 lang: es

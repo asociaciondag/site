@@ -1,14 +1,12 @@
 id: 1033
-title: 'Nuevas fechas para los Premios Paraugas 2020'
+title: "Nuevas fechas para los Premios Paraugas 2020"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premiosparaugas.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La situación sanitaria y las restricciones impuestas en los eventos sociales ha hecho imposible la celebración de la entrega de los Premios Paraugas el pasado 20 de noviembre, fecha prevista inicialmente. La organización ha decidido aplazar el evento, marcando como nueva fecha el 12 de febrero de 2021. El principal objetivo de este aplazamiento es conservar una parte esencial de la filosofía de los premios: servir de plataforma para la difusión del talento de nuestros y nuestras profesionales y como punto de encuentro del sector.
 
       El aplazamiento en la entrega de premios viene también acompañado de una nueva convocatoria para la recepción de proyectos. Todas las empresas y profesionales que quieran presentar sus candidaturas tienen de plazo hasta mediados de diciembre. Las candidaturas que ya fuesen presentadas en la convocatoria anterior podrán ser modificadas o substituidas.
@@ -21,12 +19,11 @@ body:
 
       Todos los detalles sobre esta nueva edición de los Premios Paraugas están disponibles [en su web](http://premios.clustercomunicacion.gal), desde donde también se puede hacer la inscripción de proyectos.
     type: text
-  -
-    list: ''
-    url: 'http://premios.clustercomunicacion.gal/wp-content/uploads/2020/10/NOVAS-bases-V-Premios-Paraugas.pdf'
-    text: 'Bases de los Premios Paraugas'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/wp-content/uploads/2020/10/NOVAS-bases-V-Premios-Paraugas.pdf"
+    text: "Bases de los Premios Paraugas"
     type: button
-intro: 'El Cluster de la Comunicación Gráfica de Galicia anuncia un nuevo plazo de presentación de candidaturas para los V Premios Paraugas. Las empresas y profesionales interesados en inscribir sus proyectos podrán hacerlo hasta el próximo 15 de diciembre.'
+intro: "El Cluster de la Comunicación Gráfica de Galicia anuncia un nuevo plazo de presentación de candidaturas para los V Premios Paraugas. Las empresas y profesionales interesados en inscribir sus proyectos podrán hacerlo hasta el próximo 15 de diciembre."
 slug: nuevas-fechas-premios-paraugas-2020
 tags: []
 lang: es

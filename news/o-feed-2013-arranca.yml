@@ -1,8 +1,7 @@
 id: 460
-title: 'O feed 2013 arranca!'
+title: "O feed 2013 arranca!"
 body:
-  -
-    text: |-
+  - text: |-
       Mañá venres, día 18 de outubro, darán comezo as actividades do foro de edición e deseño, feed 2013.
 
       O programa para a primeira xornada dedicada ao deseño gráfico e editorial vén cargado de propostas: cun seminario impartido por César Ávila, charlas e unha mesa redonda que ao final da tarde servirá para pechar a sesión.
@@ -37,15 +36,14 @@ body:
 
       Máis información en: <http://feed.asociaciondag.org/>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa4b39f6-foto-feed-prensa.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Mañá venres, día 18 de outubro, darán comezo as actividades do foro de edición e deseño, feed 2013.'
+intro: "Mañá venres, día 18 de outubro, darán comezo as actividades do foro de edición e deseño, feed 2013."
 slug: o-feed-2013-arranca
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2013-10-17T23:28:33+00:00

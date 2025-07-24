@@ -25,38 +25,38 @@
 /*
  * Contido xeral
  * -----------------------------------------------------------------------------
-*/
+ */
 
 html {
-	font-family: var(--ff-normal);
-	background-color: var(--black-8);
-	color: var(--color-main);
-	padding-top: 58px;
-	scroll-padding-top: 5rem;
+  font-family: var(--ff-normal);
+  background-color: var(--black-8);
+  color: var(--color-main);
+  padding-top: 58px;
+  scroll-padding-top: 5rem;
 }
 
 figure {
-	margin-left: 0;
-	margin-right: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 strong {
-	font-weight: var(--fw-bold);
+  font-weight: var(--fw-bold);
 }
 
 .ia-16 {
-	width: 32px;
-	height: 32px;
-	display: block;
-	vertical-align: middle;
+  width: 32px;
+  height: 32px;
+  display: block;
+  vertical-align: middle;
 
-	& line,
-	& circle {
-		stroke: var(--color-main);
-		fill: none;
-		vector-effect: non-scaling-stroke;
-		transition: all 0.5s;
-		stroke-width: 4px;
-		stroke-linecap: round;
-	}
+  & line,
+  & circle {
+    stroke: var(--color-main);
+    fill: none;
+    vector-effect: non-scaling-stroke;
+    transition: all 0.5s;
+    stroke-width: 4px;
+    stroke-linecap: round;
+  }
 }

@@ -1,24 +1,22 @@
 id: 1128
-title: 'O Concello de Pontevedra estrea imaxe institucional'
+title: "O Concello de Pontevedra estrea imaxe institucional"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/concello-po-01.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A proposta gráfica estivo amparada baixo o lema «Arria Oreta» que na antiga xerga dos canteiros de Pontevedra significa «auga e pedra». Baixo eses dous piares os compañeiros Xabier Rilo e Ricardo Tubí​o afrontaron o deseño, tendo en conta os elementos fundacionais da cidade. A nova imaxe dá continuidade ás anteriores e salvagarda os símbolos esenciais da mesma, poñendo en valor a súa historia: o escudo de medio punto, a auga do río Lérez, os tres arcos da ponte do Burgo e a antiga muralla medieval da cidade. O elemento que se elimina respecto das anteriores é a cruz e na nova imaxe adquire protagonismo unha única cor, o azul como referente da auga e tamén por razóns de contraste e lexibilidade.
 
       O resultado é unha imaxe moderna, limpa, sólida e equilibrada, que permite unha mellor comunicación coa cidadanía. O proceso de implantación realizarase nos próximos meses e de maneira paulatina, comezando polas dependencias municipais e a rotulación dos vehículos do concello.
 
       Desde a DAG queremos salientar tamén o proceso de contratación mediante a fórmula de «chamada a proxecto» como exemplo de boa práctica por parte dunha administración local, que conta co apoio e o asesoramento de entidades e profesionais relacionados coa materia, de principio a fin, amosando as boas sinerxías que se poden xerar entre os diferentes axentes implicados.
     type: text
-intro: 'O pasado mes de febreiro o Concello de Pontevedra facía pública a nova imaxe corporativa deseñada polo estudio [Centlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/), logo dun proceso de selección baseado na «chamada a proxecto».​'
+intro: "O pasado mes de febreiro o Concello de Pontevedra facía pública a nova imaxe corporativa deseñada polo estudio [Centlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/), logo dun proceso de selección baseado na «chamada a proxecto».​"
 slug: o-concello-de-pontevedra-estrea-imaxe-institucional
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2022-03-02T12:00:00+00:00

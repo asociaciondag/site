@@ -1,2 +1,2 @@
-layout: layouts/member_permalink.njk
+layout: layouts/member_permalink.vto
 type: member

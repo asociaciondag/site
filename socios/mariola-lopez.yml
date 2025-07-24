@@ -10,23 +10,19 @@ contact: |-
 
   <mariola@lopezlab.com>
 links:
-  -
-    text: Web
-    url: 'https://www.lopezlab.com/en/'
+  - text: Web
+    url: "https://www.lopezlab.com/en/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/lopezlab.design/'
+  - text: Instagram
+    url: "https://www.instagram.com/lopezlab.design/"
     type: facebook
-  -
-    text: Twitter
-    url: 'https://twitter.com/lopezlab1'
+  - text: Twitter
+    url: "https://twitter.com/lopezlab1"
     type: twitter
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/lopezlab1'
+  - text: Facebook
+    url: "https://www.facebook.com/lopezlab1"
     type: facebook
-name: 'Mariola López'
+name: "Mariola López"
 slug: mariola-lopez
 avatarBig: null
 avatar: /img/avatars/mariola-2.jpg
@@ -37,9 +33,9 @@ tags:
   - Editorial
   - Web
   - Servizos
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Fundadora e deseñadora en Lopezlab'
-job.es: 'Fundadora y diseñadora en Lopezlab'
+job.gl: "Fundadora e deseñadora en Lopezlab"
+job.es: "Fundadora y diseñadora en Lopezlab"

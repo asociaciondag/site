@@ -1,8 +1,7 @@
 id: 315
-title: 'Video mapping en la EASD Pablo Picasso'
+title: "Video mapping en la EASD Pablo Picasso"
 body:
-  -
-    text: |-
+  - text: |-
       La conferencia versará sobre su trayectoria profesional y también sobre su experiencia en el mundo laboral, y en concreto en el video mapping, es decir, la proyección audiovisual sobre arquitectura, que ejemplificará con el caso da Catedral de Santiago de Compostela.
 
       El taller consistirá en la preparación y ajustes previos de una proyección sobre una arquitectura efímera hasta conseguir una máscara o patrón sobre el cual poder trabajar, y los asistentes tendrán que elaborar contenidos audiovisuales para su proyección y verificación.
@@ -17,12 +16,11 @@ body:
 
       Teléfono: 981 225 396
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9fb7d14-cartel-expo-videomapping.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'La Escuela de Arte y Superior de Diseño Pablo Picasso de A Coruña presenta mañana jueves, día 24 de noviembre, una conferencia sobre video mapping y un taller que se desarrollará los días 24 y 25, y que contará con la presencia de Mario Jiménez, colaborador en la exitosa proyección del 800 centenario de la Catedral de Santiago.'
+intro: "La Escuela de Arte y Superior de Diseño Pablo Picasso de A Coruña presenta mañana jueves, día 24 de noviembre, una conferencia sobre video mapping y un taller que se desarrollará los días 24 y 25, y que contará con la presencia de Mario Jiménez, colaborador en la exitosa proyección del 800 centenario de la Catedral de Santiago."
 slug: video-mapping-en-la-easd-pablo-picasso
 tags: []
 lang: es

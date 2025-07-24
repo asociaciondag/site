@@ -2,8 +2,7 @@ id: 14
 title: Colofón
 slug: colofon
 body:
-  -
-    text: |-
+  - text: |-
       A nova web da DAG foi deseñada e desenvolvida por [Oscar Otero](http://oscarotero.com/gl/) e [Segundo Fdez](http://segundfdez.com) e fíxose pública o 31 de xulio de 2015, nunha presentación levada a cabo por Oscar Otero no _[1º Encontro de deseñadoras e deseñadores galegos](http://dag.gal/es/rianxo/)_.
 
       Para o deseño empregamos a tipografía Isaac Sans deseñada por [Marcos Dopico](http://maistypes.com).
@@ -13,7 +12,7 @@ body:
       - [fol](https://github.com/fol-project) - microframework de PHP
       - [stylecow ](http://stylecow.github.io/)- procesador de CSS 100% galego
       - [carro](https://github.com/MiniPlugins/carro)
-       
+
     type: text
 menu: false
 footer: true

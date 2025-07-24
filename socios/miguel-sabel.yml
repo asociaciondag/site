@@ -1,19 +1,16 @@
 id: 44
-contact: '<miguel@sabel.me>'
+contact: "<miguel@sabel.me>"
 links:
-  -
-    text: Web
-    url: 'http://miguelsabel.me/'
+  - text: Web
+    url: "http://miguelsabel.me/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/miguelsabel'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/miguelsabel"
     type: linkedin
-  -
-    text: Twitter
-    url: 'https://twitter.com/miguelsabel'
+  - text: Twitter
+    url: "https://twitter.com/miguelsabel"
     type: twitter
-name: 'Miguel Sabel'
+name: "Miguel Sabel"
 slug: miguel-sabel
 avatarBig: null
 avatar: /img/avatars/566b05e43793b-miguel-sabel.jpeg
@@ -29,5 +26,5 @@ bio.es: |-
   Formado como diseñador de producto en la EUDI y en la escuela Elisava, nunca ha ejercido como tal. Desde que comenzó a trabajar, siempre ha buscado la interacción entre la empresa y el diseño. Primero, desde la gestión del diseño, explorando marcos de gestión adaptados a la incerteza propia de la disciplina. Ahora, empleando el diseño como proceso y caja de herramientas con que afrontar retos propios del negocio, hasta no hace mucho ajenos a los diseñadores.
 
   Ha pasado por Hiroshi Tsunoda Design Studio / DesignCode, un pequeño estudio y editora de diseño de Barcelona. Después, por la oficina madrileña de PERA Group, una empresa de innovación tecnológica. Ahora trabaja en [Designit](https://designit.com/), consultora de diseño estratégico donde lleva ya cerca de cinco años. En Designit lidera y participa en proyectos de diseño de servicios e innovación en modelos de negocio: desde la creación de nuevas experiencias para el _retail_ hasta el diseño de nuevos servicios en el mundo del dinero. Siempre desde el diseño centrado en las personas.
-job.gl: 'Deseñador traballando como strategist en Designit Madrid'
-job.es: 'Diseñador trabajando como strategist en Designit Madrid'
+job.gl: "Deseñador traballando como strategist en Designit Madrid"
+job.es: "Diseñador trabajando como strategist en Designit Madrid"

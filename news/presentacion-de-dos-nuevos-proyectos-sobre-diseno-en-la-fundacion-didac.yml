@@ -1,14 +1,12 @@
 id: 1181
-title: 'Presentación de dos nuevos proyectos sobre diseño en la Fundación DIDAC'
+title: "Presentación de dos nuevos proyectos sobre diseño en la Fundación DIDAC"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-expo-didac.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Fruto del convenio de colaboración entre la Axencia Galega de Innovación y la [Fundación DIDAC](http://didac.gal/didac/es) en el marco del Programa de Diseño para la Innovación y la Sostenibilidad 2024 – Diferenza, se presentan estos dos nuevos proyectos que reflejan la importancia que tiene en la creación de riqueza cultural y económica la conjugación de la creatividad y de la industria, del diseño y de la innovación.
 
       Tanto la exposición como el diccionario buscan reconocer la labor de las personas y empresas que están contribuyendo al desarrollo económico y social en Galicia a través de la innovación y del diseño; y también poner en valor la potente simbiosis entre diseño e innovación como palanca de competitividad y crecimiento, acompañando el presente con ejemplos y casos de éxito del pasado como contexto histórico.
@@ -17,7 +15,7 @@ body:
 
       Estas acciones se sitúan en línea con otras iniciativas del Programa de Diseño para la Innovación y Sostenibilidad 2024 – Diferenza, como el mapa de proveedores, el Premio Galicia de Innovación y Diseño y el Encuentro de Diseño para la Innovación Empresarial en Galicia realizado en el CIS Tecnoloxía e Deseño de Ferrol desde el año 2018.
     type: text
-intro: 'El pasado 4 de noviembre se presentaron en la Fundación DIDAC​ ​dos nuevos proyectos relacionados con el diseño: la exposición «Formas propias. Diseño para la Innovación» y la publicación _Diccionario del diseño y de la innovación en Galicia._'
+intro: "El pasado 4 de noviembre se presentaron en la Fundación DIDAC​ ​dos nuevos proyectos relacionados con el diseño: la exposición «Formas propias. Diseño para la Innovación» y la publicación _Diccionario del diseño y de la innovación en Galicia._"
 slug: presentacion-de-dos-nuevos-proyectos-sobre-diseno-en-la-fundacion-didac
 tags: []
 lang: es

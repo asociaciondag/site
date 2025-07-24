@@ -1,14 +1,12 @@
 id: 865
-title: 'La formación será la protagonista en las VI Jornadas de la Cocina Gráfica'
+title: "La formación será la protagonista en las VI Jornadas de la Cocina Gráfica"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/vi-cocinha-grafica.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       # Programa completo
 
       ## Lunes, 11 de febrero de 2019
@@ -68,17 +66,16 @@ body:
       - Impresión 3D filamento y resina con Rysia
       - Sublimación con Roland DG
       - Textiles y materiales para rotulación e impresión digital con Plásticos Carrera
-       
+
       Aunque los talleres y workshops son gratuitos, es necesario inscribirse porque tienen plazas limitadas.
 
       Información en <aagg@afundacion.org>, en el teléfono 986 414 311 o en la página de la Cociña Gráfica:
     type: text
-  -
-    list: ''
-    url: 'https://lacocinagrafica.afundacion.org/gl/'
-    text: 'La Cociña Gráfica'
+  - list: ""
+    url: "https://lacocinagrafica.afundacion.org/gl/"
+    text: "La Cociña Gráfica"
     type: button
-intro: 'En esta sexta edición, que se desarrollará entre el 11 y el 14 de febrero en Vigo, el programa de la Cociña Gráfica incluye varios talleres prácticos orientados a la adquisición de conocimientos en nuevas tecnologías y materiales y una jornada de puertas abiertas.'
+intro: "En esta sexta edición, que se desarrollará entre el 11 y el 14 de febrero en Vigo, el programa de la Cociña Gráfica incluye varios talleres prácticos orientados a la adquisición de conocimientos en nuevas tecnologías y materiales y una jornada de puertas abiertas."
 slug: la-formacion-sera-la-protagonista-en-las-vi-jornadas-de-la-cocina-grafica
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 1043
-title: 'Abierta la convocatoria para la 51ª edición de los Premios Laus hasta el 1 de marzo '
+title: "Abierta la convocatoria para la 51ª edición de los Premios Laus hasta el 1 de marzo "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/adglaus21.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los proyectos presentados a los Laus se integran en 4 categorías principales: Diseño gráfico, Digital, Publicidad y Audiovisual. Existe además un apartado dedicado a Estudiantes, un premio honorífico y un premio especial Laus Aporta, que reconoce el valor añadido de los proyectos a nivel social y cultural. Este año, el importe recaudado con las inscripciones en esta última categoría será íntegramente donado al proyecto «La Creatividad al Principio», una iniciativa de Cruz Roja para transformar la realidad de niñas y niños en riesgo de exclusión.
 
       La inscripción de proyectos se realiza a través de la propia [página web de los premios](https://www.adg-fad.org/es/user) y todas las personas asociadas a la DAG, como asociación amiga, pueden beneficiarse de un descuento del 15%.
@@ -17,12 +15,11 @@ body:
 
       Los galardones serán comunicados durante a ceremonia de entrega de premios, en junio. Todos los proyectos premiados serán incluidos en el Magabook ADG Laus de 2021 y recibirán un trofeo, diseñado por el estudio [Oiko Design Office](https://www.oikodesignoffice.com/laus).
     type: text
-  -
-    list: ''
-    url: 'https://www.adg-fad.org/es/laus/bases-y-categorias'
-    text: 'Bases de los Premios Laus'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/bases-y-categorias"
+    text: "Bases de los Premios Laus"
     type: button
-intro: 'Un año más los Premios Laus, organizados por [ADG-FAD](https://www.adg-fad.org/es), abren la convocatoria para la presentación de proyectos de diseño. Las candidaturas presentadas serán juzgadas por un jurado profesional, que seleccionará las obras ganadoras.'
+intro: "Un año más los Premios Laus, organizados por [ADG-FAD](https://www.adg-fad.org/es), abren la convocatoria para la presentación de proyectos de diseño. Las candidaturas presentadas serán juzgadas por un jurado profesional, que seleccionará las obras ganadoras."
 slug: convocatoria-51-edicion-premios-laus-es
 tags: []
 lang: es

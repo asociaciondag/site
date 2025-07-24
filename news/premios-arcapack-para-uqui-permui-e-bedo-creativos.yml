@@ -1,29 +1,26 @@
 id: 1308
-title: 'Premios Arcapack para Uqui Permui e BeDo Creativos'
+title: "Premios Arcapack para Uqui Permui e BeDo Creativos"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/premios-arckapack.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Dentro da categoría de mellor _packaging_ de bebidas, deseño de botella e/ou de etiqueta atopamos os tres proxectos de[ BeDo Creativos](https://wearebedo.com/): La Pócima elaborado para destilerías Miño, o Vermut Diovio e os licores Abadía do Crego, ambos creados para a destilería Xestal. No caso de Diovio, o traballo partiu de cero, creando o nome, o concepto de marca e o _packaging_.
 
       Por outra banda, o _packaging_ de Sementares, proxecto deseñado por [Uqui Permui](https://uqui.net/index.php/gl/proxectos/sementares) para a produtora Sementares, levou o premio dentro da categoría de mellor _packaging_ «ecofriendly», que ten en conta a redución de materiais, que sexa reciclable, de produción sostible e que respecte ao medio ambiente. Recordamos que este proxecto foi Premio Nort 2024, levou tamén un Ouro nos Premios Latampack e unha Selección nos Premios Clap 2023.
 
       Os premios Arcapack recoñecen e difunden a excelencia do deseño e as solucións dos mellores envases e embalaxes deseñados ou fabricados, total ou parcialmente, en España e Portugal, durante os anos 2023 e 2024.
     type: text
-  -
-    list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-arca/ganadores.html'
-    text: 'Web dos premios '
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-arca/ganadores.html"
+    text: "Web dos premios "
     type: button
-intro: 'A sexta edición dos Premios Arcapack España acaban de comunicar os gañadores deste ano 2024. Entre as Seleccións Especiais atopamos tres traballos do compañeiro Pablo Álvarez, de BeDo, e un de Uqui Permui. Parabéns!'
+intro: "A sexta edición dos Premios Arcapack España acaban de comunicar os gañadores deste ano 2024. Entre as Seleccións Especiais atopamos tres traballos do compañeiro Pablo Álvarez, de BeDo, e un de Uqui Permui. Parabéns!"
 slug: premios-arcapack-para-uqui-permui-e-bedo-creativos
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2024-05-28T09:01:47+00:00

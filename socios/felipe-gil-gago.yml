@@ -1,31 +1,29 @@
 id: 20
 contact: |-
-  **Rådar Estudio**  
-   Castelar, 3, 5º  
+  **Rådar Estudio**
+   Castelar, 3, 5º
    36201 Vigo
 
   T. 637 062 613
 
   <felipe@radarestudio.com>
 links:
-  -
-    text: 'Rådar estudio'
-    url: 'http://www.radarestudio.com/'
+  - text: "Rådar estudio"
+    url: "http://www.radarestudio.com/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/pub/felipe-gil-gago/62/725/210'
+  - text: Linkedin
+    url: "https://www.linkedin.com/pub/felipe-gil-gago/62/725/210"
     type: linkedin
-name: 'Felipe Gil Gago'
+name: "Felipe Gil Gago"
 slug: felipe-gil-gago
 avatarBig: null
 avatar: /img/avatars/554cff513de9c-felipe-gil-gago.jpg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Web
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

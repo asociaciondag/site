@@ -1,49 +1,38 @@
 id: 260
-title: 'Cartel para El acorazado Potemkin'
+title: "Cartel para El acorazado Potemkin"
 slug: cartel-para-el-acorazado-potemkin
 body:
-  -
-    text: 'Swiss Style Design es un proyecto sin ánimo de lucro con un objetivo claro: conformar un escaparate del diseño suízo a través de carteles de películas. Mi propuesta para tal convocatoria fue este cartel de _El acorazado Potemkin._ A raíz de este trabajo han ido saliendo otras propuestas que conforman un proyecto personal propio.'
+  - text: "Swiss Style Design es un proyecto sin ánimo de lucro con un objetivo claro: conformar un escaparate del diseño suízo a través de carteles de películas. Mi propuesta para tal convocatoria fue este cartel de _El acorazado Potemkin._ A raíz de este trabajo han ido saliendo otras propuestas que conforman un proyecto personal propio."
     type: text
-  -
-    image: /img/portfolio/images/2.jpg
-    text: 'Diseño del cartel de la película _El acorazado Potemkin_'
+  - image: /img/portfolio/images/2.jpg
+    text: "Diseño del cartel de la película _El acorazado Potemkin_"
     type: image
-  -
-    image: /img/portfolio/images/1.jpg
-    text: 'Diseño del cartel de la película _El bueno, el feo y el malo_'
+  - image: /img/portfolio/images/1.jpg
+    text: "Diseño del cartel de la película _El bueno, el feo y el malo_"
     type: image
-  -
-    image: /img/portfolio/images/3.jpg
-    text: 'Diseño del cartel de la película _El resplandor_'
+  - image: /img/portfolio/images/3.jpg
+    text: "Diseño del cartel de la película _El resplandor_"
     type: image
-  -
-    image: /img/portfolio/images/4.jpg
-    text: 'Diseño de cartel de la película _La ventana indiscreta_'
+  - image: /img/portfolio/images/4.jpg
+    text: "Diseño de cartel de la película _La ventana indiscreta_"
     type: image
-  -
-    image: /img/portfolio/images/6.jpg
-    text: 'Diseño del cartel de la película _Memento_'
+  - image: /img/portfolio/images/6.jpg
+    text: "Diseño del cartel de la película _Memento_"
     type: image
-  -
-    image: /img/portfolio/images/8.jpg
-    text: 'Diseño del cartel de la película _Psicosis_'
+  - image: /img/portfolio/images/8.jpg
+    text: "Diseño del cartel de la película _Psicosis_"
     type: image
-  -
-    image: /img/portfolio/images/9.jpg
-    text: 'Diseño del cartel de la película _Stoker_'
+  - image: /img/portfolio/images/9.jpg
+    text: "Diseño del cartel de la película _Stoker_"
     type: image
-  -
-    image: /img/portfolio/images/10.jpg
-    text: 'Diseño del cartel de la película _Tiburón_'
+  - image: /img/portfolio/images/10.jpg
+    text: "Diseño del cartel de la película _Tiburón_"
     type: image
-  -
-    image: /img/portfolio/images/5.jpg
-    text: 'Diseño del cartel para la película _Los pájaros_'
+  - image: /img/portfolio/images/5.jpg
+    text: "Diseño del cartel para la película _Los pájaros_"
     type: image
-  -
-    image: /img/portfolio/images/7.jpg
-    text: 'Diseño del cartel para la película _Mi tío_'
+  - image: /img/portfolio/images/7.jpg
+    text: "Diseño del cartel para la película _Mi tío_"
     type: image
 cover: /img/portfolio/covers/5603c7ffeba8c-el-acorazado-potemkin.jpg
 tags: []
@@ -51,10 +40,8 @@ members_id:
   - 40
 lang: es
 info:
-  -
-    name: Cliente
-    value: 'Swiss Style Design'
-  -
-    name: Año
-    value: '2014'
+  - name: Cliente
+    value: "Swiss Style Design"
+  - name: Año
+    value: "2014"
 draft: false

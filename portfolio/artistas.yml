@@ -2,24 +2,19 @@ id: 27
 title: Artistas
 slug: artistas
 body:
-  -
-    text: 'Packaging onde se recollen as obras do 1º Proxecto de visibilización das obras artísticas das alumnas de Facultade de Belas Artes da Universidade de Vigo. Políptico con información e imaxes da exposición na universidade, láminas das obras en formato postal e estoxo reciclando as lonas da exposición.'
+  - text: "Packaging onde se recollen as obras do 1º Proxecto de visibilización das obras artísticas das alumnas de Facultade de Belas Artes da Universidade de Vigo. Políptico con información e imaxes da exposición na universidade, láminas das obras en formato postal e estoxo reciclando as lonas da exposición."
     type: text
-  -
-    image: /img/portfolio/images/555ce0b8d10de-artistas-1.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce0b8d10de-artistas-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555ce0b8d16a3-artistas-2.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce0b8d16a3-artistas-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555ce0b8d1b01-artistas-3.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce0b8d1b01-artistas-3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555ce0b8d202a-artistas-4.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce0b8d202a-artistas-4.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585604043526-555ce0b8d202a-artistas-4.jpg
 tags:
@@ -30,16 +25,12 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'Era comunicación'
-  -
-    name: Proxecto
-    value: 'ARTISTAS. 1º Proxecto de visibilización das obras artísticas das alumnas de Facultade de Belas Artes da Universidade de Vigo.'
-  -
-    name: Cliente
-    value: 'Universidade de Vigo. Unidade de Igualdade'
-  -
-    name: Ano
-    value: '2012'
+  - name: Estudio
+    value: "Era comunicación"
+  - name: Proxecto
+    value: "ARTISTAS. 1º Proxecto de visibilización das obras artísticas das alumnas de Facultade de Belas Artes da Universidade de Vigo."
+  - name: Cliente
+    value: "Universidade de Vigo. Unidade de Igualdade"
+  - name: Ano
+    value: "2012"
 draft: true

@@ -1,8 +1,7 @@
 id: 38
-title: 'Grande éxito do Pecha Kucha en Pontevedra'
+title: "Grande éxito do Pecha Kucha en Pontevedra"
 body:
-  -
-    text: |-
+  - text: |-
       Dende DAG queremos agradecer a toda a xente que fixo posible este primeiro evento PKN de Galicia; especialmente a colaboración dos catorce participantes, ós presentadores e dilleis, á sala Karma e a todos os asistentes. Sospeitábamos da cantidade e da calidade dos creativos galegos, tentámolo e saíu ben.
 
       O próximo evento terá lugar antes de final de ano, por este motivo gustaríanos contar con novos participantes que poden remitirnos xa unha selección de 5 imaxes e unha breve descrición do seu proxecto.
@@ -11,27 +10,23 @@ body:
 
       pechakucha@martinovillaverde.com
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9743d9b-6011-1024998764636-1815278526-51858-5484131-n.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9743d9b-6051-101997094189-549489189-1932063-7681374-n.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9743d9b-6051-101997074189-549489189-1932059-7219740-n.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9743d9b-6011-1025003124745-1815278526-51887-3577196-n.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'A PECHA KUCHA NIGHT organizada pola DAG reúne en Pontevedra a media ducia de creativos de ámbitos tan diversos como o deseño, a cociña, a literatura ou a arquitectura.'
+intro: "A PECHA KUCHA NIGHT organizada pola DAG reúne en Pontevedra a media ducia de creativos de ámbitos tan diversos como o deseño, a cociña, a literatura ou a arquitectura."
 slug: grande-exito-do-pecha-kucha-en-pontevedra
 tags: []
 lang: gl

@@ -2,22 +2,20 @@ id: 15
 title: Asóciate
 slug: asociate
 body:
-  -
-    text: |-
+  - text: |-
       Para participares nas actividades que realiza a DAG, só tes que asociarte.
 
       Envíanos un correo electrónico a [info@dag.gal](mailto:info@dag.gal?subject=Quero%20ser%20socio%20da%20DAG) ou por correo postal ao seguinte enderezo:
 
-      **DAG Asociación Galega de Deseño**   
-       CS A Trisca, Corredoira das Fraguas 92  
+      **DAG Asociación Galega de Deseño**
+       CS A Trisca, Corredoira das Fraguas 92
        15703 Santiago de Compostela
 
       A Xunta Directiva valorará todas as solicitudes de admisión antes de darlles o visto e prace.
 
       Podes obter máis información escribíndonos a <info@dag.gal>
     type: text
-  -
-    form: new-member
+  - form: new-member
     type: form
 menu: true
 footer: false

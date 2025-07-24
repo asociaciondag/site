@@ -1,14 +1,12 @@
 id: 1269
-title: 'Bisiona, las Jornadas de Arte y Diseño organizadas por la EASD Pablo Picasso'
+title: "Bisiona, las Jornadas de Arte y Diseño organizadas por la EASD Pablo Picasso"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/af-bisiona-viixad.jpg
-    text: 'Imagen gráfica de Mariana Ramírez, alumna de la EASD Pablo Picasso'
+    text: "Imagen gráfica de Mariana Ramírez, alumna de la EASD Pablo Picasso"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Las jornadas buscan acercar el alumnado a la realidad profesional de las diferentes especialidades formativas que se imparten en la escuela. Este año además, el Aula de Saxofón del Conseratorio Superior de Música realizará una serie de intervenciones en los descansos entre las charlas.
 
       **Programa de las VII Jornadas:**
@@ -19,26 +17,25 @@ body:
       - 12.30 h: Andrea Fernández: restauradora que centrará su charla en las técnicas pictóricas y de dorado para la restauración de los bienes culturales.
       - 16.00 h: Fran Remiseiro: escultor que hablará de las formas previas al posmodernismo a través de la charla «A spolia e o contemporáneo».
       - 18.00 h: Anxo García: marionetista que hará un recorrido por el mundo de las marionetas, la tradición y el folclore.
-       
+
       Jueves 25:
 
       - 10.00 h: Martí Andinach: fotógrafo que hablará sobre la técnica del colodion e impartirá un taller en la jornada de tarde para el alumnado de fotografía.
       - 12.00 h: [Novagarda](https://novagarda.gal/): estudio de diseño gráfico formado por Iago Barreiro y Alberto Carballido, socios de DAG, que a través de la charla «Mapa de contexto» hablarán de las líneas que definen su trabajo y los ámbitos en los que se mueven.
       - Entrega de los Premios EDLG.
-       
+
       Viernes 26
 
       - 10.00 h: Juan Tejedor de Tejedor y Otero Arquitectos: estudio de arquitectura que presentará la charla «Arquitectura de interiores en espacios comerciales» junto con dos ex-alumnos de la esuela que actualmente trabajan con ellos, Andrea Permuy y Óscar Freire.
       - 12.00 h: Manchea: imprenta de tipos móviles que impartirá tambén un taller el jueves por la tarde para el alumnado de diseño gráfico y de ilustración de la escuela.
-       
+
       Las jornadas son abiertas al público hasta completar el aforo del Salón de Actos de la escuela, situada en Rúa Pelamios 2 (A Coruña), pero tendrá preferencia de asistencia el alumnado de la escuela.
     type: text
-  -
-    list: ''
-    url: 'https://eapicasso.com/bisiona-vii-xornadas-de-arte-e-deseno/'
-    text: 'Más información'
+  - list: ""
+    url: "https://eapicasso.com/bisiona-vii-xornadas-de-arte-e-deseno/"
+    text: "Más información"
     type: button
-intro: 'La 7ª edición de las Jornadas de Arte y Diseño que organiza la EASD Pablo Picasso de A Coruña, tendrá lugar en la propia escuela los días 24, 25 y 26 de enero. Este año cuentan con la presencia de los compañeros de Novagarda.'
+intro: "La 7ª edición de las Jornadas de Arte y Diseño que organiza la EASD Pablo Picasso de A Coruña, tendrá lugar en la propia escuela los días 24, 25 y 26 de enero. Este año cuentan con la presencia de los compañeros de Novagarda."
 slug: bisiona-las-jornadas-de-arte-y-diseno-organizadas-por-la-easd-pablo-picasso
 tags: []
 lang: es

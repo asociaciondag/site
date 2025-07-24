@@ -1,29 +1,26 @@
 id: 1355
-title: 'La IX Edición de los premios Paraugas ya tienen finalistas'
+title: "La IX Edición de los premios Paraugas ya tienen finalistas"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/foto-finalistas-paraugas-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El Cluster da Comunicación, organizador de los Premios Paraugas, acaba de publicar la lista de proxyectos finalistas en cada una de las categorías. Estos premios son un reconocimiento público a las empresas, instituciones, organizacióones y profesionales que destacan por su buen hacer en el ámbito de la creatividad, del diseño, de la impresión, del _marketing_, de la comunicación y de los eventos en Galicia.​
 
       La gala de entrega se celebrará​ en Ferrol el próximo 22 de noviembre, concretamente en el Teatro Jofre. Allí estarán nuestros socios, [Ana Besada](https://www.slab.es/) y [León López](https://dag.gal/es/leonlopez/), con opcións de alzarse con el Premio al Mejor Diseño de Producto​​​. Los dos proyectos que presentaron respectivamente son: la mecedora Carlei, que actualiza y aligera un elemento tan sencillo como una mecedora, juega con la luz ambiental y permite versatilidad en el uso de los tejidos; y las mesas Trillizas, un conjunto de mesas auxiliares que funcionan de forma independiente y juntas se convierten en un objeto curioso con aspecto orgánico. ​​
 
       Ademá​s de los premios en las diferentes categorías, el Cluster establece tres premios especiales: Premio Paraugas de Oro, Premio Paraugas Nuevos Talentos y Premio Especial del Público para el que hay que hacer una votaci​ón previa.​
     type: text
-  -
-    list: ''
-    url: 'https://premios.clustercomunicacion.gal/'
-    text: 'Web de los premios'
+  - list: ""
+    url: "https://premios.clustercomunicacion.gal/"
+    text: "Web de los premios"
     type: button
-intro: 'Ya se conocen los proyectos finalistas de los IX Premios Paraugas donde tenemos que destacar la nominación ​de los socios Ana Besada y León López en la categoría de Diseño de Producto.'
+intro: "Ya se conocen los proyectos finalistas de los IX Premios Paraugas donde tenemos que destacar la nominación ​de los socios Ana Besada y León López en la categoría de Diseño de Producto."
 slug: la-ix-edicion-de-los-premios-paraugas-ya-tienen-finalistas
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2024-11-13T10:53:05+00:00

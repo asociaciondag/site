@@ -1,8 +1,7 @@
 id: 149
-title: 'Feet 2010'
+title: "Feet 2010"
 body:
-  -
-    text: |-
+  - text: |-
       Pepe Murciego e Diego Ortiz, coeditores de La Más Bella, serán os encargados de abrir o feet cun taller de edición e xestión de revistas de arte experimentais dirixido a profesionais (editores, deseñadores, artistas visuais, escritores); e a semana seguinte, será a quenda do deseñador catalán, Andreu Balius, co seu taller de tipografía.
 
       Seis días de intensa actividade, nos que haberá exposicións, presentacións de libros, debates... nos que se analizarán as últimas tendencias e proxectos emerxentes no ámbito editorial, nun foro que pretende ser un espazo para o intercambio de ideas e para a reflexión sobre o futuro da edición.
@@ -11,16 +10,15 @@ body:
 
       Máis información na páxina do [feet](http://feet.asociaciondag.org/).
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9a10928-feet-facebook.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'A DAG organiza o feet 2010, un foro de edición e tipografía que durante os días 2, 3, 4, 16, 17 e 18 de decembro traerá a profesionais da talla de La Más Bella e de Andreu Balius a Pontevedra.'
+intro: "A DAG organiza o feet 2010, un foro de edición e tipografía que durante os días 2, 3, 4, 16, 17 e 18 de decembro traerá a profesionais da talla de La Más Bella e de Andreu Balius a Pontevedra."
 slug: feet-2010-pontevedra
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2010-10-30T14:01:07+00:00

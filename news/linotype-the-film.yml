@@ -1,13 +1,12 @@
 id: 127
-title: 'Linotype: The film'
+title: "Linotype: The film"
 body:
-  -
-    text: |-
+  - text: |-
       De momento solo podemos ver o trailer da película.
 
       [www.linotypefilm.com](http://www.linotypefilm.com)
     type: text
-intro: 'Linotype, the film é un documental sobre a mítica máquina de composición de Ottmar Mergenthaler dirixido por Doug Wilson.'
+intro: "Linotype, the film é un documental sobre a mítica máquina de composición de Ottmar Mergenthaler dirixido por Doug Wilson."
 slug: linotype-the-film
 tags: []
 lang: gl

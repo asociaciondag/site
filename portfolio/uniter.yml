@@ -2,12 +2,10 @@ id: 387
 title: Uniter
 slug: uniter
 body:
-  -
-    text: ''
+  - text: ""
     type: text
-  -
-    image: /img/portfolio/images/20210805-6.jpg
-    text: ''
+  - image: /img/portfolio/images/20210805-6.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/20210805-6.jpg
 tags:

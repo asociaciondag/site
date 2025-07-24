@@ -1,14 +1,17 @@
 ---
-layout: ./base.njk
+layout: ./base.vto
 ---
 
 <div class="wrapper">
-  {% for year, projects in search.pages("type=project lang=" + lang) | groupby("year") %}
+  {{
+    for year, projects of search.pages("type=project lang=" + lang)
+    |> Object.groupBy(({ year }) => year)
+  }}
     <section class="ly-group">
       <h1>{{ year }}</h1>
 
       <div>
-        {% for project in projects %}
+        {{ for project in projects }}
           <article class="project project-list">
             <a href="{{ project.external_url }}">
               <figure class="project-image">
@@ -22,8 +25,8 @@ layout: ./base.njk
               </header>
             </a>
           </article>
-        {% endfor %}
+        {{ /for }}
       </div>
     </section>
-  {% endfor %}
+  {{ /for }}
 </div>

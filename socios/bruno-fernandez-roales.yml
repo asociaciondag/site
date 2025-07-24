@@ -1,24 +1,22 @@
 id: 129
-contact: '<bruno@wearebedo.com>'
+contact: "<bruno@wearebedo.com>"
 links:
-  -
-    text: Web
-    url: 'https://wearebedo.com/'
+  - text: Web
+    url: "https://wearebedo.com/"
     type: link
-  -
-    text: ''
-    url: ''
+  - text: ""
+    url: ""
     type: link
-name: 'Bruno Fernández Roales'
+name: "Bruno Fernández Roales"
 slug: bruno-fernandez-roales
 avatarBig: /img/avatars/bruno-fernandez.png
 avatar: /img/avatars/bruno-fernandez.png
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Embalaxe
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador en BeDo Creativos'
-job.es: 'Diseñador en BeDo Creativos'
+job.gl: "Deseñador en BeDo Creativos"
+job.es: "Diseñador en BeDo Creativos"

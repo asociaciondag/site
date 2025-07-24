@@ -1,16 +1,14 @@
 id: 818
-title: 'O que o deseño pode facer por ti'
+title: "O que o deseño pode facer por ti"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/festival-arco-atlantico-26-julio.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Conversando con elas estarán as deseñadoras da Asociación de Deseñadores Gráficos de Asturias (AGA) Maite Prida e Cristina Cipritia. A mesa, que estará moderada por Marcelino de la Fuente, é unha das actividades do Festival Arcu Atlánticu que decorre en Xixón do 24 ao 29 de xullo.'
+  - text: "Conversando con elas estarán as deseñadoras da Asociación de Deseñadores Gráficos de Asturias (AGA) Maite Prida e Cristina Cipritia. A mesa, que estará moderada por Marcelino de la Fuente, é unha das actividades do Festival Arcu Atlánticu que decorre en Xixón do 24 ao 29 de xullo."
     type: text
-intro: 'O que o deseño pode facer por ti é o título da mesa redonda de deseñadoras galegas e asturianas en que participan as socias da DAG Uqui Permui e María Ramos hoxe pola tarde.'
+intro: "O que o deseño pode facer por ti é o título da mesa redonda de deseñadoras galegas e asturianas en que participan as socias da DAG Uqui Permui e María Ramos hoxe pola tarde."
 slug: o-que-o-deseno-pode-facer-por-ti
 tags: []
 lang: gl

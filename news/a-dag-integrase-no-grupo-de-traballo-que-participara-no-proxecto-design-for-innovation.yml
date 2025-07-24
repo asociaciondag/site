@@ -1,24 +1,21 @@
 id: 748
-title: 'A DAG intégrase no grupo de traballo que participará no proxecto Design for Innovation'
+title: "A DAG intégrase no grupo de traballo que participará no proxecto Design for Innovation"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/design-for-innovation-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O [Design for Innovation](https://www.interregeurope.eu/design4innovation/) é un proxecto europeo no que están a traballar oito organismos de sete países e que está liderado pola PDR, Cardiff Metropolitan University. Por España participan a Axencia Galega de Innovación ([GAIN](http://gain.xunta.gal/)) a través do [CIS-Madeira](http://www.cismadeira.com/galego/inicial.html) e do [CIS-Galicia](http://www.cisgalicia.org/gallego/index.html) e o [BCD](http://www.bcd.es/es/page.asp?id=1), Barcelona Centre de Disseny. Todo o traballo que están a realizar conxuntamente busca desenvolveren plans de acción de deseño para melloraren a competitividade das PEME por medio dun uso máis estratéxico do deseño.
 
       Durante o desenvolvemento do Design for Innovation analizarán as mellores prácticas existentes no nivel europeo e avaliarán as oportunidades e necesidades específicas de Galicia. Con este obxectivo constituíuse un grupo de traballo de axentes chaves no país que se reúne mañá, día 21 de setembro, ás 11.00 por primeira vez na sede de Gain en Santiago de Compostela. A DAG estará representada por [Lois Guillán](https://dag.gal/gl/lois-guillan/).
     type: text
-  -
-    list: ''
-    url: 'https://www.interregeurope.eu/design4innovation/'
-    text: 'Web do Design for Innovation'
+  - list: ""
+    url: "https://www.interregeurope.eu/design4innovation/"
+    text: "Web do Design for Innovation"
     type: button
-intro: 'A DAG formará parte do grupo de traballo que impulsa [GAIN](http://gain.xunta.gal/), Axencia Galega de Innovación, a través dos Centros de Innovación e Servizos Tecnolóxicos da Madeira ([CIS-Madeira](http://www.cismadeira.com/galego/inicial.html)) e do Deseño e a Tecnoloxía ([CIS Galicia](http://www.cisgalicia.org/gallego/index.html)), e que participará no proxecto Design for Innovation financiado por Interreg Europe.'
+intro: "A DAG formará parte do grupo de traballo que impulsa [GAIN](http://gain.xunta.gal/), Axencia Galega de Innovación, a través dos Centros de Innovación e Servizos Tecnolóxicos da Madeira ([CIS-Madeira](http://www.cismadeira.com/galego/inicial.html)) e do Deseño e a Tecnoloxía ([CIS Galicia](http://www.cisgalicia.org/gallego/index.html)), e que participará no proxecto Design for Innovation financiado por Interreg Europe."
 slug: a-dag-integrase-no-grupo-de-traballo-que-participara-no-proxecto-design-for-innovation
 tags: []
 lang: gl

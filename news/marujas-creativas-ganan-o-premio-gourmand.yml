@@ -1,20 +1,17 @@
 id: 208
-title: 'Marujas Creativas gañan o Premio Gourmand'
+title: "Marujas Creativas gañan o Premio Gourmand"
 body:
-  -
-    text: 'A publicación, editada por Turismo de Santiago en colaboración con Baía Edicións e con fotografías de idNespereira, competirá agora cos gañadores de cada país na categoría de deseño de libro de cociña polo título Best in the world. Os premios [Gourmand World CookBook](http://www.cookbookfair.com/) foron creados en 1995 por Edouard Cointreau e cada anodistinguen as mellores publicacións sobre alimentos e viño do mundo.'
+  - text: "A publicación, editada por Turismo de Santiago en colaboración con Baía Edicións e con fotografías de idNespereira, competirá agora cos gañadores de cada país na categoría de deseño de libro de cociña polo título Best in the world. Os premios [Gourmand World CookBook](http://www.cookbookfair.com/) foron creados en 1995 por Edouard Cointreau e cada anodistinguen as mellores publicacións sobre alimentos e viño do mundo."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9c30bae-santiagoetapas-3.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9c30bae-santiagoetapas-2.jpg
-    text: ''
+    text: ""
     type: image
-intro: '**Marujas Creativas** gañan o Premio Gourmand ao mellor deseño dun libro de cociña en España con Santiago(é)tapas, un libro de receitas redactado en tres idiomas: galego, español e inglés, e que promociona Santiago e a súa gastronomía.'
+intro: "**Marujas Creativas** gañan o Premio Gourmand ao mellor deseño dun libro de cociña en España con Santiago(é)tapas, un libro de receitas redactado en tres idiomas: galego, español e inglés, e que promociona Santiago e a súa gastronomía."
 slug: marujas-creativas-ganan-o-premio-gourmand
 tags: []
 lang: gl

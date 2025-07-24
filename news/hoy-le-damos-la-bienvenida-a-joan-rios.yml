@@ -1,14 +1,12 @@
 id: 597
-title: 'Hoy le damos la bienvenida a Joan Ríos'
+title: "Hoy le damos la bienvenida a Joan Ríos"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/561cf06a0b9db-presentacion-recovered.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ¡Hola a todos!
 
       Me llamo Joan Ríos, soy diseñador gráfico nacido en Cádiz de rebote, pero gallego 100%.
@@ -21,15 +19,14 @@ body:
 
       Muchas gracias y un saludo
     type: text
-  -
-    list: ''
-    url: 'http://dag.gal/gl/joan-rios/'
-    text: 'Ficha de socio'
+  - list: ""
+    url: "http://dag.gal/gl/joan-rios/"
+    text: "Ficha de socio"
     type: button
-intro: 'Un nuevo socio que suma a la DAG para trabajar en favor del reconocimiento del diseño gallego.'
+intro: "Un nuevo socio que suma a la DAG para trabajar en favor del reconocimiento del diseño gallego."
 slug: hoy-le-damos-la-bienvenida-a-joan-rios
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2015-10-13T13:52:10+00:00

@@ -26,18 +26,18 @@
 .wrapper,
 .wrapper-normal,
 .wrapper-narrow {
- 	padding-left: 4vw;
- 	padding-right: 4vw;
- 	display: block;
- 	margin: 0 auto;
+  padding-left: 4vw;
+  padding-right: 4vw;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Contenedor comun cun tamaño máximo */
 .wrapper-normal {
-	max-width: 1200px;
+  max-width: 1200px;
 }
 
 /* Contenedor comun mini */
-.wrapper-narrow{
-	max-width: 740px;
+.wrapper-narrow {
+  max-width: 740px;
 }

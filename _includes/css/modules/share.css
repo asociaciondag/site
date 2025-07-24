@@ -18,56 +18,56 @@
  *
  */
 .share {
-	& a{
-		@extend %csans-button;
-		background: white;
-		border-radius: 2px;
-		padding: .5em;
+  & a {
+    @extend %csans-button;
+    background: white;
+    border-radius: 2px;
+    padding: 0.5em;
 
-		& svg {
-			display: inline-block;
-			vertical-align: middle;
-		}
+    & svg {
+      display: inline-block;
+      vertical-align: middle;
+    }
 
-		& span{
-			display: none;
-		}
+    & span {
+      display: none;
+    }
 
-		@media (--mobile-landscape) {
-			padding: .5em 1em .4em 1em;
+    @media (--mobile-landscape) {
+      padding: 0.5em 1em 0.4em 1em;
 
-			& span{
-				display: inline;
-				padding-left: .3em;
-			}
-		}
-		&.share-twitter,
-		&.share-facebook,
-		&.share-gplus{
-			&:hover{
-				color: white;
-			}
-		}
-		&.share-twitter{
-			border-color: #55ACEE;
-			color: #55ACEE;
-			&:hover{
-				background-color: #55ACEE;
-			}
-		}
-		&.share-facebook{
-			border-color: #3B5998;
-			color: #3B5998;
-			&:hover{
-				background-color: #3B5998;
-			}
-		}
-		&.share-gplus{
-			border-color: #DC4A38;
-			color: #DC4A38;
-			&:hover{
-				background-color: #DC4A38;
-			}
-		}
-	}
+      & span {
+        display: inline;
+        padding-left: 0.3em;
+      }
+    }
+    &.share-twitter,
+    &.share-facebook,
+    &.share-gplus {
+      &:hover {
+        color: white;
+      }
+    }
+    &.share-twitter {
+      border-color: #55acee;
+      color: #55acee;
+      &:hover {
+        background-color: #55acee;
+      }
+    }
+    &.share-facebook {
+      border-color: #3b5998;
+      color: #3b5998;
+      &:hover {
+        background-color: #3b5998;
+      }
+    }
+    &.share-gplus {
+      border-color: #dc4a38;
+      color: #dc4a38;
+      &:hover {
+        background-color: #dc4a38;
+      }
+    }
+  }
 }

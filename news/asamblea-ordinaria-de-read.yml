@@ -1,19 +1,17 @@
 id: 881
-title: 'Asamblea Ordinaria de READ'
+title: "Asamblea Ordinaria de READ"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/asamblea-read2019-slide.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Termina el mes de marzo con la convocatoria de la Asamblea Ordinaria Anual de READ. DAG, como Asociación socia y parte de la directiva, participa de este encuentro junto con los delegados del resto de las Asociaciones que la conforman. La Asamblea tendrá lugar hoy 29 de marzo, en el IED Innovation LAB de Madrid. El orden del día marca la presentación de la memoria económica del 2018, los presupuestos para el 2019 y la Memoria de Actividades realizadas durante el 2018 y el primer trimestre del 2019. Cumpliendo con los estatutos, este año toca renovación de cargos en la Directiva y se presentará el Plan de Acción READ para los años 2019-2020. La jornada se completa con 2 sesiones de trabajo hoy pola tarde y mañana por la mañana. Puedes seguir todo lo que se publique en las redes a través de este hastag #AsambleaREAD.'
+  - text: "Termina el mes de marzo con la convocatoria de la Asamblea Ordinaria Anual de READ. DAG, como Asociación socia y parte de la directiva, participa de este encuentro junto con los delegados del resto de las Asociaciones que la conforman. La Asamblea tendrá lugar hoy 29 de marzo, en el IED Innovation LAB de Madrid. El orden del día marca la presentación de la memoria económica del 2018, los presupuestos para el 2019 y la Memoria de Actividades realizadas durante el 2018 y el primer trimestre del 2019. Cumpliendo con los estatutos, este año toca renovación de cargos en la Directiva y se presentará el Plan de Acción READ para los años 2019-2020. La jornada se completa con 2 sesiones de trabajo hoy pola tarde y mañana por la mañana. Puedes seguir todo lo que se publique en las redes a través de este hastag #AsambleaREAD."
     type: text
-intro: 'Hoy se celebra la Asamblea Ordinaria Anual de READ en Madrid donde este año toca cambio de directiva.'
+intro: "Hoy se celebra la Asamblea Ordinaria Anual de READ en Madrid donde este año toca cambio de directiva."
 slug: asamblea-ordinaria-de-read
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2019-03-29T12:26:02+00:00

@@ -1,26 +1,23 @@
 id: 1319
-title: 'Abierta la convocatoria para participar en la BID 2024'
+title: "Abierta la convocatoria para participar en la BID 2024"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/bid24-image.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La BID es una cita imprescindible de carácter internacional que aglutina y vertebra ​todas las áreas de interés del diseño, conectando países, empresas, profesionales, estudiantes, centros de estudios, proveedores… para crear redes y encuentros de valor para todas las personas participantes. La cita comienza el 8 de octubre de 2024, pero extiende sus actividades durante casi dos años. La semana inaugural será d​el 8 al 13 de octubre. Este año la exposición trabaja bajo el lema «Diseño expandido» y se centra en​​ explorar cómo el diseño está en constante evolución y se enriquece mediante su interacción con otras disciplinas, incorporando los avances y los retos que ofrecen las nuevas tecnologías.
 
       Como parte de Read, los socios y las socias de DAG tienen un 10% de descuento en la inscripción de cada proyecto que quieran presentar para la exposición BID24. Las personas interesadas pueden consultar las [bases de la convocatoria](https://bid-dimad.com/wp-content/uploads/Bases-Convocatoria-BID24.pdf) aquí mismo o a través de la propia página web de la Bienal.​​ La participación ofrece el acceso al Sello BID, marca de calidad y estándar de excelencia que conlleva una serie de oportunidades de visibilidad. Os animamos a aprovechar el momento y participar.
 
       La BID se desarrolla cada dos años en la Central de Diseño de Matadero Madri​d​ y es la cita máis importante del diseño contemporáneo iberoamericano. Esta iniciativa permite al público acercarse a la disciplina del diseño ya su entorno, además de ser un punto de encuentro y reflexión sobre la profesión y un espacio idóneo para establecer relaciones entre profesionales, con empresas del sector y el ámbito académico. Año tras año se consolida como un foro para generar ideas y compartirlas.
     type: text
-  -
-    list: ''
-    url: 'https://bid-dimad.com/'
-    text: 'Web de la BID24'
+  - list: ""
+    url: "https://bid-dimad.com/"
+    text: "Web de la BID24"
     type: button
-intro: 'Hasta el 16 de julio está abierta la convocatoria para que diseñadores y diseñadoras participen con sus piezas en la Bienal Iberoamericana de Diseño, BID 2024, organizada por Dimad. Los socios y socias de DAG tienen un descuento especial. ​​'
+intro: "Hasta el 16 de julio está abierta la convocatoria para que diseñadores y diseñadoras participen con sus piezas en la Bienal Iberoamericana de Diseño, BID 2024, organizada por Dimad. Los socios y socias de DAG tienen un descuento especial. ​​"
 slug: abierta-la-convocatoria-para-participar-en-la-bid-2024
 tags: []
 lang: es

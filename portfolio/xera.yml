@@ -2,13 +2,12 @@ id: 316
 title: Xera
 slug: xera
 body:
-  -
-    image: /img/portfolio/images/xera.gif
-    text: ''
+  - image: /img/portfolio/images/xera.gif
+    text: ""
     type: image
 cover: /img/portfolio/covers/xera.gif
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 6
 lang:

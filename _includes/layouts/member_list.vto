@@ -1,0 +1,62 @@
+---
+layout: ./base.vto
+css: [/css/members.css]
+---
+
+<div class="wrapper">
+  <nav class="buttons-tabs">
+    {{ set p = search.page("id=members lang=" + lang) }}
+    <a class="button is-selected" href="{{ p.url }}">{{ t.members.members }}</a>
+
+    {{ set p = search.page("id=portfolio lang=" + lang) }}
+    <a class="button" href="{{ p.url }}">{{ t.members.projects }}</a>
+  </nav>
+
+  <ul class="buttons-tags page-content-bar">
+    <li {{ if !tag }} class="is-selected"{{ /if }}>
+      {{ set p = search.page("id=members lang=" + lang) }}
+      <a href="{{ p.url }}">{{ t.members.all_tags }}</a>
+    </li>
+
+    {{ for p of search.pages("type=members_tag lang=" + lang, "tag=asc") }}
+      <li {{ if p.url == url }} class="is-selected"{{ /if }}>
+        <a href="{{ p.url }}">{{ p.tag }}</a>
+      </li>
+    {{ /for }}
+  </ul>
+
+  <div class="ly-1-2-3 members-grid">
+    {{ if tag }}
+      {{
+        set members = search.pages(
+          "type=member lang=" + lang + " '" + tag + "'",
+          "name=asc",
+        )
+      }}
+    {{ else }}
+      {{ set members = search.pages("type=member lang=" + lang, "name=asc") }}
+    {{ /if }}
+
+    {{ for member of members }}
+      <article class="member member-list">
+        <figure class="member-avatar">
+          <img
+            width="64"
+            height="64"
+            src="{{ member.avatar }}"
+            alt="Retrato de {{ member.name }}"
+          >
+        </figure>
+
+        <header class="member-header">
+          <h1>
+            <a href="{{ member.url }}">
+              {{ member.name }}
+            </a>
+          </h1>
+          <p>{{ member.job }}</p>
+        </header>
+      </article>
+    {{ /for }}
+  </div>
+</div>

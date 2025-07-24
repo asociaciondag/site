@@ -1,57 +1,47 @@
 id: 18
-title: 'O programa tipográfico do Laboratorio de Formas de Galicia'
-author: 'Marcos Dopico e Natalia Crecente'
+title: "O programa tipográfico do Laboratorio de Formas de Galicia"
+author: "Marcos Dopico e Natalia Crecente"
 body:
-  -
-    image: /img/articles/images/figura1.jpg
-    text: 'Figura 1. Logotipo do Laboratorio de Formas de Galicia, deseñado por Isaac Díaz Pardo en 1967. O símbolo é usado tamén como logotipo para a Editorial Ediciós do Castro e para o Museo Carlos Maside, ademais de como motivo gráfico en diferentes aplicacións.'
+  - image: /img/articles/images/figura1.jpg
+    text: "Figura 1. Logotipo do Laboratorio de Formas de Galicia, deseñado por Isaac Díaz Pardo en 1967. O símbolo é usado tamén como logotipo para a Editorial Ediciós do Castro e para o Museo Carlos Maside, ademais de como motivo gráfico en diferentes aplicacións."
     mode: right
     type: image
-  -
-    text: 'O Laboratorio de Formas de Galicia é unha sociedade instrumental creada en 1963 no exilio arxentino –trasladado posteriormente a Galicia en 1968– polos intelectuais galegos Luís Seoane e Isaac Díaz Pardo, co obxectivo de reconstruír e pór en valor a identidade cultural e a industria galega no contexto de crise da época da ditadura. Esta sociedade inclúe empresas e institucións de diversa natureza como a Cerámica de Sargadelos, Cerámicas do Castro, Ediciós do Castro, o Seminario de Estudos Galegos, o Instituto Galego de Información, o Laboratorio Xeolóxico de Laxe, e o Museo Carlos Maside. Este conglomerado de empresas foi quen de crear unha identidade visual propia e singular na que a influencia do patrimonio cultural gráfico e tipográfico adquiriu un protagonismo esencial \[Figura 1\].'
+  - text: 'O Laboratorio de Formas de Galicia é unha sociedade instrumental creada en 1963 no exilio arxentino –trasladado posteriormente a Galicia en 1968– polos intelectuais galegos Luís Seoane e Isaac Díaz Pardo, co obxectivo de reconstruír e pór en valor a identidade cultural e a industria galega no contexto de crise da época da ditadura. Esta sociedade inclúe empresas e institucións de diversa natureza como a Cerámica de Sargadelos, Cerámicas do Castro, Ediciós do Castro, o Seminario de Estudos Galegos, o Instituto Galego de Información, o Laboratorio Xeolóxico de Laxe, e o Museo Carlos Maside. Este conglomerado de empresas foi quen de crear unha identidade visual propia e singular na que a influencia do patrimonio cultural gráfico e tipográfico adquiriu un protagonismo esencial \[Figura 1\].'
     type: text
-  -
-    image: /img/articles/images/figura2.jpg
-    text: 'Figura 2. Formas gráficas características de Sargadelos. Páxina de Decorados do _Catálogo general de perfiles de formas hasta junio de 1976_. Cortesía da Colección Desescribir.'
+  - image: /img/articles/images/figura2.jpg
+    text: "Figura 2. Formas gráficas características de Sargadelos. Páxina de Decorados do _Catálogo general de perfiles de formas hasta junio de 1976_. Cortesía da Colección Desescribir."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## A gráfica do Laboratorio de Formas
 
       Se ben os produtos de deseño do Laboratorio de Formas máis recoñecidos dun xeito popular están asociados coas pezas cerámicas de Sargadelos, este conglomerado de empresas desenvolveu diversas actividades producindo outros produtos como o deseño de libros, cartaces, mobiliario para as instalacións do complexo industrial, _merchandising_, embalaxe e proxectos de deseño de identidade corporativa e sinalización, tanto a nivel interno como para clientes externos nos que aplicaba a súa particular gráfica \[Figura 2\]. Desde o punto de vista gráfico, o Laboratorio de Formas desenvolveu todo un programa de identidade no cal os seus produtos resultaban recoñecibles grazas á reinterpretación e ao estudo das formas existentes na historia e tradición galegas proxectándoas cara ao futuro como propostas innovadoras \[Figura 3\]. O seu sistema gráfico e tipográfico aplicado á sinalética, imagotipos, embalaxes, decoración de pezas cerámicas, deseño editorial, pezas de comunicación… foi desenvolvido en todas as empresas da sociedade. Constitúen un exemplo de programa gráfico que non seguiu as pautas metodolóxicas asociadas ao proxecto moderno –que se estaba a desenvolver nese momento en Europa e que se expandía polo mundo– anhelando unha conxunción imposible entre a modernidade e a singularidade do propio. O traballo gráfico tampouco se asociou ao mundo da impresión mecánica e as imprentas, senón que se desenvolveu nunha contorna local, vinculado a ámbitos próximos ao mundo da arte, a manufactura artesá, a cantería ou a ilustración e executado por artistas e artesáns. Cecais por ese «modo de facer» tan característico do _hand-made_ que impregnaba todo o Laboratorio de Formas, a intuición e a visión persoal de cada artista-deseñador gañoulle a partida á estandarización.
     type: text
-  -
-    image: /img/articles/images/figura3.jpg
-    text: 'Figura 3. Motivos decorativos das vaixelas de Sargadelos: Portomarínica, Bonaválica, Monférica e Italica. _Catálogo general de perfiles de formas hasta junio de 1976_. Cortesía da Colección Desescribir.'
+  - image: /img/articles/images/figura3.jpg
+    text: "Figura 3. Motivos decorativos das vaixelas de Sargadelos: Portomarínica, Bonaválica, Monférica e Italica. _Catálogo general de perfiles de formas hasta junio de 1976_. Cortesía da Colección Desescribir."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Os fundamentos do Laboratorio de Formas propoñían recoller da historia as súas formas características co obxectivo de crear un sistema de expresión propio. Para iso recorreríase a fontes diversas; tallas de cantería, inscricións dos pórticos das igrexas e cruceiros, petróglifos, tallas nas ferramentas dos oficios, esculturas de pan de San Andrés de Teixido, cerámica de Buño, encaixes de Camariñas… en definitiva a todos aqueles elementos patrimoniais que representaban a cultura galega. Os principios da modernidade, cun ollo posto na Bauhaus e a Escola de Ulm e outro na singularidade do contexto xeográfico e cultural evitando toda estandarización, evolucionaron aquí para «enriquecer o mundo coa nosa diferenza», ideario aplicado a todos os produtos saídos do Laboratorio de Formas.
 
       Unha análise especial merece o caso da tipografía corporativa personalizada como parte esencial do programa gráfico de identidade corporativa do Laboratorio de Formas. Estes deseños tipográficos afunden as súas raíces na denominada «tipografía galega», un deseño tipográfico esencial de orixe medieval con multitude de derivacións vinculado ao gremio da cantería e os signos lapidarios \[Figura 4\]. Durante o século XX esta tipografía deu o salto ao ámbito do deseño gráfico en Galicia, e tal e como afirma o deseñador e historiador Pepe Barro, foi «canonizada» por artistas e intelectuais galegos vencellados ao nacionalismo como un vehículo de reivindicación identitaria cun forte compoñente político. Este modelo de creación tipográfica, desenvolvido á marxe da ortodoxia das imprentas e a impresión de libros, tamén o atopamos noutras rexións ou países con certas similitudes con Galicia na súa singularidade xeográfica, lingüística e nas súas tradicións dos oficios como o caso dos países escandinavos, en especial Dinamarca. Este modo de creación tipográfica ata fai pouco sempre foi colocado nun segundo plano, pasando desapercibido na «historia oficial» da tipografía xa que as súas aplicacións rara vez transcendían os seus ámbitos locais. Con todo, funcionou como un potente xerador de identidades locais, reivindicando ideas políticas e demandas culturais, e está sendo na actualidade un campo de traballo e investigación no ámbito do deseño de identidades territoriais propoñendo novas vías ao dominio case absoluto do símbolo doutras décadas. O traballo tipográfico do Laboratorio de Formas é o resultado dunha evolución deste modelo, adiantándose á súa época e desenvolto a través da creación dunha serie de familias personalizadas que lograron configurar unha identidade claramente diferenciada e recoñecible.
     type: text
-  -
-    image: /img/articles/images/figura4.jpg
-    text: 'Figura 4. Marca de canteiros do Castelo de Pambre (Lugo, século XIV).'
+  - image: /img/articles/images/figura4.jpg
+    text: "Figura 4. Marca de canteiros do Castelo de Pambre (Lugo, século XIV)."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## A letra galega
 
       Tal e como afirmamos, a tipografía creada no Laboratorio de Formas é a evolución dunha idea que afunde as súas raíces no nacionalismo galego. As marcas de canteiros e signos lapidarios que podemos atopar en Galicia presentan unha base de escritura recoñecible, definida polos distintos condicionantes que interveñen no seu sinal: a escritura ou tallado realizada pola man do artesán, a pedra como soporte sobre o que se trazan os signos gráficos, a ferramenta coa que se traza, o sinal do útil trazador do cincel que determina o seu ductus e forma, a súa modulación e o seu peso. Do estudo dos monumentos escritos, as chamadas inscricións, tal e como indica Tomás Marín Martínez na súa obra Paleografía y Diplomática [\[1\]](#n1), encárgase a epigrafía, ciencia directamente vencellada coa paleografía que determina a súa orixe, a súa evolución, os seus cambios e variantes e establece unha relación entre a escritura, o tempo e o lugar. Galicia posúe un patrimonio moi rico, sobre todo na Idade Media, época na que goza de maior esplendor co auxe económico e cultural que lle proporciona Santiago de Compostela, centro de peregrinación de Europa.
 
       Nesta época a letra visigótica [\[2\]](#n2), unha das chamadas escrituras nacionais pola historia da paleografía e considerada como a escritura nacional española, ten gran presenza na parte occidental da metade norte. En Galicia atopámonos cun gran número de referentes, o máis relevante o Pórtico da Gloria [\[3\]](#n3) de Santiago de Compostela \[Figura 5\], obra escultórica histórica situada no centro de peregrinaxe que sitúa a Galicia na cima da espiritualidade, da cultura e o poder nunha época onde consegue o seu maior esplendor. Trátase dunha inscrición que Vicente García Lobo denomina de notoriedade, é dicir, publicitaria, onde se da a coñecer a data de inicio da obra e, o máis relevante, o seu autor o Mestre Mateo, para moitos o grande artista do S. XII «que dirixiu a obra dende os seus cimentos [\[4\]](#n4)». En Galicia atópanse outros destacados exemplares epigráficos, como o Pórtico do Paraíso da Catedral de Ourense e infinidade de igrexas como a de Santa Columba de Rianxo (A Coruña), vila natal do intelectual galeguista Alfonso Daniel Rodríguez Castelao [\[5\]](#n5).
     type: text
-  -
-    image: /img/articles/images/figura5.jpg
-    text: 'Figura 5. Inscricións do Pórtico da Gloria, Santiago de Compostela.'
+  - image: /img/articles/images/figura5.jpg
+    text: "Figura 5. Inscricións do Pórtico da Gloria, Santiago de Compostela."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Atopamos aquí a figura clave da «canonización» da letra galega; Castelao. Con toda esta bagaxe histórica, artística e cultural, Castelao, xunto con outros intelectuais da súa época, rescatará e reinterpretará esas formas epigráficas que pouco a pouco, mediante un uso intencionado e consciente, foron representando o sentir galego e instaurarase en boa parte do imaxinario colectivo galego, dende as manifestacións máis populares do deseño gráfico en forma de rótulos de tabernas e bares, ata os produtos editoriais con implicacións políticas. Esta creación tipográfica temos que situala xunto con outras obras do intelectual de Rianxo, procurando as mesmas intencións políticas de reivindicación da identidade presentes nas súas obras e no seu pensamento e acción política.
 
       Son os xornais e as revistas de finais do século XIX e principios do XX os primeiros soportes en papel impreso destas peculiares formas tipográficas. Se nos retrotraemos cara a finais do século XIX atopamos o primeiro uso da tipografía galega impresa sobre papel na portada da revista Galicia Diplomática, revista de arquivos, bibliotecas, historia, arqueoloxía, heráldica, literatura, ciencias e artes (1882), propiedade de Bernardo Barreiro de Vázquez Varela, na que se atribúe a tipografía, con influencias modernistas nos seus trazos decorativos, a Manuel Miras y Álvarez. Esta publicación cobra especial relevancia ao coñecer que Bernardo Barreiro, arquiveiro de Santiago, militante do Partido Republicano, secretario do Comité Revolucionario de Santiago de Compostela e fundador do Centro Galego de Bos Aires, é considerado o precursor das investigacións sobre as cruces de pedra de Castelao. Esas investigacións foron recollidas e publicadas en 1950 en Bos Aires no libro _As cruces de pedra na Galiza_ [\[6\]](#n6) por Castelao, libro onde se declara debedor das súas investigacións previas e cuxa cabeceira ilustra coa tipografía característica.
@@ -60,34 +50,27 @@ body:
 
       > «Detrás do deseño do logotipo de _A Nosa Terra_ hai un artista comprometido co seu país, hai un intelectual que ademais de querer transmitir prestixio busca sinais de identidade [\[9\]](#n9)»
     type: text
-  -
-    image: /img/articles/images/figura6.jpg
-    text: 'Figura 6. Cabeceira da Revista A Nosa Terra, deseñada por Alfonso Daniel Rodríguez Castelao.'
+  - image: /img/articles/images/figura6.jpg
+    text: "Figura 6. Cabeceira da Revista A Nosa Terra, deseñada por Alfonso Daniel Rodríguez Castelao."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura7.jpg
-    text: 'Figura 7. Cabeceira da Revista Nós (1920-1936) deseñada por Alfonso Daniel Rodríguez Castelao.'
+  - image: /img/articles/images/figura7.jpg
+    text: "Figura 7. Cabeceira da Revista Nós (1920-1936) deseñada por Alfonso Daniel Rodríguez Castelao."
     mode: right
     type: image
-  -
-    text: 'A _Revista Nós Boletín mensual da cultura galega_ [\[10\]](#n10) \[Figura 7\] é a primeira revista escrita en galego e publicada entre 1920 e 1936 mediante a cal os seus promotores, o Grupo Nós (Risco, Castelao, Cuevillas, Losada, Otero Pedrayo, Noguerol, etc) levaron a cabo o seu obxectivo primordial: a defensa da cultura galega e o compromiso de definir a identidade dun pobo, afondando nas raíces profundas da súa historia e afondando na súa lingua e na súa cultura para replantexar os problemas galegos dende perspectivas racionais e cosmopolitas decididos a incorporar Galicia á modernidade. Castelao asume a dirección artística de Nós e na súa cabeceira utiliza a tipografía cunha intención clara de carácter identitario. Na cabeceira do xornal de ideoloxía galeguista _Galicia, Diario de Vigo_ [\[11\]](#n11), Castelao comeza un proceso de síntese da letra deixando atrás a decoración modernista froito do seu contacto coas Vangardas históricas [\[12\]](#n12). Son moitas as mostras gráficas nas que podemos atopar o uso desta tipografía por parte de Castelao e case todas vencelladas a institucións, publicacións ou accións relacionadas co nacionalismo. Así pois, atopamos o selo da Irmandade Nacionalista Galega á que pertenceu e que deseñou en 1922, e portadas de libros como a cuberta que garda o Museo de Pontevedra realizada en 1911. A tipografía galega aparece tamén no símbolo da Sociedade Filarmónica de Pontevedra de 1925, e no da Sociedade Coral Polifónica de Pontevedra de 1926, e no símbolo do Seminario de Estudos Galegos (1933) \[Figura 8\].'
+  - text: 'A _Revista Nós Boletín mensual da cultura galega_ [\[10\]](#n10) \[Figura 7\] é a primeira revista escrita en galego e publicada entre 1920 e 1936 mediante a cal os seus promotores, o Grupo Nós (Risco, Castelao, Cuevillas, Losada, Otero Pedrayo, Noguerol, etc) levaron a cabo o seu obxectivo primordial: a defensa da cultura galega e o compromiso de definir a identidade dun pobo, afondando nas raíces profundas da súa historia e afondando na súa lingua e na súa cultura para replantexar os problemas galegos dende perspectivas racionais e cosmopolitas decididos a incorporar Galicia á modernidade. Castelao asume a dirección artística de Nós e na súa cabeceira utiliza a tipografía cunha intención clara de carácter identitario. Na cabeceira do xornal de ideoloxía galeguista _Galicia, Diario de Vigo_ [\[11\]](#n11), Castelao comeza un proceso de síntese da letra deixando atrás a decoración modernista froito do seu contacto coas Vangardas históricas [\[12\]](#n12). Son moitas as mostras gráficas nas que podemos atopar o uso desta tipografía por parte de Castelao e case todas vencelladas a institucións, publicacións ou accións relacionadas co nacionalismo. Así pois, atopamos o selo da Irmandade Nacionalista Galega á que pertenceu e que deseñou en 1922, e portadas de libros como a cuberta que garda o Museo de Pontevedra realizada en 1911. A tipografía galega aparece tamén no símbolo da Sociedade Filarmónica de Pontevedra de 1925, e no da Sociedade Coral Polifónica de Pontevedra de 1926, e no símbolo do Seminario de Estudos Galegos (1933) \[Figura 8\].'
     type: text
-  -
-    image: /img/articles/images/figura8.jpg
-    text: 'Figura 8. Logotipo do Seminario de Estudos Galegos (1923-1936) deseñada por Alfonso Daniel Rodríguez Castelao.'
+  - image: /img/articles/images/figura8.jpg
+    text: "Figura 8. Logotipo do Seminario de Estudos Galegos (1923-1936) deseñada por Alfonso Daniel Rodríguez Castelao."
     mode: normal
     type: image
-  -
-    text: 'Despois destas primeiras incursións todo un círculo de intelectuais e artistas afíns ao nacionalismo galego asume estas formas tipográficas como vehículo de reivindicación identitaria que afunde as súas raíces nos elementos máis autóctonos. Coetáneos de Castelao tamén realizan variantes da tipografía. O pintor Carlos Sobrino emprégaa en 1926 no cartel turístico para a cidade de Santiago de Compostela e Camilo Díaz Baliño en varios carteis como é o caso do Cebrero de 1929, o cartel de festas de Santiago de Compostela de 1932 ou o programa da Coral de Ruada de 1931. Trátase xa de versións máis simplificadas, que deixan atrás o modernismo para configurar case unha tipografía lineal ou de pau seco. Posteriormente, tamén atopamos variantes desta tipografía na obra do pintor Urbano Lugrís; na bóveda do Restaurante Fornos da Coruña, o máis antigo da cidade (1951), nas súas oito pezas realizados en Malpica para a Casa do Pescador en 1956, e no anuncio da taberna Arrumbambaya, publicado en _Vida Galega_ en abril de 1959.'
+  - text: "Despois destas primeiras incursións todo un círculo de intelectuais e artistas afíns ao nacionalismo galego asume estas formas tipográficas como vehículo de reivindicación identitaria que afunde as súas raíces nos elementos máis autóctonos. Coetáneos de Castelao tamén realizan variantes da tipografía. O pintor Carlos Sobrino emprégaa en 1926 no cartel turístico para a cidade de Santiago de Compostela e Camilo Díaz Baliño en varios carteis como é o caso do Cebrero de 1929, o cartel de festas de Santiago de Compostela de 1932 ou o programa da Coral de Ruada de 1931. Trátase xa de versións máis simplificadas, que deixan atrás o modernismo para configurar case unha tipografía lineal ou de pau seco. Posteriormente, tamén atopamos variantes desta tipografía na obra do pintor Urbano Lugrís; na bóveda do Restaurante Fornos da Coruña, o máis antigo da cidade (1951), nas súas oito pezas realizados en Malpica para a Casa do Pescador en 1956, e no anuncio da taberna Arrumbambaya, publicado en _Vida Galega_ en abril de 1959."
     type: text
-  -
-    image: /img/articles/images/figura9.jpg
-    text: 'Figura 9. Símbolo e logotipo da 4º Etapa da Cerámica de Sargadelos (1949–actualidade). Isaac Díaz Pardo.'
+  - image: /img/articles/images/figura9.jpg
+    text: "Figura 9. Símbolo e logotipo da 4º Etapa da Cerámica de Sargadelos (1949–actualidade). Isaac Díaz Pardo."
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       Na segunda metade do século XX, a partires dos 60’, o modelo de tipografía galega antes descrito vive unha segunda etapa dentro do entorno do Laboratorio de Formas e da empresa Cerámica de Sargadelos \[Figura 9\], impulsada por Luís Seoane e Isaac Díaz Pardo, primeiro dende o exilio arxentino e máis tarde dende Galicia. Díaz Pardo inicia en 1948 a experiencia Cerámicas do Castro, onde se encarga do proxecto artístico, técnico, e industrial. As dificultades sufridas, as presións do réxime e a entrada do grupo alemán Rosenthal como empresa explotadora do caolín da comarca de Sargadelos, considerado dos mellores de Europa, fan que Isaac decida marcharse a Arxentina, onde podería reencontrarse con Luís Seoane e o seu grupo de amigos, que coñecera anteriormente co seu pai [\[13\]](#n13). Isaac fai unha primeira viaxe de observación en 1955 para estudar as posibilidades do proxecto industrial Celtia, Porcelanas de Magdalena que pon en marcha con Núñez Balboa en 1957, e na súa imaxe da empresa emprega a xa mencionada tipografía (como podemos ver na louza e no documento de acción de Celtia S.A. de 1960). Non se trataba só dunha mera empresa para producir e reproducir obxectos industriais, senón que buscaba un obxectivo máis amplo:
 
       > «Había que recoller para o seu estudo e divulgación obra e documentación do movemento renovador da arte galega a partir de Castelao, había que promocionar e divulgar o estudo da historia contemporánea de Galicia; había que recuperar a imaxe do que fora Sargadelos; había que mellorar a imaxe da información e da comunicación, e en, xeral, realizar e apoiar todo tipo de investigación que tivese a Galicia no seu horizonte [\[14\]](#n14)»
@@ -102,21 +85,17 @@ body:
 
       > «A idea fora promovida polos renovadores dos anos trinta a partir dos presupostos de Castelao, e agora haberían de retomala utilizándoa para o progreso [\[18\]](#n18)»
     type: text
-  -
-    image: /img/articles/images/figura10.jpg
-    text: 'Figura 10. Deseños e debuxos de Luís Seoane para libros da editorial Citania usando a tipografía Futura. _A fiestra valdeira_ de Rafael Dieste (1958) e _Pauto do Demo_ de Anxel Fole (1958).'
+  - image: /img/articles/images/figura10.jpg
+    text: "Figura 10. Deseños e debuxos de Luís Seoane para libros da editorial Citania usando a tipografía Futura. _A fiestra valdeira_ de Rafael Dieste (1958) e _Pauto do Demo_ de Anxel Fole (1958)."
     mode: normal
     type: image
-  -
-    text: 'Sen embargo, aínda que nos estamos a referir ao contexto do Laboratorio de Formas onde se desenvolveu esta tipografía, é importante distinguir aquí as diferentes visión que en materia de tipografía tiñan Seoane e Díaz Pardo. Se observamos os deseños de Seoane, especialmente carteis e capas de libros \[Figura 10\], non atopamos a letra galega nin ningunha das súas variantes, optando pola tipografía «estandarizada». Incluso no deseño do Manifesto do Laboratorio de Formas \[Figura 11\] óptase maioritariamente pola tipografía Futura, icona das Vangardas históricas e o mundo moderno, xunto con tipografías lineais grotescas. Pola contra, no traballo de tipógrafo de Díaz Pardo xa atopamos dende ben novo un interese polas formas da letra galega, evolucionando as súas propias versións influenciado sen dúbida polo traballo do seu pai Camilo Díaz Baliño que, tal e como indicamos, desenvolveu a súa propia visión da tipografía.'
+  - text: 'Sen embargo, aínda que nos estamos a referir ao contexto do Laboratorio de Formas onde se desenvolveu esta tipografía, é importante distinguir aquí as diferentes visión que en materia de tipografía tiñan Seoane e Díaz Pardo. Se observamos os deseños de Seoane, especialmente carteis e capas de libros \[Figura 10\], non atopamos a letra galega nin ningunha das súas variantes, optando pola tipografía «estandarizada». Incluso no deseño do Manifesto do Laboratorio de Formas \[Figura 11\] óptase maioritariamente pola tipografía Futura, icona das Vangardas históricas e o mundo moderno, xunto con tipografías lineais grotescas. Pola contra, no traballo de tipógrafo de Díaz Pardo xa atopamos dende ben novo un interese polas formas da letra galega, evolucionando as súas propias versións influenciado sen dúbida polo traballo do seu pai Camilo Díaz Baliño que, tal e como indicamos, desenvolveu a súa propia visión da tipografía.'
     type: text
-  -
-    image: /img/articles/images/figura11.jpg
-    text: 'Figura 11. Manifesto do Laboratorio de Formas usando as tipografías Futura e Venus Grotesk.'
+  - image: /img/articles/images/figura11.jpg
+    text: "Figura 11. Manifesto do Laboratorio de Formas usando as tipografías Futura e Venus Grotesk."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Poderiamos afirmar que estas dúas visións son o reflexo do acontecido no mundo entre dúas alternativas, a do Movemento Moderno e a da linguaxe vernácula. Esta tensión, que vai máis alá da linguaxe formal, tivo en moitos países debates en moitas ocasións contraditorios que deron lugar a propostas interesantes. Tal e como afirma David Harvey: «As tensións entre internacionalismo e nacionalismo, entre globalismo e un etnocentrismo local, entre universalismo e privilexios de clase, non estaban moi lonxe da superficie [\[19\]](#n19)». Neste senso, o Laboratorio de Formas tamén incorpora en certa forma postulados posmodernos, no sentido de incorporar sedimentos da historia e as culturas locais como xeito de reclamar un sentido de permanencia a un lugar e unha cultura. Máis alá dos debates amplos, a explicación tamén a podemos atopar no feito de que Seoane era unha persoa que en cuestións de deseño editorial tiña preferencias pola imprenta, e Díaz Pardo era máis un artista de taller e traballo manual.
 
       ## Características formais e conceptuais da tipografía no Laboratorio de Formas
@@ -127,142 +106,114 @@ body:
 
       Os tipos son creados para unha función específica, a miúdo únicos e personalizados e non están dispoñibles nos formatos de imprenta clásicos (chumbo e fotocomposición [\[20\]](#n20)). As familias tipográficas non están planificadas, e a miúdo o seu alfabeto está incompleto. Aínda que existen versións condensadas e estendidas dalgúns tipos, as familias limítanse a un só peso. Só posúen caracteres de caixa alta, aínda que ocasionalmente algúns caracteres deseñáronse en caixa baixa para ser usados puntualmente no medio de palabras compostas en caixa alta. Os seus creadores non están vencellados ao mundo gremial das imprentas, senón ao mundo da arte, o debuxo, a ilustración ou a artesanía sen unha formación ortodoxa en tipografía. É por iso que esta tipografía desenvólvese nun campo de tensión entre o deseño e a arte.
     type: text
-  -
-    image: /img/articles/images/figura12.jpg
-    text: 'Figura 12. Logotipo de Cerámicas do Castro de Isaac Díaz Pardo.'
+  - image: /img/articles/images/figura12.jpg
+    text: "Figura 12. Logotipo de Cerámicas do Castro de Isaac Díaz Pardo."
     mode: normal
     type: image
-  -
-    text: 'As referencias formais da tipografía do Laboratorio de Formas atopámolas nas formas da natureza, nos petróglifos e a epigrafía. Prevalecen tamén as formas con tendencia á xeometría modular da Vangarda histórica, con escasos axustes ópticos. Estas tipografías presentan polo xeral grandes contraformas e interseccións dos trazos amplas. Algúns dos seus terminais, como a diagonal do R presentan formas helicoidais, e outras como o T e o E posúen rastros da escritura medieval \[Figura 12\]. Alguns caracteres como o A de caixa alta presenta un trazo horizontal superior característico máis ou menos grande e un traveseiro en ángulo ou curvado. Estas características, xunto cunha xeometría suave, confírelle un certo carácter humanístico a pesar da súa modularidade. Outra característica recoñecible é o uso frecuente de ligaduras contextuais cunha dobre función \[Figura 13 e 14\]. Por unha banda, existe unha evidente intención expresiva en ligaduras que implican variacións formais moi acusadas, a miúdo reducindo o tamaño dalgúns caracteres e deformándose para «encaixalos» dentro dunha palabra nun _kerning_ extremo. Por outra banda, existe nestes axustes unha intención funcional que permite un aforro de espazo, en especial no uso de textos para sinalizacións, carteis ou logotipos que teñen un espazo limitado. Observamos nesta práctica unha estratexia para paliar a carencia de familias tipográficas planificadas con diferentes variantes que permitisen o uso de estilos condensados, negriñas, etc... Os propios métodos de reprodución, primeiro a través da talla en pedra e máis tarde a través do debuxo e o pincel, propiciaron unha improvisación.'
+  - text: 'As referencias formais da tipografía do Laboratorio de Formas atopámolas nas formas da natureza, nos petróglifos e a epigrafía. Prevalecen tamén as formas con tendencia á xeometría modular da Vangarda histórica, con escasos axustes ópticos. Estas tipografías presentan polo xeral grandes contraformas e interseccións dos trazos amplas. Algúns dos seus terminais, como a diagonal do R presentan formas helicoidais, e outras como o T e o E posúen rastros da escritura medieval \[Figura 12\]. Alguns caracteres como o A de caixa alta presenta un trazo horizontal superior característico máis ou menos grande e un traveseiro en ángulo ou curvado. Estas características, xunto cunha xeometría suave, confírelle un certo carácter humanístico a pesar da súa modularidade. Outra característica recoñecible é o uso frecuente de ligaduras contextuais cunha dobre función \[Figura 13 e 14\]. Por unha banda, existe unha evidente intención expresiva en ligaduras que implican variacións formais moi acusadas, a miúdo reducindo o tamaño dalgúns caracteres e deformándose para «encaixalos» dentro dunha palabra nun _kerning_ extremo. Por outra banda, existe nestes axustes unha intención funcional que permite un aforro de espazo, en especial no uso de textos para sinalizacións, carteis ou logotipos que teñen un espazo limitado. Observamos nesta práctica unha estratexia para paliar a carencia de familias tipográficas planificadas con diferentes variantes que permitisen o uso de estilos condensados, negriñas, etc... Os propios métodos de reprodución, primeiro a través da talla en pedra e máis tarde a través do debuxo e o pincel, propiciaron unha improvisación.'
     type: text
-  -
-    image: /img/articles/images/figura13.jpg
-    text: ''
+  - image: /img/articles/images/figura13.jpg
+    text: ""
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura14.jpg
-    text: 'Figura 13 e 14. Bocetos e debuxo de tipografías con alternativas contextuais e _kerning_ na tipografía do Laboratorio de Formas. Imaxes cortesía do Seminario de Sargadelos en Cervo (Lugo).'
+  - image: /img/articles/images/figura14.jpg
+    text: "Figura 13 e 14. Bocetos e debuxo de tipografías con alternativas contextuais e _kerning_ na tipografía do Laboratorio de Formas. Imaxes cortesía do Seminario de Sargadelos en Cervo (Lugo)."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Tipoloxías
 
       Estas singularidades formais repítense baixo un padrón básico recoñecible. A partir dos exemplos gráficos recompilados nesta investigación podemos realizar unha clasificación inicial básica das tipografías deseñadas no Laboratorio de Formas. Identificamos ata catro familias básicas cunhas características formais comúns diferenciadas, dentro dunha mesma liña de deseño común. Aínda que na actualidade existen versións dixitalizadas dalgunhas das tipografías –usadas na impresión sobre papel, embalaxes e gráfica publicitaria–, para esta análise consideraremos aquel material tipográfico reproducido de forma artesanal e recompilado a través de fotografías e material gráfico. Seguiremos unha clasificación baseada nunha nomenclatura que identifique de forma máis evidente as súas formas. Se intentamos definir tipoloxías a partir da clasificación tipográfica máis usada, a denominada Vox-Atypi, observamos como case ningunha das familias creadas no Laboratorio de Formas encaixa nunha única categoría, sendo necesario establecer categorías híbridas ou intermedias. Así podemos observar características das Lineais Xeométricas e Humanistas, Caligráficas Incisas e incluso das Modernas Didonas e Mecánicas. En base a estas características podemos definir catro familias básicas que denominaremos Estarcida, Lineal Xeométrica, Lineal Orgánica e Incisa.
     type: text
-  -
-    image: /img/articles/images/figura15.jpg
-    text: 'Figura 15. Familia tipográfica Estarcida (stencil). Versión dixitalizada co obxectivo de realizar unha análise formal e a súa clasificación. Creada a partir de debuxos e fotografías da tipografía aplicada en diferentes contextos.'
+  - image: /img/articles/images/figura15.jpg
+    text: "Figura 15. Familia tipográfica Estarcida (stencil). Versión dixitalizada co obxectivo de realizar unha análise formal e a súa clasificación. Creada a partir de debuxos e fotografías da tipografía aplicada en diferentes contextos."
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       ### Familia estarcida
 
       A familia tipográfica máis diferenciada que podemos identificar facilmente sería unha tipografía sen remate e estarcida (stencil) \[Figura 15\], usada preferentemente en sinalización, aínda que tamén foi usada –con diferentes variantes– noutras pezas gráficas como carteis ou cubertas de libros. Trátase dunha tipografía de caixa alta cun carácter moi xeométrico, con formas modulares que se repiten en letras análogas sen apenas correccións ópticas. Os seus trazos posúen un contraste elevado entre as horizontais e as verticais, similar ao das tipografías con remate Didonas, por iso resulta de difícil clasificación. A pesares do contraste dos seus trazos, as súas formas son duras e xeométricas, aínda que algúns caracteres posúen influencias da escritura medieval con trazos orgánicos como a letra G ou o T. O uso das formas estarcidas facilitou sen dúbida a súa transmisión e impresión a través de técnicas de aerografía e pintura mediante modelos de cartón e polímeros, tal e como podemos observar en diferentes impresións sobre pezas cerámicas e en elementos arquitectónicos das fábricas de Sargadelos. Con todo, en ocasións prescindiuse do formato estarcido para crear unha versión sen os característicos cortes nos casos no que a tipografía se pintaba e rotulaba con outras técnicas. \[Figuras 16 e 17\]
     type: text
-  -
-    image: /img/articles/images/figura16-baixa.jpg
-    text: 'Figura 16. Familia tipográfica Estarcida pintada con aerógrafo sobre placas cerámicas exteriores. Fábrica de Sargadelos (Sada – A Coruña).'
+  - image: /img/articles/images/figura16-baixa.jpg
+    text: "Figura 16. Familia tipográfica Estarcida pintada con aerógrafo sobre placas cerámicas exteriores. Fábrica de Sargadelos (Sada – A Coruña)."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura17-baixa.jpg
-    text: 'Figura 17. Familia tipográfica Estarcida recortada sobre placas metálicas como inscrición dunha fonte exterior na fábrica de Sargadelos (Sada – A Coruña).'
+  - image: /img/articles/images/figura17-baixa.jpg
+    text: "Figura 17. Familia tipográfica Estarcida recortada sobre placas metálicas como inscrición dunha fonte exterior na fábrica de Sargadelos (Sada – A Coruña)."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura18.jpg
-    text: 'Figura 18. Familia tipográfica Lineal Xeométrica. Versión dixitalizada co obxectivo de realizar unha análise formal e a súa clasificación. Creada a partir de debuxos e fotografías da tipografía aplicada en diferentes contextos.'
+  - image: /img/articles/images/figura18.jpg
+    text: "Figura 18. Familia tipográfica Lineal Xeométrica. Versión dixitalizada co obxectivo de realizar unha análise formal e a súa clasificación. Creada a partir de debuxos e fotografías da tipografía aplicada en diferentes contextos."
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       ### Familia Lineal Xeométrica
 
       Existe tamén unha familia que poderiamos denominar Lineal Xeométrica \[Figura 18\], un tipo máis vencellado ás tipografías da Vangarda Histórica como a Futura, a Kabel e os tipos radicais deseñados na Bauhaus. Combina formas xeométricas duras e neutras \[Figura 19\] con algún detalle orgánico e expresivo que a fan recoñecible baixo os padróns de deseño do Laboratorio de Formas. Carece de contraste nos seus trazos, por iso podería clasificarse como Lineal Xeométrica segundo a clasificación Vox-Atypi. Ademais da versión regular, posúen unha versión condensada, estendida e outra estarcida. É usada en determinadas embalaxes de produtos cerámicos, en sinalización de edificios do complexo de Sargadelos e o Museo Carlos Maside en Sada (A Coruña).
     type: text
-  -
-    image: /img/articles/images/figura19.jpg
-    text: 'Figura 19. Sinalización na fábrica de Sargadelos en Sada, A Coruña, composta coa tipografía Lineal Xeométrica en variacións condensada e regular.'
+  - image: /img/articles/images/figura19.jpg
+    text: "Figura 19. Sinalización na fábrica de Sargadelos en Sada, A Coruña, composta coa tipografía Lineal Xeométrica en variacións condensada e regular."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura20.jpg
-    text: 'Figura 20. Familia tipográfica Lineal Orgánica. Versión dixitalizada co obxectivo de realizar unha análise formal e a súa clasificación. Creada a partir de debuxos e fotografías da tipografía aplicada en diferentes contextos.'
+  - image: /img/articles/images/figura20.jpg
+    text: "Figura 20. Familia tipográfica Lineal Orgánica. Versión dixitalizada co obxectivo de realizar unha análise formal e a súa clasificación. Creada a partir de debuxos e fotografías da tipografía aplicada en diferentes contextos."
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       ### Familia Lineal Orgánica
 
       Os logotipos de Sargadelos, Cerámicas do Castro e do propio Laboratorio de Formas usan unha tipografía que poderiamos denominar Lineal Orgánica \[Figura 20\]. Vencellada á anterior xeométrica, non posúe contraste nos seus trazos pero as súas formas son moi orgánicas, helicoidais e con moitos trazos verticais e diagonais curvados lixeiramente. Son características as formas esaxeradamente helicoidais do «C», o «G» e o «S», que adaptan as súas formas a diferentes ligaduras contextuais. É a familia cun carácter máis marcadamente _display_ de todas elas, e son característicos os seus _kerning_ moi apretados entre letras \[Figura 21\].
     type: text
-  -
-    image: /img/articles/images/figura21.jpg
-    text: 'Figura 21. Tipografía Lineal Orgánica aplicada no logotipo de Cerámicas do Castro e Sargadelos. Debuxo en tinta a cor sobre papel. Cortesía do Seminario de Sargadelos en Cervo (Lugo).'
+  - image: /img/articles/images/figura21.jpg
+    text: "Figura 21. Tipografía Lineal Orgánica aplicada no logotipo de Cerámicas do Castro e Sargadelos. Debuxo en tinta a cor sobre papel. Cortesía do Seminario de Sargadelos en Cervo (Lugo)."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura22.jpg
-    text: 'Figura 22. Familia tipográfica Incisa. Versión dixitalizada co obxectivo de realizar unha análise formal e a súa clasificación. Creada a partir de debuxos e fotografías da tipografía aplicada en diferentes contextos.'
+  - image: /img/articles/images/figura22.jpg
+    text: "Figura 22. Familia tipográfica Incisa. Versión dixitalizada co obxectivo de realizar unha análise formal e a súa clasificación. Creada a partir de debuxos e fotografías da tipografía aplicada en diferentes contextos."
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       ### Familia Incisa
 
       Finalmente existe unha familia que poderiamos clasificar como Incisa [\[21\]](#n21) \[Figura 22\] xa que o final dos seus trazos está lixeiramente engrosado. Ademais, presenta pequenos remates nos seus extremos apenas apuntados e un carácter moi orgánico, repetindo as mesmas formas helicoidais que outros tipos. É a familia cunha relación máis directa coa tradición da talla de letras en pedra. É usada preferentemente na decoración das pezas cerámicas, aínda que tamén aparece noutras pezas gráficas \[Figura 23 e 24\].
     type: text
-  -
-    image: /img/articles/images/figura23.jpg
-    text: 'Figura 23. Sinalización a fábrica de Sargadelos en Sada (A Coruña) composta coa tipografía Incisa.'
+  - image: /img/articles/images/figura23.jpg
+    text: "Figura 23. Sinalización a fábrica de Sargadelos en Sada (A Coruña) composta coa tipografía Incisa."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura24.jpg
-    text: 'Figura 24. Familia tipográfica Incisa pintada sobre cerámica, coa cor azul característica de Sargadelos.'
+  - image: /img/articles/images/figura24.jpg
+    text: "Figura 24. Familia tipográfica Incisa pintada sobre cerámica, coa cor azul característica de Sargadelos."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura25.jpg
-    text: 'Figura 25. Deseños para o logotipo do Laboratorio Xeolóxico de Laxe de Isaac Díaz Pardo. A tipografía usada ofrece diferentes variacións nos caracteres entre varias familias antes analizadas.'
+  - image: /img/articles/images/figura25.jpg
+    text: "Figura 25. Deseños para o logotipo do Laboratorio Xeolóxico de Laxe de Isaac Díaz Pardo. A tipografía usada ofrece diferentes variacións nos caracteres entre varias familias antes analizadas."
     mode: right
     type: image
-  -
-    text: 'Resulta complexo realizar esta clasificación xa que, tal e como antes analizabamos, son infinidade as variantes que se realizan de cada unha das familias, creando tipos híbridos e modificacións puntuais en función dos criterios do deseñador e as necesidades \[Figura 25, 26 e 27\]. Normalmente estas variacións baséanse en engadir as características dunha familia noutra, mantendo a coherencia formal. Así existen versións da tipografía Estarcida á que se lle engadiron os remates da tipografía Incisa, ou a tipografía Xeométrica á que se lle engaden máis formas orgánicas, mantendo a súa filosofía de deseño lineal. Hai que ter en conta que os métodos de reprodución e impresión son maioritariamente artesanais, como _plantillas_, debuxos e planos<a> </a>\[Figura 28 e 29\], o que xera unha marxe de liberdade de reprodución a criterio do deseñador. Ademais, os útiles de reprodución usados preferentemente –pinceis e aerógrafo– non ofrecen unha gran precisión.'
+  - text: 'Resulta complexo realizar esta clasificación xa que, tal e como antes analizabamos, son infinidade as variantes que se realizan de cada unha das familias, creando tipos híbridos e modificacións puntuais en función dos criterios do deseñador e as necesidades \[Figura 25, 26 e 27\]. Normalmente estas variacións baséanse en engadir as características dunha familia noutra, mantendo a coherencia formal. Así existen versións da tipografía Estarcida á que se lle engadiron os remates da tipografía Incisa, ou a tipografía Xeométrica á que se lle engaden máis formas orgánicas, mantendo a súa filosofía de deseño lineal. Hai que ter en conta que os métodos de reprodución e impresión son maioritariamente artesanais, como _plantillas_, debuxos e planos<a> </a>\[Figura 28 e 29\], o que xera unha marxe de liberdade de reprodución a criterio do deseñador. Ademais, os útiles de reprodución usados preferentemente –pinceis e aerógrafo– non ofrecen unha gran precisión.'
     type: text
-  -
-    image: /img/articles/images/figura26.jpg
-    text: 'Figura 26. Boceto a lapis sobre papel. A tipografía ofrece diferentes versión e variantes das tipografías habituais en Sargadelos. Imaxe cortesía do Seminario de Sargadelos en Cervo (Lugo).'
+  - image: /img/articles/images/figura26.jpg
+    text: "Figura 26. Boceto a lapis sobre papel. A tipografía ofrece diferentes versión e variantes das tipografías habituais en Sargadelos. Imaxe cortesía do Seminario de Sargadelos en Cervo (Lugo)."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura27.jpg
-    text: 'Figura 27. Outra familia tipográfica alternativa. Imaxe cortesía do Seminario de Sargadelos en Cervo (Lugo).'
+  - image: /img/articles/images/figura27.jpg
+    text: "Figura 27. Outra familia tipográfica alternativa. Imaxe cortesía do Seminario de Sargadelos en Cervo (Lugo)."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura28.jpg
-    text: ''
+  - image: /img/articles/images/figura28.jpg
+    text: ""
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura29.jpg
-    text: 'Figura 28 e 29. Indicacións de rotulación debuxadas a man para o deseño da cabeceira do periódico Galicia en 1978. Dito xornal nunca chegou a imprimirse, sendo idea do xornalista Lorenzo Varela e para o cal construiuse o edificio do IGI (Instituto Galego da Información). Pode observarse o método artesanal para o debuxo das letras. Imaxe cortesía do Seminario de Sargadelos en Cervo (Lugo).'
+  - image: /img/articles/images/figura29.jpg
+    text: "Figura 28 e 29. Indicacións de rotulación debuxadas a man para o deseño da cabeceira do periódico Galicia en 1978. Dito xornal nunca chegou a imprimirse, sendo idea do xornalista Lorenzo Varela e para o cal construiuse o edificio do IGI (Instituto Galego da Información). Pode observarse o método artesanal para o debuxo das letras. Imaxe cortesía do Seminario de Sargadelos en Cervo (Lugo)."
     mode: normal
     type: image
-  -
-    text: 'Tal e como podemos observar, desde un punto de vista ortodoxo, estes deseños tipográficos presentan importantes carencias técnicas. Desde a perspectiva actual, cun deseño de tipografías altamente avanzado e tecnolóxicamente adaptado a diferentes soportes, seguramente este deseño tipográfico non entraría nestes canons. Con todo, o deseño tipográfico desenvolvido no Laboratorio de Formas conseguiu configurar unha estética gráfica recoñecible, con raíces propias, baseado na tradición galega. Os seus deseños contribuíron a xerar un sentimento de identificación único entre os consumidores dos seus produtos, un sentimento que aínda perdura nos nosos días en oposición directa á tendencia globalizadora de universalización da estética e o deseño. Fíxoo tamén converténdose nunha declaración política e identitaria, usada por diferentes ideoloxías do espectro político, pero formando parte do imaxinario colectivo dos galegos aínda cando desapareceron a maioría dos impulsores do Laboratorio de Formas. Estas tipografías achegaron un pequeno gran de area a ese importante labor de resistencia política e cultural dentro da época da ditadura franquista caracterizada por unha persecución da identidade, a cultura e a lingua galega, situación que aínda non superamos de todo a día de hoxe. Sen dúbida este traballo foi unha grande lección para os máis novos tamén, as novas xeracións de deseñadores, que descubrimos abraiados como nalgún momento foi posible «enriquecer o mundo coa nosa diferencia» \[Figura 30\].'
+  - text: 'Tal e como podemos observar, desde un punto de vista ortodoxo, estes deseños tipográficos presentan importantes carencias técnicas. Desde a perspectiva actual, cun deseño de tipografías altamente avanzado e tecnolóxicamente adaptado a diferentes soportes, seguramente este deseño tipográfico non entraría nestes canons. Con todo, o deseño tipográfico desenvolvido no Laboratorio de Formas conseguiu configurar unha estética gráfica recoñecible, con raíces propias, baseado na tradición galega. Os seus deseños contribuíron a xerar un sentimento de identificación único entre os consumidores dos seus produtos, un sentimento que aínda perdura nos nosos días en oposición directa á tendencia globalizadora de universalización da estética e o deseño. Fíxoo tamén converténdose nunha declaración política e identitaria, usada por diferentes ideoloxías do espectro político, pero formando parte do imaxinario colectivo dos galegos aínda cando desapareceron a maioría dos impulsores do Laboratorio de Formas. Estas tipografías achegaron un pequeno gran de area a ese importante labor de resistencia política e cultural dentro da época da ditadura franquista caracterizada por unha persecución da identidade, a cultura e a lingua galega, situación que aínda non superamos de todo a día de hoxe. Sen dúbida este traballo foi unha grande lección para os máis novos tamén, as novas xeracións de deseñadores, que descubrimos abraiados como nalgún momento foi posible «enriquecer o mundo coa nosa diferencia» \[Figura 30\].'
     type: text
-  -
-    image: /img/articles/images/figura30.jpg
-    text: 'Figura 30. Portada do disco do grupo vigués Os Resentidos «Made in Galicia», 1994 usando a gráfica e a tipografía dunha vaixela de Sargadelos.'
+  - image: /img/articles/images/figura30.jpg
+    text: "Figura 30. Portada do disco do grupo vigués Os Resentidos «Made in Galicia», 1994 usando a gráfica e a tipografía dunha vaixela de Sargadelos."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Bibliografía
 
       - Alfonso Rodriguez Castelao, _As cruces de pedra na Galiza por Castelao_. Buenos Aires: Editorial Nós, 1950
@@ -279,7 +230,7 @@ body:
       - VVAA, _A creación do necesario. Aproximacións ó deseño do século XX en Galicia_. Vigo: MARCO, 2004
       - Vicente García Lobo, «La escritura publicitaria en la Península Ibérica. Siglos X-XIII», en _Inschrift_ _und Material, Inschrift und Buchschrift_, Munich, 1999
       - Xosé Díaz, _Sargadelos recuperado. O Laboratorio de Formas 40 anos despois_. A Coruña: Fundación Luis Seoane, 2008
-       
+
       \* As imaxes usadas no artigo teñen un carácter de apoio ao texto e teñen por finalidade ilustrar os procesos de traballo na creación das tipografías, dentro dun proxecto de investigación en proceso no ámbito académico.
 
       [\[1\]](#t1) Tomás Marín Martínez, _Paleografía y diplomática_. ED. Madrid: Universidad Nacional de Educación a Distancia, 1998

@@ -1,43 +1,36 @@
 id: 43
-title: 'Pan da Moa'
+title: "Pan da Moa"
 slug: pan-da-moa
 body:
-  -
-    text: |-
+  - text: |-
       Despois de varias conversas coa familia Moscoso Moure, empezou a crecer a idea de “Pan da moa”, buscamos e analizamos outras posibilidades, pero ao final optamos por escoller o nome dun dos seus pans máis persoais, e penso que demos no cravo, xa que ao momento de empezar a traballar con el, xurdiu unha gráfica rítmica, que é doadamente asimilable ao pan, porque resalta a marca do corte feito polo panadeiro ás barras. E non deixa de perder a súa identidade como “M” da “moa”, tamén se decidiu utilizar como marca do taller o nome da familia “moscoso moure” xerme das tendas “Pan da moa”.
 
       A web desenvolveuse co animo de ir crecendo, nunha primeira fase, xa desenvolvida, é a parte máis informativa, que mostra o produto e agora estamos a preparar unha segunda fase máis interactiva co público. Ao mesmo tempo seguimos traballando nas aplicacións, embalaxes, e no novo despacho.
 
       Para a tenda buscaba o xeito de mostrar o pan no escaparate, polo que me inspirei nos niños dos paxaros, que me levou a deseñar as cestas colgantes, elaboradas coa colaboración da artesán Idoia Cuesta.
     type: text
-  -
-    image: /img/portfolio/images/558597cb131d9-uqui.jpg
-    text: ''
+  - image: /img/portfolio/images/558597cb131d9-uqui.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/558597cb138aa-uqui2.jpg
-    text: ''
+  - image: /img/portfolio/images/558597cb138aa-uqui2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/558597cb13e82-uqui3.jpg
-    text: ''
+  - image: /img/portfolio/images/558597cb13e82-uqui3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/558597cb1437a-uqui4.jpg
-    text: ''
+  - image: /img/portfolio/images/558597cb1437a-uqui4.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/558597cb14b34-uqui5.jpg
-    text: ''
+  - image: /img/portfolio/images/558597cb14b34-uqui5.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/558597cb14e60-uqui6.jpg
-    text: ''
+  - image: /img/portfolio/images/558597cb14e60-uqui6.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558597cb12af1-uqui.jpg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Web
 members_id:
   - 25
@@ -45,16 +38,12 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Uqui.net
-  -
-    name: Cliente
-    value: 'Panadería Moscoso Moure'
-  -
-    name: Ano
-    value: '2013'
-  -
-    name: Colaboradores
-    value: 'Idoia Cuesta paraa elaboración de cestas de vimbio para o pan.'
+  - name: Cliente
+    value: "Panadería Moscoso Moure"
+  - name: Ano
+    value: "2013"
+  - name: Colaboradores
+    value: "Idoia Cuesta paraa elaboración de cestas de vimbio para o pan."
 draft: false

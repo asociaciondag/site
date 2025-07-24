@@ -1,14 +1,12 @@
 id: 1175
-title: 'Convocada a VII edición dos Premios Paraugas'
+title: "Convocada a VII edición dos Premios Paraugas"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/paraugas-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Os Premios da Comunicación e do Marketing de Galicia foron creados polo Clúster da Comunicación de Galicia no ano 2016. Naceron coa idea de poñer en valor a calidade e o excelente traballo que se fai na nosa terra, co obxectivo de enxalzar a función da creatividade, o deseño, a edición, a impresión, o _marketing_, a comunicación e os eventos de orixe galega e como medio para conseguir aumentar a competitividade e a capacidade innovadora. Trátase de unha convocatoria de premios desde o sector e para o sector.
 
       Os Premios Paraugas recoñecen o traballo profesional feito en Galicia nos ámbitos da creatividade, a impresión e a edició​n​, o _marketing_, o _marketing_ dixital,​ a comunicación, eventos e o deseño. Esta última categoría, patrocinada pola Axencia Galega de Innovación, inclúe 3 premios: Premio Paraugas ao Mellor Deseño Gráfico, Premio Paraugas ao Mellor Deseño Industrial ou de Produto e Premio Paraugas ao Mellor Deseño Dixital.
@@ -19,7 +17,7 @@ body:
 
       Todos os detalles sobre esta nova edición dos Premios Paraugas están dispoñibles[ na súa web](https://premios.clustercomunicacion.gal/), desde onde tamén se pode facer a inscrición de proxectos.
     type: text
-intro: 'O Cluster da Comunicación de Galicia convoca unha nova edición dos Premios Paraugas. As empresas e profesionais interesados en inscribir os seus proxectos poderán facelo ata o vindeiro 31 de outubro e​​ os socios e socias da DAG teñen desconto. ​'
+intro: "O Cluster da Comunicación de Galicia convoca unha nova edición dos Premios Paraugas. As empresas e profesionais interesados en inscribir os seus proxectos poderán facelo ata o vindeiro 31 de outubro e​​ os socios e socias da DAG teñen desconto. ​"
 slug: convocada-a-vii-edicion-dos-premios-paraugas
 tags: []
 lang: gl

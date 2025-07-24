@@ -1,14 +1,12 @@
 id: 1243
-title: 'Gain convoca los IV Premios Galicia de Innovación y Diseño'
+title: "Gain convoca los IV Premios Galicia de Innovación y Diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/prazo-aberto-h.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La cuarta edición de los premios sigue la misma línea de actuación que años anteriores y divide la convocatoria en dos grandes categorías, innovación y diseño, y en cada una de ellas hay tres reconocimiento a personas y empresas.
 
       En la categoría de innovación se premia con 15.000 € la trayectoria innovadora de empresarios, empresarias y profesionales con al menos diez años de experiencia. Con otros 15.000 € a la pequeña y mediana empresa que demuestre una actividad innovadora durante cinco años. El premio a la gran empresa con trayectoria de al menos diez años es​ honorífico.
@@ -21,12 +19,11 @@ body:
 
       Los galardones buscan destacar las mejores prácticas para que sirvan de ejemplo a todo el tejido empresarial gallego, poniendo de relevancia la innovación y el diseño como fórmulas básicas para aumentar la competitividad de las empresas y mejorar la calidad de vida de las personas.
     type: text
-  -
-    list: ''
-    url: 'https://www.xunta.gal/dog/Publicados/2023/20230712/AnuncioG0198-230623-0001_es.html'
-    text: 'Bases de la convocatoria'
+  - list: ""
+    url: "https://www.xunta.gal/dog/Publicados/2023/20230712/AnuncioG0198-230623-0001_es.html"
+    text: "Bases de la convocatoria"
     type: button
-intro: 'La Xunta de Galicia, a través de la Axencia Galega de Innovación​,​ acaba de convocar los IV Premios Galicia de Innovación y Diseño para reconocer la labor de las personas y las empresas que contribuyen al desarrollo económico de Galicia a través de la innovación y del diseño. ​El plazo para presentar las candidaturas se cierra el 30 de septiembre.​'
+intro: "La Xunta de Galicia, a través de la Axencia Galega de Innovación​,​ acaba de convocar los IV Premios Galicia de Innovación y Diseño para reconocer la labor de las personas y las empresas que contribuyen al desarrollo económico de Galicia a través de la innovación y del diseño. ​El plazo para presentar las candidaturas se cierra el 30 de septiembre.​"
 slug: gain-convoca-los-iv-premios-galicia-de-innovacion-y-deseno
 tags: []
 lang: es

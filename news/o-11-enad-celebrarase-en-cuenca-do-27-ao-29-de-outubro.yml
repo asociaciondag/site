@@ -1,33 +1,31 @@
 id: 1246
-title: 'O 11 ENA​D celebrarase en Cuenca do 27 ao 29 de outubro'
+title: "O 11 ENA​D celebrarase en Cuenca do 27 ao 29 de outubro"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/11-enad.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O deseño do coidado, o deseño con atención, o deseño das relacións, dos sistemas… Como pode contribuír o deseño e, en concreto o deseño para a innovación social, a unha nova forma de planificación urbana e rural? Como podemos deseñar lugares e crear comunidades sostibles coa participación cidadá e doutros grupos de interese?​ Que proxectos existen neste sentido e que novas sinerxias e comunidades poden crearse?​​​
 
       O 11 ENAD articúlase en tres eixos: ecosistema/gobernanza, a sociedade dos coidados e a hibridación/innovación. Baixo estas premisas a organización abre un espazo de traballo colaborativo e de transformación que permita investigar estas problemática​s de xeito profundo; ademais de contar con axentes do tecido produtivo, as entidades públicas e organismos do terceiro sector da rexión para traballar en conxunto con metodoloxías do deseño​ e xerar proxectos estables no territorio.​​​​​
 
       O groso do programa céntrase os días 27 e 28, con relatorios e conversas, presentacións de proxectos onde a nosa socia Natalia Balseiro presentará «Lugares»​, e talleres e mesas de traballo. Estas últimas, coordinadas por representantes das asociacións READ, seguen a dinámica que se viña facendo nos ENAD anteriores: avanzar nos proxectos que hai activos na comunidade e plantexar novas liñas de traballo. Así, as mesas de traballo deste ano son:​​
 
-      **Mesa: Deseño e educación**  
+      **Mesa: Deseño e educación**
        Coordinada por Juana Valcárcel (DIP) e Daniel Hervás (Diex)
 
-      **Mesa: SNIC - ICCs**  
+      **Mesa: SNIC - ICCs**
        Coordinada por Irene García e Uqui Permui (ambas de DAG), coa realización dun taller sobre a ferramenta [Kultursistema](https://kultursistema.com/) a cargo de [Lander Balza](https://www.linkedin.com/in/landerbalza/) de [Conexiones Improbables](https://conexionesimprobables.es/v3/)
 
-      **Mesa: Boas Prácticas en deseño**  
+      **Mesa: Boas Prácticas en deseño**
        Coordinada por Ana Rodriguez (DICA)
 
-      **Mesa: Gráficas en Negro**  
+      **Mesa: Gráficas en Negro**
        Coordinada por Maria Jesús Bonafonte (DIMAD) e Myriam Cea (DIMAD)
 
-      **Mesa: Deseño e desenvolvemento territorial (novidade)**  
+      **Mesa: Deseño e desenvolvemento territorial (novidade)**
        Coordinada por Silvia González (DIEX) e Félix Rodríguez, coa asistencia de Luis Madrid e Adolfo Chautón.
 
       O domingo 29, as persoas inscritas poderán gozar dunha visita guiada á cidade de Cuenca, Patrimonio da Humanidade, e á Fundación Antonio Pérez.​​ Outros espazos que poderán visitarse durante o encontro son​ o Centro de Arte Alfar de Pedro Mercedes, a Escola de Arte Cruz Novillo, a Sala Acqua e o Museo das Ciencias.​
@@ -36,15 +34,14 @@ body:
 
       - Taller «Sabernos Ecosistema» impartido por Ricardo Antón de [Colaborabora](https://www.colaborabora.org/).
       - Taller de métodos, técnicas e ferramentas de co-deseño aplicado ao traballo social, impartido por Raquel Pelta.
-       
+
       Os ENAD son eventos anuais organizados por READ e a asociación que nese momento ostenta a presidencia da rede nacional. DAG traspasou este papel a Cuenca Diseño en marzo de 2023, en Mérida, na celebración da Asamblea Xeral.
     type: text
-  -
-    list: ''
-    url: 'https://11enad.designread.es/'
-    text: 'Máis información e inscricións '
+  - list: ""
+    url: "https://11enad.designread.es/"
+    text: "Máis información e inscricións "
     type: button
-intro: 'Do 27 ao 29 de outubro terá lugar en Cuenca o 11ENAD, o Encontro Nacional de Deseño que reúne ás trece asociacións READ e demais asistentes arredor dun programa amplo que pon en valor o deseño desde a ruralidade e desde a innovación socia​l​.'
+intro: "Do 27 ao 29 de outubro terá lugar en Cuenca o 11ENAD, o Encontro Nacional de Deseño que reúne ás trece asociacións READ e demais asistentes arredor dun programa amplo que pon en valor o deseño desde a ruralidade e desde a innovación socia​l​."
 slug: o-11-enad-celebrarase-en-cuenca-do-27-ao-29-de-outubro
 tags: []
 lang: gl

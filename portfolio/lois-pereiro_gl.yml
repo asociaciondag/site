@@ -1,65 +1,50 @@
 id: 142
-title: 'Lois Pereiro'
+title: "Lois Pereiro"
 slug: lois-pereiro
 body:
-  -
-    text: 'Deseño de proxecto expositivo. Casa da Cultura. Concello de Monforte de Lemos'
+  - text: "Deseño de proxecto expositivo. Casa da Cultura. Concello de Monforte de Lemos"
     type: text
-  -
-    image: /img/portfolio/images/5554e12604b1e-1Lois_praza.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-1Lois_praza.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-2Lois_porta.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-2Lois_porta.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-3Lois_porta-interior.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-3Lois_porta-interior.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-4Lois_valla.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-4Lois_valla.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-9Lois_lendo1.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-9Lois_lendo1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-10Lois_lendo3.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-10Lois_lendo3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-11Lois_lendo2.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-11Lois_lendo2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-12Lois_vista.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-12Lois_vista.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-16Lois_identificar3.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-16Lois_identificar3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-18Lois_mensaxes1.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-18Lois_mensaxes1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-19Lois_mensaxes2.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-19Lois_mensaxes2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-20Lois_diapos1.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-20Lois_diapos1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-lois_folletoportada.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-lois_folletoportada.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e12604b1e-Lois_folletointerior2.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e12604b1e-Lois_folletointerior2.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558550bdf3e56-5554e12604b1e-3lois-porta-interior.jpg
 tags:
@@ -69,16 +54,12 @@ members_id:
   - 10
 lang: gl
 info:
-  -
-    name: Proxecto
-    value: 'Lois Pereiro. Camiño do futuro libremente'
-  -
-    name: Cliente
+  - name: Proxecto
+    value: "Lois Pereiro. Camiño do futuro libremente"
+  - name: Cliente
     value: Ouvirmos
-  -
-    name: Ano
-    value: '2011'
-  -
-    name: Infografías
-    value: 'José Ces García'
+  - name: Ano
+    value: "2011"
+  - name: Infografías
+    value: "José Ces García"
 draft: false

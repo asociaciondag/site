@@ -1,14 +1,12 @@
 id: 408
-title: 'María Guevara, a nova socia que acaba de chegar á DAG'
+title: "María Guevara, a nova socia que acaba de chegar á DAG"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Chámome [María Guevara](http://mariaguevara.es/), vivo e traballo en Vigo, o primeiro desde sempre e o segundo desde hai nove anos. Cando rematei os meus estudos de deseño gráfico comecei a traballar en publicidade; aprendín moito, case todo o que sei agora mesmo da profesión, gañei experiencia durante oito anos, coñecín grandes profesionais e acumulei vivencias persoais incribles. Alí estiven ata que, hai algo máis de un ano, decidín renovarme e empezar de cero como freelance. Agora mesmo son autónoma (con todo o que iso implica, bo e malo), traballo nos meus propios proxectos e estou poñendo en marcha xunto con dous arquitectos e un fotógrafo un pequeno espazo de coworking chamado Cooffice7, que agardamos estea en funcionamento en 2013. Se decidín unirme á DAG, é porque co tempo comprobei o ben que se poden facer as cousas aquí, que hai xente con ganas e moi preparada polo que quero apoiar e axudar a dignificar a profesión de deseñador en Galicia.
 
       E para aqueles aos que vos saiba a pouco a súa presentación, podedes saber un pouco máis de María entrando na súa páxina: <http://mariaguevara.es/>
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa294a32-maria-guevara.jpg
 intro: null
 slug: maria-guevara-a-nova-socia-que-acaba-de-chegar-a-dag

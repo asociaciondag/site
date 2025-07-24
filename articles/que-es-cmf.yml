@@ -1,17 +1,14 @@
 id: 11
-title: '¿Qué es el CMF? ¿Qué estudia esta rama?'
-author: 'Noemí Cortizas'
+title: "¿Qué es el CMF? ¿Qué estudia esta rama?"
+author: "Noemí Cortizas"
 body:
-  -
-    text: 'Lo primero que tienes que saber es que CMF es el acrónimo de Colores, Materiales y Acabados (_Finishes_). Es una disciplina del diseño «relativamente» nueva. Digo relativamente porque ha estado en la industria automovilística durante años. Pero en ese campo se la conoce como _color &amp; trim_. Antes, era el diseñador quien pensaba no solo en la forma sino también en los materiales que se utilizarían. Hoy en día, estamos en un mercado muy competitivo que avanza muy rápido. En una situación como esta es necesario tener una buena estrategia de diseño CMF. Esta disciplina es de gran ayuda para tener un producto exitoso y adaptable, a un coste de fabricación efectivo y con el menor uso de recursos posible. Así es como nació esta especialidad, que no se centra en la forma sino en los materiales, los acabados y los colores a usar, para crear un lenguaje de marca diferenciado y una experiencia de usuario cuidada y placentera. Esto es algo que tienen muy claro todas las grandes marcas con éxito de ventas en el mercado. Llegando hasta el punto de no solo contratar los servicios de un diseñador de CMF, sino también crear un equipo propio de esta rama.'
+  - text: "Lo primero que tienes que saber es que CMF es el acrónimo de Colores, Materiales y Acabados (_Finishes_). Es una disciplina del diseño «relativamente» nueva. Digo relativamente porque ha estado en la industria automovilística durante años. Pero en ese campo se la conoce como _color &amp; trim_. Antes, era el diseñador quien pensaba no solo en la forma sino también en los materiales que se utilizarían. Hoy en día, estamos en un mercado muy competitivo que avanza muy rápido. En una situación como esta es necesario tener una buena estrategia de diseño CMF. Esta disciplina es de gran ayuda para tener un producto exitoso y adaptable, a un coste de fabricación efectivo y con el menor uso de recursos posible. Así es como nació esta especialidad, que no se centra en la forma sino en los materiales, los acabados y los colores a usar, para crear un lenguaje de marca diferenciado y una experiencia de usuario cuidada y placentera. Esto es algo que tienen muy claro todas las grandes marcas con éxito de ventas en el mercado. Llegando hasta el punto de no solo contratar los servicios de un diseñador de CMF, sino también crear un equipo propio de esta rama."
     type: text
-  -
-    image: /img/articles/images/googlepixel3.jpg
-    text: 'Google tiene un equipo grande de diseñadores CMF trabajando en su empresa. Son los responsables del éxito de productos como el Google Pixel 3'
+  - image: /img/articles/images/googlepixel3.jpg
+    text: "Google tiene un equipo grande de diseñadores CMF trabajando en su empresa. Son los responsables del éxito de productos como el Google Pixel 3"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## ¿Qué hace un diseñador CMF?
 
       Para decirlo sin rodeos, usando términos actuales, es **UX fuera de la pantalla.** Podríamos decir que los diseñadores CMF son los diseñadores UX del mundo físico y todas las cosas no digitales. Intentamos crear o transmitir emociones a través de una interacción significativa con el usuario. De hecho no es extraño ver a alguien colaborando en proyectos digitales, puesto que usan principios similares de psicología.
@@ -31,20 +28,18 @@ body:
       - Colores: pigmentos, aditivos, mezclas, Pantones…
       - Materiales: compuestos, metales, plásticos, resinas de origen reciclado, orgánicos o químicos, tejidos, maderas, y muchos más.
       - Acabados superficiales: tecnología de grabados láser, tratamientos químicos, recubrimientos, texturas, formas, superficies táctiles, funcionales o pura estética, hologramas...
-       
+
       Algunos proyectos consisten solo en hacer una selección pertinente de tecnologías industriales y herramientas que existen para poder alcanzar nuestros objetivos. Pero otras veces necesitamos profundizar, llegando a un nivel de escala nanométrica o química. Como ves, en nuestra labor mezclamos el diseño atractivo y funcional con la investigación a escala industrial.
 
-      ## Pero todo esto es caro, ¿no? 
+      ## Pero todo esto es caro, ¿no?
 
       Depende, la mayor parte de las veces no lo es. Incluso si tenemos que hacer una investigación muy detallada, procuramos optimizar costes. Como he dicho antes, una buena estrategia CMF permitirá tener un nuevo diseño de tu producto, más atractivo y con costes mínimos de producción. Incluso podrá adaptarse para colecciones o ediciones limitadas. Y todo esto, sin cambiar toda la cadena de producción o con cambios mínimos de utillaje. Tienes un claro ejemplo de esto bajo estas líneas.
     type: text
-  -
-    image: /img/articles/images/1497274941-5196-card.jpg
-    text: ''
+  - image: /img/articles/images/1497274941-5196-card.jpg
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Para el mando de la XBOX, Microsoft ha creado un sinfín de variedades, adaptadas a todos sus mercados objetivo, sin necesidad de invertir mucho dinero. ¿Por qué? Observa la foto, la misma forma, por lo tanto el mismo molde de inyección pero con distintos degradados, colores, tipos de plástico e incluso con alguna textura geométrica de diferentes tonos y brillos. Efectivamente, detrás de estas «variaciones» hay un equipo de diseñadores CMF, pensando en pigmentos, revestimientos, resinas y todo lo necesario para crear mandos para todos los gustos sin cambiar más que la pintura y el material usado, creando así diferentes opciones visuales. Ahora piensa en los beneficios, cada mando tiene un precio que puede ir desde los 49 euros hasta los 150, dependiendo del nivel de personalización.
 
       ## ¿Dónde estudias para convertirte en un diseñador CMF?
@@ -63,18 +58,16 @@ body:
 
       Por ejemplo, a continuación tienes un libro sobre la belleza de la arquitectura japonesa y cómo juega con las sombras y la luz. Dato curioso, este libro fue una fuente de inspiración para un proyecto que hice hace dos años, el concepto para el interior de un coche que fue presentado en la feria del automóvil de París.
     type: text
-  -
-    image: /img/articles/images/libro.jpg
-    text: ''
+  - image: /img/articles/images/libro.jpg
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       #### Ten una mente abierta
 
       Hazme caso, existen muchas cosas nuevas y extrañas que pueden ser útiles. Debes conservar la actitud positiva que tiene un niño para sorprenderse y la capacidad analítica de un científico para identificar posibles aplicaciones. Lo mejor de este mundillo, es que nunca dejarás de sorprenderte.
 
-      #### Acepta los riesgos y ten mucha paciencia 
+      #### Acepta los riesgos y ten mucha paciencia
 
       Necesitas entender la sociedad para obtener tendencias de consumo e ideas para investigar/explorar. ¿Cuál es el estado de ánimo de la gente? ¿Qué están haciendo las empresas? Esta es una carrera de larga distancia. Pero ante todo consiste en pararse a pensar: ¿Qué puedo hacer que aún no se haya hecho o intentado?
 

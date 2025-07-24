@@ -4,30 +4,27 @@ contact: |-
 
   admon@slab.es
 links:
-  -
-    text: Web
-    url: 'https://www.slab.es/'
+  - text: Web
+    url: "https://www.slab.es/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/slabarquint/'
+  - text: Instagram
+    url: "https://www.instagram.com/slabarquint/"
     type: facebook
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/SlabArquInt'
+  - text: Facebook
+    url: "https://www.facebook.com/SlabArquInt"
     type: facebook
-name: 'Ana Besada'
+name: "Ana Besada"
 slug: ana-besada
 avatarBig: null
 avatar: /img/avatars/prueba-foto4.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
   - Espazos
 draft: false
 bio.gl: |-
-  Deseñadora de Interiores en Slab Arquitectura de Interiores. Técnico Superior de Administración e Finanzas. Graduada en Deseño de Interiores pola Escola de Artes Superior e Deseño Antonio Failde (Ourense).  
-   Tras dezaseis anos traballando en pemes xestionando, administrando e, incluso dirixindo, empresas de alimentación, transporte e hostalaría, en 2015 cambio de terzo, matriculándome no Grao de Deseño de Interiores. Desde 2018, colaboro con construtores, arquitectos e distribuidores de cociñas realizando proxectos de interiorismo, reformas e obra nova. A finais do 2020 fundo Slab Arquitectura de Interiores, estudo situado en Ponteareas (Pontevedra).  
+  Deseñadora de Interiores en Slab Arquitectura de Interiores. Técnico Superior de Administración e Finanzas. Graduada en Deseño de Interiores pola Escola de Artes Superior e Deseño Antonio Failde (Ourense).
+   Tras dezaseis anos traballando en pemes xestionando, administrando e, incluso dirixindo, empresas de alimentación, transporte e hostalaría, en 2015 cambio de terzo, matriculándome no Grao de Deseño de Interiores. Desde 2018, colaboro con construtores, arquitectos e distribuidores de cociñas realizando proxectos de interiorismo, reformas e obra nova. A finais do 2020 fundo Slab Arquitectura de Interiores, estudo situado en Ponteareas (Pontevedra).
    Desenvolvo proxectos de interiores, deseño de mobiliario singular ou a medida, deseño de iluminación e instalacións e xestión de obra e mobiliario. Colaborando con varios equipos de profesionais, levamos a cabo proxectos personalizados nas súas diferentes fases, incluída “chave en man”, abarcando ámbitos como clínico, restauración, hotelería, oficinas, residencial, tendas de roupa e outros servizos.
 bio.es: |-
   Diseñadora de Interiores en Slab Arquitectura de Interiores. Técnico Superior de Administración y Finanzas. Graduada en Diseño de Interiores por la Escuela de Artes Superior y Diseño Antonio Failde (Ourense).
@@ -35,5 +32,5 @@ bio.es: |-
   Tras dieciséis años trabajando en pymes gestionando, administrando e, incluso dirigiendo, empresas de alimentación, transporte y hostelería, en 2015 cambio de tercio, matriculándome en el Grado de Diseño de Interiores. Desde 2018, colaboro con constructores, arquitectos y distribuidores de cocinas realizando proyectos de interiorismo, reformas y obra nueva. A finales del 2020 fundo Slab Arquitectura de Interiores, estudio ubicado en Ponteareas (Pontevedra).
 
   Desarrollo proyectos de interiores, diseño de mobiliario singular o a medida, diseño de iluminación e instalaciones y gestión de obra y mobiliario. Colaborando con varios equipos de profesionales, llevamos a cabo proyectos personalizados en sus diferentes fases, incluida “llave en mano”, abarcando ámbitos como clínico, restauración, hotelería, oficinas, residencial, tiendas de ropa y otros servicios.
-job.gl: 'Deseño de interiores'
-job.es: 'Diseño de interiores'
+job.gl: "Deseño de interiores"
+job.es: "Diseño de interiores"

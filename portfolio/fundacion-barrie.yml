@@ -1,10 +1,9 @@
 id: 310
-title: 'Fundación Barrié'
+title: "Fundación Barrié"
 slug: fundacion-barrie
 body:
-  -
-    image: /img/portfolio/images/fundacion-barrie.jpg
-    text: ''
+  - image: /img/portfolio/images/fundacion-barrie.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/fundacion-barrie.jpg
 tags:

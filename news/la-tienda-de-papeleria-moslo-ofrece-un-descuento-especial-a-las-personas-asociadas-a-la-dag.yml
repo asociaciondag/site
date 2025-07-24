@@ -1,19 +1,17 @@
 id: 1207
-title: 'La tienda de papelería Moslo ofrece un descuento especial a las personas asociadas a la DAG'
+title: "La tienda de papelería Moslo ofrece un descuento especial a las personas asociadas a la DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-moslo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La tienda, iniciativa del socio Alberto Rodríguez y su pareja, tiene muchas ganas de estar cerca de la gente y cuenta con colecciones únicas de papelería, escritura, complementos de escritorio y ediciones limitadas elaboradas por pequeños talleres cuidadosamente seleccionados. Y por eso también cuenta con un pequeño rincón en el que puedes descansar, conversar, pensar tranquilamente o leer uno de los numerosos libros de diseño que ponen a disposición del público. Su filosofía es que cada producto que tienen en la tienda ayuda a ser más productiva, creativa y organizada en tu día a día.
 
       Están en Santiago de Compostela, en la calle Virxe da Cerca nº 10, en horario de 10:00 a 15:00h y de 17:45 a 21:00 de lunes a viernes y sábados de 10:00 a 14:00 h. Aquellas personas asociadas que estén interesadas en acogerse al descuento online pueden solicitar el código correspondiente enviando un email a info@dag.gal. En la tienda física, con mostrar el carné de asociada o indicar el nombre y apellidos es suficiente.
     type: text
-intro: '[MOSLO](https://moslo.es/es/) la tienda de papelería de diseño y accesorios ubicada en Santiago de Compostela ofrece un descuento del 10% a todas las socias y socios tanto en la tienda física como en la tienda _online_.'
+intro: "[MOSLO](https://moslo.es/es/) la tienda de papelería de diseño y accesorios ubicada en Santiago de Compostela ofrece un descuento del 10% a todas las socias y socios tanto en la tienda física como en la tienda _online_."
 slug: la-tienda-de-papeleria-moslo-ofrece-un-descuento-especial-a-las-personas-asociadas-a-la-dag
 tags: []
 lang: es

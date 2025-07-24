@@ -1,18 +1,16 @@
 id: 500
-title: 'A DAG participará no segundo encontro nacional de asociacións de deseño'
+title: "A DAG participará no segundo encontro nacional de asociacións de deseño"
 body:
-  -
-    text: |-
+  - text: |-
       O encontro está organizado pola [READ](http://www.designread.es/) e coordinado por unha das súas asociacións membro, co fin de procurar un espazo común onde establecer e reforzar alianzas entre os representantes. Os temas que se abordarán neste segundo encontro extraéronse do encontro celebrado o ano pasado e estruturanse nas seguintes mesas de traballo: Mesa 1: Relación das asociacións de profesionais co ensino Mesa 2: Relación dos deseñadores coas empresas Mesa 3: Proxecto from Spain with Design Mesa 4: Mapa do deseño Mesa 5: Comunicación do Deseño Mesa 6: Relación coas administracións
 
       Cada unha das asociacións inscritas propuxo actividades ou accións concretas encamiñadas a mellorar os temas e contidos que se tratarán en cada unha das mesas.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa6069ce-2o-encontro-read.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'A DAG, Asociación Galega de Deseñadores, participará o próximo 12 e 13 de xuño de 2014 no [segundo encontro nacional de asociacións de deseño](http://www.designread.es/2encuentro/) na Central de Deseño Matadero en Madrid.'
+intro: "A DAG, Asociación Galega de Deseñadores, participará o próximo 12 e 13 de xuño de 2014 no [segundo encontro nacional de asociacións de deseño](http://www.designread.es/2encuentro/) na Central de Deseño Matadero en Madrid."
 slug: a-dag-participara-no-segundo-encontro-nacional-de-asociacions-de-deseno
 tags: []
 lang: gl

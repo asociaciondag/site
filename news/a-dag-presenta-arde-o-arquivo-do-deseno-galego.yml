@@ -1,14 +1,12 @@
 id: 1210
 title: 'A DAG presenta AR\DE, o Arquivo do Deseño Galego'
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/arde-para-noticia.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O Arquivo do Deseño Galego AR\\DE é unha iniciativa da DAG, que busca funcionar como plataforma dixital para a documentación da historia do deseño en Galicia, facilitando a investigación, a preservación e o estudo do noso patrimonio histórico.
 
       O sitio web conta, no momento do seu lanzamento, con máis de 100 referencias bibliográficas e preto de 200 entradas con distintos recursos e fontes de documentación sobre a historia do deseño galego. Inclúense máis de 80 autorías diferentes e unhas 50 entidades editoras. Ademais, pódense encontrar ao redor de 100 referencias a deseñadoras e deseñadores en disciplinas como o deseño gráfico, o deseño industrial e de produto, o deseño dixital e o deseño de espazos.
@@ -19,7 +17,7 @@ body:
 
       Podes saber máis do proxecto visitando a web [ARDE.gal](http://www.arde.gal).
     type: text
-intro: 'ARDE.gal é unha nova plataforma sobre a historia do deseño en Galicia. Bota a andar coa creación dunha base de datos; unha lista de referencias para coñecer o legado histórico que deixan as obras, entidades e persoas que tratan o deseño galego nas súas distintas disciplinas.'
+intro: "ARDE.gal é unha nova plataforma sobre a historia do deseño en Galicia. Bota a andar coa creación dunha base de datos; unha lista de referencias para coñecer o legado histórico que deixan as obras, entidades e persoas que tratan o deseño galego nas súas distintas disciplinas."
 slug: a-dag-presenta-arde-o-arquivo-do-deseno-galego
 tags: []
 lang: gl

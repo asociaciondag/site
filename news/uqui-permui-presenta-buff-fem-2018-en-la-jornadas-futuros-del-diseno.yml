@@ -1,14 +1,12 @@
 id: 871
-title: 'Uqui Permui presenta BUFF FEM, 2018 en la jornadas Futuros del Diseño'
+title: "Uqui Permui presenta BUFF FEM, 2018 en la jornadas Futuros del Diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/logo-app-buff-fem.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En las jornadas [Futuros del Diseño](https://www.adg-fad.org/es/news/jornadas-futuros-del-diseno-nuevas-practicas-y-significados) se presentarán catorce proyectos alineados con las nuevas orientaciones que están surgiendo en el campo del diseño, un ámbito que, en estos inicios del siglo XXI, se encuentra en estado de redefinición de sus límites y categorías.
 
       El proyecto que presentará Uqui Permui lleva por título BUFF FEM, 2018. Se trata de una herramienta que tiene como objetivo ayudar a detectar y modificar las actitudes machistas que, a largo plazo, generan diferentes tipos de violencias, centrándose, sobre todo, en un público joven de 16 a 20 años.
@@ -24,20 +22,19 @@ body:
       - Buff: a partir de modelos se pueden crear gráficas personalizadas, ya que la aplicación permite incorporar imágenes, iconos y sonidos para elaborar un post que se puede compartir en el chat o en las diferentes redes sociales.
       - Mis posts: almacén de imágenes encontradas en las redes sociales o creadas con la aplicación.
       - Chat: funciona como una red social, para compartir en grupos o con amigos los posts creados por cada uno. También se pueden votar los posts elaborados por otras persoas.
-       
+
       [Uqui.net](http://uqui.net/) tiene ya un prototipo de la aplicación que fue evaluado por diferentes estudiantes para verificar el grado de aprobación de la herramienta ideada en un principio, y en este momento se encuentra en la fase de busca de patrocinio para desarrollar el proyecto.
 
       La inscripción para asistir a [Futuros del Diseño](https://www.adg-fad.org/es/news/jornadas-futuros-del-diseno-nuevas-practicas-y-significados) es gratuita, pero hace falta confirmar asistencia en el siguiente enlace:
     type: text
-  -
-    list: ''
-    url: 'https://docs.google.com/forms/d/1dXzEj3_AobEfD0LTQVjyS29iDi_mSpKvXNwYNxca8oM/viewform?edit_requested=true'
-    text: 'Confirmación de asistencia'
+  - list: ""
+    url: "https://docs.google.com/forms/d/1dXzEj3_AobEfD0LTQVjyS29iDi_mSpKvXNwYNxca8oM/viewform?edit_requested=true"
+    text: "Confirmación de asistencia"
     type: button
-intro: 'Nuestra socia Uqui Permui participa cómo ponente en las Jornadas Futuros del Diseño. Nuevas prácticas y significados, que organiza la ADG- FAG con la colaboración del Museo del Disseny de Barcelona.'
+intro: "Nuestra socia Uqui Permui participa cómo ponente en las Jornadas Futuros del Diseño. Nuevas prácticas y significados, que organiza la ADG- FAG con la colaboración del Museo del Disseny de Barcelona."
 slug: uqui-permui-presenta-buff-fem-2018-en-la-jornadas-futuros-del-diseno
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-02-13T17:50:58+00:00

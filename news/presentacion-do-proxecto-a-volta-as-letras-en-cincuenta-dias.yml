@@ -1,14 +1,11 @@
 id: 368
-title: 'Presentación do proxecto A volta ás Letras en cincuenta días'
+title: "Presentación do proxecto A volta ás Letras en cincuenta días"
 body:
-  -
-    type: text
-    text: 'Este venres 1 de xuño inaugúrase nos [Xardíns de San Carlos](http://www.coruna.es/guiaLocal/mapa.jsp?dummy=dummy&X=549491.146&Y=4802155.2424&direccion=Jardines%20de%20San%20Carlos&portal=s/n) da Coruña a exposición, a ceo aberto, cos 50 carteis realizados en colaboración por 50 deseñadores e 50 escritores galegos con motivo do aniversario do Día das Letras Galegas. O acto de presentación terá lugar ás 19.30 h e nel intervirán os deseñadores e escritores que traballaron nos carteis e tamén representantes das asociacións e das entidades participantes no proxecto: **A volta ás Letras en cincuenta días** co que os deseñadores galegos lles quixeron render o seu tributo a todos os escritores homenaxeados nestes 50 anos. Xosé Luís Méndez Ferrín, presidente da Real Academia Galega (RAG), será o encargado de pechar este acto que estará aberto a todo o público. Descarga o convite:'
-  -
-    type: image
+  - type: text
+    text: "Este venres 1 de xuño inaugúrase nos [Xardíns de San Carlos](http://www.coruna.es/guiaLocal/mapa.jsp?dummy=dummy&X=549491.146&Y=4802155.2424&direccion=Jardines%20de%20San%20Carlos&portal=s/n) da Coruña a exposición, a ceo aberto, cos 50 carteis realizados en colaboración por 50 deseñadores e 50 escritores galegos con motivo do aniversario do Día das Letras Galegas. O acto de presentación terá lugar ás 19.30 h e nel intervirán os deseñadores e escritores que traballaron nos carteis e tamén representantes das asociacións e das entidades participantes no proxecto: **A volta ás Letras en cincuenta días** co que os deseñadores galegos lles quixeron render o seu tributo a todos os escritores homenaxeados nestes 50 anos. Xosé Luís Méndez Ferrín, presidente da Real Academia Galega (RAG), será o encargado de pechar este acto que estará aberto a todo o público. Descarga o convite:"
+  - type: image
     image: /img/news/images/553e7aa17c0ad-50-aniversario-das-letras-galegas.jpg
-  -
-    type: file
+  - type: file
     text: Descargar
     file: /files/553e7aa17c0ad-convite-presentacion-exposicion-50-carteis.pdf
 intro: null

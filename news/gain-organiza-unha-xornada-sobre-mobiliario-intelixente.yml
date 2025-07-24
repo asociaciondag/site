@@ -1,8 +1,7 @@
 id: 568
-title: 'Gain organiza unha xornada sobre mobiliario intelixente'
+title: "Gain organiza unha xornada sobre mobiliario intelixente"
 body:
-  -
-    text: |-
+  - text: |-
       Os temas que se abordarán serán:
 
       - A Internet das cousas - internet dos mobles
@@ -10,23 +9,22 @@ body:
       - Mobiliario multisensorial para servizos asistenciais e envellecemento activo
       - Micro e nano Solucións para mobiliario intelixente de valor engadido
       - Reunións B2B
-       
+
       A xornada está dirixida a emprendedores e responsables de dirección, produto ou innovación.
 
       **Data límite de inscrición:** xoves 25 de xuño de 2015.. [Inscríbete aquí](http://www.cismadeira.es/Galego/novas/02-07-2015.html)
 
-      **Data da xornada:** xoves 2 de xullo de 2015  
-       Horario: 09.30 h – 14.30 h  
-       Lugar: Salón de actos do edificio CEI  
-       [Parque Tecnolóxico de Galicia](http://www.tecnopole.es/gl)  
+      **Data da xornada:** xoves 2 de xullo de 2015
+       Horario: 09.30 h – 14.30 h
+       Lugar: Salón de actos do edificio CEI
+       [Parque Tecnolóxico de Galicia](http://www.tecnopole.es/gl)
        Xornada gratuíta. Imprescindible inscrición. Prazas limitadas.
     type: text
-  -
-    list: ''
+  - list: ""
     file: /files/55a2a25d40c5d-mobiliario-intelixente.pdf
-    text: 'Mobiliario intelixente'
+    text: "Mobiliario intelixente"
     type: file
-intro: 'A Axencia Galega de Innovación (Gain) a través do Centro de Innovación e Servizos Tecnolóxicos da Madeira (CIS-Madeira) organiza a xornada **Mobiliario Intelixente: Identificación de Oportunidades**. Nela expoñeranse distintas posibilidades tecnolóxicas e desenvolvementos específicos para o sector do moble, á vez que se presentan casos de éxito.'
+intro: "A Axencia Galega de Innovación (Gain) a través do Centro de Innovación e Servizos Tecnolóxicos da Madeira (CIS-Madeira) organiza a xornada **Mobiliario Intelixente: Identificación de Oportunidades**. Nela expoñeranse distintas posibilidades tecnolóxicas e desenvolvementos específicos para o sector do moble, á vez que se presentan casos de éxito."
 slug: gain-organiza-unha-xornada-sobre-mobiliario-intelixente
 tags: []
 lang: gl

@@ -10,31 +10,25 @@ contact: |-
 
   <hola@988.gal>
 links:
-  -
-    text: 'Web '
-    url: 'http://988.gal/'
+  - text: "Web "
+    url: "http://988.gal/"
     type: link
-  -
-    text: Twitter
-    url: 'https://twitter.com/988design'
+  - text: Twitter
+    url: "https://twitter.com/988design"
     type: twitter
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/Estudio988/'
+  - text: Facebook
+    url: "https://www.facebook.com/Estudio988/"
     type: facebook
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/988design/'
+  - text: Instagram
+    url: "https://www.instagram.com/988design/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/company/988design'
+  - text: Linkedin
+    url: "https://www.linkedin.com/company/988design"
     type: linkedin
-  -
-    text: Behance
-    url: 'https://www.behance.net/988Design'
+  - text: Behance
+    url: "https://www.behance.net/988Design"
     type: link
-name: 'Daniel Vila Prieto'
+name: "Daniel Vila Prieto"
 slug: daniel-vila-prieto
 avatarBig: null
 avatar: /img/avatars/thumbnailblack-hinted.jpg
@@ -43,10 +37,10 @@ tags:
   - Espazos
   - Editorial
   - Sinalética
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Embalaxe
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Socio fundador e deseñador gráfico en 988'
-job.es: 'Socio fundador y diseñador gráfico en 988'
+job.gl: "Socio fundador e deseñador gráfico en 988"
+job.es: "Socio fundador y diseñador gráfico en 988"

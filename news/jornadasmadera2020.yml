@@ -1,21 +1,19 @@
 id: 956
-title: ' Territorio, arquitectura y mueble en las primeras Jornadas Internacionales Madera 2020'
+title: " Territorio, arquitectura y mueble en las primeras Jornadas Internacionales Madera 2020"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/xornadasmadeiraloxemareiro.jpg
-    text: 'Detalle da las mesas en el [_chiringuito de playa_ Loxe Mareiro](http://cenlitrosmetrocadrado.com/loxe-mareiro/?lang=es), diseñadas por Cenlitrosmetrocadrado'
+    text: "Detalle da las mesas en el [_chiringuito de playa_ Loxe Mareiro](http://cenlitrosmetrocadrado.com/loxe-mareiro/?lang=es), diseñadas por Cenlitrosmetrocadrado"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Las jornadas, que tedrán lugar en la sede del CESUGA los días 7 y 8 de febrero, presentan unha serie de charlas organizadas en tres bloques: territorio, arquitectura y mueble. El vienres, en la primera sesión, se hablará de urbanismo ecológico, de ordenación, de planificación y de gestión forestal sostenible. En la sesión de tarde las presentaciones girarán en torno a la arquitectura contruida en madera. Y ya en la segunda y última jornada, el mueble será el protagonista. Los relatores hablarán de los procesos de diseño y fabricación de muebles, de proyectos que mezclan la innovación industrial y la artesanía. Nuestros compañeros Ricardo Tubío y Xabier Rilo, del estudio Cenlitrosmetrocadrado, ofreceran su particular punto de vista en esta última jornada del evento.
 
       Todas las charlas son gratuitas. Para asistir es necesaria la inscripción a través del formulario que se puede encontrar en la página web del evento. El plazo para anotarse termina este miércoles 5 de febrero.
 
       Más información en [la web de las I Jornadas Internacionales Madera 2020](http://feiradegalicia.com/jornadas_internacionales_madera/).
     type: text
-intro: 'La Agencia Gallega de la Industria Forestal (XERA), en colaboración con la Escuela de Arquitectura de CESUGA, propone un completo programa para hablar de madera desde múltiples perspectivas: la tecnología, la arquitectura, la gestión forestal y el diseño.'
+intro: "La Agencia Gallega de la Industria Forestal (XERA), en colaboración con la Escuela de Arquitectura de CESUGA, propone un completo programa para hablar de madera desde múltiples perspectivas: la tecnología, la arquitectura, la gestión forestal y el diseño."
 slug: jornadasmadera2020
 tags: []
 lang: es

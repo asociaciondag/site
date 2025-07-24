@@ -1,23 +1,19 @@
 id: 68
 contact: null
 links:
-  -
-    text: Web
-    url: 'http://www.anxolopez.com/'
+  - text: Web
+    url: "http://www.anxolopez.com/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/anxolopez/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/anxolopez/"
     type: linkedin
-  -
-    text: Medium
-    url: 'http://www.medium.com/@anxolopez'
+  - text: Medium
+    url: "http://www.medium.com/@anxolopez"
     type: link
-  -
-    text: Instagram
-    url: 'http://www.instagram.com/anxolopez/'
+  - text: Instagram
+    url: "http://www.instagram.com/anxolopez/"
     type: link
-name: 'Anxo López'
+name: "Anxo López"
 slug: anxo-lopez
 avatarBig: null
 avatar: /img/avatars/2019-anxo-perfil.jpg
@@ -37,5 +33,5 @@ bio.es: |-
   Inició su carrera desarrollando proyectos de comunicación y diseño visual para diferentes empresas e instituciones. Desde su posición como diseñador en diferentes proyectos, comenzó a preocuparse por el diseño como función estratégica. Primero en XVDMC y después en Designit, allí trabajó para clientes como Bancolombia, BBVA, Ferrovial, Gas Natural, L'oréal Paris, Leroy Merlin ou Vodafone.
 
   Además, complementa su actividad como profesor, actualmente en ESNE, pero en el pasado ha impartido aulas y conferencias en lugares como IE, IESE, UAX, SCAD, IED, o BAU. A lo largo de su carrera ha dedicado especial atención a la promoción y difusión del diseño.
-job.gl: 'Deseñador estratéxico e de servizos'
-job.es: 'Diseñador estratégico y de servicios'
+job.gl: "Deseñador estratéxico e de servizos"
+job.es: "Diseñador estratégico y de servicios"

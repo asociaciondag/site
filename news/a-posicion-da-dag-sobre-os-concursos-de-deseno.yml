@@ -1,8 +1,7 @@
 id: 518
-title: 'A posición da DAG sobre os concursos de deseño'
+title: "A posición da DAG sobre os concursos de deseño"
 body:
-  -
-    text: |-
+  - text: |-
       Dende a súa fundación, no ano 2006, a DAG vén mantendo unha postura de claro rexeitamento deste tipo de prácticas que, baixo o disfrace de oportunidade profesional, en realidade agochan un dano continuado á nosa profesión.
 
       ## O problema dos concursos de deseño
@@ -62,12 +61,12 @@ body:
       5. Equiparar a valoración económica dos premios a unha remuneración estándar de mercado, especificando de xeito claro nas bases o uso e a difusión que se lle vai dar á proposta premiada.
       6. Que os deseñadores manteñan sempre a propiedade intelectual do seu traballo, e que o que se lle ceda ao promotor do concurso sexan só os dereitos de explotación, definindo previamente a duración do tempo en que a cesión de dereitos estará vixente.
       7. Mellorar a descrición das necesidades específicas de deseño enunciadas nas bases.
-       
+
       ## Construír colectivamente
 
       Por último apelamos á responsabilidade dos profesionais do deseño para que avalíen a conveniencia de participar ou non neste tipo de concursos, partindo da consideración de que as accións individuais teñen sempre consecuencias no conxunto da comunidade de deseñadores, da que todos, sen exclusións, formamos parte; e emprazámosvos ademais a que vos acheguedes á DAG para contribuír colectivamente a mellorar as condicións nas que exercemos a nosa profesión hoxe e no futuro.
     type: text
-intro: 'Con motivo dos concursos de deseño que se fixeron públicos nos últimos días en Galicia, foron varias as deseñadoras e deseñadores galegos, asociadas á DAG ou non, que entraron en contacto coa asociación, ben para coñecer a nosa opinión ou ben demandando un posicionamento ao respecto.'
+intro: "Con motivo dos concursos de deseño que se fixeron públicos nos últimos días en Galicia, foron varias as deseñadoras e deseñadores galegos, asociadas á DAG ou non, que entraron en contacto coa asociación, ben para coñecer a nosa opinión ou ben demandando un posicionamento ao respecto."
 slug: a-posicion-da-dag-sobre-os-concursos-de-deseno
 tags:
   - concursos

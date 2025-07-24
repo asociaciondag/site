@@ -1,14 +1,12 @@
 id: 1252
-title: 'Galicia, procesos e formas, a exposición con selo galego na Porto Design Biennale'
+title: "Galicia, procesos e formas, a exposición con selo galego na Porto Design Biennale"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/procesos-e-formas-image.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A Porto Design Biennale está promovida pola Cámara Municipal de Porto e a Cámara Municipal de Matosinhos, e organizada pola ESAD Idea e a ESAD Matosinhos. ​Este ano conta con Galicia como país invitado e, ademais da exposición, contará coa edición du​n​ catálog​o e a organización de talleres e encontros ao redor do deseño para a innovación en Galicia. ​
 
       A exposición _Galicia, procesos e formas_ é un proxecto expositivo que traza un camiño polo pasado, presente e o futuro​ do deseño galego a través de profesionais e empresas chave pola súa aposta polo deseño como ferramenta de innovación desde os anos vinte do século pasado ata a actualidade. ​​
@@ -21,12 +19,11 @@ body:
 
       Para este proxecto, a Porto Design Biennale conta co apoio da Xunta de Galicia a través da Axencia Galega de Innovación, da Fundación Artesanía de Galicia e da Fundación DIDAC.
     type: text
-  -
-    list: ''
-    url: 'https://www.portodesignbiennale.pt/'
-    text: 'Web do evento'
+  - list: ""
+    url: "https://www.portodesignbiennale.pt/"
+    text: "Web do evento"
     type: button
-intro: 'O vindeiro 19 de outubro inaugúrase na galería municipal d​e​ Matosinhos a exposición _Galicia, procesos e formas_, comisariada por David Barro e na que poderemos ver traballos de socios e socias de DAG. A exposició​n poderá visitarse ata o 3 de decembro.'
+intro: "O vindeiro 19 de outubro inaugúrase na galería municipal d​e​ Matosinhos a exposición _Galicia, procesos e formas_, comisariada por David Barro e na que poderemos ver traballos de socios e socias de DAG. A exposició​n poderá visitarse ata o 3 de decembro."
 slug: galicia-procesos-e-formas-a-exposicion-con-selo-galego-na-porto-design-biennale
 tags: []
 lang: gl

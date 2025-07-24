@@ -1,13 +1,11 @@
 id: 443
-title: 'Os dous de sempre'
+title: "Os dous de sempre"
 slug: os-dous-de-sempre-gal
 body:
-  -
-    text: 'Imaxe para o podcast Os dous de Sempre'
+  - text: "Imaxe para o podcast Os dous de Sempre"
     type: text
-  -
-    image: /img/portfolio/images/podcast-dousdesempre.png
-    text: ''
+  - image: /img/portfolio/images/podcast-dousdesempre.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/podcast-dousdesempre.png
 tags:

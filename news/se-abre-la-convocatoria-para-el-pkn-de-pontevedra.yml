@@ -1,20 +1,17 @@
 id: 29
-title: 'Se abre la convocatoria para el PKN de Pontevedra'
+title: "Se abre la convocatoria para el PKN de Pontevedra"
 body:
-  -
-    text: 'El próximo día 10 de julio tendrá lugar en Pontevedra el primero evento Cierra Kucha Night de Galicia, formando parte del proyecto "Acción DAG". Un original formato expositivo para el trabajo de los nuevos creativos, un encuentro informal y alternativo que ya está presente en más de 190 ciudades de todo el mundo. Cada participante dispone de 20 segundos por 20 imágenes para exponer en público su proyecto, haciendo un total de 6 minutos y 40 segundos con un obligado "break" para reponer la cerveza-. De este modo se logran presentaciones concisas y dinámicas, manteniendo el interés en todo momento y permitiendo la participación de mucha gente. Si eres deseñador, arquitecta, tipógrafo, ilustradora, fotógrafo, publicista, bailarín, artista, cineasta, cociñeiro o perteneces a cualquiera otra disciplina y tienes un proyecto creativo de interés; envía un mínimo de 5 imágenes y una descripción de tu trabajo a pechakucha@martinovillaverde.com **Tienes de plazo hasta el 15 de junio** Toda la información sobre la convocatoria la encontraréis en http://www.pecha-kucha.org/cities/pontevedra'
+  - text: 'El próximo día 10 de julio tendrá lugar en Pontevedra el primero evento Cierra Kucha Night de Galicia, formando parte del proyecto "Acción DAG". Un original formato expositivo para el trabajo de los nuevos creativos, un encuentro informal y alternativo que ya está presente en más de 190 ciudades de todo el mundo. Cada participante dispone de 20 segundos por 20 imágenes para exponer en público su proyecto, haciendo un total de 6 minutos y 40 segundos con un obligado "break" para reponer la cerveza-. De este modo se logran presentaciones concisas y dinámicas, manteniendo el interés en todo momento y permitiendo la participación de mucha gente. Si eres deseñador, arquitecta, tipógrafo, ilustradora, fotógrafo, publicista, bailarín, artista, cineasta, cociñeiro o perteneces a cualquiera otra disciplina y tienes un proyecto creativo de interés; envía un mínimo de 5 imágenes y una descripción de tu trabajo a pechakucha@martinovillaverde.com **Tienes de plazo hasta el 15 de junio** Toda la información sobre la convocatoria la encontraréis en http://www.pecha-kucha.org/cities/pontevedra'
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9669024-pecha.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9669024-cartel-pechakucha.pdf
     text: Descargar
     type: file
-intro: 'Ya es posible inscribirse para participar en la noche PECHA KUCHA de Pontevedra, un encuentro informal de creativos en el que cada participante dispone de 20 segundos y 20 imágenes para exponer su proxecto ante el público.'
+intro: "Ya es posible inscribirse para participar en la noche PECHA KUCHA de Pontevedra, un encuentro informal de creativos en el que cada participante dispone de 20 segundos y 20 imágenes para exponer su proxecto ante el público."
 slug: se-abre-la-convocatoria-para-el-pkn-de-pontevedra
 tags: []
 lang: es

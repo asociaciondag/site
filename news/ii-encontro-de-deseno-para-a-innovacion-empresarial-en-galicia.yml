@@ -1,29 +1,25 @@
 id: 901
-title: 'II Encontro de deseño para a innovación empresarial en Galicia'
+title: "II Encontro de deseño para a innovación empresarial en Galicia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/ii-encontro-gain-imaxe.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Por segundo ano consecutivo, GAIN organiza este evento destinado a profesionais do deseño, estudantes, empresas e institucións, para servir de espazo de encontro e intercambio de ideas, experiencias e proxectos que se desenvolven en Galicia e fóra dela. Nesta ocasión, o programa marca unha liña de traballo sobre o deseño estratéxico para a innovación centrada nas persoas e traerá a profesionais como Iván Mato, director creativo de Jones Knowles Ritchie; Coca Rivas, directora de estratexia e deseño de servizos en dxi dixital; Isaac Piñeiro, deseñador e cofundador de Nadadora e fundador de Isaac Piñeiro Design Studio; Manuel Vázquez, consultor de deseño estratéxico e innovación en Soulsight; Albert Vidal do laboratorio de innovación Sparklab; Nuria Carballo, deseñadora e directora creativa do Unconventional London e José Valladares, director do departamento de obra civil de Martínez Otero.
 
       O encontro enmárcase dentro das actividades programadas por GAIN no Plan de Deseño para a Innovación 2020 e inclúe un aperitivo networking para todos os asistentes. A inscrición é gratuíta.
     type: text
-  -
-    list: ''
-    url: 'http://galiciainnovacion.es/repo/2-Programa28J.pdf.pdf'
-    text: 'Programa do encontro'
+  - list: ""
+    url: "http://galiciainnovacion.es/repo/2-Programa28J.pdf.pdf"
+    text: "Programa do encontro"
     type: button
-  -
-    list: ''
-    url: 'http://www.cisgalicia.org/contactos/campan/inscribir/15'
-    text: 'Formulario de inscrición'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/campan/inscribir/15"
+    text: "Formulario de inscrición"
     type: button
-intro: 'A Consellería de Economía, Emprego e Industria a través da Axencia Galega para a Innovación, GAIN, organiza o próximo 28 de xuño este segundo encontro no CIS Ferrol, conmemorando o día internacional do deseño industrial. Presentarase, ademais, a publicación _O deseño como motor. Casos de éxito en Galicia._'
+intro: "A Consellería de Economía, Emprego e Industria a través da Axencia Galega para a Innovación, GAIN, organiza o próximo 28 de xuño este segundo encontro no CIS Ferrol, conmemorando o día internacional do deseño industrial. Presentarase, ademais, a publicación _O deseño como motor. Casos de éxito en Galicia._"
 slug: ii-encontro-de-deseno-para-a-innovacion-empresarial-en-galicia
 tags: []
 lang: gl

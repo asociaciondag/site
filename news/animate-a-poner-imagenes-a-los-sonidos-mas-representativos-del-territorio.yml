@@ -1,8 +1,7 @@
 id: 385
-title: 'Anímate a poner imágenes a los sonidos más representativos del territorio'
+title: "Anímate a poner imágenes a los sonidos más representativos del territorio"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Esta es la idea que se encuentra detrás del programa Paisaje sonoro que organiza el [European Acoustic Heritage](http://europeanacousticheritage.eu/) y que coordina [Escoitar.org](http://www.escoitar.org/). El reto está, como no, dirigido especialmente a los ilustradores, dibujantes y diseñadores profesionales, aunque también pueden participar pintores y artistas plásticos, licenciados o estudiantes de Bellas Artes, Comunicación, Diseño Gráfico, etc. Cada participante podrá presentar hasta un máximo de cuatro propuestas visuales, una por cada uno de los sonidos a escoger entre una lista de sonidos seleccionados por la organización: sonidos humanos, industriales, de agua, de animales, de la naturaleza, urbanos, populares, domésticos. Pero ojo, antes de empezar, deberéis poneros en contacto con los organizadores para especificar los sonidos con los que vais a trabajar. La compensación económica por cada onomatopeya seleccionada será de 50 euros, libres de las retenciones legales que le sean aplicables, y las onomatopeyas ganadoras se utilizarán para ilustrar las exposiciones, mapas sonoros virtuales y las unidades didácticas en las actividades pedagógicas del proyecto. Los trabajos deberán enviarse antes del 1 DE AGOSTO del siguiente modo:
 
@@ -13,8 +12,7 @@ body:
       -Las onomatopeyas podrán estar firmadas, siempre que la firma no tenga una presencia destacada Toda la información en:
 
       <http://europeanacousticheritage.eu/paisaxe-sonora/>
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa1e0ea1-paisaxe-sonora.jpg
 intro: null
 slug: animate-a-poner-imagenes-a-los-sonidos-mas-representativos-del-territorio

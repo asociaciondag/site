@@ -1,14 +1,12 @@
 id: 1216
-title: 'A EASD Ramón Falcón cumpre 50 anos'
+title: "A EASD Ramón Falcón cumpre 50 anos"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/50anos-ramonfalcon-01.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O 50 aniversario da escola produciuse realmente no ano 2019, mais a pandemia fixo que todos os plans de celebración que se planificaran para ese curso académico se retrasaran e puideran ser unha realidade neste curso 2022-2023.
 
       Unha das accións máis importantes​ ​​que organiza a Escola é a exposición «Cabeza, Man, Corazón», ​inaugurada o pasado 24 de marzo no Vello Cárcere de Lugo e que pode visitarse ata o 30 de abril. O título destaca tres termos, «cabeza» para a creatividade e a imaxinación, «man» para a habilidade e o oficio, e «corazón» para a honestidade e o amor, como xermolo das escolas de artes e oficios entendidas como centros para o estudo, preservación e investigación dos valores artesáns, artísticos e de deseño.
@@ -19,7 +17,7 @@ body:
 
       Seguide atentas á web e ás redes sociais da [EASD Ramón Falcón](https://escoladeartelugo.com/) para coñecer de primeira man todos os actos conmemorativos deste 50 aniversario. ​​
     type: text
-intro: 'O pasado 24 de marzo inaugurouse no Vello Cárcere de Lugo a exposición «Cabeza, Man, Corazón», a primeira das principais accións conmemorativas deste 50 aniversario da EASD Ramón Falcón.​'
+intro: "O pasado 24 de marzo inaugurouse no Vello Cárcere de Lugo a exposición «Cabeza, Man, Corazón», a primeira das principais accións conmemorativas deste 50 aniversario da EASD Ramón Falcón.​"
 slug: a-easd-ramon-falcon-cumpre-50-anos
 tags: []
 lang: gl

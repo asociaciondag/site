@@ -1,14 +1,12 @@
 id: 912
-title: 'Deadline para participar en los ANUARIA y en los CLAP'
+title: "Deadline para participar en los ANUARIA y en los CLAP"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/anuariaclap.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En ambos casos se trata de premios ya consolidados: los Anuaria cumplieron el año pasado los 25 años, y los CLAP, más recientes, vienen reconociendo los mejores trabajos de diseño de toda Iberoamérica desde 2013.
 
       Además, como tanto en un caso como en otro existen descuentos del 15% para todos los socios de la DAG que quieran inscribir proyectos, queremos animar a todos sus miembros a que no dejen pasar esta oportunidad.
@@ -19,7 +17,7 @@ body:
 
       ANUARIA: <https://www.veredictas.com/es/>
     type: text
-intro: '30 de septiembre de 2019 es la fecha límite en la que se cierra el plazo de inscripción de trabajos para los Premios Nacionales de Diseño Gráfico ANUARIA y para los Premios Internacionales de Diseño CLAP.'
+intro: "30 de septiembre de 2019 es la fecha límite en la que se cierra el plazo de inscripción de trabajos para los Premios Nacionales de Diseño Gráfico ANUARIA y para los Premios Internacionales de Diseño CLAP."
 slug: deadline-para-participar-en-los-anuaria-y-en-los-clap
 tags: []
 lang: es

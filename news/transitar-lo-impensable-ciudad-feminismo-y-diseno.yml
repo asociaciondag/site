@@ -1,14 +1,12 @@
 id: 1177
-title: '«Transitar lo impensable», ciudad, feminismo y diseño'
+title: "«Transitar lo impensable», ciudad, feminismo y diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/transitar-o-impensable-1200x600.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El objetivo del programa es reflexionar acerca del diseño en el ámbito urbano, la habitabilidad y usabilidad de las ciudades desde la perspectiva de género. Las charlas, talleres e intervenciones se prolongarán hasta el 25N, Día Internacional de la Eliminación de la Violencia Contra las Mujeres.
 
       El programa cuenta con un espacio efímero en forma de triángulo en la Gran Vía de Montero Ríos de Pontevedra y funcionará como espacio expositivo de los distintos proyectos que se realicen en las diferentes actividades. Ahora mismo pueden verse los dioramas que realizó el alumnado de Bellas Artes, Moda y Publicidad del Campus de Pontevedra (UVigo) y de Diseño Industrial (UDC), metáforas visuales sobre las problemáticas que se producen por no incluir la p​erspectiva de género en el diseño y el funcionamiento del espacio público; y el mural participativo «Si lo puedes imaginar es posible»,​ ​resultado del taller realizado el pasado 20 de octubre dirigido por la ilustradora Antonia Santolaya.
@@ -20,12 +18,12 @@ body:
       - Sábado 5 de noviembre a las 11:30 h: charla-coloquio «¿Cúal es tu impensable?», con Rosa Millán y Myriam Cea.
       - Sábado 12 de noviembre a las 11:30 h: charla-coloquio «Repensar la ciudad. Miradas feministas», con Raquel Pelta y Mari Carmen Estevan.
       - Sábado 19 de noviembre a las 10:30 h: taller de contrapublicidad feminista «Hackea el discurso» con 7H Cooperativa Cultural.
-       
+
       Las charlas-coloquios son de acceso libre hasta completar aforo y se desarrollarán en el Edificio Administrativo Palacio Provincial de la Deputación de Pontevedra, sito en la misma Avda. Montero Ríos. El taller se realizará en el triángulo negro y tiene un límite de 10 plazas que se que asignarán previa inscripción en <transitaroimpensable@gmail.com> ​​​
 
       ​La clausura del programa de actividades será el​ 24 de noviembre, vísper​a​ del Día Internacional de la Eliminación de la Violencia Contra las Mujeres.
     type: text
-intro: 'El pasado 21 y 22 de octubre tuvo lugar en Pontevedra el 10º Encuentro Nacional de Diseño organizado por DAG y READ bajo el lema «Ciudades imaginadas, ciudades diseñadas». En el marco del ENAD, se presentó la programación de «Transitar lo impensable», un proyecto liderado por el grupo [Gráficas en Negro](https://www.instagram.com/graficasennegro/?hl=es).'
+intro: "El pasado 21 y 22 de octubre tuvo lugar en Pontevedra el 10º Encuentro Nacional de Diseño organizado por DAG y READ bajo el lema «Ciudades imaginadas, ciudades diseñadas». En el marco del ENAD, se presentó la programación de «Transitar lo impensable», un proyecto liderado por el grupo [Gráficas en Negro](https://www.instagram.com/graficasennegro/?hl=es)."
 slug: transitar-lo-impensable-ciudad-feminismo-y-diseno
 tags: []
 lang: es

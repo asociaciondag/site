@@ -1,23 +1,19 @@
 id: 80
 contact: null
 links:
-  -
-    text: Web
-    url: 'https://cargocollective.com/begonhapastoriza'
+  - text: Web
+    url: "https://cargocollective.com/begonhapastoriza"
     type: link
-  -
-    text: Behance
-    url: 'https://www.behance.net/BegoPastoriza'
+  - text: Behance
+    url: "https://www.behance.net/BegoPastoriza"
     type: link
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/begonhapastoriza'
+  - text: Facebook
+    url: "https://www.facebook.com/begonhapastoriza"
     type: facebook
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/begonhapastorizavarela/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/begonhapastorizavarela/"
     type: linkedin
-name: 'Begoña Pastoriza'
+name: "Begoña Pastoriza"
 slug: begona-pastoriza
 avatarBig: null
 avatar: /img/avatars/portrait-begopastoriza-dag.png
@@ -38,5 +34,5 @@ bio.es: |-
   Por otra banda, desde hace varios años desarrollo mi faceta más artística a través de la realización de obra gráfica, principalmente collages, que han sido publicados y expuestos en diferentes espacios físicos y digitales, destacando por ejemplo, el libro _Mix &amp; Match: Exploring Creative Collage Art_ de la editorial Sandu Publishing de China, _Magazine Artit.co_ de Londres o _Maché Digital_, en Los Ángeles.
 
   La última obra realizada se puede ver y adquirir en la [Galería Monty4](https://latienda.monty4.com/collections/begona-pastoriza) de A Coruña.
-job.gl: 'Deseñadora web UX/UI en Balidea e colaxista '
-job.es: 'Diseñadora web UX/UI en Balidea y collagista '
+job.gl: "Deseñadora web UX/UI en Balidea e colaxista "
+job.es: "Diseñadora web UX/UI en Balidea y collagista "

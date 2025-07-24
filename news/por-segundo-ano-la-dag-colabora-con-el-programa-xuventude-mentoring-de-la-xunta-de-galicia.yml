@@ -1,26 +1,23 @@
 id: 1189
-title: 'Por segundo año la DAG colabora con el programa Xuventude Mentoring de la Xunta de Galicia'
+title: "Por segundo año la DAG colabora con el programa Xuventude Mentoring de la Xunta de Galicia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/cartel-mentoring-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El programa busca favorecer la transición a la vida laboral de las persoas jóvenes con estudios de grado o de formación profesional y está destinado a la mejora de las habilidades y competencias para la búsqueda de empleo, tanto por cuenta propia como por cuenta ajena, a través de acciones formativas, actividades de _networking_ y de una red de personas mentoras procedentes del empresariado gallego, que ofrecerán asesoramento y apoyo. Los y las participantes además tendrán un asesoramento continuado por parte del equipo especializado del programa. El proceso de inscripción estuvo abierto hasta el 14 de septiembre de 2022.
 
       Se trata de un programa pionero promovido por la Consellería de Política Social e Xuventude da Xunta de Galicia y el Cixug, en colaboración con las tres universidades gallegas, y cofinanciado por el Fondo Social Europeo, Programa Operativo de Empleo Juvenil.
 
       En la edición anterior participaron 146 personas mentoras, realizando 49 horas de formación en habilidades y competencias, 12 jornadas de _networking_ y visitas a empresas con un resultado del 58% de los/las participantes están trabajando o completando formación.
     type: text
-  -
-    list: ''
-    url: 'https://www.xuventudementoring.gal/'
-    text: 'Más información'
+  - list: ""
+    url: "https://www.xuventudementoring.gal/"
+    text: "Más información"
     type: button
-intro: 'Xuventude Mentoring es un programa integral de formación y mentoría destinado a personas jóvenes tituladas e inscritas en el Sistema Nacional de Garantía Xuvenil en la Comunidade Autónoma de Galicia. La DAG colabora difundiendo información sobre el proyecto y sirviendo de canal para la incorporación de personas asociadas como mentoras.'
+intro: "Xuventude Mentoring es un programa integral de formación y mentoría destinado a personas jóvenes tituladas e inscritas en el Sistema Nacional de Garantía Xuvenil en la Comunidade Autónoma de Galicia. La DAG colabora difundiendo información sobre el proyecto y sirviendo de canal para la incorporación de personas asociadas como mentoras."
 slug: por-segundo-ano-la-dag-colabora-con-el-programa-xuventude-mentoring-de-la-xunta-de-galicia
 tags: []
 lang: es

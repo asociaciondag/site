@@ -1,28 +1,25 @@
 id: 175
-title: '¡Comienza el feet!'
+title: "¡Comienza el feet!"
 body:
-  -
-    text: |-
+  - text: |-
       El director de [Agadic](http://www.agadic.info/), Juan Carlos Fasero, y representantes da DAG inauguraron oficialmente el feet en una rueda de prensa que tuvo lugar a las 11 de la mañana en la Casa das Campás.
 
       A continuación, Pepe Murciego dio comienzo al taller de edición y gestión de revistas de arte experimentales que se desarrollará entre hoy y mañana; y el sábado, después de la mesa redonda del feet, será cuando presenten al público la edición especial que están realizando entre todos los participantes.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9abdade-inauguracion-do-feet-2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9abdade-comeza-o-feet-web-dag-2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'El director de [Agadic](http://www.agadic.info/), Juan Carlos Fasero, y representantes da DAG inauguraron oficialmente el feet en una rueda de prensa que tuvo lugar a las 11 de la mañana en la Casa das Campás.'
+intro: "El director de [Agadic](http://www.agadic.info/), Juan Carlos Fasero, y representantes da DAG inauguraron oficialmente el feet en una rueda de prensa que tuvo lugar a las 11 de la mañana en la Casa das Campás."
 slug: comienza-el-feet
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2010-12-02T19:43:16+00:00

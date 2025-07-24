@@ -1,14 +1,12 @@
 id: 1170
-title: 'A Galicia deseñada, unha exposición sobre​ o deseño galego'
+title: "A Galicia deseñada, unha exposición sobre​ o deseño galego"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/221006-expo-twitter.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A mostra está organizada a través de cinco períodos históricos (antecedentes, industrialización, autarquía, democracia e contemporaneidade), mais os exemplos de deseño seleccionados procuran establecer lecturas de continuidade entre diferentes momentos temporais, nunha interpretación da historia como relato e exercicio de construción colectiva.
 
       O deseño busca interpretar o «complexo» para ofrecer solucións «simples» e caracterízase por ofrecer respostas específicas a formulacións globais: pensar o concreto a partir do múltiple e o diverso. E tamén ten a súa consideración social, pois ubícase a medio camiño entre cultura e industria. É cultura pola capacidade de ser reflexo das ideas do presente, pola actitude innovadora e resilente que lle é propia, pola habilidade para crear metodoloxías e linguaxes que transcenden en moitas ocasións o seu ámbito propio de actividade. E é industria pola incidencia comprobada do deseño nos sectores produtivos e económicos, polo seu carácter transdisciplinar e a súa vontade de ofrecer solucións que melloren os produtos, sistemas, servizos, experiencias ou negocios. De aí que os deseños seleccionados e presentados na mostra transiten nesta dobre consideración.
@@ -17,10 +15,10 @@ body:
 
       Os comisarios contaron coa colaboración de Pepe Barro na parte «Antecedentes» e do estudio Cenlitrosmetrocadrado para o deseño expositivo. A exposición, que abrirá as súas portas o vindeiro 14 de outubro na sala Normal da UDC, recolle ademais traballos doutros socios e socias de DAG que contribuíron a crear a historia do deseño galego ata hoxe en día. _A Galicia deseñada_ quere ser, en último termo, unha oportunidade para a celebración do deseño como ferramenta ao servizo da sociedade.
     type: text
-intro: 'A exposición​ ​_A Galicia deseñada, símbolos, marcas e identidades gráficas_,​ comisariada por Marcos Dopico, Cibrán Rico e Suso Vázquez,​ nace co obxectivo de contribuír a establecer unha historiografía sobre o deseño galego, a partir dun catálog​o​ de traballos realizados en Galicia que poida funcionar como documentación de referencia e consulta para as deseñadoras e deseñadores actuais e futuros. Será exposta na Sala Normal da Universidade da Coruña dende o vindeiro 14 de outubro ata o 13 de xaneiro de 2023.'
+intro: "A exposición​ ​_A Galicia deseñada, símbolos, marcas e identidades gráficas_,​ comisariada por Marcos Dopico, Cibrán Rico e Suso Vázquez,​ nace co obxectivo de contribuír a establecer unha historiografía sobre o deseño galego, a partir dun catálog​o​ de traballos realizados en Galicia que poida funcionar como documentación de referencia e consulta para as deseñadoras e deseñadores actuais e futuros. Será exposta na Sala Normal da Universidade da Coruña dende o vindeiro 14 de outubro ata o 13 de xaneiro de 2023."
 slug: a-galicia-desenada-unha-exposicion-sobre-o-deseno-galego
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2022-10-11T12:00:00+00:00

@@ -1,14 +1,12 @@
 id: 1037
-title: '«Memoria viva», nueva web sobre la vida y obra de Isaac Díaz Pardo'
+title: "«Memoria viva», nueva web sobre la vida y obra de Isaac Díaz Pardo"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/webmemoriaviva.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El pasado 7 de diciembre se presentaba en la Ciudad de la Cultura de Santiago de Compostela la nueva página web dedicada a la figura de todo un referente histórico del diseño en Galicia: Isaac Díaz Pardo (22 de agosto de 1920 – 5 de enero de 2012), impulsor de Sargadelos, Ediciós do Castro, el Instituto Gallego de Información, el Laboratorio de Formas o el Museo Gallego de Arte Contemporáneo Carlos Maside.
 
       Esta nueva web recoge material sobre la vida y obra de este polifacético creador y tiene como objetivo hacer accesible a todos y todas su legado. El sitio funciona como centro digital de recursos, reuniendo todo el universo creativo de Díaz Pardo y pudiendo consultar en él documentos históricos, fotografías, audiovisuales y material didáctico.
@@ -25,12 +23,11 @@ body:
 
       La página web «Memoria viva» está disponible actualmente en gallego y castellano y próximamente también lo estará en inglés.
     type: text
-  -
-    list: ''
-    url: 'https://www.isaacdiazpardo.gal/es'
-    text: 'Web Memoria viva'
+  - list: ""
+    url: "https://www.isaacdiazpardo.gal/es"
+    text: "Web Memoria viva"
     type: button
-intro: 'Esta iniciativa se suma a los homenajes que se están llevando a cabo este 2020 con motivo del centenario del nacimiento del autor. El proyecto ha sido dirigido por María América y ha contado con la colaboración de los socios de la DAG Dani Bembibre y David Silvosa, para el que usaron la tipografía de Marcos Dopico.'
+intro: "Esta iniciativa se suma a los homenajes que se están llevando a cabo este 2020 con motivo del centenario del nacimiento del autor. El proyecto ha sido dirigido por María América y ha contado con la colaboración de los socios de la DAG Dani Bembibre y David Silvosa, para el que usaron la tipografía de Marcos Dopico."
 slug: memoria-viva-web-diaz-pardo-es
 tags: []
 lang: es

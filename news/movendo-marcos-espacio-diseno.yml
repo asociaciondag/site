@@ -1,29 +1,26 @@
 id: 1353
-title: ' «Movendo marcos» un espacio para el diseño en la CRTVG'
+title: " «Movendo marcos» un espacio para el diseño en la CRTVG"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/movendo-marcos-horizontal.jpg
-    text: 'Fotografía: CTRVG'
+    text: "Fotografía: CTRVG"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La Radio Galega estrenó la semana pasada un videopodcast sobre diseño y creatividad. Esta iniciativa dará voz a nombres destacados del diseño gallego para compartir sus experiencias y procesos de trabajo en un formato ameno y accesible, orientado a todo tipo de públicos.
 
       'Movendo Marcos', conducido por el diseñador Daniel Portela y la periodista Clara Rial, ofrece conversaciones en profundidad sobre las distintas disciplinas del deseño abordadas desde la perspectiva profesional, analizando proyectos concretos y explorando las metodologías en las que se fundamentan. Las tres primeras entregas están protagonizadas por [Dani Bembibre](https://www.costa.io/), que tratará el rediseño de marcas desde su especialización en identidades corporativas; la diseñadora [Uqui Permui](https://uqui.net/es), que conversará sobre diseño social; y el diseñador y docente Marcos Dopico, que se centrará en el ámbito de la formación académica y la tipografía.
 
       El primer capítulo ya está disponible, tanto en formato de vídeo como de audio, en las plataformas AGalega.gal y AGalega Audio y con él se le da la bienvenida a un nuevo recurso para la divulgación sobre diseño hecho en Galicia.
     type: text
-  -
-    list: ''
-    url: 'https://www.agalega.gal/videos/category/22507-movendo-marcos'
-    text: 'Acceder al videopodcast'
+  - list: ""
+    url: "https://www.agalega.gal/videos/category/22507-movendo-marcos"
+    text: "Acceder al videopodcast"
     type: button
-intro: 'Nuestro socio Dani Bembibre, del estudio Costa, es el primer entrevistado en esta iniciativa que busca reconocer la importancia del diseño gallego y su valor social, económico y cultural.'
+intro: "Nuestro socio Dani Bembibre, del estudio Costa, es el primer entrevistado en esta iniciativa que busca reconocer la importancia del diseño gallego y su valor social, económico y cultural."
 slug: movendo-marcos-espacio-diseno
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2024-11-11T20:59:00+00:00

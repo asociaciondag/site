@@ -1,14 +1,12 @@
 id: 1165
-title: 'Últimas semanas para inscribirse al 10º ENAD '
+title: "Últimas semanas para inscribirse al 10º ENAD "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imagen-noticia-enad-setembro-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ​Este año la ciudad de Pontevedra acoge el 10º Encuentro Nacional de Diseño, el segundo que se desarrolla en Galicia y el último también, pues​ a partir de 2023 será Cuenca Diseño quien recoja la presidencia de READ y, por lo tanto, la organización del evento.​
 
       La sede principal del encuentro, donde se desarrollarán las conferencias, presentaciones de proyectos y mesas redondas de las jornadas matinales, es el auditorio del Museo de Pontevedra, sito en el Edificio Castelao. Pero existen otros puntos en la ciudad de Pontevedra donde se organizan actividades paralelas de interés:
@@ -17,7 +15,7 @@ body:
       - «Intervención Transitar lo impensable», en el triángulo de Gráficas en Negr​o​ sito en la Avda. de Montero Ríos, el viernes 21 a las 20:00 h.
       - Presentación de proyectos «Diseñando hilos sostenibles con la artesanía y la moda», ​en el Convento de Santa Clara, sábado 22, a las 19:00 h.​
       - Visita guiada por la ciudad hasta la «Illa das esculturas», domingo 23, de 11:00 a 13:00 h (previa inscripción).
-       
+
       Además de los compañeros y de las compañeras de las trece asociaciones de diseño que conformamos READ, acudirán profesionales de diferentes disciplinas y entidades, tanto públicas cómo privadas; profundizaremos sobre el diseño y la planificación de las ciudades que habitamos, y pondremos en común nuevos conceptos de convivencia y de crecimiento social, pensando en el respeto al medio y en la integración de todo tipo de colectivos.
 
       El encuentro cuenta con una nueva experiencia de la mano de València Capital Mundial del Diseño 2022. Así, tanto el viernes 21 como el sábado 22 de octubre, de 9:00 a 14:30 h, será posible seguir el 10º Encuentro Nacional de Diseño desde Ágora Valéncia, pabellón sostenible en pleno corazón de la ciudad de Valencia, en la plaza del Ayuntamiento, abriendo charlas, debates y conferencias al público en general.
@@ -28,15 +26,14 @@ body:
 
       ¡Nos vemos el 21 y 22 de octubre en Pontevedra!​​
     type: text
-  -
-    list: ''
-    url: 'https://designread.es/10enad/'
-    text: 'Web 10º ENAD e inscripciones'
+  - list: ""
+    url: "https://designread.es/10enad/"
+    text: "Web 10º ENAD e inscripciones"
     type: button
-intro: 'Las inscripciones al 10º Encuentro Nacional de Diseño están abiertas desde agosto a través de la web [www.designread.es/10enad](http://www.designread.es/10enad), y más de la mitad de plazas ya están cubiertas; por lo que aquellas personas que aún no estén inscritas lo hagan para poder participar en las mesas de trabajo y en todas las actividades que tenemos organizadas.'
+intro: "Las inscripciones al 10º Encuentro Nacional de Diseño están abiertas desde agosto a través de la web [www.designread.es/10enad](http://www.designread.es/10enad), y más de la mitad de plazas ya están cubiertas; por lo que aquellas personas que aún no estén inscritas lo hagan para poder participar en las mesas de trabajo y en todas las actividades que tenemos organizadas."
 slug: ultimas-semanas-para-inscribirse-al-10-enad
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2022-09-26T12:00:00+00:00

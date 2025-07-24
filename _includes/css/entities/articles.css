@@ -23,88 +23,87 @@
  */
 
 /*
-* Estilos comúns
-*/
-.article{}
+ * Estilos comúns
+ */
+.article {}
 
-.article-header{
-	color: var(--color-medium);
+.article-header {
+  color: var(--color-medium);
 
-	/* Lista de etiquetas */
-	& > nav {
-		display: inline;
-		font-size: var(--fs-14);
-		font-weight: var(--fw-bold);
-		text-transform: uppercase;
+  /* Lista de etiquetas */
+  & > nav {
+    display: inline;
+    font-size: var(--fs-14);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
 
-		& a{
-			text-decoration: none;
-			margin-right: 1em;
-			color: var(--color-dag);
+    & a {
+      text-decoration: none;
+      margin-right: 1em;
+      color: var(--color-dag);
 
-			&:hover{
-				color: var(--color-medium);
-			}
-		}
-	}
+      &:hover {
+        color: var(--color-medium);
+      }
+    }
+  }
 
-	/* Título */
-	& > h1{
-		line-height: 1;
-		font-weight: var(--fw-bold);
-		color: var(--color-main);
-		margin: 0;
+  /* Título */
+  & > h1 {
+    line-height: 1;
+    font-weight: var(--fw-bold);
+    color: var(--color-main);
+    margin: 0;
 
-		& a {
-			text-decoration: none;
-			color: var(--color-main);
+    & a {
+      text-decoration: none;
+      color: var(--color-main);
 
-			&:hover{
-				color: var(--color-medium);
-			}
-		}
-	}
+      &:hover {
+        color: var(--color-medium);
+      }
+    }
+  }
 }
 
 .article-body {
-	color: var(--color-dark);
-	font-weight: var(--fw-light);
-	font-size: var(--fs-16);
-	line-height: 1.45;
+  color: var(--color-dark);
+  font-weight: var(--fw-light);
+  font-size: var(--fs-16);
+  line-height: 1.45;
 
-	& a{
-		color: inherit;
+  & a {
+    color: inherit;
 
-		&:hover{
-			color: var(--color-main);
-			text-decoration: none;
-		}
-	}
+    &:hover {
+      color: var(--color-main);
+      text-decoration: none;
+    }
+  }
 
-	& h2,
-	& h3 {
-		color: var(--color-main);
-		line-height: 1.1;
-		margin-top: 1.5em;
-	}
-	& h2 {
-		font-size: var(--fs-18);
-		font-weight: var(--fw-normal);
-	}
-	& h3 {
-		font-size: var(--fs-16);
-		font-weight: var(--fw-bold);
-	}
-	& li {
-		margin: 0.5em 0;
-	}
+  & h2,
+  & h3 {
+    color: var(--color-main);
+    line-height: 1.1;
+    margin-top: 1.5em;
+  }
+  & h2 {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-normal);
+  }
+  & h3 {
+    font-size: var(--fs-16);
+    font-weight: var(--fw-bold);
+  }
+  & li {
+    margin: 0.5em 0;
+  }
 
-	& strong {
-		font-weight: var(--fw-normal);
-		color: var(--color-main);
-	}
+  & strong {
+    font-weight: var(--fw-normal);
+    color: var(--color-main);
+  }
 }
-
 
 /**
  * Artigo modo listado e grella
@@ -112,181 +111,177 @@
 
 .article-grid,
 .article-list {
-	padding-top: 1.5em;
-	padding-bottom: 1.5em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
 
-	& > a {
-		text-decoration: none;
-		display: flex;
-		align-items: center;
+  & > a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
 
-		&:hover .article-header h1 {
-			color: var(--color-medium);
-		}
-	}
+    &:hover .article-header h1 {
+      color: var(--color-medium);
+    }
+  }
 
-	& .article-thumbnail {
-		display: none;
-	}
+  & .article-thumbnail {
+    display: none;
+  }
 
-	@media (--mobile-landscape) {
-		& > a {
-			display: flex;
-			align-items: center;
-		}
+  @media (--mobile-landscape) {
+    & > a {
+      display: flex;
+      align-items: center;
+    }
 
-		& .article-thumbnail {
-			margin-right: 1rem;
-			border-radius: 3px;
-			flex: 0 0 200px;
-			display: block;
-		}
-	}
+    & .article-thumbnail {
+      margin-right: 1rem;
+      border-radius: 3px;
+      flex: 0 0 200px;
+      display: block;
+    }
+  }
 
-	& .article-header {
-		& > h1 {
-			margin-top: .2em;
-			font-size: var(--fs-26);
-		}
-	}
-	& .article-author {
-		margin-top: 0.5rem;
-	}
+  & .article-header {
+    & > h1 {
+      margin-top: 0.2em;
+      font-size: var(--fs-26);
+    }
+  }
+  & .article-author {
+    margin-top: 0.5rem;
+  }
 }
-
 
 /**
  * Artigo modo grella
  */
 .article-grid {
-	border-bottom: 1px solid var(--black-8);
+  border-bottom: 1px solid var(--black-8);
 }
-
 
 /**
  * Artigo modo listado
  */
 .article-list {
-	max-width: 30em;
-	display: inline-block;
+  max-width: 30em;
+  display: inline-block;
 
-	@media (--tablet) {
-		padding-right: 3em;
-	}
+  @media (--tablet) {
+    padding-right: 3em;
+  }
 }
-
 
 /**
  * Artigo modo permalink
  */
 
 .article-permalink {
-	position: relative;
+  position: relative;
 
-	& .article-header {
-		background-position: center center;
-		background-repeat: no-repeat;
-		background-size: cover;
-		background-color: var(--color-main);
-		max-width: none;
-		margin-top: -2rem;
-		margin-bottom: 1.5rem;
-		height: 70vh;
-		color: white;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		position: relative;
-		text-align: center;
+  & .article-header {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: var(--color-main);
+    max-width: none;
+    margin-top: -2rem;
+    margin-bottom: 1.5rem;
+    height: 70vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    text-align: center;
 
-		& > * {
-			position: relative;
-			z-index: 1;
-		}
+    & > * {
+      position: relative;
+      z-index: 1;
+    }
 
-		&::before {
-			content: "";
-			display: block;
-			position: absolute;
-			background: black;
-			width: 100%;
-			height: 100%;
-			top: 0;
-			left: 0;
-			background: rgba(0, 0, 0, 0.3);
-		}
+    &::before {
+      content: "";
+      display: block;
+      position: absolute;
+      background: black;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background: rgba(0, 0, 0, 0.3);
+    }
 
-		& > h1 {
-			color: white;
-			margin-top: 0.5rem;
-			font-size: var(--fs-32);
-			letter-spacing: -0.02em;
-			max-width: 40rem;
-			text-shadow: 0 1px 1px rgba(0, 0, 0, 0.7);
+    & > h1 {
+      color: white;
+      margin-top: 0.5rem;
+      font-size: var(--fs-32);
+      letter-spacing: -0.02em;
+      max-width: 40rem;
+      text-shadow: 0 1px 1px rgba(0, 0, 0, 0.7);
 
-			@media (min-width: 30rem) {
-				font-size: var(--fs-48);
-				letter-spacing: -0.03em;
-			}
-		}
+      @media (min-width: 30rem) {
+        font-size: var(--fs-48);
+        letter-spacing: -0.03em;
+      }
+    }
 
-		& .share {
-			margin: 2rem 0;
-		}
-	}
+    & .share {
+      margin: 2rem 0;
+    }
+  }
 
-	& .article-body {
-		margin-top: 5rem;
-		padding-bottom: 2rem;
-		position: relative;
+  & .article-body {
+    margin-top: 5rem;
+    padding-bottom: 2rem;
+    position: relative;
 
-		& > .section-text {
+    & > .section-text {
+      @media (--tablet) {
+        &:first-child {
+          margin-top: -10rem;
+          padding-top: 4rem;
+          background: white;
+        }
+      }
 
-			@media (--tablet) {
-				&:first-child {
-					margin-top: -10rem;
-					padding-top: 4rem;
-					background: white;
-				}
-			}
+      /* capitular */
+      &:first-of-type > p:first-child::first-letter {
+        font-size: var(--fs-48);
+        font-weight: var(--fw-bold);
+        display: inline-block;
+        line-height: 0;
+      }
+      /* sangría */
+      & p + p {
+        text-indent: 1em;
+      }
+    }
 
-			/* capitular */
-			&:first-of-type > p:first-child::first-letter {
-				font-size: var(--fs-48);
-				font-weight: var(--fw-bold);
-				display: inline-block;
-				line-height: 0;
-			}
-			/* sangría */
-			& p + p {
-				text-indent: 1em;
-			}
-		}
+    /* Notas a pe de páxina */
+    & li:target,
+    & p:target {
+      outline: dashed var(--color-medium) 1px;
+      outline-offset: 10px;
+    }
 
-		/* Notas a pe de páxina */
-		& li:target,
-		& p:target {
-			outline: dashed var(--color-medium) 1px;
-			outline-offset: 10px;
-		}
+    & p[id] {
+      font-size: var(--fs-16);
+      text-indent: 0 !important;
+    }
+  }
 
-		& p[id] {
-			font-size: var(--fs-16);
-			text-indent: 0 !important;
-		}
-	}
+  @media (--tablet) {
+    & .article-body {
+      font-size: var(--fs-18);
 
-	@media (--tablet) {
-		& .article-body {
-			font-size: var(--fs-18);
-
-			& h2 {
-				font-size: var(--fs-26);
-			}
-			& h3 {
-				font-size: var(--fs-18);
-			}
-		}
-	}
+      & h2 {
+        font-size: var(--fs-26);
+      }
+      & h3 {
+        font-size: var(--fs-18);
+      }
+    }
+  }
 }

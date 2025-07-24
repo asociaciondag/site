@@ -1,8 +1,7 @@
 id: 681
-title: 'A DAG renova a súa Xunta Directiva'
+title: "A DAG renova a súa Xunta Directiva"
 body:
-  -
-    text: |-
+  - text: |-
       Presidente: [Óscar Otero](https://dag.gal/gl/oscarotero/)
 
       Vicepresidente: [Manuel del Río](https://dag.gal/gl/manuel-del-rio-regos/)
@@ -25,12 +24,12 @@ body:
       - Unir esforzos con outras asociacións para así aumentarmos a nosa capacidade de influencia en distintos ámbitos de decisión: no nivel europeo, estando no [BEDA](http://www.beda.org/) grazas á intermediación da READ; no nivel estatal, dentro da xa mencionada [READ](http://www.designread.es/); e aquí en Galicia, desde o[ Clúster da Comunicación Gráfica](http://www.clustergrafico.com/).
       - Reformular as canles de comunicación e organización internas da DAG para fomentar a participación dos seus socios.
       - Reforzar e mellorar as relacións coas escolas de deseño de Galicia.
-       
+
     type: text
-intro: 'O pasado 8 de xullo a asemblea xeral da DAG renovou a súa Xunta Directiva que queda configurada do seguinte xeito:'
+intro: "O pasado 8 de xullo a asemblea xeral da DAG renovou a súa Xunta Directiva que queda configurada do seguinte xeito:"
 slug: a-dag-renova-a-sua-xunta-directiva
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2016-07-13T18:50:32+00:00

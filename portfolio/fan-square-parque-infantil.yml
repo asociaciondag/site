@@ -1,18 +1,16 @@
 id: 415
-title: 'Fan Square parque infantil'
+title: "Fan Square parque infantil"
 slug: fan-square-parque-infantil
 body:
-  -
-    image: /img/portfolio/images/fansquare-logo-forma-concepto.jpg
-    text: ''
+  - image: /img/portfolio/images/fansquare-logo-forma-concepto.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/fan-square-parque-infantil.jpg
-    text: ''
+  - image: /img/portfolio/images/fan-square-parque-infantil.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/fansquare-logo-forma-concepto.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Espazos
 members_id:
   - 93

@@ -1,10 +1,9 @@
 id: 282
-title: 'Festa do mar'
+title: "Festa do mar"
 slug: festa-do-mar
 body:
-  -
-    image: /img/portfolio/images/festa-do-mar-2015.jpg
-    text: ''
+  - image: /img/portfolio/images/festa-do-mar-2015.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/festa-do-mar-2015.jpg
 tags: []
@@ -12,13 +11,10 @@ members_id:
   - 23
 lang: es
 info:
-  -
-    name: 'Cliente:'
-    value: 'Ayuntamiento de Poio'
-  -
-    name: 'Año:'
-    value: '2015'
-  -
-    name: 'Premios:'
-    value: 'IGDEA AWARDS 2017, OURO ao mellor cartel / Best Poster Festa do Mar 2015'
+  - name: "Cliente:"
+    value: "Ayuntamiento de Poio"
+  - name: "Año:"
+    value: "2015"
+  - name: "Premios:"
+    value: "IGDEA AWARDS 2017, OURO ao mellor cartel / Best Poster Festa do Mar 2015"
 draft: false

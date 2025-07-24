@@ -1,27 +1,24 @@
 id: 1274
-title: 'Dardo, Coma Comunicación, Agarimo e Desoños, premiados nos XXX Premios Anuaria'
+title: "Dardo, Coma Comunicación, Agarimo e Desoños, premiados nos XXX Premios Anuaria"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/premios-anuaria.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Os socios e socias de DAG están de parabéns por este recoñecemento que da Veredictas Excellence Standard ao traballo desenvolvido no ano 2023. En concreto, Dardo, estudio de deseño liderado pola nosa socia Conchi Mayo, levou un Ouro na categoría de mellor deseño dunha publicación editorial polo catálogo _Markus Linnenbrink. Flamigloveanddestiny_, editado por Fundación DIDAC. Este mesmo catálogo levou tamén un Ouro á mellor cuberta dun libro. Ademais, Dardo obtivo tres Seleccións Anuaria: unha polo deseño do cartel «Un viaje extraordinario. El efecto espejo de los océanos», realizado para CentroCentro Madrid-Palacio de Cibeles; outra á mellor ilustración creada para a campaña da Xunta de Galicia «Artesanía di moito de ti»; e unha terceira tamén dentro da categoría de mellor publicación editorial para _Galicia. Procesos y formas_​​.
 
       O socio Carlos El Rojo, de Coma comunicación, levou unha Selección Anuaria polo deseño de imagotipo realizado para o Tribunal Superior de Xustiza de Galiza. Pola súa banda, os compañeiros de Desoños, Carlos Álvarez, Noelia Estévez e Susana González, non paran de recoller premios pola web do Arquivo do Deseño AR\\DE, proxecto impulsado polo grupo de traballo que hai en DAG e que recentemente acadou o Premio Paraugas ao mellor deseño dixital. Agarimo estudio, liderado pola socia Mónica Lemos, levou unha Selección Anuaria polo _naming_ para Zoireo. ​​
     type: text
-  -
-    list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html'
-    text: 'Web dos premios'
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html"
+    text: "Web dos premios"
     type: button
 intro: 'Dardo levou dous Ouros en diferentes categorías co catálogo realizado para o artista Markus Linnenbrink, ademais de tres Seleccións con outros proxectos. Coma comunicación levou unha Selección polo logotipo creado para o Tribunal Superior de Xustiza de Galicia, Desoños outra polo deseño da web AR\\DE e Agarimo polo _naming_ Zoireo.'
 slug: dardo-coma-comunicacion-agarimo-e-desonos-premiados-nos-xxx-premios-anuaria
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2024-01-26T09:11:49+00:00

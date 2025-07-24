@@ -4,19 +4,16 @@ contact: |-
 
   hola@abisalstudio.com
 links:
-  -
-    text: Web
-    url: 'http://abisalstudio.com'
+  - text: Web
+    url: "http://abisalstudio.com"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/abisal.studio/'
+  - text: Instagram
+    url: "https://www.instagram.com/abisal.studio/"
     type: facebook
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/fplens/?originalSubdomain=es'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/fplens/?originalSubdomain=es"
     type: linkedin
-name: 'Fernando Ponte'
+name: "Fernando Ponte"
 slug: fernando-ponte
 avatarBig: null
 avatar: /img/avatars/fernando-ponte.jpg
@@ -26,5 +23,5 @@ tags:
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador de produto en Abisal Studio'
-job.es: 'Diseñador de producto en Abisal Studio'
+job.gl: "Deseñador de produto en Abisal Studio"
+job.es: "Diseñador de producto en Abisal Studio"

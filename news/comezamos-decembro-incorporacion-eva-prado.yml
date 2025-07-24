@@ -1,14 +1,12 @@
 id: 1104
-title: 'Comezamos decembro coa incorporación de Eva Prado'
+title: "Comezamos decembro coa incorporación de Eva Prado"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/evaprado-presentacio-n.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola!
 
       Son Eva e actualmente estou dando os meus primeiros pasos como deseñadora gráfica.
@@ -29,10 +27,10 @@ body:
 
       Saúdos e grazas por acollerme!
     type: text
-intro: 'A piques de rematar o ano, seguimos sumando asociadas. [Eva Prado](https://dag.gal/gl/eva-prado/) é a última incorporación e achégase ó deseño despois dunha longa traxectoria profesional no eido dos museos. Seguro que aporta novas e refrescantes visións. Alédanos moito que formes parte da DAG, Eva, benvida!'
+intro: "A piques de rematar o ano, seguimos sumando asociadas. [Eva Prado](https://dag.gal/gl/eva-prado/) é a última incorporación e achégase ó deseño despois dunha longa traxectoria profesional no eido dos museos. Seguro que aporta novas e refrescantes visións. Alédanos moito que formes parte da DAG, Eva, benvida!"
 slug: comezamos-decembro-incorporacion-eva-prado
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2021-12-03T10:59:54+00:00

@@ -1,27 +1,24 @@
 id: 801
-title: 'Lo lógico es ser de la DAG ;)'
+title: "Lo lógico es ser de la DAG ;)"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-presentacion-carlos-el-rojo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Tras pasar mi época de estudiante decorando mis libros, apuntes y carpetas, lo lógico era dedicarme al diseño gráfico. Así que empecé a trabajar en pequeños estudios hasta entrar, lo lógico en teoría, en una agencia de publicidad y así seguir formándome. Lo siguiente, también lógico por las cosas de la crisis, fue montarme por mi cuenta y aprender lo que no está escrito para, por fin, abrir mi propia empresa. Lógicamente. Ahora soy director de arte y socio fundador de [Coma Comunicación Creativa](http://www.coma.gal/) y lo que faltaba era darme de alta como socio en la DAG, cosa que hacía mucho tiempo que quería hacer, pero que, por lógica, no tocaba.
 
       También es posible que haya alguien que diga que lo único lógico hubiese sido no pintar en los libros, hincar los codos y sacar unas oposiciones a cualquier cosa para después disfrutar de los moscosos y de los cafés de hora y media. Pero en este espacio somos gente creativa y nadie piensa así, no?
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/es/carlos-lorenzo/'
-    text: 'Perfil de socio en la DAG'
+  - list: ""
+    url: "https://dag.gal/es/carlos-lorenzo/"
+    text: "Perfil de socio en la DAG"
     type: button
-intro: 'Que existan profesionales como Carlos que piensen que asociarse a la DAG es un paso lógico en la carrera de un diseñador nos llena de orgullo. Bienvenido!'
+intro: "Que existan profesionales como Carlos que piensen que asociarse a la DAG es un paso lógico en la carrera de un diseñador nos llena de orgullo. Bienvenido!"
 slug: lo-logico-es-ser-de-la-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2018-03-21T19:39:05+00:00

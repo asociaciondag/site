@@ -1,14 +1,12 @@
 id: 858
-title: 'Moitos proxectos de socios DAG entre os premiados Anuaria '
+title: "Moitos proxectos de socios DAG entre os premiados Anuaria "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/tac.png
-    text: 'Premio Anuaria de Ouro ao Mellor Programa de Identidade Corporativa para o Taller Atlántico Contemporáneo (TAC) de Guillotina'
+    text: "Premio Anuaria de Ouro ao Mellor Programa de Identidade Corporativa para o Taller Atlántico Contemporáneo (TAC) de Guillotina"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## **Premio Anuaria de Ouro ao Mellor Programa de Identidade Corporativa para o Taller Atlántico Contemporáneo (TAC) de Guillotina**
 
       O [TAC](https://www.tac.gl/) é unha orquestra de pequeno formato especializada en repertorio contemporáneo. Un proxecto pequeno pero cunha visión artística moi ambiciosa e arriscada se se compara co panorama da música clásica galega. Tanto o seu director coma os instrumentistas comparten paixón por achegar as obras de compositores contemporáneos, diferentes e actuais (especialmente galegos) a un público máis novo, que lle pide á música clásica unha apertura de miras que non atopa nos circuítos tradicionais. Así, máis que concertos, propoñen experiencias multidisplinares nas que mesturan a música con outras artes (creación audiovisual, gastronomía…), ou outros xéneros e sonoridades (adaptacións de obras pop, instrumentación electrónica ou non tradicional).
@@ -17,79 +15,68 @@ body:
 
       Adrián Parcero e DIego de la Iglesia crearon unha icona que xira ao redor das siglas do nome do conxunto (TAC) e que ao mesmo tempo remite a un diapasón e ao frontal dunha bicicleta. A partir de ter o elemento principal definido construíron o resto da identidade visual integrando unhas cores de carácter Atlántico (inspiradas nas cores dunha praia) e unha tipografía de pau seco sinxela e moderna, pero con personalidade. Completaron o universo visual deseñando tamén os modelos para algúns dos materiais promocionais que necesitaban, así como elementos de _merchandising_ e papelería básica.
     type: text
-  -
-    text: |-
+  - text: |-
       ## **Anuaria de Ouro na categoría de Naming para Vivalaviña! De [Guillotina](http://guillotinaestudio.com/)**
 
       Aemais de pedirlles o deseño visual do _packaging_ dalgunhas das súas primeiras referencias, Adegas Terrae tiña en mente crear unha liña de viños enfocada ao público novo, noveis no consumo de viño de calidade. Desexaban que no _naming_ se puidese albiscar o momento de consumo como unha experiencia (tendo en conta que a parte visual ía ser tamén arriscada e interactiva). Un momento máxico no que compartir e gozar de novas vivencias e emocións. O xogo de palabras de Vivalaviña! representa unha solución desenfadada, rechamante e notoria, que conecta tanto co público obxectivo como coas características do produto.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/vivalavina.jpg
-    text: 'Anuaria de Ouro na categoría de Naming para Vivalaviña! De Guillotina'
+    text: "Anuaria de Ouro na categoría de Naming para Vivalaviña! De Guillotina"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## **Selección Anuaria ao Mellor Programa de Identidade Corporativa para Soulbeer de Guillotina**
 
       Soulbeer é unha cervexería que abriu a súas portas o ano pasado en Pontevedra. Trátase dun concepto diferente de pub no que, evitando as marcas máis comerciais, o cliente pode escoller entre nada menos que 9 billas diferentes alimentadas polas mellores cervexas _craft_ e artesanais do mundo, que cambian cada mes, e máis de 75 referencias distintas en botella. Unha proposta que pon en valor os pequenos produtores e que se complementa cunha pequena vertente gastronómica (os petiscos da casa) e unha axenda de eventos bastante ampla: desde actuacións musicais en pequeno formato ata presentacións de novas cervexas ou exposicións de arte e fotografía.
 
       [Guillotina](http://guillotinaestudio.com/) creou un sistema de identidade de onda _vintage,_ inspirada en etiquetas de cervexa clásicas. Apoiáronse na elegancia da ilustración da pantera e nunha paleta de cores sobria pero efectiva para construír unha linguaxe visual que se estende polos menús, a rotulación interior e exterior ou a colección de cartaces que necesitan para comunicar (tanto en redes como pola rúa) a súa oferta de actividades.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/soulbeer.jpg
-    text: 'Selección Anuaria ao Mellor Programa de Identidade Corporativa para Soulbeer de Guillotina'
+    text: "Selección Anuaria ao Mellor Programa de Identidade Corporativa para Soulbeer de Guillotina"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## **Anuaria de ouro na categoría de Mellor Cuberta de Libro para** _**Mírame**_ **de [Dardo](http://dardo.gal/dardo/)**
 
       A exposición ¡Mírame! Retratos y otras ficciones… explora o retrato a través de diferentes disciplinas que forman a diversidade de enfoques da arte actual e invita aos espectadores a reflectirse no espello social dos retratos. Un concepto que se traslada á publicación encadernada e impresa en papel espello que actúa de espello-reflexo de novos retratos e ficcións, como reza o seu título.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/libro-mirame.jpg
-    text: 'Anuaria de ouro na categoría de Mellor Cuberta de Libro para _Mírame_ de Dardo'
+    text: "Anuaria de ouro na categoría de Mellor Cuberta de Libro para _Mírame_ de Dardo"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## **Selección Anuaria ao Mellor Deseño dunha Publicación Editorial para a Colección Artistas Galegos S. XX de Dardo**
 
       Deseño e edición dunha colección de artistas galegos relevantes do século XX. Cun formato lixeiro, nas publicacións formuladas a modo de caderno cos cantos redondeados, destacan os nomes dos artistas en _stamping_ branco desbordando os límites das cubertas, nas que as súas cores remiten á paleta cromática de cada un dos creadores.
 
       Ademais, tamén dentro dos premios de Veredictas, [Dardo ](http://dardo.gal/dardo/)conseguiu o pasado mes de decembro un [Premio Letra de Prata á Mellor Rotulación de Vehículos ](https://www.veredictas.com/index.php?md=premis&accio=guanyadors&id_categoria=1152)de ata 3500 kg (pequena empresa), cunha identidade que xa fora premiada cunha selección Anuaria.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/coleccion-artistas-gallegos.jpg
-    text: 'Selección Anuaria ao Mellor Deseño dunha Publicación Editorial para a Colección Artistas Galegos S. XX de Dardo'
+    text: "Selección Anuaria ao Mellor Deseño dunha Publicación Editorial para a Colección Artistas Galegos S. XX de Dardo"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## **Selección Anuaria na categoría de Mellor Cuberta de Libro para o _Catálogo Galicia Universal. A arte galega nas coleccións ABANCA e Afundación_ de [Desoños](https://www.desonhos.gal/)**
 
       Conceptualmente o libro representa as coleccións ABANCA e Afundación como un bloque de cor azul, cor corporativa das dúas organizacións e representativa dos símbolos identificativos de Galicia.
 
       A sobrecuberta mostra unha fiestra a través da que descubrimos a arte galega nas dúas coleccións. A fiestra alude ao texto principal do libro, _A fiestra baldeira._
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/mcg-galiciauniversaldesonhos.jpg
-    text: 'Selección Anuaria na categoría de Mellor Cuberta de Libro para o Catálogo Galicia Universal. A arte galega nas coleccións ABANCA e Afundación de Desoños'
+    text: "Selección Anuaria na categoría de Mellor Cuberta de Libro para o Catálogo Galicia Universal. A arte galega nas coleccións ABANCA e Afundación de Desoños"
     mode: normal
     type: image
-  -
-    text: 'Á alegría polos socios premiados da DAG aínda hai que sumar a dos numerosos profesionais, estudios ou axencias galegos cuxos traballos tamén foron merecentes dun galardón, nunha edición caracterizada por unha notable presenza galega. Moito parabéns, por tanto, a Amanita Estudio, Bombo Estudio, Coreti, Enpedra Wine Design Studio, quattro idcp, Roberto Núñez e Xosé Teiga Estudio.'
+  - text: "Á alegría polos socios premiados da DAG aínda hai que sumar a dos numerosos profesionais, estudios ou axencias galegos cuxos traballos tamén foron merecentes dun galardón, nunha edición caracterizada por unha notable presenza galega. Moito parabéns, por tanto, a Amanita Estudio, Bombo Estudio, Coreti, Enpedra Wine Design Studio, quattro idcp, Roberto Núñez e Xosé Teiga Estudio."
     type: text
-intro: 'Na edición 2018, os proxectos seleccionados pertencen aos estudios Guillotina da Coruña, Dardo de Santiago de Compostela e Desoños de Vigo.'
+intro: "Na edición 2018, os proxectos seleccionados pertencen aos estudios Guillotina da Coruña, Dardo de Santiago de Compostela e Desoños de Vigo."
 slug: moitos-proxectos-de-socios-dag-entre-os-premiados-anuaria
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2019-01-07T21:00:28+00:00

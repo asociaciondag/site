@@ -1,8 +1,7 @@
 id: 111
-title: 'Vídeo. Entrevista con Thomas Widdershoven do estudio Thonik'
+title: "Vídeo. Entrevista con Thomas Widdershoven do estudio Thonik"
 body:
-  -
-    text: |-
+  - text: |-
       Thonik ven creando na última década unha importante labor de creación de identidades no sector cultural, reinterpretando o paradiga tradicional dos programas modernos de identidade baseados nun esquema predefinido por un nome, un imagotipo e un logotipo. Os seus malabarismos tipográficos transforman a mensaxe textual en imaxes gráficas invasivas, compostas por unha breve -ou complexa- configuración de letras sobre múltiples variacións que construen o concepto de imaxe corporativa sin renunciar ó concepto de xogo gráfico. A versión francesa da revista **Etapes** publica periodicamente na súa web e no seu canal de **Vimeo** diferentes vídeos co máis destacado da gráfica e da cultura visual.
 
       [www.thonikbyyou.com](http://www.thonikbyyou.com)
@@ -11,7 +10,7 @@ body:
 
       [www.vimeo.com/etapesmag](http://www.vimeo.com/etapesmag)
     type: text
-intro: '**Thomas Widderhoven**, fundador xunto con **Nikki Gonnissen** do estudio holandés **Thonik**, explicanos o proceso de creación de varias das identidades visuais desenvolvidas por este estudio con sede en Amsterdam.'
+intro: "**Thomas Widderhoven**, fundador xunto con **Nikki Gonnissen** do estudio holandés **Thonik**, explicanos o proceso de creación de varias das identidades visuais desenvolvidas por este estudio con sede en Amsterdam."
 slug: video-entrevista-con-thomas-widdershoven-do-estudio-thonik
 tags: []
 lang: gl

@@ -1,21 +1,19 @@
 id: 992
-title: '«Futuros Posibles», unha publicación que reflexiona sobre o deseño na era pos-COVID'
+title: "«Futuros Posibles», unha publicación que reflexiona sobre o deseño na era pos-COVID"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/portadafuturosposiblespeq.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Coincidindo co Día Mundial do Deseño Industrial, arrancou un ciclo de catro encontros virtuais que buscan analizar o papel do deseño no contexto actual. Neste primeiro encontro, titulado _[Deseño, empresa e sociedade: futuros posibles](http://gain.xunta.gal/eventos/309/iii+encontro+deseno+innovacion+empresarial+),_ presentouse ademáis o libro _Futuros posibles: Deseño para a innovación na era pos-COVID_, que se suma á colección editada dentro do Programa de Deseño para a Innovación 2020.
 
       Nesta nova publicación, [dispoñible para consulta _online_](https://online.flippingbook.com/view/139387/), profesionais de recoñecido prestixio reflexionan sobre o papel do deseño no futuro inmediato. Os nosos socios Noemí Cortizas, Dani Bembibre, David Silvosa, Roberto Núñez e Anxo López comparten espazo con deseñadores de distintas disciplinas como Alberto Barreiro, Nuria Carballo, Coca Rivas ou Marta Verde. As páxinas deste libro tentan proxectar algo de luz sobre temas que preocupan á sociedade e como o deseño pode axudar a resolvelos. Cales son os retos aos que se enfronta o deseño? Cambiará a nosa maneira de traballar? Impoñerá esta crise un modelo máis sustentable? Como será a nosa relación cos espazos? Estas e outras preguntas buscan respostas no sector do deseño.
 
       O libro inclúe ademáis un apéndice final no que se fai referencia á imaxe creada por Alvaro Valiño para o Programa e ao uso na publicación de varias tipografías de autoría galega: Isaac Sans, creada por Marcos Dopico, e Movement e Nomada Didone, con deseño de María Ramos.
     type: text
-intro: 'O pasado 29 de xuño presentouse unha nova publicación de deseño dentro do III Encontro de Deseño para a Innovación Empresarial, organizado pola Axencia Galega de Innovación (GAIN).'
+intro: "O pasado 29 de xuño presentouse unha nova publicación de deseño dentro do III Encontro de Deseño para a Innovación Empresarial, organizado pola Axencia Galega de Innovación (GAIN)."
 slug: futuros-posibles-deseno
 tags: []
 lang: gl

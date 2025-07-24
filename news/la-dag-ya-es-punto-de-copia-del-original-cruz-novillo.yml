@@ -1,14 +1,12 @@
 id: 797
-title: 'La DAG ya es punto de copia del ORIGINAL Cruz Novillo'
+title: "La DAG ya es punto de copia del ORIGINAL Cruz Novillo"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/original-copia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La obra se divide en dos grandes bloques temáticos: una primera parte introdutoria dedicada a aclarar aquellos conceptos imprescindibles para comprender el trabajo de [Cruz Novillo](http://www.cruznovillo.com/) o de cualquier otro diseñador gráfico y una segunda centrada en el autor, con información sobre su formación, sus referentes, su visión personal sobre el diseño etc. Esta segunda parte incluye además un estudio de sus obras de diseño gráfico e identidad visual organizado por décadas desde finales de los 50 hasta ahora.
 
       La distribución se realiza mediante la copia. El sistema parte de un primer y único volumen impreso denominado ORIGINAL que tiene como función servir de matriz para la generación de copias. Ahora existen ya algunos lugares por la geografía española que disponibilizan la obra para que cualquier persona interesada pueda hacer su copia, asumiendo los gastos que isto le genere.
@@ -17,15 +15,14 @@ body:
 
       Si tú también quieres una copia, escríbenos a <info@dag.gal> y te informaremos de todo.
     type: text
-  -
-    list: ''
-    url: 'https://www.facebook.com/originalcruznovillo/'
-    text: 'Facebook del proyecto'
+  - list: ""
+    url: "https://www.facebook.com/originalcruznovillo/"
+    text: "Facebook del proyecto"
     type: button
-intro: 'ORIGINAL Cruz Novillo es un estudio realizado por Vicent Almiñana e Irene Serrano (Conjunto) que tiene como objetivo acercar la obra de José María Cruz Novillo en el campo de la identidad visual a diseñadores y profesionales de cualquier ámbito.'
+intro: "ORIGINAL Cruz Novillo es un estudio realizado por Vicent Almiñana e Irene Serrano (Conjunto) que tiene como objetivo acercar la obra de José María Cruz Novillo en el campo de la identidad visual a diseñadores y profesionales de cualquier ámbito."
 slug: la-dag-ya-es-punto-de-copia-del-original-cruz-novillo
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2018-02-14T18:54:39+00:00

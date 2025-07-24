@@ -1,14 +1,12 @@
 id: 1280
-title: 'DAG participa da Asemblea Anual de READ en Granada'
+title: "DAG participa da Asemblea Anual de READ en Granada"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/asemblea-read-2024-02.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A xuntanza tivo lugar no Museo Caja Granada, o venres 8 e o sábado 9 de marzo. Dous días de convivencia entre os e as representantes das trece asociacións que actualmente formamos parte de READ onde ademais da propia asemblea, participamos de varias actividades organizadas pola asociación anfitrioa, AAD​.
 
       O venres 8, a primeira hora da tarde, deu comezo a asemblea de READ. Nela tratáronse distintos puntos da orde do día, aprobáronse as memorias de actividades desenvolvidas pola asociación neste curso e marcouse a folla de ruta para o seguinte ano. Tamén se revisaron as necesidades e desexos dos grupos de traballo, aínda que ao día seguínte se presentaron de forma máis completa. A xornada rematou coa asistencia á manifestación en torno ao Día da Muller, organizada no centro de Granada. READ despregou as bolas de «[O feminismo vai para Bingo](https://designread.es/el-feminismo-va-para-bingo/)» proxecto do grupo de Gráficas en Negro cuio material foi confeccionado polas compañeiras de DIP Murcia.
@@ -19,7 +17,7 @@ body:
 
       Dous días, ó fin, de conversas, experiencias compartidas e novas ideas en torno ao deseño que, agardemos, tomen forma no que resta de ano.
     type: text
-intro: 'A pasada fin de semana, Uqui Permui e Laura Alonso, como representantes de DAG, acudiron á Asemblea Xeral de READ en Granada. Com​a sempre, serviu para poñer en común o traballo realizado e para coñecer o ecosistema do deseño en Andalucía.'
+intro: "A pasada fin de semana, Uqui Permui e Laura Alonso, como representantes de DAG, acudiron á Asemblea Xeral de READ en Granada. Com​a sempre, serviu para poñer en común o traballo realizado e para coñecer o ecosistema do deseño en Andalucía."
 slug: dag-participa-da-asemblea-anual-de-read-en-granada
 tags: []
 lang: gl

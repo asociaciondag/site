@@ -1,8 +1,7 @@
 id: 567
-title: 'Gain organiza una jornada sobre mobiliario inteligente'
+title: "Gain organiza una jornada sobre mobiliario inteligente"
 body:
-  -
-    text: |-
+  - text: |-
       Los temas que se abordarán serán:
 
       - La internet de las cosas – internet de los muebles
@@ -10,23 +9,22 @@ body:
       - Mobiliario multisensorial para servicios asistenciales y envejecimiento activo
       - Micro y nano soluciones para mobiliario inteligente de valor añadido
       - Reunión B2B
-       
+
       La jornada está dirigida a emprendedores y responsables de dirección, producto o innovación.
 
       **Fecha límite de inscripción:** jueves 25 de junio de 2015. [Inscríbete aquí](http://www.cismadeira.es/Galego/novas/02-07-2015.html)
 
-      **Día de la jornada:** jueves 2 de julio de 2015  
-       Hora: 09.30 h – 14.30 h  
-       Lugar: Salón de actos del edificio CEI  
-       [Parque Tecnológico de Galicia](http://www.tecnopole.es/)  
+      **Día de la jornada:** jueves 2 de julio de 2015
+       Hora: 09.30 h – 14.30 h
+       Lugar: Salón de actos del edificio CEI
+       [Parque Tecnológico de Galicia](http://www.tecnopole.es/)
        Jornada gratuita. Imprescindible inscripción. Plazas limitadas
     type: text
-  -
-    list: ''
+  - list: ""
     file: /files/55a2a25d40c5d-mobiliario-intelixente.pdf
-    text: 'Mobiliario intelixente'
+    text: "Mobiliario intelixente"
     type: file
-intro: 'La Agencia Gallega de Innovación (Gain), a través del Centro de Innovación y Servicios Tecnológicos de la Madera (CIS-Madera) organiza la jornada **Mobiliario Inteligente: Identificación de Oportunidades**. En ella se expondrán distintas posibilidades tecnológicas y desarrollos específicos para el sector del mueble, a la vez que se presentan casos de éxito.'
+intro: "La Agencia Gallega de Innovación (Gain), a través del Centro de Innovación y Servicios Tecnológicos de la Madera (CIS-Madera) organiza la jornada **Mobiliario Inteligente: Identificación de Oportunidades**. En ella se expondrán distintas posibilidades tecnológicas y desarrollos específicos para el sector del mueble, a la vez que se presentan casos de éxito."
 slug: gain-organiza-una-jornada-sobre-mobiliario-inteligente
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 893
-title: '¡Tenemos un nuevo socio!'
+title: "¡Tenemos un nuevo socio!"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/roberto-nun-ez-perfil-dag.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola,
 
       Soy [Roberto Núñez](https://robertonunez.com/), director creativo cambadés establecido en Barcelona.
@@ -23,15 +21,14 @@ body:
 
       Es un placer formar parte de la asociación.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/roberto-nunez/'
-    text: 'Perfil de socio na DAG'
+  - list: ""
+    url: "https://dag.gal/gl/roberto-nunez/"
+    text: "Perfil de socio na DAG"
     type: button
-intro: 'Se llama Roberto Núñez y, como siempre hacemos con cada nueva incorporación a la DAG, le hemos pedido que nos hablase un poco de él y de su experiencia. Esto es lo que nos ha contado.'
+intro: "Se llama Roberto Núñez y, como siempre hacemos con cada nueva incorporación a la DAG, le hemos pedido que nos hablase un poco de él y de su experiencia. Esto es lo que nos ha contado."
 slug: tenemos-un-socio-nuevo
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-06-05T09:27:45+00:00

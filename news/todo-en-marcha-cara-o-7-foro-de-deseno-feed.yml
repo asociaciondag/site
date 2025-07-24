@@ -1,14 +1,12 @@
 id: 1240
-title: 'Todo en marcha cara o 7º Foro de Deseño FEED '
+title: "Todo en marcha cara o 7º Foro de Deseño FEED "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/feed-noticia-dag-mesa-de-trabajo-1-copia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O FEED é un evento bianual que organiza a DAG desde o 2013 en diferentes cidades de Galicia. O punto de partida destes encontros foi o [FEET](https://dag.gal/es/feet-2010/), un congreso orientado á edición e á tipografía que tivo lugar en Pontevedra no 2010 e que puxo sobre a mesa a importancia das reunións de profesionais do deseño en Galicia, creando o ambiente propicio para a posta en común de proxectos, investigacións e avances en deseño dentro da nosa comunidade, tendo repercusión a nivel nacional e internacional.
 
       O obxectivo principal do FEED é o de establecer un espazo para profesionais e estudantes de deseño onde compartir experiencias e propiciar a reflexión e o debate dentro da nosa profesión, así como satisfacer a demanda de formación continua. Hoxe, é xa un evento de referencia no noroeste da península para todas as persoas e axentes económicos e culturais interesados nos valores innovadores do deseño.
@@ -25,10 +23,10 @@ body:
 
       A imaxe gráfica do Foro é de [Paula Cantero](https://www.instagram.com/origamiestudioscq/), socia de DAG, que resultou seleccionada tras unha chamada a proxecto interna. A venda de entradas lanzarase en setembro así que estade atentas ás nosas canles e anotade desde xa as datas na axenda.
     type: text
-intro: 'Os días 3 e 4 de novembro a DAG organiza en Santiago de Compostela a 7º Edición do FEED. O Foro de Deseño que vén celebrándose desde o 2010, é unha cita xa imprescindible para profesionais e estudantes de deseño na nosa comunidade.'
+intro: "Os días 3 e 4 de novembro a DAG organiza en Santiago de Compostela a 7º Edición do FEED. O Foro de Deseño que vén celebrándose desde o 2010, é unha cita xa imprescindible para profesionais e estudantes de deseño na nosa comunidade."
 slug: todo-en-marcha-cara-o-7-foro-de-deseno-feed
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2023-07-07T09:23:50+00:00

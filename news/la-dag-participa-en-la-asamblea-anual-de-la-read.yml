@@ -1,14 +1,12 @@
 id: 711
-title: 'La DAG participa en la asamblea anual de la READ'
+title: "La DAG participa en la asamblea anual de la READ"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/589e0255682eb-asamblea-read-marzo-2017.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El resto de temas de la asamblea puede consultarse en el orden del día que reproducimos a continuación:
 
       10.00 h Recepción
@@ -18,13 +16,13 @@ body:
       - Aprobación del acta de la asamblea 2016
       - Memoria de actividades de 2016
       - Resumen de las cuentas de 2016
-       
+
       12.00 h Desarrollo y gestión de proyectos en curso. Intervendrán el coordinador general y los responsables de los proyectos:
 
       - Transferencias 2016 / FSWD / Memorias del Diseño / Plataformas
       - 5ENAD
       - Comunicación
-       
+
       14.00 h Comida
 
       15.00 h Renovación de cargos y plan de trabajo para 2017-2018:
@@ -32,10 +30,10 @@ body:
       - Presentación de la hoja de ruta 2017/18
       - Presentación del código deontológico
       - Modelo de finaciación
-       
+
       Otros temas de interés para las asociaciones.
     type: text
-intro: 'La asamblea tendrá lugar el próximo 16 de febrero en la Central de Diseño en Matadero (Madrid) y en ella se abordarán asuntos como el desarrollo de los proyectos en curso, la hoja de ruta para el 2017-2018 o la presentación del código deontológico para la práctica del diseño en el que lleva trabajando un grupo de profesionales del diseño desde el último 4ENAD (Encuentro Nacional de Asociaciones de Diseño) organizado por la [READ](http://www.designread.es/).'
+intro: "La asamblea tendrá lugar el próximo 16 de febrero en la Central de Diseño en Matadero (Madrid) y en ella se abordarán asuntos como el desarrollo de los proyectos en curso, la hoja de ruta para el 2017-2018 o la presentación del código deontológico para la práctica del diseño en el que lleva trabajando un grupo de profesionales del diseño desde el último 4ENAD (Encuentro Nacional de Asociaciones de Diseño) organizado por la [READ](http://www.designread.es/)."
 slug: la-dag-participa-en-la-asamblea-anual-de-la-read
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 873
-title: 'Participa en la recopilación de datos del Ecosistema del Diseño español'
+title: "Participa en la recopilación de datos del Ecosistema del Diseño español"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/img-20190217-wa0000.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El Ecosistema del Diseño es un proyecto ambicioso que trata, por un lado, de completar e identificar los agentes del sistema del Diseño tanto del lado de la oferta (diseñadores, escuelas e investigación) como de la demanda (usuarios, apoyo y promoción), incluyendo actores como administraciones responsables del desarrollo de políticas en diseño e instrumentos de financiación. Por otro lado, pretende llevar a cabo una primera aproximación tanto cuantitativa como cualitativa de las empresas y/o autónomos cuya actividad económica principal esté vinculada a servicios de diseño.
 
       Es preciso conocer el número total de empresas, pero también los servicios de diseño que ofrecen, el perfil de los integrantes, el volumen de ingresos de explotación, el empleo que generan, el grado de internacionalización y también describir la cadena de valor de este sector
@@ -19,7 +17,7 @@ body:
 
       <https://www.ecosistemadeldiseño.es/>
     type: text
-intro: 'La Secretaría de Estado de Universidades, Investigación, Desarrollo e Innovación promueve un estudio para caracterizar el sector del Diseño en España. De la dirección y coordinación se encarga el Barcelona Centre de Disseny, y también colabora la READ.'
+intro: "La Secretaría de Estado de Universidades, Investigación, Desarrollo e Innovación promueve un estudio para caracterizar el sector del Diseño en España. De la dirección y coordinación se encarga el Barcelona Centre de Disseny, y también colabora la READ."
 slug: participa-en-la-recopilacion-de-datos-del-ecosistema-del-diseno-espanol
 tags: []
 lang: es

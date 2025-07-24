@@ -1,13 +1,11 @@
 id: 383
-title: 'Zara accessories'
+title: "Zara accessories"
 slug: zara-accessories
 body:
-  -
-    text: ''
+  - text: ""
     type: text
-  -
-    image: /img/portfolio/images/20210805-2.jpg
-    text: ''
+  - image: /img/portfolio/images/20210805-2.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/20210805-2.jpg
 tags:

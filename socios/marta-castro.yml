@@ -1,22 +1,20 @@
 id: 102
-contact: ''
+contact: ""
 links:
-  -
-    text: Web
-    url: 'https://www.heicastro.com/'
+  - text: Web
+    url: "https://www.heicastro.com/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/heicastrostudio/'
+  - text: Instagram
+    url: "https://www.instagram.com/heicastrostudio/"
     type: facebook
-name: 'Marta Castro'
+name: "Marta Castro"
 slug: marta-castro
 avatarBig: null
 avatar: /img/avatars/cuadrada-marta-castro.jpg
 tags:
   - Sinalética
   - Editorial
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
   - Infografía
 draft: true
@@ -28,5 +26,5 @@ bio.es: |-
   Mi nombre es Marta Castro, y trabajo como diseñadora gráfica en mi propio estudio, llamado Hei Castro.
 
   Mi formación relacionada con el mundo del diseño fue en la escuela Ramón Falcón de Lugo, donde cursé el grado de Diseño Gráfico. Al finalizar los estudios, fundé junto con otros tres socios y amigos la cooperativa Ailalelo, que desde el 2012 hasta el 2016 trabajó en el campo del diseño y del desarrollo de webs y aplicaciones móviles. En esos mismos años también colaboré con el Museo Provincial de Lugo, para el que desarrollé proyectos de diseño gráfico en distintas iniciativas y exposiciones. Después de esta experiencia en la cooperativa, muy positiva y enriquecedora, monté mi propio estudio, Hei Castro, que tiene en la creación de marcas uno de sus puntos fuertes. Mi trabajo busca enfatizar la impronta emocional de las marcas, tratando de hacer un hueco en la mente del "consumidor".
-job.gl: 'Deseñadora gráfica en Hei Castro'
-job.es: 'Diseñadora gráfica en Hei Castro'
+job.gl: "Deseñadora gráfica en Hei Castro"
+job.es: "Diseñadora gráfica en Hei Castro"

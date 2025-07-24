@@ -1,24 +1,21 @@
 id: 642
-title: 'Puede haber mejor forma de empezar la semana que recibiendo a un nuevo socio?'
+title: "Puede haber mejor forma de empezar la semana que recibiendo a un nuevo socio?"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/56c9f6572e690-seica-chove-enrique.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ¡Gracias y hola! Mi nombre es Enrique Raimúndez y soy natural de Ourense, donde me formé como diseñador en la EASD Antonio Faílde. Hoy resido y trabajo en Compostela.
 
       Me trae como socio la creencia de que la DAG ya me representaba incluso antes de conocerla. Por eso empiezo este saludo agradeciendo a todas y todos vuestro trabajo. Aportaré todo cuanto pueda para que esta comunidad siga dando voz y reconociendo el valor del Diseño.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/enrique-raimundez-fdez/'
-    text: 'Perfil de socio DAG'
+  - list: ""
+    url: "https://dag.gal/gl/enrique-raimundez-fdez/"
+    text: "Perfil de socio DAG"
     type: button
-intro: 'Bienvenido, Enrique!'
+intro: "Bienvenido, Enrique!"
 slug: puede-haber-mejor-forma-de-empezar-la-semana-que-recibiendo-a-un-nuevo-socio
 tags: []
 lang: es

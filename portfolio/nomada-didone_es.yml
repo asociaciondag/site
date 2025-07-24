@@ -1,32 +1,26 @@
 id: 257
-title: 'Nomada Didone'
+title: "Nomada Didone"
 slug: nomada-didone
 body:
-  -
-    text: |-
+  - text: |-
       Familia tipográfica didona para el sistema tipográfico Nomada. El diseño adapta las características clásicas de las didonas para ofrecer una visión más contemporánea y versátil. Las 18 fuentes incluidas dan forma a una amplia paleta tipográfica.
 
       Web: [www.tipografies.com/fonts/nomada-didone/styles/](http://www.tipografies.com/fonts/nomada-didone/styles/)
     type: text
-  -
-    image: /img/portfolio/images/nomada.png
-    text: ''
+  - image: /img/portfolio/images/nomada.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/nomada2.png
-    text: ''
+  - image: /img/portfolio/images/nomada2.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/nomada3.png
-    text: ''
+  - image: /img/portfolio/images/nomada3.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/nomada4.png
-    text: ''
+  - image: /img/portfolio/images/nomada4.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/nomada5.png
-    text: ''
+  - image: /img/portfolio/images/nomada5.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/nomada.png
 tags:
@@ -35,10 +29,8 @@ members_id:
   - 56
 lang: es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Tipografies
-  -
-    name: Año
-    value: '2018'
+  - name: Año
+    value: "2018"
 draft: true

@@ -1,22 +1,20 @@
 id: 217
-title: '988'
-slug: '988'
+title: "988"
+slug: "988"
 body:
-  -
-    text: |-
+  - text: |-
       Identidade visual do noso primeiro cliente, nós mesmos.
 
       Adoptamos o prefixo da provincia como naming. Por unha banda fai referencia ás nosas orixes e raíces culturais, e pola outra, o feito de utilizar unha cifra, é dicir, un código de comunicación universal, reflicte a determinanción por traballar e comunicar de xeito global.
 
       A nivel gráfico, o elemento central da nosa imaxe recae nunha tipografía personalizada de tipo industrial, modular e stencil que xunto a xerarquías espaciais diáfanas permite xerar un sistema que busca salientar os principais valores da marca (sinxeleza, calidade e honestidade) a través das distintas aplicacións.
     type: text
-  -
-    image: /img/portfolio/images/988.jpg
-    text: ''
+  - image: /img/portfolio/images/988.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/988-thumbnail.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 57
 lang: gl

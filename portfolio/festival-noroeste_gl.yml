@@ -1,23 +1,20 @@
 id: 368
-title: 'Festival Noroeste'
+title: "Festival Noroeste"
 slug: festival-noroeste
 body:
-  -
-    text: 'Imaxe gráfica das edicións 29–33.'
+  - text: "Imaxe gráfica das edicións 29–33."
     type: text
-  -
-    image: /img/portfolio/images/publicacionnoroeste.jpg
-    text: ''
+  - image: /img/portfolio/images/publicacionnoroeste.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/portadanoroeste.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
 members_id:
   - 81
 lang: gl
 info:
-  -
-    name: Cliente
-    value: 'Concello da Coruña'
+  - name: Cliente
+    value: "Concello da Coruña"
 draft: false

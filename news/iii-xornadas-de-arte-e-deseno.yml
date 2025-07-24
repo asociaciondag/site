@@ -1,14 +1,12 @@
 id: 945
-title: ' III Xornadas de Arte e Deseño '
+title: " III Xornadas de Arte e Deseño "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/destacado-web-3xad.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       # Programa das Xornadas
 
       ## Luns 16 de decembro 2019
@@ -51,7 +49,7 @@ body:
 
       [https://www.instagram.com/easd\_pablopicasso/](https://www.instagram.com/easd_pablopicasso/)
     type: text
-intro: 'Do 16 ao 20 de decembro de 2019 terán lugar as III Xornadas de Arte e Deseño organizadas pola EASD Pablo Picasso. Ao longo de 5 días, contarán coa presenza de profesionais do ámbito da fotografía, da ilustración, do dourado, da animación, do deseño gráfico e de interiores.'
+intro: "Do 16 ao 20 de decembro de 2019 terán lugar as III Xornadas de Arte e Deseño organizadas pola EASD Pablo Picasso. Ao longo de 5 días, contarán coa presenza de profesionais do ámbito da fotografía, da ilustración, do dourado, da animación, do deseño gráfico e de interiores."
 slug: iii-xornadas-de-arte-e-deseno
 tags: []
 lang: gl

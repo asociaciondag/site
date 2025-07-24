@@ -2,27 +2,22 @@ id: 10
 title: Dente
 slug: dente
 body:
-  -
-    text: |-
+  - text: |-
       Dente es una lámpara de escritorio inicialmente proyectada para equipar oficinas. Su minimalismo y elegancia la hacen apropiada también para su uso en el hogar. Dispone de un brazo con articulación esférica que le otorga gran libertad de movimientos. Esta construida en poliamida reforzada y equipada con una bombilla dicroica LED de 5W y 3500K.
 
       Proyecto desarrollado en el Máster de diseño de Mobiliario dirigido por Ricard Ferrer, que se imparte en la escuela Elisava (Escola Superior de Disseny i Enginyeria) de Barcelona.
     type: text
-  -
-    image: /img/portfolio/images/555cda6784750-2-dente-imagen2.jpg
-    text: ''
+  - image: /img/portfolio/images/555cda6784750-2-dente-imagen2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cda6784bec-2-dente-imagen3.jpg
-    text: ''
+  - image: /img/portfolio/images/555cda6784bec-2-dente-imagen3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cda6784e4d-2-dente-imagen4.jpg
-    text: ''
+  - image: /img/portfolio/images/555cda6784e4d-2-dente-imagen4.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cda67850e9-2-dente-imagen11.jpg
-    text: ''
+  - image: /img/portfolio/images/555cda67850e9-2-dente-imagen11.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558556599d4e6-555cda6784750-2-dente-imagen2.jpg
 tags:
@@ -35,16 +30,12 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'ROK Design'
-  -
-    name: Proxecto
-    value: 'Dente. Flexo técnico-decorativo para oficinas y hogar'
-  -
-    name: Cliente
-    value: 'Proyecto desarrollado en el Máster de diseño de Mobiliario, Elisava (Escola Superior de Disseny i Enginyeria) de Barcelona.'
-  -
-    name: Ano
-    value: '2012'
+  - name: Estudio
+    value: "ROK Design"
+  - name: Proxecto
+    value: "Dente. Flexo técnico-decorativo para oficinas y hogar"
+  - name: Cliente
+    value: "Proyecto desarrollado en el Máster de diseño de Mobiliario, Elisava (Escola Superior de Disseny i Enginyeria) de Barcelona."
+  - name: Ano
+    value: "2012"
 draft: false

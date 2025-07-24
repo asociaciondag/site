@@ -1,27 +1,24 @@
 id: 1372
-title: 'Era Comunicación e Sr. Concejo premiados nos Anuaria'
+title: "Era Comunicación e Sr. Concejo premiados nos Anuaria"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/premios-anuaria-2024.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Os Premios Anuaria celebran a súa 31 edición​ e publican na súa we​b​ a lista completa de proxectos premiados nas diferentes categorías​. Temos que trasladar os parabéns a dous compañeiros de DAG. Por un lado, José A. Pérez Gil de [Era Comunicación](https://eracomunicacion.com/) que conseguiu unha Selección Anuaria ao mellor cartel polo 30º Festival de Jazz e Blues de Pontevedra. E por outra banda, Yago Concejo, de [Sr. Concejo](https://srconcejo.es/), que recibiu unha Selección Anuaria polo traballo de márketing directo realizado para PF1 interiorismo.
 
       O xurado dos premios está formado exclusivamente por representantes designados das organizacións profesionais. Este ano, representando a DAG estivo o compañeiro Carlos el Rojo.​​
     type: text
-  -
-    list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html/0/0/all/2024/-'
-    text: 'Web dos premios'
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html/0/0/all/2024/-"
+    text: "Web dos premios"
     type: button
-intro: 'A XXXI Edición dos Premios Anuaria acaba de publicar os proxectos premiados e entre eles atopamos aos socios José A. Pérez Gil de Era Comunicación e Yago Concejo de Sr. Concejo, con traballos en diferentes categorías.'
+intro: "A XXXI Edición dos Premios Anuaria acaba de publicar os proxectos premiados e entre eles atopamos aos socios José A. Pérez Gil de Era Comunicación e Yago Concejo de Sr. Concejo, con traballos en diferentes categorías."
 slug: era-comunicacion-e-sr-concejo-premiados-nos-anuaria
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2025-01-27T11:31:48+00:00

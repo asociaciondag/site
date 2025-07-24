@@ -2,8 +2,7 @@ id: 139
 title: Baixamar
 slug: baixamar
 body:
-  -
-    text: |-
+  - text: |-
       Baixamar es un estante para albergar, principalmente, cuentos infantiles. Aunque realmente, admite cualquier objeto cuyas dimensiones se acojan a las del hueco presentado.
 
       Baixamar surge de la combinación de dos estantes individuales Adorna situados en paralelo. Una vez colocados dichos estantes y a partir de tres sencillos pasos, obtenemos la estantería (y sin necesidad de herramientas).
@@ -12,17 +11,14 @@ body:
 
       Las combinaciones cromáticas (en clara alusión al pintado tradicional de dichas embarcaciones) y el contraste con la madera natural, dotan a los estantes de una premeditada “calidez artesanal”.
     type: text
-  -
-    image: /img/portfolio/images/570f65e499654-bai003-lateral.jpg
-    text: ''
+  - image: /img/portfolio/images/570f65e499654-bai003-lateral.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f4dc7b09fb-bai003-perspectiva.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4dc7b09fb-bai003-perspectiva.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f4dc7b0ccb-baixamar-composicion-1.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4dc7b0ccb-baixamar-composicion-1.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/570f4dc7b061d-bai003-lateral.jpg
 tags: []

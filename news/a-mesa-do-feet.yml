@@ -1,8 +1,7 @@
 id: 179
-title: 'A mesa do feet'
+title: "A mesa do feet"
 body:
-  -
-    text: |-
+  - text: |-
       Participan:
 
       **Pepe Barro**, deseñador galego con máis de trinta anos de profesión ás costas e membro da [Asociación Galega de Deseñadores](../../../?p=1). Ao fronte do seu estudio [Grupo Revisión Deseño](http://gruporevision.com/) leva desenvolvendo traballos de deseño editorial coma o do semanario _A Nosa Terra,_ 1977; _O Diario de Galicia,_ 1987; a revista _Tempos,_ 1996, e publicacións de Turgalicia entre 2001 e 2004. Entre os diversos premios que recibiu figuran o Premio Xerais á cooperación editorial en 2000, o Premio letra 2002 (SIGN-IFEMA) e o Premio AEPD de deseño en 2006.
@@ -21,22 +20,20 @@ body:
 
       **Título**: A edición como campo aberto de expresión **Día**: sábado, 4 de decembro **Hora**: 11.00 h **Lugar**: A Casa das Campás **Entrada libre**
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9b1f1e2-a-mesa-do-feet-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9b1f1e2-a-mesa-do-feet-2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'A edición como campo aberto de expresión **Día**: sábado, 4 de decembro **Hora**: 11.00 h **Lugar**: A Casa das Campás **Entrada libre**'
+intro: "A edición como campo aberto de expresión **Día**: sábado, 4 de decembro **Hora**: 11.00 h **Lugar**: A Casa das Campás **Entrada libre**"
 slug: a-mesa-do-feet
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang:
   - gl
   - es

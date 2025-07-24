@@ -1,14 +1,12 @@
 id: 1178
-title: 'Roberto Núñez y Cenlitrosmetrocadrado seleccionados en la 8ª Bienal Iberoamericana de Diseño '
+title: "Roberto Núñez y Cenlitrosmetrocadrado seleccionados en la 8ª Bienal Iberoamericana de Diseño "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-cenlitros-roberto-bid22.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La Bienal Iberoamericana de Diseño (BID), organizada por la[ Fundación Diseño Madrid](https://dimad.org/), tiene lugar cada dos años en la Central de Diseño de Matadero Madrid y es la cita más importante del diseño contemporáneo iberoamericano con la participación de 22 países.
 
       La BID es una iniciativa que permite al público acercarse a la disciplina del diseño y su entorno, además de ser un punto de encuentro, por un lado para la reflexión y el pensamiento y, por el otro, para establecer relaciones entre profesionales, con empresas del sector y el ámbito académico. Año tras año se consolida como un foro para generar ideas y compartirlas. La participación en su convocatoria ofrece a los participantes el acceso al Sello BID, marca de calidad y estándar de excelencia y conlleva una serie de oportunidades de visibilidad.
@@ -21,15 +19,14 @@ body:
 
       Ricardo Tubío y Xabier Rilo han sido seleccionados por su trabajo [OCO. Mobiliario urbano](http://cenlitrosmetrocadrado.com/oco/?lang=es). Una de las vías que decide explorar la marca de prefabricados de hormigón Rodiñas, es el desarrollo y producción de una línea de equipamiento urbano. La primera pieza que lanza al mercado es un sistema modular de elementos de asiento/descanso producidos íntegramente en hormigón. La solución se presenta como un sistema flexible y adaptable tanto en tamaño, distribución y color, proporcionando una gran capacidad de integración en los diferentes contextos de instalación así como una amplia diversidad morfológica y formas de uso. La componente modular le confiere la capacidad de crecimiento y combinatoria a partir de dos únicas piezas, producidas con un único molde, lo que supone una considerable reducción de la inversión inicial necesaria.
     type: text
-  -
-    list: ''
-    url: 'https://www.bid-dimad.org/'
-    text: 'Más información'
+  - list: ""
+    url: "https://www.bid-dimad.org/"
+    text: "Más información"
     type: button
-intro: 'Entre el 21 y el 25 de noviembre se celebrará la semana inaugural en La Central de Diseño, centro cultural Matadero Madrid donde, entre los proyectos seleccionados, podremos ver los de nuestros socios Roberto Núñez, Ricardo Tubío y Xabier Rilo​.'
+intro: "Entre el 21 y el 25 de noviembre se celebrará la semana inaugural en La Central de Diseño, centro cultural Matadero Madrid donde, entre los proyectos seleccionados, podremos ver los de nuestros socios Roberto Núñez, Ricardo Tubío y Xabier Rilo​."
 slug: roberto-nunez-y-cenlitrosmetrocadrado-seleccionados-en-la-8-bienal-iberoamericana-de-diseno
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2022-11-08T12:00:00+00:00

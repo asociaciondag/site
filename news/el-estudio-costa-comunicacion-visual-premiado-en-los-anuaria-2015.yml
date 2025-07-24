@@ -1,55 +1,45 @@
 id: 632
-title: 'El estudio Costa Comunicación Visual premiado en los Anuaria 2015'
+title: "El estudio Costa Comunicación Visual premiado en los Anuaria 2015"
 body:
-  -
-    text: 'La revista SONZINE, realizada para Estrella Galicia y galardonada con un Anuaria de Oro en la categoría al mejor diseño de una publicación periódica:'
+  - text: "La revista SONZINE, realizada para Estrella Galicia y galardonada con un Anuaria de Oro en la categoría al mejor diseño de una publicación periódica:"
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/56993415b6e2d-sonzine.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'El proyecto A PORTA ABERTA / LA PUERTA ABIERTA para promocionar la participación e innovación democráticas en el ayuntamiento de A Coruña, premiado doblemente con un Anuaria de Oro en la categoría de mejor PLV y con una Selección Anuaria en la categoría de mejor campaña de interés social.'
+  - text: "El proyecto A PORTA ABERTA / LA PUERTA ABIERTA para promocionar la participación e innovación democráticas en el ayuntamiento de A Coruña, premiado doblemente con un Anuaria de Oro en la categoría de mejor PLV y con una Selección Anuaria en la categoría de mejor campaña de interés social."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/56993415b8f49-a-porta-aberta-1.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/56993415b9400-a-porta-aberta-2.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Por su parte, la identidad VALENTÍN obtuvo una Selección Anuaria al mejor programa de identidad corporativa.'
+  - text: "Por su parte, la identidad VALENTÍN obtuvo una Selección Anuaria al mejor programa de identidad corporativa."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/56993415b99b7-valentin.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Y una Selección Anuaria recibió también el catálogo realizado para la firma de iluminación Garay Estudio.'
+  - text: "Y una Selección Anuaria recibió también el catálogo realizado para la firma de iluminación Garay Estudio."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/56993415b9dc2-garay-studio.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: null
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'Cuatro han sido los trabajos de nuestros socios [Dani Bembibre](http://www.costa.io/) e [David Silvosa](http://www.costa.io/) reconocidos por un jurado constituido por representantes de las asociaciones y centros de diseño:'
+intro: "Cuatro han sido los trabajos de nuestros socios [Dani Bembibre](http://www.costa.io/) e [David Silvosa](http://www.costa.io/) reconocidos por un jurado constituido por representantes de las asociaciones y centros de diseño:"
 slug: el-estudio-costa-comunicacion-visual-premiado-en-los-anuaria-2015
 tags: []
 lang: es

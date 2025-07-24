@@ -1,21 +1,17 @@
 id: 6
-title: 'Mesa de Acción'
+title: "Mesa de Acción"
 slug: mesa-de-accion
 body:
-  -
-    text: '“Mesa de Acción: Radiografía do deseño galego”, organizada pola Asociación DAG, foi unha mesa de debate que analizou a situación do deseño en Galicia nas primeiras décadas dos século XXI. A partires da idea da sobreimpresión sobre papel como unha metáfora da conformación dos diferentes procesos do deseño, creouse unha gráfica de capas tipográficas superpostas aproveitando as posibilidades formais da tipogafía Replica do estudio suizo Norm. A xeometría dos glifos, posibilitou unha clara grella tipográfica sobre a que dispoñer todos os demais elementos.'
+  - text: "“Mesa de Acción: Radiografía do deseño galego”, organizada pola Asociación DAG, foi unha mesa de debate que analizou a situación do deseño en Galicia nas primeiras décadas dos século XXI. A partires da idea da sobreimpresión sobre papel como unha metáfora da conformación dos diferentes procesos do deseño, creouse unha gráfica de capas tipográficas superpostas aproveitando as posibilidades formais da tipogafía Replica do estudio suizo Norm. A xeometría dos glifos, posibilitou unha clara grella tipográfica sobre a que dispoñer todos os demais elementos."
     type: text
-  -
-    image: /img/portfolio/images/5554e4e090b9b-AccionDAG1.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e4e090b9b-AccionDAG1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e4e090b9b-AccionDAG2.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e4e090b9b-AccionDAG2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e4e090b9b-AccionDAG3.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e4e090b9b-AccionDAG3.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585538b2f784-5554e4e090b9b-acciondag2.jpg
 tags:
@@ -26,16 +22,12 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'De dominio público'
-  -
-    name: Proxecto
-    value: 'Mesa de Acción: Radiografía do deseño galego'
-  -
-    name: Cliente
-    value: 'Asociación DAG'
-  -
-    name: Ano
-    value: '2011'
+  - name: Estudio
+    value: "De dominio público"
+  - name: Proxecto
+    value: "Mesa de Acción: Radiografía do deseño galego"
+  - name: Cliente
+    value: "Asociación DAG"
+  - name: Ano
+    value: "2011"
 draft: false

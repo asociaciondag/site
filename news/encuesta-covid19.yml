@@ -1,26 +1,23 @@
 id: 979
-title: 'READ publica una encuesta para evaluar los efectos del COVID-19 en el sector del diseño'
+title: "READ publica una encuesta para evaluar los efectos del COVID-19 en el sector del diseño"
 body:
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/encuesta2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La encuesta permitirá recopilar datos objetivos para saber como está afectando el confinamento a la actividad profesional de personas autónomas y pymes que ofrecen servicios de diseño.
 
       Los datos recopilados servirán para formular algunas recomendaciones a las instituciones competentes para activar medidas e instrumentos de apoyo al sector.
 
       El cuestionario es breve y anónimo y está disponible en cuatro lenguas ([castellano](https://read-covid19.typeform.com/to/bmHd3s), [galego](https://read-covid19.typeform.com/to/w7pxi9), [euskera](https://read-covid19.typeform.com/to/Q2iNig) y [valencià](https://read-covid19.typeform.com/to/wwrbS5)). Permanecerá activo para reunir datos hasta el último día de abril.
     type: text
-  -
-    list: ''
-    url: 'https://read-covid19.typeform.com/to/bmHd3s'
-    text: 'Acceso a la encuesta'
+  - list: ""
+    url: "https://read-covid19.typeform.com/to/bmHd3s"
+    text: "Acceso a la encuesta"
     type: button
-intro: '[READ](https://www.designread.es), la Red Española de Asociaciones de Diseño, en colaboración con el [BCD](https://www.bcd.es), Barcelona Centro de Diseño, está recopilando datos para valorar las consecuencias que la situación provocada por la propagación del COVID-19 está causando en el sector del diseño.'
+intro: "[READ](https://www.designread.es), la Red Española de Asociaciones de Diseño, en colaboración con el [BCD](https://www.bcd.es), Barcelona Centro de Diseño, está recopilando datos para valorar las consecuencias que la situación provocada por la propagación del COVID-19 está causando en el sector del diseño."
 slug: encuesta-covid19
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 1134
-title: 'A DAG segue medrando co deseñador ourensán David Rivada'
+title: "A DAG segue medrando co deseñador ourensán David Rivada"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-david-rivada.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Deseñar creatividade é coma contar un chiste malo: se o tes que explicar perde toda a gracia.
 
       Son David Rivada, deseñador gráfico e PFC (Persoa Fod\*\*\*mente Creativa) e veño poñer patas arriba cada recuncho do mundo do deseño e a creatividade.
@@ -21,10 +19,10 @@ body:
 
       Resumindo, o deseño que eu fago é creativo, é humano, e, en esencia, é deseño.
     type: text
-intro: 'Sempre é unha alegría contar con novos socios e se ademais son estudantes, moito máis. É o caso de [David Rivada](https://dag.gal/gl/david-rivada/), que sen dúbida vai achegar frescura á DAG. Benvido David!'
+intro: "Sempre é unha alegría contar con novos socios e se ademais son estudantes, moito máis. É o caso de [David Rivada](https://dag.gal/gl/david-rivada/), que sen dúbida vai achegar frescura á DAG. Benvido David!"
 slug: a-dag-segue-medrando-co-desenador-ourensan-david-rivada
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2022-03-18T10:51:00+00:00

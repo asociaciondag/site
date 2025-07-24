@@ -1,19 +1,17 @@
 id: 671
-title: 'O Cluster da Madeira e o Deseño de Galicia (CMD) celebra a súa asemblea anual'
+title: "O Cluster da Madeira e o Deseño de Galicia (CMD) celebra a súa asemblea anual"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/575e74fd8a5a1-premio-tomas-alonso.jpg
-    text: 'O presidente do Cluster con Tomás Alonso'
+    text: "O presidente do Cluster con Tomás Alonso"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       José Manuel Iglesias, o presidente do [CMD](http://clustermadeira.com/), quixo destacar na súa intervención o papel do Cluster como interlocutor sectorial activo e recoñecido, así como a implicación da entidade con todos os elos que conforman a cadea de valor do sector da madeira.
 
       Ao termo da asemblea, fíxoselle entrega, por octavo ano consecutivo, do recoñecemento de socio de honor ao deseñador galego [Tomás Alonso](http://www.tomas-alonso.com/), quen goza dun recoñecido prestixio internacional no mundo do deseño.
     type: text
-intro: 'A asemblea tivo lugar o pasado venres en Cerceda, e, durante a reunión, as empresas do CMD coincidiron en sinalar que se encontran na vía da recuperación e mostraron o seu compromiso forte e decidido por continuar contribuíndo co seu gran de area a conseguir que o sector da madeira continúe sendo un sector estratéxico para Galicia.'
+intro: "A asemblea tivo lugar o pasado venres en Cerceda, e, durante a reunión, as empresas do CMD coincidiron en sinalar que se encontran na vía da recuperación e mostraron o seu compromiso forte e decidido por continuar contribuíndo co seu gran de area a conseguir que o sector da madeira continúe sendo un sector estratéxico para Galicia."
 slug: o-cluster-da-madeira-e-o-deseno-de-galicia-cmd-celebra-a-sua-asemblea-anual
 tags: []
 lang: gl

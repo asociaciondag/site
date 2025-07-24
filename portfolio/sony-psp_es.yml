@@ -1,17 +1,14 @@
 id: 298
-title: 'Sony PSP'
+title: "Sony PSP"
 slug: sony-psp
 body:
-  -
-    text: 'Ilustración de una consola Sony PSP totalmente vectorial creada en Adobe Illustrator.'
+  - text: "Ilustración de una consola Sony PSP totalmente vectorial creada en Adobe Illustrator."
     type: text
-  -
-    image: /img/portfolio/images/detalle-ilustracion.jpg
-    text: ''
+  - image: /img/portfolio/images/detalle-ilustracion.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/ilustracion-vectorial.jpg
-    text: ''
+  - image: /img/portfolio/images/ilustracion-vectorial.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/detalle-ilustracion.jpg
 tags: []
@@ -19,7 +16,6 @@ members_id:
   - 69
 lang: es
 info:
-  -
-    name: Cliente
-    value: 'proyecto propio'
+  - name: Cliente
+    value: "proyecto propio"
 draft: false

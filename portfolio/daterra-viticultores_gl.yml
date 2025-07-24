@@ -1,9 +1,8 @@
 id: 170
-title: 'Daterra Viticultores'
+title: "Daterra Viticultores"
 slug: daterra-viticultores
 body:
-  -
-    text: |-
+  - text: |-
       Daterra Viticultores é unha bodega de Manzaneda, Ourense. Trátase do novo proxecto de Laura Lorenzo, (que traballou durante moitos anos en Dominio do Bibei) e Álvaro Domínguez.
 
       En Daterra practican a permacultura, cun coidado e respecto absoluto pola terra, os recursos e as persoas.
@@ -12,61 +11,47 @@ body:
 
       Para o deseño das primeiras etiquetas pedíronnos representar cunha ilustración a "viaxe" entre as diferentes parcelas e o respecto pola terra e a contorna.
     type: text
-  -
-    image: /img/portfolio/images/5745ef1772b26-daterra-1.png
-    text: ''
+  - image: /img/portfolio/images/5745ef1772b26-daterra-1.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745ef86300f2-daterra-2.png
-    text: ''
+  - image: /img/portfolio/images/5745ef86300f2-daterra-2.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745ef86302dc-daterra-3.png
-    text: ''
+  - image: /img/portfolio/images/5745ef86302dc-daterra-3.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f076e8fab-daterra-4.png
-    text: ''
+  - image: /img/portfolio/images/5745f076e8fab-daterra-4.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f076e92f7-daterra-5.png
-    text: ''
+  - image: /img/portfolio/images/5745f076e92f7-daterra-5.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f076e9466-daterra-6.png
-    text: ''
+  - image: /img/portfolio/images/5745f076e9466-daterra-6.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f076e95b3-daterra-7.png
-    text: ''
+  - image: /img/portfolio/images/5745f076e95b3-daterra-7.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f076e96ce-daterra-8.png
-    text: ''
+  - image: /img/portfolio/images/5745f076e96ce-daterra-8.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f076e97e0-daterra-9.png
-    text: ''
+  - image: /img/portfolio/images/5745f076e97e0-daterra-9.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f076e98f7-daterra-10.png
-    text: ''
+  - image: /img/portfolio/images/5745f076e98f7-daterra-10.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f11acf344-daterra-11.png
-    text: ''
+  - image: /img/portfolio/images/5745f11acf344-daterra-11.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f11acf6c6-daterra-12.png
-    text: ''
+  - image: /img/portfolio/images/5745f11acf6c6-daterra-12.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f11acf822-daterra-13.png
-    text: ''
+  - image: /img/portfolio/images/5745f11acf822-daterra-13.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745f11acf955-daterra-14.png
-    text: ''
+  - image: /img/portfolio/images/5745f11acf955-daterra-14.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/5745ef17729f6-daterra-1.png
 tags: []

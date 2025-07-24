@@ -1,14 +1,12 @@
 id: 1155
-title: 'Premios Laus para socios DAG'
+title: "Premios Laus para socios DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-laus22.jpg
-    text: 'Imágenes: Desescribir y Novagarda'
+    text: "Imágenes: Desescribir y Novagarda"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [Desescribir](https://www.desescribir.com/), formado por Cibrán Rico y Suso Vázquez, obtuvo una plata por la publicación _Iremos al sol / Towards the sun_ de Gina Gimenez, un catálogo diseñado para la exposición «Iremos al sol» de Regina Gimenez en el Patio Herreriano de Valladolid y editado por [Fabulatorio](http://fabulatorio.org/), la editora que fundaron en 2012. La publicación está​ más cercana al libro de artista que al catálogo de arte convencional. Recogieron también un bronce por el diseño del catálogo _Jorge Cabezas is back! l_a exposición del pintor Jorge Cabezas que tuvo lugar en la Fundación Luis Soeane de A Coruña y que comisarió Antón Reix​a​. El catálogo se formula como un homenaje que recorre la diversidad da su obra y adopta el formato de cuaderno de apuntes.
 
       [Novagarda](https://novagarda.gal/), Iago Barreiro y Alberto Carballido, obtuvo un bronce por el trabajo de diseño realizado para el [Estudo da Economía do Deseño en Galicia](https://estudodeseno.dag.gal/), e primer estudio​ realizado sobre este sector en Galicia y que realizó ​la​ DAG junto con la Axencia Galega de Innovación. La propuesta trata de acercar la información​ ​a cualquier tipo de público manteniendo un equilibrio entre usabilidad e innovación a través de pequeños gestos en la navegación y en la visualización del contenido.
@@ -17,12 +15,11 @@ body:
 
       Los Premios Laus de Diseño Gráfico y Comunicación Visual reconocen los mejores proyectos en más de 50 apartados distribuidos en cinco categorías: diseño gráfico, digital, publicidad, audiovisual y estudiantes. ​E​stán organizados por ADG FAD y cuentan con un jurado profesional de marcado prestigio nacional e internacional.
     type: text
-  -
-    list: ''
-    url: 'https://www.adg-fad.org/ca/laus/premis'
-    text: 'Web Premios Laus'
+  - list: ""
+    url: "https://www.adg-fad.org/ca/laus/premis"
+    text: "Web Premios Laus"
     type: button
-intro: 'La 52 edición de los Premios Laus acaba de celebrar la gala de entrega de los premios 2022 donde resultaron galardonados trabajos de nuestros compañeros Cibrán Rico y Suso Vázquez de Desescribir, y Iago Barreiro y Alberto Carballido de Novagarda.'
+intro: "La 52 edición de los Premios Laus acaba de celebrar la gala de entrega de los premios 2022 donde resultaron galardonados trabajos de nuestros compañeros Cibrán Rico y Suso Vázquez de Desescribir, y Iago Barreiro y Alberto Carballido de Novagarda."
 slug: premios-laus-para-socios-dag
 tags: []
 lang: es

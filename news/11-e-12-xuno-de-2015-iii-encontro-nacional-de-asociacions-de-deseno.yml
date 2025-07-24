@@ -1,8 +1,7 @@
 id: 553
-title: '11 e 12 xuño de 2015: III Encontro Nacional de Asociacións de Deseño'
+title: "11 e 12 xuño de 2015: III Encontro Nacional de Asociacións de Deseño"
 body:
-  -
-    text: |-
+  - text: |-
       Os encontros nacionais de asociacións de deseño son eventos convocados anualmente pola READ. A primeira edición tivo lugar en 2013 e supuxo o recoñecemento colectivo das asociacións e dos profesionais do deseño español que compartimos unha visión crítica sobre a situación do deseño en España. Na edición de 2014 démonos cita 70 representantes de asociacións e expertos (do ámbitos público e privado) e iniciamos traballos colaborativos en varias mesas ao redor de temas significativos para o deseño e os deseñadores. Neste 2ENAD estiveron representadas 15 das 17 comunidades do estado español, coa participación activa de 19 asociacións.
 
       A diferenza das edicións anteriores, que tiveron lugar na Central de Deseño (Matadero, Madrid) coa di\_mad como anfitrioa, o Terceiro Encontro Nacional de Asociacións de Deseño terá lugar na cidade de Málaga e en dous espazos de acollida, A Térmica e a Zona Portuaria, sendo a AAD (Asociación Andaluza de Deseñadores), que detén a presidencia da READ desde marzo pasado, a asociación organizadora.
@@ -16,18 +15,17 @@ body:
       5. Obradoiro Deseño-Empresa. Experiencia Proxecto READ-Telefónica I+D
       6. Novos modelos de organización e asociación de deseñadores
       7. From Spain with Design
-       
+
       Ademais de convidar os deseñadores das distintas asociacións españolas a participar, READ pretende incorporar a cada proxecto significativos axentes do mundo académico, do empresariado e das institucións públicas, propiciando a creación de fluxos de traballo ao redor das diferentes estratexias do deseño.
 
       Máis información, moi pronto en [www.designread.es/3enad](http://www.designread.es/3enad-11-y-12-de-junio-de-2015-en-malaga/)
     type: text
-  -
-    list: after
+  - list: after
     image: /img/news/images/5552435c8ae07-slider-01.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'Desde finais do ano pasado a DAG, Asociación Galega de Deseñadores, forma parte da Rede Española de Asociacións de Deseño (READ) constituída en 2011 para a coordinación e integración da comunidade nacional de deseñadores, xunto ás asociacións de Andalucía, Valencia, Asturias, Cuenca, Estremadura, Madrid, Murcia, Soria e Euskadi. Trátase de unir forzas para conseguir o obxectivo común de difundir a cultura do deseño, promover e facer máis visible a nosa actividade, fortalecendo así a nosa profesión.'
+intro: "Desde finais do ano pasado a DAG, Asociación Galega de Deseñadores, forma parte da Rede Española de Asociacións de Deseño (READ) constituída en 2011 para a coordinación e integración da comunidade nacional de deseñadores, xunto ás asociacións de Andalucía, Valencia, Asturias, Cuenca, Estremadura, Madrid, Murcia, Soria e Euskadi. Trátase de unir forzas para conseguir o obxectivo común de difundir a cultura do deseño, promover e facer máis visible a nosa actividade, fortalecendo así a nosa profesión."
 slug: 11-e-12-xuno-de-2015-iii-encontro-nacional-de-asociacions-de-deseno
 tags: []
 lang: gl

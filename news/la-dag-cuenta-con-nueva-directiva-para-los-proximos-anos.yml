@@ -1,14 +1,12 @@
 id: 1325
-title: 'La DAG cuenta con nueva directiva para los próximos años'
+title: "La DAG cuenta con nueva directiva para los próximos años"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/foto-asamblea-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La actual directiva está conformada por Raquel Boo como presidenta, José Antonio Pérez como vicepresidente, Daniel Pino como vicepresidente segundo, Paula Cantero como secretaria, Ana María Besada como tesorera y seis vocalías: Pablo Villaverde, Uqui Permui, Noemí Cortizas, Carlos Lorenzo, Yago Concejo y Samuel Baltar. Además, Thais Suárez será ala nueva representante de DAG en READ.
 
       Uno de los objetivos principales de esta etapa será dar mayor visibilidad tanto a la diversidad de disciplinas que integran la taxonomía del diseño, y que están representadas en DAG, como al trabajo del amplio abanico de profesionales que la integran. También se centrará en favorecer la relación entre las personas asociadas para abarcar con una óptica plural el marco de trabajo diverso y en constante cambio que es el diseño.
@@ -21,7 +19,7 @@ body:
 
       La nueva directiva agradece el trabajo realizado hasta el momento por las directivas precedentes y recoge el apoyo dado en la Asamblea para abordar el compromiso adquirido para los próximos años.
     type: text
-intro: 'La Asociación Galega de Deseño cuenta desde el pasado fin de semana con nueva directiva. Una formación de 11 personas que asume el relevo después de muchos años de dedicación de la directiva saliente, cuya labor deja encaminadas iniciativas a las que se les dará continuidad y otros proyectos ya consolidados.'
+intro: "La Asociación Galega de Deseño cuenta desde el pasado fin de semana con nueva directiva. Una formación de 11 personas que asume el relevo después de muchos años de dedicación de la directiva saliente, cuya labor deja encaminadas iniciativas a las que se les dará continuidad y otros proyectos ya consolidados."
 slug: la-dag-cuenta-con-nueva-directiva-para-los-proximos-anos
 tags: []
 lang: es

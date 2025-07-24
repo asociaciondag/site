@@ -1,14 +1,12 @@
 id: 285
-title: 'María Victoria Moreno'
+title: "María Victoria Moreno"
 slug: maria-victoria-moreno
 body:
-  -
-    image: /img/portfolio/images/cartel-maria-victoria-moreno.jpg
-    text: ''
+  - image: /img/portfolio/images/cartel-maria-victoria-moreno.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/selo-conmemorativo-mvm.jpg
-    text: ''
+  - image: /img/portfolio/images/selo-conmemorativo-mvm.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/cartel-maria-victoria-moreno.jpg
 tags:
@@ -17,10 +15,8 @@ members_id:
   - 23
 lang: gl
 info:
-  -
-    name: 'Cliente:'
-    value: 'Concello de Pontevedra'
-  -
-    name: 'Ano:'
-    value: '2018'
+  - name: "Cliente:"
+    value: "Concello de Pontevedra"
+  - name: "Ano:"
+    value: "2018"
 draft: false

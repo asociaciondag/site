@@ -1,15 +1,13 @@
 id: 122
 contact: null
 links:
-  -
-    text: Web
-    url: 'https://ismael.fyi/'
+  - text: Web
+    url: "https://ismael.fyi/"
     type: link
-  -
-    text: X
-    url: 'https://x.com/basiclines'
+  - text: X
+    url: "https://x.com/basiclines"
     type: link
-name: 'Ismael Canal'
+name: "Ismael Canal"
 slug: ismael-canal
 avatarBig: /img/avatars/ismael-canal.jpg
 avatar: /img/avatars/ismael-canal.jpg
@@ -30,5 +28,5 @@ bio.es: |-
   A lo largo de mi trayectoria he ido transitando entre la tecnoloxía y el diseño, pero siempre formando parte de equipos de diseño.
 
   No tengo una formación académica superior formal. Todo lo que he aprendido es fruto de mi motivación, trabajo duro y el apoyo de los profesionais excepcionales que me enseñaroy y guiaron en el camino.
-job.gl: 'Deseñador de Produto Dixital'
-job.es: 'Diseñador de Producto Digital'
+job.gl: "Deseñador de Produto Dixital"
+job.es: "Diseñador de Producto Digital"

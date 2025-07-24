@@ -1,29 +1,26 @@
 id: 1380
-title: 'Xornada «Isaac, editor»'
+title: "Xornada «Isaac, editor»"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/ccg-diazpardo.jpg
-    text: 'Fotografía: Isaac Díaz Pardo, 1987, ©Xurxo Lobato'
+    text: "Fotografía: Isaac Díaz Pardo, 1987, ©Xurxo Lobato"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O programa, que se desenvolverá na mañá do xoves 27 de marzo, constará de dous relatorios. O primeiro a cargo de Charo Portela, quen fora subdirectora de Ediciós do Castro e coordinadora da actividade cultural do Instituto Galego da Información até 2008, que se centrará no perfil de Díaz Pardo como editor. O segundo, a cargo do noso asociado, o deseñador Pepe Barro, que ofrecerá unha panorámica sobre deseño e identidade do libro galego até os tempos da editora, fundada en 1963.
 
       A través destas dúas conferencias achegarémonos ao universo visual e conceptual dun dos proxectos editoriais máis destacados de Galicia no século XX, especializado na recuperación da memoria histórica e divulgación cultural e científica galegas. Ademais de afondar na figura do seu fundador e socio de honra da Asociación Galega de Editores desde 2006.
 
       A xornada terá lugar en horario de 10.30-13.00 h na sede do Consello da Cultura Galega e conta co apoio da Deputación da Coruña. O acceso é aberto ao público até completar a capacidade da sala.
     type: text
-  -
-    list: ''
-    url: 'https://consellodacultura.gal/evento.php?id=202114%20'
-    text: 'Máis info'
+  - list: ""
+    url: "https://consellodacultura.gal/evento.php?id=202114%20"
+    text: "Máis info"
     type: button
-intro: 'A Asociación Galega de Editoras celebrará a Isaac Díaz Pardo, no ano en que se lle dedica o Día das Artes Galegas, cunha xornada centrada no seu papel á fronte de Ediciós do Castro.'
+intro: "A Asociación Galega de Editoras celebrará a Isaac Díaz Pardo, no ano en que se lle dedica o Día das Artes Galegas, cunha xornada centrada no seu papel á fronte de Ediciós do Castro."
 slug: xornada-isaac-editor
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2025-03-12T10:03:21+00:00

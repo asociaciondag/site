@@ -1,14 +1,12 @@
 id: 920
-title: 'Diseño gallego en el Selected 2019 de Bilbao'
+title: "Diseño gallego en el Selected 2019 de Bilbao"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/selected-2019.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El sábado 16, a las 16 horas, nuestros compañeros de Cenlitrosmetrocadrado, ofrecerán una conferencia sobre el trabajo desarrollado en los últimos años en el estudio. Su presencia viene a iniciar un línea de “diseño atlántico - diseño gallego” en la que la organización del Selected quiere profundizar y afianzar en los próximos eventos.
 
       Los asistentes tendrán la oportunidad de conocer además el trabajo de profesionales como Medusa Tatto, Elektrart, Weiartefloral, Raquel Cascales, Narita Estudio, Errea Comunicación, Mashcreaive, DsType o Cruz más Cruz, entre otros.
@@ -25,15 +23,14 @@ body:
 
       Avance de programa de la Bilbao Bizcaia Design Week: [https://www.bilbaobizkaiadesignweek.eus/files/pre\_programa\_ES.pdf](https://www.bilbaobizkaiadesignweek.eus/files/pre_programa_ES.pdf)
     type: text
-  -
-    list: ''
-    url: 'https://selectedinspiration.com/inicio'
+  - list: ""
+    url: "https://selectedinspiration.com/inicio"
     text: Selected
     type: button
-intro: 'Los días 15 y 16 de noviembre tendrá lugar en Bilbao el Selected 2019, un evento dedicado al diseño y la creatividad donde profesionales y empresas ofrecerán conferencias y charlas para un público multidisciplinar.'
+intro: "Los días 15 y 16 de noviembre tendrá lugar en Bilbao el Selected 2019, un evento dedicado al diseño y la creatividad donde profesionales y empresas ofrecerán conferencias y charlas para un público multidisciplinar."
 slug: diseno-gallego-en-el-selected-2019-de-bilbao
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-10-09T18:25:27+00:00

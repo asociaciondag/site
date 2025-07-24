@@ -1,34 +1,28 @@
 id: 31
-title: 'Corazón da artesanía'
+title: "Corazón da artesanía"
 slug: corazon-da-artesania
 body:
-  -
-    text: |-
+  - text: |-
       No centro de Galicia, no concello de Agolada, hai un singular conxunto de arquitectura popular do século XVIII denominado “Os Pendellos”, un dos campos de feira mellor conservados de Galicia. Neste espazo celébrase o primeiro encontro da artesanía tradicional e popular de Galicia, un lugar de intercambio económico, social e cultural co mundo da artesanía.
 
       Á parte dos pendellos, tamén se habilitaron uns postos de venda para produtos alimentarios, para os que se desenvolveu un sistema modular que nos permite dispoñer os postos agrupados e compartindo estrutura entre eles. Este sistema tamén é pregable, para facilitar as labores de transporte e almacenaxe.
 
       Para a sinalética dos pendellos -onde se dispoñen os distintos oficios-, optouse por reforzar esta cualidade do temporal empregando elementos apoiados nas edificacións, evitando calquera tipo de anclaxe permanente.
     type: text
-  -
-    image: /img/portfolio/images/555719b54407f-corazonartesania01.jpg
-    text: ''
+  - image: /img/portfolio/images/555719b54407f-corazonartesania01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555719b54407f-corazonartesania02.jpg
-    text: ''
+  - image: /img/portfolio/images/555719b54407f-corazonartesania02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555719b54407f-corazonartesania03.jpg
-    text: ''
+  - image: /img/portfolio/images/555719b54407f-corazonartesania03.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555719b54407f-corazonartesania04.jpg
-    text: ''
+  - image: /img/portfolio/images/555719b54407f-corazonartesania04.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555719b54407f-corazonartesania05.jpg
-    text: ''
+  - image: /img/portfolio/images/555719b54407f-corazonartesania05.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558562295fa5e-555719b54407f-corazonartesania03.jpg
 tags:
@@ -43,16 +37,12 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Cenlitrosmetrocadrado
-  -
-    name: Cliente
-    value: 'Fundación Centro Galego da Artesanía e do Deseño'
-  -
-    name: Ano
-    value: '2012'
-  -
-    name: Colaboradores
-    value: 'Óscar Penedo, carpinteiro; Axeitos&Co, impresión de lonas; Silvereira, gravado láser'
+  - name: Cliente
+    value: "Fundación Centro Galego da Artesanía e do Deseño"
+  - name: Ano
+    value: "2012"
+  - name: Colaboradores
+    value: "Óscar Penedo, carpinteiro; Axeitos&Co, impresión de lonas; Silvereira, gravado láser"
 draft: true

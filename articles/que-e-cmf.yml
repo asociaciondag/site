@@ -1,17 +1,14 @@
 id: 9
-title: 'Que é o CMF? Que estuda esa rama?'
-author: 'Noemí Cortizas'
+title: "Que é o CMF? Que estuda esa rama?"
+author: "Noemí Cortizas"
 body:
-  -
-    text: 'O primeiro que hai que saber é que CMF é o acrónimo de Cores, Materiais e Acabados (_Finishes_). É unha disciplina do deseño «relativamente» nova. Digo relativamente porque estivo presente na industria automobilística durante anos, pero nese campo coñecese como _color &amp; trim_. Antes, era o deseñador quen pensaba non só na forma senón tamén nos materiais que se utilizarían. Hoxe, estamos nun mercado moi competitivo que avanza moi rápido. Nunha situación como esta é necesario ter unha boa estratexia de deseño CMF. Esta disciplina é de grande axuda para ter un produto de éxito e adaptable, a un custo de fabricación efectivo e co menor uso de recursos posible. Así é como naceu esta especialidade, que non se centra na forma senón nos materiais, os acabados e as cores a usar, para crear unha linguaxe de marca diferenciada e unha experiencia de usuario coidada e pracenteira. Esto é algo que teñen moi claro todas as grandes marcas con éxito de ventas do mercado. Chegando non só a contratar os servizos dun deseñador de CMF, senón tamén a ter un equipo propio nesta rama.'
+  - text: "O primeiro que hai que saber é que CMF é o acrónimo de Cores, Materiais e Acabados (_Finishes_). É unha disciplina do deseño «relativamente» nova. Digo relativamente porque estivo presente na industria automobilística durante anos, pero nese campo coñecese como _color &amp; trim_. Antes, era o deseñador quen pensaba non só na forma senón tamén nos materiais que se utilizarían. Hoxe, estamos nun mercado moi competitivo que avanza moi rápido. Nunha situación como esta é necesario ter unha boa estratexia de deseño CMF. Esta disciplina é de grande axuda para ter un produto de éxito e adaptable, a un custo de fabricación efectivo e co menor uso de recursos posible. Así é como naceu esta especialidade, que non se centra na forma senón nos materiais, os acabados e as cores a usar, para crear unha linguaxe de marca diferenciada e unha experiencia de usuario coidada e pracenteira. Esto é algo que teñen moi claro todas as grandes marcas con éxito de ventas do mercado. Chegando non só a contratar os servizos dun deseñador de CMF, senón tamén a ter un equipo propio nesta rama."
     type: text
-  -
-    image: /img/articles/images/googlepixel3.jpg
-    text: 'Google ten un equipo grande de deseñadores CMF traballando na súa empresa. Son os responsables do éxito de produtos como o Google Pixel 3'
+  - image: /img/articles/images/googlepixel3.jpg
+    text: "Google ten un equipo grande de deseñadores CMF traballando na súa empresa. Son os responsables do éxito de produtos como o Google Pixel 3"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Que fai un deseñador CMF?
 
       Para dicilo sen rodeos, usando termos actuais, é **UX fóra da pantalla.** Poderiamos dicir que os deseñadores CMF son os deseñadores UX do mundo físico e todas as cousas non dixitais. Tentamos crear ou transmitir emocións a través dunha interacción significativa co usuario. De feito non é raro ver a alguén colaborando en proxectos dixitais, xa que usan principios similares de psicoloxía.
@@ -31,20 +28,18 @@ body:
       - Cores: pigmentos, aditivos, mesturas, Pantones…
       - Materiais: compostos, metais, plásticos, resinas de orixe reciclada, orgánicos ou químicos, tecidos, madeiras, e moitos máis.
       - Acabados superficiais: tecnoloxía de gravados láser, tratamentos químicos, recubrimentos, texturas, formas, superficies táctiles, funcionais ou pura estética, holografías...
-       
+
       Algúns proxectos consisten só en facer unha selección axeitada de tecnoloxías industriais e ferramentas que existen para poder lograr os nosos obxectivos. Pero outras veces necesitamos profundar, chegando a un nivel de escala nanométrica ou química. Como ves no noso traballo mesturamos o deseño atractivo e funcional coa investigación a escala industrial.
 
-      ## Pero todo isto é caro, non? 
+      ## Pero todo isto é caro, non?
 
       Depende, a maior parte das veces non o é. Incluso se temos que facer unha investigación moi detallada, procuramos optimizar custos. Como dixen antes, unha boa estratexia CMF, permitirá ter un novo deseño do teu produto, máis atractivo e con custos mínimos de produción. Incluso poderá adaptarse para coleccións ou edicións limitadas. E todo isto, sen cambiar toda a cadea de produción ou con cambios mínimos nas ferramentas. Tes un claro exemplo disto baixo estas liñas.
     type: text
-  -
-    image: /img/articles/images/1497274941-5196-card.jpg
-    text: ''
+  - image: /img/articles/images/1497274941-5196-card.jpg
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Para o mando da XBOX, Microsoft creou moitas variantes, adaptadas a todos os seus mercados obxectivo, sen necesidade de invertir moitos cartos. Por que? Observa a foto, a mesma forma, por tanto o mesmo molde de inxección pero con distintos degradados, cores, tipos de plástico e incluso con algunha textura xeométrica de diferentes tons e brillos. Efectivamente, detrás destas «variacións» hai un equipo de deseñadores CMF, pensando en pigmentos, revestimentos, resinas e todo o necesario para crear mandos para todos os gustos sen cambiar máis que a pintura e o material usado, creando así diferentes opcións visuais. Agora pensa nos beneficios, cada mando ten un prezo que pode ir dende os 49 euros ata os 150, dependendo do nivel de personalización.
 
       ## Onde estudas para convertirte en deseñador CMF?
@@ -63,13 +58,11 @@ body:
 
       Por exemplo, a continuación tes un libro sobre a beleza da arquitectura xaponesa e como xoga coas sombras e a luz. Dato curioso, este libro foi unha fonte de inspiración para un proxecto que fixen fai dous anos, o concepto para o interior dun coche que foi presentado na feira do automóbil de París.
     type: text
-  -
-    image: /img/articles/images/libro.jpg
-    text: ''
+  - image: /img/articles/images/libro.jpg
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       #### Ten unha mente aberta
 
       Faime caso, hai moitas cousas novas y estrañas que poden ser útiles. Debes conservar a actitude positiva que ten un neno para sorprenderse e a capacidade analítica dun científico para identificar posibles aplicacións. O mellor desta disciplina é que nunca deixas de sorprenderte.

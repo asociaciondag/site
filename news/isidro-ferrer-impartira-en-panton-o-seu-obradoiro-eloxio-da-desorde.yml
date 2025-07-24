@@ -1,14 +1,12 @@
 id: 585
-title: 'Isidro Ferrer impartirá en Pantón o seu obradoiro Eloxio da desorde'
+title: "Isidro Ferrer impartirá en Pantón o seu obradoiro Eloxio da desorde"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/56013e24ee2dd-isidro1-1206x410.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Nesta ocasión, o obradoiro conducido por [Isidro Ferrer](http://www.isidroferrer.com/) centrarase en encontrar nos obxectos que nos rodean os valores sentimentais que albergan, procurando e descubrindo calidades secretas que habitan neles. Alterando minimamente a esencia das cousas, contruír outras novas cargadas de simbolismo, resaltando os valores semánticos, metafóricos e comunicativos dos obxectos.
 
       Está dirixido principalmente a ilustradores, deseñadores gráficos, estudantes de deseño, ilustración, belas artes e a calquera persoa interesada na comunicación gráfica
@@ -23,7 +21,7 @@ body:
 
       O custo do taller, 290 euros, inclúe taller + aloxamento + extras. Aos membros da DAG faráselles un 10% de desconto sobre o prezo. Para beneficiarvos desta oferta, o único que tedes que facer é inscribirvos a través de [laplantacion.info](http://laplantacion.info/) / <info@laplantacion.info> / t. 692 958 429, especificando que sodes socios da DAG.
     type: text
-intro: 'Trátase dun obradoiro de campo, unha das modalidades de formación ofertadas pola Plantación que se basea no encontro e convivencia cos autores.'
+intro: "Trátase dun obradoiro de campo, unha das modalidades de formación ofertadas pola Plantación que se basea no encontro e convivencia cos autores."
 slug: isidro-ferrer-impartira-en-panton-o-seu-obradoiro-eloxio-da-desorde
 tags: []
 lang: gl

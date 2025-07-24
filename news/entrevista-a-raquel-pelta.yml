@@ -1,8 +1,7 @@
 id: 620
-title: 'Entrevista a Raquel Pelta'
+title: "Entrevista a Raquel Pelta"
 body:
-  -
-    text: |-
+  - text: |-
       Ha ejercido la docencia en la Universidad Rey Juan Carlos, la Escuela Elisava, la Universidad de Valladolid y el Istituto Europeo di Design de Madrid —donde fue directora académica de la Escuela de Masters—, entre otros centros.
 
       Es directora de la revista online _Monográfica,_ (Premio Ciudad de Barcelona 2012) y entre 2001 y 2004, dirigió la revista _Visual._
@@ -18,24 +17,22 @@ body:
       - [monografica.org](http://www.monografica.org/)
       - [facebook.com/monograficaorg](https://www.facebook.com/monograficaorg?ref=hl)
       - [facebook.com/raquel.peltaresano](https://www.facebook.com/raquel.peltaresano)
-       
+
     type: text
-  -
-    list: after
+  - list: after
     image: /img/news/images/563203bbd45ab-1-raquel.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## ¿Quién eres y a qué te dedicas?
 
       > —Soy historiadora del diseño y profesora. Investigo en la historia de las ideas del diseño y en el diseño contemporáneo.
-      > 
+      >
       > Me interesan especialmente las relaciones entre diseño, sociedad y política, de ahí que desde hace muchos años mis investigaciones se hayan centrado en cuestiones como el diseño activista, la responsabilidad de los diseñadores, el diseño feminista y el diseño para el cambio social.
-      > 
+      >
       > Además de esto, he investigado en otros muchos temas y campos como, por ejemplo, la tipografía en la era digital, la historia del diseño gráfico español, el diseño gráfico postmoderno o las tendencias del diseño gráfico actual.
-      > 
+      >
       > Por lo que se refiere a mi trabajo como docente, a lo largo de mi trayectoria he impartido más de veintiséis asignaturas pero mi campo de especialidad es la Historia del Diseño, la últimas tendencias del diseño y la investigación del diseño. Siento auténtica pasión por la enseñanza, entre otras razones porque me gusta aprender y como decía Cicerón, “si quieres aprender, enseña”.
 
       ## ¿De que vas a hablar en el FEED?
@@ -46,15 +43,14 @@ body:
 
       > —A lo largo de mi trayectoria he realizado todas las investigaciones que he querido realizar porque siempre han partido de mis propios intereses y motivaciones, así que no hay ninguna que me gustaría haber hecho. Respecto a las que me gustaría emprender en el futuro, dependerán de los derroteros que vaya tomando el diseño o, nuevamente, de aquello que despierte mi curiosidad, que es mucha.
     type: text
-  -
-    list: after
-    url: 'http://dag.gal/gl/feed2015'
-    text: 'Ir á páxina do FEED 2015'
+  - list: after
+    url: "http://dag.gal/gl/feed2015"
+    text: "Ir á páxina do FEED 2015"
     type: button
-intro: 'Historiadora del diseño, Doctora por la Universidad de Barcelona, licenciada en Geografía e Historia, en Comunicación Audiovisual, en Publicidad y Relaciones Públicas. Desde marzo de 2006 es profesora de la Facultad de Bellas Artes de la Universidad de Barcelona y miembro del grupo de investigación consolidado GRACMON.'
+intro: "Historiadora del diseño, Doctora por la Universidad de Barcelona, licenciada en Geografía e Historia, en Comunicación Audiovisual, en Publicidad y Relaciones Públicas. Desde marzo de 2006 es profesora de la Facultad de Bellas Artes de la Universidad de Barcelona y miembro del grupo de investigación consolidado GRACMON."
 slug: entrevista-a-raquel-pelta
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2015-11-18T16:27:24+00:00

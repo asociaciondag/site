@@ -1,10 +1,9 @@
 id: 394
-title: 'Modelo Planetario'
+title: "Modelo Planetario"
 slug: modelo-planetario
 body:
-  -
-    image: /img/portfolio/images/planetario.jpg
-    text: ''
+  - image: /img/portfolio/images/planetario.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/planetario.jpg
 tags:

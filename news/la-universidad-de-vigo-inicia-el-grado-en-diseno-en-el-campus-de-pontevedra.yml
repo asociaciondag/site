@@ -1,14 +1,12 @@
 id: 1235
-title: 'La Universidade de Vigo inicia el Grado en Diseño en el Campus de Pontevedra'
+title: "La Universidade de Vigo inicia el Grado en Diseño en el Campus de Pontevedra"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/img-0491.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Este nuevo Grado en Diseño busca formar a diseñadores y diseñadoras integrales capaces de generar proyectos que tengan en cuenta los procesos y soportes comunicativos actuales (gráfico, moda, audiovisual y digital interactivo),​ haciendo especial énfasis en las metodologías, tecnologías y entornos de trabajo innovadores y actuales, que permitan la experimentación y una mejor adaptación al futuro mercado laboral.
 
       Los contenidos del Grado se estructuran en cuatro cursos académicos: dos primeros cursos comunes, profundizando en la formación sobre las bases y los fundamentos del diseño; y dos cursos finales con optativas que orientan la carrera del alumnado de cara a su especialización en Diseño gráfico/digital o Diseño de moda. Un total de 240 créditos ECTS, 12 créditos del Trabajo Fin de Grado y 18 créditos de Prácticas en empresas.​
@@ -17,12 +15,11 @@ body:
 
       La oferta formativa superior en diseño en nuestra comunidad se amplía con este nuevo Grado y se suma a las que que ofrecen las cuatro Escuelas de Arte Superior de Diseño​ sitas en A Coruña, Lugo, Ourense y Santiago de Compostela. ​
     type: text
-  -
-    list: ''
-    url: 'https://deseno.uvigo.gal/'
-    text: 'Web del Grado en diseño'
+  - list: ""
+    url: "https://deseno.uvigo.gal/"
+    text: "Web del Grado en diseño"
     type: button
-intro: 'El próximo curso 2023-24 la Universidade de Vigo comienza el Grado en Diseño en el Campus Crea situado en la ciudad de Pontevedra, con 45 plazas y dos menciones: Grado en Diseño gráfico/digital y Grado en Diseño de moda​.'
+intro: "El próximo curso 2023-24 la Universidade de Vigo comienza el Grado en Diseño en el Campus Crea situado en la ciudad de Pontevedra, con 45 plazas y dos menciones: Grado en Diseño gráfico/digital y Grado en Diseño de moda​."
 slug: la-universidad-de-vigo-inicia-el-grado-en-diseno-en-el-campus-de-pontevedra
 tags: []
 lang: es

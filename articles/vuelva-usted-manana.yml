@@ -1,9 +1,8 @@
 id: 25
-title: 'Vuelva usted mañana. Por qué diseñar mal un formulario puede costar dos millones de libras'
-author: 'Sergio Pernas'
+title: "Vuelva usted mañana. Por qué diseñar mal un formulario puede costar dos millones de libras"
+author: "Sergio Pernas"
 body:
-  -
-    text: |-
+  - text: |-
       Tenemos un problema con los formularios. En general, como comunidad profesional, siempre los hemos visto como un elemento secundario, una aplicación necesaria pero fea que trae a nuestras cabezas el imaginario de los chupatintas en sus cubículos en una película de los 50 o los informáticos encerrados en su sótano. Nada que ver con las imágenes que queremos tener de nosotros mismos cuando trabajamos, de la creatividad desatada y brillante a la artesanía cuidadosa y el mimo por el detalle. Esas cosas grises con tablas encajan mal en nuestro mundo.
 
       Así, la mayoría de las veces, los formularios están excluidos del proceso de diseño, planteados posteriormente como algo que hay que solucionar lo antes posible o, en el mejor de los casos, como una aplicación para que el becario o el _junior_ vaya afilando los dientes. En muchos casos, si quien está diseñando el formulario se parara a pensar en la relevancia de la pieza, se quedaría paralizado ante la tarea, «voy a hacer la herramienta más importante en la interacción directa con los usuarios, los clientes o _(gasp)_ los contribuyentes».
@@ -16,21 +15,17 @@ body:
 
       El punto de partida de nuestros problemas con los formularios es la impunidad. El ejemplo más sangrante de esto puede ser quizá (hay muchos donde elegir) el mundo de los formularios electorales. No puede ser que, elección tras elección, los ciudadanos tengamos que mirar diez veces una papeleta del Senado antes de marcar una opción. Y hemos mejorado mucho en la última década, la papeleta anterior al 2011 era una sábana inmanejable con todos los partidos, sus candidatos y sus suplentes ordenados por orden alfabético.
     type: text
-  -
-    image: /img/articles/images/papeletasenado.jpg
-    text: '[Papeleta del Senado de Madrid](https://www.rtve.es/noticias/20090226/papeleta-para-senado-mas-pequena-evite-orden-alfabetico/238686.shtml), 2008'
+  - image: /img/articles/images/papeletasenado.jpg
+    text: "[Papeleta del Senado de Madrid](https://www.rtve.es/noticias/20090226/papeleta-para-senado-mas-pequena-evite-orden-alfabetico/238686.shtml), 2008"
     mode: normal
     type: image
-  -
-    text: 'Esto no es algo exclusivo de nuestro país. En otros incluso ha formado parte de [polémicas bastante importantes](https://en.wikipedia.org/wiki/2000_United_States_presidential_election_in_Florida), lo que nos lleva de la mano a lo que queríamos decir: el usuario de un formulario no es consciente de que puede quejarse de ese formulario, de que es una herramienta que alguien ha diseñado para su utilización, y si tiene dificultades para su uso en muchas ocasiones se deben a un problema en el proceso de diseño. En caso de expresar esa queja, nuestro votante lo hará probablemente ante quien no corresponde, su compañero en la fila de votación o el sufrido presidente de la mesa electoral.'
+  - text: "Esto no es algo exclusivo de nuestro país. En otros incluso ha formado parte de [polémicas bastante importantes](https://en.wikipedia.org/wiki/2000_United_States_presidential_election_in_Florida), lo que nos lleva de la mano a lo que queríamos decir: el usuario de un formulario no es consciente de que puede quejarse de ese formulario, de que es una herramienta que alguien ha diseñado para su utilización, y si tiene dificultades para su uso en muchas ocasiones se deben a un problema en el proceso de diseño. En caso de expresar esa queja, nuestro votante lo hará probablemente ante quien no corresponde, su compañero en la fila de votación o el sufrido presidente de la mesa electoral."
     type: text
-  -
-    image: /img/articles/images/ballotus.jpg
-    text: 'Papeleta de las elecciones generales (2000), condado de Palm Beach, Florida'
+  - image: /img/articles/images/ballotus.jpg
+    text: "Papeleta de las elecciones generales (2000), condado de Palm Beach, Florida"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La relación de los usuarios con los formularios suele ser una relación de obligatoriedad (son la única forma de realizar una tarea determinada), y la inexistencia o inoperancia de los canales de queja y subsanación de errores genera un punto de vista de superioridad en la promotora (sea empresa o institución), «pues que aprendan a usarlo, que nadie se ha quejado de él nunca». Así, acabamos teniendo una herramienta problemática, que no tiene sistemas para corregirse y cuya elaboración presenta una serie de dificultades particulares.
 
       ## ¡Qué difícil es hacer un formulario!
@@ -51,26 +46,22 @@ body:
 
       Los problemas de diseño se convierten, con una probabilidad muy alta, en problemas de interacción, y, dado el criterio de obligatoriedad que comentábamos antes, en errores. Un ejemplo conocido es el de los formularios de inmigración estadounidenses, en el que el usuario del formulario reconoce como etiqueta de cada campo la que se encuentra debajo del campo a rellenar, cuando en realidad es la superior. Si se generasen cajas completas en lugar de líneas, el problema desaparecería.
     type: text
-  -
-    image: /img/articles/images/inmigracion.jpg
-    text: 'Solicitud de visa de entrada/salida de EE.UU.'
+  - image: /img/articles/images/inmigracion.jpg
+    text: "Solicitud de visa de entrada/salida de EE.UU."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Este problema lleva, por ejemplo, a la necesidad de tener más ejemplares de los formularios en los vuelos transoceánicos, porque los empleados de la aerolínea saben que se van a rellenar mal (como comenta Barnett en _Forms for People_).
 
       De la misma manera, el tamaño de los espacios en los campos, las posiciones en las que se colocan las instrucciones o las declaraciones asociadas al formulario, o la gestión de colores pueden llevarnos a errores en la cumplimentación de un formulario.
 
       Un punto aparte, y de especial importancia en este tema son las tablas. Las matrices en las que tenemos cabeceras en la parte superior y también en la lateral presentan, tradicionalmente, problemas, tanto en los formularios como en los horarios de metro, bus o tren. Hay un corpus de investigación importante sobre este tema y se vuelve más relevante en los casos en los que nos referimos a formularios burocráticos, en los que la incomprensión o la cumplimentación incorrecta de los mismo puede llevar a retrasos, errores o incluso sanciones administrativas.
     type: text
-  -
-    image: /img/articles/images/medidas.jpg
-    text: 'Fragmento del formulario para el procedimiento TR820C (Xunta de Galicia)'
+  - image: /img/articles/images/medidas.jpg
+    text: "Fragmento del formulario para el procedimiento TR820C (Xunta de Galicia)"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En el caso mostrado arriba tenemos diversos problemas de diseño en una tabla (falta de especificidad, distancia excesiva, alineación confusa) que pueden llevar, en muchos casos, a un proceso de corrección de errores con la administración, con las cargas que eso conlleva.
 
       Un punto específico, pero con una solución relativamente sencilla, es la accesibilidad en los formularios _online_. Aquí tenemos un proceso en dos fases: primero, la concienciación de la importancia de la accesibilidad (punto en el que especialmente desde la administración pública se está avanzando) y segundo, la implementación. La implementación, en este momento, es puramente una cuestión de recursos económicos. Tenemos sistemas y métodos más que suficientes para conseguir un grado de accesibilidad casi completo, sólo necesitamos destinar los recursos necesarios para hacerlo. Decimos «casi» porque los usuarios con discapacidades cognitivas tienen mayores dificultades en algunos de los puntos en los que los formularios ya son difíciles para el público general: comprensión y claridad.
@@ -87,7 +78,7 @@ body:
       - encuentran el formulario apabullante y complicado.
       - no saben responder una pregunta y no saben a quién preguntar.
       - tampoco saben qué pasa si se equivocan, si no recuerdan algo o si quieren hacer una corrección.
-       
+
       En resumen, para la mayoría de los usuarios el formulario es un impedimento, una valla a saltar, algo que terminar lo antes posible y a rellenar un poco de cualquier manera siempre que puedan contestarle a quien pregunta «es que no sabía que tenía que hacerlo así, no lo pone en ninguna parte, yo no sabía que quería decir eso…».
 
       ## El alto coste del problema
@@ -100,13 +91,11 @@ body:
 
       Cuando hablamos de un formulario, hablamos de un iceberg: un elemento visible que desata, habitualmente después de su cumplimentación, una serie de procesos y consultas que pueden ser realmente impresionantes (ver el ejemplo más abajo) y mucho mayores.
     type: text
-  -
-    image: /img/articles/images/cuestions.jpg
-    text: '[Proceso posterior a la solicitud de excedencia de un alumno en UCLA](https://medium.com/the-mission/a-form-was-never-just-a-sheet-of-paper-161cc98d6ce2) antes de la modificación de los formularios'
+  - image: /img/articles/images/cuestions.jpg
+    text: "[Proceso posterior a la solicitud de excedencia de un alumno en UCLA](https://medium.com/the-mission/a-form-was-never-just-a-sheet-of-paper-161cc98d6ce2) antes de la modificación de los formularios"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Así, en muchos casos, este es el tipo de esquema sobre el que tendremos que calcular los costes de la corrección de un formulario. Muchas veces los administrados nos sorprendemos cuando recibimos de una administración una respuesta del estilo _mejor cancele el proceso e inicie un procedimiento nuevo,_ o algo parecido. En ocasiones nos encontramos en medio de un procedimiento como el enseñado más arriba, demasiado complejo como para guardar el estado del proceso en cada paso, la única opción acaba siendo empezar de nuevo.
 
       Y ahora sí que empezamos a ver los costes: horas de corrección de los errores evidentes, llamadas de teléfono de usuarios preguntando por qué su procedimiento no avanza, horas de búsqueda de errores menos evidentes, solicitudes de recomienzo del proceso… Cuando tenemos formularios que van a utilizar cientos o miles de usuarios, los costes ocultos de sus errores pueden acumularse rápidamente por encima del trabajo habitual en esa institución (recordemos que la resolución de errores no está contemplada en la asignación de tareas) y ralentizarlo o incluso bloquearlo.
@@ -116,15 +105,13 @@ body:
       - Puede ser por errores al rellenarlo, por ejemplo una reclamación al seguro rechazada porque la información original se considera falsa, siendo simplemente un error al cumplimentar el formulario.
       - Puede ser también por el coste de oportunidad para el usuario. Barnett comenta en su libro un caso especialmente sangrante, en el que los contribuyentes australianos no rellenaban el apartado _Rebates_ en su declaración al no comprender el significado de la cabecera (es un término poco habitual para devolución en inglés). Esto sucedía especialmente en el caso de los contribuyentes con ingresos más bajos, los que más se beneficiarían de la devolución.
       - De manera anecdótica (pero seria) hay estudios que recogen que hasta el 41% de los _testamentos vitales_ presentan errores o contradicciones en la cumplimentación de sus formularios (ver el artículo de Hoffmann, 1996, en la bibliografía).
-       
+
     type: text
-  -
-    image: /img/articles/images/rebates.jpg
-    text: 'La cabecera REBATES en este formulario de devolución de impuestos australiano resulta incomprensible para muchos de sus posibles beneficiarios'
+  - image: /img/articles/images/rebates.jpg
+    text: "La cabecera REBATES en este formulario de devolución de impuestos australiano resulta incomprensible para muchos de sus posibles beneficiarios"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En resumen, el que un formulario esté funcionando no quiere decir que funcione bien, ni que no haya errores, ni que sea fácil de usar. Muchas veces será el principio de un proceso complejo que puede incurrir en múltiples costes ocultos y, en el mejor de los casos, podremos usarlo como un punto de partida para revisar el procedimiento y, finalmente, revisar el propio formulario.
 
       ## No todo está perdido
@@ -134,7 +121,7 @@ body:
       - Desde el punto de vista más teórico tenemos varios caminos tradicionales para acercarnos a los procedimientos subyacentes a los formularios. Exceden nuestro ámbito, pero desde la [investigación operativa](https://es.wikipedia.org/wiki/Investigaci%C3%B3n_de_operaciones) (especialmente en la planificación general o en el método de ruta crítica) o la [reingeniería de procesos](https://es.wikipedia.org/wiki/Reingenier%C3%ADa_de_procesos) se han presentado diversas opciones para la optimización de los procesos, que conllevan un conjunto de requerimientos de información para los formularios.
       - Por otro lado, desde el punto de vista del diseño tenemos metodologías como la teoría de tres capas de Jarnett (relación, conversación y apariencia con y de el formulario con el usuario) que nos permiten acercarnos de forma más estructurada al trabajo con formularios.
       - Y ya desde el punto de vista instrumental tenemos centenares de recursos para mejorar el trabajo con formularios, especialmente _online_. Sólo el resultado de las búsquedas en la web del [Nielsen-Norman Group arroja más de 600 entradas](https://www.nngroup.com/search/?q=forms) con métodos o sugerencias de trabajo con formularios.
-       
+
       En resumen, pese a la dificultad de la tarea, que excede en ocasiones el ámbito del diseño propiamente dicho, tenemos herramientas de diagnóstico y análisis, y también metodologías de trabajo que nos permiten acercarnos al trabajo con formularios esperando conseguir mejores resultados.
 
       ## Bibliografía
@@ -148,7 +135,7 @@ body:
       - Tufte, Edward R. _The Visual Display of Quantitative Information_, Graphics Press, 2001
       - Wroblewski, L. _Web Form Design_, Rosenfeld, 2008
       - Wright, P &amp; Barnard, P. _Asking multiple questions about several items: the design of matrix structures on application forms_, Applied Ergonomics, 9.1, 7-14, 1978
-       
+
     type: text
 position: null
 slug: vuelva-usted-manana

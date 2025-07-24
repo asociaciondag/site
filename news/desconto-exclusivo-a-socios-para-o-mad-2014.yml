@@ -1,8 +1,7 @@
 id: 502
-title: 'Desconto exclusivo a socios para o MAD 2014'
+title: "Desconto exclusivo a socios para o MAD 2014"
 body:
-  -
-    text: |-
+  - text: |-
       A próxima edición de [MAD 2014](http://www.madinspain.com/) celebrarase o vindeiro 27 e 28 de xuño no Palacio Municipal de Congresos de Madrid. Unha oportunidade que a calquera planner lle pode interesar e onde seguro, gozará aprendendo dalgunhas das mentes máis creativas.
 
       Este ano, MAD presenta un cartel de relatores moi completo e interesante, entre os que destacan Vaughan Oliver, Cassidy Curtis (DreamWorks), Pat Perry ou Javier Jaén, entre outros.
@@ -11,12 +10,11 @@ body:
 
       Esperamos que vos resulte interesante.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa629c58-2014-mad-cartel-solo-info.png
-    text: ''
+    text: ""
     type: image
-intro: 'A asociación DAG, a través de READ e MAD Spain, chegou a un acordo para poder ofrecer un desconto exclusivo aos socios da DAG na compra de entradas para a edición 2014 de un dos eventos de deseño máis relevantes e interesantes do país.'
+intro: "A asociación DAG, a través de READ e MAD Spain, chegou a un acordo para poder ofrecer un desconto exclusivo aos socios da DAG na compra de entradas para a edición 2014 de un dos eventos de deseño máis relevantes e interesantes do país."
 slug: desconto-exclusivo-a-socios-para-o-mad-2014
 tags: []
 lang: gl

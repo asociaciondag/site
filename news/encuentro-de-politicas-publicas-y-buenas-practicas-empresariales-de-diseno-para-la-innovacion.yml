@@ -1,8 +1,7 @@
 id: 850
-title: 'Encuentro de políticas públicas y buenas prácticas empresariales de diseño para la innovación'
+title: "Encuentro de políticas públicas y buenas prácticas empresariales de diseño para la innovación"
 body:
-  -
-    text: |-
+  - text: |-
       El [Encuentro de políticas públicas y buenas prácticas empresariales para la innovación](http://gain.xunta.gal/eventos/251/encontro+politicas+publicas+boas+practicas+empresariais+deseno+innovacion) se desarrollará el **martes 11 de diciembre** de 2018 en el CIS Galicia de Ferrol en horario de mañana, y la inscripción es gratuita.
 
       La sesión estará dividida en dos partes: una primera dedicada a la presentación de distintas iniciativas públicas en materia de diseño para la innovación dirigidas a empresas y, especialmente, a pymes; y una segunda en la que se pondrá el foco en diferentes casos de éxito de empresas tractoras que han implementado el diseño como herramienta estratégica de innovación y competitividad.
@@ -45,7 +44,7 @@ body:
       - Pablo García Bodaño, CEO &amp; president Tattoo Contract.
       - Nuria Varela Portas, directora general Pazo de Vilane.
       - Rosario Froján e Alfredo Olmedo, socios-directores de D-Due
-       
+
       14.15 - 14.45 h Empresas gallegas galardonadas en los Premios Paraguas del Clúster de la Comunicación Gráfica. El papel de los estudios de diseño gallegos para la innovación y la competitividad
 
       ### Categoría de Diseño Gráfico
@@ -82,12 +81,11 @@ body:
 
       15.00 h Almuerzo
     type: text
-  -
-    list: ''
-    url: 'http://www.cisgalicia.org/contactos/campan/inscribir/8'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/campan/inscribir/8"
     text: Inscripción
     type: button
-intro: 'La Consellaría de Economía, Empleo e Industria, a través de la Agencia Gallega de Innovación (GAIN) cierra el ciclo de actividades del Programa de Diseño para la Innovación para este año con un Encuentro de políticas públicas y buenas prácticas empresariales de diseño para la innovación.'
+intro: "La Consellaría de Economía, Empleo e Industria, a través de la Agencia Gallega de Innovación (GAIN) cierra el ciclo de actividades del Programa de Diseño para la Innovación para este año con un Encuentro de políticas públicas y buenas prácticas empresariales de diseño para la innovación."
 slug: encuentro-de-politicas-publicas-y-buenas-practicas-empresariales-de-diseno-para-la-innovacion
 tags: []
 lang: es

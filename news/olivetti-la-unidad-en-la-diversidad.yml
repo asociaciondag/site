@@ -1,14 +1,12 @@
 id: 844
-title: 'Olivetti, la unidad en la diversidad'
+title: "Olivetti, la unidad en la diversidad"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/2.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [María Ramos](https://dag.gal/es/maria-ramos/), como parte intrínseca de su trabajo viene revisando desde hace años el papel de la conocida casa italiana de máquinas de escribir Olivetti, en el reconocimiento del importantísimo papel que juega el diseño en la consolidación de una marca.
 
       La exposición se compone de máquinas escribir, carteles originales y otros elementos curiosos que en su mayor parte proceden de la [Colección Sirvent](http://www.sirventvigo.com/sirvent/es). Con ella se le rinde homenaje a la empresa italiana que consiguió fabricar máquinas de escribir durante casi un siglo en el que fue capaz de crear modelos que se convirtieron en iconos en la historia del diseño industrial, destacando por la forma y por los avances conseguidos por la innovación en su funcionalidad.
@@ -17,15 +15,14 @@ body:
 
       La exposición se completa con una muestra del trabajo como diseñadora de tipografías de María Ramos, quien desarrolla sus diseños desde la marca NM type que ha creado junto a Noel Pretorius. Entre sus clientes se encuentran firmas como Jägermeister.
     type: text
-  -
-    list: ''
-    url: 'http://www.didac.gal/didac/gl/exposicions/olivetti'
-    text: 'La muestra en la web de DIDAC'
+  - list: ""
+    url: "http://www.didac.gal/didac/gl/exposicions/olivetti"
+    text: "La muestra en la web de DIDAC"
     type: button
-intro: 'La muestra _Olivetti, la unidad en la diversidad_ comisariada por la diseñadora de tipografías María Ramos se inaugura mañana 22 de noviembre a las 20.00 h en DIDAC.'
+intro: "La muestra _Olivetti, la unidad en la diversidad_ comisariada por la diseñadora de tipografías María Ramos se inaugura mañana 22 de noviembre a las 20.00 h en DIDAC."
 slug: olivetti-la-unidad-en-la-diversidad
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2018-11-21T19:02:21+00:00

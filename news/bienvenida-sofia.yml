@@ -1,14 +1,12 @@
 id: 1173
-title: '¡Bienvenida Sofía!'
+title: "¡Bienvenida Sofía!"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-sofia-socia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Buenas, me llamo Sofía, soy de y vivo en Pontevedra y di unas vueltas por el mundo antes de volver a casa.
 
       Soy licenciada en Bellas Artes en Salamanca, especializada en diseño gráfico. Completé estudios de fotografía y tipografía en la Gerrit Rietveld Academie de Amsterdam. Becada por la Fundación Barrié, cursé el Master of Science en communications design en Pratt Institute, Nueva York.
@@ -25,10 +23,10 @@ body:
 
       Sofía
     type: text
-intro: 'La DAG suma una nueva asociada, [Sofía F de Ana](https://dag.gal/es/sofia-f-de-ana/), que después de recorrer medio mundo, regresó a Galicia y trabaja desde Pontevedra. Estamos muy contentas de contar con ella.'
+intro: "La DAG suma una nueva asociada, [Sofía F de Ana](https://dag.gal/es/sofia-f-de-ana/), que después de recorrer medio mundo, regresó a Galicia y trabaja desde Pontevedra. Estamos muy contentas de contar con ella."
 slug: bienvenida-sofia
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2022-10-13T12:00:00+00:00

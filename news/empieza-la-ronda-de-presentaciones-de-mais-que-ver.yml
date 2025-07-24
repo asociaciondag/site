@@ -1,14 +1,12 @@
 id: 830
-title: 'Empieza la ronda de presentaciones de Máis que ver'
+title: "Empieza la ronda de presentaciones de Máis que ver"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/captura-de-pantalla-2018-10-10-a-las-18-09-06.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       _Máis que ver. Cen historias do deseño na Galiza_ es una obra concebida por el autor para ayudarnos a poner en perspectiva muchas piezas gallegas de diseño gráfico, facilitándonos el contexto histórico y los conocimientos de lenguaje visual que nos permitan comprenderlas en toda su complejidad y valorar su conexión con la cultura y la sociedad gallegas.
 
       Aquellos interesados e interesadas en, además de leer estas 100 historias, escucharlas de la boca del propio Pepe, tenéis ahora una magnífica oportunidad, ya que empieza una ronda de presentaciones que le llevarán por toda Galicia. Apuntad bien las fechas, porque la primera es mañana:
@@ -31,16 +29,15 @@ body:
 
       Construír o pasado é tamén un xeito de avanzar. Non é un paradoxo, construír é aquí desvendar, é visualizar −falamos de ver−, é chantar os alicerces dunha profesión, é tamén xuntar unha bagaxe que axude a entender a cultura propia. Construíndo con palabras, con cada ringleira redactada, ollamos a vida das imaxes idas, velaí, si, un paradoxo. As palabras conducen o pensamento, as imaxes exprésano a maior velocidade, nun chiscar de ollos. Pero non sempre somos conscientes de percibir as súas mensaxes, afixémonos a engulilas no maxín coma quen respira, poucos as ven, pero son e están, e constrúen un discurso tan potente ou máis que os edificados con palabras. Nunha cultura fortemente logocéntrica, onde a palabra é signo e símbolo do país que somos, poucos albiscan o deseño detrás das imaxes: desbotamos un patrimonio fabuloso, mesmo de historias que contar. Somos anicónicos consumidores de imaxes, sen decatarnos sequera da forma máis minúscula das letras que lemos e escribimos. Só algunhas persoas entre nós foron e son quen de entender o vocabulario e manexar a sintaxe das imaxes, non son seres estraños, son profesionais do deseño gráfico. Velaquí tamén neste libro uns poucos consignados até onde eu puiden facer nestes breves apuntamentos, artigos cinxidos, a maior parte, ao espazo da sección «Botar un ollo» do semanario _Sermos Galiza._ Cinxidos tamén ao tempo extra dun deseñador. Non está todo, nin todos e todas: canto máis escribo máis asuntos de interese aparecen, canto máis me dedico máis vexo e máis me queda aínda por ver.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/imagen-5.png
-    text: 'El diseñador Pepe Barro'
+    text: "El diseñador Pepe Barro"
     mode: normal
     type: image
-intro: 'En efecto, el nuevo libro de Pepe Barro _Máis que ver. Cen historias do deseño na Galiza_ está ya en la calle.'
+intro: "En efecto, el nuevo libro de Pepe Barro _Máis que ver. Cen historias do deseño na Galiza_ está ya en la calle."
 slug: empieza-la-ronda-de-presentaciones-de-mais-que-ver
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2018-10-10T10:00:43+00:00

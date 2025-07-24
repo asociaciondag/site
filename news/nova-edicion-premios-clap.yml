@@ -1,14 +1,12 @@
 id: 986
-title: 'Nova edición dos Premios CLAP'
+title: "Nova edición dos Premios CLAP"
 body:
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/imaxe-clap2020-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Os deseños españois competirán con outros realizados en América Latina, Estados Unidos, Brasil e Portugal nas seguintes categorías: publicidade, ilustración, editorial, _branding,_ _online &amp; apps,_ tipografía, _motion graphics,_ industrial e outros.
 
       Tanto profesionais como estudantes poden presentar tantas obras como queiran e se inscriben dous ou máis traballos obteñen o dereito a presentar un terceiro de forma gratuíta. Ata o 19 de xuño existe un 50% de desconto para os e as participantes e, ademáis, os socios e as socias de DAG teñen un 15% de desconto no total de inscricións por formar parte de READ, entidade colaboradora cos premios que, xunto con outras entidades especializadas, encargarase de seleccionar ao xurado desta edición.
@@ -17,17 +15,15 @@ body:
 
       O 30 de agosto pecha a convocatoria, polo que aquelas persoas que queiran participar deberán presentar os seus traballos antes desa data.
     type: text
-  -
-    list: ''
-    url: 'https://premiosclap.org/'
-    text: 'Web dos Premios CLAP'
+  - list: ""
+    url: "https://premiosclap.org/"
+    text: "Web dos Premios CLAP"
     type: button
-  -
-    list: ''
-    url: 'https://premiosclap.org/inscripcion'
-    text: 'Formulario de inscrición'
+  - list: ""
+    url: "https://premiosclap.org/inscripcion"
+    text: "Formulario de inscrición"
     type: button
-intro: 'Os Premios Internacionais de Deseño Gráfico e Industrial CLAP lanzan unha nova convocatoria para inscribir traballos realizados entre os anos 2019 e 2020.'
+intro: "Os Premios Internacionais de Deseño Gráfico e Industrial CLAP lanzan unha nova convocatoria para inscribir traballos realizados entre os anos 2019 e 2020."
 slug: nova-edicion-premios-clap
 tags: []
 lang: gl

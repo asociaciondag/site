@@ -1,14 +1,12 @@
 id: 944
-title: 'La recompensa por el trabajo bien hecho'
+title: "La recompensa por el trabajo bien hecho"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/adceawards-2019.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Sabiendo esto, no podíamos dejar acabar el mes de santos sin traer aquí una pequeña recopilación de todas las distinciones alcanzadas por los socios de la DAG:
 
       ## 1) European Design Awards do ADC\*E
@@ -25,10 +23,10 @@ body:
 
       Por último, hai que salientar la presencia de [Roberto Núñez](https://robertonunez.com/) finalista en la categoría de diseño por su trabajo **Perfeccionista/Bodega Davide (packaging)**, ya premiado con un Platinum Pentawards y con un Wood Pencil, junto a otros dos socios de la DAG, el estudio lugués [Sond3](https://www.sond3.com/) por la **imagen corporativa de Evicc** y la diseñadora [Uqui Permui](https://uqui.net/) por el **Xacobeo 2021**.
     type: text
-intro: 'Si para los agricultores, el otoño es la estación de las cosechas, otro tanto puede aplicarse a los diseñadores y a las diseñadoras de la DAG que a lo largo de todo este mes de noviembre han estado recogiendo los frutos de su trabajo en forma de nominaciones en los distintos certámenes de diseño nacionales e internacionales.'
+intro: "Si para los agricultores, el otoño es la estación de las cosechas, otro tanto puede aplicarse a los diseñadores y a las diseñadoras de la DAG que a lo largo de todo este mes de noviembre han estado recogiendo los frutos de su trabajo en forma de nominaciones en los distintos certámenes de diseño nacionales e internacionales."
 slug: la-recompensa-por-el-trabajo-bien-hecho
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-11-28T16:43:29+00:00

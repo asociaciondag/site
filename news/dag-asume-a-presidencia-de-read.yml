@@ -1,14 +1,12 @@
 id: 1048
-title: 'A Asociación Galega de Deseño asume a presidencia de READ'
+title: "A Asociación Galega de Deseño asume a presidencia de READ"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/captura-asamblea-21.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O pasado sábado, 13 de marzo, a Rede Española de Asociacións de Deseño celebrou a súa Asemblea Xeral anual. A reunión de representantes das asociacións membro fíxose nesta ocasión de maneira virtual.
 
       Segundo figura nos estatutos da organización, a presidencia e a vicepresidencia son cargos rotativos, que son asumidos por representantes das distintas asociacións afiliadas, correspondendo o mandato bianual 2021–2022 á Asociación Galega de Deseño. A Asemblea Xeral serviu, entre outras cousas, para aprobar o novo equipo de goberno, que quedou constituído por:
@@ -18,7 +16,7 @@ body:
       - Vicente Gallega como vicepresidente 2º (ADCV, Valencia)
       - Benicio Aguerrea como secretario (EIDE, Euskadi e Navarra)
       - Cristina Cavaller como tesoureira (La Exprimidora, Castelló)
-       
+
       As vogalías están agora ocupadas por Juana Valcárcel (DIP, Murcia), Marta Pascual (DIMAD, Madrid), Jorge Amat (ADD, Andalucía), Jesús Alonso (DIS, Soria), Diego Rozada (AGA, Asturias) e Daniel Hervás (DIEX, Extremadura).
 
       A presidenta da DAG, Irene García, aproveitou a ocasión para agradecer o traballo e adicación do equipo saínte e trasladar a ilusión e responsabilidade coa que a Asociación Galega de Deseño asume a presidencia. Uqui Permui, nova presidenta de READ, incidiu na necesidade de seguir traballando nos proxectos que seguen activos e estar atentas ás novas oportunidades e iniciativas que poidan xurdir nos vindeiros dous anos.
@@ -27,10 +25,10 @@ body:
 
       READ comeza unha etapa que pretende ser continuadora do traballo desenvolvido ata o de agora, pero tamén aberta a novas vías de actuación, co obxectivo claro de conseguir unha maior presenza e mellor consideración do deseño como actividade chave no desenvolvemento social e económico.
     type: text
-intro: 'Uqui Permui, representante actual da DAG en READ, será a presidenta da [Rede Española de Asociacións de Deseño](https://www.designread.es) os próximos dous anos. A DAG contará ademais cun grupo de apoio a todas as actividades e proxectos que se desenvolvan en READ durante este tempo.'
+intro: "Uqui Permui, representante actual da DAG en READ, será a presidenta da [Rede Española de Asociacións de Deseño](https://www.designread.es) os próximos dous anos. A DAG contará ademais cun grupo de apoio a todas as actividades e proxectos que se desenvolvan en READ durante este tempo."
 slug: dag-asume-a-presidencia-de-read
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2021-03-15T10:54:30+00:00

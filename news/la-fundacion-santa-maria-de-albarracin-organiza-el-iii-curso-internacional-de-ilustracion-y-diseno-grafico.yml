@@ -1,8 +1,7 @@
 id: 21
-title: 'La fundación Santa María de Albarracín organiza el III curso internacional de ilustración y diseño gráfico'
+title: "La fundación Santa María de Albarracín organiza el III curso internacional de ilustración y diseño gráfico"
 body:
-  -
-    text: |-
+  - text: |-
       Los talleres, centrarán su trabajo completamente práctico en el tema elegido para este año; “la risa, el llanto y todo lo demás” se convertirán en el eje central de estudio de cada profesor con sus alumnos, cuyos resultados se valorarán y presentarán en conjunto el último día. Del 24 al 27 de JUNIO.
 
       Co-Dirección: D. Isidro Ferrer, Ilustrador y Diseñador Gráfico, y D. Carlos Grassa Toro, Escritor y Profesor.
@@ -11,17 +10,15 @@ body:
 
       INSCRIPCIÓN: [web](http://www.fundacionsantamariadealbarracin.com/pdf/ficha_electronica_curso_internacional_ilustracion_diseno_0609.pdf)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9562ca6-cartel-larisa.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9562ca6-programa.pdf
     text: Descargar
     type: file
-intro: 'Durante cuatro días, los profesores invitados, que como en ediciones anteriores serán grandes nombres del panorama internacional, junto con los directores del Curso presentarán en ponencias magistrales, talleres y exposiciones de obra propia, su bagaje profesional, la reflexión teórica que lo sustenta y las estrategias para llevar a cabo nuevas creaciones.'
+intro: "Durante cuatro días, los profesores invitados, que como en ediciones anteriores serán grandes nombres del panorama internacional, junto con los directores del Curso presentarán en ponencias magistrales, talleres y exposiciones de obra propia, su bagaje profesional, la reflexión teórica que lo sustenta y las estrategias para llevar a cabo nuevas creaciones."
 slug: la-fundacion-santa-maria-de-albarracin-organiza-el-iii-curso-internacional-de-ilustracion-y-diseno-grafico
 tags: []
 lang: es

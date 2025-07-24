@@ -1,14 +1,12 @@
 id: 1276
-title: 'Caterina Varela únese á DAG'
+title: "Caterina Varela únese á DAG"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/caterinavarela-web.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Son [Caterina Varela](https://dag.gal/es/caterina-varela/), artista, deseñadora e xestora cultural, nacida e residente en Galicia –entre A Coruña e a Ulloa–.
 
       Estou feliz de entrar na DAG e de poder coñecer un pouco máis a fondo o sector do deseño galego. Penso que o debate sectorial no campo das artes vivas contemporáneas asemella ter moito que ver co do deseño. Ogallá nos vindeiros anos vexamos abrirse moitas vías de diálogo colectivo entre os sectores creativos aquí en Galicia.
@@ -17,10 +15,10 @@ body:
 
       Unha aperta e grazas pola acollida.
     type: text
-intro: 'Presentamos a Caterina Varela, unha das recentes incorporacións á DAG, que traballa dentro do sector das artes vivas como deseñadora, artista e comisaria de proxectos. Aquí vos deixamos con ela. Benvida!'
+intro: "Presentamos a Caterina Varela, unha das recentes incorporacións á DAG, que traballa dentro do sector das artes vivas como deseñadora, artista e comisaria de proxectos. Aquí vos deixamos con ela. Benvida!"
 slug: caterina-varela-unese-a-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2024-02-01T08:42:36+00:00

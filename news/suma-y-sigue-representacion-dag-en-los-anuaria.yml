@@ -1,23 +1,19 @@
 id: 952
-title: 'Suma y sigue... Representación DAG en los Anuaria'
+title: "Suma y sigue... Representación DAG en los Anuaria"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/anuaria-ouro-dardo-2019.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'En esta edición tenemos que destacar el Premio Anuaria de Oro concedido a [Dardo](http://www.dardo.gal/dardo/), por el trabajo realizado con el libro _DRIFT, miradas cruzadas entre diseño y arte contemporáneo_, una publicación que camina por la historia del diseño al mismo tiempo que plantea otras visiones de la historia del arte en función de la relación que se establece entre ambas disciplinas. El resultado es un volumen con tono uniforme a pesar de la diversidad de las fuentes de las que proceden las imágenes. La gráfica de la portada se expande desde la D y marca la forma del libro.'
+  - text: "En esta edición tenemos que destacar el Premio Anuaria de Oro concedido a [Dardo](http://www.dardo.gal/dardo/), por el trabajo realizado con el libro _DRIFT, miradas cruzadas entre diseño y arte contemporáneo_, una publicación que camina por la historia del diseño al mismo tiempo que plantea otras visiones de la historia del arte en función de la relación que se establece entre ambas disciplinas. El resultado es un volumen con tono uniforme a pesar de la diversidad de las fuentes de las que proceden las imágenes. La gráfica de la portada se expande desde la D y marca la forma del libro."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/seleccion-anuaria-2019.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [Era comunicación](https://eracomunicacion.es/) recibió una Selección Especial Anuaria en la categoría de mejor Campaña de Interés Social, por el trabajo _Ben veñas, Maio!_ realizado para la Concejalía de Normalización Lingüística del Ayuntamiento de Pontevedra, junto con los equipos de normalización (ENL) de los institutos de Pontevedra, con la que promovían el uso del gallego entre la juventud a través de las artes: teatro escolar, cómic, narración corta, fotografía, poesía, cortometraje y videoclip musical.
 
       Por otro lado, [Roberto Núñez](https://robertonunez.com/) obtuvo dos Selecciones Especiales Anuaria por _Observador_ y _Perfeccionista_, ambos en la categoría de mejor Packaging. Vinos de edición limitada que tienen su origen en una forma muy personal de trabajar, analizar y entender la naturaleza, la llamada _viticultura reflexiva._
@@ -28,10 +24,10 @@ body:
 
       Podéis ver el resto de los premiados y premiadas [aquí](https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html?utm_source=newsletter_72_2019-12-11&utm_medium=newsletter&utm_campaign=veredicto_de_los_premios_anuaria_2019&fbclid=IwAR15qBmQkrQmRZ5YdTiE1Tf8w2I_OPfeyfmEXzWt8EL-s3wmIMbmbhIDacM).
     type: text
-intro: 'No podemos estar más contentos, pues terminamos este año 2019 con más reconocimiento al diseño gallego en la XXVI Edición de los Premios Anuaria; donde Dardo, Era Comunicación y Roberto Núñez han recibido sendos premios y selecciones especiales.'
+intro: "No podemos estar más contentos, pues terminamos este año 2019 con más reconocimiento al diseño gallego en la XXVI Edición de los Premios Anuaria; donde Dardo, Era Comunicación y Roberto Núñez han recibido sendos premios y selecciones especiales."
 slug: suma-y-sigue-representacion-dag-en-los-anuaria
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-12-13T17:06:23+00:00

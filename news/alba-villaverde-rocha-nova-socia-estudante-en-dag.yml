@@ -1,24 +1,22 @@
 id: 1278
-title: 'Alba Villaverde, nova socia estudante en DAG'
+title: "Alba Villaverde, nova socia estudante en DAG"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/foto-alba-villaverde.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Chamei a porta do deseño no momento en que me din de conta de que abría unhas posibilidades creativas en min infinitas.
 
       Escribindo isto sinto impaciencia, inseguridade e emoción. Pretendo que sexa un novo comezo, un paso máis cercano cara o mundo real, fóra da escola.
 
       A longo prazo, soño con dedicarme profesionalmente a facer grafismo e _props_ para o cine, e unir así os meus mundos interiores; pero eu que sei! A porta nunca pecha.
     type: text
-intro: 'Presentamos a Alba Villaverde Rocha, estudante de Deseño Gráfico na EASD Pablo Picasso que se une a DAG con ilusión e ganas de aportar desde outro punto de vista. Benvida Alba!'
+intro: "Presentamos a Alba Villaverde Rocha, estudante de Deseño Gráfico na EASD Pablo Picasso que se une a DAG con ilusión e ganas de aportar desde outro punto de vista. Benvida Alba!"
 slug: alba-villaverde-rocha-nova-socia-estudante-en-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2024-02-27T09:00:11+00:00

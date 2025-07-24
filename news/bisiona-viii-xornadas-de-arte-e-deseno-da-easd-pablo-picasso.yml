@@ -1,14 +1,12 @@
 id: 1366
-title: 'Bisiona, VIII Xornadas de Arte e Deseño da EASD Pablo Picasso'
+title: "Bisiona, VIII Xornadas de Arte e Deseño da EASD Pablo Picasso"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/easdpablopicasso-bisiona1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Neste ano 2025 a escola EASD Pablo Picasso celebra ademais o seu 175 aniversario polo que estas xornadas son especiais xa que participarán profesionais da arte e do deseño que pasaron previamente pola escola, e estudantes que recentemente finalizaron os estudos para presentar os seus proxectos fin de grao ou curso.
 
       As xornadas inaugúranse o mércore​s​ 22 ás 09.30 h cunha benvida institucional. Ás 10.00 h participan as ilustradoras Violeta González e Lidia Cao e ás 12.00 h o​s profesionais do dourado Brais Carpintero e David Muñiz. Pola tarde, ás 16.00 h serán protagonistas os fotógrafos Steffan Abella e Kiko Delgado. ​​
@@ -21,15 +19,14 @@ body:
 
       Todas as ponencias terán lugar no Salón de Actos da Escola. Estarán abertas ao público ata completar aforo, porén o alumnado terá prioridade de acceso.
     type: text
-  -
-    list: ''
-    url: 'https://eapicasso.com/bisiona-viii-xornadas-de-arte-e-deseno/'
-    text: 'Máis info'
+  - list: ""
+    url: "https://eapicasso.com/bisiona-viii-xornadas-de-arte-e-deseno/"
+    text: "Máis info"
     type: button
-intro: 'Do 22 ao 24 de xaneiro a EASD Pablo Picasso da Coruña organiza as VIII Xornadas Bisiona. Tres días par​a​ coñecer a experiencia profesional de antigos e antigas estudantes da escola como Lidia Cao, Luis Mosquera ou Marta Lojo. A asistencia é aberta ao público, mais o alumnado ten acceso prioritario.​'
+intro: "Do 22 ao 24 de xaneiro a EASD Pablo Picasso da Coruña organiza as VIII Xornadas Bisiona. Tres días par​a​ coñecer a experiencia profesional de antigos e antigas estudantes da escola como Lidia Cao, Luis Mosquera ou Marta Lojo. A asistencia é aberta ao público, mais o alumnado ten acceso prioritario.​"
 slug: bisiona-viii-xornadas-de-arte-e-deseno-da-easd-pablo-picasso
 tags:
-  - 'Difusión eventos'
+  - "Difusión eventos"
 lang: gl
 draft: false
 date: 2025-01-15T08:26:38+00:00

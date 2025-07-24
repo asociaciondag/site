@@ -1,14 +1,12 @@
 id: 719
-title: 'Cidade Creativa'
+title: "Cidade Creativa"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/58dbcc3de6790-cabeceira-facebook.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |2-
+  - text: |2-
         
        Pero qué es [\#CidadeCreativa](https://www.facebook.com/hashtag/cidadecreativa)?   
          
@@ -60,7 +58,7 @@ body:
        [www.cidadedacultura.gal/gl/evento/cidade-creativa](http://www.cidadedacultura.gal/gl/evento/cidade-creativa)  
        [www.7hcoop.es/cidade-creativa/](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.7hcoop.es%2Fcidade-creativa%2F&h=ATNuul_8-XsN8moMs2hWFJNQBLf5GTN8KEGWz1YEcaAh1-bZ1p07dUINGrTGFf6DxU75zPqI1CaBZe8tK1pbd7G-zFx16d9yYXg5_fwVqJklRh7Y2Of2RGKKaENt3tBjjjI&enc=AZNMkG7Gn3Ekc3ZPloV_lkoPDs502QRK3khEgSWsjnuwL6tuv9yctmKSFWFIGH0Rs-Q&s=1)
     type: text
-intro: 'El Centro de Emprendimiento del Gaiás acoge este jueves 30 de marzo **Cidade Creativa**, un gran networking de emprendedores creativos.'
+intro: "El Centro de Emprendimiento del Gaiás acoge este jueves 30 de marzo **Cidade Creativa**, un gran networking de emprendedores creativos."
 slug: cidade-creativa
 tags: []
 lang: es

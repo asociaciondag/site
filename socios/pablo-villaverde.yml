@@ -6,34 +6,30 @@ contact: |-
 
   <hola@pablovillaverde.com>
 links:
-  -
-    text: Web
-    url: 'https://www.pablovillaverde.com/'
+  - text: Web
+    url: "https://www.pablovillaverde.com/"
     type: link
-  -
-    text: 'Instagram '
-    url: 'https://www.instagram.com/pablovillaverdediseno/'
+  - text: "Instagram "
+    url: "https://www.instagram.com/pablovillaverdediseno/"
     type: link
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/pablovillaverdedesign/'
+  - text: Facebook
+    url: "https://www.facebook.com/pablovillaverdedesign/"
     type: facebook
-  -
-    text: Behance
-    url: 'https://www.behance.net/pablovillaverde'
+  - text: Behance
+    url: "https://www.behance.net/pablovillaverde"
     type: link
-name: 'Pablo Villaverde'
+name: "Pablo Villaverde"
 slug: pablo-villaverde
 avatarBig: null
 avatar: /img/avatars/autoretrato-pablo-villaverde.jpg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Web
   - Editorial
   - Embalaxe
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Creativo, deseñador e ilustrador'
-job.es: 'Creativo, diseñador e ilustrador'
+job.gl: "Creativo, deseñador e ilustrador"
+job.es: "Creativo, diseñador e ilustrador"

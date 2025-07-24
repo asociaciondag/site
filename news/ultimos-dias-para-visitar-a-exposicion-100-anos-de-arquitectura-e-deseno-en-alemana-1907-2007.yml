@@ -1,11 +1,9 @@
 id: 432
-title: 'Últimos días para visitar a exposición 100 anos de arquitectura e deseño en Alemaña 1907-2007'
+title: "Últimos días para visitar a exposición 100 anos de arquitectura e deseño en Alemaña 1907-2007"
 body:
-  -
-    type: text
+  - type: text
     text: 'A exposición, que se inaugurou a principios de febreiro, conmemora o centenario daDeustscher Werkbund, a Liga Alemá de Talleres fundada en 1907 por 12 artistas e arquitectos, xunto con 12 fábricas de Múnic, co obxectivo de mellorar as calidades de todos os bens producidos industrialmente e lograr unha "cultura harmoniosa", nun mundo en plena transformación tras a industrialización e a urbanización.A mostra, organizada en sete áreas cronolóxicas, fai un percorrido pola historia deste colectivo que abordou, en palabras dun dos seus fundadores, Hermann Muthesius, “desde o coxín de sofá á construción de cidades" e boa parte dos seus logros, como a "boa forma" dos produtos industriais e o deseño corporativo homoxéneo das empresas son hoxe realidades asentadas. Entre os case 500 obxectos que se poden ver ata o vindeiro 28 de abril no Museo de Belas Artes da Coruña hai carteis, maquetas, revistas, mobles, vaixelas, deseños e fotografías... de creadores como André Lurcat, Fritz Hellmut Ehmcke, Peter Behrens e Hermann Gretsch, cun papel fundamental no desenvolvemento das novas formas no ámbito da arquitectura, a planificación urbana e o deseño industrial e na aparición da conciencia ecolóxica e dunha ética do consumo máis responsable. Lugar: [Museo de Belas Artes da Coruña](http://museobelasartescoruna.xunta.es/index.php?id=192) Rúa Zalaeta, s/n 15002 A Coruña Horario: de martes a venres pola mañá (de 12.30 a 14.00 h) e pola tarde (de 17.00 a 20.00 h) Entrada de balde'
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa345ab4-100anosalemania.jpg
 intro: null
 slug: ultimos-dias-para-visitar-a-exposicion-100-anos-de-arquitectura-e-deseno-en-alemana-1907-2007

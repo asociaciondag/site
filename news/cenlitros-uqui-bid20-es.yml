@@ -1,27 +1,24 @@
 id: 1015
-title: 'El estudio cenlitros y la diseñadora Uqui Permui finalistas en la Bienal Iberoamericana de Diseño'
+title: "El estudio cenlitros y la diseñadora Uqui Permui finalistas en la Bienal Iberoamericana de Diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/bid20.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La Bienal Iberoamericana de Diseño es una iniciativa de DIMAD, cuyo eje central es una exposición internacional itinerante. La semana inaugural tendrá lugar del 23 al 27 de noviembre en la Central de Diseño de Matadero Madrid. La muestra, que se convierte en un punto de encuentro para profesionales e instituciones, permanecerá abierta al público hasta finales de año.
 
       De los 420 proyectos presentados, son 140 las propuestas seleccionadas por un jurado internacional. Argentina, Bolivia, Brasil, Chile, Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá, Paraguay, Perú, Portugal, Puerto Rico, República Dominicana, Uruguay y Venezuela son, junto con España, los países representados. Este año la DAG celebra la selección del trabajo de 3 de nuestras asociadas, la diseñadora [Uqui Permui](https://uqui.net) y Xabier Rilo y Ricardo Tubío, del estudio de diseño [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/?lang=es). Los proyectos seleccionados serán publicados en el catálogo de la exposición y también en la propia página web de la BID 2020.
     type: text
-  -
-    list: ''
-    url: 'https://www.bid-dimad.org/seleccionadosbid20/#1602145989722-bef406cb-073f'
-    text: 'Seleccionados BID_20'
+  - list: ""
+    url: "https://www.bid-dimad.org/seleccionadosbid20/#1602145989722-bef406cb-073f"
+    text: "Seleccionados BID_20"
     type: button
-intro: 'El diseño para la señalización de las [Cabanas de Albeida](http://cenlitrosmetrocadrado.com/cabanas-de-albeida/?lang=es), creado por nuestros socios Xabier Rilo y Ricardo Tubío, ha sido seleccionado en la categoría de diseño gráfico y comunicación visual de la séptima edición de la BID. En esta misma categoría encontramos también el diseño para la marca [Xacobeo 2021](https://uqui.net/es/proyectos/xacobeo-2021), un proyecto creado por nuestra socia Uqui Permui para la identidad del próximo año jacobeo.'
+intro: "El diseño para la señalización de las [Cabanas de Albeida](http://cenlitrosmetrocadrado.com/cabanas-de-albeida/?lang=es), creado por nuestros socios Xabier Rilo y Ricardo Tubío, ha sido seleccionado en la categoría de diseño gráfico y comunicación visual de la séptima edición de la BID. En esta misma categoría encontramos también el diseño para la marca [Xacobeo 2021](https://uqui.net/es/proyectos/xacobeo-2021), un proyecto creado por nuestra socia Uqui Permui para la identidad del próximo año jacobeo."
 slug: cenlitros-uqui-bid20-es
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2020-10-19T12:50:57+00:00

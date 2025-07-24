@@ -1,17 +1,14 @@
 id: 181
-title: '(Desmontar la) SOBERRRBIA...!!!'
+title: "(Desmontar la) SOBERRRBIA...!!!"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       María Prada Galicia Libro
 
       n.º de páxinas: 51 Tipo de encadernación: cosido, manual. Descrición da obra:
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9b30e54-desmontar-web.jpg
-  -
-    type: file
+  - type: file
     text: Descargar
     file: /files/553e7a9b30e54-soberrrbia.pdf
 intro: null

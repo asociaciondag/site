@@ -1,14 +1,12 @@
 id: 885
-title: 'Balance de la iniciativa Que fai un/ha creador/a no meu barrio?'
+title: "Balance de la iniciativa Que fai un/ha creador/a no meu barrio?"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/creadores2xok.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El proyecto tenía como objetivo reivindicar el trabajo creativo y fomentar la interacción de los creadores con el medio social en el que se insieren. Arrancó a comienzos de año, primero en Ferrol, en el barrio de Caranza, y después en Compostela, en la Almáciga, donde se desarrolló su respectivo taller. Los creadores participantes fueron los arquitectos CREUSeCARRASCO, en el caso de Ferrol, y los diseñadores cenlitrosmetrocadrado, en el de Compostela.
 
       A pocos días de la clausura del último de los talleres, quisimos preguntarles al equipo de DARDO, y a Ricardo y Xabier, de cenlitrosmetrocadrado por sus impresiones y valoraciones acerca de todo el trabajo realizado. Sus respuestas las reproducimos a seguir:
@@ -55,20 +53,17 @@ body:
 
       Sí, la gráfica se creó en Dardo. En su desarrollo se procuró simplificar el uso de elementos compositivos, la tipografía y el color, evitando distracciones que —dada la naturaleza abierta del mismo— lo pudieran encarar en una determinada dirección. Asimismo, se quiso reflejar la intención constructiva y procesal de la actividad mediante una tipografía que parece intervenida o mismo construida a partir de dobreces de un papel. El color azul atlántico es la que proporciona la fuerza de contraste y actúa como elemento unificador sobre los diferentes fondos planos de color que marcan los contenidos.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/cartel-compostela-ok.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/cartel-ferrol.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Entrevista a Ricardo Tubío e Xabier Rilo de [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/)
 
       **¿Cuál ha sido vuestra experiencia de la participación en el proyecto?**
@@ -95,33 +90,29 @@ body:
 
       Un Kit básico de autogestión vecinal para espacios públicos dinámico con la capacidad de crecer, evolucionar y adaptarse a las nuevas necesidades. Los elementos finales que se fabricaron fueron dos bancos (convertibles en pequeño escenario), una barra de apoyo, una estanteria para almacenar o exponer (convertible en mesa o en banco pequeño) y un muro de intercambio donde se puede escribir, y también colgar cajas, bolsas, objetos (para intercambiar productos de la huerta, semillas, herramientas...), todo sencillo de montar, desmontar y almacenar.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/mg-7707.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/mg-7698.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       **¿Creéis que la profesión de diseñador/a se entiende mejor con iniciativas como esta?**
 
       Sin duda. Estas iniciativas sirven para acercar a la sociedad el valor que pueden aportar los diseñadores al entorno y a la mejora de la vida de las personas. Tienen además un doble carácter, permiten visualizar y entender la profesión de los creadores, y también compartir y experimentar directamente con las personas que serán los usuarios del resultado. La co-creación y la implicación de los vecinos, sin duda, son los dos elementos más enriquecedores.
     type: text
-  -
-    list: ''
-    url: 'http://dardo.gal/quefaiuncreador/'
-    text: 'Que fai un creador no teu barrio?'
+  - list: ""
+    url: "http://dardo.gal/quefaiuncreador/"
+    text: "Que fai un creador no teu barrio?"
     type: button
-intro: 'Hace unos días finalizaba en Compostela el segundo de los talleres del proyecto participativo y colaborativo _Que fai un/ha creador/a no meu barrio?_ promovido por DARDO.'
+intro: "Hace unos días finalizaba en Compostela el segundo de los talleres del proyecto participativo y colaborativo _Que fai un/ha creador/a no meu barrio?_ promovido por DARDO."
 slug: balance-de-la-iniciativa-que-fai-un-ha-creador-a-non-meu-barrio
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-04-15T11:43:50+00:00

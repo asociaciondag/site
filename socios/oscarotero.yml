@@ -4,19 +4,16 @@ contact: |-
 
   <oom@oscarotero.com>
 links:
-  -
-    text: Web
-    url: 'http://oscarotero.com'
+  - text: Web
+    url: "http://oscarotero.com"
     type: link
-  -
-    text: letrag
-    url: 'http://letrag.com/'
+  - text: letrag
+    url: "http://letrag.com/"
     type: link
-  -
-    text: Github
-    url: 'https://github.com/oscarotero'
+  - text: Github
+    url: "https://github.com/oscarotero"
     type: link
-name: 'Óscar Otero'
+name: "Óscar Otero"
 slug: oscarotero
 avatarBig: null
 avatar: /img/avatars/56005234b85c5-oscarotero.jpg
@@ -26,5 +23,5 @@ tags:
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador web'
-job.es: 'Diseñador web'
+job.gl: "Deseñador web"
+job.es: "Diseñador web"

@@ -1,27 +1,24 @@
 id: 766
-title: 'Lois Guillán presentará no FEED o proxecto educativo de cucuducho para nenos'
+title: "Lois Guillán presentará no FEED o proxecto educativo de cucuducho para nenos"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/lois-web.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O interesante do deseño, na opinión de Lois, é que pode ser a canle de comunicación axeitada para case calquera concepto. Podemos transmitir tradición ou vangarda mediante o emprego dos materiais; proximidade ou frialdade a través dos acabados; nostalxia ou indiferenza coas formas… Nestes momentos, o seu obxectivo é que os seus deseños estean estreitamente vencellados coa cultura, coa tradición, coa educación e coa arte, e que se tornen en amplificadores destes aspectos en todos os nenos.
 
       Lois Guillán é graduado en Deseño de Interiores e Deseño de Produtos pola EASD de Santiago de Compostela. Após oito anos á fronte do estudio [Piedrapapeltijera](http://www.piedrapapeltijera.com/) que axudou a cofundar, na actualidade dirixe o proxecto [cucuducho](http://cucuducho.com/cms/gl/).
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: 'FEED''17'
     type: button
-intro: 'Trátase dun proxecto innovador para introducir os máis pequenos nos procesos reais que rodean o deseño.'
+intro: "Trátase dun proxecto innovador para introducir os máis pequenos nos procesos reais que rodean o deseño."
 slug: lois-guillan-presentara-no-feed-o-proxecto-educativo-de-cucuducho-para-nenos
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2017-10-30T10:45:17+00:00

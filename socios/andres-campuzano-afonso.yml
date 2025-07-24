@@ -2,19 +2,17 @@ id: 8
 contact: |-
   <andres.campuzano.vb@gmail.com>
 
-  Vicente Aleixandres, 1, 6º E  
-   15009 A Coruña (A Coruña)  
+  Vicente Aleixandres, 1, 6º E
+   15009 A Coruña (A Coruña)
    M. 656828126
 links:
-  -
-    text: Portfolio
-    url: 'http://www.coroflot.com/acampuzano'
+  - text: Portfolio
+    url: "http://www.coroflot.com/acampuzano"
     type: link
-  -
-    text: Currículum
-    url: 'https://cuvitt.talentkey.io/professional/andrescampuzano/'
+  - text: Currículum
+    url: "https://cuvitt.talentkey.io/professional/andrescampuzano/"
     type: link
-name: 'Andrés Campuzano Afonso'
+name: "Andrés Campuzano Afonso"
 slug: andres-campuzano-afonso
 avatarBig: null
 avatar: /img/avatars/554cf58cc1286-andres-campuzano-afonso.jpg
@@ -22,5 +20,5 @@ tags: []
 draft: true
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico e industrial'
-job.es: 'Diseñador gráfico e industrial'
+job.gl: "Deseñador gráfico e industrial"
+job.es: "Diseñador gráfico e industrial"

@@ -1,14 +1,12 @@
 id: 1174
-title: 'Convocada la VII edición de los Premios Paraugas'
+title: "Convocada la VII edición de los Premios Paraugas"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/paraugas-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los Premios de la Comunicación y del Marketing de Galicia fueron creados por el Clúster de la Comunicación de Galicia en el año 2016. Nacieron con la idea de poner en valor a calidad y el excelente trabajo que se hace en nuestra tierra, con el objetivo de ensalzar la función de la creatividad, el diseño, la edición, la impresión, el _marketing_, la comunicación y los eventos de origen gallego y como medio para conseguir aumentar la competitividad y la capacidad innovadora. Se trata de una convocatoria de premios desde el sector y para el sector.
 
       Los Premios Paraugas reconocen el trabajo profesional hecho en Galicia en los ámbitos de la creatividad, la impresión y la edició​n​, el _marketing_, el _marketing_ digital,​ la comunicación, eventos y el diseño. Esta última categoría, patrocinada por la Agencia Gallega de Innovación, incluye 3 premios: Premio Paraugas al Mejor Diseño Gráfico, Premio Paraugas al Mejor Diseño Industrial o de Producto y Premio Paraugas al Mejor Diseño Digital.
@@ -19,7 +17,7 @@ body:
 
       Todos los detalles sobre esta nueva edición de los Premios Paraugas están disponibles[ en su web](https://premios.clustercomunicacion.gal/), desde donde también se puede hacer la inscripción de proyectos.
     type: text
-intro: 'El Cluster de la Comunicación de Galicia convoca una nueva edición de los Premios Paraugas. Las empresas y profesionales interesados en inscribir sus proyectos podrán hacerlo hasta el próximo 31 de octubre y​​ los socios y socias de DAG tienen descuento. ​'
+intro: "El Cluster de la Comunicación de Galicia convoca una nueva edición de los Premios Paraugas. Las empresas y profesionales interesados en inscribir sus proyectos podrán hacerlo hasta el próximo 31 de octubre y​​ los socios y socias de DAG tienen descuento. ​"
 slug: convocada-la-vii-edicion-de-los-premios-paraugas
 tags: []
 lang: es

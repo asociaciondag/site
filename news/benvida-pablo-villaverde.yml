@@ -1,14 +1,12 @@
 id: 974
-title: 'Damos a benvida a un novo socio, Pablo Villaverde'
+title: "Damos a benvida a un novo socio, Pablo Villaverde"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-pablo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola, son Pablo Villaverde, deseñador gráfico especializado en identidade visual, desenvolvemento web e ilustración tanto técnica como artística, con máis de 20 anos de experiencia.
 
       Comecei no sector a mediados dos 90, manexando as primeiras versións de Adobe Photoshop ou Quark mentres traballaba en Macrom (A Coruña), unha das empresas punteiras no campo das Artes Gráficas.
@@ -17,15 +15,14 @@ body:
 
       No ano 2010 empecei a miña carreira profesional como _freelance_, explorando todos os ámbitos do deseño e da comunicación corporativa, realizando traballos de deseño de marcas para sectores tan variados como a industria alimentaria, a electrónica, ou a arquitectura ecolóxica; e para clientes e axencias de toda España e algún país de Europa (Alemaña, Reino Unido...).
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/pablo-villaverde/'
-    text: 'Perfil de Pablo Villaverde'
+  - list: ""
+    url: "https://dag.gal/gl/pablo-villaverde/"
+    text: "Perfil de Pablo Villaverde"
     type: button
-intro: 'A nosa actividade non para, así como non para de medrar a lista de profesionais que xa son parte da DAG. Hoxe damos a benvida a Pablo Villaverde, un profesional cunha extensa experiencia, que viviu en primeira persoa o cambio de século como deseñador, adaptándose a novas ferramentas e novas formas de traballar; porque cada día é un día de aprendizaxe e adaptación para adiantarnos ao que está por vir e para seguir avanzando.'
+intro: "A nosa actividade non para, así como non para de medrar a lista de profesionais que xa son parte da DAG. Hoxe damos a benvida a Pablo Villaverde, un profesional cunha extensa experiencia, que viviu en primeira persoa o cambio de século como deseñador, adaptándose a novas ferramentas e novas formas de traballar; porque cada día é un día de aprendizaxe e adaptación para adiantarnos ao que está por vir e para seguir avanzando."
 slug: benvida-pablo-villaverde
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2020-03-24T11:22:06+00:00

@@ -1,10 +1,9 @@
 id: 163
-title: 'Taberna O Seixo'
+title: "Taberna O Seixo"
 slug: taberna-o-seixo
 body:
-  -
-    image: /img/portfolio/images/573f376f122ae-presentacion-seixo-bh.jpg
-    text: ''
+  - image: /img/portfolio/images/573f376f122ae-presentacion-seixo-bh.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/573f36feddcc8-portadaseixo-bh.jpg
 tags: []

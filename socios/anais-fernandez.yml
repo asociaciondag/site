@@ -1,28 +1,25 @@
 id: 100
-contact: '<anais.fernandez.villar1996@gmail.com>'
+contact: "<anais.fernandez.villar1996@gmail.com>"
 links:
-  -
-    text: Web
-    url: 'https://www.anaisfernandezvillar.com/'
+  - text: Web
+    url: "https://www.anaisfernandezvillar.com/"
     type: link
-  -
-    text: Behance
-    url: 'https://www.behance.net/anaisfernandezvillar'
+  - text: Behance
+    url: "https://www.behance.net/anaisfernandezvillar"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/ana%C3%ADs-fern%C3%A1ndez-774872158/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/ana%C3%ADs-fern%C3%A1ndez-774872158/"
     type: linkedin
-name: 'Anaís Fernández'
+name: "Anaís Fernández"
 slug: anais-fernandez
 avatarBig: null
 avatar: /img/avatars/anais-fernandez.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
   - Web
 draft: true
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñadora gráfica e web'
-job.es: 'Diseñadora gráfica y web '
+job.gl: "Deseñadora gráfica e web"
+job.es: "Diseñadora gráfica y web "

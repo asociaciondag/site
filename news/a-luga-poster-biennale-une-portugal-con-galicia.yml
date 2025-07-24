@@ -1,14 +1,12 @@
 id: 1300
-title: 'A LUGA Poster Biennale une Portugal con Galicia'
+title: "A LUGA Poster Biennale une Portugal con Galicia"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/luga-posterbiennale-2024.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O fin último do proxecto LUGA é a creación dunha Bienal do Cartel Luso-Galaica e establecer un evento internacional dedicado á promoción e á celebración do cartel como forma de expresión artística e comunicativa.
 
       A bienal ten como obxectivo reunir a deseñadores, artistas e profesionais do ámbito do deseño gráfico e da comunicación visual (entre outras áreas), máis directamente entre Portugal e Galicia, para compartir as súas creacións, explorar tendencias e estimular o diálogo e a colaboración entre comunidades.
@@ -21,12 +19,11 @@ body:
 
       Animamos a estudantes e deseñadores e deseñadoras galegas a presentar as súas creacións e fomentar ese intercambio cultural co país veciño, para coñecer as achegas e as diferencias que podemos atopar entre as distintas formas de creación visual.
     type: text
-  -
-    list: ''
-    url: 'https://lugaposterbiennale.org/GL/'
-    text: 'Web LUGA Poster Biennale'
+  - list: ""
+    url: "https://lugaposterbiennale.org/GL/"
+    text: "Web LUGA Poster Biennale"
     type: button
-intro: 'A Luga Poster Biennale é un proxecto da Escola Superior de Media Artes e Design, do Instituto Politécnico do Porto e do Instituto de Investigación en Deseño, Medios e Cultura, que pretende explorar o cartel como elemento fundamental da investigación. A DAG colabora na difusión deste evento en Galicia.'
+intro: "A Luga Poster Biennale é un proxecto da Escola Superior de Media Artes e Design, do Instituto Politécnico do Porto e do Instituto de Investigación en Deseño, Medios e Cultura, que pretende explorar o cartel como elemento fundamental da investigación. A DAG colabora na difusión deste evento en Galicia."
 slug: a-luga-poster-biennale-une-portugal-con-galicia
 tags: []
 lang: gl

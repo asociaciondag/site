@@ -4,29 +4,25 @@ contact: |-
 
   hola@zoraidasobrin.com
 links:
-  -
-    text: Web
-    url: 'https://zoraidasobrin.com/'
+  - text: Web
+    url: "https://zoraidasobrin.com/"
     type: link
-  -
-    text: LinkedIn
-    url: 'https://www.linkedin.com/company/zoraidasobrinartistagrafica/'
+  - text: LinkedIn
+    url: "https://www.linkedin.com/company/zoraidasobrinartistagrafica/"
     type: linkedin
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/zoraida_sobrin/'
+  - text: Instagram
+    url: "https://www.instagram.com/zoraida_sobrin/"
     type: facebook
-  -
-    text: Behance
-    url: 'https://www.behance.net/zoraida_sobrin'
+  - text: Behance
+    url: "https://www.behance.net/zoraida_sobrin"
     type: facebook
-name: 'Zoraida Sobrín'
+name: "Zoraida Sobrín"
 slug: zoraida-sobrin
 avatarBig: null
 avatar: /img/avatars/zoraidasobrin.jpg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Embalaxe
 draft: true
 bio.gl: |-
@@ -41,5 +37,5 @@ bio.es: |-
   Dentro del estudio apuesto por el diseño como forma de comunicación, de cambio y de conexión. Busco un diseño orgánico y diferente para personas. Hago diseño sencillo para proyectos que cuentan.
 
   Ofrezco servicios de diseño de identidad de marcas, diseño de envases o embalajes, creación de ilustraciones o cualquier documento de diseño que pueda complementar las necesidades de un proyecto o institución.
-job.gl: 'Artista gráfica'
-job.es: 'Artista gráfica'
+job.gl: "Artista gráfica"
+job.es: "Artista gráfica"

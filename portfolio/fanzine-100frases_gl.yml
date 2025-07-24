@@ -2,9 +2,8 @@ id: 164
 title: Fanzine_100frases
 slug: fanzine-100frases
 body:
-  -
-    image: /img/portfolio/images/573f397eefa13-presentacion-fanzine.jpg
-    text: ''
+  - image: /img/portfolio/images/573f397eefa13-presentacion-fanzine.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/573f3954e58de-portada-fanzine.jpg
 tags: []

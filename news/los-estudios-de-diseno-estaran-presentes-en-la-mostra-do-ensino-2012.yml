@@ -1,8 +1,7 @@
 id: 351
-title: 'Los estudios de Diseño estarán presentes en la Mostra do Ensino 2012'
+title: "Los estudios de Diseño estarán presentes en la Mostra do Ensino 2012"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Los estudios de Diseño estarán representados en la Mostra do Ensino 2012 que se celebrará en Expocoruña del 11 al 14 de abril a través de la EASD Pablo Picasso.
 
@@ -23,8 +22,7 @@ body:
       **Taller de maquetas** A cargo de los profesores Miguel Alonso Oural y Gonzalo Porral Mato Demostración de algunas de las fases en las que se desarrolla la producción de una maqueta El viernes 13 de abril, de 16 a 20.00 h
 
       Lugar: ExpoCoruña Avenida da Universidade, 15008 A Coruña
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa0c2719-mostra-do-ensino-2012.jpg
 intro: null
 slug: los-estudios-de-diseno-estaran-presentes-en-la-mostra-do-ensino-2012

@@ -1,14 +1,12 @@
 id: 1102
-title: 'A DAG dalle a benvida a Héctor Lorenzo'
+title: "A DAG dalle a benvida a Héctor Lorenzo"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/dsc0333-6.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Boas,
 
       Son [Héctor Lorenzo](https://www.hectorlorenzo.net/), licenciado en Comunicación Audiovisual pero apaixonado do Deseño Gráfico, o que me levou a emprender un camiño como Deseñador Gráfico _freelance_ onde cada día descubro e aprendo cousas novas.
@@ -17,10 +15,10 @@ body:
 
       Gozo da colaboración en todo tipo de proxectos e sempre estou aberto a emocionantes e novos desafíos para apoialos coa miña achega creativa e axudalos a comunicar o seu valor.
     type: text
-intro: 'A DAG segue medrando nun outono con moitas incorporacións, o que nos causa grande entusiasmo e nos da folgos para seguir traballando. [Héctor Lorenzo](https://dag.gal/gl/hector-lorenzo/) é un novo socio na categoría novel. Alédanos ver que a xente nova tamén se ve reflectida neste proxecto asociativo. Benvido Héctor!'
+intro: "A DAG segue medrando nun outono con moitas incorporacións, o que nos causa grande entusiasmo e nos da folgos para seguir traballando. [Héctor Lorenzo](https://dag.gal/gl/hector-lorenzo/) é un novo socio na categoría novel. Alédanos ver que a xente nova tamén se ve reflectida neste proxecto asociativo. Benvido Héctor!"
 slug: dag-dalle-benvida-hector-lorenzo
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2021-11-19T12:12:54+00:00

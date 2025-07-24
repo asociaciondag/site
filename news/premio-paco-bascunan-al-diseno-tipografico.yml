@@ -1,23 +1,20 @@
 id: 88
-title: 'Premio Paco Bascuñán al diseño tipográfico'
+title: "Premio Paco Bascuñán al diseño tipográfico"
 body:
-  -
-    text: |-
+  - text: |-
       El premio de tipografía Paco Bascuñán se plantea con dos objetivos principales: fomentar la tipografía y el diseño de tipos entre las nuevas generaciones y ser un homenaje a la figura de Paco Bascuñán, diseñador y tipógrafo, que siempre supo apoyar a los más jóvenes.
 
       El ganador se anunciará en el congreso y se le hará entrega oficial del premio y de un trofeo, diseñado especialmente por Dani Nebot. El premio, que será único, consiste en cubrir los gastos para la asistencia a un congreso de tipografía internacional.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a988f85b-ppb-copia.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a988f85b-eflyer-premiopaco.pdf
     text: Descargar
     type: file
-intro: 'El 4 CIT convoca por primera vez el premio destinado a jóvenes tipógrafos.'
+intro: "El 4 CIT convoca por primera vez el premio destinado a jóvenes tipógrafos."
 slug: premio-paco-bascunan-al-diseno-tipografico
 tags: []
 lang: es

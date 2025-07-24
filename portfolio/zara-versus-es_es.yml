@@ -1,13 +1,11 @@
 id: 379
-title: 'Zara: versus'
+title: "Zara: versus"
 slug: zara-versus-es
 body:
-  -
-    text: 'Diseño campaña del juego «Versus».'
+  - text: "Diseño campaña del juego «Versus»."
     type: text
-  -
-    image: /img/portfolio/images/publicacionversus.jpg
-    text: ''
+  - image: /img/portfolio/images/publicacionversus.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/portadaversus.jpg
 tags:
@@ -16,7 +14,6 @@ members_id:
   - 81
 lang: es
 info:
-  -
-    name: Cliente
+  - name: Cliente
     value: Inditex
 draft: false

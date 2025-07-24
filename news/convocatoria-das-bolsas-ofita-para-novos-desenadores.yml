@@ -1,23 +1,20 @@
 id: 91
-title: 'Convocatoria das bolsas Ofita para novos deseñadores'
+title: "Convocatoria das bolsas Ofita para novos deseñadores"
 body:
-  -
-    text: |-
+  - text: |-
       Ofita quere explotar conceptos de espazos de traballo da man de novos deseñadores que aporten frescura, ousadía e creatividade. Con este obxetivo, convoca as bolsas Ofita para novos deseñadores.
 
       Os interesados, poden enviar os seus curriculum e portfolio a: design@ofita.com antes do 15 de xullo.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a989cf1b-ofita.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a989cf1b-becas-ofita.png
     text: Descargar
     type: file
-intro: '6 deseñadores serán seleccionados e recibirán unha bolsa de 1200€'
+intro: "6 deseñadores serán seleccionados e recibirán unha bolsa de 1200€"
 slug: convocatoria-das-bolsas-ofita-para-novos-desenadores
 tags: []
 lang: gl

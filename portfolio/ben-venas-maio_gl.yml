@@ -1,14 +1,12 @@
 id: 274
-title: 'BEN VEÑAS MAIO'
+title: "BEN VEÑAS MAIO"
 slug: ben-venas-maio
 body:
-  -
-    image: /img/portfolio/images/ben-venas-maio-aplicacions.jpg
-    text: ''
+  - image: /img/portfolio/images/ben-venas-maio-aplicacions.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/cartel-ben-venas-maio.jpg
-    text: ''
+  - image: /img/portfolio/images/cartel-ben-venas-maio.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/ben-venas-maio-aplicacions.jpg
 tags:
@@ -17,10 +15,8 @@ members_id:
   - 23
 lang: gl
 info:
-  -
-    name: 'Cliente:'
-    value: 'Concello de Pontevedra'
-  -
-    name: 'Ano:'
-    value: '2019'
+  - name: "Cliente:"
+    value: "Concello de Pontevedra"
+  - name: "Ano:"
+    value: "2019"
 draft: false

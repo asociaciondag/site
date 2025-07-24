@@ -1,20 +1,18 @@
 id: 498
-title: 'A vixencia das formas. Unha ollada ao pasado, un pé no futuro'
+title: "A vixencia das formas. Unha ollada ao pasado, un pé no futuro"
 body:
-  -
-    text: |-
+  - text: |-
       No evento participarán Manuel del Río, deseñador fundador de [Cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/?lang=gl), Andrés Gallardo e María Casal do estudio [ANDRESGALLARDO](http://www.andresgallardo.es/), Luis Gil, arquitecto membro de [UNDO REDO](http://undoredo17.wordpress.com/), Fernando Agrasar, arquitecto director da ETS de arquitectura e da revista [Dardo](http://dardonews.com/dardonews/), Anxo López, deseñador, xestor de recursos en [Designit](http://designit.com/) e creador de [Miudo.es](http://miudo.es/).
 
       Lugar: [Galería Sargadelos da Coruña](http://www.sargadelos.com/galerias/galeria.php?id=4&lg=cas)
 
       Rúa Real 53, 15003 A Coruña
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa5eae07-mesa-redonda-sargadelos.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Este xoves 15 de maio celébrase ás 19.30 h na galería Sargadelos da Coruña a mesa redonda A vixencia das formas. Unha ollada ao pasado, un pé no futuro.'
+intro: "Este xoves 15 de maio celébrase ás 19.30 h na galería Sargadelos da Coruña a mesa redonda A vixencia das formas. Unha ollada ao pasado, un pé no futuro."
 slug: a-vixencia-das-formas-unha-ollada-ao-pasado-un-pe-no-futuro
 tags: []
 lang: gl

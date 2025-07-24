@@ -1,21 +1,19 @@
 id: 101
-contact: 'T. 623 438 989'
+contact: "T. 623 438 989"
 links:
-  -
-    text: Web
-    url: 'https://www.levedar.com/'
+  - text: Web
+    url: "https://www.levedar.com/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/levedar_estudio/'
+  - text: Instagram
+    url: "https://www.instagram.com/levedar_estudio/"
     type: facebook
-name: 'Paula Cristino'
+name: "Paula Cristino"
 slug: paula-cristino
 avatarBig: null
 avatar: /img/avatars/paula-cristino.jpeg
 tags:
   - Web
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
   - Editorial
   - Sinalética
@@ -34,5 +32,5 @@ bio.es: |-
   Me encontré con el diseño por casualidad al terminar el bachillerato de la modalidad de artes, y me alegro de que así hubiera pasado. Estudié diseño gráfico en la EASD Pablo Picasso y supe que aquello era lo que quería hacer. Decidí ampliar mi etapa de formación en diseño gráfico publicitario y creación visual en la escuela superior Marcelo Macías. Al finalizar trabajé como diseñadora gráfica en agencias de márketing en el área de Coruña, pero pronto comencé mi propio camino como diseñadora gráfica en Levedar.
 
   Levedar es un proyecto colaborativo donde profesionales jóvenes con el mismo concepto de calidad y eficacia cooperamos para alcanzar resultados diferenciadores. Nuestro método de trabajo se basa en la idea de que tanto el desarrollo como el resultado final deben ser colaborativos, emocionantes y visualmente impactantes. Si no nos involucráramos al 100%, no sería nuestro.
-job.gl: 'Deseñadora gráfica en Levedar'
-job.es: 'Diseñadora gráfica en Levedar'
+job.gl: "Deseñadora gráfica en Levedar"
+job.es: "Diseñadora gráfica en Levedar"

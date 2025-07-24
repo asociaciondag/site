@@ -1,10 +1,9 @@
 id: 411
-title: 'Superpapeleria Promo agendas'
+title: "Superpapeleria Promo agendas"
 slug: superpapeleria-promo-agendas
 body:
-  -
-    image: /img/portfolio/images/superpapeleria-promo-agendas.jpg
-    text: ''
+  - image: /img/portfolio/images/superpapeleria-promo-agendas.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/superpapeleria-promo-agendas.jpg
 tags:

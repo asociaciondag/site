@@ -1,14 +1,12 @@
 id: 823
-title: '6º Encontro Nacional de Deseño 6ENAD'
+title: "6º Encontro Nacional de Deseño 6ENAD"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/promo-6enad-completo.gif
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       No contexto socioeconómico actual, innovar é fundamental para o benestar das persoas e a prosperidade dos países, e así, correspóndelle ao sector do deseño demostrar o seu valor para contribuír a unha innovación sustentábel e equitativa. Pero este potencial do deseño como ferramenta estratéxica capaz de conectar investigación, industria e sociedade non pode ser desenvolvido de maneira totalmente eficaz se non conta cun apoio institucional, público, que fomente o seu coñecemento e impulse o seu desenvolvemento.
 
       Coa intención de elaborar un documento que axude a pór en funcionamento un **Plan de Acción para una Estratexia Pública de Deseño** como un dos seus obxectivos principais, terá lugar o 6º Encontro Nacional de Deseño, 6ENAD, en Valencia, os días 20 e 21 de setembro.
@@ -39,12 +37,11 @@ body:
 
       O 6ENAD é unnha actividade subvencionada polo **Ministerio de Cultura e Deporte**. Está patrocinada polo **Banco Sabadell** e a **Feira Hábitat**. Conta co apoio da **Generalitat Valenciana**, **Ajuntament de València**, **Feira Valencia**, **Las Naves** e **Acción Cultural Española** (AC/E) a través do seu Programa para a Internacionalización da Cultura Española (PICE) na modalidade de Visitantes. Ten a colaboración de **Econcult, La Imprenta, Seridom** e **Cerveza Turia**. Alén disto, está apoiada por medios colaboradores como **More With Less**, **DissenyCV**, **d\[x\]i**, **Gráffica**, **Valencia Plaza** e **Experimenta**. A imaxe gráfica do encontro é unha creación do estudio de deseño **Creatias.** Á súa difusión contribúe o **GT Comunicación READ**.
     type: text
-  -
-    list: ''
-    url: 'http://www.designread.es/6enad/'
+  - list: ""
+    url: "http://www.designread.es/6enad/"
     text: 6ENAD
     type: button
-intro: 'O sector do deseño nacional reunirase en Valencia os días 20 e 21 de setembro de 2018. En representación da DAG acudirán os seus socios Uqui Permui e Lois Guillán.'
+intro: "O sector do deseño nacional reunirase en Valencia os días 20 e 21 de setembro de 2018. En representación da DAG acudirán os seus socios Uqui Permui e Lois Guillán."
 slug: 6o-encontro-nacional-de-deseno-6enad
 tags: []
 lang: gl

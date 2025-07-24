@@ -2,17 +2,14 @@ id: 118
 title: Oculto
 slug: oculto
 body:
-  -
-    image: /img/portfolio/images/56bb71a6438d2-oculto-2.jpg
-    text: ''
+  - image: /img/portfolio/images/56bb71a6438d2-oculto-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56bb71b6b61c8-oculto-3.jpg
-    text: ''
+  - image: /img/portfolio/images/56bb71b6b61c8-oculto-3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56bb71c578b32-oculto-4.jpg
-    text: ''
+  - image: /img/portfolio/images/56bb71c578b32-oculto-4.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/56bb71a642526-oculto-1.jpg
 tags: []
@@ -22,7 +19,6 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Ano
-    value: '2015'
+  - name: Ano
+    value: "2015"
 draft: false

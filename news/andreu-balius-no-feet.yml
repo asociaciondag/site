@@ -1,8 +1,7 @@
 id: 147
-title: 'Andreu Balius no feet'
+title: "Andreu Balius no feet"
 body:
-  -
-    text: |-
+  - text: |-
       Desde 2002 dirixe o seu propio estudio, [Typerepublic](http://www.typerepublic.com/), especializado no deseño de tipografía e con sede en Barcelona.
 
       Conta cunha ampla experiencia docente: é profesor asociado da Facultade de Ciencias Sociais e da Comunicación da Universidade Pompeu Fabra e leva percorrido xa medio mundo (México, Francia, A Arxentina, Italia...) dando conferencias e realizando cursos e talleres.
@@ -13,16 +12,15 @@ body:
 
       Foto: [Felipe Pimentel](http://www.flickr.com/photos/tripulante/1538490234/)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9a077c8-andreu-balius-5.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'É un dos deseñadores de tipos máis recoñecidos do panorama nacional.'
+intro: "É un dos deseñadores de tipos máis recoñecidos do panorama nacional."
 slug: andreu-balius-no-feet
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2010-10-29T08:42:41+00:00

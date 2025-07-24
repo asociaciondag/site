@@ -1,8 +1,8 @@
-export const layout = "layouts/member_list.njk";
+export const layout = "layouts/member_list.vto";
 export const main_menu = "news";
 
-export default function* ({ search }: Lume.PageData): Generator<Lume.PageData> {
-  for (const tag of search.tags("type=member lang=gl")) {
+export default function* ({ search }: Lume.Data) {
+  for (const tag of search.values<string>("tag", "type=member lang=gl")) {
     yield {
       url: `/gl/socios/${tag.replace("/", "-")}/`,
       title: `Socios de ${tag}`,
@@ -12,7 +12,7 @@ export default function* ({ search }: Lume.PageData): Generator<Lume.PageData> {
     };
   }
 
-  for (const tag of search.tags("type=member lang=es")) {
+  for (const tag of search.values<string>("tag", "type=member lang=es")) {
     yield {
       url: `/es/socios/${tag.replace("/", "-")}/`,
       title: `Socios de ${tag}`,

@@ -1,8 +1,7 @@
 id: 619
-title: 'Entrevista a Marta Verde'
+title: "Entrevista a Marta Verde"
 body:
-  -
-    text: |-
+  - text: |-
       Desarrolla su actividad profesional como programadora de interactivos y técnicas para directo en diversos proyectos escénicos/musicales, en Galicia ([Projecto Trepia](about:blank), [Licenciada Sotelo](http://www.licenciadasotelo.com/)), Cataluña ([Mucab Dans](http://www.bacum.info/)), Madrid ([Daniel Van Lion](https://soundcloud.com/daniel-van-lion), [Julián Elvira](http://pronomosflute.com/)) o Portugal ([A Charanga](http://www.charangacharanga.net/)), creando contenido interactivo y audiovisual.
 
       Formó parte de [do/the/right/click™](http://dotherightclick.com/work/alex-warp-interactive-visuals/) (con el que obtuvo un [Laus Bronce](http://laus.cat/es/proyecto?aw=4) y una mención en los [Webby Awards](http://www.webbyawards.com/winners/2015/websites/website-features-and-design/technical-achievement/kallpa/)), colabora con [Tecné Collective](http://tecnecollective.com/) y Lighting Design Collective como programadora junior, desarrollando soluciones interactivas basadas en la luz para arquitectura o instalaciones artísticas, además de colaborar con agencias, otros artistas, estudios, diseñadores, festivales y ferias (Visual Art Week Mexico 2015, Mini Madrid Maker Faire...), siempre buscando la convergencia entre tecnología y creatividad.
@@ -14,16 +13,14 @@ body:
       - [martaverde.net](http://www.martaverde.net/)
       - [@GreenMartinha](https://twitter.com/GreenMartinha)
       - [linkedin](https://www.linkedin.com/pub/marta-verde/12/a85/55a)
-       
+
     type: text
-  -
-    list: after
+  - list: after
     image: /img/news/images/56320321d596f-5-marta.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## ¿Quién eres y a qué te dedicas?
 
       > —Soy Marta Verde, programadora creativa, artista digital y docente.
@@ -36,15 +33,14 @@ body:
 
       > —No tengo un proyecto ideal, cada proyecto nuevo en el que me embarco es completamente distinto del anterior; me proporciona algo nuevo y me obliga a investigar nuevos campos, por lo que el siguiente en la lista siempre es el deseado.
     type: text
-  -
-    list: after
-    url: 'http://dag.gal/gl/feed2015'
-    text: 'Ir á páxina do FEED 2015'
+  - list: after
+    url: "http://dag.gal/gl/feed2015"
+    text: "Ir á páxina do FEED 2015"
     type: button
-intro: 'Licenciada en Bellas Artes por la Universidad de Vigo, Máster en Diseño de la Interacción y Posgrado en Tecnologías Digitales para la Escena por la Universidad Pompeu Fabra.'
+intro: "Licenciada en Bellas Artes por la Universidad de Vigo, Máster en Diseño de la Interacción y Posgrado en Tecnologías Digitales para la Escena por la Universidad Pompeu Fabra."
 slug: entrevista-a-marta-verde
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2015-11-17T10:45:03+00:00

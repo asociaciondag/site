@@ -1,21 +1,19 @@
 id: 968
-title: 'READ celebra a súa Asamblea Xeral Anual en Ávila'
+title: "READ celebra a súa Asamblea Xeral Anual en Ávila"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/asamblearead2020.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Como vén sendo habitual o programa da Asamblea inclúe unha serie de actividades que complementan as reunións e as mesas de traballo. O obxectivo é servir de punto de encontro para compartir problemáticas, identificar oportunidades, e definir as accións prioritarias para este ano.
 
       O encontro terá lugar o vindeiro venres 28 pola tarde e rematará o domingo ao mediodía. Esta asamblea será un bo momento para avanzar nos proxectos en marcha e establecer dinámicas de traballo que permitan abordar outros asuntos pendentes. As e os representantes das asociacións que traballan e coordinan a actividade de READ desempeñan as súas funcións durante todo o ano a través de vídeo-reunións e traballo colaborativo. Nesta ocasión poderán traballar de maneira presencial para concentrar esforzos e axilizar procesos.
 
       O lugar escollido pola organización para a Asamblea é un hotel rural situado á beira do embalse de El Burguillo, en fronte da Reserva Natural do Val de Iruelas. Un lugar tranquilo ubicado a medio camiño para a maioría de asociacións, que buscar servir de espazo para a reflexión, a confrontación de ideas e a toma de decisións.
     type: text
-intro: 'O grupo de delegados e delegadas das asociacións pertencentes á Rede Española de Asociacións de Deseño asistirán a próxima fin de semana á súa Asamblea Xeral, que este ano terá lugar na provincia de Ávila.'
+intro: "O grupo de delegados e delegadas das asociacións pertencentes á Rede Española de Asociacións de Deseño asistirán a próxima fin de semana á súa Asamblea Xeral, que este ano terá lugar na provincia de Ávila."
 slug: asamblea-xeral-read
 tags: []
 lang: gl

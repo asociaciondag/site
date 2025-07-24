@@ -1,14 +1,12 @@
 id: 634
-title: 'Arte, artesanía, diseño y sostenibilidad en Galicia en el siglo XXI'
+title: "Arte, artesanía, diseño y sostenibilidad en Galicia en el siglo XXI"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/569fc7d45b2fd-ctb-arteartesaniadesen-osustent63.jpg
-    text: 'Imagen de Stéphane Lutier'
+    text: "Imagen de Stéphane Lutier"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Con el hilo conductor de las prácticas sostenibles, la muestra ofrece una visión de parte de la realidad en el diseño gallego prestando especial atención al diseño industrial, el diseño editorial, el diseño de moda, la tipografía o el diseño de producto.
 
       Dentro de esta selección de diseñadores gallegos, no podía ser de otro modo, están socios de la DAG como [Uqui Permui](http://uqui.net/es) o los [desescribir](http://www.desescribir.com/), en la parte dedicada al diseño editorial, o los [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/?lang=es), en la de diseño industrial. También la Isaac Sans, la tipografía empleada en la gráfica de la muestra es una creación de otro socio: [Marcos Dopico](http://www.maistypes.com/), quien se inspiró en la tradición de la letra gallega para este trabajo.
@@ -25,15 +23,14 @@ body:
 
       **T. 981944187**
     type: text
-  -
-    list: ''
-    url: 'http://centrotorrenteballester.com/newsletter/Arte,artesania,desenho-e-sustentabilidade.html'
-    text: 'Centro Torrente Ballester'
+  - list: ""
+    url: "http://centrotorrenteballester.com/newsletter/Arte,artesania,desenho-e-sustentabilidade.html"
+    text: "Centro Torrente Ballester"
     type: button
-intro: 'Este viernes 22 de enero a las 20.00 h se inaugura en el Centro Torrente Ballester de Ferrol la exposición Arte, artesanía, diseño y sostenibilidad en Galicia en el siglo XXI, comisariada por Mónica Maneiro.'
+intro: "Este viernes 22 de enero a las 20.00 h se inaugura en el Centro Torrente Ballester de Ferrol la exposición Arte, artesanía, diseño y sostenibilidad en Galicia en el siglo XXI, comisariada por Mónica Maneiro."
 slug: arte-artesania-diseno-y-sostenibilidad-en-galicia-en-el-siglo-xxi
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2016-01-20T18:45:56+00:00

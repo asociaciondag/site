@@ -1,8 +1,7 @@
 id: 294
-title: 'Revival tipográfico. A herdanza suíza no século XXI'
+title: "Revival tipográfico. A herdanza suíza no século XXI"
 body:
-  -
-    text: |-
+  - text: |-
       Ficha da 2º charla:
 
       Título: Revival tipográfico. A herdanza suíza no século XXI
@@ -19,13 +18,11 @@ body:
 
       Descarga o programa das #charlasnaDAG:
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9f190c9-charlasdag.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9f190c9-charlasnadag.pdf
     text: Descargar
     type: file

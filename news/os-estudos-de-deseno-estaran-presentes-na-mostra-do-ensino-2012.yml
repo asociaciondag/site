@@ -1,8 +1,7 @@
 id: 352
-title: 'Os estudos de Deseño estarán presentes na Mostra do Ensino 2012'
+title: "Os estudos de Deseño estarán presentes na Mostra do Ensino 2012"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Os estudos de Deseño estarán representados na Mostra do Ensino 2012 que se celebrará en Expocoruña do 11 ao 14 de abril a través da [EASD Pablo Picasso](http://www.eapicasso.com/). Nesta mostra coa que se pretende dar a coñecer entre a cidadanía todas as posibilidades formativas que ofrece o sistema educativo galego, a EASD da Coruña participará cos traballos realizados polo alumnado do centro e tamén con obradoiros demostrativos co fin de mostrar as diferentes técnicas e xeitos de traballar na Escola. Os profesores das materias serán os encargados de desenvolver cada un dos obradoiros no seguinte horario:
 
@@ -21,8 +20,7 @@ body:
       Lugar: [ExpoCoruña](http://www.expocoruna.com/)
 
       Avenida da Universidade, 15008 A Coruña
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa0c4dfc-mostra-do-ensino-2012.jpg
 intro: null
 slug: os-estudos-de-deseno-estaran-presentes-na-mostra-do-ensino-2012

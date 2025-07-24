@@ -1,8 +1,7 @@
 id: 540
-title: 'Unha nova edición do Mercado de Deseño'
+title: "Unha nova edición do Mercado de Deseño"
 body:
-  -
-    text: |-
+  - text: |-
       Na edición deste ano, a iniciativa que nacera para lles ofrecer aos deseñadores, produtores ou editores un lugar para a visibilización e venda dos seus produtos ao público xeral e profesinal amplía o seu espazo e contará con dúas áreas: Unha interior para a exposición de produtos de calidade das seguintes categorías: mobiliario, decoración, iluminación, cociña, homeoffice, hometéxtiles, ilustración e gadget. E outra exterior dedicada ao garage design na que poderán participar marcas que integren nos seus procesos creativos novas tecnoloxías aplicadas á innovación de produto e que respondan ao perfil maker.
 
       Inscricións abertas **Desconto do 10% para socios da DAG**
@@ -13,14 +12,13 @@ body:
       - <https://www.facebook.com/MercadoCentralDiseno>
       - <https://www.youtube.com/user/mercadocentraldiseno>
       - <http://www.mercadocentraldediseno.es/>
-       
+
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa83c730-mercado-diseno-2015.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'O [Mercado de Deseño](http://www.mercadocentraldediseno.es/) volve abrir as súas portas o vindeiro 7 de febreiro en Matadero, Madrid.'
+intro: "O [Mercado de Deseño](http://www.mercadocentraldediseno.es/) volve abrir as súas portas o vindeiro 7 de febreiro en Matadero, Madrid."
 slug: unha-nova-edicion-do-mercado-de-deseno
 tags: []
 lang: gl

@@ -1,14 +1,12 @@
 id: 1070
-title: 'Cumprimos 15 anos coa ilusión de seguir medrando'
+title: "Cumprimos 15 anos coa ilusión de seguir medrando"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-15anosdag.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A filosofía de traballo da DAG hoxe é a mesma que se xestou hai 15 anos, a colaboración e a participación das persoas asociadas é fundamental para que o proxecto perviva e medre. Facerse visible e que se entenda o deseño como unha peza indiscutible na mellora da competitividade das empresas, así como no achegamento das institucións e organismos públicos aos cidadáns e cidadás, é clave para adquirir confianza e buscar espazos de encontro, onde DAG, como representante do sector, teña voz. E, en todo este proceso, que a administración pública camine preto de nós amplía as opcións e avala os resultados.
 
       DAG sempre foi unha asociación activa, con necesidade de interactuar coas persoas, por iso organizamos encontros, actividades e eventos que poidan ser de interese para todas. Desde aquela primeira acción «Da idea á rúa» en 2007 ata hoxe, coa organización do FEED 2021, moitos foron os proxectos e actividades que se desenvolveron. Falamos, por exemplo, da exposición «Entorno da Baskerville», o «FEET», «Acción DAG», «A volta das letras», o «MicAtlántica», o «I Encontro de deseñadoras e deseñadores galegos», o «Express», o «Estudo da economía do deseño en Galicia»… E nesta liña seguimos traballando. A nova edición do FEED, un referente para estudantes de deseño, profesionais e empresas ligadas ao sector, xa ten data e lugar este ano: o 14 de outubro en Santiago de Compostela.
@@ -19,10 +17,10 @@ body:
 
       Co paso do tempo, vemos que o traballo de anos obtén resultados e o apoio dos e das profesionais do sector, tanto empresas de deseño, como deseñadores e deseñadoras independentes ou profesionais que traballan por conta allea, é fundamental para seguir actuando en favor do colectivo. Á par, entidades privadas e públicas, organismos autonómicos e administracións locais, acompañáronnos ao longo destes 15 anos e esperamos que siga sendo así, polo menos, outros tantos.
     type: text
-intro: 'Falamos de medrar en todos os sentidos, no número de socios e socias, na relación co resto de axentes e empresas do sector, na repercusión das actividades que desenvolvemos, no compromiso de defender a profesión, na creación de redes… Moitos son os retos que temos por diante e pasiño a pasiño imos construíndo un camiño asentado, con trazo recto e as menores curvas posibles.'
+intro: "Falamos de medrar en todos os sentidos, no número de socios e socias, na relación co resto de axentes e empresas do sector, na repercusión das actividades que desenvolvemos, no compromiso de defender a profesión, na creación de redes… Moitos son os retos que temos por diante e pasiño a pasiño imos construíndo un camiño asentado, con trazo recto e as menores curvas posibles."
 slug: cumprimos-15-anos-coa-ilusion-de-seguir-medrando
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2021-06-30T00:00:00+00:00

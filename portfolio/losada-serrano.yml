@@ -1,10 +1,9 @@
 id: 341
-title: 'Losada Serrano'
+title: "Losada Serrano"
 slug: losada-serrano
 body:
-  -
-    image: /img/portfolio/images/losada-serrano.jpg
-    text: ''
+  - image: /img/portfolio/images/losada-serrano.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/losada-serrano.jpg
 tags:

@@ -1,31 +1,27 @@
 id: 809
-title: 'Bienal Iberoamericana de Diseño 2018 '
+title: "Bienal Iberoamericana de Diseño 2018 "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/gifsociedadcreativaangosta.gif
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Esta sexta edición de la Bienal transcurrirá entre el 26 y el 30 de noviembre de 2018 en Matadero Madrid. En la muestra se podrán ver aquellos proyectos seleccionados por el Comité Organizador, el Comité Asesor y los Equipos BID, y posteriormente ratificados por un Jurado Internacional, de entre todos los inscritos en las siete categorías existentes: Diseño de espacios e interiorismo, Diseño industrial/producto, Diseño gráfico y comunicación visual, Diseño de moda, textil y complementos, Diseño Digital, Diseño de Servicios y Diseños Integrales/Transversales.
 
       El plazo de inscripción está abierto y permanecerá abierto hasta el 15 de junio de 2018.
 
       Aunque que el precio de la inscripción general son 60 euros, existen descuentos del 15% para socios de la DAG.
     type: text
-  -
-    list: ''
-    url: 'http://www.bid-dimad.org/convocatoria-bid18/'
-    text: 'Web de la BID 18'
+  - list: ""
+    url: "http://www.bid-dimad.org/convocatoria-bid18/"
+    text: "Web de la BID 18"
     type: button
-  -
-    list: ''
-    url: 'http://www.bid-dimad.org/wp-content/uploads/2018/05/Bases-de-la-convocatoria-BID18.pdf'
-    text: 'Bases de la convocatoria BID 18'
+  - list: ""
+    url: "http://www.bid-dimad.org/wp-content/uploads/2018/05/Bases-de-la-convocatoria-BID18.pdf"
+    text: "Bases de la convocatoria BID 18"
     type: button
-intro: 'La Bienal de Diseño Iberoamericana (BID 18) es una exposición que organiza la [Fundación Diseño Madrid](https://dimad.org/) cada dos años y que reúne los mejores proyectos de todas las áreas del diseño de América Latina, España y Portugal.'
+intro: "La Bienal de Diseño Iberoamericana (BID 18) es una exposición que organiza la [Fundación Diseño Madrid](https://dimad.org/) cada dos años y que reúne los mejores proyectos de todas las áreas del diseño de América Latina, España y Portugal."
 slug: bienal-iberoamericana-de-diseno-2018
 tags: []
 lang: es

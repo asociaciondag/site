@@ -1,36 +1,32 @@
 id: 900
-title: 'El libro de Vari Caramés Lugares, entre los finalistas de PhotoESPAÑA '
+title: "El libro de Vari Caramés Lugares, entre los finalistas de PhotoESPAÑA "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/03-laus.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Entres todos los libros seleccionados en la edición de este año, tenemos que destacar la presencia en la categoría de Mejor Libro de Fotografía Nacional [_Lugares_](http://fabulatorio.org/publicacion/lugares/), de Vari Camarés, editado por [Fabulatorio](http://fabulatorio.org/), el proyecto editorial de nuestros socios [Cibrán Rico](https://dag.gal/es/cibran-rico-lopez/) y [Suso Vázquez](https://dag.gal/es/suso-vazquez-gomez/).
 
       Este es el tercer año en que uno de sus libros obtiene algún reconocimento en los PHE, pues [_Ostalgia_](http://fabulatorio.org/publicacion/ostalgia-2a-ed/), de Simona Rota, se llevara el premio al mejor libro de fotografía en 2014 y [_Boas noites_](http://fabulatorio.org/publicacion/boas-noites-2/), de Jesús Madriñán, fue finalista en esa misma categoría en 2016.
 
       Se trata, además, del segundo reconocimiento alcanzado por la obra, que ya había resultado seleccionada en abril por los premios LAUS, junto con otro trabajo de Suso y Cibrán: los carteles para la Semana del Libro de Compostela (SELIC).
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/01-laus.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/01-b.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'Hace unos días se hacía pública la lista de seleccionados y ganadores en el Premio PhotoESPAÑA, el galardón que distingue a los libros de fotografía más destacados del año en tres categorías: nacional, internacional y libro autoeditado.'
+intro: "Hace unos días se hacía pública la lista de seleccionados y ganadores en el Premio PhotoESPAÑA, el galardón que distingue a los libros de fotografía más destacados del año en tres categorías: nacional, internacional y libro autoeditado."
 slug: o-libro-de-vari-carames-lugares-entre-los-finalistas-de-photoespana
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-06-17T18:00:42+00:00

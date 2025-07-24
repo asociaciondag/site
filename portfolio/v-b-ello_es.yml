@@ -2,28 +2,22 @@ id: 189
 title: V(b)ello
 slug: v-b-ello
 body:
-  -
-    text: 'Pieza en cerámica para Lelédacuca'
+  - text: "Pieza en cerámica para Lelédacuca"
     type: text
-  -
-    image: /img/portfolio/images/58791da60ad0b-bealema-01-1.jpg
-    text: ''
+  - image: /img/portfolio/images/58791da60ad0b-bealema-01-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/58791db87b719-bealema-01-2.jpg
-    text: ''
+  - image: /img/portfolio/images/58791db87b719-bealema-01-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/58791dc8b5a22-bealema-01-3.jpg
-    text: ''
+  - image: /img/portfolio/images/58791dc8b5a22-bealema-01-3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/58791dd89a95c-bealema-01-4.jpg
-    text: ''
+  - image: /img/portfolio/images/58791dd89a95c-bealema-01-4.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/58791e01c85b4-bealema-01-5.jpg
-    text: ''
+  - image: /img/portfolio/images/58791e01c85b4-bealema-01-5.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/58791d57df6c3-bealema-01-1.jpg
 tags: []

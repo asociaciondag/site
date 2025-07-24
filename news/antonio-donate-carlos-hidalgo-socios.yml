@@ -1,34 +1,30 @@
 id: 973
-title: 'Antonio Doñate y Carlos Hidalgo, nuevos socios de la DAG'
+title: "Antonio Doñate y Carlos Hidalgo, nuevos socios de la DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola, somos Toni y Carlos y somos parte de la cooperativa [Numax](https://numax.org) desde su apertura hace cinco anos. Numax es más conocida por su cara pública, la de su cine y su librería; pero por detrás, y también desde su inicio, alberga un espacio creativo al que denominamos Laboratorio. Y allí trabajamos nosotros, junto a otras cuatro compañeras.
 
       En el [Laboratorio Numax](https://laboratorio.numax.org), además de coordinar y elaborar la identidad de la cooperativa, desarrollamos proyectos externos de diseño, comunicación y producción y posproducción de vídeo. Allí, nos ocupamos del área gráfica y de diseño web. Todavía no nos hemos cansado del oficio, de intentar poner atención al detalle en cada fase para que el resultado de nuestros trabajos sea útil y diferente al mismo tiempo.
 
       Un abrazo y muchas gracias por acogermos.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/antonio-donate/'
-    text: 'Perfil de Antonio Doñate'
+  - list: ""
+    url: "https://dag.gal/gl/antonio-donate/"
+    text: "Perfil de Antonio Doñate"
     type: button
-  -
-    list: ''
-    url: 'https://dag.gal/gl/carlos-hidalgo/'
-    text: 'Perfil de Carlos Hidalgo'
+  - list: ""
+    url: "https://dag.gal/gl/carlos-hidalgo/"
+    text: "Perfil de Carlos Hidalgo"
     type: button
-intro: 'En esta ocasión damos la bienvenida a dos nuevos socios. Toni y Carlos son los nombres detrás del alma gráfica de Numax, un proyecto ampliamente conocido por su espíritu pionero e innovador. Esta cooperativa, contenedor de varias disciplinas del sector cultural, es un auténtico hervidero de ideas y proyectos a los que dan forma desde su laboratorio creativo.'
+intro: "En esta ocasión damos la bienvenida a dos nuevos socios. Toni y Carlos son los nombres detrás del alma gráfica de Numax, un proyecto ampliamente conocido por su espíritu pionero e innovador. Esta cooperativa, contenedor de varias disciplinas del sector cultural, es un auténtico hervidero de ideas y proyectos a los que dan forma desde su laboratorio creativo."
 slug: antonio-donate-carlos-hidalgo-socios
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2020-03-12T10:43:50+00:00

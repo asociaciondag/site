@@ -1,14 +1,12 @@
 id: 1368
-title: '55ª Edición dos Premios Laus'
+title: "55ª Edición dos Premios Laus"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/adglaus-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Un ano máis a asociación de deseño ADG FAD convoca os Premios Laus de deseño onde teñen cabida proxectos impresos, publicados, emitidos, visionados _online_ ou editados entre o ano 2024 e a data de peche das inscricións. O único método de inscrición é a través da plataforma _online_ que está habilitada para elo. Unha vez inscritos, os materiais físicos e dixitais, terán que recibirse antes do 26 de
 
       O xurado multidisciplinar desta edición está composto por profesionais nacionais e internacionais de prestixio. Un total de 40 persoas para as 10 categorías dos premios,​​ entre os cales atopamos a Luna Maurer, Pedro Arilla, Vicente Reyes, Quim Marín,​ Cris Mascort ou Josep María Mir. Os aspectos que se valoran son: a calidade conceptual da idea, a súa​ execución formal, a utlidade do proxecto presentado, a innovación, a consistencia e a coherencia do proxecto no seu conxunto, e a sustentabilidade e reducción do impacto medioambiental. ​ ​​
@@ -17,17 +15,15 @@ body:
 
       A entrega dos premios farase no mes de xuño, en Barcelona, na Nit ADG Laus.
     type: text
-  -
-    list: ''
-    url: 'https://adg-fad.org/laus/bases/'
-    text: 'Bases dos premios'
+  - list: ""
+    url: "https://adg-fad.org/laus/bases/"
+    text: "Bases dos premios"
     type: button
-  -
-    list: ''
-    url: 'https://adg-fad.org/laus/premios/'
+  - list: ""
+    url: "https://adg-fad.org/laus/premios/"
     text: Inscricións
     type: button
-intro: 'Nesta nova edición dos Premios Laus organizados por ADG FAD, os e as profesionais do deseño teñen ata o 12 de febreiro para inscribir aqueles traballos realizados en 2024 que busquen seren premiados. As asociadas de DAG teñen ademais un 15% de desconto.'
+intro: "Nesta nova edición dos Premios Laus organizados por ADG FAD, os e as profesionais do deseño teñen ata o 12 de febreiro para inscribir aqueles traballos realizados en 2024 que busquen seren premiados. As asociadas de DAG teñen ademais un 15% de desconto."
 slug: 55a-edicion-dos-premios-laus
 tags: []
 lang: gl

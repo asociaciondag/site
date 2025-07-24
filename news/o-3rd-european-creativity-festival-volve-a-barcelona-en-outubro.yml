@@ -1,8 +1,7 @@
 id: 692
-title: 'O 3rd European Creativity Festival volve a Barcelona en outubro'
+title: "O 3rd European Creativity Festival volve a Barcelona en outubro"
 body:
-  -
-    text: |-
+  - text: |-
       Nesta terceira edición, o Clube de Directores de Arte de Europa vai desenvolver un novo concepto: o _hybridscape,_ consistente en xuntar nunha conferencia a parellas de profesionais de diversos campos como a cociña, a danza ou o _chess boxing,_ con Jamshid Alamuti como moderador. Alén disto, haberá charlas, premios, workshops e mesmo un _hackathon._
 
       Como prato forte do festival 2016 terán lugar unha serie de “Connections” en parella nas que compartirán escenario emprendedores con perfís innovadores e transgresores para debater as mudanzas que están modelando a sociedade de hoxe en día.
@@ -10,43 +9,41 @@ body:
       ### Connection 1: O novo rol do deseñador
 
       - Luis Villa – _Director de estratexia en Fjord Spain_
-       
+
       - Virginie Gailing – _Directora Creativa e co-fundadora de The Cookery_
-       
+
       ### Connection 2: Novos &amp; creativos da linguaxe e metáfora da comunicación
 
       - Helen Zaltzman – _Locutora de radio &amp; Podcaster_
       - Lawrence Zeegan – _Ilustrador &amp; Decano na School of Design, Ravensbourne_
-       
+
       ### Connection 3: Reinventando a creatividade &amp; iniciativas emprendedoras
 
       - Iepe Rubingh – _Artista, innovador &amp; fundador de Chess Boxing Global_
       - Joel Serra-Bevin – _Chef &amp; Emprendedor_
-       
+
       ### Connection 4: Transformación das convencións tradicionais &amp; procesos creativos
 
       - Kathryn Ferguson – d_irectora de cine_
       - Jeffrey Ludlow – d_irector creativo en 2×4 Madrid_
-       
+
       ### Connection 5: Creatividade colaborativa &amp; creación holística
 
       - Cesc Gelabert – _Coreógrafo &amp; Bailarín_
       - Borja Ramos – _Compositor Musical_
-       
+
       ### Connection 6: O futuro do deseño e a tecnoloxía para unha sociedade mellor
 
       - Aral Balkan – _Activista, deseñador e desenvolvedor de software_
       - Marco Trombetti - _Promotor de start-ups_
-       
+
     type: text
-  -
-    list: after
+  - list: after
     image: /img/news/images/57e54f04daf92-adce-gif.gif
-    text: ''
+    text: ""
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       ## Workshops and Hacks
 
       O segundo día do European Creativity Festival estará dedicado á aprendizaxe práctica con algúns dos máis talentosos profesionais europeos dirixindo as actividades. Os asistentes serán motivados a saíren da súa zona de confort elixindo un dos _workshops_ creativos.
@@ -79,21 +76,19 @@ body:
       - Membros de ADCE (1): 36€
       - Entrada estudantes (2): 20€
       - **Entrada socios DAG: 54 € (10% de desconto)**
-       
+
       Todas as actividades serán en inglés. Haberá traducións simultáneas ao castelán durante as “Connections”
     type: text
-  -
-    list: ''
-    url: 'http://www.europeancreativityfestival.com/'
-    text: 'Web do European Creativity Festival'
+  - list: ""
+    url: "http://www.europeancreativityfestival.com/"
+    text: "Web do European Creativity Festival"
     type: button
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/57e5536647e51-marley-allen.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'Art Directors Club of Europe, a asociación europea sen ánimo de lucro que ten como obxectivo promocionar a excelencia no deseño gráfico e a comunicación visual organiza o 3rd European Creativity Festival do 13 ao 15 de outubro en Barcelona.'
+intro: "Art Directors Club of Europe, a asociación europea sen ánimo de lucro que ten como obxectivo promocionar a excelencia no deseño gráfico e a comunicación visual organiza o 3rd European Creativity Festival do 13 ao 15 de outubro en Barcelona."
 slug: o-3rd-european-creativity-festival-volve-a-barcelona-en-outubro
 tags: []
 lang: gl

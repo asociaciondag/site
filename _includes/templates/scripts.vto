@@ -1,0 +1,11 @@
+<!-- Cookies -->
+<div class="cookies-advise is-hidden">
+  {{ t.cookies.text |> md }}
+  <p><button id="cookies_accept">{{ t.cookies.accept }}</button></p>
+</div>
+
+<script src="/js/main.js"></script>
+
+{{ for src of js }}
+  <script src="{{ src }}"></script>
+{{ /for }}

@@ -1,14 +1,12 @@
 id: 1138
-title: 'Nova socia, chega á DAG desde Lugo Marta Castro'
+title: "Nova socia, chega á DAG desde Lugo Marta Castro"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/marta-castro-horizontal.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Boas,
 
       O meu nome é Marta Castro, e traballo como deseñadora gráfica no meu propio estudio, chamado Hei Castro.
@@ -19,10 +17,10 @@ body:
 
       Un saúdo e moitas grazas!
     type: text
-intro: 'Chega a primavera e comezamos a semana dándolle a benvida a [Marta Castro](https://dag.gal/gl/marta-castro/) que desde o seu estudio [Hei Castro](https://www.heicastro.com/) en Lugo, axuda a seguir sumando asociadas á Asociación Galega de Deseño. Alédanos moito contar con ela. Benvida!'
+intro: "Chega a primavera e comezamos a semana dándolle a benvida a [Marta Castro](https://dag.gal/gl/marta-castro/) que desde o seu estudio [Hei Castro](https://www.heicastro.com/) en Lugo, axuda a seguir sumando asociadas á Asociación Galega de Deseño. Alédanos moito contar con ela. Benvida!"
 slug: nova-socia-chega-a-dag-desde-lugo-marta-castro
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2022-04-04T11:59:54+00:00

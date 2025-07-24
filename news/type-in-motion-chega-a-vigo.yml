@@ -1,8 +1,7 @@
 id: 320
-title: 'Type in motion chega a Vigo'
+title: "Type in motion chega a Vigo"
 body:
-  -
-    text: |-
+  - text: |-
       A mostra que está comisariada polo historiador da arte, arquitectura e cine, [Andrés Janser](http://word-image.ch/?/speakers/janser/), reúne 120 obras de máis de 80 deseñadores distintos organizadas en seis áreas temáticas: videoclips, curtametraxes, anuncios, gráficos animados, espazo público e largometraxes. De xeito paralelo á exposición, está prevista a realización de varios obradoiros destinados a escolares que queiran experimentar e xogar coa tipografía e outro, para profesionais do deseño, que baixo o título de Tipografía e interacción se desenvolverá no primeiro trimestre de 2012.
 
       Todas as persoas interesadas en participar nestas actividades ou que queiran concertar visitas guiadas poden obter máis información no teléfono: 986 110 220.
@@ -15,12 +14,11 @@ body:
 
       Máis información en: <http://www.fundacionbarrie.org/gl>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9fd0031-type-in-motion.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Desde onte e ata o 1 de abril de 2012, pode visitarse na Fundación Barrié, [Type in Motion](http://www.fundacionbarrie.org/es/sala-de-prensa/21-noticias/204-inauguracion-qtype-in-motionq), unha exposición do [Museo do Deseño de Zúric ](http://www.museum-gestaltung.ch/)que nos invita a descubrir a tipografía dinámica en todas as súas manifestacións: vídeos musicais, títulos de crédito, instalacións interactivas en tres dimensións... e que explora as últimas tendencias dentro do ámbito dos textos en movemento.'
+intro: "Desde onte e ata o 1 de abril de 2012, pode visitarse na Fundación Barrié, [Type in Motion](http://www.fundacionbarrie.org/es/sala-de-prensa/21-noticias/204-inauguracion-qtype-in-motionq), unha exposición do [Museo do Deseño de Zúric ](http://www.museum-gestaltung.ch/)que nos invita a descubrir a tipografía dinámica en todas as súas manifestacións: vídeos musicais, títulos de crédito, instalacións interactivas en tres dimensións... e que explora as últimas tendencias dentro do ámbito dos textos en movemento."
 slug: type-in-motion-chega-a-vigo
 tags: []
 lang: gl

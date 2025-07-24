@@ -1,28 +1,25 @@
 id: 799
-title: 'Continuamos sumando socios!'
+title: "Continuamos sumando socios!"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-presentacion-dag.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola, chámome Patricia, son unha deseñadora gráfica nacida en Lugo e residente na Coruña. A miña traxectoria profesional é pequena, mais chea de referentes. Comecei a traballar no estudio COSTA Comunicación na Coruña, para posteriormente traballar en proxectos e startups como deseñadora de interface e UI/UX. Tamén realicei traballos pola miña conta tanto de branding como de fotografía, sempre tentando rodearme de profesionais para aprender o máximo posíbel.
 
-      > “You find out more by listening than by talking”  
+      > “You find out more by listening than by talking”
       >  —Michael Bierut
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/patricia-nunez/'
-    text: 'Perfil de socia na DAG'
+  - list: ""
+    url: "https://dag.gal/gl/patricia-nunez/"
+    text: "Perfil de socia na DAG"
     type: button
-intro: 'Esta semana dámoslle a benvinda á deseñadora gráfica Patrica Núñez.'
+intro: "Esta semana dámoslle a benvinda á deseñadora gráfica Patrica Núñez."
 slug: continuamos-sumando-socios
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2018-03-18T17:35:50+00:00

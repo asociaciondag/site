@@ -1,26 +1,23 @@
 id: 721
-title: 'Una semana de arte y diseño para conmemorar el XXX aniversario de la EASD Antonio Faílde'
+title: "Una semana de arte y diseño para conmemorar el XXX aniversario de la EASD Antonio Faílde"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/58dbf61a1a12a-cartaz-crea.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Cada uno de los cinco días estará dedicado a una de las especialidades de su oferta formativa: los ciclos de Grado Superior de Fotografía, Ilustración y Ebanistería Artística y las Enseñanzas Superiores de Diseño Gráfico y Diseño de Interiores.
 
       El programa es muy completo e incluye encuentros de profesionales, una exposición de proyectos fin de carrera de los alumnos, mesas redondas, demostraciones y un ciclo de conferencias en el que participarán profesionales de reconocido prestigio de cada una de las disciplinas: [Bleda y Rosa](http://bledayrosa.com/), Premio Nacional de Fotografía, los laureados arquitectos Javier Franco y Vicente Pintos, el ilustrador Chema Román, premio al mejor libro editado en el Estado, Elías Cueto, arquitecto y uno de los mejores exponentes en diseño e innovación en el ámbito de la madera y [R2 Design](http://www.r2design.pt/), estudio portugués de máxima actualidad y referencia a nivel internacional en diseño gráfico.
 
       De este modo, la escuela quiere, por una parte, visibilizar la [EASD Antonio Faílde](http://www.escolarte.com/es/) en la ciudad, concentrando en unos pocos días unas actividades que habitualmente se vienen realizando a lo largo del año en la sede de la escuela en el barrio de la Cuña y, por otra, acercar al conjunto de la ciudadanía orensana la oportunidad de conocer la visión y los proyectos de figuras de primer nivel en diferentes campos del arte y del diseño. La muestra de proyectos fin de carrera también será una excelente ocasión para constatar el enorme potencial creativo de varias de las promociones de graduados de la escuela.
     type: text
-  -
-    list: ''
-    url: 'http://escolarte.com/crea/'
+  - list: ""
+    url: "http://escolarte.com/crea/"
     text: CREA
     type: button
-intro: 'En el año de su XXX aniversario, la Escuela de Arte y Superior de Diseño Antonio Faílde organiza la primera edición de CREA, Jornadas de Arte y Diseño, que se desarrollará entre el lunes 3 y el viernes 7 de abril de 2017 en distintos espacios de la ciudad, principalmente en el Centro Cultural Marcos Valcárcel de Ourense.'
+intro: "En el año de su XXX aniversario, la Escuela de Arte y Superior de Diseño Antonio Faílde organiza la primera edición de CREA, Jornadas de Arte y Diseño, que se desarrollará entre el lunes 3 y el viernes 7 de abril de 2017 en distintos espacios de la ciudad, principalmente en el Centro Cultural Marcos Valcárcel de Ourense."
 slug: una-semana-de-arte-y-diseno-para-conmemorar-el-xxx-aniversario-de-la-easd-antonito-failde
 tags: []
 lang: es

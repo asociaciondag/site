@@ -1,22 +1,19 @@
 id: 233
-title: 'Anxo Noso Mar'
+title: "Anxo Noso Mar"
 slug: anxo-noso-mar
 body:
-  -
-    image: /img/portfolio/images/anxo-noso-mar-2010-branding.jpg
-    text: ''
+  - image: /img/portfolio/images/anxo-noso-mar-2010-branding.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/anxo-noso-mar-2010-branding.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 67
 lang: es
 info:
-  -
-    name: Proyecto
-    value: 'Anxo Noso Mar. Escola náutica'
-  -
-    name: Año
-    value: '2010'
+  - name: Proyecto
+    value: "Anxo Noso Mar. Escola náutica"
+  - name: Año
+    value: "2010"
 draft: false

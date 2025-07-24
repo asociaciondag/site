@@ -1,56 +1,49 @@
 id: 903
-title: 'Desescribir e Roberto Núñez premiados na 49ª edición dos Laus'
+title: "Desescribir e Roberto Núñez premiados na 49ª edición dos Laus"
 body:
-  -
-    text: |-
+  - text: |-
       Os Premios Laus de deseño, outorgados pola [ADG-FAD](https://www.adg-fad.org/es) de Cataluña, son os premios de deseño de maior prestixio en España e uns dos máis importantes en Europa. Desde 1970 recoñecen os mellores traballos realizados nos ámbitos do deseño, da publicidade e da comunicación. Cada ano, o xurado dos premios está integrado por algúns dos profesionais da comunicación máis relevantes do mundo.
 
       De entre os máis de 1000 proxectos presentados en 2019, o estudio [desescribir](http://www.desescribir.com/), formado por Cibrán Rico López e Suso Vázquez Gómez, resultou premiado con dous Laus de Ouro, nas categorías de Mellor Deseño de Libro —polo libro **_Lugares_** de Vari Caramés publicado pola editorial [Fabulatorio](http://fabulatorio.org/)—, e na categoría ao Mellor Deseño de Cartel —polos **carteis deseñados para a SELIC**, a semana do Libro de Compostela.
 
       Os premios súmanse a unha longa listaxe de recoñecementos entre os que podemos destacar os oito Premios Laus de Bronce e Plata obtidos en edicións anteriores, os dous Premios D&amp;AD de Londres ou o Premio PHotoEspaña ao mellor libro de fotografía publicado en España.
     type: text
-  -
-    list: after
+  - list: after
     image: /img/news/images/01-laus-web.jpg
-    text: '_Lugares_ de Vari Caramés'
+    text: "_Lugares_ de Vari Caramés"
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/03-laus-web.jpg
-    text: '_Lugares_ de Vari Caramés'
+    text: "_Lugares_ de Vari Caramés"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Pola súa parte, o director creativo [Roberto Núñez](https://robertonunez.com/) foi premiado cun Laus de Bronce na categoría de Deseño &amp; Packaging polo proxecto **Observador**, un viño de Bodegas DAVIDE, da DO. Rías Baixas. Entre os membros do xurado encargado de valorar a categoría encontrábanse figuras nacionais e internacionais tan relevantes como Sascha Lobe de Pentagram ou David McFarline, entre outros.
 
       Observador é un viño premium de edición limitada que ten a súa orixe nunha forma moi persoal de traballar, analizar e entender a natureza, a denominada _viticultura reflexiva._ O packaging conceptualiza a idea de Observador. Un texto gravado na base da botella, que tan só uns poucos consumidores chegarán a ver, tórnao posíbel. A proposta amplía o campo visual convencional dunha botella, xa que utiliza a base para xerar un diálogo inesperado co consumidor. A gravación do texto requiriu dun manipulado artesanal individualizado.
 
       Con este proxecto, Roberto Núñez continúa acumulando casos de éxito en diferentes ámbitos da comunicación: estratexia, packaging, branding, campañas de comunicación etc. O premio Laus engádese ao histórico D&amp;AD Awards, conseguido recentemente en Londres por **Perfeccionista**, outro viño de Bodegas DAVIDE, as recentes nominacións por ambos os proxectos de packaging nos premios de deseño americano Communication Arts, que este ano celebrarán a súa 60 edición, e os diferentes premios gañados en anos anteriores nos GRAPHIS de Nova York, no EL SOL-Festival Iberoamericano de Publicidade, e nos Premios Nacionais de Deseño Gráfico ANUARIA, entre outros.
     type: text
-  -
-    list: after
+  - list: after
     image: /img/news/images/premio-laus-roberto-nunez-packaging-observador-bodegas-davide-01.jpg
-    text: 'Observador de Bodegas DAVIDE'
+    text: "Observador de Bodegas DAVIDE"
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/premio-laus-roberto-nunez-packaging-observador-bodegas-davide-02.jpg
-    text: 'Observador de Bodegas DAVIDE'
+    text: "Observador de Bodegas DAVIDE"
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/premio-laus-roberto-nunez-packaging-observador-bodegas-davide-03.jpg
-    text: 'Observador de Bodegas Davide'
+    text: "Observador de Bodegas Davide"
     mode: normal
     type: image
-intro: 'Os nomes dos galardoados fixéronse públicos a semana pasada nunha gala celebrada no Museo do Deseño de Barcelona.'
+intro: "Os nomes dos galardoados fixéronse públicos a semana pasada nunha gala celebrada no Museo do Deseño de Barcelona."
 slug: desescribir-e-roberto-nunez-premiados-na-49a-edicion-dos-laus
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2019-06-27T09:03:45+00:00

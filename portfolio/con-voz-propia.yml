@@ -1,43 +1,35 @@
 id: 98
-title: 'Con Voz Propia'
+title: "Con Voz Propia"
 slug: con-voz-propia
 body:
-  -
-    text: 'Con Voz Propia é un festival de música que se celebra en Pontevedra, ao que asisten artistas e grupos cunhas características moi persoais. Ao tratarse de rexistros musicais tan distintos, optamos por crear unha imaxe neutral onde o vínculo entre todos eles fose a música e o nome do festival. Deseñamos una imaxe-símbolo onde o V da voz simulase unha nova nota musical.'
+  - text: "Con Voz Propia é un festival de música que se celebra en Pontevedra, ao que asisten artistas e grupos cunhas características moi persoais. Ao tratarse de rexistros musicais tan distintos, optamos por crear unha imaxe neutral onde o vínculo entre todos eles fose a música e o nome do festival. Deseñamos una imaxe-símbolo onde o V da voz simulase unha nova nota musical."
     type: text
-  -
-    image: /img/portfolio/images/555ce43a8efec-con-voz-propia-1.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce43a8efec-con-voz-propia-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555ce43a8f53a-con-voz-propia-082.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce43a8f53a-con-voz-propia-082.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555ce43a8fa4b-vista-folleto-21.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce43a8fa4b-vista-folleto-21.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555ce43a8ff02-vista-folleto1.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce43a8ff02-vista-folleto1.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859cebe55a4-555ce43a8f53a-con-voz-propia-082.jpg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 23
 lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'Era Comunicación'
-  -
-    name: Cliente
-    value: 'Concello de Pontevedra. Concellaría de Cultura.'
-  -
-    name: Ano
-    value: '2009'
+  - name: Estudio
+    value: "Era Comunicación"
+  - name: Cliente
+    value: "Concello de Pontevedra. Concellaría de Cultura."
+  - name: Ano
+    value: "2009"
 draft: false

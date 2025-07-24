@@ -1,18 +1,16 @@
 id: 265
-title: 'Yo me encargo'
+title: "Yo me encargo"
 slug: yo-me-encargo
 body:
-  -
-    text: 'Deseño de identidade corporativa e aplicación para Social Media'
+  - text: "Deseño de identidade corporativa e aplicación para Social Media"
     type: text
-  -
-    image: /img/portfolio/images/diseno-instagram.jpg
-    text: ''
+  - image: /img/portfolio/images/diseno-instagram.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/diseno-instagram.jpg
 tags:
   - UX/UI
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 40
 lang: gl

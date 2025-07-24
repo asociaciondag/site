@@ -1,14 +1,12 @@
 id: 1394
-title: 'Participamos no Festival Creativa, Vigo'
+title: "Participamos no Festival Creativa, Vigo"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/creativa-horiz.jpg
-    text: 'Imaxe do Festival Creativa 2025'
+    text: "Imaxe do Festival Creativa 2025"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O Cine Vigo, a Galería Maraca e a Praza do Pobo Galego son algunhas das sedes do festival que reúne destacados nomes da escena creativa local e nacional entre a súa programación. Figuras do ámbito da ilustración como Genie Espinosa, María Gómez, o estudio Brosmind, Cristina Sardá, Javirrollo… ou deseñadores da talla de Mario Eskenazi, Javier Jaén, Diego Feijóo ou a arquitecta Le Petite Patito, xunto con autoras como Raquel Peláez presentarán os seu proxectos, participarán en coloquios ou impartirán obradoiros.
 
       Como en cada edición, celebraranse as «Charlas Maraca» que terán por convidados/as a ceramista Lili Algo, o podcast Desfacendo Galicia, o proxecto Rural Hackers ou os nosos asociados Pablo Álvarez, do estudio Casa Pransa e Lago Monroy… entre outros.
@@ -21,15 +19,14 @@ body:
 
       Todo isto e moito máis na terceira edición do festival organizado por Maraca, Dot e ChaChaChá que se fixo co premio de «Mellor evento cultural de Galicia» nos Premios Paraugas no 2024. Acceso libre e de balde.
     type: text
-  -
-    list: ''
-    url: 'https://dotgalicia.com/creativa/'
-    text: 'Programa completo'
+  - list: ""
+    url: "https://dotgalicia.com/creativa/"
+    text: "Programa completo"
     type: button
-intro: 'A cidade olívica acollerá os vindeiros 25 e 26 de abril unha nova edición deste espazo de encontro para profesionais e amadores/as da cultura contemporánea.'
+intro: "A cidade olívica acollerá os vindeiros 25 e 26 de abril unha nova edición deste espazo de encontro para profesionais e amadores/as da cultura contemporánea."
 slug: festival-creativa-vigo-2025
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2025-04-24T11:49:00+00:00

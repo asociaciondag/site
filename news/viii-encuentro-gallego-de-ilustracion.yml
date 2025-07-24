@@ -1,8 +1,7 @@
 id: 297
-title: 'VIII Encuentro Gallego de Ilustración'
+title: "VIII Encuentro Gallego de Ilustración"
 body:
-  -
-    text: |-
+  - text: |-
       El evento se desarrolla a lo largo de todo el día. Por la tarde tendrá lugar la Asamblea General de la AGPI sólo para miembros, pero durante la mañana las puertas estarán abiertas a todas las personas que quieran participar, tal y como explican en la invitación que la AGPI, muy amablemente, nos ha hecho llegar. Así que ya sabéis, apuntad esta cita en la agenda y aquí tenéis el programa de actividades por si le queréis echar un vistazo:
 
       **Programa**
@@ -15,12 +14,11 @@ body:
 
       Más información en: [VIII Encuentro Gallego de Ilustración](http://www.agpi.es/noticia.php?id=540)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9f20aa9-viii-encontro-ilustradores-galegos.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Este sábado 29 de octubre los ilustradores gallegos se reúnen en Santiago de Compostela en el Encuentro Gallego de Ilustración que, como cada año, organiza la [AGPI](http://www.agpi.es/).'
+intro: "Este sábado 29 de octubre los ilustradores gallegos se reúnen en Santiago de Compostela en el Encuentro Gallego de Ilustración que, como cada año, organiza la [AGPI](http://www.agpi.es/)."
 slug: viii-encuentro-gallego-de-ilustracion
 tags: []
 lang: es

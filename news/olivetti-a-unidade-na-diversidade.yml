@@ -1,14 +1,12 @@
 id: 843
-title: 'Olivetti, a unidade na diversidade'
+title: "Olivetti, a unidade na diversidade"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/2.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [María Ramos](https://dag.gal/gl/maria-ramos/), como parte intrínseca do seu traballo, vén revisando desde hai anos o papel da coñecida casa italiana de máquinas de escribir Olivetti, no recoñecemento do importantísimo papel que xoga o deseño na consolidación dunha marca.
 
       A exposición componse de máquinas de escribir, carteis orixinais e outros curiosos elementos que na súa maior parte proceden da [Colección Sirvent.](http://www.sirventvigo.com/sirvent/es) Con ela réndeselle unha homenaxe á empresa italiana que conseguiu fabricar máquinas de escribir durante case un século no cal foi capaz de crear modelos que se converteron en iconas na historia do deseño industrial, destacando pola forma e polos avances conseguidos pola innovación na súa funcionalidade.
@@ -17,15 +15,14 @@ body:
 
       A exposición complétase cunha mostra do traballo como deseñadora de tipografías de María Ramos, quen desenvolve os seus deseños desde a marca NM type que creou xunto a Noel Pretorius. Entre os seus clientes atópanse firmas como Jägermeister.
     type: text
-  -
-    list: ''
-    url: 'http://www.didac.gal/didac/gl/exposicions/olivetti'
-    text: 'A mostra na web de DIDAC'
+  - list: ""
+    url: "http://www.didac.gal/didac/gl/exposicions/olivetti"
+    text: "A mostra na web de DIDAC"
     type: button
-intro: 'A mostra _Olivetti, a unidade na diversidade_ comisariada pola deseñadora de tipografías María Ramos inaugúrase mañá 22 de novembro ás 20.00 h en DIDAC.'
+intro: "A mostra _Olivetti, a unidade na diversidade_ comisariada pola deseñadora de tipografías María Ramos inaugúrase mañá 22 de novembro ás 20.00 h en DIDAC."
 slug: olivetti-a-unidade-na-diversidade
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2018-11-21T19:02:21+00:00

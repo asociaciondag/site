@@ -1,18 +1,16 @@
 id: 57
-title: 'Primer número 0032'
+title: "Primer número 0032"
 body:
-  -
-    text: 'Esta primera "edición" on-line de 32 páginas incluye: "Historias tipográficas” de Oscar Otero, “Tango corazón de papel” de Gisela Ahumada, una conversación entre Uqui Permui y Martiño Villaverde “Inspirar… expirar”, “Formatos e grellas, todo en-caixa” de Natalia Crecente y Segundo Fernández y “Replica, unha tipografía do século XXI” de Marcos Dopico. La portada es un _collage_ formado con algunas versiones de la gráfica utilizada por el boletín mensual de la cultura gallega, medio de expresión entre 1920 y 1935 del grupo Nós.'
+  - text: 'Esta primera "edición" on-line de 32 páginas incluye: "Historias tipográficas” de Oscar Otero, “Tango corazón de papel” de Gisela Ahumada, una conversación entre Uqui Permui y Martiño Villaverde “Inspirar… expirar”, “Formatos e grellas, todo en-caixa” de Natalia Crecente y Segundo Fernández y “Replica, unha tipografía do século XXI” de Marcos Dopico. La portada es un _collage_ formado con algunas versiones de la gráfica utilizada por el boletín mensual de la cultura gallega, medio de expresión entre 1920 y 1935 del grupo Nós.'
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a979c2d8-0032-1-copia.gif
-    text: ''
+    text: ""
     type: image
-intro: 'La Asociación DAG presenta el primer número de la revista 0032.'
+intro: "La Asociación DAG presenta el primer número de la revista 0032."
 slug: primer-numero-0032
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2009-11-13T08:45:57+00:00

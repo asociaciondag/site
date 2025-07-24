@@ -1,28 +1,26 @@
 id: 150
-title: 'Bibliografía básica para o taller de Andreu Balius'
+title: "Bibliografía básica para o taller de Andreu Balius"
 body:
-  -
-    text: |-
+  - text: |-
       Un libro xa clásico, _The elements of typographic style,_ do tipógrafo, poeta e tradutor canadense Rober Bringhurst, publicado por Hartley and Marks Publishers en 1993, e do que tamén tedes unha tradución ao español. Velaquí a referencia:
 
       - Bringhurst, Robert (2008): _Los elementos del estilo tipográfico._ México: Fondo de Cultura Económica.
-       
+
       E tamén libros máis modernos como:
 
       - Cheng, Karen (2006): _Diseñar tipografía._ Barcelona: Editorial Gustavo Gili.
       - Novarese, Aldo (2009): _El signo alfabético._ València: Campgrfic editors.
       - Unger, Gerard (2009): _¿Qué ocurre mientras lees? Tipografía y legibilidad._ València: Campgrfic editors.
-       
+
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9a13363-portada-libro.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'As recomendacións de **Andreu Balius** para aqueles que xa queren ir quentando motores para o Taller de tipografía son:'
+intro: "As recomendacións de **Andreu Balius** para aqueles que xa queren ir quentando motores para o Taller de tipografía son:"
 slug: bibliografia-basica-para-o-taller-de-andreu-balius
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2010-11-02T11:41:03+00:00

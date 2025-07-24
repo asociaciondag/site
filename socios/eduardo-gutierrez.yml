@@ -1,17 +1,16 @@
 id: 65
 contact: null
 links:
-  -
-    text: Web
-    url: 'http://www.egutierrez.es/portfolio/'
+  - text: Web
+    url: "http://www.egutierrez.es/portfolio/"
     type: link
-name: 'Eduardo Gutiérrez'
+name: "Eduardo Gutiérrez"
 slug: eduardo-gutierrez
 avatarBig: null
 avatar: /img/avatars/foto-eduardo-gutierrez.jpg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Web
   - 3D/CGI
   - Espazos
@@ -29,5 +28,5 @@ bio.es: |-
   Amante del diseño útil y de probar lo que otros rechazan.
 
   Desde el nacimiento de una empresa a través de la creación de su imagen gráfica corporativa, web, la decoración de sus instalaciones (mobiliario a medida, simulaciones 3D, objetos de decoración corporativos), parque móvil, al sorprendente stand que no dejará a nadie indiferente.
-job.gl: 'Deseñador gráfico de formación, e industrial de vocación'
-job.es: 'Diseñador gráfico de formación, e industrial de vocación'
+job.gl: "Deseñador gráfico de formación, e industrial de vocación"
+job.es: "Diseñador gráfico de formación, e industrial de vocación"

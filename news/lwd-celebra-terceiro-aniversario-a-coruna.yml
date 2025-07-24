@@ -1,24 +1,21 @@
 id: 1062
-title: 'Ladies, Wine & Design celebra o seu terceiro aniversario en A Coruña'
+title: "Ladies, Wine & Design celebra o seu terceiro aniversario en A Coruña"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/lwdcoruna.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O lema «Activas e creativas» integra un programa de actividades que incluirá a presentación de 4 profesionais vencelladas ao deseño e a creatividade. Falamos da cineasta e xornalista Paula Cons, directora de filmes como A illa das mentiras, María José Mariño, directora da Axencia Galega de Innovación, a cociñeira Iria Espinosa, e a ilustradora e deseñadora Iria Prol. As entradas para asistir ao evento de maneira presencial tiveron moi boa acollida e xa están esgotadas. A boa noticia é que o evento será tamén retransmitido en directo, por primeira vez as presentacións estarán aberta ao público xeral. Para asistir ao evento en liña só hai que rexistrarse no evento a través da web Cultura ENVIVO.
 
       Apoiamos a iniciativa e trasladamos os nosos parabéns ao colectivo nesta celebración.
     type: text
-  -
-    list: ''
-    url: 'https://www.culturaenvivo.com/es/activasecreativas/'
-    text: 'Entrada online '
+  - list: ""
+    url: "https://www.culturaenvivo.com/es/activasecreativas/"
+    text: "Entrada online "
     type: button
-intro: 'O vindeiro xoves, 10 de xuño, a Fundación Luis Seoane acollerá un novo encontro de [Ladies, Wine &amp; Design](https://ladieswinedesign.com/coruna/) na cidade. Esta será unha ocasión especial, xa que o evento cumpre 3 anos de actividade continuada.'
+intro: "O vindeiro xoves, 10 de xuño, a Fundación Luis Seoane acollerá un novo encontro de [Ladies, Wine &amp; Design](https://ladieswinedesign.com/coruna/) na cidade. Esta será unha ocasión especial, xa que o evento cumpre 3 anos de actividade continuada."
 slug: lwd-celebra-terceiro-aniversario-a-coruna
 tags: []
 lang: gl

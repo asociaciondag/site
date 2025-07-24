@@ -1,14 +1,12 @@
 id: 1122
-title: 'Na DAG celebramos a chegada de Azur González'
+title: "Na DAG celebramos a chegada de Azur González"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/azur-740.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola,
 
       Chámome Azur, nacín en Vigo hai case 40 anos pero agora vivo na Coruña.
@@ -37,10 +35,10 @@ body:
 
       Saúdos a todos.
     type: text
-intro: 'O pasado ano a DAG medrou máis que nunca, e entre as novas persoas asociadas temos o pracer de contar con [Azur González](https://dag.gal/gl/azur-gonzalez/), que despois dunha longa traxectoria en deseño gráfico en case todas as súas vertentes, especializouse no deseño de produto dixital. Al​​édanos moito contar contigo Azur, benvido!'
+intro: "O pasado ano a DAG medrou máis que nunca, e entre as novas persoas asociadas temos o pracer de contar con [Azur González](https://dag.gal/gl/azur-gonzalez/), que despois dunha longa traxectoria en deseño gráfico en case todas as súas vertentes, especializouse no deseño de produto dixital. Al​​édanos moito contar contigo Azur, benvido!"
 slug: na-dag-celebramos-a-chegada-de-azur-gonzalez
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2022-02-16T10:54:54+00:00

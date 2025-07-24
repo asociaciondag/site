@@ -1,14 +1,12 @@
 id: 1145
-title: 'Se convocan los III Premios Galicia de Innovación y Diseño '
+title: "Se convocan los III Premios Galicia de Innovación y Diseño "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premiosinnovaciondes2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Con estos galardones se busca destacar las mejores prácticas para que sirvan de ejemplo a todo el tejido empresarial gallego, poniendo de relieve cómo la innovación y el diseño cumplen un papel esencial para mejorar la competitividad de las empresas y, en definitiva, la calidad de vida de las personas.
 
       El certamen cuenta con seis categorías, de las que tres están específicamente dirigidas a reconocer la profesionales y empresas que contribuyen de manera relevante a la mejora del prestigio del diseño gallego y las compañías que, al incorporarlo a su estrategia empresarial, demuestran que el diseño actúa como motor de innovación, sostenibilidad y competitividad. Uno de estos premios será para profesionales con una trayectoria de diez o más años, otro para empresas que incorporasen el diseño en su ​estrategia empresarial durante una década como mínimo, y un tercero para diseñadores y diseñadoras menores de 35 años de edad y con una trayectoria profesional inferior a diez años.
@@ -19,12 +17,11 @@ body:
 
       Entre los criterios de evaluación, el jurado de las categorías de innovación tendrá en cuenta la trayectoria y actividad innovadora, así como el posicionamiento y el impacto de la innovación en la mejora de la capacidad competitiva. El jurado de los galardones de diseño valorará la trayectoria y aportación realizada, así como el impulso a la innovación a través de los proyectos de diseño. Estos fueron los aspectos en los que destacaron las personas y empresas galardonadas en las ​ediciones anteriores de este certamen. En el apartado de diseño fueron reconocidos nuestros socios Ricardo Tubío y Xabier Rilo de Cenlitrosmetrocadrado y Suso Vázquez y Cibrán Rico de​ ​ Desescribir (profesionales), Eva Yarza y Damián Calvo (talento emergente) y Televés y TMC Cancela (empresas). En el de innovación los premiados fueron Francisco Guitián y Fernando Pérez (trayectoria innovadora), Marine Instruments y GalChimia (pymes) y Cupa Innovación y Congalsa (grandes empresas).
     type: text
-  -
-    list: ''
-    url: 'https://www.xunta.gal/dog/Publicados/2022/20220502/AnuncioG0198-210422-0001_gl.html'
-    text: 'Bases de la convocatoria'
+  - list: ""
+    url: "https://www.xunta.gal/dog/Publicados/2022/20220502/AnuncioG0198-210422-0001_gl.html"
+    text: "Bases de la convocatoria"
     type: button
-intro: 'La [**Agencia Gallega de Innovación (Gain)**](http://gain.xunta.gal/?locale=es_ES), convoca la tercera edición de los **Premios Galicia de Innovación y Diseño** para reconocer la labor de las personas y empresas que están contribuyendo significativamente al desarrollo económico y social en Galicia a través de la innovación y el diseño. El plazo de inscripción de candidaturas está abierto hasta el 4 de julio.'
+intro: "La [**Agencia Gallega de Innovación (Gain)**](http://gain.xunta.gal/?locale=es_ES), convoca la tercera edición de los **Premios Galicia de Innovación y Diseño** para reconocer la labor de las personas y empresas que están contribuyendo significativamente al desarrollo económico y social en Galicia a través de la innovación y el diseño. El plazo de inscripción de candidaturas está abierto hasta el 4 de julio."
 slug: se-convocan-los-iii-premios-galicia-de-innovacion-y-diseno
 tags: []
 lang: es

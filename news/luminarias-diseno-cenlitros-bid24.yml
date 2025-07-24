@@ -1,14 +1,12 @@
 id: 1339
-title: 'Las luminarias Parga de Cenlitros seleccionadas en la BID 24'
+title: "Las luminarias Parga de Cenlitros seleccionadas en la BID 24"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/parga-x-cenlitroscstudio-aranda-santos.jpg
-    text: 'Fotografía de Studio Aranda Santos e A Emotional Light / Diseño para A Emotional Light'
+    text: "Fotografía de Studio Aranda Santos e A Emotional Light / Diseño para A Emotional Light"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [Parga](https://www.cenlitros.com/parga) es una colección que recupera la aplicación del granito para objetos funcionales y decorativos en espacios interiores, aprovechando la neutralidad cromática y su textura natural. Un conjunto formado por tres piezas de diferentes diámetros y alturas, que utilizan un lenguaje formal que remite a la talla lítica más primitiva y rudimentaria.
 
       Recordamos que este trabajo de los compañeros de Cenlitros ha recibido ya un Honoree Interior en los Design Best of Year Awards 2023 y un Delta de Bronce 2024 en los Premios ADI FAD.
@@ -19,15 +17,14 @@ body:
 
       Felicitamos tamén a la asociación ADCV, compañeira de READ, por resultar galardonada con el Premio BID Cultura del Diseño «Frank Memelsdorff» por la herramienta digital [D-ToolBox.](https://www.adcv.com/proyecto/d-tool/)
     type: text
-  -
-    list: ''
-    url: 'https://bid-dimad.com/'
-    text: 'Web de la BID'
+  - list: ""
+    url: "https://bid-dimad.com/"
+    text: "Web de la BID"
     type: button
-intro: 'El conjunto de luminarias Parga diseñadas por el socio Xabier Rilo y su compañero en Cenlitros Ricardo Tubío, fueron seleccionadas para participar en la exposición de la Bienal Iberoamericana de Diseño 2024 organizada por Dimad. La exposición podrá visitarse hasta el 6 de enero de 2025 en Matadero Madrid.'
+intro: "El conjunto de luminarias Parga diseñadas por el socio Xabier Rilo y su compañero en Cenlitros Ricardo Tubío, fueron seleccionadas para participar en la exposición de la Bienal Iberoamericana de Diseño 2024 organizada por Dimad. La exposición podrá visitarse hasta el 6 de enero de 2025 en Matadero Madrid."
 slug: luminarias-diseno-cenlitros-bid24
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2024-10-10T09:40:00+00:00

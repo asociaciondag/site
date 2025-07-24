@@ -1,44 +1,37 @@
 id: 712
-title: 'Os Premios Nacionais de Deseño Anuaria 2016'
+title: "Os Premios Nacionais de Deseño Anuaria 2016"
 body:
-  -
-    text: |-
+  - text: |-
       Premiada cun Anuaria ao mellor deseño dunha publicación periódica resultou [DARDOmagazine](http://www.dardonews.com/dardonews/), unha revista que desde a súa creación hai 11 anos vén apostando polo diálogo entre deseño e análise do contexto artístico contemporáneo cunha coidada proposta estética. Centrada en tres contextos, España, Portugal-Brasil e Latinoamérica, ten gañada xa unha posición entre as máis prestixiosas revistas culturais, recompilando textos críticos e entrevistas de arte, arquitectura e deseño.
 
       Alén deste recoñecemento, a editorial e estudio de deseño [DARDO](http://www.dardo-ds.com/dardo/) obtivo tamén unha selección Anuaria noutras dúas categorías, á mellor cuberta de libro —co catálogo deseñado para a exposición “Impulsores do movemento abstracto” celebrada na Casa da Parra e organizada pola Xunta de Galicia— e outra ao mellor catálogo —_Raúl Artiles. Black Hole_, deseñado para o CAAM, Centro Atlántico de Arte Moderno das Palmas de Gran Canaria—.
 
       Uns premios que se suman ao Diploma ao mellor deseño de diario ou revista recibido hai só uns meses nos [Premios CLAP](http://premiosclap.org/).
     type: text
-  -
-    list: after
+  - list: after
     image: /img/news/images/58a6081be4682-dardo.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Temos que destacar tamén o Premio Anuaria á mellor tipografía concedido a [Álvaro Justo](http://www.alvarojusto.com/) pola súa [Verbas Sans](http://www.alvarojusto.com/verbassans/), unha tipografía que lle valeu tamén unha mención dentro da categoría ao mellor traballo ou proxecto de estudos realizado por un estudante do último curso de deseño.'
+  - text: "Temos que destacar tamén o Premio Anuaria á mellor tipografía concedido a [Álvaro Justo](http://www.alvarojusto.com/) pola súa [Verbas Sans](http://www.alvarojusto.com/verbassans/), unha tipografía que lle valeu tamén unha mención dentro da categoría ao mellor traballo ou proxecto de estudos realizado por un estudante do último curso de deseño."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/58a6081be4ef9-verba-sans.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'E unha Mención Anuaria foi tamén a conseguida polo estudio [Era comunicación](http://eracomunicacion.es/), neste caso na categoría de mellor cartel, polo cartel deseñado para a Festa do Mar que se celebra en Poio.'
+  - text: "E unha Mención Anuaria foi tamén a conseguida polo estudio [Era comunicación](http://eracomunicacion.es/), neste caso na categoría de mellor cartel, polo cartel deseñado para a Festa do Mar que se celebra en Poio."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/58a6081be59b5-cartel-festa-do-mar.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
-    url: 'http://www.veredictas.com/premios/premios-anuaria/galeria-premiados-anuaria/ganadores-2016.html'
-    text: 'Premiados Anuaria 2016'
+  - list: ""
+    url: "http://www.veredictas.com/premios/premios-anuaria/galeria-premiados-anuaria/ganadores-2016.html"
+    text: "Premiados Anuaria 2016"
     type: button
-intro: 'Esta semana facíase pública a lista completa dos premiados con estes importantes galardóns que outorgan representantes das asociacións profesionais e centros de deseño nacionais. Unha edición máis alégranos comprobar como, nesta tamén, os nomes dos nosos socios se encontran entre os premiados. Moitos parabéns a Conchi Mayo e ao estudio DARDO, a Era comunicación e a Álvaro Justo.'
+intro: "Esta semana facíase pública a lista completa dos premiados con estes importantes galardóns que outorgan representantes das asociacións profesionais e centros de deseño nacionais. Unha edición máis alégranos comprobar como, nesta tamén, os nomes dos nosos socios se encontran entre os premiados. Moitos parabéns a Conchi Mayo e ao estudio DARDO, a Era comunicación e a Álvaro Justo."
 slug: os-premios-nacionais-de-deseno-anuaria-2016
 tags: []
 lang: gl

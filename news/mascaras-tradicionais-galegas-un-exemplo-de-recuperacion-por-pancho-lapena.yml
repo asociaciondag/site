@@ -1,8 +1,7 @@
 id: 420
-title: 'Máscaras tradicionais galegas: un exemplo de recuperación por Pancho Lapeña'
+title: "Máscaras tradicionais galegas: un exemplo de recuperación por Pancho Lapeña"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Mañá xoves 7 de febreiro ás 19.30 h todas as persoas con curiosidade pola iconografía do entroido galego teñen unha cita no [Museo do Pobo Galego](http://www.museodopobo.es/).
 
@@ -11,8 +10,7 @@ body:
       A orixe deste personaxe cómpre buscala nunha tradición dos mariñeiros do Berbés que durante o entroido saían á rúa vestidos coma labregos para burlarse da xente que atopaban ao seu paso e manchar as súas vítimas con restos de peixe podre.
 
       Aínda que se sabe como vestían e actuaban porque a súa existencia está documentada por Vicente Risco e Xocas, pouco ou nada se sabía das máscaras que levaban, un traballo de recuperación do que se encargou Pancho Lapeña e sobre o que nos explicará todos os detalles este xoves.
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa31dfea-mascaras.jpg
 intro: null
 slug: mascaras-tradicionais-galegas-un-exemplo-de-recuperacion-por-pancho-lapena

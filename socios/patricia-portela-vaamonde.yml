@@ -4,19 +4,16 @@ contact: |-
 
   <patricia.portelavaamonde@gmail.com>
 links:
-  -
-    text: Behance
-    url: 'https://www.behance.net/patriciaportela'
+  - text: Behance
+    url: "https://www.behance.net/patriciaportela"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/patriciacualquiera/'
+  - text: Instagram
+    url: "https://www.instagram.com/patriciacualquiera/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/PortelaPatricia/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/PortelaPatricia/"
     type: linkedin
-name: 'Patricia Portela Vaamonde'
+name: "Patricia Portela Vaamonde"
 slug: patricia-portela-vaamonde
 avatarBig: null
 avatar: /img/avatars/patriciaportela.jpg
@@ -25,9 +22,9 @@ tags:
   - Sinalética
   - Editorial
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 draft: false
-bio.gl: 'Ola, son Patricia Portela Vaamonde, directora de arte_._ Levo máis de vinte anos dándolle fondo e forma as mensaxes dos meus clientes en empresas como Grupo BAP Conde, Idea creatividad e Imaxe Intermedia. No ano 2001 gañei o premio Maratón Stone Laus de Barcelona e dende o 2015 traballo como _freelance,_ desenvolvendo boa parte da miña actividade como responsable creativa de [The Office Comunicación](http://www.theofficeco.es/). Penso que agora, despois de todos estes anos, estou a piques de conseguir o que repetía Milton Glaser: «Traballa soamente para xente que che guste».'
-bio.es: 'Hola, soy Patricia Portela Vaamonde, directora de arte_._ Llevo más de veinte años dándole fondo y forma a los mensajes de mis clientes en empresas como Grupo BAP Conde, Idea creatividad e Imaxe Intermedia. En el año 2001 gané el premio Maratón Stone Laus de Barcelona y desde el 2015 trabajo como _freelance,_ desarrollando buena parte de mi actividad como responsable creativa de [The Office Comunicación](http://www.theofficeco.es/). Creo que ahora, después de todos estos años, estoy a punto de conseguir lo que repetía Milton Glaser: «Trabaja solamente para gente que te guste».'
-job.gl: 'Directora de arte freelance'
-job.es: 'Directora de arte freelance'
+bio.gl: "Ola, son Patricia Portela Vaamonde, directora de arte_._ Levo máis de vinte anos dándolle fondo e forma as mensaxes dos meus clientes en empresas como Grupo BAP Conde, Idea creatividad e Imaxe Intermedia. No ano 2001 gañei o premio Maratón Stone Laus de Barcelona e dende o 2015 traballo como _freelance,_ desenvolvendo boa parte da miña actividade como responsable creativa de [The Office Comunicación](http://www.theofficeco.es/). Penso que agora, despois de todos estes anos, estou a piques de conseguir o que repetía Milton Glaser: «Traballa soamente para xente que che guste»."
+bio.es: "Hola, soy Patricia Portela Vaamonde, directora de arte_._ Llevo más de veinte años dándole fondo y forma a los mensajes de mis clientes en empresas como Grupo BAP Conde, Idea creatividad e Imaxe Intermedia. En el año 2001 gané el premio Maratón Stone Laus de Barcelona y desde el 2015 trabajo como _freelance,_ desarrollando buena parte de mi actividad como responsable creativa de [The Office Comunicación](http://www.theofficeco.es/). Creo que ahora, después de todos estos años, estoy a punto de conseguir lo que repetía Milton Glaser: «Trabaja solamente para gente que te guste»."
+job.gl: "Directora de arte freelance"
+job.es: "Directora de arte freelance"

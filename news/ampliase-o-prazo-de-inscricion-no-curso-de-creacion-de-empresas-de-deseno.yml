@@ -1,33 +1,28 @@
 id: 340
-title: 'Amplíase o prazo de inscrición no Curso de creación de empresas de deseño'
+title: "Amplíase o prazo de inscrición no Curso de creación de empresas de deseño"
 body:
-  -
-    text: |-
+  - text: |-
       Deste xeito, todas as persoas interesedas terán un pouco máis de tempo para presentar toda a documentación que se lles pide: solicitude de inscrición cos datos e asinada, 2 fotos, copia do DNI, copia do título académico especificado na solicitude inscrición, copia dun documento que acredite a situación laboral do candidato (IAE ou documento de pago á Seguridade Social como autónomo, tarxeta de demandante de emprego, certificado da empresa na que traballa...).
 
       **Dirixido** a emprendedores de calquera sector de actividade que, tendo unha idea de empresa e a través da información e tutela recibida nos cursos sexan capaces de levar a cabo o seu proxecto de empresa. **Os obxetivos** que se plantexan son os de conseguir que os profesionais do sector deseño, saiban definir modelos de xestión empresarial que inclúan a xestión do deseño como un proceso estratéxico para achegar valor desde a conceptualización e desenvolvemento até a súa materialización, lanzamento e comercialización. Descarga a solicitude e envíaa xunto con toda a documentación a info@asociaciondag.org:
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa099e48-6707421069-9610552b42-b.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa099e48-convocatoria-galicia.pdf
     text: Descargar
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa099e48-solicitud-inscripcio-n-fse-20101020.doc
     text: Descargar
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa099e48-folleto-eoi-fse-curso-de-creacion-de-empresas-gallego.pdf
     text: Descargar
     type: file
-intro: 'Ata o mércores, 8 de febreiro, estará aberto o prazo de inscrición no curso de creación de empresas de deseño impartido pola [Escola de Organización Industrial (EOI)](http://www.eoi.es).'
+intro: "Ata o mércores, 8 de febreiro, estará aberto o prazo de inscrición no curso de creación de empresas de deseño impartido pola [Escola de Organización Industrial (EOI)](http://www.eoi.es)."
 slug: ampliase-o-prazo-de-inscricion-no-curso-de-creacion-de-empresas-de-deseno
 tags: []
 lang: gl

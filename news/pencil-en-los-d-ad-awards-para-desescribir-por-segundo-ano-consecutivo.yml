@@ -1,22 +1,20 @@
 id: 552
-title: 'Pencil en los D&AD awards para desescribir por segundo año consecutivo'
+title: "Pencil en los D&AD awards para desescribir por segundo año consecutivo"
 body:
-  -
-    text: |-
+  - text: |-
       Con esta ya son dos las ocasiones en que los [D&amp;AD awards](https://www.dandad.org/) seleccionan un trabajo del estudio gallego, quien ya el año pasado había resultado premiado, también en la misma categoría, por _Ostalgia_ de Simona Rota.
 
       La ceremonia de entrega de trofeos será el próximo 21 de mayo en Londres, en el transcurso de la cual será desvelado, por fin, el color del lápiz ganado por cada uno de los premiados: madera, grafito, amarillo, blanco o negro (el máximo galardón).
     type: text
-  -
-    list: after
+  - list: after
     info:
       code: '<iframe src="https://www.flickr.com/photos/desescribir/sets/72157650686499888/player" frameborder="0" allowTransparency="true" style="border:none;overflow:hidden;width:640px;height:425px;"></iframe>'
-      ratio: '66.406'
+      ratio: "66.406"
     type: embed
-intro: 'El catálogo _Günther Förg_ diseñado por [desescribir](http://www.desescribir.com/) para la Fundación Luis Seoane acaba de ser reconocido con un Pencil en la categoría de Book Design/Entire Books.'
+intro: "El catálogo _Günther Förg_ diseñado por [desescribir](http://www.desescribir.com/) para la Fundación Luis Seoane acaba de ser reconocido con un Pencil en la categoría de Book Design/Entire Books."
 slug: pencil-en-los-d-ad-awards-para-desescribir-por-segundo-ano-consecutivo
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2015-05-12T20:09:16+00:00

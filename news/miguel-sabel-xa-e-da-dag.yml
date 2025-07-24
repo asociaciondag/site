@@ -1,14 +1,12 @@
 id: 637
-title: 'Miguel Sabel xa é da DAG :)'
+title: "Miguel Sabel xa é da DAG :)"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/56a223bf79025-miguel-sabel-present.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola, son Miguel Sabel. Traballo como deseñador na oficina que [Designit](https://designit.com/) ten en Madrid. Na meirande parte dos proxectos nos que traballo deseño servizos, definindo novos modelos de negocio e relación entre organizacións e os seus clientes ou usuarios.
 
       Antes pasei por unha consultora de investigación tecnolóxica, tamén en Madrid, e algo antes por unha pequena compañía de deseño en Barcelona. Fun a Barcelona para estudar un máster despois de pasar pola escola de Deseño de Ferrol. Levo algo máis de sete anos fóra de Galicia.
@@ -21,15 +19,14 @@ body:
 
       Decidín polo tanto que entrei na DAG para buscar que a motivación de marchar sexa o máis doce posible. Apertura para aprender e desfrutar. E para facer que o camiño de volta sexa máis sinxelo. Para sentir que podo volver cando me dea a gana. Comezando por min mesmo pero oxalá tamén para outros. Non teño nin idea de como facelo.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/miguel-sabel/'
-    text: 'Ficha de socio DAG'
+  - list: ""
+    url: "https://dag.gal/gl/miguel-sabel/"
+    text: "Ficha de socio DAG"
     type: button
-intro: 'Desde a asociación só podemos expresar o máis profundo agradecemento a Miguel Sabel, e aos outros socios que como el desenvolven as súas vidas profesionais fóra de Galicia, polo seu compromiso coa DAG. Benvido!'
+intro: "Desde a asociación só podemos expresar o máis profundo agradecemento a Miguel Sabel, e aos outros socios que como el desenvolven as súas vidas profesionais fóra de Galicia, polo seu compromiso coa DAG. Benvido!"
 slug: miguel-sabel-xa-e-da-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2016-01-22T13:32:06+00:00

@@ -1,14 +1,12 @@
 id: 923
-title: 'María Ramos estará no 3º warm up do Encontro de Tipografía do Porto'
+title: "María Ramos estará no 3º warm up do Encontro de Tipografía do Porto"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/encontro-talk-landscape.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O programa inclúe varias conferencias e o obradoiro _Debuxar-cortar-colar: construír tipografia experimental en papel_, coa orientación de Joana Correia, María Ramos, Viktoriya Grabowska.
 
       Programa completo:
@@ -18,26 +16,24 @@ body:
       - Conferencia de Joana Correia: Límites e restricións da tipografía
       - Conferencia de María Ramos: Type, art and movement
       - Conferencia de Viktoriya Grabowska: Sobre a Birra Saison
-       
+
       Día 18.10.2019 ás 10.30 h na sala P5 da ESAD
 
       - Obradoiro Debuxar-cortar-colar: construír tipografia experimental en papel, coordinado polas tres oradoras do día anterior.
-       
+
     type: text
-  -
-    list: ''
-    url: 'https://esad.pt/pt/news/joana-correia-maria-ramos-viktoriya-grabowska'
-    text: '3º Warm up'
+  - list: ""
+    url: "https://esad.pt/pt/news/joana-correia-maria-ramos-viktoriya-grabowska"
+    text: "3º Warm up"
     type: button
-  -
-    list: ''
-    url: 'https://10et.esad.pt/pt'
-    text: 'X Encontro de Tipografía do Porto'
+  - list: ""
+    url: "https://10et.esad.pt/pt"
+    text: "X Encontro de Tipografía do Porto"
     type: button
-intro: 'Este terceiro warm up do X Encontro de Tipografía do Porto desenvolverase entre o 17 e o 18 de outubro, e fai parte dos eventos satélite da Porto Design Biennale que está a ter lugar en diferentes lugares do Porto e Matosiños.'
+intro: "Este terceiro warm up do X Encontro de Tipografía do Porto desenvolverase entre o 17 e o 18 de outubro, e fai parte dos eventos satélite da Porto Design Biennale que está a ter lugar en diferentes lugares do Porto e Matosiños."
 slug: maria-ramos-estara-no-x-encontro-de-tipografia-do-porto
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2019-10-13T12:59:03+00:00

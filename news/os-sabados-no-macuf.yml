@@ -1,8 +1,7 @@
 id: 300
-title: 'Os sábados no Macuf'
+title: "Os sábados no Macuf"
 body:
-  -
-    text: |-
+  - text: |-
       Entre as opcións que nos propoñen están:
 
       \- Un obradoiro de cine impartido por Tonecho Otero, LUDIDÁCTICA.
@@ -11,12 +10,11 @@ body:
 
       \- Dous talleres de gravado a cargo de Isabel Pintado, un de iniciación, as mañás dos sábados do 5 ao 19 de novembro, e outro de técnicas aditivas, pero neste caso os venres pola tarde do 4 ao 25 de novembro. En ambos se admiten inscricións ata o 2 de novembro. Toda a información sobre a matrícula, prezos, programa pódese consultar nos seguintes enlaces: [Curso Criaturas Mutantes](http://www.macuf.es/htdocs/actividades_curso_criaturasMutantes.html) [Obradoiro de Gravado. Iniciación](http://www.macuf.es/htdocs/actividades_taller_grabadoIniciacion.html) [Obradoiro de Gravado. Técnicas Aditivas](http://www.macuf.es/htdocs/actividades_taller_grabado.html)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9f28628-macuf.png
-    text: ''
+    text: ""
     type: image
-intro: 'Unha variada programación de cursos e talleres é o que nos oferta o [Macuf](http://www.macuf.es/) para os sábados de outubro e novembro.'
+intro: "Unha variada programación de cursos e talleres é o que nos oferta o [Macuf](http://www.macuf.es/) para os sábados de outubro e novembro."
 slug: os-sabados-no-macuf
 tags: []
 lang: gl

@@ -1,14 +1,12 @@
 id: 1324
-title: 'A DAG conta con nova directiva para os vindeiros anos'
+title: "A DAG conta con nova directiva para os vindeiros anos"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/foto-asamblea-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A actual directiva está conformada por Raquel Boo como presidenta, José Antonio Pérez como vicepresidente, Daniel Pino como vicepresidente segundo, Paula Cantero como secretaria, Ana María Besada como tesoureira e seis vogalías: Pablo Villaverde, Uqui Permui, Noemí Cortizas, Carlos Lorenzo, Yago Concejo e Samuel Baltar. Ademais, Thais Suárez será a nova representante de DAG en READ.
 
       Un dos obxectivos principais desta etapa será dar maior visibilidade tanto á diversidade de disciplinas que integran a taxonomía do deseño, e que están representadas en DAG, como ao traballo do amplo abano de profesionais que a integran. Tamén se centrará en favorecer a relación entre as persoas asociadas para abarcar cunha óptica plural o marco de traballo diverso e en constante cambio que é o deseño.
@@ -21,7 +19,7 @@ body:
 
       A nova directiva agradece o traballo desenvolvido ata o momento polas directivas precedentes e recolle o apoio dado na Asemblea para abordar o compromiso adquirido para os próximos anos.
     type: text
-intro: 'A Asociación Galega de Deseño conta desde a pasada fin de semana con nova directiva. Unha formación de 11 persoas que asume o relevo logo de moitos anos de dedicación da directiva saínte, cuxo labor deixa encamiñadas iniciativas ás que se lles dará continuidade e outros proxectos xa consolidados.'
+intro: "A Asociación Galega de Deseño conta desde a pasada fin de semana con nova directiva. Unha formación de 11 persoas que asume o relevo logo de moitos anos de dedicación da directiva saínte, cuxo labor deixa encamiñadas iniciativas ás que se lles dará continuidade e outros proxectos xa consolidados."
 slug: a-dag-conta-con-nova-directiva-para-os-vindeiros-anos
 tags: []
 lang: gl

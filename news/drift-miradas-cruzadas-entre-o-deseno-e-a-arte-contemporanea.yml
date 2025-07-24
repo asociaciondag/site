@@ -1,24 +1,21 @@
 id: 828
-title: 'Drift. Miradas cruzadas entre o deseño e a arte contemporánea'
+title: "Drift. Miradas cruzadas entre o deseño e a arte contemporánea"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/drift.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A mostra fai un percorrido pola historia do deseño máis próximo e paradigmático, e explora as relacións que se teñen estabelecido entre as dúas disciplinas, arte e deseño, a través da obra de máis dun cento de creadores. Na exposición préstaselles unha atención especial aos creadores galegos representados nela por nomes como Tomás Alonso, Pepe Barro, Misha Bies Golas, Ventura Cores, Isaac Díaz Pardo, Maruja Mallo, Vítor Mejuto, Víctor Moscoso, María Ramos -xunto co sudafricano Noel Pretorius-, Luís Seoane, Álvaro Valiño e Marta Verde.
 
       Drift permanecerá aberta ao público entre o 4 e o 30 de decembro.
     type: text
-  -
-    list: ''
-    url: 'http://www.fundacionnaturgy.org/mac/exposiciones/futuras/drift-miradas-cruzadas-diseno-arte-contemporaneo/'
-    text: 'Páxina de Drift'
+  - list: ""
+    url: "http://www.fundacionnaturgy.org/mac/exposiciones/futuras/drift-miradas-cruzadas-diseno-arte-contemporaneo/"
+    text: "Páxina de Drift"
     type: button
-intro: 'Hoxe ás 20.00 h no Museo de Arte Contemporánea da Fundación Naturgy na Coruña inaugúrase Drift, unha exposición comisariada por David Barro que parte da premisa de que o deseño conquistou definitivamente o territorio da arte contemporánea.'
+intro: "Hoxe ás 20.00 h no Museo de Arte Contemporánea da Fundación Naturgy na Coruña inaugúrase Drift, unha exposición comisariada por David Barro que parte da premisa de que o deseño conquistou definitivamente o territorio da arte contemporánea."
 slug: drift-miradas-cruzadas-entre-o-deseno-e-a-arte-contemporanea
 tags: []
 lang: gl

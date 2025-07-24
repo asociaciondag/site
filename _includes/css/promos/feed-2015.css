@@ -2,136 +2,136 @@
 
 /* fondo */
 .promo-feed-2015 {
-	--green: #77C8C6;
-	--blue: #1B2540;
-	background: var(--green);
-	color: var(--blue);
-	padding-top: 5rem;
-	padding-bottom: 2rem;
+  --green: #77c8c6;
+  --blue: #1b2540;
+  background: var(--green);
+  color: var(--blue);
+  padding-top: 5rem;
+  padding-bottom: 2rem;
 
-	& .button-normal{
-		background-color: var(--blue);
-		&:hover{
-			background-color: white;
-			color: var(--blue);
-		}
-	}
+  & .button-normal {
+    background-color: var(--blue);
+    &:hover {
+      background-color: white;
+      color: var(--blue);
+    }
+  }
 
-	& .promo-header {
-		text-align: center;
-		white-space: nowrap;
-	}
+  & .promo-header {
+    text-align: center;
+    white-space: nowrap;
+  }
 
-	& .page-header:not(.is-sticky) {
-		color: var(--blue);
-		& path {
-			fill: var(--blue);
-		}
-	}
+  & .page-header:not(.is-sticky) {
+    color: var(--blue);
+    & path {
+      fill: var(--blue);
+    }
+  }
 
-	& .promo-titulo {
-		text-transform: uppercase;
-		color: var(--blue);
-		font-size: var(--fs-48);
-		margin: 0;
-		line-height: 1;
+  & .promo-titulo {
+    text-transform: uppercase;
+    color: var(--blue);
+    font-size: var(--fs-48);
+    margin: 0;
+    line-height: 1;
 
-		& strong {
-			color: white;
-		}
-	}
+    & strong {
+      color: white;
+    }
+  }
 
-	& .promo-subtitulo {
-		& p {
-			margin-top: 0;
-		}
-	}
+  & .promo-subtitulo {
+    & p {
+      margin-top: 0;
+    }
+  }
 
-	& .promo-participantes {
-		list-style: none;
-		margin: 0 auto;
-		padding: 1em;
-		min-width: 160px;
-		max-width: 12em;
-		display: flex;
-		flex-wrap: wrap;
-		align-content: center;
-		font-size: var(--fs-26);
-		line-height: 1;
-		font-weight: var(--fw-bold);
-		background: url('../../projects/feed-2015/img/chave.svg') no-repeat center;
-		background-size: contain;
+  & .promo-participantes {
+    list-style: none;
+    margin: 0 auto;
+    padding: 1em;
+    min-width: 160px;
+    max-width: 12em;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    font-size: var(--fs-26);
+    line-height: 1;
+    font-weight: var(--fw-bold);
+    background: url("../../projects/feed-2015/img/chave.svg") no-repeat center;
+    background-size: contain;
 
-		& > li {
-			padding: .3em 0;
-			white-space: nowrap;
-			width: 100%;
-			box-sizing: border-box;
-			text-align: center;
+    & > li {
+      padding: 0.3em 0;
+      white-space: nowrap;
+      width: 100%;
+      box-sizing: border-box;
+      text-align: center;
 
-			&:nth-child(1) {
-				text-align: left;
-			}
+      &:nth-child(1) {
+        text-align: left;
+      }
 
-			&:nth-child(2),
-			&:nth-child(4),
-			&:nth-child(7) {
-				padding-left: 10%;
-				text-align: left;
-			}
+      &:nth-child(2),
+      &:nth-child(4),
+      &:nth-child(7) {
+        padding-left: 10%;
+        text-align: left;
+      }
 
-			&:nth-child(5) {
-				text-align: right;
-			}
+      &:nth-child(5) {
+        text-align: right;
+      }
 
-			&:nth-child(6) {
-				padding-left: 20%;
-				text-align: left;
-			}
+      &:nth-child(6) {
+        padding-left: 20%;
+        text-align: left;
+      }
 
-			&:nth-child(8) {
-				padding-right: 15%;
-				text-align: right;
-			}
-		}
-	}
+      &:nth-child(8) {
+        padding-right: 15%;
+        text-align: right;
+      }
+    }
+  }
 
-	@media (--mobile-landscape) {
-		& .promo-participantes {
-			font-size: 2.5rem;
+  @media (--mobile-landscape) {
+    & .promo-participantes {
+      font-size: 2.5rem;
 
-			& > li {
-				padding-top: .1em;
-				padding-bottom: .1em;
-			}
-		}
-	}
+      & > li {
+        padding-top: 0.1em;
+        padding-bottom: 0.1em;
+      }
+    }
+  }
 
-	@media (--tablet) {
-		& .promo-header {
-			text-align: left;
-			& strong {
-				display: block;
-			}
-		}
-		& .promo-titulo {
-			font-size: 5rem;
-		}
-		& .promo-content {
-			display: flex;
-			justify-content: center;
-			align-items: center;
-		}
-		& .promo-participantes {
-			margin: 0;
-		}
-	}
-	@media (--tablet-landscape) {
-		& .promo-header {
-			margin-right: 4rem;
-			& strong {
-				display: inline;
-			}
-		}
-	}
+  @media (--tablet) {
+    & .promo-header {
+      text-align: left;
+      & strong {
+        display: block;
+      }
+    }
+    & .promo-titulo {
+      font-size: 5rem;
+    }
+    & .promo-content {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    & .promo-participantes {
+      margin: 0;
+    }
+  }
+  @media (--tablet-landscape) {
+    & .promo-header {
+      margin-right: 4rem;
+      & strong {
+        display: inline;
+      }
+    }
+  }
 }

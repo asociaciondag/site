@@ -1,27 +1,24 @@
 id: 800
-title: 'O lóxico é ser da DAG ;)'
+title: "O lóxico é ser da DAG ;)"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-presentacion-carlos-el-rojo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Tras pasar a miña época de estudante a decorar os meus libros, apuntamentos e cartafois, o lóxico era adicarme ao deseño gráfico. Así que comecei a traballar en pequenos estudios ata entrar, o lóxico en teoría, nunha axencia de publicidade e así seguir formándome. O seguinte, tamén lóxico polas cousas da crise, foi montarme pola miña conta e aprender o que non está escrito para, por fin, abrir a miña propia empresa. Loxicamente. Agora son director de arte e socio fundador de [Coma Comunicación Creativa](http://www.coma.gal/) e o que faltaba era darme de alta como socio na DAG, cousa que facía moito tempo quería facer, pero que, por lóxica, non tocaba.
 
       Tamén é posible que haxa alguén que diga que o único lóxico tería sido non pintar nos libros, fincar os cóbados e sacar unhas oposicións a calquera cousa para despois gozar dos moscosos e dos cafés de hora e media. Pero neste espazo somos xente creativa e ninguén pensa dese xeito, non si? NON SI?
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/carlos-lorenzo/'
-    text: 'Perfil de socio na DAG'
+  - list: ""
+    url: "https://dag.gal/gl/carlos-lorenzo/"
+    text: "Perfil de socio na DAG"
     type: button
-intro: 'Que haxa profesionais como Carlos que pensen que asociarse á DAG é un dos pasos lóxicos na carreira de calquera deseñador énchenos de orgullo. Benvindo!'
+intro: "Que haxa profesionais como Carlos que pensen que asociarse á DAG é un dos pasos lóxicos na carreira de calquera deseñador énchenos de orgullo. Benvindo!"
 slug: o-loxico-e-ser-da-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2018-03-21T19:39:05+00:00

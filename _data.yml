@@ -1,4 +1,4 @@
-layout: layouts/base.njk
+layout: layouts/base.vto
 lang: [es, gl]
 
 gl:
@@ -27,11 +27,46 @@ gl:
     footer:
       follow: "Síguenos tamén en:"
       address: |
-        Centro sociocultural A Trisca (2º andar)  
-        Corredoira das Fraguas, 92  
+        Centro sociocultural A Trisca (2º andar)
+        Corredoira das Fraguas, 92
         15703 Santiago de Compostela
 
-        Teléfono: [691 230 421](tel:691230421)  
+        Teléfono: [691 230 421](tel:691230421)
+        Mail: [info@dag.gal](mailto:info@dag.gal)
+      read_member: É membro da
+      forum: Foro DAG
+      rss: RSS
+es:
+  t:
+    dag: Asociación Galega de Deseño
+    cookies:
+      text: |
+        En cumprimento da Lei 34/2002, de Servizos da Sociedade da Información, recordámoslle que este sitio web utiliza cookies co fin de mellorar os nosos servizos.
+      accept: Entendido
+    menu:
+      about: Acerca da DAG
+      news: Novas
+      projects: Proxectos
+      members: Socios e socias
+      forum: Foro
+    home:
+      more_news: Ver máis novas
+    news:
+      news: Novas
+      articles: Artigos
+      all_tags: Todas as etiquetas
+    members:
+      members: Socios e socias
+      projects: Proxectos
+      all_tags: Todas as etiquetas
+    footer:
+      follow: "Síguenos tamén en:"
+      address: |
+        Centro sociocultural A Trisca (2º andar)
+        Corredoira das Fraguas, 92
+        15703 Santiago de Compostela
+
+        Teléfono: [691 230 421](tel:691230421)
         Mail: [info@dag.gal](mailto:info@dag.gal)
       read_member: É membro da
       forum: Foro DAG

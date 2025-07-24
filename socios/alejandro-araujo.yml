@@ -4,27 +4,22 @@ contact: |-
 
   <a.araujo@adosproyectos.com>
 links:
-  -
-    text: 'ADOS Proyectos'
-    url: 'http://adosproyectos.es'
+  - text: "ADOS Proyectos"
+    url: "http://adosproyectos.es"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/adosproyectos/'
+  - text: Instagram
+    url: "https://www.instagram.com/adosproyectos/"
     type: link
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/Ados-Proyectos-103281636723601/'
+  - text: Facebook
+    url: "https://www.facebook.com/Ados-Proyectos-103281636723601/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/company/ados-proyectos'
+  - text: Linkedin
+    url: "https://www.linkedin.com/company/ados-proyectos"
     type: linkedin
-  -
-    text: Pinterest
-    url: 'https://www.pinterest.com/adosproyectos/'
+  - text: Pinterest
+    url: "https://www.pinterest.com/adosproyectos/"
     type: link
-name: 'Alejandro Araujo'
+name: "Alejandro Araujo"
 slug: alejandro-araujo
 avatarBig: null
 avatar: /img/avatars/aaraujo.jpg
@@ -43,5 +38,5 @@ bio.es: |-
   Interiorista en Ados Proyectos. Técnico Superior de Proyectos y Dirección de obras de decoración, Diseño de Interiores por la Escuela de Artes y Diseño Ramón Falcón (Lugo).
 
   Después de trece años trabajando en una multinacional, realizando proyectos de interiorismo, reformas y obra nueva, fundé en 2013 Ados Proyectos, el estudio de interiorismo donde, junto a un equipo de profesionales, realizo proyectos de interiorismo, de iluminación, diseño de mobiliario y dirección de obra. Llevamos a cabo proyectos totalmente personalizados, comprendiendo desde proyectos residenciales, industriales y sanitarios, hasta comerciales, oficinas y espacios públicos.
-job.gl: 'Interiorista en ADOS Proyectos'
-job.es: 'Interiorista en Ados Proyectos'
+job.gl: "Interiorista en ADOS Proyectos"
+job.es: "Interiorista en Ados Proyectos"

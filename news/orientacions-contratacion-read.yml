@@ -1,29 +1,25 @@
 id: 965
-title: 'Orientacións para a contratación de deseñadores e deseñadoras'
+title: "Orientacións para a contratación de deseñadores e deseñadoras"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/ilustracion-horizontal.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A idea desta pequena guía é servir de referencia para empezar con bo pé un proxecto de deseño. Este documento complementa a Guía para Convocatorias de Deseño que xa se realizara no seu momento para describir de maneira sinxela como funciona a «Chamada a proxecto» como fórmula de contratación.
 
       A infografía utilizada para ilustrar as pautas a seguir para a contratación dun deseñador ou dunha deseñadora inclúe dous listados, un de cousas que sí se poden facer e outro de cousas que non se deben facer. [Este](https://www.designread.es/wp-content/uploads/2020/02/Anuncio-contratacion-READ-galego.pdf) e outros documentos para a promoción de Boas Prácticas no deseño están dispoñibles para consulta e libre descarga na [páxina web de READ](https://www.designread.es/categoria-documentos/buenas-practicas/).
     type: text
-  -
-    list: ''
-    url: 'https://www.designread.es/wp-content/uploads/2020/02/Anuncio-contratacion-READ-galego.pdf'
-    text: 'Documento de orientacións'
+  - list: ""
+    url: "https://www.designread.es/wp-content/uploads/2020/02/Anuncio-contratacion-READ-galego.pdf"
+    text: "Documento de orientacións"
     type: button
-  -
-    list: ''
+  - list: ""
     file: /files/gcd-gl.pdf
-    text: 'Guía para Convocatorias de Deseño'
+    text: "Guía para Convocatorias de Deseño"
     type: file
-intro: 'READ, a Rede Española de Asociacións de Deseño, publica un novo documento que serve para promover as boas prácticas na contratación dunha deseñadora ou dun deseñador.'
+intro: "READ, a Rede Española de Asociacións de Deseño, publica un novo documento que serve para promover as boas prácticas na contratación dunha deseñadora ou dun deseñador."
 slug: orientacions-contratacion-read
 tags: []
 lang: gl

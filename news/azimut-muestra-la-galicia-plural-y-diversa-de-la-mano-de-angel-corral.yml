@@ -1,14 +1,12 @@
 id: 1185
-title: 'AZIMUT muestra la Galicia plural y diversa de la mano de Ángel Corra​l​ '
+title: "AZIMUT muestra la Galicia plural y diversa de la mano de Ángel Corra​l​ "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto02-azimut.jpeg
-    text: 'Yugen Kala y MounQup'
+    text: "Yugen Kala y MounQup"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [AZIMUT](https://azimut.gal/) son una serie de conciertos íntimos para ver online en los que se resalta el paso del tiempo en diferentes espacios arquitectónicos gallegos que fueron testigos de una historia y que por diferentes circunstancias se encuentran actualmente en estado de abandono o desuso. El proyecto​ ​pretende fusionar este pasado con intervenciones de artistas gallegos de diferentes disciplinas y acercar la vanguardia a estos lugares para resignificarlos. [Ángel Corral](https://dag.gal/es/angel-corral/) se ocupa de la dirección creativa, dirección de arte y diseño gráfico junto a Adrián Fragueiro (encargado de la producción) de la empresa Doppler Gestión Cultural.
 
       El proyecto se plasma a través de cápsulas digitales que combinan el _live show_ con la _performance_. Poemas visuales sin público que buscan mostrar la experiencia global de la historia y la interpretación de los artistas en cada lugar. Son piezas para el disfrute digital, rápidas, directas y virales, con una duración de 5 a 15 minutos que se visualizan a través de [Youtube](https://www.youtube.com/channel/UCt7tEiwsPaf2yIKGxbkpRMA/featured), [Instagram](https://www.instagram.com/azimut.gal/) y [Facebook](https://www.facebook.com/azimut.gal)
@@ -17,10 +15,10 @@ body:
 
       La segunda cápsula se desarrolla en el Poblado de San Cristovo, en Chandrexa de Queixa, en Ourense, y está protagonizada por los hermanos Yugen Kala, en el foco de la vanguardia internacional de la música​ electrónica, junto con la artista visual y programadora Marta Verde. San Cristovo está ​formado por 12 viviendas, con garajes y gallineros, destinadas a alojar a los trabajadores de la empresa hidroeléctrica Saltos de Sil. Llaman la atención el casino, la piscina o la gran iglesia en el centro, vestigios de la grandiosidad del poblado en aquella época que, hasta finales de los 70, estuvo lleno de vida.
     type: text
-intro: 'El proyecto, dirigido por nuestro socio ​​Ángel Corral, pretende desarrollarse como un escaparate cultural que muestre la Galicia más plural y diversa, combinando arquitectura con interpretaciones de artistas gallegos, tradición y vanguardia, destacando el patrimonio natural, humano y cultural.'
+intro: "El proyecto, dirigido por nuestro socio ​​Ángel Corral, pretende desarrollarse como un escaparate cultural que muestre la Galicia más plural y diversa, combinando arquitectura con interpretaciones de artistas gallegos, tradición y vanguardia, destacando el patrimonio natural, humano y cultural."
 slug: azimut-muestra-la-galicia-plural-y-diversa-de-la-mano-de-angel-corral
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2022-11-14T16:56:21+00:00

@@ -1,14 +1,12 @@
 id: 1253
-title: 'Galicia, procesos e formas, la exposición con sello gallego en la Porto Design Biennale'
+title: "Galicia, procesos e formas, la exposición con sello gallego en la Porto Design Biennale"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/procesos-e-formas-image.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La Porto Design Biennale está promovida por la Cámara Municipal de Porto y la Cámara Municipal de Matosinhos, y organizada por la ESAD Idea y la ESAD Matosinhos. ​Este año cuenta con Galicia como país invitado y, además de la exposición, contará con la edición de u​n​ catálog​o y la organización de talleres y encuentros alrededor del diseño para la innovación en Galicia. ​
 
       La exposición _Galicia, procesos e formas_ es un proyecto expositivo que traza un camino por el pasado, presente y el futuro​ del diseño gallego a través de profesionales y empresas clave por su apuesta por el diseño como herramienta de innovación desde los años veinte del siglo pasado hasta la actualidad. ​​
@@ -21,12 +19,11 @@ body:
 
       Para este proyecto expositivo, la Porto Design Biennale cuenta con el apoyo de la Xunta de Galicia a través de la Axencia Galega de Innovación, de la Fundación Artesanía de Galicia e de la Fundación DIDAC.
     type: text
-  -
-    list: ''
-    url: 'https://www.portodesignbiennale.pt/'
-    text: 'Web del evento'
+  - list: ""
+    url: "https://www.portodesignbiennale.pt/"
+    text: "Web del evento"
     type: button
-intro: 'El próximo 19 de octubre se inaugura en la galería municipal d​e​ Matosinhos la exposición _Galicia, procesos e formas_, comisariada por David Barro y en la que podremos ver trabajos de socios y socias de DAG. La exposició​n podrá visitarse hasta el 3 de diciembre.'
+intro: "El próximo 19 de octubre se inaugura en la galería municipal d​e​ Matosinhos la exposición _Galicia, procesos e formas_, comisariada por David Barro y en la que podremos ver trabajos de socios y socias de DAG. La exposició​n podrá visitarse hasta el 3 de diciembre."
 slug: galicia-procesos-y-formas-la-exposicion-con-sello-gallego-en-la-porto-design-biennale
 tags: []
 lang: es

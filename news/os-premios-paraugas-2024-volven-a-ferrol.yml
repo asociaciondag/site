@@ -1,14 +1,12 @@
 id: 1340
-title: 'Os Premios Paraugas 2024 volven a Ferrol'
+title: "Os Premios Paraugas 2024 volven a Ferrol"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/premios-paraugas-ixedicion.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       As propostas que se presenten teñen que estar elaboradas entre o 1 de novembro de 2023 e o 15 de outubro de 2024, coincidindo coa data de peche de candidaturas. As categorías son as de sempre: Impresión, Deseño, Creatividade, Márketing, Comunicación e Eventos, e poden presentar proxectos tanto as entidades que os desenvolven como as empresas cliente. Hai que destacar tamén a categoría de Novos Talentos e o Premio Paraugas de Ouro, creados na edición anterior; mais este ano, a novidade é que hai un Premio Especial do Público, para o proxecto finalista máis votado.
 
       En total, entregaranse 18 premios, e na categoría de Deseño temos:
@@ -16,20 +14,18 @@ body:
       - **Premio Paraugas ao Mellor Deseño Gráfico**. ​​Proxectos profesionais de identidade corporativa, embalaxes (no aspecto visual), editorial, tipografía, cartelería ou calquera outra aplicación que empregue a linguaxe visual gráfica como fundamento na transmisión de mensaxes ou ideas.
       - **Premio Paraugas ao Mellor Deseño de Produto ou Industrial**. Proxectos profesionais de produtos, elementos de iluminación, mobiliario, sinalética, embalaxe (no aspecto estrutural), maquinaria, solucións de escenografías, exposicións, stands, punto de venda ou calquera outro obxecto ou espazo físico que busque mellorar a súa funcionalidade conxugando os procesos de fabricación ou construción coas necesidades formais ou comunicativas.
       - **Premio Paraugas ao mellor Deseño Dixital**. Proxectos profesionais de aplicacións para móbiles, páxinas web, interfaces de _software_ ou calquera outra aplicación dixital que empregue a linguaxe visual gráfica como ferramenta para facilitar a interacción e a usabilidade con ela.
-       
+
       Esta é a novena edición duns premios que foron creados polo Clúster da Comunicación en 2016 con idea de pór en valor o traballo que se fai en Galicia nas categorías que representa como entidade.
     type: text
-  -
-    list: ''
-    url: 'https://premios.clustercomunicacion.gal/wp-content/uploads/2024/09/BASES-IX-PREMIOS-PARAUGAS.pdf'
-    text: 'Bases dos premios'
+  - list: ""
+    url: "https://premios.clustercomunicacion.gal/wp-content/uploads/2024/09/BASES-IX-PREMIOS-PARAUGAS.pdf"
+    text: "Bases dos premios"
     type: button
-  -
-    list: ''
-    url: 'https://premios.clustercomunicacion.gal/'
-    text: 'Web Premios Paraugas'
+  - list: ""
+    url: "https://premios.clustercomunicacion.gal/"
+    text: "Web Premios Paraugas"
     type: button
-intro: 'O próximo 22 de novembro terá lugar no Teatro Jofre de Ferrol a gala de entrega dos Premios Paraugas 2024. Os e as profesionais interesadas poderán inscribir traballos ata o 15 de outubro.'
+intro: "O próximo 22 de novembro terá lugar no Teatro Jofre de Ferrol a gala de entrega dos Premios Paraugas 2024. Os e as profesionais interesadas poderán inscribir traballos ata o 15 de outubro."
 slug: os-premios-paraugas-2024-volven-a-ferrol
 tags: []
 lang: gl

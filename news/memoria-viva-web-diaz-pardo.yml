@@ -1,14 +1,12 @@
 id: 1036
 title: "«Memoria viva», nova web\tsobre a vida e obra de Isaac Díaz Pardo"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/webmemoriaviva.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O pasado 7 de decembro presentábase na Cidade da Cultura a nova páxina web adicada á figura de todo un referente histórico do deseño en Galicia: Isaac Díaz Pardo (22 de agosto de 1920 – 5 de xaneiro de 2012), impulsor de Sargadelos, Ediciós do Castro, o Instituto Galego de Información, o Laboratorio de Formas ou o Museo Galego de Arte Contemporánea Carlos Maside.
 
       Esta nova web recolle material sobre a vida e a obra deste polifacético creador e ten como obxectivo facer accesible a todas e todos o seu legado. O sitio funciona como centro dixital de recursos reunindo todo o universo creativo de Díaz Pardo e podendo consultar nel documentos históricos, fotografías, audiovisuais e material didáctico.
@@ -25,12 +23,11 @@ body:
 
       A páxina web «Memoria viva» está dispoñible actualmente en galego e castelán e próximamente tamén o estará en inglés.
     type: text
-  -
-    list: ''
-    url: 'https://www.isaacdiazpardo.gal/gl'
-    text: 'Web Memoria viva'
+  - list: ""
+    url: "https://www.isaacdiazpardo.gal/gl"
+    text: "Web Memoria viva"
     type: button
-intro: 'Esta iniciativa súmase ás homenaxes que se están a levar a cabo este ano con motivo do centenario do nacemento do autor. O proxecto estivo dirixido por María Ámerica e contou coa participación dos socios da DAG Dani Bembibre e David Silvosa, para o que usaron a tipografía de Marcos Dopico.'
+intro: "Esta iniciativa súmase ás homenaxes que se están a levar a cabo este ano con motivo do centenario do nacemento do autor. O proxecto estivo dirixido por María Ámerica e contou coa participación dos socios da DAG Dani Bembibre e David Silvosa, para o que usaron a tipografía de Marcos Dopico."
 slug: memoria-viva-web-diaz-pardo
 tags: []
 lang: gl

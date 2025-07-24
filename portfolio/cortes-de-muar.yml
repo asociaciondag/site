@@ -1,9 +1,8 @@
 id: 1
-title: 'Cortes de Muar'
+title: "Cortes de Muar"
 slug: cortes-de-muar
 body:
-  -
-    text: |-
+  - text: |-
       Cortes de Muar é o resultado do relevo da segunda xeración de queixeiros dunha queixería artesá de Silleda. O proxecto consistiu en desenvolver o concepto de venda completo con eles, desde o nome, pasando polas aplicacións gráficas até o packaging. Comezamos por xerar unha historia que supuxese o punto de partida para construir o resto de elementos.
 
       O produto depende directamente da calidade do leite das vacas da zona, ademais do bo facer dos artesáns, polo que buscamos a maneira de homenaxear directamente ás protagonistas, xogando co dobre sentido da palabra “corte”, convertíndoas en raíñas. Como a queixería non ten produción propia de leite, senón que se abastece dos produtores da zona, escollimos os nomes máis populares de vacas galegas que comezasen por “M” e xeramos un universo arredor desta letra que evoca o seu muar.
@@ -12,27 +11,23 @@ body:
 
       <http://cortesdemuar.com/>
     type: text
-  -
-    image: /img/portfolio/images/5554dff48b70b-cortes_muar_1.jpg
-    text: ''
+  - image: /img/portfolio/images/5554dff48b70b-cortes_muar_1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554dff48b70b-cortes_muar_2.jpg
-    text: ''
+  - image: /img/portfolio/images/5554dff48b70b-cortes_muar_2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554dff48b70b-cortes_muar_3.jpg
-    text: ''
+  - image: /img/portfolio/images/5554dff48b70b-cortes_muar_3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554dff48b70b-cortes_muar_4.jpg
-    text: ''
+  - image: /img/portfolio/images/5554dff48b70b-cortes_muar_4.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55854fa596742-5554dff48b70b-cortes-muar-4.jpg
 tags:
   - Embalaxe
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 3
   - 18
@@ -40,13 +35,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'Ekinocio Comunicación'
-  -
-    name: Cliente
-    value: 'Germán e Rita García'
-  -
-    name: Ano
-    value: '2012'
+  - name: Estudio
+    value: "Ekinocio Comunicación"
+  - name: Cliente
+    value: "Germán e Rita García"
+  - name: Ano
+    value: "2012"
 draft: true

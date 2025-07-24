@@ -1,8 +1,7 @@
 id: 257
-title: 'Publicada en el BOE la convocatoria de los Premios Nacionales de Diseño 2011'
+title: "Publicada en el BOE la convocatoria de los Premios Nacionales de Diseño 2011"
 body:
-  -
-    text: |-
+  - text: |-
       Podrán ser candidatos en la modalidad profesional, los profesionales o equipos de profesionales de nacionalidad española, independientemente del país donde desarrollen su actividad, con:
 
       a) Trayectoria constante, reconocida y notoria tanto entre otros profesionales del diseño, como en el mercado y en los medios de comunicación, durante al menos 15 años. b) Aportación ampliamente reconocida al progreso del diseño y la innovación españoles, mediante publicaciones, actividades de investigación o docencia.
@@ -13,17 +12,15 @@ body:
 
       Las candidaturas deberán ser presentadas por personas o instituciones distintas al candidato. **La cuantía** La cuantía de los Premios Nacionales de Diseño en la modalidad profesional es de 30.000 euros, mientras que en la modalidad empresa tiene unicamente carácter honorífico. **Fecha límite** El plazo para la presentación de candidaturas finaliza el 16 de septiembre. Descarga la convocatoria del BOE en PDF:
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9ded999-pnd2011.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9ded999-convocatoria-premios-nacionais-de-deseno-2011.pdf
     text: Descargar
     type: file
-intro: 'Desde el pasado 14 de julio, el día siguiente a la publicación en el BOE de la convocatoria, permanece abierto el plazo para la presentación de candidaturas a los Premios Nacionales de Diseño 2011 en sus dos modalidades: profesional y empresa.'
+intro: "Desde el pasado 14 de julio, el día siguiente a la publicación en el BOE de la convocatoria, permanece abierto el plazo para la presentación de candidaturas a los Premios Nacionales de Diseño 2011 en sus dos modalidades: profesional y empresa."
 slug: publicada-en-el-boe-la-convocatoria-de-los-premios-nacionales-de-diseno-2011
 tags: []
 lang: es

@@ -1,10 +1,9 @@
 id: 162
-title: 'Fadas de mel'
+title: "Fadas de mel"
 slug: fadas-de-mel
 body:
-  -
-    image: /img/portfolio/images/573f35ac25ab0-presentacion-fadas-def-bh.jpg
-    text: ''
+  - image: /img/portfolio/images/573f35ac25ab0-presentacion-fadas-def-bh.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/573f35ac25943-presentacion-fadas-def2-bh.jpg
 tags: []

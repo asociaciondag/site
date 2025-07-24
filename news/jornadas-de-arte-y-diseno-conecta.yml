@@ -1,14 +1,12 @@
 id: 805
-title: 'Jornadas de Arte y Diseño Conecta'
+title: "Jornadas de Arte y Diseño Conecta"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/conecta-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El programa de este año está formado por seis conferencias y dos talleres que serán impartidos por profesionales relacionados con las diferentes áreas que se ofertan en el centro: Diseño de Interiores, Grabado, Serigrafía, Diseño Gráfico, Fotografía y Cerámica.
 
       **Jueves, 12 de abril de 2018**
@@ -37,12 +35,11 @@ body:
 
       Las jornadas son gratuitas y están abiertas a todas las personas interesadas.
     type: text
-  -
-    list: ''
-    url: 'http://escoladeartelugo.com/conecta/'
-    text: 'Web de Conecta'
+  - list: ""
+    url: "http://escoladeartelugo.com/conecta/"
+    text: "Web de Conecta"
     type: button
-intro: 'Desde mañana y hasta el 24 de abril se desarrollarán en Lugo las Jornadas de Arte y Diseño Conecta que organiza la [EASD Ramón Falcón](http://escoladeartelugo.com/).'
+intro: "Desde mañana y hasta el 24 de abril se desarrollarán en Lugo las Jornadas de Arte y Diseño Conecta que organiza la [EASD Ramón Falcón](http://escoladeartelugo.com/)."
 slug: jornadas-de-arte-y-diseno-conecta
 tags: []
 lang: es

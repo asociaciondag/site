@@ -1,8 +1,7 @@
 id: 318
-title: '#charlasnaDAG sobre retículas con Segundo Fdez'
+title: "#charlasnaDAG sobre retículas con Segundo Fdez"
 body:
-  -
-    text: |-
+  - text: |-
       Desta volta, o deseñador que nos acompañará será Segundo Fdez, quen falará sobre retículas, un dos temas xunto a tipografía que máis lle interesan. Precisamente este interese é o que está detrás de proxectos persoais coma [reticulas.com](http://www.reticulas.com/), por agora unha ferramenta desenvolvida baixo licenza Creative Commons que permite aplicar o concepto de retículas á construción de páxinas web mediante CSS. Na charla ademais de facer un percorrido pola evolución do denominado esqueleto do deseño, polas súas partes e polos distintos tipos de retículas en deseño gráfico e web, tamén dedicará un pouco de tempo a comentar a preferencia por este tipo de estruturas que amosan deseñadores e tipógrafos como Jose Müller-Brockmanan ou Jan Tschichold, e por estudios contemporáneos como [Experimental Jetset](http://www.experimentaljetset.nl/) ou [La Mosca](http://www.lamosca.com/). Segundo Fdez fundou en 2006 [Sond3](http://www.sond3.com/es/), xunto con Natalia Crecente e Diego Vilariño, un estudio localizado en Lugo e que desenvolve a súa actividade no ámbito do deseño gráfico, principalmente gráfica aplicada, identidade, editorial, e web. Un medio este último no que recentemente foron premiados polo xurado da [II Bienal Iberoamericana de Deseño](http://www.bid-dimad.org/) polo seu traballo para [Hachedevisual](http://www.hachedevisual.com/). Segundo tamén ten un blog, de nome [Vidagrafica](http://vidagrafica.com/), centrado en temas de deseño, pero no que tamén se tocan cuestións relativas a outras áreas como ilustración, arquitectura, moda, fotografía, etc. Ficha da 3º charla Título: Retículas, o esqueleto do deseño Deseñador convidado: Segundo Fdez, deseñador e socio fundador de [Sond3](http://www.sond3.com/es/) desde o 2006 Hora: 19.00 Día: mércores, 30 de novembro de 2011 Lugar: Centro sociocultural A Trisca Corredoira das Fraguas, 92 15703 Santiago de Compostela Entrada libre ata completar a capacidade da sala
 
       A charla tamén se poderá seguir en streaming en: <http://www.ustream.tv/channel/charlas-na-dag>
@@ -11,17 +10,15 @@ body:
 
       Descarga o programa completo de todas as #charlasnaDAG:
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9fcb3ee-charlasdag.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9fcb3ee-charlasnadag.pdf
     text: Descargar
     type: file
-intro: 'Este mércores, 30 de novembro, volven as #charlasnaDAG á Trisca.'
+intro: "Este mércores, 30 de novembro, volven as #charlasnaDAG á Trisca."
 slug: charlasnadag-sobre-reticulas-con-segundo-fdez
 tags: []
 lang: gl

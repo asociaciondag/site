@@ -1,9 +1,8 @@
 id: 94
-title: 'II Festival de Jazz Mariñas'
+title: "II Festival de Jazz Mariñas"
 slug: ii-festival-de-jazz-marinas
 body:
-  -
-    text: |-
+  - text: |-
       No ano 2009 encárgannos o deseño do material de promoción da II Mostra Jazz Mariñas.
 
       Non queriamos ser alleos á cultura visual do Jazz moderno, á que Reid Miles e Francis Wolff contribuíron nos anos cincuenta e sesenta coas súas portadas para os discos do selo _Blue Note_. Deseños, nos que tipografía, cor e fotografía son protagonistas.
@@ -16,25 +15,20 @@ body:
 
       (sirva o vídeo de proba para os escépticos… puro _free jazz_)
     type: text
-  -
-    image: /img/portfolio/images/555a4cb1d14b9-038.jpg
-    text: ''
+  - image: /img/portfolio/images/555a4cb1d14b9-038.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555a4cb1d17de-048.jpg
-    text: ''
+  - image: /img/portfolio/images/555a4cb1d17de-048.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555a4cb1d1aa0-054.jpg
-    text: ''
+  - image: /img/portfolio/images/555a4cb1d1aa0-054.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555a4cb1d1d4b-064.jpg
-    text: ''
+  - image: /img/portfolio/images/555a4cb1d1d4b-064.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555a4cb1d1f54-0110.jpg
-    text: ''
+  - image: /img/portfolio/images/555a4cb1d1f54-0110.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859c576ad9d-555a4c86e1301-0110.jpg
 tags:
@@ -46,13 +40,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Desescribir
-  -
-    name: Cliente
-    value: 'Consorcio das Mariñas. Deputación da Coruña'
-  -
-    name: Ano
-    value: '2009'
+  - name: Cliente
+    value: "Consorcio das Mariñas. Deputación da Coruña"
+  - name: Ano
+    value: "2009"
 draft: true

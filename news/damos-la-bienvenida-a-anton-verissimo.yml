@@ -1,14 +1,12 @@
 id: 1147
-title: 'Damos la bienvenida a Antón Veríssimo'
+title: "Damos la bienvenida a Antón Veríssimo"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/anton-verrisimo-740.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ¡Hola a los y las asociadas de la DAG!
 
       Soy Antón Veríssimo y soy el director creativo de VRANDSS, agencia de _branding_ de Vigo.
@@ -21,10 +19,10 @@ body:
 
       ¡Un placer conoceros a todos y todas!
     type: text
-intro: 'Aunque ya lleva un tiempo con nosotros, estamos encantadas de presentar hoy oficialmente como nuevo socio a [Antón Veríssimo](https://dag.gal/gl/anton-verissimo/), que desde su estudio [VRANDSS](https://vrandss.com/) trabaja para crear marcas memorables. ¡Bienvenido Antón!'
+intro: "Aunque ya lleva un tiempo con nosotros, estamos encantadas de presentar hoy oficialmente como nuevo socio a [Antón Veríssimo](https://dag.gal/gl/anton-verissimo/), que desde su estudio [VRANDSS](https://vrandss.com/) trabaja para crear marcas memorables. ¡Bienvenido Antón!"
 slug: damos-la-bienvenida-a-anton-verissimo
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2022-05-16T11:59:54+00:00

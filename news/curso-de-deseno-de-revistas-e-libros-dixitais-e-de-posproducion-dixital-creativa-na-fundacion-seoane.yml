@@ -1,14 +1,12 @@
 id: 438
-title: 'Curso de deseño de revistas e libros dixitais e de posprodución dixital creativa na Fundación Seoane'
+title: "Curso de deseño de revistas e libros dixitais e de posprodución dixital creativa na Fundación Seoane"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       A empresa de formación [Cultura Visual](http://www.culturavisual.es/) está organizando para o vindeiro mes de xuño na Fundación Seoane da Coruña dous novos cursos. Trátase de: - Deseñando revistas e libros dixitais con Mag+ que impartirá a deseñadora de produto María Cerezo de [Ubicuo Studio](http://www.ubicuostudio.com/) os días 14, 15 e 16 de xuño: <http://www.culturavisual.es/desenando-revistas-e-libros-dixitais-con-magplus/> - Posprodución dixital creativa, a cargo de [Ruth Rovirosa](http://www.ruthrovirosa.com/Index_s.html), e que se celebrará o 21, 22 e 23 de xuño: <http://www.culturavisual.es/posproduccion-digital-creativa/> Ambos os cursos son presenciais e teñen unha duración de 16 horas que se desenvolverán no seguinte horario: Venres: de 16.00 a 20.00 h Sábado: 10.00 a 14.00 e 16.00 a 20.00 h Domingo: 10.00 a 14.00 h O importe da matrícula é de 120 euros, pero os socios da DAG que queiran participar en calquera destas dúas actividades teñen un desconto do 10%.
 
       Formulario de matrícula: <http://www.culturavisual.es/matricula/>
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa3a6a45-maria-cerezo.png
 intro: null
 slug: curso-de-deseno-de-revistas-e-libros-dixitais-e-de-posproducion-dixital-creativa-na-fundacion-seoane

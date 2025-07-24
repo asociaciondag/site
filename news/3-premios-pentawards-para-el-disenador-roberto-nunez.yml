@@ -1,29 +1,26 @@
 id: 1349
-title: '3 Premios Pentawards para el diseñador Roberto Núñez'
+title: "3 Premios Pentawards para el diseñador Roberto Núñez"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/01-premio-pentawards-branding-packaging-roberto-nunez-studio.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El nuevo posicionamento de la marca, la renovación de su identidad y el nuevo empaquetado desarrollado por el estudio de nuestro socio [Roberto Núñez](https://robertonunez.com/) consiguió transmitir en una presentación singular la historia de reinvención y superación personal que hay detrás. Los inicios de la prestigiosa bodega se remontan al año 195​5 cuando Ramón, emigrante gallego, viaja a Venezuela para luchar por un futuro mejor. ​Bajo el lema «Desde 1955 partiendo de cero», Ramón do Casar habla de un recorrido vital y de una filosofía de trabajo de reinvención constante.​ La búsqueda incesante de la excelencia enológica permitió a la bodega​ de Prado de Miño posicionarse entre las más premiadas del panorama internacional. ​
 
       Esta edición de los Premios Pentawards de Diseño recibieron proyectos de 65 países diferentes. El jurado escogió los mejores de las diversas categorías teniendo en cuenta ​criterios como la excelencia estratégica, la calidad del diseño, la expresión de la marca, el nivel de creatividad e innovación o la capacidad de conectar emocionalmente con las personas consumidoras. ​
 
       En el próximo año, todos los proyectos premiados formarán parte del libro _The Package Design Book_, editado por Taschen, una publicación internacional de referencia en el mundo del _branding_ y del diseño de _packaging_.
     type: text
-  -
-    list: ''
-    url: 'https://pentawards.com/directory/en/page/the-winners'
-    text: 'Web de los premios'
+  - list: ""
+    url: "https://pentawards.com/directory/en/page/the-winners"
+    text: "Web de los premios"
     type: button
-intro: 'El trabajo de rebr​anding realizado para las bodegas Ramón do Casar fue galardonado con 3 Premios en la categoría de bebidas. En concreto, 2 Pentawards de bronce y una nominació​n​ para el vino Varietal.'
+intro: "El trabajo de rebr​anding realizado para las bodegas Ramón do Casar fue galardonado con 3 Premios en la categoría de bebidas. En concreto, 2 Pentawards de bronce y una nominació​n​ para el vino Varietal."
 slug: 3-premios-pentawards-para-el-disenador-roberto-nunez
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2024-11-06T11:21:21+00:00

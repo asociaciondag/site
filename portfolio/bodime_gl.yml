@@ -2,33 +2,27 @@ id: 131
 title: Bodime
 slug: bodime
 body:
-  -
-    text: |-
+  - text: |-
       Bodime é unha serie de animais de madeira cunha clara orientación lúdica, destinada a potenciar aspectos creativos e de motricidade fina, a través de accións e procesos derivados do uso do obxecto.
 
       "Os nenos recoñecen os animais pola súa cabeza". Partindo desta categórica afirmación, xorden os animais de Bodime. O corpo pasa a un segundo plano, podendo compartirse entre as distintas cabezas mediante un sinxelo movemento de rosca, sen que a esencia dos diferentes animais perda un ápice de entidade.
 
       O acabado natural destas pezas responde principalmente a tres premisas. Por unha parte (e debido fundamentalmente a que se trata dun obxecto manipulable) quíxose "achegar" aos nenos esa textura tan formidable que nos ofrece a madeira sen ningún tipo de tratamento. Por outra parte, evidenciar de maneira manifesta a finalización artesanal do obxecto dentro do proceso produtivo. E por último, permitir a posibilidade de que o neno pintase o xoguete ao seu antollo (un suave lixado devolveralle o seu aspecto orixinal).
     type: text
-  -
-    image: /img/portfolio/images/570f64e07e3be-bod001-lateral.jpg
-    text: ''
+  - image: /img/portfolio/images/570f64e07e3be-bod001-lateral.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f4ec0de0dc-bod003-lateral.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4ec0de0dc-bod003-lateral.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f4ec0de549-bodime-composicion-1.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4ec0de549-bodime-composicion-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f4ec0de8d0-bodime-composicion-2.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4ec0de8d0-bodime-composicion-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f4ec0def7f-bodime-composicion-3.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4ec0def7f-bodime-composicion-3.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/570f4ec0ddab5-bod001-lateral.jpg
 tags: []

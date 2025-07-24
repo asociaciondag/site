@@ -1,19 +1,17 @@
 id: 998
-title: 'Damos a benvida á Librería Formatos como nova colaboradora da DAG'
+title: "Damos a benvida á Librería Formatos como nova colaboradora da DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/libreria-formatos-ceduardoperez-lavozdegalicia.jpg
-    text: 'Foto: Eduardo Pérez'
+    text: "Foto: Eduardo Pérez"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A [Librería Formatos](https://www.facebook.com/libreriaformatos), que fai un ano celebrou o seu 25 aniversario, é unha libraría ben coñecida pola cidadanía coruñesa. O afán dos seus fundadores, Ramón e José Manuel Domínguez, por crear unha libraría especializada na área das artes deu os seus froitos, conseguindo xa nos seus inicios unha clientela fiel que valoraba a súa coidada selección. Nos últimos anos a libraría foi ampliando a súa oferta, cunha temática na que tamén teñen cabida outras disciplinas, aínda que sen perder nunca de vista a súa orixe como libraría especializada.
 
       O acordo entre a DAG e Formatos permitirá ás persoas asociadas beneficiarse dun desconto do 5% en toda a súa oferta literaria, ademáis de descontos adicionais en envíos a domicilio e o acceso a contidos seleccionados. Esta nova colaboración abre ademáis a porta a posibles actividades conxuntas e crea un vínculo necesario entre dúas disciplinas unidas en esencia, o deseño e a obra literaria.
     type: text
-intro: 'A Asociación Galega de Deseño asina un acordo de colaboración coa libraría coruñesa, que ofrece vantaxes ás persoas asociadas e busca unir esforzos na divulgación do deseño.'
+intro: "A Asociación Galega de Deseño asina un acordo de colaboración coa libraría coruñesa, que ofrece vantaxes ás persoas asociadas e busca unir esforzos na divulgación do deseño."
 slug: libreria-formatos-colaboradora
 tags: []
 lang: gl

@@ -1,22 +1,20 @@
 id: 1
 contact: null
 links:
-  -
-    text: Web
-    url: 'http://maria-agra.com/'
+  - text: Web
+    url: "http://maria-agra.com/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/mariaagra'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/mariaagra"
     type: linkedin
-name: 'María Agra'
+name: "María Agra"
 slug: maria-agra
 avatarBig: null
 avatar: /img/avatars/sin-arruga-sin-fondo.jpg
 tags:
   - Editorial
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Web
   - Exposicións
   - UX/UI
@@ -29,5 +27,5 @@ bio.es: |-
   Me entusiasma trabajar en proyectos globales de comunicación visual, me apasiona la tipografía y los aspectos técnicos del desarrollo de la profesión del diseñador.
 
   Como diseñadora, destaco por mi atención al detalle y gusto por el trabajo bien hecho. Mis especialidades son el diseño editorial, diseño de interfaz web y diseño de exposiciones.
-job.gl: 'Deseñadora gráfica'
-job.es: 'Diseñadora gráfica'
+job.gl: "Deseñadora gráfica"
+job.es: "Diseñadora gráfica"

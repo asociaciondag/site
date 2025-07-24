@@ -1,8 +1,7 @@
 id: 162
-title: 'Braço de Ferro - arte & design'
+title: "Braço de Ferro - arte & design"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Braço de Ferro Porto Libros
 
@@ -19,17 +18,13 @@ body:
       **Ámanhã 1909–2009** Coa colaboración de ATLAS projectos, Dayana Lucas, Isabel Carvalho, João Alves Marrucho e Pedro Nora
 
       Entre o 1 de xuño e o 15 de agosto de 1909 viron a luz 6 números do periódico anarquista _Ámanhã._ Na presentación do número inaugural, os seus autores definían a publicación como unha revista popular de orientación nacional, que rompía co pasado, sen respectar ídolos, deuses, dogmas. Ao longo da curta existencia do xornal abordáronse temas como a educación, o amor libre, o traballo, a pedagoxía libertaria o ateísmo ou a propiedade.
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9a34a47-girls-are-dreaming-about-enormous-machines.jpg
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9a34a47-lebre-um.jpg
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9a34a47-a-economia-do-artista.jpg
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9a34a47-amanha.jpg
 intro: null
 slug: braco-de-ferro-arte-design

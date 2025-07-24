@@ -1,42 +1,36 @@
 id: 810
-title: 'A gráfica da SELIC premiada cun Laus de bronce na Nit dos Laus'
+title: "A gráfica da SELIC premiada cun Laus de bronce na Nit dos Laus"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/01-l.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Este é o sétimo ano consecutivo en que os [Laus](http://www.adg-fad.org/es/laus/premios), un dos premios de maior prestixio do estado e que cada vez contan con máis participación internacional, recoñecen o traballo dos deseñadores galegos [Suso Vázquez](https://dag.gal/gl/suso-vazquez-gomez/) e [Cibrán Rico](https://dag.gal/gl/cibran-rico-lopez/). Nesta ocasión, o traballo premiado foi a gráfica (colección de libros incluída) da [SELIC](http://selic.gal/), Semana do Libro de Compostela, que [desescribir](http://www.desescribir.com/) realizou para o Concello de Santiago de Compostela, e que resultou merecedor dun Laus de bronce na categoría de elementos coordinados.'
+  - text: "Este é o sétimo ano consecutivo en que os [Laus](http://www.adg-fad.org/es/laus/premios), un dos premios de maior prestixio do estado e que cada vez contan con máis participación internacional, recoñecen o traballo dos deseñadores galegos [Suso Vázquez](https://dag.gal/gl/suso-vazquez-gomez/) e [Cibrán Rico](https://dag.gal/gl/cibran-rico-lopez/). Nesta ocasión, o traballo premiado foi a gráfica (colección de libros incluída) da [SELIC](http://selic.gal/), Semana do Libro de Compostela, que [desescribir](http://www.desescribir.com/) realizou para o Concello de Santiago de Compostela, e que resultou merecedor dun Laus de bronce na categoría de elementos coordinados."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/02-l.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/03-l.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/06.JPG
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
-    url: 'http://www.adg-fad.org/es/laus/proyecto/selic-semana-do-libro-de-compostela'
-    text: 'SELIC na web dos Laus'
+  - list: ""
+    url: "http://www.adg-fad.org/es/laus/proyecto/selic-semana-do-libro-de-compostela"
+    text: "SELIC na web dos Laus"
     type: button
-intro: 'Efectivamente, o pasado venres entregáronse en Barcelona os Premios Laus e, como xa vén sendo habitual desde hai uns anos, entre os galardoados desta edición volve haber un traballo dos nosos compañeiros desescribir.'
+intro: "Efectivamente, o pasado venres entregáronse en Barcelona os Premios Laus e, como xa vén sendo habitual desde hai uns anos, entre os galardoados desta edición volve haber un traballo dos nosos compañeiros desescribir."
 slug: a-grafica-da-selic-premiada-cun-laus-de-bronce-na-nit-dos-laus
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2018-06-11T17:14:09+00:00

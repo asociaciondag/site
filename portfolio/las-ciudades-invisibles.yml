@@ -1,14 +1,12 @@
 id: 161
-title: 'Las ciudades invisibles'
+title: "Las ciudades invisibles"
 slug: las-ciudades-invisibles
 body:
-  -
-    image: /img/portfolio/images/573f33c9bc88f-presentacion-ciudadesinvisibles-bh1.jpg
-    text: ''
+  - image: /img/portfolio/images/573f33c9bc88f-presentacion-ciudadesinvisibles-bh1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/573f33c9bca0b-presentacion-ciudadesinvisiblesbh2.jpg
-    text: ''
+  - image: /img/portfolio/images/573f33c9bca0b-presentacion-ciudadesinvisiblesbh2.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/573f33c9bc5a9-portada-bh-ciudadesinv.jpg
 tags: []

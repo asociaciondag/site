@@ -1,18 +1,16 @@
 id: 165
-title: 'Inaugúrase a exposición con todos os carteis do 9º Concurso de Cartelismo Francisco Mantecón'
+title: "Inaugúrase a exposición con todos os carteis do 9º Concurso de Cartelismo Francisco Mantecón"
 body:
-  -
-    text: |-
+  - text: |-
       A exposición reflicte as tendencias do deseño mundial nun percorrido artístico que serve para reivindicar a vixencia do cartelismo na sociedade actual e poderá visitarse na Estación Marítima de Vigo ata o martes 7 de decembro, en horario de 10.00 a 14.00 e de 17.00 a 20.00 h.
 
       Máis información en: <http://www.franciscomantecon.com/2010/>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9a4b0d8-exposicion-carteles-participantes-2010.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Bodegas Terra Gauda mostra ao público por primeira vez os máis de 1.600 carteis de 58 países de todo o mundo que participaron no 9º Concurso Internacional de Cartelismo Publicitario Francisco Mantecón.'
+intro: "Bodegas Terra Gauda mostra ao público por primeira vez os máis de 1.600 carteis de 58 países de todo o mundo que participaron no 9º Concurso Internacional de Cartelismo Publicitario Francisco Mantecón."
 slug: inaugurase-a-exposicion-con-todos-os-carteis-do-9o-concurso-de-cartelismo-francisco-mantecon
 tags: []
 lang: gl

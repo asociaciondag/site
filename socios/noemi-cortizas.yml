@@ -8,23 +8,19 @@ contact: |-
 
   <noemi.cortizas@ydemaker.com>
 links:
-  -
-    text: Web
-    url: 'http://nco.ydemaker.com/'
+  - text: Web
+    url: "http://nco.ydemaker.com/"
     type: link
-  -
-    text: Ydemaker
-    url: 'https://ydemaker.com/'
+  - text: Ydemaker
+    url: "https://ydemaker.com/"
     type: link
-  -
-    text: Behance
-    url: 'https://www.behance.net/ncortizas'
+  - text: Behance
+    url: "https://www.behance.net/ncortizas"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/noemicortizas/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/noemicortizas/"
     type: linkedin
-name: 'Noemí Cortizas'
+name: "Noemí Cortizas"
 slug: noemi-cortizas
 avatarBig: null
 avatar: /img/avatars/logo-ydemaker-noemi-cortizas.png
@@ -35,5 +31,5 @@ tags:
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñadora de produtos, materiais, acabados e cores'
-job.es: 'Diseñadora de productos, materiales, acabados y colores'
+job.gl: "Deseñadora de produtos, materiais, acabados e cores"
+job.es: "Diseñadora de productos, materiales, acabados y colores"

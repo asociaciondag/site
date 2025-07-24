@@ -1,14 +1,12 @@
 id: 1127
-title: 'Desde Ámsterdam, Mariola López se incorpora a la DAG'
+title: "Desde Ámsterdam, Mariola López se incorpora a la DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/mariola-740.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola, encantada de conoceros y honrada de formar parte de la DAG. Soy Mariola López Mariño, fundadora y directora creativa de Lopezlab Amsterdam. Soy de Ribadeo y vivo en Ámsterdam desde hace 20 años, comencé mi propio estudio hace 15 años después de terminar mi aprendizaje en Amsterdam, Barcelona y Ourense.
 
       Me hice diseñadora porque me gustaban las cosas hermosas y consistentes, y por mi fascinación de toda la vida por la comunicación: comprender la forma en que la gente elige y asimila información me intrigó y me sigue intrigando ahora tanto como al principio.
@@ -17,10 +15,10 @@ body:
 
       Este es mi resumen. Espero conoceros personalmente en alguno de los eventos de la DAG y tener la oportunidad de intercambiar opiniones. El potencial de diseño en Galicia es inmenso y estoy feliz de formar parte de él.
     type: text
-intro: 'Estamos muy contentos de contar entre nuestras asociadas con [Mariola López](https://dag.gal/gl/mariola-lopez/), que desde Ámsterdam y su estudio [Lopezlab](https://www.lopezlab.com/en/) se incorpora a la DAG traspasando fronteras y sumando asociadas. ¡Bienvenida Mariola!'
+intro: "Estamos muy contentos de contar entre nuestras asociadas con [Mariola López](https://dag.gal/gl/mariola-lopez/), que desde Ámsterdam y su estudio [Lopezlab](https://www.lopezlab.com/en/) se incorpora a la DAG traspasando fronteras y sumando asociadas. ¡Bienvenida Mariola!"
 slug: desde-amsterdam-mariola-lopez-se-incorpora-a-la-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2022-02-24T10:54:54+00:00

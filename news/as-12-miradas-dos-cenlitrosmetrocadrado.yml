@@ -1,42 +1,37 @@
 id: 702
-title: 'As 12 miradas dos cenlitrosmetrocadrado'
+title: "As 12 miradas dos cenlitrosmetrocadrado"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/5821f5bb47220-mirada-1-cenlitros.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Para quen non coñeza a iniciativa, a [galería Vilaseco](http://www.vilaseco.net/) convida cada mes a un ou varios creadores vinculados ás artes plásticas, ao deseño gráfico, ao deseño de mobles, á artesanía... a faceren unha selección de imaxes representativas ou inspiradoras a partir das que reflexionar, traballar ou disertar perante o público.
 
       Lembrade! Será mañá mércores, 9 de novembro, ás 20.30 h na Galería Vilaseco - Laboratorio Creativo (Rúa Padre Feijoó, 5, 1º, 15004 A Coruña)
 
       Os máis curiosos tedes a seguir un adianto dalgunhas desas imaxes preferidas dos [cenlitros](http://cenlitrosmetrocadrado.com/):
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/5821f5bb479ff-cenlitrosmirada2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/5821f5bb47d2f-cenlitros-mirada-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/5821f45e2b4cf-cenlitrosmirada3.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: '[Xabier Rilo](https://dag.gal/gl/xabier-rilo/) e [Ricardo Tubío](https://dag.gal/gl/ricardo-tubio-pazos/) serán os dous creadores convidados dentro do ciclo 12 miradas - riverside que organiza a galería Vilaseco da Coruña'
+intro: "[Xabier Rilo](https://dag.gal/gl/xabier-rilo/) e [Ricardo Tubío](https://dag.gal/gl/ricardo-tubio-pazos/) serán os dous creadores convidados dentro do ciclo 12 miradas - riverside que organiza a galería Vilaseco da Coruña"
 slug: as-12-miradas-dos-cenlitrosmetrocadrado
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2016-11-08T01:00:00+00:00

@@ -1,12 +1,11 @@
 id: 476
-title: 'Conclusións do foro DAG: Propostas de avance para o deseño'
+title: "Conclusións do foro DAG: Propostas de avance para o deseño"
 body:
-  -
-    text: |-
+  - text: |-
       O foro, ao que asistiron deseñadores gráficos e industriais de toda Galicia, articulouse en seis mesas de debate, cada unha delas centrada nun tema:
 
       1. A web como medio no contexto da edición 2. Educación e formación en deseño en Galicia 3. A produción do deseño galego 4. A comunicación do deseño galego 5. Historia do deseño galego e a identidade tipográfica 6. O tratamento do deseño por parte das administracións públicas (contratacións, concursos...)
-       
+
       O documento de conclusións que ve a luz agora pretende ser un punto de partida para a discusión das distintas propostas xurdidas durante a xornada do foro e a selección daquelas máis interesantes para o seu desenvolvemento por parte da DAG a través de comisións de traballo creadas para tal efecto.
 
       De momento hai xa unha primeira comisión constituída por membros da asociación que está a traballar no tema dos concursos de deseño, posto que desde a DAG considérase prioritario a posta en marcha de iniciativas que combatan esta mala práctica cada vez máis adoptada por empresas e administracións públicas.
@@ -15,12 +14,11 @@ body:
 
       Descarga as conclusións do foro:
     type: text
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa534ba9-propostas-do-foro-dag.pdf
     text: Descargar
     type: file
-intro: 'A DAG, Asociación Galega de Deseñadores, fai público o documento coas conclusións do foro Propostas de avance para o deseño celebrado o 9 de febreiro de 2013 no Centro Galego de Arte Contemporánea.'
+intro: "A DAG, Asociación Galega de Deseñadores, fai público o documento coas conclusións do foro Propostas de avance para o deseño celebrado o 9 de febreiro de 2013 no Centro Galego de Arte Contemporánea."
 slug: conclusions-do-foro-dag-propostas-de-avance-para-o-deseno
 tags: []
 lang: gl

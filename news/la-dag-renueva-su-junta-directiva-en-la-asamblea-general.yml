@@ -1,14 +1,12 @@
 id: 1157
-title: 'La DAG renueva su junta directiva en la Asamblea General'
+title: "La DAG renueva su junta directiva en la Asamblea General"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-asemblea22.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El Museo do Pobo Galego acogió a los socios y socias de DAG después de dos años realizando las Asambleas Generales de forma _online_ por causa de la Covid19. El sábado por fin pudimos reencontrarnos y ponerle cara a las nuevas incorporaciones. El aumento de asociadas en esta legislatura es una muy buena noticia que permite afrontar el futuro con más decisión y seguridad.
 
       En el orden del día quedaron aprobadas las cuentas del 2021 y la previsión de ingresos y gastos para el 2022. Además de hacer un repaso de todos los proyectos y actividades en los que la DAG está inmersa en estos momentos, Uqui Permui, presidenta de READ, hizo balance del primer año al frente de la red nacional de diseño, en el que destacó​ la creación y la aprobación por unanimidad​ ​del Código Deontológico del Diseño, la activación de la red de Nodos del Sistema Nacional de Inteligencia Creativa SNIC junto con el FAD, ​​la celebración del 9ENAD en Santiago de Compostela, la exposición FSWD, inaugurada en el CGAC, que cuenta con un amplio plan de itinerancias, o el trabajo realizado con las llamadas a proyecto para difundir entre las entidades y organismos públicos otras fórmulas de contratación más justas y​ profesionalizadas. Uqui habló​​ también de la importancia de los grupos de trabajo, que avanzan en temáticas y relaciones cruciales para el sector: buenas prácticas, comunicación, internacionalización, gráficas en negro GEN e investigación y archivo. ​Todo ello no sería posible sin el apoyo económico de entidades como la Xunta de Galicia a través de Gain y Xera, AC/E o el Ministerio de Cultura, y la amplia colaboración y buenas relaciones que se establecen con otras entidades amigas.
@@ -19,19 +17,17 @@ body:
 
       En el punto final estaba la aprobación de la candidatura de continuidad de la nueva Junta Directiva en la que Xosé M. Augusto actuará como Presidente, Adrián Parcero como Vicepresidente, Pablo Villaverde como Secretario y Alberto Rodríguez como Tesorero. Las cinco vocalías actuales está​n​ conformadas por María Agra, Olaia Ferrando, Thais Suárez, Ana Boquete e Irene García. Las bajas de Noelia Estévez, Antonio Doñate, Lois Guillán y Simón Villamayor, dan paso​ a nuevas incorporaciones y a la renovación definitiva de la Junta Directiva para los próximos dos años.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/202206-dag-mg-8523.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'La Asamblea se extendió de forma informal en una comida común donde continuaron las conversaciones y el buen ambiente, recuperando la práctica ya casi olvidada de juntarnos e intercambiar inquietudes, opiniones, ideas y reflexiones sobre la propia DAG y el sector en general.'
+  - text: "La Asamblea se extendió de forma informal en una comida común donde continuaron las conversaciones y el buen ambiente, recuperando la práctica ya casi olvidada de juntarnos e intercambiar inquietudes, opiniones, ideas y reflexiones sobre la propia DAG y el sector en general."
     type: text
-intro: 'El pasado 18 de junio se celebró l​a Asamblea General en la que se explicó todo el trabajo realizado en este último año y se procedió​ a la renovación d​e la Junta Directiva. Así, Irene García, después de cuatro años, dejaba la presidencia y Xóse M. Augusto la asumía para ejercer como tal los próximos dos años.'
+intro: "El pasado 18 de junio se celebró l​a Asamblea General en la que se explicó todo el trabajo realizado en este último año y se procedió​ a la renovación d​e la Junta Directiva. Así, Irene García, después de cuatro años, dejaba la presidencia y Xóse M. Augusto la asumía para ejercer como tal los próximos dos años."
 slug: la-dag-renueva-su-junta-directiva-en-la-asamblea-general
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2022-06-23T12:00:00+00:00

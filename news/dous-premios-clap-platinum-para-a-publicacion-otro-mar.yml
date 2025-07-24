@@ -1,26 +1,23 @@
 id: 1346
-title: 'Dous Premios Clap Platinum para a publicación Otro mar'
+title: "Dous Premios Clap Platinum para a publicación Otro mar"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/premio-clap-carloselrojo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Os premios Clap recoñecen traballos de deseño a nivel internacional. Concorreron á presente convocatoria pezas de gráfico e industrial realizadas entre 2023 e 2024 en América Latina, Estados Unidos, Brasil, España e Portugal.​ Dentro desas dúas disciplinas do deseño atopamos oito categorías: _Branding_ e _packaging_, editorial, ilustración, ​​​industrial, márketing e publicidade, _motion graphics_ e vídeo, tipografía, web e apps, e outros (miscelánea)​. O certame concede un só Premio Platinum e ata dez Seleccións Clap por categoría.
 
       _Otro mar_, o traballo realizado polo noso compañeiro [Carlos el Rojo](https://www.carloselrojo.com/) para a editorial [Libros del Océano](https://www.librosdeloceano.com/) recibiu dous Premios Platinum, un ao mellor deseño de cuberta e outro ao mellor deseño de libro de texto. Este extenso volume de 640 páxinas percorre as orixes do surf en Galicia, con fotografías e reproducións de cartelería e outra documentación do ámbito datada entre 1967 e 1983.
 
       O deseñador e director de arte de Coma Comunicación Creativa iniciou a súa relación coa editora coruñesa no 2018, un selo creado por [Océano Surf Club](https://oceanosurfclub.blogspot.com/) que reúne proxectos literarios, de ilustración ou fotografía que teñen unha especial relación coas augas que bañan as costas galegas.
     type: text
-  -
-    list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-clap/ganadores-clap.html'
-    text: 'Web dos premios'
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-clap/ganadores-clap.html"
+    text: "Web dos premios"
     type: button
-intro: 'O noso socio Carlos el Rojo asina o deseño de libro e de cuberta que veñen de levarse as dúas máximas distincións na última edición dos Premios Clap.'
+intro: "O noso socio Carlos el Rojo asina o deseño de libro e de cuberta que veñen de levarse as dúas máximas distincións na última edición dos Premios Clap."
 slug: dous-premios-clap-platinum-para-a-publicacion-otro-mar
 tags: []
 lang: gl

@@ -2,8 +2,7 @@ id: 140
 title: Adorna
 slug: adorna
 body:
-  -
-    text: |-
+  - text: |-
       Adorna es un estante individual para albergar, principalmente, cuentos infantiles. Aunque realmente, admite cualquier objeto cuyas dimensiones se acojan a las del hueco presentado.
 
       Adorna permite crear infinidad de composiciones sobre cualquier tipo de pared, de un modo realmente sencillo. Al mismo tiempo, podemos aumentar la capacidad de almacenaje gracias a sus estantes lineales (Baixamar).
@@ -12,29 +11,23 @@ body:
 
       Las combinaciones cromáticas (en clara alusión al pintado tradicional de dichas embarcaciones) y el contraste con la madera natural, dotan a los estantes de una premeditada “calidez artesanal”.
     type: text
-  -
-    image: /img/portfolio/images/570f4c420e687-adorna-composicion-1.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4c420e687-adorna-composicion-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f669ec42df-ado001-perspectiva.jpg
-    text: ''
+  - image: /img/portfolio/images/570f669ec42df-ado001-perspectiva.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f4c420e8f1-adorna-composicion-2.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4c420e8f1-adorna-composicion-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f4c420ebdd-adorna-composicion-4.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4c420ebdd-adorna-composicion-4.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f4c420ef32-adorna-con-cuentos-composicion-1.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4c420ef32-adorna-con-cuentos-composicion-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f4c420f072-adorna-con-cuentos-composicion-2.jpg
-    text: ''
+  - image: /img/portfolio/images/570f4c420f072-adorna-con-cuentos-composicion-2.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/570f6672e0803-adorna-composicion-1.jpg
 tags: []

@@ -18,20 +18,19 @@
  *
  */
 
-
 /* BÁSICO */
 @import "../variables.css";
 
 /* Lista de noticias en portada */
 .page-content {
-	background: none;
-	text-align: center;
+  background: none;
+  text-align: center;
 }
 
 .page-error {
-	margin-bottom: 100px;
+  margin-bottom: 100px;
 
-	& h1 {
-		font-size: var(--fs-48);
-	}
+  & h1 {
+    font-size: var(--fs-48);
+  }
 }

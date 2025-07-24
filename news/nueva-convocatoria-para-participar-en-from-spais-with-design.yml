@@ -1,14 +1,12 @@
 id: 1375
-title: 'Nueva convocatoria para participar en From Spais With Design'
+title: "Nueva convocatoria para participar en From Spais With Design"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/abrimos-convocatoria-fswd-25.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El pasado 1 de febrero, READ abrió un​​a nueva convocatoria para el proyecto FSWD para la promoción y la visibilidad del diseño español en el mundo. Está abierta a todos y todas las profesionales que desarrollan su trabajo en España y también para aquellos que lo hacen fuera de nuestras fronteras.
 
       La convocatoria abierta a cualquier campo del diseño se estructura en seis bloques: diseño gráfico y comunicación, diseño industrial y de producto, diseño de espacios e interiorismo, diseño de servicios, diseño multimedia e intersecciones; esta última para aquellos proyectos disruptivos que se vinculan con varios sectores.
@@ -17,12 +15,11 @@ body:
 
       El 7 de febrero los responsables del proyecto, entre los que se encuentra nuestra socia Uqui Permui, explicaron a través de un webinario el proceso de presentación de candidaturas, así como el posterior proceso de selección, los plazos para las distintas fases y los objetivos del proyecto. Puedes acceder al webinario [desde aquí](https://www.youtube.com/live/WNnuPOxgTNU?feature=shared).
     type: text
-  -
-    list: ''
-    url: 'https://fswd.es/'
-    text: 'Más info'
+  - list: ""
+    url: "https://fswd.es/"
+    text: "Más info"
     type: button
-intro: 'El proyecto interno de READ que busca la internacionalización del diseño español lanza una nueva convocatoria para actualizar la plataforma e incluir nuevos trabajos de profesionales del diseño. El 24 de febrero es el plazo máximo para presentar candidaturas.'
+intro: "El proyecto interno de READ que busca la internacionalización del diseño español lanza una nueva convocatoria para actualizar la plataforma e incluir nuevos trabajos de profesionales del diseño. El 24 de febrero es el plazo máximo para presentar candidaturas."
 slug: nueva-convocatoria-para-participar-en-from-spais-with-design
 tags: []
 lang: es

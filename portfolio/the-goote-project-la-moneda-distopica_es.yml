@@ -1,9 +1,8 @@
 id: 121
-title: 'The Goote Project, la moneda distópica'
+title: "The Goote Project, la moneda distópica"
 slug: the-goote-project-la-moneda-distopica
 body:
-  -
-    text: |-
+  - text: |-
       Este proyecto define el concepto, diseño gráfico y funcionalidad de una moneda nacida de la lectura de dos novelas de ficción distópica: _We_ (Yevgueni Zamyatin, 1921) y _1984_ (George Orwell, 1948).
 
       El **Goote** es la moneda oficial de **Oceanía** en el año 2036: Una herramienta de control para los recursos, distribuidos por el régimen totalitario y belicista del **Well-Doer** (Bienhechor), y dirigidos a los trabajadores del Estado, que están designados bajo números, despersonalizados y carentes de libertad individual. Todo en aras del feliz cumplimiento de un dogma basado en el culto a las máquinas, la ciencia, y la aplicación exhaustiva de una matemática perfecta en lo cotidiano.
@@ -22,49 +21,38 @@ body:
 
       Más información en [thegooteproject.com](http://thegooteproject.com/)
     type: text
-  -
-    image: /img/portfolio/images/56c7582501d73-02-goote-desenho.jpg
-    text: ''
+  - image: /img/portfolio/images/56c7582501d73-02-goote-desenho.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c75836de6eb-03-goote-cor.jpg
-    text: ''
+  - image: /img/portfolio/images/56c75836de6eb-03-goote-cor.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c7584c7beb6-04-goote-rexistro.jpg
-    text: ''
+  - image: /img/portfolio/images/56c7584c7beb6-04-goote-rexistro.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c7585cd5211-05-goote-trama.jpg
-    text: ''
+  - image: /img/portfolio/images/56c7585cd5211-05-goote-trama.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c7587507def-06-goote-ultravioleta-1.jpg
-    text: ''
+  - image: /img/portfolio/images/56c7587507def-06-goote-ultravioleta-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c758b2a0412-07-goote-ultravioleta-2.jpg
-    text: ''
+  - image: /img/portfolio/images/56c758b2a0412-07-goote-ultravioleta-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c758bf6f7bd-08-goote-info.jpg
-    text: ''
+  - image: /img/portfolio/images/56c758bf6f7bd-08-goote-info.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c758d00277a-09-goote-sobre.jpg
-    text: ''
+  - image: /img/portfolio/images/56c758d00277a-09-goote-sobre.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c758e0dba4f-10-goote-expo-1.jpg
-    text: ''
+  - image: /img/portfolio/images/56c758e0dba4f-10-goote-expo-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c758f29d640-11-goote-expo-2.jpg
-    text: ''
+  - image: /img/portfolio/images/56c758f29d640-11-goote-expo-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c75905b5bd8-12-goote-maleta.jpg
-    text: ''
+  - image: /img/portfolio/images/56c75905b5bd8-12-goote-maleta.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/56c7582500d71-01-goote-feixos.jpg
 tags: []
@@ -72,10 +60,8 @@ members_id:
   - 46
 lang: es
 info:
-  -
-    name: Escuela
-    value: 'EASD Antonio Faílde'
-  -
-    name: Año
+  - name: Escuela
+    value: "EASD Antonio Faílde"
+  - name: Año
     value: 2012/2013
 draft: false

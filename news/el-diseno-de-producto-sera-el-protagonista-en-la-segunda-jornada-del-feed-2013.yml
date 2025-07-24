@@ -1,8 +1,7 @@
 id: 461
-title: 'El diseño de producto será el protagonista en la segunda jornada del feed 2013'
+title: "El diseño de producto será el protagonista en la segunda jornada del feed 2013"
 body:
-  -
-    text: |-
+  - text: |-
       La jornada se inaugurará a las 09.15 h con un seminario impartido por [Héctor Serrano](http://www.hectorserrano.com/), de título Cada loco con su tema. Un objeto y una manía, y que se desarrollará ao lo largo de la mañana.
 
       La tarde será el momento de las charlas, en las que participará el propio Héctor Serrano y los diseñadores gallegos Manuel del Río de [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/) y Alberto Montiel de [Fruto DS](http://frutods.com/blog/).
@@ -11,15 +10,14 @@ body:
 
       Toda la información en: <http://feed.asociaciondag.org/>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa4bbf2c-foto-feed-prensa.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'La jornada se inaugurará a las 09.15 h con un seminario impartido por [Héctor Serrano](http://www.hectorserrano.com/), de título Cada loco con su tema. Un objeto y una manía, y que se desarrollará ao lo largo de la mañana.'
+intro: "La jornada se inaugurará a las 09.15 h con un seminario impartido por [Héctor Serrano](http://www.hectorserrano.com/), de título Cada loco con su tema. Un objeto y una manía, y que se desarrollará ao lo largo de la mañana."
 slug: el-diseno-de-producto-sera-el-protagonista-en-la-segunda-jornada-del-feed-2013
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2013-10-19T11:16:49+00:00

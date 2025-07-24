@@ -1,14 +1,12 @@
 id: 1135
-title: 'La DAG sigue creciendo con el diseñador orensano David Rivada'
+title: "La DAG sigue creciendo con el diseñador orensano David Rivada"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-david-rivada.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Diseñar creatividad es como contar un chiste malo: si lo tienes que explicar pierde toda la gracia. Soy David Rivada, diseñador gráfico y PFC (Persona Fod\*\* mente Creativa) y vengo a poner patas arriba cada rincón del mundo del diseño y la creatividad.
 
       A los ourensanos nos gusta mucho el Carnaval, y a mí, siendo de Verín, más. La gente coge lo primero que encuentra en su casa y mezcla elementos de diferentes orígenes de forma ridícula pero exquisita para formar un nuevo concepto, una nueva identidad. Ellos no lo saben pero a esto hoy en día se le llama “Branding”. A mí me gusta más decir “Diseño de marca”.
@@ -19,10 +17,10 @@ body:
 
       Resumiendo, el diseño que yo hago es creativo, es humano, y, en esencia, es diseño.
     type: text
-intro: 'Siempre es una alegría contar con nuevos socios y si además son estudiantes, mucho más. Es el caso de [David Rivada](https://dag.gal/gl/david-rivada/), que sin duda va a traer frescura a la DAG. ¡Bienvenido David!'
+intro: "Siempre es una alegría contar con nuevos socios y si además son estudiantes, mucho más. Es el caso de [David Rivada](https://dag.gal/gl/david-rivada/), que sin duda va a traer frescura a la DAG. ¡Bienvenido David!"
 slug: la-dag-sigue-creciendo-con-el-disenador-orensano-david-rivada
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2022-03-18T09:59:54+00:00

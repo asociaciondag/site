@@ -1,14 +1,12 @@
 id: 582
-title: 'Un ciclo de charlas para conmemorar os 50 anos de Alberto Corazón no mundo do deseño gráfico'
+title: "Un ciclo de charlas para conmemorar os 50 anos de Alberto Corazón no mundo do deseño gráfico"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/55f7f8a3d6bc8-encuentros-con-corazon.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Trátase de encontros nos que diferentes profesionais e expertos na materia abordarán distintos temas relacionados co deseño e a comunicación.
 
       Os convidados deste xoves serán [Alberto Corazón](http://www.albertocorazon.com/), Premio Nacional de Deseño e académico da Real Academia de Belas Artes de San Fernando, [Enric Satué](http://enricsatue.com/), Premio Nacional de Deseño e [Pepe Barro](http://gruporevision.net/), renovador do deseño gráfico en Galicia, tres mestres das estratexias tipográficas que se reunirán para conversar sobre tipografía e comunicación gráfica.
@@ -17,10 +15,10 @@ body:
 
       A entrada é libre e gratuíta ata completar a capacidade da sala do Espazo Fundación Telefónica na rúa Fuencarral, 3, Madrid.
     type: text
-intro: 'Este xoves 17 setembro ás 19.00 h terá lugar o primeiro dos encontros programados pola Fundación Telefónica con motivo da exposición [Alberto Corazón. Deseño: a enerxía do pensamento gráfico 1965-2015](http://espacio.fundaciontelefonica.com/alberto-corazon/).'
+intro: "Este xoves 17 setembro ás 19.00 h terá lugar o primeiro dos encontros programados pola Fundación Telefónica con motivo da exposición [Alberto Corazón. Deseño: a enerxía do pensamento gráfico 1965-2015](http://espacio.fundaciontelefonica.com/alberto-corazon/)."
 slug: un-ciclo-de-charlas-para-conmemorar-os-50-anos-de-alberto-corazon-no-mundo-do-deseno-grafico
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2015-09-15T12:53:23+00:00

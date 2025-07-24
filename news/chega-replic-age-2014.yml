@@ -1,18 +1,16 @@
 id: 490
-title: 'Chega REPLIC_AGE 2014'
+title: "Chega REPLIC_AGE 2014"
 body:
-  -
-    text: |-
+  - text: |-
       A programación deREPLIC\_AGE 2014 divídese en dúas categorías: FAIR, a cal se xestiona como unha feira onde tanto deseñadores como empresas poden mostrar e vender a súa produción, e o FEST, no cal se realizarán charlas e obradoiros con conferenciantes e profesorado de prestixio internacional.
 
       Trátase dunha oportunidade para todos os deseñadores interesados en ensinar e vender as súas creacións, xerar redes de colaboración e contactos profesionais dentro deste encontro de hibridación multidisciplinar que contará con 5000 visitantes ao longo das tres xornadas. A organización do evento está especialmente interesada en contactar con deseñadores (que traballen con manufactura dixital) para que participen na feira ensinando e vendendo os seus traballos. As inscricións xa se poden formalizar en[www.replicage.org/replicage-fair/](http://www.replicage.org/replicage-fair/) e aqueles deseñadores pertencentes a asociacións amigas, como a DAG, poden beneficiarse dunha cota reducida de 80 euros + IVE.
 
       Tamén está aberta xa unha convocatoria para que os deseñadores que teñan proxectos en fase de concepto poidan desenvolvelos ata o mínimo produto viable coa axuda de titores profesionais en distintas áreas, ademais de explicar os seus resultados en Zinc Shower e de ter a oportunidade de seren seleccionados pola Factoría Cultural para unha bolsa. A convocatoria destes proxectos pode consultarse en [www.replicage.org/replicage-fest/](http://www.replicage.org/replicage-fest/) e só se admitirán cinco.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa59efc2-twitteresquemareplicage.jpg
-    text: ''
+    text: ""
     type: image
 intro: 'Entre o día 23 e o 25 de maio na Central do Deseño de Matadero de Madrid terá lugar REPLIC\_AGE 2014, un multievento organizado por [DIMAD](http://www.dimad.org/) e Makespace Madrid cuxas inquedanzas principais son a interacción entre deseñadores e comunidades makers, fab labs e produtores de maquinaria, software e servizos de manufactura dixital.'
 slug: chega-replic-age-2014

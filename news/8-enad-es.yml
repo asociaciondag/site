@@ -1,14 +1,12 @@
 id: 1007
-title: 'Abierto el plazo de inscripciones para el 8º Encuentro Nacional de Diseño'
+title: "Abierto el plazo de inscripciones para el 8º Encuentro Nacional de Diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/8enad.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El octavo ENAD está organizado por [DIP Murcia](http://dipmurcia.es) y [READ](https://www.designread.es). El Encontro busca, desde su nacimiento, servir de espacio común para el análisis. Un espacio de compromiso y trabajo, que muestra la conexión del diseño con distintos ámbitos socio-económicos. En esta ocasión, bajo el lema «Diseñar antes de comer», la co-protagonista del programa será la gastronomía.
 
       La innovación y la creatividad culinaria han convertido a nuestro territorio en referencia de vanguardia a nivel internacional. La cocina nacional celebra hoy los productos locales y presume de territorio y de cultura. Las persoas artífices de este cambio son emprendedoras capaces de lanzar líneas de productos, de crear alianzas con centros de investigación y de formar a nuevas generaciones.
@@ -19,17 +17,15 @@ body:
 
       ¿Cuales son los procesos que permiter aplicar la innovación a las propuestas culinarias?, ¿cuales son las disciplinas creativas con las que trabajan desde el sector?, ¿qué aprendizaje podemos extraer de su crecimiento? Estas y otras preguntas buscan respuesta en le 8º Encuentro Nacional de Diseño.
     type: text
-  -
-    list: ''
-    url: 'https://designread.es/8enad/inscribete/'
+  - list: ""
+    url: "https://designread.es/8enad/inscribete/"
     text: Inscripciones
     type: button
-  -
-    list: ''
-    url: 'https://designread.es/8enad/'
-    text: 'Web del 8ENAD'
+  - list: ""
+    url: "https://designread.es/8enad/"
+    text: "Web del 8ENAD"
     type: button
-intro: 'Los días 17 y 18 de septiembre el diseño tiene una cita en Murcia. Este año, el encuentro será accesible a un mayor número de persoas, puesto que las actividades y las charlas del encuentro serán principalmente _online_. La inscripción es gratuita y ya se puede reservar plaza para asistir.'
+intro: "Los días 17 y 18 de septiembre el diseño tiene una cita en Murcia. Este año, el encuentro será accesible a un mayor número de persoas, puesto que las actividades y las charlas del encuentro serán principalmente _online_. La inscripción es gratuita y ya se puede reservar plaza para asistir."
 slug: 8-enad-es
 tags: []
 lang: es

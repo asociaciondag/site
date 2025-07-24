@@ -1,14 +1,12 @@
 id: 921
-title: 'A exposición Galicia XXI. O design como motor viaxa á Porto Design '
+title: "A exposición Galicia XXI. O design como motor viaxa á Porto Design "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-noticia-expo-gain-porto.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Trátase da exposición “Galicia XXI. O design como motor”, que será inaugurada o vindeiro 16 de outubro no espazo [WOW-Work on Wood by Finsa](https://www.wowbyfinsa.com/es), no Porto.
 
       A mostra, que permanecerá aberta ata o 24 de novembro, ten como principal obxectivo posicionar e difundir o potencial creativo do deseño galego na [Porto Design Biennale](https://portodesignbiennale.pt/pt). Este evento, que celebra a súa primeira edición como gran cita do deseño europeo deste ano, está organizado pola esad—idea e promovida polas Cámaras Municipais do Porto e de Matosinhos.
@@ -21,16 +19,15 @@ body:
 
       Confirmación de asistencia mediante correo electrónico a programadeseno.gain@xunta.gal ou chamando ao +34 881 999 120.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/imaxe-porto-design-bienalle-2019.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'O deseño galego contará cun espazo propio na [Porto Design Biennale](https://portodesignbiennale.pt/) a iniciativa da Consellería de Economía, Emprego e Industria, a través do Programa de Deseño para a Innovación 2020 da Axencia Galega de Innovación (GAIN) e coa colaboración do Grupo Finsa.'
+intro: "O deseño galego contará cun espazo propio na [Porto Design Biennale](https://portodesignbiennale.pt/) a iniciativa da Consellería de Economía, Emprego e Industria, a través do Programa de Deseño para a Innovación 2020 da Axencia Galega de Innovación (GAIN) e coa colaboración do Grupo Finsa."
 slug: a-exposicion-galicia-xxi-o-design-como-motor-viaxa-a-porto-design
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2019-10-10T21:29:40+00:00

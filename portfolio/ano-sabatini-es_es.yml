@@ -1,23 +1,20 @@
 id: 367
-title: 'Año Sabatini'
+title: "Año Sabatini"
 slug: ano-sabatini-es
 body:
-  -
-    text: 'Imagen gráfica para las actividades del _Año Sabatini 2021._'
+  - text: "Imagen gráfica para las actividades del _Año Sabatini 2021._"
     type: text
-  -
-    image: /img/portfolio/images/publicacionsabatini.jpg
-    text: ''
+  - image: /img/portfolio/images/publicacionsabatini.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/portadasabatini.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
 members_id:
   - 81
 lang: es
 info:
-  -
-    name: Cliente
-    value: 'Ayuntamiento de Madrid'
+  - name: Cliente
+    value: "Ayuntamiento de Madrid"
 draft: false

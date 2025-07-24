@@ -1,8 +1,7 @@
 id: 322
-title: '(R)evolution design: Seminario para a implementación de produtos e servizos innovadores'
+title: "(R)evolution design: Seminario para a implementación de produtos e servizos innovadores"
 body:
-  -
-    text: |-
+  - text: |-
       O Programa consiste nun Seminario de 16 horas de duración e un Curso que se celebrarán en 2012.
 
       **Obxectivos:** O obxectivo deste seminario é que as PEMES implementen novos sistemas e produtos de xestión e deseño innovador. En concreto, este seminario permitiralles: - Descubriren ferramentas de xeración de modelos de negocio abertos baseados no Design Thinking, modelos que están sendo aplicados para xerar valor. - Coñeceren casos de éxito no mundo do deseño.
@@ -31,27 +30,23 @@ body:
 
       Descarga a folla de inscrición:
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa02746f-publico.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa02746f-convocatoria-revolution-design.pdf
     text: Descargar
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa02746f-solicitud-de-inscripcion.doc
     text: Descargar
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa02746f-programa-seminario-revolution-design.doc
     text: Descargar
     type: file
-intro: 'A Asociación Galega de Deseñadores (DAG) organiza un Programa de Formación impartido pola [Escola de Organización Industrial](http://www.eoi.es/portal/guest/inicio) (EOI) dirixido a todas as persoas interesadas en crear actividade en calquera ámbito do deseño e a creatividade.'
+intro: "A Asociación Galega de Deseñadores (DAG) organiza un Programa de Formación impartido pola [Escola de Organización Industrial](http://www.eoi.es/portal/guest/inicio) (EOI) dirixido a todas as persoas interesadas en crear actividade en calquera ámbito do deseño e a creatividade."
 slug: r-evolution-design-seminario-para-a-implementacion-de-produtos-e-servizos-innovadores
 tags: []
 lang: gl

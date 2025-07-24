@@ -10,30 +10,26 @@ contact: |-
 
   <desonhos@desonhos.net>
 links:
-  -
-    text: Desoños
-    url: 'http://www.desonhos.net/'
+  - text: Desoños
+    url: "http://www.desonhos.net/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/company/deso-os'
+  - text: Linkedin
+    url: "https://www.linkedin.com/company/deso-os"
     type: linkedin
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/desonhos'
+  - text: Facebook
+    url: "https://www.facebook.com/desonhos"
     type: facebook
-  -
-    text: Twitter
-    url: 'https://twitter.com/_desonhos'
+  - text: Twitter
+    url: "https://twitter.com/_desonhos"
     type: twitter
-name: 'Carlos Álvarez'
+name: "Carlos Álvarez"
 slug: carlos-alvarez
 avatarBig: null
 avatar: /img/avatars/5544c790259e9-carlos-alvarez.jpg
 tags:
   - Embalaxe
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Exposicións
   - Editorial
   - Web
@@ -41,5 +37,5 @@ tags:
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Director de proxectos e deseñador en Desoños'
-job.es: 'Director de proyectos y diseñador en Desoños'
+job.gl: "Director de proxectos e deseñador en Desoños"
+job.es: "Director de proyectos y diseñador en Desoños"

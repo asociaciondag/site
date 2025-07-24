@@ -1,8 +1,7 @@
 id: 78
-title: '24/03/10 PKN Santiago de Compostela por Haití'
+title: "24/03/10 PKN Santiago de Compostela por Haití"
 body:
-  -
-    text: |-
+  - text: |-
       Os fondos que se recauden con este evento irán destinados á ong Architecture for Humanity: [http://architectureforhumanity.org/](http://architectureforhumanity.org).
 
       A asociación DAG na súa aposta pola creatividade galega, introduciu por primeira vez en Galicia (Pontevedra en xullo de 2009) este novo e alternativo formato para a exposición do traballo de artistas, deseñadores, ilustradores, fotógrafos, arquitectos, cociñeiros etc. Outras cidades coma Ferrol e A Coruña xa contan cunha plataforma para introducirnos de primeira man aos novos talentos e, ao mesmo tempo, amosar unha perspectiva diferente dos autores máis recoñecidos.
@@ -17,12 +16,11 @@ body:
 
       Máis información e doazóns <http://www.pecha-kucha.org/pechakucha-for-haiti> Vídeos e imaxes Pontevedra II, decembro de 2009 <http://www.youtube.com/watch?v=hYUjDm3Ns4Y> PontevedraI, xullo de 2009 <http://www.youtube.com/watch?v=vdULNawnRSE> Galería de imaxes <http://www.flickr.com/photos/pechakuchapontevedra/> Páxina oficial Pontevedra <http://www.pecha-kucha.org/night/pontevedra/> Facebook [http://www.facebook.com/home.php?#!/event.php?eid=10150110395985008](http://www.facebook.com/home.php#!/event.php?eid=10150110395985008)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9844752-pknhaiti.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Dende que tivo lugar o desastre de Haití, a comunidade de creativos de todo o mundo estase mobilizando na organización dun Pecha Kucha Night en máis de 200 cidades —dende Tokio ata San Franciso—, co fin de recadar fondos destinados á reconstrución dese país.'
+intro: "Dende que tivo lugar o desastre de Haití, a comunidade de creativos de todo o mundo estase mobilizando na organización dun Pecha Kucha Night en máis de 200 cidades —dende Tokio ata San Franciso—, co fin de recadar fondos destinados á reconstrución dese país."
 slug: 24-03-10-pkn-santiago-de-compostela-por-haiti
 tags: []
 lang: gl

@@ -1,14 +1,12 @@
 id: 1313
-title: 'Dos premios Laus para Novagarda y Cenlitros'
+title: "Dos premios Laus para Novagarda y Cenlitros"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/laus-2024-02.jpg
     text: 'Fotografías: @Roi\_Alonso e @Novagarda'
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los compañeros de [Cenlitros](https://www.cenlitros.com/alto-residencial) recolgieron un Laus Plata por el trabajo de señalización elaborado para Alto Residencial, una cooperativa de viviendas situada en Santiago de Compostela, donde, a partir de la arquitectura propia del edificio, idearon un sistema de identificación de espacios de fácil implementación.
 
       Por otro lado, [Novagarda](https://novagarda.gal/), se llevó un Laus Bronce por el diseño de la web de la investigadora, creadora y gestora cultural Sabela Mendoza. Inspirándose en el papel y en lo analógico, crearon una gráfica limpia y asimétrica más cercana a la estética contemporánea en la que sobresale la artista.
@@ -17,15 +15,14 @@ body:
 
       Los Premios ADG Laus de diseño gráfico y comunicación visual reconocen los mejores proyectos en más de 50 apartados de once categorías, además de los Aporta y Estudiantes. En esta 54 edición, ​los premios se consolidan como unos galardones y una cita profesional claves en el sector.​
     type: text
-  -
-    list: ''
-    url: 'https://www.adg-fad.org/es/laus/premiados'
-    text: 'Web de los premios'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premiados"
+    text: "Web de los premios"
     type: button
-intro: 'La nueva edición de los Premios Laus organizados por ADG FAD premió el trabajo de los socios Xabier Rilo de Cenlitros, y Iago Barreiro y Alberto Carballido de Novagarda, con una plata y un bronce respectivamente.'
+intro: "La nueva edición de los Premios Laus organizados por ADG FAD premió el trabajo de los socios Xabier Rilo de Cenlitros, y Iago Barreiro y Alberto Carballido de Novagarda, con una plata y un bronce respectivamente."
 slug: dos-premios-laus-para-novagarda-y-cenlitros
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2024-06-19T09:53:49+00:00

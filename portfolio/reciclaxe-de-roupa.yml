@@ -1,38 +1,30 @@
 id: 229
-title: 'Reciclaxe de roupa'
+title: "Reciclaxe de roupa"
 slug: reciclaxe-de-roupa
 body:
-  -
-    image: /img/portfolio/images/photo-2021-11-15-12-14-36.jpg
-    text: ''
+  - image: /img/portfolio/images/photo-2021-11-15-12-14-36.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/photo-2021-07-21-14-39-57.jpg
-    text: ''
+  - image: /img/portfolio/images/photo-2021-07-21-14-39-57.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/img-0460-reduc.jpg
-    text: ''
+  - image: /img/portfolio/images/img-0460-reduc.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/auchan-cover.jpg
-    text: ''
+  - image: /img/portfolio/images/auchan-cover.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/mobilephones.jpg
-    text: ''
+  - image: /img/portfolio/images/mobilephones.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/photo-2019-05-01-14-53-11.jpg
-    text: ''
+  - image: /img/portfolio/images/photo-2019-05-01-14-53-11.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/auchan1.JPG
-    text: ''
+  - image: /img/portfolio/images/auchan1.JPG
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/auchan2.JPG
-    text: ''
+  - image: /img/portfolio/images/auchan2.JPG
+    text: ""
     type: image
 cover: /img/portfolio/covers/auchan-cover.jpg
 tags:
@@ -43,7 +35,6 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Cliente
-    value: 'Auchan Retail en Lille (France)'
+  - name: Cliente
+    value: "Auchan Retail en Lille (France)"
 draft: false

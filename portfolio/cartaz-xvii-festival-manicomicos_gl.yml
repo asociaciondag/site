@@ -1,10 +1,9 @@
 id: 419
-title: 'Cartaz XVII Festival Manicómicos'
+title: "Cartaz XVII Festival Manicómicos"
 slug: cartaz-xvii-festival-manicomicos
 body:
-  -
-    image: /img/portfolio/images/xvii-carteleria-festival-manicomicos.jpg
-    text: ''
+  - image: /img/portfolio/images/xvii-carteleria-festival-manicomicos.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/xvii-carteleria-festival-manicomicos.jpg
 tags:

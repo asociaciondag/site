@@ -19,14 +19,14 @@
  */
 
 .promo {
-	margin-top: -60px;
+  margin-top: -60px;
 
-	& .page-header {
-		transition: all 0.5s;
+  & .page-header {
+    transition: all 0.5s;
 
-		&:not(.is-sticky) {
-			color: inherit;
-			background: none;
-		}
-	}
+    &:not(.is-sticky) {
+      color: inherit;
+      background: none;
+    }
+  }
 }

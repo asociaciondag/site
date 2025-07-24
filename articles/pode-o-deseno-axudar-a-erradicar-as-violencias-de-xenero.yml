@@ -1,9 +1,8 @@
 id: 33
-title: 'Pode o deseño axudar a erradicar as violencias de xénero? '
-author: 'Gráficas en Negro'
+title: "Pode o deseño axudar a erradicar as violencias de xénero? "
+author: "Gráficas en Negro"
 body:
-  -
-    text: |-
+  - text: |-
       E o máis importante, está disposto o sector do deseño a asumir esta responsabilidade? Queremos iniciar este debate ou preferimos seguir deixándoo en mans dunhas poucas deseñadoras concienciadas? Melloramos nos últimos anos? Que supón isto para as deseñadoras? E para os deseñadores?
 
       O deseño é quen de achegar solucións e significados para acadar con éxito os grandes retos da sociedade actual. É unha potente ferramenta para contribuír á mellora social, sobre todo polo seu amplo alcance e impacto. Obxectivos como a accesibilidade, a universalidade, a sustentabilidade ou a igualdade están directamente relacionados coa forma na que deseñamos. Neste 25N queremos poñer o foco na necesidade de incorporar a perspectiva de xénero aos procesos de deseño para impulsar o cambio cara un mundo mellor.
@@ -22,13 +21,11 @@ body:
 
       Se como profesional do deseño tes interese por incorporar a perspectiva de xénero á túa práctica e sumarte ao deseño responsable, en Gráficas en Negro atoparás alianzas.
     type: text
-  -
-    image: /img/articles/images/feed-gen-16-peq.jpg
-    text: ''
+  - image: /img/articles/images/feed-gen-16-peq.jpg
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Por que precisamos dun deseño con perspectiva de xénero?
 
       Non fai falla afondar en demasía para recoñecer que desde o ámbito da comunicación e o deseño se perpetúan discriminacións e agresións en materia de xénero. Por unha banda, a inclusión de roles sexistas, a obxectificación da muller, a hipersexualización de nenas e adolescentes ou a erotización da violencia son só algúns dos aspectos que continúan aparecendo e impactando ao conxunto da sociedade. Xa sexa de forma implícita, como imaxe ou texto, ou apelando a capas máis fondas do subconsciente, seguen prexudicando a construción dun imaxinario colectivo respectuoso con todas as persoas, e xustificando actitudes e comportamentos que danan ás mulleres.
@@ -45,16 +42,15 @@ body:
 
       Trátase dun proceso de aprendizaxe e mellora continuo. Por este motivo, se o proxecto é do teu interese, convidámoste a seguirnos nas nosas redes sociais ( [Instagram](https://www.instagram.com/graficasennegro/) / [Linkedin](https://www.linkedin.com/company/gr%C3%A1ficas-en-negro/) / [Twitter](https://twitter.com/GRAFICASENNEGRO) ), para incluír novas miradas, compartir ideas e xerar sinerxías ou alianzas. Tamén podes subscribirte á nosa [newsletter](http://eepurl.com/hN3kdj), na que publicaremos avances, recursos ou convocatorias para participar en procesos colaborativos. O teu papel como profesional do deseño é fundamental para acadar un mundo mellor deseñado sen violencias de xénero.
     type: text
-  -
-    text: |-
+  - text: |-
       **Referencias bibliográficas**
 
       - MORANT, I., _¿Qué pasa con las mujeres creativas?_ Sororidad Creativa, 2021
       - CADOCHE, E. Y MONTARLOT, A., _El síndrome de la impostora_. Ed. Península, 2021
       - CRIADO, C., _La mujer invisible_. Seix Barral, 2020
-       
+
     type: text
-position: '1'
+position: "1"
 slug: pode-o-deseno-axudar-a-erradicar-as-violencias-de-xenero
 cover: /img/articles/covers/graficasennegro.jpg
 lang: gl

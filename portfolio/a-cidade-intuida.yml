@@ -1,9 +1,8 @@
 id: 45
-title: 'A cidade intuída'
+title: "A cidade intuída"
 slug: a-cidade-intuida
 body:
-  -
-    text: |-
+  - text: |-
       Ao enfrontarnos á identidade das xornadas A Cidade Intuída, quixemos reflexionar desde un principio, que tipo de comunicación podería asumir un evento que duraría un determinado período de tempo. Esta duración efémera, entendemos, permite unha comunicación máis rica e variable.
 
       Intuír v.t. adiviñar, barruntar, presentir, ventar. (dicionario da RAG)
@@ -16,61 +15,47 @@ body:
 
       \+ info [www.acidadeintuida.org](http://www.acidadeintuida.org)
     type: text
-  -
-    image: /img/portfolio/images/55576647e28a5-01.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-02.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-03.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-03.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-04.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-04.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-05.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-05.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-06.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-06.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-07.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-07.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-08.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-08.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-5500589393_429b0063c3_b.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-5500589393_429b0063c3_b.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-5500595675_b64649974e_b.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-5500595675_b64649974e_b.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-5500601743_dd6e01046e_b.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-5500601743_dd6e01046e_b.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-5501186924_0644db2205_b.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-5501186924_0644db2205_b.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-5511287139_5f7ebc684c_b.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-5511287139_5f7ebc684c_b.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576647e28a5-5539189507_8651895124_b.jpg
-    text: ''
+  - image: /img/portfolio/images/55576647e28a5-5539189507_8651895124_b.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558566a50f66f-55576647e28a5-02.jpg
 tags:
@@ -82,13 +67,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Desescribir
-  -
-    name: Cliente
-    value: 'Concello de Santiago'
-  -
-    name: Ano
-    value: '2010'
+  - name: Cliente
+    value: "Concello de Santiago"
+  - name: Ano
+    value: "2010"
 draft: true

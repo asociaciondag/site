@@ -1,14 +1,11 @@
 id: 445
-title: 'La DAG asiste al primer encuentro READ'
+title: "La DAG asiste al primer encuentro READ"
 body:
-  -
-    type: text
-    text: 'La Asociación Gallega de Diseñadores ha sido una de las asociaciones participantes en el primer encuentro organizado por la [Red Española de Asociaciones de Diseño](http://www.designread.es/) (READ) y coordinado por la [Asociación de Diseñadores de Madrid](http://www.dimad.org/) (DIMAD) que tuvo lugar el pasado 27 y 28 de junio en la Central de Diseño de Matadero Madrid. La cita contó con la presencia activa de 15 asociaciones representantes de distintas disciplinas del diseño y de diversas comunidades autónomas, por lo que se trató del encuentro con mayor representación de asociaciones de diseño hasta la fecha. El encuentro giraba en esta ocasión en torno a tres grandes bloques temáticos: 1. Políticas de diseño. Estado de las políticas nacionales del diseño / Sistema nacional del Diseño, actores / Promoción internacional del diseño español / Revisión de las distintas políticas autonómicas, puesta en común y ejemplos 2. La profesión del diseñador. Visibilizar y dar valor a la profesión en la sociedad / Visión de la profesión: service Design, business design, diseño e innovación, etc. / Sinergia con empresas y empresarios / Diseño y economía / Formación del diseñador, reciclaje, habilidades y competencias 3. Representatividad nacional del sector del diseño. Estrategias de representación del sector del Diseño / Falta de canales de comunicación con la Administración Y a su finalización se elaboró un documento de conclusiones en el que las asociaciones participantes declaran su intención de trabajar a partir de ahora de forma colaborativa y en el que instan a las administraciones públicas a que asuman sus responsabilidades en materia de diseño. El documento de conclusiones íntegro puede descargarse en el siguiente enlace:'
-  -
-    type: image
+  - type: text
+    text: "La Asociación Gallega de Diseñadores ha sido una de las asociaciones participantes en el primer encuentro organizado por la [Red Española de Asociaciones de Diseño](http://www.designread.es/) (READ) y coordinado por la [Asociación de Diseñadores de Madrid](http://www.dimad.org/) (DIMAD) que tuvo lugar el pasado 27 y 28 de junio en la Central de Diseño de Matadero Madrid. La cita contó con la presencia activa de 15 asociaciones representantes de distintas disciplinas del diseño y de diversas comunidades autónomas, por lo que se trató del encuentro con mayor representación de asociaciones de diseño hasta la fecha. El encuentro giraba en esta ocasión en torno a tres grandes bloques temáticos: 1. Políticas de diseño. Estado de las políticas nacionales del diseño / Sistema nacional del Diseño, actores / Promoción internacional del diseño español / Revisión de las distintas políticas autonómicas, puesta en común y ejemplos 2. La profesión del diseñador. Visibilizar y dar valor a la profesión en la sociedad / Visión de la profesión: service Design, business design, diseño e innovación, etc. / Sinergia con empresas y empresarios / Diseño y economía / Formación del diseñador, reciclaje, habilidades y competencias 3. Representatividad nacional del sector del diseño. Estrategias de representación del sector del Diseño / Falta de canales de comunicación con la Administración Y a su finalización se elaboró un documento de conclusiones en el que las asociaciones participantes declaran su intención de trabajar a partir de ahora de forma colaborativa y en el que instan a las administraciones públicas a que asuman sus responsabilidades en materia de diseño. El documento de conclusiones íntegro puede descargarse en el siguiente enlace:"
+  - type: image
     image: /img/news/images/553e7aa3c420e-encontro-read-2013.jpg
-  -
-    type: file
+  - type: file
     text: Descargar
     file: /files/553e7aa3c420e-conclusions-encontro-read.pdf
 intro: null

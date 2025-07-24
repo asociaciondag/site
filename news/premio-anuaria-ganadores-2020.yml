@@ -1,14 +1,12 @@
 id: 1041
-title: 'Los Premios Anuaria 2020 ya tienen ganadores'
+title: "Los Premios Anuaria 2020 ya tienen ganadores"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/anuaria.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El estudio [DARDO](http://www.dardo.gal/dardo/), liderado por nuestra socia Conchi Mayo, obtuvo una Selección Anuaria al mejor diseño de publicación editorial por el libro [«Futuros Posibles. Deseño para a innovación na era pos-covid»](https://www.veredictas.com/es/trabajo/14466/futuros_posibles._deseno_para_a_innovacion_na_era_pos_covid) editado por GAIN, con un diseño adaptado al nuevo contexto social. La segunda Selección Anuaria fue a la mejor tienda web, por el trabajo realizado para la artesana [Rosa Méndez](https://rosamendez.com/).
 
       Por otro lado, los compañeros de [Cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/?lang=es), Ricardo Tubío y Xabier Rilo, consiguieron una Selección Anuaria al mejor empaquetado por el proyecto de etiquetado creado para las [bodegas Abalo Méndez](http://cenlitrosmetrocadrado.com/alvarino-abalo-mendez/) de la DO Rías Baixas; gráfica basada en los cuatro valores que miden los viñedos cada mes y que permite variaciones de diseño con cada añada.
@@ -19,10 +17,10 @@ body:
 
       Puedes consultar todos los proyectos seleccionados en esta edición 2020 [aquí](https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html).
     type: text
-intro: 'La XXVII edición de los Premios Anuaria acaba de publicar las 124 obras seleccionadas, de las cuales cinco fueron creadas por socios y socias de DAG.'
+intro: "La XXVII edición de los Premios Anuaria acaba de publicar las 124 obras seleccionadas, de las cuales cinco fueron creadas por socios y socias de DAG."
 slug: premio-anuaria-ganadores-2020
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2021-02-18T13:00:12+00:00

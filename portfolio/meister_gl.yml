@@ -2,57 +2,44 @@ id: 224
 title: Meister
 slug: meister
 body:
-  -
-    text: 'Deseño dunha tipografía a medida para a marca alemá Jägermeister. A inspiración das súas formas bebe da xeometría da Bauhaus e outros movementos e deseñadores históricos como o construtivismo e A. M. Cassandre. A estrutura compacta dos caracteres, os ángulos marcados de 45 graos e as curvas achatadas, son tres das características principais deste deseño. A familia tipográfica inclúe dous pesos: Regular e Bold.'
+  - text: "Deseño dunha tipografía a medida para a marca alemá Jägermeister. A inspiración das súas formas bebe da xeometría da Bauhaus e outros movementos e deseñadores históricos como o construtivismo e A. M. Cassandre. A estrutura compacta dos caracteres, os ángulos marcados de 45 graos e as curvas achatadas, son tres das características principais deste deseño. A familia tipográfica inclúe dous pesos: Regular e Bold."
     type: text
-  -
-    info:
+  - info:
       code: '<iframe src="https://player.vimeo.com/video/265526966?app_id=122963" width="640" height="360" frameborder="0" title="Meister, a custom typeface for J&auml;germeister" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
-      ratio: ''
+      ratio: ""
     type: embed
-  -
-    image: /img/portfolio/images/01meister.png
-    text: ''
+  - image: /img/portfolio/images/01meister.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/02meister.png
-    text: ''
+  - image: /img/portfolio/images/02meister.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/03meister.png
-    text: ''
+  - image: /img/portfolio/images/03meister.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/04meister.png
-    text: ''
+  - image: /img/portfolio/images/04meister.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/05meister.png
-    text: ''
+  - image: /img/portfolio/images/05meister.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/06meister.png
-    text: ''
+  - image: /img/portfolio/images/06meister.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/07meister.png
-    text: ''
+  - image: /img/portfolio/images/07meister.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/08meister.png
-    text: ''
+  - image: /img/portfolio/images/08meister.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/09meister.png
-    text: ''
+  - image: /img/portfolio/images/09meister.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/10meister.png
-    text: ''
+  - image: /img/portfolio/images/10meister.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/11meister.png
-    text: ''
+  - image: /img/portfolio/images/11meister.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/01meister.png
 tags:
@@ -61,19 +48,14 @@ members_id:
   - 56
 lang: gl
 info:
-  -
-    name: 'Proxecto:'
+  - name: "Proxecto:"
     value: Meister
-  -
-    name: Coautor
-    value: 'Noel Pretorius'
-  -
-    name: 'Estudio:'
-    value: 'NM type'
-  -
-    name: 'Cliente:'
-    value: 'Jägermeister e Opperman Weiss'
-  -
-    name: 'Ano:'
-    value: '2018'
+  - name: Coautor
+    value: "Noel Pretorius"
+  - name: "Estudio:"
+    value: "NM type"
+  - name: "Cliente:"
+    value: "Jägermeister e Opperman Weiss"
+  - name: "Ano:"
+    value: "2018"
 draft: true

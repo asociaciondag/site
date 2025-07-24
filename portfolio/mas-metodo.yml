@@ -1,45 +1,35 @@
 id: 126
-title: 'Más Método'
+title: "Más Método"
 slug: mas-metodo
 body:
-  -
-    text: 'Identidade visual para unha consultora que nace coa idea de ofrecer, tanto a emprendedores como a empresas, coñecemento e apoio para a mellor xestión dos seus negocios e ideas. A súa proposta é dinámica, metódica e resolutiva, cun método de traballo innovador, didáctico e creativo. Esta diferenciación no método respecto da súa competencia debía estar manifestada en todo o programa de identidade.'
+  - text: "Identidade visual para unha consultora que nace coa idea de ofrecer, tanto a emprendedores como a empresas, coñecemento e apoio para a mellor xestión dos seus negocios e ideas. A súa proposta é dinámica, metódica e resolutiva, cun método de traballo innovador, didáctico e creativo. Esta diferenciación no método respecto da súa competencia debía estar manifestada en todo o programa de identidade."
     type: text
-  -
-    image: /img/portfolio/images/56fb94340c3fe-mas-metodo-02-desonhos.jpg
-    text: ''
+  - image: /img/portfolio/images/56fb94340c3fe-mas-metodo-02-desonhos.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56fb94340cabc-mas-metodo-03-desonhos.jpg
-    text: ''
+  - image: /img/portfolio/images/56fb94340cabc-mas-metodo-03-desonhos.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56fb94340ce41-mas-metodo-04-desonhos.jpg
-    text: ''
+  - image: /img/portfolio/images/56fb94340ce41-mas-metodo-04-desonhos.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56fb945ae02a6-mas-metodo-05-desonhos.jpg
-    text: ''
+  - image: /img/portfolio/images/56fb945ae02a6-mas-metodo-05-desonhos.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56fb945ae0893-mas-metodo-06-desonhos.jpg
-    text: ''
+  - image: /img/portfolio/images/56fb945ae0893-mas-metodo-06-desonhos.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56fb945ae0fc8-mas-metodo-07-desonhos.gif
-    text: ''
+  - image: /img/portfolio/images/56fb945ae0fc8-mas-metodo-07-desonhos.gif
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56fb947e602a4-mas-metodo-08-desonhos.jpg
-    text: ''
+  - image: /img/portfolio/images/56fb947e602a4-mas-metodo-08-desonhos.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56fb947e606a7-mas-metodo-09-desonhos.jpg
-    text: ''
+  - image: /img/portfolio/images/56fb947e606a7-mas-metodo-09-desonhos.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56fb947e60a64-mas-metodo-10-desonhos.jpg
-    text: ''
+  - image: /img/portfolio/images/56fb947e60a64-mas-metodo-10-desonhos.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/56fb94340b90c-mas-metodo-01-desonhos.jpg
 tags: []

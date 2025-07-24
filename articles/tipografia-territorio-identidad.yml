@@ -1,9 +1,8 @@
 id: 12
-title: 'Tipografía, territorio e identidad. La identidad pública a través de la tipografía personalizada'
-author: 'Marcos Dopico'
+title: "Tipografía, territorio e identidad. La identidad pública a través de la tipografía personalizada"
+author: "Marcos Dopico"
 body:
-  -
-    text: |-
+  - text: |-
       La identidad corporativa transita en las últimas décadas desde la preferencia por el símbolo al desarrollo de programas gráficos flexibles y escalables en los que la tipografía se ha colocado en un lugar de privilegio desarrollando un nuevo rol. Aquellos elementos identificadores básicos –nombre, imagotipo, logotipo– han dejado de ser en solitario herramientas para el éxito en un mundo con un creciente número de soportes, tecnologías y contextos a los que debe atender una marca. En este horizonte la creación de tipografías «personalizadas» han ocupado un nuevo rol, ganándose un lugar destacado dentro de esos elementos identificadores. En las marcas territoriales observamos esta tendencia tipográfica, favorecida por las estrategias identificadoras con los elementos territoriales con el objetivo de proyectarse al exterior desde la diferencia.
 
       ## **La identidad corporativa: de la estandarización tipográfica a la personalización**
@@ -22,87 +21,69 @@ body:
 
       Se han generado unas necesidades de diferenciación identitaria no exentas de la paradoja de pretender una proyección global a partir de una identidad local. Ello ha favorecido estrategias propias del ámbito empresarial y cada vez más términos como el de «marca-país» están siendo asimilados como estrategias globales. A las cuestiones de poder político, influencia en el mundo y prestigio, se le han sumado aspectos materiales y cuantificables, como las inversiones extranjeras, las exportaciones de productos o el turismo. Los arraigos al lugar, especialmente en aquellos sitios donde existe una intención identificadora con los elementos nacionales de una rica tradición, nutren al terreno del diseño de marcas, y la tipografía personalizada enraizada en su tradición encaja a la perfección como un elemento más dentro de esa estrategia de la diferenciación con respecto a sus competidores, destacando la cultura, la tradición, la historia, el paisaje, el patrimonio gastronómico o el arquitectónico.
     type: text
-  -
-    image: /img/articles/images/figura1.png
-    text: 'Figura 1: Logotipo del gobierno de los Países Bajos del Studio Dumbar con la tipografía personalizada Rijksoverheid Serif (2008).'
+  - image: /img/articles/images/figura1.png
+    text: "Figura 1: Logotipo del gobierno de los Países Bajos del Studio Dumbar con la tipografía personalizada Rijksoverheid Serif (2008)."
     mode: right
     type: image
-  -
-    text: 'En muchas ocasiones la tipografía se usa como un elemento unificador cuya misión es la integración y vertebración de todas las variantes de una marca. En estos casos trasciende al logotipo, sistematiza y reunifica diferentes marcas y submarcas de una misma identidad. Ocurre con frecuencia en el caso de las marcas de gobiernos e instituciones con una gran cantidad de identificadores. El proyecto del Studio Dumbar para la identidad del gobierno holandés [\[3\]](#n3) \[Figura 1\] en 2008, integra en su arquitectura de marca las 175 identidades gubernamentales dispersas que existían hasta ese momento. Como elemento unificador se usa una tipografía personalizada \[Figura 2\] diseñada por Peter Verheul [\[4\]](#n4), recogiendo además la rica tradición tipográfica en los Países Bajos. Este proyecto del gobierno de los Países Bajos es un claro ejemplo del poder del diseño y la tipografía para a creación de una imagen unificada y de la influencia directa del diseño en la percepción de la labor política de un gobierno por parte de los ciudadanos. El proyecto se plantea a partir de una crisis política de identidad del gobierno de la CDU de Jan Peter Balkenende en 2006. Ante la necesidad de optimizar los recursos se decidió impulsar a colaboración entre los diferentes ministerios y áreas. El reflejo de esta colaboración fue la creación de un único logotipo basado en la figura del león característico del escudo holandés tradicional, junto con una tipografía que identificase los diferentes ministerios y áreas. El diseño de la tipografía de Verheul partió de otro tipo, la Versa de su mismo autor, dándole un carácter más distintivo, con remates cónicos y asimétricos, añadiendo además una versión lineal humanista más neutra para ampliar el rango de soportes y su versatilidad.'
+  - text: 'En muchas ocasiones la tipografía se usa como un elemento unificador cuya misión es la integración y vertebración de todas las variantes de una marca. En estos casos trasciende al logotipo, sistematiza y reunifica diferentes marcas y submarcas de una misma identidad. Ocurre con frecuencia en el caso de las marcas de gobiernos e instituciones con una gran cantidad de identificadores. El proyecto del Studio Dumbar para la identidad del gobierno holandés [\[3\]](#n3) \[Figura 1\] en 2008, integra en su arquitectura de marca las 175 identidades gubernamentales dispersas que existían hasta ese momento. Como elemento unificador se usa una tipografía personalizada \[Figura 2\] diseñada por Peter Verheul [\[4\]](#n4), recogiendo además la rica tradición tipográfica en los Países Bajos. Este proyecto del gobierno de los Países Bajos es un claro ejemplo del poder del diseño y la tipografía para a creación de una imagen unificada y de la influencia directa del diseño en la percepción de la labor política de un gobierno por parte de los ciudadanos. El proyecto se plantea a partir de una crisis política de identidad del gobierno de la CDU de Jan Peter Balkenende en 2006. Ante la necesidad de optimizar los recursos se decidió impulsar a colaboración entre los diferentes ministerios y áreas. El reflejo de esta colaboración fue la creación de un único logotipo basado en la figura del león característico del escudo holandés tradicional, junto con una tipografía que identificase los diferentes ministerios y áreas. El diseño de la tipografía de Verheul partió de otro tipo, la Versa de su mismo autor, dándole un carácter más distintivo, con remates cónicos y asimétricos, añadiendo además una versión lineal humanista más neutra para ampliar el rango de soportes y su versatilidad.'
     type: text
-  -
-    image: /img/articles/images/figura2.png
-    text: 'Figura 2: Tipografía Rijksoverheid Serif y Sans diseñada por Peter Verheul para el proyecto de identidad corporativa del Studio Dumbar.'
+  - image: /img/articles/images/figura2.png
+    text: "Figura 2: Tipografía Rijksoverheid Serif y Sans diseñada por Peter Verheul para el proyecto de identidad corporativa del Studio Dumbar."
     mode: normal
     type: image
-  -
-    text: 'Un caso similar lo encontramos en el gobierno alemán \[Figura 3\]. Desde que en 1996 Lisa Eidt y Jürgen Huber diseñaran la [identidad visual del gobierno](https://styleguide.bundesregierung.de/sg-de), su tipografía corporativa había variando desde la Univers inicialmente propuesta a la FF Transit de 1997 usada por Metadesign. Finalmente en 2017 la agencia Adlerschmidt propuso la creación de la tipografía Bundes al estudio Supertype con el objetivo de unificar una sola voz tipográfica a la vez que atendía al desafío de unas necesidades de comunicación de un grupo de población muy amplio, mejorando la legibilidad en soportes digitales y tradicionales.'
+  - text: 'Un caso similar lo encontramos en el gobierno alemán \[Figura 3\]. Desde que en 1996 Lisa Eidt y Jürgen Huber diseñaran la [identidad visual del gobierno](https://styleguide.bundesregierung.de/sg-de), su tipografía corporativa había variando desde la Univers inicialmente propuesta a la FF Transit de 1997 usada por Metadesign. Finalmente en 2017 la agencia Adlerschmidt propuso la creación de la tipografía Bundes al estudio Supertype con el objetivo de unificar una sola voz tipográfica a la vez que atendía al desafío de unas necesidades de comunicación de un grupo de población muy amplio, mejorando la legibilidad en soportes digitales y tradicionales.'
     type: text
-  -
-    image: /img/articles/images/figura3.png
-    text: 'Figura 3: Logotipo del gobierno alemán con la tipografía personalizada Bundes Sans y Bundes Serif diseñada por la fundición Supertype (2017).'
+  - image: /img/articles/images/figura3.png
+    text: "Figura 3: Logotipo del gobierno alemán con la tipografía personalizada Bundes Sans y Bundes Serif diseñada por la fundición Supertype (2017)."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En 2019 la ciudad de Viena presentó su nueva marca \[Figura 4\]. Viena es una de las grandes capitales europeas con 1,9 millones de habitantes y con una rica historia y patrimonio artístico, patria de figuras como Mozart, Klim y Freud. La agencia Saffron Consultants planteó un trabajo que priorizó unificar la imagen de 70 departamentos administrativos del ayuntamiento en una sola arquitectura gráfica a través de la marca Stadt Wien. Para ello encargó a la fundición tipográfica Dalton Maag una tipografía personalizada que ofreciese un tono de voz tipográfico unificado. El resultado fue una tipo lineal en tres pesos –ExtraBold, Bold y Regular– de trazos suaves, formas redondeadas y contraformas abiertas inspirada en el patrimonio de la ciudad. En la fundición tipográfica Dalton Maag describen el punto de partida en el proceso de creación:
 
       > «Viena es un rico tesoro para la inspiración tipográfica, desde las letras ornamentales que se encuentran en los edificios históricos hasta el diseño funcional de los sistemas de señalización de la ciudad. Esto, combinado con la idea de Saffron de colocar el escudo histórico de la ciudad en el centro de la identidad, inspiró directamente el lenguaje de diseño de la tipografía». [Dalton Maag](https://www.daltonmaag.com/work/city-of-vienna)
 
       Esta tipografía posee un carácter cálido y accesible con buena legibilidad en tamaños pequeños. Combina la eficacia necesaria en tareas de comunicación de la administración con la representatividad de la diversidad y la humanidad de Viena y sus gentes. A nivel técnico también se introdujeron alternativas estilísticas [\[5\]](#n5) gracias al lenguaje OpenType, que permiten ahorrar tiempo en la construcción de la marca o submarcas introduciendo variantes _display_ para algunos caracteres.
     type: text
-  -
-    image: /img/articles/images/figura4.png
-    text: 'Figura 4: Logotipo y tipografía corporativa de la marca Stadt Wien de la agencia Saffron y la fundición Dalton Maag (2019).'
+  - image: /img/articles/images/figura4.png
+    text: "Figura 4: Logotipo y tipografía corporativa de la marca Stadt Wien de la agencia Saffron y la fundición Dalton Maag (2019)."
     mode: normal
     type: image
-  -
-    text: 'La tipografía también ha servido para introducir las nuevas tendencias de diseño _responsive_ y diseño variable adoptados por las instituciones. En 2018 el estudio finlandés Werklig rediseñó la [identidad visual del ayuntamiento de Helsinki](https://brand.hel.fi/) \[Figura 5\] derivando la marca hacia la promoción turística internacional. Helsinki es, además de la capital de Finlandia, el centro de una región urbana de 1,4 millones de habitantes con un gran dinamismo económico, empresarial y turístico. Hasta ese momento no existía una marca unificada como ciudad y los diferentes departamentos administrativos poseían imágenes y logotipos diferentes. El único elemento en común era el tradicional escudo de armas de la ciudad, con grandes limitaciones funcionales y estéticas. Por ello, la nueva identidad incluye el rediseño simplificado del escudo de armas, concretamente su contorno exterior. El nombre de la ciudad aparece en su interior en diferentes idiomas compuesto con la tipografía personalizada Helsinki Grotesk diseñada por Wolfgang Schwärzler de Camelot Typefaces. Con ello se pretende respetar el pasado pero ofrecer una imagen atemporal, versátil, flexible, memorable y de sencilla adaptación. En las variaciones de la marca adquiere un gran protagonismo la tipografía, que actúa como elemento aglutinador y permite adaptarse al soporte, formato e idioma sin perder su identidad, además de ofrecer un esquema ordenado para la creación de la imagen de los diferentes departamentos de la ciudad. La tipografía Helsinki Grotesk es una lineal neogroteska personalizada con una fuerte modulación orgánica, con 4 pesos y sus correspondientes itálicas.'
+  - text: 'La tipografía también ha servido para introducir las nuevas tendencias de diseño _responsive_ y diseño variable adoptados por las instituciones. En 2018 el estudio finlandés Werklig rediseñó la [identidad visual del ayuntamiento de Helsinki](https://brand.hel.fi/) \[Figura 5\] derivando la marca hacia la promoción turística internacional. Helsinki es, además de la capital de Finlandia, el centro de una región urbana de 1,4 millones de habitantes con un gran dinamismo económico, empresarial y turístico. Hasta ese momento no existía una marca unificada como ciudad y los diferentes departamentos administrativos poseían imágenes y logotipos diferentes. El único elemento en común era el tradicional escudo de armas de la ciudad, con grandes limitaciones funcionales y estéticas. Por ello, la nueva identidad incluye el rediseño simplificado del escudo de armas, concretamente su contorno exterior. El nombre de la ciudad aparece en su interior en diferentes idiomas compuesto con la tipografía personalizada Helsinki Grotesk diseñada por Wolfgang Schwärzler de Camelot Typefaces. Con ello se pretende respetar el pasado pero ofrecer una imagen atemporal, versátil, flexible, memorable y de sencilla adaptación. En las variaciones de la marca adquiere un gran protagonismo la tipografía, que actúa como elemento aglutinador y permite adaptarse al soporte, formato e idioma sin perder su identidad, además de ofrecer un esquema ordenado para la creación de la imagen de los diferentes departamentos de la ciudad. La tipografía Helsinki Grotesk es una lineal neogroteska personalizada con una fuerte modulación orgánica, con 4 pesos y sus correspondientes itálicas.'
     type: text
-  -
-    image: /img/articles/images/figura5.png
-    text: 'Figura 5: Identidad visual del ayuntamiento de Helsinki del estudio Werklig (2018). Arquitectura de marca y aplicaciones de la tipografía Helsinki Grotesk de la fundición Camelot Typefaces.'
+  - image: /img/articles/images/figura5.png
+    text: "Figura 5: Identidad visual del ayuntamiento de Helsinki del estudio Werklig (2018). Arquitectura de marca y aplicaciones de la tipografía Helsinki Grotesk de la fundición Camelot Typefaces."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Estrategia similar ha sido utilizada por el gobierno sueco en 2013. La agencia Söderhavet bajo el encargo del NSU (Consejo para la promoción de Suecia, formado por cinco agencias gubernamentales: Ministerio de Asuntos Exteriores, Ministerio de Empresa, Energía y Comunicaciones, Visit Sweden, Business Sweden y Swedish Institute), creó la [identidad del gobierno](https://identity.sweden.se/) \[Figura 6\]. El enfoque de la marca trata de reflejar el corazón y el alma de un país a través de elementos simbólicos que unan a sus habitantes. Después de probar con coronas, escudos de armas y formas abstractas, se llegó a la conclusión de que la bandera sueca es posiblemente el sistema visual mejor comprendido por sus habitantes para la representación de la nación de una forma perdurable en el tiempo. La identidad se apoya en la bandera sueca y sus colores, junto con una tipografía personalizada diseñada por su fundición tipográfica So-Type para explorar una jerarquía de marca estructurada y un sistema escalable. El logotipo siempre contiene la palabra Suecia en el idioma nativo (Sverige) junto con la traducción a diferentes idiomas en función de las necesidades. Es esta una estrategia consciente, una oportunidad de comunicar al mundo algo propio del país, y a la vez comunicarse con sus ciudadanos en su lengua materna, lo cual crea un vínculo afectivo y de orgullo. El uso de diferentes idiomas en la arquitectura de marca permite una proyección más internacional sin perder su identidad. Tal y como afirman sus creadores:
 
       > «Crear una identidad para una nación requiere un diseño que refleje al país en su conjunto y, al mismo tiempo funcione en un contexto intercultural y político». [Söderhavet](https://soderhavet.com/work/sweden/)
 
       Pero esta estrategia va más allá de cuestiones de mensaje y apela también a la tradición del diseño. La tipografía personalizada crea una expresión visual unificada que funciona en todas las organizaciones gubernamentales. Originalmente creada para los idiomas latinos, se extendió posteriormente a más de 50 idiomas para posibilitar una palabra versátil que comunicara la marca Suecia en todos los idiomas. La tipografía geométrica y mecánica diseñada por Stefan Hattenbach y Jesper Robin también posee un fuerte vínculo emocional con el país y su tradición en diseño. Está basada en el trabajo de rotulación de las viejas señales de las calles y carreteras en Suecia, en las fuentes monoespaciadas, en las clásicas grotescas lineales y en general en el diseño escandinavo caracterizado por la estandarización y el racionalismo.
     type: text
-  -
-    image: /img/articles/images/figura6.png
-    text: 'Figura 6: Identidad corporativa y articulaciones de la marca para el gobierno sueco del estudio Söderhavet con la tipografía Sweden Sans de la fundición Sö-Type (2013).'
+  - image: /img/articles/images/figura6.png
+    text: "Figura 6: Identidad corporativa y articulaciones de la marca para el gobierno sueco del estudio Söderhavet con la tipografía Sweden Sans de la fundición Sö-Type (2013)."
     mode: normal
     type: image
-  -
-    text: 'La ciudad de Oslo en Noruega acaba de renovar su identidad en 2019. La agencia [Creuna Norway](https://www.creuna.com/en/cases/a-unifying-identity-for-oslo/) a cargo del trabajo también apela a la identidad del diseño escandinavo, los principios universales del diseño, la funcionalidad y la atemporalidad. La ciudad de Oslo abarca una entidad más amplia definida como Oslo Kommune, y es percibida por sus ciudadanos como una ciudad con una alta calidad de vida, sostenible y segura. Sin embargo, la imagen que ofrecía era borrosa e indefinida, con más de 250 logotipos diferentes en sus municipios. Se decidió crear un vínculo más fuerte con sus ciudadanos, elaborando un solo logotipo simplificado del escudo de armas de la ciudad con la figura de San Hallvard, presente desde la Edad Media y rediseñado por última vez en 1924. La figura, compuesta por líneas gruesas simplificadas y optimizadas para medios digitales e impresos, está acompañada por la tipografía personalizada Oslo Sans del diseñador Stefan Ellmer \[Figura 7\]. Es una tipografía lineal grotesca de bajo contraste y formas orgánicas inspiradas en la tradición de la señalización de calles en Oslo y que encaja en la imagen minimalista del logotipo.'
+  - text: 'La ciudad de Oslo en Noruega acaba de renovar su identidad en 2019. La agencia [Creuna Norway](https://www.creuna.com/en/cases/a-unifying-identity-for-oslo/) a cargo del trabajo también apela a la identidad del diseño escandinavo, los principios universales del diseño, la funcionalidad y la atemporalidad. La ciudad de Oslo abarca una entidad más amplia definida como Oslo Kommune, y es percibida por sus ciudadanos como una ciudad con una alta calidad de vida, sostenible y segura. Sin embargo, la imagen que ofrecía era borrosa e indefinida, con más de 250 logotipos diferentes en sus municipios. Se decidió crear un vínculo más fuerte con sus ciudadanos, elaborando un solo logotipo simplificado del escudo de armas de la ciudad con la figura de San Hallvard, presente desde la Edad Media y rediseñado por última vez en 1924. La figura, compuesta por líneas gruesas simplificadas y optimizadas para medios digitales e impresos, está acompañada por la tipografía personalizada Oslo Sans del diseñador Stefan Ellmer \[Figura 7\]. Es una tipografía lineal grotesca de bajo contraste y formas orgánicas inspiradas en la tradición de la señalización de calles en Oslo y que encaja en la imagen minimalista del logotipo.'
     type: text
-  -
-    image: /img/articles/images/figura7.png
-    text: 'Figura 7: Identidad corporativa y articulaciones de la ciudad del Estocolmo de la agencia Creuna Norway con la tipografía Oslo Sans de Stefan Ellmer (2019).'
+  - image: /img/articles/images/figura7.png
+    text: "Figura 7: Identidad corporativa y articulaciones de la ciudad del Estocolmo de la agencia Creuna Norway con la tipografía Oslo Sans de Stefan Ellmer (2019)."
     mode: normal
     type: image
-  -
-    text: 'La agencia Essen International en su proyecto de identidad de 2014 para la ciudad de Estocolmo \[Figura 8\] apela también a la tradición racional escandinava. El organismo Stockholms Stadshus AB coordina hasta 14 administraciones de distritos responsables de la mayoría de los servicios municipales de la ciudad de Estocolmo, 15 departamentos y 16 empresas municipales. Con el objetivo de coordinar de manera coherente la imagen de esta amplia gama de servicios e impulsar el crecimiento de la ciudad se creó una marca flexible para soportar las numerosas necesidades, orbitando alrededor de un tipo de letra personalizado y el símbolo de su escudo de armas con el dibujo de St. Erik, el patrón de Estocolmo, que ya aparecía en la anterior versión del logotipo de la ciudad. Además de una nueva organización en la arquitectura de marca, la principal aportación de la nueva imagen ha sido la eliminación de la paleta de colores azul y amarillo de la imagen anterior abriéndose a una nueva gama de colores más vibrantes sobre las cuales se superpone el logotipo simplificado en versión blanca sobre bloques de color o en negro sobre fondos blancos. Establece un sistema de comunicación claro y escalable, a cuya eficacia contribuye de forma definitiva el tipo de letra personalizado creado para la ocasión. Se trata de una fuente geométrica contemporánea diseñada por la fundición Swiss Typefaces y que sustituye a la tipografía con remates anterior, que poseía notables limitaciones en soportes digitales. Aunque se trata de una tipografía lineal geométrica muy rígida en la línea de tipos como la Futura, Kabel o Super Grotesk, posee detalles expresivos en algunas letras como la «a», «f» o «g» de caja baja que lo hacen reconocible. Esta tipografía, al margen de su estética limpia y clara, es una alusión clara al sentimiento y a la forma identitaria, a la recuperación de la tradición y la modernización del diseño escandinavo como una de las claves del auge de la tipografía personalizada en estos territorios.'
+  - text: 'La agencia Essen International en su proyecto de identidad de 2014 para la ciudad de Estocolmo \[Figura 8\] apela también a la tradición racional escandinava. El organismo Stockholms Stadshus AB coordina hasta 14 administraciones de distritos responsables de la mayoría de los servicios municipales de la ciudad de Estocolmo, 15 departamentos y 16 empresas municipales. Con el objetivo de coordinar de manera coherente la imagen de esta amplia gama de servicios e impulsar el crecimiento de la ciudad se creó una marca flexible para soportar las numerosas necesidades, orbitando alrededor de un tipo de letra personalizado y el símbolo de su escudo de armas con el dibujo de St. Erik, el patrón de Estocolmo, que ya aparecía en la anterior versión del logotipo de la ciudad. Además de una nueva organización en la arquitectura de marca, la principal aportación de la nueva imagen ha sido la eliminación de la paleta de colores azul y amarillo de la imagen anterior abriéndose a una nueva gama de colores más vibrantes sobre las cuales se superpone el logotipo simplificado en versión blanca sobre bloques de color o en negro sobre fondos blancos. Establece un sistema de comunicación claro y escalable, a cuya eficacia contribuye de forma definitiva el tipo de letra personalizado creado para la ocasión. Se trata de una fuente geométrica contemporánea diseñada por la fundición Swiss Typefaces y que sustituye a la tipografía con remates anterior, que poseía notables limitaciones en soportes digitales. Aunque se trata de una tipografía lineal geométrica muy rígida en la línea de tipos como la Futura, Kabel o Super Grotesk, posee detalles expresivos en algunas letras como la «a», «f» o «g» de caja baja que lo hacen reconocible. Esta tipografía, al margen de su estética limpia y clara, es una alusión clara al sentimiento y a la forma identitaria, a la recuperación de la tradición y la modernización del diseño escandinavo como una de las claves del auge de la tipografía personalizada en estos territorios.'
     type: text
-  -
-    image: /img/articles/images/figura8.png
-    text: 'Figura 8: Identidad corporativa de la ciudad de Estocolmo de la agencia Essen International (2014) con la tipografía Stockholm Type.'
+  - image: /img/articles/images/figura8.png
+    text: "Figura 8: Identidad corporativa de la ciudad de Estocolmo de la agencia Essen International (2014) con la tipografía Stockholm Type."
     mode: normal
     type: image
-  -
-    text: 'El gobierno de Finlandia también decidió en 2015 [renovar su identidad](https://toolbox.finland.fi/brand-identity-guidelines/) como país en la lógica de las virtudes tradicionales de la cultura finlandesa, del concepto de honestidad y resiliencia (sisu). La identidad, creada por Hasan and partners, está basada en la bandera finlandesa junto con una tipografía lineal de corte geométrico que intenta aludir a su cultura industrial. La tipografía personalizada denominada Finlandica fue creada por la fundición [Helsinki Type Studio](https://helsinkitypestudio.com/custom) \[Figura 9\]. Es además una tipografía _open source_ distribuida de forma gratuita a través de la plataforma [GitHub](https://github.com/HelsinkiTypeStudio/Finlandica).'
+  - text: 'El gobierno de Finlandia también decidió en 2015 [renovar su identidad](https://toolbox.finland.fi/brand-identity-guidelines/) como país en la lógica de las virtudes tradicionales de la cultura finlandesa, del concepto de honestidad y resiliencia (sisu). La identidad, creada por Hasan and partners, está basada en la bandera finlandesa junto con una tipografía lineal de corte geométrico que intenta aludir a su cultura industrial. La tipografía personalizada denominada Finlandica fue creada por la fundición [Helsinki Type Studio](https://helsinkitypestudio.com/custom) \[Figura 9\]. Es además una tipografía _open source_ distribuida de forma gratuita a través de la plataforma [GitHub](https://github.com/HelsinkiTypeStudio/Finlandica).'
     type: text
-  -
-    image: /img/articles/images/figura9.png
-    text: 'Figura 9: Identidad corporativa y articulaciones de la marca para el gobierno finlandés del estudio Hasan &amp; Partners con la tipografía Finlandica de la fundición Helsinki Type Studios (2015).'
+  - image: /img/articles/images/figura9.png
+    text: "Figura 9: Identidad corporativa y articulaciones de la marca para el gobierno finlandés del estudio Hasan &amp; Partners con la tipografía Finlandica de la fundición Helsinki Type Studios (2015)."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## **El caso danés. El legado de los arquitectos gráficos**
 
       En el terreno del diseño gráfico, y del diseño de tipografías en particular, Dinamarca se ha consolidado como uno de los actores principales en las dos últimas décadas. Simplicidad, racionalismo, relación con la naturaleza, forma y estética supeditada a la función, han sido sus apuestas reflejo de una sociedad igualitaria y pionera en aspectos sociales. Una de las claves ha sido la reivindicación de su identidad y tradición cultural como estrategia de supervivencia de un país pequeño, con una lengua propia minoritaria, frente a la globalización. En esta estrategia un pilar básico ha sido la reivindicación de su tradición cultural. En la época contemporánea, la entrada de Dinamarca en la CEE [\[6\]](#n6) supuso una oportunidad para la reflexión en torno a la identidad danesa ante el mundo. Pero no será hasta la década de los 90, con una reivindicación de lo moderno a través de sus tradiciones, cuando los estudios de diseño daneses apuesten por la modernización de su rica simbología. Las identidades corporativas de sus instituciones han sido la cara más visible de esta renovación. De este proceso se beneficiaron ministerios, ayuntamientos, oficinas gubernamentales, bibliotecas, museos nacionales, teatros, servicios de correos, transportes y demás sectores públicos.
@@ -111,23 +92,19 @@ body:
 
       > «Los diseños deben crearse de acuerdo con la región y el país. Lo contrario daría lugar a diseños internacionales neutros. Por eso tratamos de hacer diseño con un sentimiento danés [\[10\]](#n10)».
     type: text
-  -
-    image: /img/articles/images/figura10.png
-    text: 'Figura 10: Logotipo y tipografía corporativa de la empresa estatal de ferrocarriles danesa DSB con la tipografía corporativa Vía de la agencia Kontrapunkt (1997).'
+  - image: /img/articles/images/figura10.png
+    text: "Figura 10: Logotipo y tipografía corporativa de la empresa estatal de ferrocarriles danesa DSB con la tipografía corporativa Vía de la agencia Kontrapunkt (1997)."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura11.png
-    text: 'Figura 11: Logotipo y tipografía corporativa del Danish Design Award de la agencia Kontrapunkt (2017).'
+  - image: /img/articles/images/figura11.png
+    text: "Figura 11: Logotipo y tipografía corporativa del Danish Design Award de la agencia Kontrapunkt (2017)."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/figura12.png
-    text: 'Figura 12: Cartel publicitario corporativo del ayuntamiento de Copenhagen con la tipografía corporativa KBH diseñada por el estudio e-Types y la fundición PlayType (2019).'
+  - image: /img/articles/images/figura12.png
+    text: "Figura 12: Cartel publicitario corporativo del ayuntamiento de Copenhagen con la tipografía corporativa KBH diseñada por el estudio e-Types y la fundición PlayType (2019)."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Durante las últimas dos décadas, en buena parte de las marcas territoriales (países, comunidades, regiones, ayuntamientos…) la tipografía se ha convertido en una herramienta con una función identificadora con los elementos del patrimonio locales con el objetivo de proyectarse al exterior desde la diferencia. En un contexto globalizado en el que las influencias estéticas tienden a diluir la diversidad, en el que las empresas multinacionales y franquicias convierten los barrios y calles de las ciudades en intercambiables y equiparables a cualquier lugar del mundo, la apuesta por la tipografía singular basada en la tradición local y el patrimonio cultural es una estrategia dentro de la imagen corporativa para proyectarse hacia el exterior poniendo sobre la mesa la diferenciación con respecto a la competencia. La mirada hacia su patrimonio suele provocar además una mayor identificación emocional tanto del ciudadano local como del turista. Algo recurrente y efectivo hoy en día en la creación de una identidad territorial es crear una idea central sobre la que orbita la marca y todo su programa de expresiones gráficas y audiovisuales. Normalmente esa idea es simple, inteligible y diferenciada, y sus expresiones visuales se crean a base de cualidades emocionales. La tipografía se ha convertido en una de esas expresiones visuales que ha demostrado un importante vínculo cultural con los habitantes de una región, aunque sea de una manera sutil y en muchas ocasiones inconsciente.
 
       Mientras en países con una gran tradición tipográfica como Alemania u Holanda este camino ha sido más sencillo ya que han continuado con su labor, otras países como los nórdicos en los que no existe una tradición ortodoxa, han tenido que reinventarse y han mirado al pasado tomando como referente un trabajo tipográfico elaborado desde principios de siglo XX por arquitectos, artistas o artesanos y basado en sus símbolos identitarios más arraigados para construir un lenguaje tipográfico renovado. Esa mirada hacia los referentes históricos en el propio territorio por parte de los diseñadores contemporáneos ha traído sorprendentes resultados, avanzando hacia soluciones inexploradas cuando los caminos parecían agotados.
@@ -150,7 +127,7 @@ body:
       - Mathieu Lommen. _Letterrijk Rijksoverheid. Serif en Sans. Een letter van Peter Verheul._ Ten Hage: De Buitenkant Publishers, 2008.
       - Wally Olins. _Brand. Las marcas según Wally Olins._ Madrid: Ed. Turner, 2004
       - Widar Halén, Kerstin Wickman. _Diseño escandinavo: Más allá del mito. 50 años de diseño escandinavo en los países nórdicos_. A Coruña: Fundación Barrié de la Maza, 2004
-       
+
       [\[1\]](#t1) Richard Hollis. _Swiss Graphic Design. The origins and growth of an International Style (1920-1965)_ (Londres: Laurence King, 2006), 170
 
       [\[2\]](#t2) Wally Olins. _Brand. Las marcas según Wally Olins_ (Madrid: Ed. Turner, 2004) 177

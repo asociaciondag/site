@@ -1,20 +1,18 @@
 id: 94
-title: '1.000 trabajos en la cuarta edición de Creatividade Galega'
+title: "1.000 trabajos en la cuarta edición de Creatividade Galega"
 body:
-  -
-    text: |2-
+  - text: |2-
        Un proyecto creado en 2006 por Chechu Pérez, Eva Quintas y Alberto Dafonte que , desde la anterior edición, cuenta con la colaboración de la Asociación Provincial de Publicistas de Pontevedra APPP y de la Asociación Galega de Deseñadores DAG.
 
       En las 250 páginas del anuario se puede acceder a las mejores piezas gráficas realizadas en los distintos soportes publicitarios: identidades y aplicaciones corporativas, diseño gráfico, editorial, web, TV, embalajes, exterior y nuevos formatos.
 
       [+info.](http://www.creatividadegalega.es)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a98a8056-creatividade-galega.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Creatividade Galega es un proyecto pionero en Galicia en el que se recogen los trabajos más creativos de 80 empresas de publicidad, diseño y comunicación de Galicia.'
+intro: "Creatividade Galega es un proyecto pionero en Galicia en el que se recogen los trabajos más creativos de 80 empresas de publicidad, diseño y comunicación de Galicia."
 slug: 1-000-trabajos-en-la-cuarta-edicion-de-creatividade-galega
 tags: []
 lang: es

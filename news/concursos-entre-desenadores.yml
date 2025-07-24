@@ -1,8 +1,7 @@
 id: 2
-title: 'Concursos entre deseñadores'
+title: "Concursos entre deseñadores"
 body:
-  -
-    text: |-
+  - text: |-
       Concursos entre deseñadores: como facelos
 
       A idea de celebrar un concurso entre deseñadores para atopar unha solución a un problema ou resolver unha necesidade concreta está moi extendida. A convocatoria fará que se plantexe o problema (que se elabore un briefing), aportará unha serie de resultados e isto permitirá ao convocante escoller entre varias solucións. Nalgúns casos, isto pode permitir que algún cliente contacte con algún deseñador que, doutra forma, non habería de coñecer. Ás veces tamén se plantexa desde a mesma convocatoria como un evento público que dará relevancia non tanto ao deseñador como ao convocante ou ao tema do concurso, como sería o caso dun concurso de carteis para unha festa maior onde a mesma convocatoria participa do espíritu do acto, e onde non importa tanto o cartel resultante coma o concurso en sí.
@@ -20,7 +19,7 @@ body:
       - Os concursos abertos perpetúan a idea do deseño como unha cousa meritoria, como se estas convocatorias foran un concurso de talentos artísticos, no lugar de prestar atención ao prantexamento do problema (que a cotío significa comezar a resolver parte do problema) e o proceso.
       - Nun concurso aberto entre deseñadores faise traballar a moita xente sen remuneración algunha para obter unha soa solución que se paga, cousa que non se fai con otras profesións. ¿Por qué os deseñadores temos que traballar sen remuneración? ¿Por qué non o fan os avogados, por exemplo?
       - Tampouco serve de moito pedir “somente un certo nivel de presentación” como por exemplo bosquexos o unhas ideas básicas. É precisamente esta parte do proceso a mais difícil de resolver, e xeralmente a mais importante.
-       
+
       Se ben é certo que os concursos públicos poderían ser unha boa oportunidade para que deseñadores xóvenes ou non suficientemente coñecidos se den a coñecer, temos que pensar que ésta non pode ser a única fórmula para acceder ao ámbito profesional. Desde ADG/FAD cremos que é responsabilidade de todo deseñador –estudiante, principiante ou establecido– considerar se debe presentarse a un concurso no que non se retribuye a súa participación, sexa restrinxido ou non.
 
       A alternativa aos concursos abertos e non retribuidos son os concursos remunerados que, naturalmente, teñen que ser restrinxidos. Nun concurso deste tipo non se fai traballar aos deseñadores de forma gratuita, se lles paga polas súas propostas, lévense a cabo ou non. Fácilmente estas propostas, se son remuneradas, elaboraranse con máis interese e non “probando a ver que pasa” como acontece a cotío nun concurso aberto. Tamén adoita pasar que o convocante adoita valorar máis aquelo que pagou, e isto pódese traducir nun xuízo mais atento.
@@ -37,10 +36,10 @@ body:
       - Composición do xurado: o participante ten dereito a saber quen xulgará o seu traballo, cal é a súa profesión e con que criterio se vai valorar. Desde ADG/FAD recomendamos que como mínimo a metade dos membros do xurado sexan deseñadores gráficos en activo, seleccionados expresamente para o concurso.
       - Premios: debe concretarse o premio e se o feito de de ser premiado comporta algunha obligación (por exemplo participar en actos públicos, etc.)
       - Dereitos de autor: o convocante debe establecer de forma clara as condicións da adquisición dos dereitos de explotación.
-       
+
       Xunta directiva de ADG-FAD, Asociación de Diseñadores Gráficos y Directores de Arte
     type: text
-intro: 'Este documento manifesta a posición da Asociación de Directores de Arte y Diseñadores Gráficos ADG/FAD respecto á convocatoria de concursos entre deseñadores. Calquera que estea dacordo pode citalo ou difundilo citando a súa procedencia.'
+intro: "Este documento manifesta a posición da Asociación de Directores de Arte y Diseñadores Gráficos ADG/FAD respecto á convocatoria de concursos entre deseñadores. Calquera que estea dacordo pode citalo ou difundilo citando a súa procedencia."
 slug: concursos-entre-desenadores
 tags:
   - concursos

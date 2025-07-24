@@ -1,34 +1,30 @@
 id: 971
-title: 'La gráfica de «Formas do deseño. Galicia XXI» recibe un Letra de Plata'
+title: "La gráfica de «Formas do deseño. Galicia XXI» recibe un Letra de Plata"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/formasgalicia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los [premios Letra](http://www.premiosletra.com), que este año celebran su vigésima edición, otorgan anualmente sus galardones a proyectos destacados en el sector de la impresión digital y la comunicación visual.
 
       En esta ocasión, el proyecto gráfico presentado por DARDO ha sido reconocido en la categoría «Mejor aplicación de imagen en la cobertura de un evento». El diseño trazado por el estudio compostelano buscaba representar la diversidad de formas que puede adoptar el sector del diseño, a través de una letra G creada con película holográfica. El juego de luz y colores que permite la holografía daba vida a una composición de líneas que se cruzan recorriendo la superficie de cada un de los soportes. Esta gráfica iba acompañada de una composición de imagotipos gallegos, un mapa visual de Galicia fácilmente reconocible para la mayoría de asistentes a la muestra.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/formasdexpo-ext.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/formasdexpo4.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'El diseño creado por [DARDO](http://dardo.gal/dardo/) para la muestra que reunió en el Auditorio de Galicia la obra de numerosos diseñadores y diseñadoras gallegas ha sido seleccionado por el jurado profesional de los premios Letra.'
+intro: "El diseño creado por [DARDO](http://dardo.gal/dardo/) para la muestra que reunió en el Auditorio de Galicia la obra de numerosos diseñadores y diseñadoras gallegas ha sido seleccionado por el jurado profesional de los premios Letra."
 slug: formas-do-deseno-premioletra
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2020-03-04T19:50:29+00:00

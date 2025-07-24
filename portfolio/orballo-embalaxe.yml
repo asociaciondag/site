@@ -2,9 +2,8 @@ id: 336
 title: Orballo
 slug: orballo-embalaxe
 body:
-  -
-    image: /img/portfolio/images/orballo-embalaxe.jpg
-    text: ''
+  - image: /img/portfolio/images/orballo-embalaxe.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/orballo-embalaxe.jpg
 tags:

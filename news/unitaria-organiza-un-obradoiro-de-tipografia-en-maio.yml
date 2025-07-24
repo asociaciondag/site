@@ -1,14 +1,12 @@
 id: 663
-title: 'Unitaria organiza un obradoiro de tipografía en maio'
+title: "Unitaria organiza un obradoiro de tipografía en maio"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/572a2b50344cc-unitaria-grafica-tipografia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       **Impartido por:** María Ramos
 
       **Nivel:** Iniciación
@@ -25,12 +23,11 @@ body:
 
       **Cota:** 115 € (10 € de desconto para socios da DAG)
     type: text
-  -
-    list: ''
-    url: 'http://escolaunitaria.com/2016/04/01/tipografia/'
-    text: 'Inscrición en Unitaria'
+  - list: ""
+    url: "http://escolaunitaria.com/2016/04/01/tipografia/"
+    text: "Inscrición en Unitaria"
     type: button
-intro: 'O obxectivo da actividade é achegarse ás nocións básicas no deseño de tipografías. A partir do debuxo dun grupo de letras, os participantes aprenderán a traballar as súas formas para que funcionen como conxunto no seu deseño.'
+intro: "O obxectivo da actividade é achegarse ás nocións básicas no deseño de tipografías. A partir do debuxo dun grupo de letras, os participantes aprenderán a traballar as súas formas para que funcionen como conxunto no seu deseño."
 slug: unitaria-organiza-un-obradoiro-de-tipografia-en-maio
 tags: []
 lang: gl

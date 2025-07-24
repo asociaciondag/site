@@ -4,30 +4,27 @@ contact: |-
 
   <holabuenas@carloselrojo.com>
 links:
-  -
-    text: Coma
-    url: 'http://www.coma.gal/'
+  - text: Coma
+    url: "http://www.coma.gal/"
     type: link
-  -
-    text: elrojo
-    url: 'https://www.carloselrojo.com/'
+  - text: elrojo
+    url: "https://www.carloselrojo.com/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/carloselrojo/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/carloselrojo/"
     type: linkedin
-name: 'Carlos el Rojo'
+name: "Carlos el Rojo"
 slug: carlos-lorenzo
 avatarBig: null
 avatar: /img/avatars/foto-presentacion-carlos-el-rojo.jpg
 tags:
   - Gráfico
   - Web
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Audiovisual
   - Editorial
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

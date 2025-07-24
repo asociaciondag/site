@@ -22,15 +22,14 @@
  *
  */
 
-
 /* Social font */
 .ico-twitter, .ico-facebook, .ico-instagram, .ico-youtube {
-	& svg {
-		width: 20px;
-		height: 20px;
-		display: block;
-	}
-	& path {
-		fill: currentColor;
-	}
+  & svg {
+    width: 20px;
+    height: 20px;
+    display: block;
+  }
+  & path {
+    fill: currentColor;
+  }
 }

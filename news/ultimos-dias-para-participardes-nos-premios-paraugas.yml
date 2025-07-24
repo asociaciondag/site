@@ -1,14 +1,12 @@
 id: 927
-title: 'Últimos días para participardes nos Premios Paraugas'
+title: "Últimos días para participardes nos Premios Paraugas"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premios-paraugas-definitiva.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Trátase da única convocatoria existente en Galicia de premios desde o sector e para o sector. Nesta IV edición, que celebrará a entrega de premios o vindeiro 29 de novembro, a categoría de Deseño, patrocinada polo GAIN - Axencia Galega de Innovación, conta con tres premios específicos:
 
       **1. Premio Paraugas ao Mellor Deseño Gráfico**
@@ -63,17 +61,15 @@ body:
 
       3ª inscrición e seguintes: de balde
     type: text
-  -
-    list: ''
-    url: 'http://premios.clustercomunicacion.gal/'
-    text: 'Web dos Premios Paraugas'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/"
+    text: "Web dos Premios Paraugas"
     type: button
-  -
-    list: ''
-    url: 'http://premios.clustercomunicacion.gal/wp-content/uploads/2019/10/BASES-IV-Premios-Paraugas.pdf'
-    text: 'Bases dos Premios Paraugas'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/wp-content/uploads/2019/10/BASES-IV-Premios-Paraugas.pdf"
+    text: "Bases dos Premios Paraugas"
     type: button
-intro: 'Os Premios Paraugas, organizados polo Clúster da Comunicación de Galicia, naceron coa idea de poñer en valor a calidade e o excelente traballo dos e das profesionais galegos. O seu obxectivo principal é enxalzar a función da creatividade, o deseño, a edición, a impresión, o marketing e a comunicación nas empresas e nas institucións, e como medio para conseguir aumentar a competitividade e a capacidade innovadora.'
+intro: "Os Premios Paraugas, organizados polo Clúster da Comunicación de Galicia, naceron coa idea de poñer en valor a calidade e o excelente traballo dos e das profesionais galegos. O seu obxectivo principal é enxalzar a función da creatividade, o deseño, a edición, a impresión, o marketing e a comunicación nas empresas e nas institucións, e como medio para conseguir aumentar a competitividade e a capacidade innovadora."
 slug: ultimos-dias-para-participardes-nos-premios-paraugas
 tags: []
 lang: gl

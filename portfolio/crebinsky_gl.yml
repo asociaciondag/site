@@ -2,16 +2,13 @@ id: 48
 title: Crebinsky
 slug: crebinsky
 body:
-  -
-    text: 'Imaxe aplicada aos carteis, _merchandising,_ _digipack_ da banda sonora, e outros artigos promocionais.'
+  - text: "Imaxe aplicada aos carteis, _merchandising,_ _digipack_ da banda sonora, e outros artigos promocionais."
     type: text
-  -
-    image: /img/portfolio/images/5564c824cc85e-krebinsky.jpg
-    text: ''
+  - image: /img/portfolio/images/5564c824cc85e-krebinsky.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5564c824ccd33-krebinsky-logo.jpg
-    text: ''
+  - image: /img/portfolio/images/5564c824ccd33-krebinsky-logo.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558567156a4f9-5564c824ccd33-krebinsky-logo.jpg
 tags:
@@ -20,10 +17,8 @@ members_id:
   - 21
 lang: gl
 info:
-  -
-    name: Cliente
-    value: 'Control.Z / Circozine / Chévere visión'
-  -
-    name: Ano
-    value: '2010'
+  - name: Cliente
+    value: "Control.Z / Circozine / Chévere visión"
+  - name: Ano
+    value: "2010"
 draft: true

@@ -1,14 +1,12 @@
 id: 855
-title: 'Llegan las II Jornadas de Arte y Diseño de la EASD Pablo Picasso'
+title: "Llegan las II Jornadas de Arte y Diseño de la EASD Pablo Picasso"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/xornada-deseno-pablo-picasso.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Una semana de actividades con charlas, mesas redondas y talleres sobre las especialidades artísticas impartidas en la EASD Pablo Picasso, de modo que cada día una disciplina o varias disciplinas serán las protagonistas:
 
       ## Lunes 17: Dorado, plateado y policromía
@@ -53,12 +51,11 @@ body:
 
       **11.00 h** Mesa redonda sobre ilustración. Participan Sonia G. Vidal, Xulia Pisón, Lidia Cao, María Montes, Clara López Torres
     type: text
-  -
-    list: ''
-    url: 'http://www.eapicasso.com/iixornadas-arte-deseno/'
-    text: 'Jornadas en el sitio web de la EASD Pablo Picasso'
+  - list: ""
+    url: "http://www.eapicasso.com/iixornadas-arte-deseno/"
+    text: "Jornadas en el sitio web de la EASD Pablo Picasso"
     type: button
-intro: 'Se desarrollarán entre el 17 y el 21 de diciembre en la escuela de A Coruña, y están abiertas a todas las personas interesadas en las temáticas que se tratarán.'
+intro: "Se desarrollarán entre el 17 y el 21 de diciembre en la escuela de A Coruña, y están abiertas a todas las personas interesadas en las temáticas que se tratarán."
 slug: llegan-las-ii-jornadas-de-arte-y-diseno-de-la-easd-pablo-picasso
 tags: []
 lang: es

@@ -1,9 +1,8 @@
 id: 18
-title: 'Ventajas de asociarse'
+title: "Ventajas de asociarse"
 slug: por-que-ser-de-la-dag
 body:
-  -
-    text: |-
+  - text: |-
       La DAG es la asociación de referencia en Galicia del sector profesional del diseño en múltiples disciplinas, tales como el diseño gráfico y web, el diseño UX/UI, el diseño industrial, el diseño editorial, el diseño estratégico o el diseño de servicios. Asociarse ofrece la oportunidad de ser parte activa en la defensa de nuestra profesión, y también presenta una serie de beneficios exclusivos para miembros.
 
       ## **Defender nuestros intereses**
@@ -74,16 +73,13 @@ body:
 
       Nuestro carné acredita a socias y socios ante empresas de productos y servicios con las que mantenemos **acuerdos especiales**, pudiendo beneficiarse de los mismos según las condiciones establecidas en cada caso. Estos acuerdos pueden incluir empresas como librerías especializadas, espacios de _coworking_ o formación, o asesorías fiscales y laborales.
     type: text
-  -
-    url: 'https://dag.gal/es/acerca-de/asociate/'
+  - url: "https://dag.gal/es/acerca-de/asociate/"
     text: Asóciate
     type: button
-  -
-    title: 'Entidades colaboradoras coa DAG'
+  - title: "Entidades colaboradoras coa DAG"
     yaml: "- text: PuntoGal\r\n  img: puntogal.png\r\n  url: 'http://dominio.gal/es/'\r\n  description: |\r\n    La asociación gestora del dominio .gal ofrece a las personas asociadas a la DAG un precio especial de **12€** en la compra de dominios .gal\r\n    \r\n- text: Sistemus\r\n  img: sistemius.jpg\r\n  url: 'http://www.sistemius.com/'\r\n  description: |\r\n    Bufete de abogados especializado en protección de datos y propiedad intelectual, ofrece a las personas asociadas un **10% de descuento** en sus servicios, además de poder realizar **consultas gratuitas**\r\n    \r\n- text: Modular Multiespazo\r\n  img: modular.png\r\n  url: 'https://somosmodular.com/'\r\n  description: |\r\n    Espacio de *coworking* de Santiago de Compostela que ofrece un **5% de descuento** a todas las personas asociadas a la DAG.\r\n\r\n- text: Editorial Experimenta\r\n  img: experimenta.png\r\n  url: 'https://www.experimenta.es'\r\n  description: |\r\n    Plataforma especializada en diseño, arquitectura y comunicación visual con un **descuento del 15%** en la suscripción anual a su revista y **del 5%** en los libros de su Fondo Editorial para socios y socias de la DAG.\r\n\r\n- text: Librería Formatos\r\n  img: formatos.png\r\n  url: 'http://libreriaformatos.com'\r\n  description: |\r\n    La librería coruñesa, con un amplio abanico de obras de temática profesional y artísitica, ofrece **descuento del 5%** en todas las compras y envío nacional gratuito en compras superiores a 49€ para socios y socias de la DAG.\r\n    \r\n- text: Librería NUMAX\r\n  img: numax.png\r\n  url: 'https://numax.org/libraria?locale=es'\r\n  description: |\r\n    Librería en Santiago de Compostela que ofrece **descuento del 5%** en la compra de libros a socias y socios de la DAG y el envío nacional gratuito para gastos superiores a 49€.\r\n\r\n- text: Premios Anuaria\r\n  img: anuaria.jpg\r\n  url: 'https://www.veredictas.com/premios/premios-anuaria.html'\r\n  description: |\r\n    Los premios nacionales de diseño de caracter anual ofrecen a todas las personas asociadas a la DAG un **15% de descuento** adicional al desconto vigente en ese momento.\r\n\r\n- text: Premios LAUS\r\n  img: laus.png\r\n  url: 'https://www.veredictas.com/premios/premios-anuaria.html'\r\n  description: |\r\n    Los premios anuales de diseño gráfico y comunicación visual LAUS, organizados por ADG-FAD ofrecen a todas las personas asociadas a la DAG un **15% de descuento**.\r\n    \r\n- text: Bienal Iberoamericana de Diseño\r\n  img: bid20.png\r\n  url: 'https://www.bid-dimad.org/'\r\n  description: |\r\n    La BID es un evento que busca acercar el diseño al público y servir de punto de encuentro para la reflexión profesional. Las persoas asociadas a la DAG tienen un **descuento del 15%** en la inscripción a los premios.\r\n    \r\n- text: Premios Clap\r\n  img: clap.png\r\n  url: 'https://premiosclap.org'\r\n  description: |\r\n    Los premios iberoamericanos de Diseño Industrial y Diseño Gráfico, organizados por Foroalfa y Veredictas, ofrecen un **15% de descuento** a socios y socias de la DAG.\r\n\r\n- text: Moslo\r\n  img: moslo.png\r\n  url: 'https://moslo.es/'\r\n  description: |\r\n    Papelería y accesorios para escritorio en Santiago de Compostela que ofrece un **10% de desconto** a los socios y socias de la DAG."
     type: logos
-  -
-    url: 'https://dag.gal/es/acerca-de/asociate/'
+  - url: "https://dag.gal/es/acerca-de/asociate/"
     text: Asóciate
     type: button
 menu: true

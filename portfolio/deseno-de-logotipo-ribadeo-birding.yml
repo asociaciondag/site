@@ -1,33 +1,28 @@
 id: 111
-title: 'Deseño de logotipo Ribadeo Birding'
+title: "Deseño de logotipo Ribadeo Birding"
 slug: deseno-de-logotipo-ribadeo-birding
 body:
-  -
-    text: |-
+  - text: |-
       O Concello de Ribadeo sacaba á luz "Ribadeo Birding", unha plataforma de turismo da zona a través das súas posibilidades naturais e a afección polas especies de paxaros.
 
       O logotipo amosa as formas dunha das especies de aves máis comúns na zona de Ribadeo.
     type: text
-  -
-    image: /img/portfolio/images/5613a187db63b-ribadeo-birding.jpg
-    text: 'Logo Ribadeo Birding'
+  - image: /img/portfolio/images/5613a187db63b-ribadeo-birding.jpg
+    text: "Logo Ribadeo Birding"
     type: image
 cover: /img/portfolio/covers/5603defe5dd93-logo-ribadeo-birding.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 40
 lang:
   - gl
   - es
 info:
-  -
-    name: Cliente
-    value: 'Concello de Ribadeo'
-  -
-    name: Empresa
-    value: 'Pekecha, Creatividade Digital'
-  -
-    name: Ano
-    value: '2013'
+  - name: Cliente
+    value: "Concello de Ribadeo"
+  - name: Empresa
+    value: "Pekecha, Creatividade Digital"
+  - name: Ano
+    value: "2013"
 draft: true

@@ -1,14 +1,12 @@
 id: 1204
-title: 'Desoños, Coma e Xose García premiados nos Anuaria 2022'
+title: "Desoños, Coma e Xose García premiados nos Anuaria 2022"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/image-premios-anuaria-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O estudio [Desoños](https://www.veredictas.com/show/desonos_vigo/es) lévase un Premio Anuaria de Ouro á mellor tipografía por Vieira Font para Pepe Vieira, creada en colaboración co noso tamén​ ​socio [Marcos Dopico](https://dag.gal/es/marcos-dopico-castro/). A tipografía aporta identidade á experiencia gastronómica Pepe Vieira e está inspirada nas inscripcións do Pórtico da Gloria da Catedral de Santiago de Compostela. Ademais, o programa de identidade, inspirado en mitos e lendas galegas, recibiu unha Selección Anuaria.
 
       Por outro lado, un terceiro traballo de Desoños, o deseño da identidade de Artesa, provedor de produtos de alimentación especializado en clientes de alta cociña,​ recibe outra Selección Anuaria.
@@ -19,15 +17,14 @@ body:
 
       Os Premios Anuaria son de ámbito nacional e para o xurado a organización​ ​conta con representantes das diferentes organizacións profesionais. Este ano, e como vén sendo habitual a colaboración, María Agra participou como representante de DAG.
     type: text
-  -
-    list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html'
-    text: 'Web dos Premios Anuaria'
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html"
+    text: "Web dos Premios Anuaria"
     type: button
-intro: 'A XXIX edición dos Premios Anuaria publica a súa selección e os premiados do ano 2022, con cinco creacións de socias e socios de DAG.'
+intro: "A XXIX edición dos Premios Anuaria publica a súa selección e os premiados do ano 2022, con cinco creacións de socias e socios de DAG."
 slug: desonhos-coma-e-xose-garcia-premiados-nos-anuaria-2022
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2023-02-10T11:51:51+00:00

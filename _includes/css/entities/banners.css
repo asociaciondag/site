@@ -22,20 +22,19 @@
  *
  */
 
-
 /*
  * Estilos do banner
  */
 .banner {
-	display: block;
-	padding: 1em 0.5rem;
-	text-align: center;
-	background: var(--black-5);
+  display: block;
+  padding: 1em 0.5rem;
+  text-align: center;
+  background: var(--black-5);
 
-	& img {
-		max-width: 100%;
-		height: auto;
-		display: block;
-		margin: auto;
-	}
+  & img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
 }

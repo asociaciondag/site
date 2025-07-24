@@ -1,26 +1,23 @@
 id: 908
-title: 'Datos del Ecosistema del Diseño'
+title: "Datos del Ecosistema del Diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-ecosistema-datos.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A principios de julio, el Ministerio de Ciencia, Innovación y Universidades daba a conocer públicamente el resultado de este estudio dirigido y coordinado por el Barcelona Centre Disseny (BCD) en colaboración con la READ, donde quedaron identificados los agentes del sistema del diseño, a nivel de oferta y demanda, de todas las Comunidades Autónomas. El informe es detallado y reflexiona sobre los datos obtenidos en este año 2019, y también desvela desafíos y necesidades que podrán afrontarse en futuros estudios. La plataforma podrá ser actualizada para que refleje la realidad del sector del diseño en España; un sector que necesita poner en evidencia su potencial como motor de innovación y de competitividad.
 
       Desde la DAG queremos agradecer a todos los diseñadores y las diseñadoras gallegos que participaron de la recogida de datos y ayudaron a la creación de un registro de este tipo, útil para identificar las claves de nuestro sector profesional de cara a futuras acciones de conjunto. Cualquier apreciación que queráis hacer, podéis enviarla al email de la Asociación: info@dag.gal
 
       Podéis ver el resultado en este link:
     type: text
-  -
-    list: ''
-    url: 'https://ecosistemadeldiseno.es/'
-    text: 'Ecosistema del diseño'
+  - list: ""
+    url: "https://ecosistemadeldiseno.es/"
+    text: "Ecosistema del diseño"
     type: button
-intro: 'La finalización de la fase de estudio del Ecosistema del Diseño Español da paso a la publicación de los datos obtenidos en la plataforma web de consulta abierta, gracias a la colaboración de los y las profesionales del diseño de toda España.'
+intro: "La finalización de la fase de estudio del Ecosistema del Diseño Español da paso a la publicación de los datos obtenidos en la plataforma web de consulta abierta, gracias a la colaboración de los y las profesionales del diseño de toda España."
 slug: datos-del-ecosistema-del-diseno
 tags: []
 lang: es

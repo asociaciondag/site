@@ -1,13 +1,11 @@
 id: 60
-title: 'Construíndo Carteis'
+title: "Construíndo Carteis"
 body:
-  -
-    text: 'Inaugurarase o vindeiro venres 27 de novembro ás 20:30H no estudio de arquitectura novan&amp;vesson: Rúa Padre Feijoo 4, 2Esq. A Coruña.'
+  - text: "Inaugurarase o vindeiro venres 27 de novembro ás 20:30H no estudio de arquitectura novan&amp;vesson: Rúa Padre Feijoo 4, 2Esq. A Coruña."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a97c1744-cartel-n-v-copia.gif
-    text: ''
+    text: ""
     type: image
 intro: '"Construíndo Carteis" é unha recopilación dos traballos en formato cartaz do deseñador gráfico Antón Lezcanoao longo de10 anos.'
 slug: construindo-carteis

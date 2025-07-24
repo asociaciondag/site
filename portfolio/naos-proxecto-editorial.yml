@@ -1,13 +1,11 @@
 id: 396
-title: 'Naos, proxecto editorial'
+title: "Naos, proxecto editorial"
 slug: naos-proxecto-editorial
 body:
-  -
-    image: /img/portfolio/images/revista.jpg
-    text: ''
+  - image: /img/portfolio/images/revista.jpg
+    text: ""
     type: image
-  -
-    text: '[Naos, proxecto editorial](https://davidrivada.es/proyecto.html)'
+  - text: "[Naos, proxecto editorial](https://davidrivada.es/proyecto.html)"
     type: text
 cover: /img/portfolio/covers/revista.jpg
 tags:

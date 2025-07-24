@@ -1,25 +1,22 @@
 id: 621
-title: 'A DAG xa está no Culturgal!'
+title: "A DAG xa está no Culturgal!"
 body:
-  -
-    list: ''
+  - list: ""
     info:
       code: "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Xa estamos aquí! <a href=\"https://twitter.com/hashtag/DAGnoCulturgal?src=hash\">#DAGnoCulturgal</a> <a href=\"https://t.co/diMlVWH73M\">pic.twitter.com/diMlVWH73M</a></p>&mdash; Raquel Boo (@raquelboo) <a href=\"https://twitter.com/raquelboo/status/672749554454962176\">December 4, 2015</a></blockquote>\r\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      ratio: ''
+      ratio: ""
     type: embed
-  -
-    text: 'Poderedes ver unha pequena mostra dos traballos dos deseñadores e tamén coñecer algunhas das iniciativas da asociación DAG nestes case dez anos de vida'
+  - text: "Poderedes ver unha pequena mostra dos traballos dos deseñadores e tamén coñecer algunhas das iniciativas da asociación DAG nestes case dez anos de vida"
     type: text
-  -
-    list: ''
+  - list: ""
     info:
       code: "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Proxectos da <a href=\"https://twitter.com/asociaciondag\">@asociaciondag</a> e o fantástico libro do compañeiro <a href=\"https://twitter.com/BarroDesign\">@BarroDesign</a>. Pasádevos polo stand! <a href=\"https://twitter.com/hashtag/DAGnoCulturgal?src=hash\">#DAGnoCulturgal</a>! <a href=\"https://t.co/273K9NgfdC\">pic.twitter.com/273K9NgfdC</a></p>&mdash; Raquel Boo (@raquelboo) <a href=\"https://twitter.com/raquelboo/status/672772519145971712\">December 4, 2015</a></blockquote>\r\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      ratio: ''
+      ratio: ""
     type: embed
-intro: 'Esperámosvos a todos no stand 51, un lugar de obrigada visita para todos aqueles que queirades saber un pouco máis do deseño galego'
+intro: "Esperámosvos a todos no stand 51, un lugar de obrigada visita para todos aqueles que queirades saber un pouco máis do deseño galego"
 slug: a-dag-xa-esta-no-culturgal
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2015-12-04T16:52:52+00:00

@@ -10,36 +10,32 @@ contact: |-
 
   <desonhos@desonhos.net>
 links:
-  -
-    text: Desoños
-    url: 'http://www.desonhos.gal/'
+  - text: Desoños
+    url: "http://www.desonhos.gal/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/company/deso-os'
+  - text: Linkedin
+    url: "https://www.linkedin.com/company/deso-os"
     type: linkedin
-  -
-    text: 'Facebook '
-    url: 'https://www.facebook.com/desonhos/'
+  - text: "Facebook "
+    url: "https://www.facebook.com/desonhos/"
     type: facebook
-  -
-    text: 'Twitter '
-    url: 'https://twitter.com/_desonhos'
+  - text: "Twitter "
+    url: "https://twitter.com/_desonhos"
     type: twitter
-name: 'Susana González Ante'
+name: "Susana González Ante"
 slug: susana-gonzalez-ante
 avatarBig: null
 avatar: /img/avatars/56fb8d566b14e-susana-gonzalez-ante.jpg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Embalaxe
   - Editorial
   - Web
   - Sinalética
   - Exposicións
 draft: false
-bio.gl: 'Susana González Ante traballa en Desoños. Cursou Deseño Gráfico Publicitario en Vigo, e traballou en pequenas axencias de Dublín, Vigo e como _freelance_ antes de formar parte de Desoños, onde desenvolve, a meirande parte do tempo, tarefas de deseño gráfico e maquetación.'
-bio.es: 'Susana González Ante trabaja en Desoños. Cursó Diseño Gráfico Publicitario en Vigo y ha trabajado en pequeñas agencias de Dublín, Vigo y como _freelance_ antes de formar parte de Desoños, donde desarrolla, la mayor parte del tiempo, tareas de diseño gráfico y maquetación.'
-job.gl: 'Deseñadora gráfica en Desoños'
-job.es: 'Diseñadora gráfica en Desoños'
+bio.gl: "Susana González Ante traballa en Desoños. Cursou Deseño Gráfico Publicitario en Vigo, e traballou en pequenas axencias de Dublín, Vigo e como _freelance_ antes de formar parte de Desoños, onde desenvolve, a meirande parte do tempo, tarefas de deseño gráfico e maquetación."
+bio.es: "Susana González Ante trabaja en Desoños. Cursó Diseño Gráfico Publicitario en Vigo y ha trabajado en pequeñas agencias de Dublín, Vigo y como _freelance_ antes de formar parte de Desoños, donde desarrolla, la mayor parte del tiempo, tareas de diseño gráfico y maquetación."
+job.gl: "Deseñadora gráfica en Desoños"
+job.es: "Diseñadora gráfica en Desoños"

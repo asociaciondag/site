@@ -1,8 +1,7 @@
 id: 22
-title: 'A fundación Santa María de Albarracín organiza o III curso internacional de ilustración e deseño gráfico'
+title: "A fundación Santa María de Albarracín organiza o III curso internacional de ilustración e deseño gráfico"
 body:
-  -
-    text: |-
+  - text: |-
       Os talleres, centrarán o seu traballo completamente práctico no tema elixido para este ano; "la risa, el llanto y todo lo demás" converteranse no eixo central de estudo de cada profesor cos seus alumnos, cuxos resultados se valorarán e presentarán en conxunto o último día.
 
       Do 24 ao 27 de Xuño.
@@ -13,17 +12,15 @@ body:
 
       INSCRICIÓN: [web](http://www.fundacionsantamariadealbarracin.com/pdf/ficha_electronica_curso_internacional_ilustracion_diseno_0609.pdf)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a95b835f-cartel-larisa.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a95b835f-programa.pdf
     text: Descargar
     type: file
-intro: 'Durante catro días, os profesores invitados, que como en edicións anteriores serán grandes nomes do panorama internacional, xunto cos directores do Curso presentarán en relatorios maxistrais, talleres e exposicións de obra propia, a súa bagaxe profesional, a reflexión teórica que o sustenta e as estratexias para levar a cabo novas creacións.'
+intro: "Durante catro días, os profesores invitados, que como en edicións anteriores serán grandes nomes do panorama internacional, xunto cos directores do Curso presentarán en relatorios maxistrais, talleres e exposicións de obra propia, a súa bagaxe profesional, a reflexión teórica que o sustenta e as estratexias para levar a cabo novas creacións."
 slug: a-fundacion-santa-maria-de-albarracin-organiza-o-iii-curso-internacional-de-ilustracion-e-deseno-grafico
 tags: []
 lang: gl

@@ -2,21 +2,18 @@ id: 249
 title: NUBENU
 slug: nubenu
 body:
-  -
-    image: /img/portfolio/images/nubenu.jpg
-    text: ''
+  - image: /img/portfolio/images/nubenu.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/nubenu.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 67
 lang: es
 info:
-  -
-    name: Proyecto
-    value: 'Nubenu. Tenda online'
-  -
-    name: Año
-    value: '2018'
+  - name: Proyecto
+    value: "Nubenu. Tenda online"
+  - name: Año
+    value: "2018"
 draft: false

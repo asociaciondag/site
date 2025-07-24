@@ -1,15 +1,13 @@
 id: 229
-title: 'A navalla suíza nominada a los Premios Mestre Mateo por Eufalo.tv'
+title: "A navalla suíza nominada a los Premios Mestre Mateo por Eufalo.tv"
 body:
-  -
-    text: 'En esta ocasión por [Eufalo.tv](http://eufalo.tv/), un documental colaborativo que, utilizando el video como herramienta fundamental, busca construir una historia sobre el gallego a partir de vivencias y experiencias contadas por sus hablantes. Los otros nominados en esta categoría son Perro Verde Films, Milrayas y la editorial Galaxia por Contoplanet, Galegolab por Galegolab y Continental Producciones, editorial Galaxia y Moonbite Games por O soldadiño de chumbo, un cuento interactivo para IPAD. Los ganadores de esta edición se desvelarán el próximo domingo, 17 de abril, en una gala conducida por el actor Xosé Antón Touriñán y la periodista Belén Regueira, y que comenzará a las nueve de la noche en el Auditorio Municipal de Ourense.'
+  - text: "En esta ocasión por [Eufalo.tv](http://eufalo.tv/), un documental colaborativo que, utilizando el video como herramienta fundamental, busca construir una historia sobre el gallego a partir de vivencias y experiencias contadas por sus hablantes. Los otros nominados en esta categoría son Perro Verde Films, Milrayas y la editorial Galaxia por Contoplanet, Galegolab por Galegolab y Continental Producciones, editorial Galaxia y Moonbite Games por O soldadiño de chumbo, un cuento interactivo para IPAD. Los ganadores de esta edición se desvelarán el próximo domingo, 17 de abril, en una gala conducida por el actor Xosé Antón Touriñán y la periodista Belén Regueira, y que comenzará a las nueve de la noche en el Auditorio Municipal de Ourense."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9cf35ae-a-navalla-suiza-nominada-aos-premios-mestre-mateo-por-eufalo-tv.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Dos años después de ganar el Premio Mestre Mateo a la Mejor Obra Interactiva con Flocos.tv, [A navalla suíza](http://anavallasuiza.com/) repite nominación.'
+intro: "Dos años después de ganar el Premio Mestre Mateo a la Mejor Obra Interactiva con Flocos.tv, [A navalla suíza](http://anavallasuiza.com/) repite nominación."
 slug: a-navalla-suiza-nominada-a-los-premios-mestre-mateo-por-eufalo-tv
 tags: []
 lang: es

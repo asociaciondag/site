@@ -1,39 +1,34 @@
 id: 996
-title: 'O Museo de Pontevedra presenta a súa nova imaxe'
+title: "O Museo de Pontevedra presenta a súa nova imaxe"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/dsc1078.JPG
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/gif-presentacion.gif
-    text: ''
+    text: ""
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       A nova identidade do Museo de Pontevedra nace dunha «chamada a proxecto», unha fórmula de contratación que dende a DAG e dende READ defendemos como alternativa aos concursos especulativos de deseño. De entre as 4 finalistas, a proposta escollida polo xurado foi a de Uqui Permui.
 
       75 anos despois da creación do _ex libris_ de Alejandro de la Sota, a institución adapta a súa linguaxe visual a unha nova etapa, na que o anterior logotipo presentaba certas limitacións. A imaxe de De la Sota recuperará agora a súa función orixinal, e será incluida nas publicacións promovidas polo propio museo.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/escultura-simbolo-1001.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O acto de presentación contou coa presenza da presidenta da Deputación de Pontevedra Carmen Silva, o vicepresidente César Mosquera, o director do Museo Xosé Manuel Rey, o alcalde de Pontevedra Miguel Anxo Fernández Lores, e a deseñadora da nova identidade, a nosa socia Uqui Permui. Nas súas palabras:
 
       > «Toda a cidade é un museo. Dalgún xeito, esa foi a representación que Alejandro de la Sota debuxou en 1942. Agora, cunha linguaxe diferente e novos códigos, quixen transmitir o mesmo».
 
       A nova imaxe, que fai referencia a formas que se repiten na arquitectura e na ourivaría, atopou o seu fío condutor nun peite do Tesouro de Caldas. Un «M» que xoga coas formas e as contraformas convértese así na nova imaxe do Museo, sintetizando a idea da institución nunha marca adaptada a un novo tempo.
     type: text
-intro: 'O pasado xoves, 16 de xullo, presentouse en Pontevedra a nova identidade do Museo. Un acto no que se descubriu a peza escultórica coa forma do novo símbolo, que xa preside a praza de acceso ao Sexto Edificio.'
+intro: "O pasado xoves, 16 de xullo, presentouse en Pontevedra a nova identidade do Museo. Un acto no que se descubriu a peza escultórica coa forma do novo símbolo, que xa preside a praza de acceso ao Sexto Edificio."
 slug: museo-pontevedra-renova-imaxe
 tags:
   - concursos

@@ -1,9 +1,8 @@
 id: 37
-title: 'Mocca Helados'
+title: "Mocca Helados"
 slug: mocca-helados
 body:
-  -
-    text: |-
+  - text: |-
       No ano 2012 Carlos Montero materializa un dos seus sonos máis cobizados, crear e comercializar unha marca de xeados
 
       Da contracción de Montero e Carlos nace MOCCA. Xeados artesáns, de calidade, feitos con agarimo e auténtica paixón, onde o produto ben feito prima sobre calquera outra cousa.
@@ -18,21 +17,18 @@ body:
 
       <http://moccahelados.com>
     type: text
-  -
-    image: /img/portfolio/images/5585a29994544-01.jpg
-    text: ''
+  - image: /img/portfolio/images/5585a29994544-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585a299947fb-02.jpg
-    text: ''
+  - image: /img/portfolio/images/5585a299947fb-02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585a29994a56-03.jpg
-    text: ''
+  - image: /img/portfolio/images/5585a29994a56-03.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585b6d4dd2c2-mocca.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 11
   - 15
@@ -40,13 +36,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Sond3
-  -
-    name: Cliente
-    value: 'Carlos Montero'
-  -
-    name: Ano
-    value: '2012'
+  - name: Cliente
+    value: "Carlos Montero"
+  - name: Ano
+    value: "2012"
 draft: true

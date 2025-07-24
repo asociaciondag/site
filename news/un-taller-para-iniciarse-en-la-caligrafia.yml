@@ -1,14 +1,12 @@
 id: 699
-title: 'Un taller para iniciarse en la caligrafía'
+title: "Un taller para iniciarse en la caligrafía"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/5810e5ab4bbfe-unitaria-grafica-plumilla-768x432.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       - **Impartido por:** Belén L. Méndez
       - **Nivel:** iniciación
       - **Duración:** 12 horas
@@ -18,15 +16,14 @@ body:
       - **Material incluido en el taller**
       - **Fechas:** 5 y 6 de noviembre de 2016
       - **Lugar:** Escola Unitaria (Santiago de Compostela)
-       
+
       INSCRIPCIÓN: llamando al 609 830 553 o enviando un mail con tus datos y el taller en el que quieres participar a queroaprender@escolaunitaria.com
     type: text
-  -
-    list: ''
-    url: 'http://escolaunitaria.com/2016/09/22/caligrafia-con-plumilla/'
-    text: 'Más información en Unitaria'
+  - list: ""
+    url: "http://escolaunitaria.com/2016/09/22/caligrafia-con-plumilla/"
+    text: "Más información en Unitaria"
     type: button
-intro: 'Para conocer los estilos más importantes, las plumillas usadas para cada uno y probar alguno de ellos, claro, primero trazos básicos y luego el alfabeto de cada estilo, dividido por familias. Para apreciar las diferencias entre los distintos papeles, tintas y acuarelas, y aprender a elegir los materiales adecuados para el estilo de caligrafía que se vaya a practicar.'
+intro: "Para conocer los estilos más importantes, las plumillas usadas para cada uno y probar alguno de ellos, claro, primero trazos básicos y luego el alfabeto de cada estilo, dividido por familias. Para apreciar las diferencias entre los distintos papeles, tintas y acuarelas, y aprender a elegir los materiales adecuados para el estilo de caligrafía que se vaya a practicar."
 slug: un-taller-para-iniciarse-en-la-caligrafia
 tags: []
 lang: es

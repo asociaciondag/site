@@ -2,24 +2,19 @@ id: 434
 title: Parsimonia
 slug: parsimonia
 body:
-  -
-    text: 'Parsimonia es una tipografía que comencé a diseñar en la tranquilidad del confinamiento de 2020 debido a la crisis sanitaria. Quise apostar por ver hasta dónde podía llegar a desdibujar y adornar una forma de letra con base e inspiración en la letra románica manteniendo la coherencia entre todos los caracteres. El resultado es una fuente display e unicase ideada para tamaños grandes.'
+  - text: "Parsimonia es una tipografía que comencé a diseñar en la tranquilidad del confinamiento de 2020 debido a la crisis sanitaria. Quise apostar por ver hasta dónde podía llegar a desdibujar y adornar una forma de letra con base e inspiración en la letra románica manteniendo la coherencia entre todos los caracteres. El resultado es una fuente display e unicase ideada para tamaños grandes."
     type: text
-  -
-    image: /img/portfolio/images/1.png
-    text: ''
+  - image: /img/portfolio/images/1.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/2.png
-    text: ''
+  - image: /img/portfolio/images/2.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/3.png
-    text: ''
+  - image: /img/portfolio/images/3.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/4.png
-    text: ''
+  - image: /img/portfolio/images/4.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/1.png
 tags:

@@ -1,35 +1,31 @@
 id: 1061
-title: 'Abierta la convocatoria de los Premios Nacionales de Innovación y de Diseño 2021'
+title: "Abierta la convocatoria de los Premios Nacionales de Innovación y de Diseño 2021"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premiosnacionalesdiseno.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Estos premios nacieron en el año 1987 y son convocados por el Ministerio de Ciencia e Innovación. En esta nueva edición anual contemplan tres modalidades para la categoría de diseño:
 
       - **Profesionales:** profesionales del diseño (personas físicas o equipos de profesionales) con una trayectoria de al menos 10 años de reconocido prestigio en el sector. El premio económico es de 30.000€.
       - **Empresas:** empresas consolidadas que incorporasen el diseño a su estrategia empresarial durante al menos 10 años.
       - **Jóvenes diseñadores y diseñadoras:** creadores y creadoras con menos de 35 años y una trayectoria profesional inferior a 10 años. El premio económico es de 15.000€.
-       
+
       La lista de premiadas, desde su primera edición, incluye nombres como Alberto Corazón, Pepe Cruz Novillo, Isidro Ferrer, Pati Núñez o Marisa Gallén; empresas como Punt Mobles, Camper, Roca o BBVA; y profesionales jóvenes como Silvia Fernández Palomar o las Yarza Twins.
 
       El plazo de presentación de candidaturas finalizará el 8 de julio a las 15:00. Presentación que deberá hacerse a través de la sede electrónica del Ministerio de Ciencia e Innovación.
     type: text
-  -
-    list: ''
-    url: 'https://www.ciencia.gob.es/portal/site/MICINN/menuitem.8ce192e94ba842bea3bc811001432ea0/?vgnextoid=f455f8e9ebd09710VgnVCM1000001d04140aRCRD&vgnextrefresh=1'
-    text: 'Más información'
+  - list: ""
+    url: "https://www.ciencia.gob.es/portal/site/MICINN/menuitem.8ce192e94ba842bea3bc811001432ea0/?vgnextoid=f455f8e9ebd09710VgnVCM1000001d04140aRCRD&vgnextrefresh=1"
+    text: "Más información"
     type: button
-  -
-    list: ''
-    url: 'https://sede.micinn.gob.es/premiosinnovacion/'
-    text: 'Presentación de candidatura'
+  - list: ""
+    url: "https://sede.micinn.gob.es/premiosinnovacion/"
+    text: "Presentación de candidatura"
     type: button
-intro: 'Los Premios Nacionales de Innovación y de Diseño distinguen a profesionales del diseño que han contribuído a mejorar el prestigio y el alcance del diseño español, y también a entidades que hayan incorporado el diseño y la innovación como un elemento indispensable en el desarrollo de su estrategia empresarial, demostrando que el diseño mejora su competitividad.'
+intro: "Los Premios Nacionales de Innovación y de Diseño distinguen a profesionales del diseño que han contribuído a mejorar el prestigio y el alcance del diseño español, y también a entidades que hayan incorporado el diseño y la innovación como un elemento indispensable en el desarrollo de su estrategia empresarial, demostrando que el diseño mejora su competitividad."
 slug: convocatoria-premios-nacionales-innovacion-diseno-2021-es
 tags: []
 lang: es

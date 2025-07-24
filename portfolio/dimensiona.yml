@@ -2,49 +2,40 @@ id: 66
 title: Dimensiona
 slug: dimensiona
 body:
-  -
-    text: |-
+  - text: |-
       Dimensiona é unha empresa innovadora, creada no ano 2000, que está especializada no asesoramento informático e na prestación de servizos no ámbito das tecnoloxías da información e da comunicación a profesionais, empresas, asociacións e administracións públicas coa creación de ferramentas de xestión personalizadas e o deseño e desenvolvemento de proxectos web e de comunicación na rede.
 
       O noso proxecto consistiu na actualización do seu logotipo e das súas aplicacións.
     type: text
-  -
-    image: /img/portfolio/images/5564ccd743734-dimensiona-logo.jpg
-    text: ''
+  - image: /img/portfolio/images/5564ccd743734-dimensiona-logo.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5564ccd743bb3-dimensiona-logo-blanco.jpg
-    text: ''
+  - image: /img/portfolio/images/5564ccd743bb3-dimensiona-logo-blanco.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5564ccd743ef5-dimensiona-folio.jpg
-    text: ''
+  - image: /img/portfolio/images/5564ccd743ef5-dimensiona-folio.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5564ccd744266-dimensiona-cd.jpg
-    text: ''
+  - image: /img/portfolio/images/5564ccd744266-dimensiona-cd.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5564ccd7445f6-dimensiona-tarxetas.jpg
-    text: ''
+  - image: /img/portfolio/images/5564ccd7445f6-dimensiona-tarxetas.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5564ccd7448fc-sobre.jpg
-    text: ''
+  - image: /img/portfolio/images/5564ccd7448fc-sobre.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558594e9acd7e-5564ccd743734-dimensiona-logo.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 24
 lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: OGráfico
-  -
-    name: Ano
-    value: '2009'
+  - name: Ano
+    value: "2009"
 draft: false

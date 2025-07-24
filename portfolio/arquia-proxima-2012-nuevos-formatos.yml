@@ -1,9 +1,8 @@
 id: 33
-title: 'Arquia/próxima 2012. Nuevos Formatos'
+title: "Arquia/próxima 2012. Nuevos Formatos"
 slug: arquia-proxima-2012-nuevos-formatos
 body:
-  -
-    text: |-
+  - text: |-
       O concurso arquia/próxima, organizado pola Fundación Caja de Arquitectos, ten como finalidade dar apoio e difusión aos arquitectos do estado nos primeiros dez anos de exercicio profesional.
 
       O encargo requería dar identidade gráfica ao concurso e ao foro arquia/próxima do ano 2012, titulado “Nuevos Formatos”. Os soportes que era preciso deseñar eran: un cartel, un políptico e un catálogo físico e dixital (web) coas obras recoñecidas.
@@ -12,13 +11,11 @@ body:
 
       Por outra banda, coa intención de comunicar o desgaste que leva consigo o concepto de ‘Nuevo’ no mundo da arquitectura e do deseño, deseñamos a identidade visual en contradición co título ‘Nuevos Formatos’, elaborando impresións ‘analóxicas’ mediante técnicas case en desuso: tipografías de madeira, diferentes plantillas, máquinas de escribir… posteriormente dixitalizadas, continuando coa lóxica da autoedición e do feito por un mesmo (DIY) do fanzine
     type: text
-  -
-    info:
+  - info:
       code: '<iframe src="https://player.vimeo.com/video/49371560" width="1280" height="720" frameborder="0" title="Nuevos Formatos &mdash; arquia/pr&oacute;xima 2012" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
-      ratio: '56.25'
+      ratio: "56.25"
     type: embed
-  -
-    text: |-
+  - text: |-
       ### Fanzines
 
       Maquetouse un fanzine para cada proxecto seleccionado no concurso (120 fanzines, 1920 páxs.). Os fanzines poden ser descargados dende a páxina do concurso como un arquivo PDF en formato A4 para despois ser impresos nunha impresora doméstica, dobrados e montados cun formato final de A5. Cada usuario pode descargar e construir os fanzines dos proxectos que lle resulten máis interesantes, creando unha colección persoal arquia/próxima 2012. Unhas instruccións de montaxe acompañan a cada pdf descargable.
@@ -41,33 +38,26 @@ body:
 
       Para recoñecer as obras premiadas, en vez de deseñar e elaborar un trofeo máis ou menos convencional, e seguindo coa lóxica de adaptabilidade de formatos entre os diferentes soportes de comunicación do premio, deseñamos unha publicación que reunía os 24 fanzines das obras candidatas. Aos autores de cada obra candidata aos premios se lle outorgou unha publicación personalizada, na que o seu fanzine foi impreso nun papel de cor amarela. O libro/trofeo funcionaba ao mesmo tempo como diploma.
     type: text
-  -
-    image: /img/portfolio/images/555763b170626-0114.jpg
-    text: ''
+  - image: /img/portfolio/images/555763b170626-0114.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555763b170626-02.png
-    text: ''
+  - image: /img/portfolio/images/555763b170626-02.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555763b170626-031.png
-    text: ''
+  - image: /img/portfolio/images/555763b170626-031.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555763b170626-04.png
-    text: ''
+  - image: /img/portfolio/images/555763b170626-04.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555763b170626-05.png
-    text: ''
+  - image: /img/portfolio/images/555763b170626-05.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555763b170626-06.png
-    text: ''
+  - image: /img/portfolio/images/555763b170626-06.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555763b170626-07.png
-    text: ''
+  - image: /img/portfolio/images/555763b170626-07.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/558600224f027-555763b170626-0114.jpg
 tags:
@@ -82,16 +72,12 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Desescribir
-  -
-    name: Cliente
-    value: 'Fundación Caja de Arquitectos'
-  -
-    name: Ano
-    value: '2012'
-  -
-    name: Colaboradores
-    value: 'Rebeca Ces (maquetación), Pablo Golpe (redes sociais), Xiao Varela (coordinación e deseño), estudiocaravana (web), Luis Díaz Díaz (fotografías)'
+  - name: Cliente
+    value: "Fundación Caja de Arquitectos"
+  - name: Ano
+    value: "2012"
+  - name: Colaboradores
+    value: "Rebeca Ces (maquetación), Pablo Golpe (redes sociais), Xiao Varela (coordinación e deseño), estudiocaravana (web), Luis Díaz Díaz (fotografías)"
 draft: true

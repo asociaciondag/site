@@ -4,19 +4,16 @@ contact: |-
 
   [azurga@gmail.com](http://azurga@gmail.com)
 links:
-  -
-    text: Web
-    url: 'https://www.azurgonzalez.com/'
+  - text: Web
+    url: "https://www.azurgonzalez.com/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/azur-gonzalez/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/azur-gonzalez/"
     type: linkedin
-  -
-    text: Twitter
-    url: 'https://twitter.com/azurgonzalez'
+  - text: Twitter
+    url: "https://twitter.com/azurgonzalez"
     type: twitter
-name: 'Azur González'
+name: "Azur González"
 slug: azur-gonzalez
 avatarBig: null
 avatar: /img/avatars/avatar-azur.jpg
@@ -26,7 +23,7 @@ tags:
   - Embalaxe
   - Estratexia
   - Exposicións
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Produto
   - Sinalética
   - UX/UI
@@ -56,5 +53,5 @@ bio.es: |-
   Mi trabajo ha sido seleccionado por Premios Anuaria, Laus, adLatina.com, AdsOfTheWorld, Select de Index Book y aparecido en los libros Basic Logos de Index Book y Growing Graphics: design for Kids.
 
   He trabajado para clientes como Abanca, Concello da Coruña, Corporación Hijos de Rivera, Cruz Roja, Estrella Galicia, Frinsa, Fundación Amancio Ortega, Fundación Barrié, Inditex, Marineda City, Nortempo, Turismo de A Coruña, Universidade da Coruña, X-Madrid, Xunta de Galicia, Zara…
-job.gl: 'Deseñador gráfico e de produto dixital'
-job.es: 'Diseñador gráfico y de producto digital'
+job.gl: "Deseñador gráfico e de produto dixital"
+job.es: "Diseñador gráfico y de producto digital"

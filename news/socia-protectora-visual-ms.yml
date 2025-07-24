@@ -1,14 +1,12 @@
 id: 1393
-title: 'Presentamos la primera socia protectora de DAG, Visual MS'
+title: "Presentamos la primera socia protectora de DAG, Visual MS"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/socia-protectora-visual-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A las existentes categorías, ordinaria, novel y estudiante, se suma ahora la de socia protectora, destinada a empresas, entidades o instituciones que, sin ofrecer directamente servicios de diseño, están relacionadas con el ámbito y desean apoyar y promover el diseño gallego a través de su colaboración con DAG.
 
       Las socias protectoras, entre sus derechos y deberes, tendrán voz en la Asamblea, pero no voto, y contarán con los beneficios y ventajas de pertenecer a DAG como las demás categorías. Su cuota trimestral es de 180 euros, que se destinarán específicamente a acciones de formación o proyectos de investigación y divulgación en materia de diseño. Una colaboración que se hará expresa en las distintas acciones que se programen a través de mención oinclusión de su marca gráfica en los soportes de comunicación.
@@ -25,15 +23,14 @@ body:
 
       Si estáis interesados en apoyar nuestra Asociación como socia protectora podéis solicitar más información contactándonos a través de info@dag.gal
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/acerca-de/modalidades-de-socios-dag/'
-    text: 'Más información'
+  - list: ""
+    url: "https://dag.gal/gl/acerca-de/modalidades-de-socios-dag/"
+    text: "Más información"
     type: button
-intro: 'Incorporamos la categoría de socia protectora a las distintas modalidades de nuestra Asociación para fortalecer el proyecto desde el apoyo al diseño de empresas, entidades y organizaciones con objetivos afines.'
+intro: "Incorporamos la categoría de socia protectora a las distintas modalidades de nuestra Asociación para fortalecer el proyecto desde el apoyo al diseño de empresas, entidades y organizaciones con objetivos afines."
 slug: socia-protectora-visual-ms
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2025-04-23T11:29:00+00:00

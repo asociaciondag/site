@@ -1,17 +1,14 @@
 id: 169
-title: 'Noente paradise'
+title: "Noente paradise"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Através editora Galicia Libro e CD
 
       Título: Noente paradise Autora: Ugia Pedreira Editora: Através editora Ano: 2010 Coordinación editorial: Raquel Miragaia Corrección lingüística: Nomde, José do Pico Orjais e Carlos Garrido Concepción gráfica: Marcelino V. Cageao, Diego Núñez e Xosé António Rubal Foto da portada: O Pastor Fotos das postais: Ugia Pedreira Imprime: Eurográficas n.º de páxinas: 68 Encadernación: Portada mol con funda de plástico serigrafiada Descrición da obra: Volume composto con caracteres Lucida Sans Typewriter. O título da portada compúxose cunha dixitalización propia de Elegant Grotesk. O miolo realizouse en papel offset Renovaprinte de 160 gramos. As gardas realizáronse con papel Fedrigoni Nettuno Rosso Fuoco de 120 gramos. A portada está impresa sobre cartolina gráfica Trucar de 350 gramos. Imprimiuse en xullo de 2010 na imprenta Eurográficas de Santiago de Compostela. O libro vai acompañado dun CD, con dous temas da autora e un xogo de postais.
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9a7b652-noente-paradise-web.jpg
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9a7b652-noente-paradise-2-feet.jpg
 intro: null
 slug: noente-paradise

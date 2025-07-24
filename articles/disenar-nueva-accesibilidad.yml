@@ -1,20 +1,17 @@
 id: 16
-title: 'Diseñar una nueva accesibilidad'
-author: 'Laurent Ogel'
+title: "Diseñar una nueva accesibilidad"
+author: "Laurent Ogel"
 body:
-  -
-    text: |-
+  - text: |-
       Se dice que la Covid ha servido para repensar el diseño. Gran cantidad de actividades, espacios y servicios se han rediseñado en pocos meses, desde nuevas circulaciones y movimientos hasta experiencias y hábitos, para adaptarse a una nueva realidad y entornos, tanto físicos como digitales.
 
       En _Diseñar para el mundo real_ (1971), siendo uno de los libros más leídos sobre diseño, Victor Papanek hacía un llamamiento a la inclusión, la justicia social y la sostenibilidad, temas de gran relevancia para el diseño actual, planteando el debate: ¿Cuál tiene que ser hoy el rol del diseño y de las/los profesionales del diseño para ser verdaderamente útiles a la sociedad? Siendo estudiante de Papanek, la diseñadora danesa Susanne Koefoed, en 1968, diseñó el primer símbolo internacional de accesibilidad cotidiana de muchas personas.
     type: text
-  -
-    image: /img/articles/images/iconoaccesibilidad.png
-    text: ''
+  - image: /img/articles/images/iconoaccesibilidad.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Un símbolo universal que 50 años después es difícil de superar pese a sus limitaciones. Indica que no deberíamos ocupar una plaza de aparcamiento marcada con ese icono, que hay un ascensor o un baño supuestamente accesible (aplicando criterios de Accesibilidad Universal, no llega al 10% los baños totalmente accesibles). Se entiende que un acceso marcado se extiende a, según la clasificación internacional del funcionamiento, de la discapacidad y de la salud, conocida como CIF, las 1.424 categorías que el marco conceptual de la Organización Mundial de la Salud recoge, y no solo enfocado a las personas con movilidad reducida. Como profesionales, sea cual sea nuestro campo de especialización –comunicación, producto, servicio, espacio, entornos digitales, etc.– lo ideal sería preguntarnos si nuestros diseños se adaptan a cualquiera de las 1.424 categorías, al menos considerar que la movilidad reducida representa menos del 20% y que el 80% representa a personas con visión baja o nula, percepción auditiva distorsionada o nula, lesiones cerebrales adquiridas, déficit de funciones cognitivas, trastornos del espectro autista, trastornos invisibles derivados de diferencias sensoriales, psicológicas o neurológicas, o personas con trastornos progresivos o regresivos, entre otras.
 
       Aprovecho aquí para recordar algunos principios de la Accesibilidad Universal y que una estrategia de Diseño para Todas y Todos se refiere a las medidas que deben adoptarse:
@@ -25,7 +22,7 @@ body:
       4. Esfuerzo físico y mental reducido. El diseño puede ser usado de manera eficiente y confortable, y con un mínimo de fatiga. Hay que minimizar las acciones repetitivas y la necesidad de fuerzas poco razonables para realizar diferentes acciones.
       5. Tamaño y espacio para su acercamiento y uso. Se debe proporcionar un tamaño y un espacio adecuados para acercarse, alcanzar, manipular y usar, sin que importe el tamaño corporal de la persona usuaria, su postura o su movilidad.
       6. Se dice que posiblemente sea la peor crisis sanitaria a la que nos hayamos enfrentado a lo largo de la historia. Será nuestra historia. Desde que Papanek cuestionó hace 50 años el rol del diseño, las/los profesionales del diseño que nos dedicamos a la búsqueda de soluciones para que nadie se quede sin acceder a un espacio, físico o digital, sin ser atendido, oído o comprendido, en definitiva, eliminando el máximo de barreras tanto físicas como cognitivas, nos llevamos un chasco.
-       
+
       ¿Cuántos fracasos salieron a la luz? ¿Cuántas barbaridades se cometieron? Está bien improvisar, y a las personas que diseñamos nos encantan los entornos inciertos y lugares desconocidos, pero en ningún caso debemos renunciar a los principios de cualquier proceso de diseño. No debemos permitir(nos) la entrega de la solución menos mala, añadiendo un _plugin_, parcheando o saltando unos cuantos pasos sin haber siquiera prototipado o testeado la solución, y quizás lo más importante, no habernos hecho las preguntas de rigor: ¿quién puede tener un problema?, ¿qué puede impedir el acceso a lo que necesita?, ¿cómo se siente frente a lo que se le propone?, ¿qué apoyo o medida alternativa se podría ofrecer?, ¿estamos seguros de que nadie se queda fuera?
 
       ¿Cuántas personas no han podido acceder a servicios básicos y no tan básicos en estos últimos meses, físicos y digitales? Los sistemas sanitarios, sociales, financieros, políticos, asistenciales, educativos, informáticos, por citar solo algunos, no resistieron al envite. Y antes de la pandemia, ¿funcionaban? No, pero se parcheaba o se prometía. “En estos momentos no podemos atenderle, vuelva otro día”. La frase ahora es: “en estos momentos no se le puede atender, no sabemos cuándo podremos volver a atenderle”. Se echan balones fuera, se echa la culpa a otros. “Lo siento, pero nos obligan a...” ¿Quién es “ese” que nos obliga o no nos permite? O será que los sistemas no están correctamente diseñados. “En estos momentos todos nuestros agentes están ocupados, inténtelo más tarde”, nos suena, ¿no? A menudo se recurre a las leyes, normativas o protocolos. El protocolo dice que no, el protocolo dice que es imposible, el protocolo prohíbe, el protocolo excluye...
@@ -45,31 +42,27 @@ body:
       - UNE 153101:2018 EX Lectura Fácil. Pautas y recomendaciones para la elaboración de documentos.
       - Convención Internacional sobre los Derechos de las Personas con Discapacidad de las Naciones Unidas.
       - Para más información o normas específicas, podéis enviar vuestra consulta a <logel@praxxis.es>.
-       
+
       Por qué no hay día que no nos encontremos con un “imposible”, “no se puede” o un “dedicaos a otra cosa”. Esos imposibles dejaron (y siguen dejando) a muchas personas fuera de la esfera pública, social, educativa, política o económica, por no conseguir el diseño, responsable, esa condición de accesibilidad teniendo en cuenta la diversidad en la funcionalidad de las capacidades humanas.
 
       Por ejemplo, para las personas (97% mujeres) que se dedican a servicios domésticos y actividades relacionadas con el cuidado de personas en los domicilios, se adoptaron medidas durante el Estado de Alarma, al igual que los ERTE y otras ayudas. Sin embargo solo el 10% del colectivo se benefició de dichas ayudas. ¿Qué pasó? Muchas de esas personas no se enteraron y muchas otras no podían acceder o no supieron utilizar los servicios telemáticos diseñados para cumplir ese objetivo. Error del sistema.
     type: text
-  -
-    image: /img/articles/images/error-sistema.jpg
-    text: ''
+  - image: /img/articles/images/error-sistema.jpg
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## ¿Qué se entiende por accesibilidad?
 
       > Condición que deben cumplir los entornos, procesos, bienes, productos y servicios, así como los objetos, instrumentos y dispositivos, para ser comprensibles, utilizables y practicables para todas las personas en condiciones de seguridad y comodidad y de la forma más autónoma y natural posible.
 
       Imaginemos unos escalones, 3 o 4 por ejemplo, para acceder a un espacio, edificio, comercio, zona de recreo, etc. Si queremos facilitar el acceso para subir o bajar con una maleta, un carrito de bebé o de la compra, un andador o una silla de ruedas, pensaremos en poner una rampa, ¿verdad? Con la normativa en mano, aplicando los porcentajes de pendientes, pasamanos, ángulos y giros, idearemos rampas que podrían competir en los libros de arquitectura con las mejores obras de Calatrava. ¿Y si hiciéramos el experimento de separar a la mitad esos escalones, dejando la otra mitad como rampa? Nos sorprenderemos al ver que la mayoría de la gente opta por subir por la rampa ¿Y si suprimiésemos los escalones y fuese solo una rampa? Todo el mundo podría subir o bajar sin problema.
     type: text
-  -
-    image: /img/articles/images/chanzos.png
-    text: ''
+  - image: /img/articles/images/chanzos.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Pero como nuestra imaginación busca siempre el “problema” y no la solución, diremos que en tal caso o tal otro es imposible. Así es, pero seguro que habremos solucionado el 80% de los casos. Pues bien, dediquémosnos al 20% restante, con creatividad. Eso sí, siempre siguiendo las fases de cualquier proceso de diseño, cooperando con expertos de otras disciplinas, y cumpliendo con los principios básicos de una buena accesibilidad, buscando un uso sencillo e intuitivo, adaptado a una amplia variedad de preferencias y capacidades individuales, evitando complejidades innecesarias o informaciones confusas, minimizando la necesidad de fuerzas poco razonables, y proporcionando un tamaño y un espacio adecuados para acercarse, alcanzar, manipular y usar, sin que importe el tamaño corporal de la persona usuaria, su postura o su movilidad. En definitiva, sin complicar más las cosas.'
+  - text: "Pero como nuestra imaginación busca siempre el “problema” y no la solución, diremos que en tal caso o tal otro es imposible. Así es, pero seguro que habremos solucionado el 80% de los casos. Pues bien, dediquémosnos al 20% restante, con creatividad. Eso sí, siempre siguiendo las fases de cualquier proceso de diseño, cooperando con expertos de otras disciplinas, y cumpliendo con los principios básicos de una buena accesibilidad, buscando un uso sencillo e intuitivo, adaptado a una amplia variedad de preferencias y capacidades individuales, evitando complejidades innecesarias o informaciones confusas, minimizando la necesidad de fuerzas poco razonables, y proporcionando un tamaño y un espacio adecuados para acercarse, alcanzar, manipular y usar, sin que importe el tamaño corporal de la persona usuaria, su postura o su movilidad. En definitiva, sin complicar más las cosas."
     type: text
 position: null
 slug: disenar-nueva-accesibilidad

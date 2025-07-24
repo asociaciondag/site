@@ -1,19 +1,17 @@
 id: 219
-title: 'Nova Fronteira'
+title: "Nova Fronteira"
 slug: nova-fronteira
 body:
-  -
-    text: 'Beben de la tradición pero non son tradicionales. Nueva Fronteira es una banda de gaitas que apuesta por expandir los límites de la música tradicional gallega mediante la inclusión en sus composiciones de instrumentos alejados de esta. Como reflejo, el rediseño de su imagen es una reinterpretación contemporánea de la estética modernista, símbolo de una de las épocas más innovadoras y esplendorosas de la cultura gallega.'
+  - text: "Beben de la tradición pero non son tradicionales. Nueva Fronteira es una banda de gaitas que apuesta por expandir los límites de la música tradicional gallega mediante la inclusión en sus composiciones de instrumentos alejados de esta. Como reflejo, el rediseño de su imagen es una reinterpretación contemporánea de la estética modernista, símbolo de una de las épocas más innovadoras y esplendorosas de la cultura gallega."
     type: text
-  -
-    image: /img/portfolio/images/nova-fronteira.jpg
-    text: ''
+  - image: /img/portfolio/images/nova-fronteira.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/nova-fronteira-thumbnail.jpg
 tags:
   - Embalaxe
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 57
 lang: es

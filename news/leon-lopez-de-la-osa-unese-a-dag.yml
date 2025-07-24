@@ -1,24 +1,22 @@
 id: 1284
-title: 'León López de la Osa únese á DAG'
+title: "León López de la Osa únese á DAG"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Bo día! Son León López de la Osa, arquitecto. Sempre pensei que na cadea que constitúe a arquitectura, que empeza co territorio e remata en nós, o último elo o constitúe o mobiliario, os obxectos que nos acompañan e que permiten que poidamos desenvolver as nosas actividades no espazo que os nos acubilla.
 
       Grazas a eles, leo, estudo, descanso, etc., polo tanto, forman parte da propia arquitectura. Como diría Alvar Aalto, o mestre, «son pólas da mesma árbore». É por iso que desde hai xa moito tempo adícome ao deseño de mobiliario, iluminación e obxectos que interveñen nese mundo.
 
       Creo que en Galicia somos uns cantos os que nos adicamos a elo e eu so coñezo a uns poucos. Creo que temos moitas cousas que amosar.
     type: text
-intro: 'León López de la Osa é a nova incorporación que temos en DAG. Unha persoa con moita experiencia ás costas e con moito interese na funcionalidade dos obxectos dentro dos espazos que habitamos. Benvido!'
+intro: "León López de la Osa é a nova incorporación que temos en DAG. Unha persoa con moita experiencia ás costas e con moito interese na funcionalidade dos obxectos dentro dos espazos que habitamos. Benvido!"
 slug: leon-lopez-de-la-osa-unese-a-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2024-03-22T10:51:15+00:00

@@ -1,25 +1,22 @@
 id: 56
-contact: '<maria@nmtype.com>'
+contact: "<maria@nmtype.com>"
 links:
-  -
-    text: Web
-    url: 'http://www.marsidesino.com'
+  - text: Web
+    url: "http://www.marsidesino.com"
     type: link
-  -
-    text: 'NM type'
-    url: 'http://www.nmtype.com/'
+  - text: "NM type"
+    url: "http://www.nmtype.com/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/mariaramossilva/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/mariaramossilva/"
     type: twitter
-name: 'María Ramos'
+name: "María Ramos"
 slug: maria-ramos
 avatarBig: null
 avatar: /img/avatars/m-sastre-perfil.png
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Editorial
   - Tipografía
 draft: false
@@ -35,5 +32,5 @@ bio.es: |-
   Su interés por la tipografía como parte esencial del diseño la alentó a asistir a cursos especializados. En 2015 se gradúa en el Máster de Diseño de Tipografías de la Universidad de Reading (Inglaterra). Desde entonces, María trabaja como diseñadora de tipografías, en proyectos propios, a medida y colaborando con otros diseñadores. Fruto de una de estas colaboraciones surge [NM type](http://www.nmtype.com/), el sello tipográfico que comparte con Noel Pretorius.
 
   Parte de su labor profesional incluye también la investigación y escritura de artículos en publicaciones especializadas como [Typographica](https://typographica.org/) o [Alphabettes](http://www.alphabettes.org/)_,_ colectivo del que forma parte desde 2016.
-job.gl: 'Deseñadora gráfica e de tipografías'
-job.es: 'Diseñadora gráfica y de tipografías'
+job.gl: "Deseñadora gráfica e de tipografías"
+job.es: "Diseñadora gráfica y de tipografías"

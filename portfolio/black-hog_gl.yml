@@ -2,46 +2,37 @@ id: 291
 title: Black-Hog
 slug: black-hog
 body:
-  -
-    text: 'Identidade corporativa e ilustracións para _startup_ alemá para a promoción dun controlador de videoxogos orientados a simuladores de voo.'
+  - text: "Identidade corporativa e ilustracións para _startup_ alemá para a promoción dun controlador de videoxogos orientados a simuladores de voo."
     type: text
-  -
-    image: /img/portfolio/images/fondo-newsletter-2-1.jpg
-    text: ''
+  - image: /img/portfolio/images/fondo-newsletter-2-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/fondo-newsletter-3-2.jpg
-    text: ''
+  - image: /img/portfolio/images/fondo-newsletter-3-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/fondo-newsletter-1-1.jpg
-    text: ''
+  - image: /img/portfolio/images/fondo-newsletter-1-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/soldado.jpg
-    text: ''
+  - image: /img/portfolio/images/soldado.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/controlador-videojuegos.jpg
-    text: ''
+  - image: /img/portfolio/images/controlador-videojuegos.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/blackhog-logo.jpg
-    text: ''
+  - image: /img/portfolio/images/blackhog-logo.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/tshirs.jpg
-    text: ''
+  - image: /img/portfolio/images/tshirs.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/blackhog-logo-portada.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
 members_id:
   - 69
 lang: gl
 info:
-  -
-    name: Cliente
+  - name: Cliente
     value: Black-Hog
 draft: false

@@ -1,14 +1,11 @@
 id: 182
-title: 'Sen título'
+title: "Sen título"
 body:
-  -
-    type: text
-    text: 'Asociación Ideasdosapoconcho Galicia Libro obxecto de tea cosida n.º de páxinas: 12 + portada Parabéns! Adquiriu vostede un calendario á última para que non desperdicie nin un só día do próximo ano. Este calendario con doce páxinas, unha por cada mes do ano pode converterse ademais nun cómodo bolso de lona ilustrado. Se observa o reverso de cada páxina será quen de obter as pezas dun patrón que vostede mesmo pode cortar e coser. A Asociación Ideasdosapoconcho (María Castellanos, Lucía Morandeira, Carmela Artime e Clara Artime) fundouse recentemente co fin de fomentar a cultura galega e, en especial, o sector audiovisual.'
-  -
-    type: image
+  - type: text
+    text: "Asociación Ideasdosapoconcho Galicia Libro obxecto de tea cosida n.º de páxinas: 12 + portada Parabéns! Adquiriu vostede un calendario á última para que non desperdicie nin un só día do próximo ano. Este calendario con doce páxinas, unha por cada mes do ano pode converterse ademais nun cómodo bolso de lona ilustrado. Se observa o reverso de cada páxina será quen de obter as pezas dun patrón que vostede mesmo pode cortar e coser. A Asociación Ideasdosapoconcho (María Castellanos, Lucía Morandeira, Carmela Artime e Clara Artime) fundouse recentemente co fin de fomentar a cultura galega e, en especial, o sector audiovisual."
+  - type: image
     image: /img/news/images/553e7a9b47121-ideasdosapoconcho-1-feet.jpg
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9b47121-ideasdosapoconhco-2-feet.jpg
 intro: null
 slug: sen-titulo

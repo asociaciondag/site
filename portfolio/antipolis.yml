@@ -2,8 +2,7 @@ id: 44
 title: Antípolis
 slug: antipolis
 body:
-  -
-    text: |-
+  - text: |-
       Para o novo e terceiro título da colección Territorios da editorial GG, seguimos a experimentar coa idea de dar forma ao libro partindo do seu contido. As decisións de deseño ‒cubertas, tipografía, disposición da caixa, etc.‒ son resultado de tentar reflectir as ideas que o texto propón, de maneira que contido e deseño vaian da man.
 
       O libro de Carlos García Vázquez estuda as dinámicas urbanizadoras desenvolvidas no sur dos EEUU, nunha franxa coñecida como o Cinturón do Sol (Sunbelt) a partir dos anos 50 do século pasado. O Sunbelt comprende o territorio entre o paralelo 37 e a fronteira con México. No exterior do libro debuxamos a silueta desta zona xeográfica percorrendo a portada, a contraportada e as lapelas. O obxectivo é ubicar ao lector e suxerir, coa cor amarela-intensa da silueta (pantone fluorescente 803 C), e coa cor area do cartón da cuberta, o clima case desértico desa rexión.
@@ -22,29 +21,23 @@ body:
 
       Imaxinamos un (deseño de) libro que non se esgote nunha primeira mirada.
     type: text
-  -
-    image: /img/portfolio/images/55576478e4376-0112.jpg
-    text: ''
+  - image: /img/portfolio/images/55576478e4376-0112.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576478e4376-0210.jpg
-    text: ''
+  - image: /img/portfolio/images/55576478e4376-0210.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576478e4376-039.jpg
-    text: ''
+  - image: /img/portfolio/images/55576478e4376-039.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576478e4376-049.jpg
-    text: ''
+  - image: /img/portfolio/images/55576478e4376-049.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576478e4376-056.jpg
-    text: ''
+  - image: /img/portfolio/images/55576478e4376-056.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55576478e4376-065.jpg
-    text: ''
+  - image: /img/portfolio/images/55576478e4376-065.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55856622cae11-55576478e4376-049.jpg
 tags:
@@ -56,13 +49,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Desescribir
-  -
-    name: Cliente
-    value: 'Editorial Gustavo Gili'
-  -
-    name: Ano
-    value: '2011'
+  - name: Cliente
+    value: "Editorial Gustavo Gili"
+  - name: Ano
+    value: "2011"
 draft: true

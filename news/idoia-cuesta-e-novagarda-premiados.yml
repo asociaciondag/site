@@ -1,32 +1,28 @@
 id: 1412
-title: 'Idoia Cuesta e Novagarda premiados'
+title: "Idoia Cuesta e Novagarda premiados"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/premios-room-laus-2025.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Onte, 26 de xuño, déronse en Madrid os Premios Room Deseño, que este ano celebraban a súa terceira edición. Entre os proxectos nominados nas diferentes categorías, atopamos o da socia [Idoia Cuesta](https://idoiacuesta.com/) e Inés Sistiaga, baixo o nome «Rastros de transformación». Nel, reformulan as técnicas herdadas no traballo da madeira nun exercicio que se concibe como pura experimentación, e do que se poden extraer outras fórmulas de creación de obxectos de deseño.
 
       Pola súa banda, os compañeiros Iago Barreiro e Alberto Carballido do estudio [Novagarda](https://novagarda.gal/) estaban nominados aos Premios Laus 2025 e na gala celebrada en Barcelona o pasado 19 de xuño conseguiron o Laus de Ouro na categoría de deseño de web transaccional, polo traballo realizado para Noroeste Obradoiro, un espazo-taller onde se visibiliza de principio a fin o proceso de creación dunha peza de xoiaría.
     type: text
-  -
-    list: ''
-    url: 'https://adg-fad.org/noticia/premiados-adg-laus-2025/'
-    text: 'Premiados Laus 2025'
+  - list: ""
+    url: "https://adg-fad.org/noticia/premiados-adg-laus-2025/"
+    text: "Premiados Laus 2025"
     type: button
-  -
-    list: ''
-    url: 'https://roomdiseno.com/premios-room-3a-edicion-conoce-a-los-48-finalistas/'
-    text: 'Finalistas Premios Room 2025'
+  - list: ""
+    url: "https://roomdiseno.com/premios-room-3a-edicion-conoce-a-los-48-finalistas/"
+    text: "Finalistas Premios Room 2025"
     type: button
-intro: 'Rematamos o mes de xuño con asociados premiados en diferentes certames. Novagarda coseguiu o Laus de Ouro na categoría de deseño de _website_ transaccional, e Idoia Cuesta o Premio Room na categoría de artesanía _art design_.'
+intro: "Rematamos o mes de xuño con asociados premiados en diferentes certames. Novagarda coseguiu o Laus de Ouro na categoría de deseño de _website_ transaccional, e Idoia Cuesta o Premio Room na categoría de artesanía _art design_."
 slug: idoia-cuesta-e-novagarda-premiados
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2025-06-27T09:20:39+00:00

@@ -1,24 +1,20 @@
 id: 356
-title: 'Reforma de comedor de restaurante'
+title: "Reforma de comedor de restaurante"
 slug: reforma-comerdor-resturante-es
 body:
-  -
-    text: |-
+  - text: |-
       Proyecto de reforma de la zona de comedor de un restaurante en el que, además de actualizarlo estéticamente, era necesario mejorar la iluminación y la acústica. Para ello se proponía un falso techo metálico acústico y un trasdosado con “cojines” tapizados que mejoraban la reverberación.
 
       Este proyecto no se llegó a ejecutar.
     type: text
-  -
-    image: /img/portfolio/images/1.jpg
-    text: ''
+  - image: /img/portfolio/images/1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/2.jpg
-    text: ''
+  - image: /img/portfolio/images/2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5.jpg
-    text: ''
+  - image: /img/portfolio/images/5.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5.jpg
 tags:
@@ -27,10 +23,8 @@ members_id:
   - 77
 lang: es
 info:
-  -
-    name: Año
-    value: '2013'
-  -
-    name: Lugar
-    value: 'Santa Comba'
+  - name: Año
+    value: "2013"
+  - name: Lugar
+    value: "Santa Comba"
 draft: false

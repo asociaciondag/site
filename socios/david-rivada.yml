@@ -4,25 +4,22 @@ contact: |-
 
   <davidrivadadg@gmail.com>
 links:
-  -
-    text: Web
-    url: 'https://davidrivada.es/'
+  - text: Web
+    url: "https://davidrivada.es/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/david_rivada_dg/'
+  - text: Instagram
+    url: "https://www.instagram.com/david_rivada_dg/"
     type: facebook
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/david-rivada-7a1873131/?originalSubdomain=es'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/david-rivada-7a1873131/?originalSubdomain=es"
     type: linkedin
-name: 'David Rivada'
+name: "David Rivada"
 slug: david-rivada
 avatarBig: null
 avatar: /img/avatars/foto-david-rivada.jpg
 tags:
   - Tipografía
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
   - Estratexia
 draft: true
@@ -50,5 +47,5 @@ bio.es: |-
   En mis trabajos busco volver a un diseño más humano, frente a un mundo en el que todo se elabora directamente en la pantalla sin pasar por un proceso previo de investigación. Busco texturas en la realidad, elementos gráficos del mundo tangible, maneras de impresión de otros tiempos como la serigrafía, experimentación con tintas con efectos especiales, métodos manuales, etc… Cualquier elemento susceptible de aportar identidad gráfica.
 
   Resumiendo, el diseño que yo hago es creativo, es humano, y, en esencia, es diseño.
-job.gl: 'Deseñador gráfico creativo'
-job.es: 'Diseñador gráfico creativo'
+job.gl: "Deseñador gráfico creativo"
+job.es: "Diseñador gráfico creativo"

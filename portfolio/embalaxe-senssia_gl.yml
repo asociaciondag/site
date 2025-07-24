@@ -1,21 +1,17 @@
 id: 182
-title: 'Embalaxe Senssia'
+title: "Embalaxe Senssia"
 slug: embalaxe-senssia
 body:
-  -
-    image: /img/portfolio/images/5807b45a4799c-senssia-diseno-embalaje-01.jpg
-    text: ''
+  - image: /img/portfolio/images/5807b45a4799c-senssia-diseno-embalaje-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5807b45a48015-senssia-diseno-embalaje-02.jpg
-    text: ''
+  - image: /img/portfolio/images/5807b45a48015-senssia-diseno-embalaje-02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5810c47cadfeb-senssia-diseno-embalaje-00.jpg
-    text: ''
+  - image: /img/portfolio/images/5810c47cadfeb-senssia-diseno-embalaje-00.jpg
+    text: ""
     type: image
-  -
-    text: 'Máis información en: <http://innovacionagil.com/portfolio/libro-marca-tiendas-senssia/>'
+  - text: "Máis información en: <http://innovacionagil.com/portfolio/libro-marca-tiendas-senssia/>"
     type: text
 cover: /img/portfolio/covers/5810c45807b2e-senssia-diseno-embalaje-01.jpg
 tags: []

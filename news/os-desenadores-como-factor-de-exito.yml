@@ -1,31 +1,27 @@
 id: 941
-title: 'Os deseñadores como factor de éxito'
+title: "Os deseñadores como factor de éxito"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/xornada-desenadores-cis-nov2019.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Alí estarán as nosas socias, Noelia Estevez, do estudio [Desoños](https://www.desonhos.gal/es/), que centrará a súa presentación na creación de identidade visual a través do _packaging_; e [Noemí Cortizas](https://dag.gal/gl/noemi-cortizas/), deseñadora de produto e experta en CMF, que falará de deseño tendo en conta cores, materiais e acabados.
 
       A xornada complétase coa presentación de obxectivos e avances do proxecto **Design4Innovation** e outras intervencións centradas no envase como valor engadido, no deseño de iluminación, na creatividade ou no emprendemento. Ás 13.30 h está previsto un aperitivo _networking_ para intercambiar opinións entre os protagonistas e os asistentes.
 
       A asistencia é de balde mais é necesario inscrición previa.
     type: text
-  -
-    list: ''
-    url: 'http://www.cisgalicia.org/contactos/plantillas/201911xdesenex/programa/programa.pdf'
-    text: 'Programa da xornada'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/plantillas/201911xdesenex/programa/programa.pdf"
+    text: "Programa da xornada"
     type: button
-  -
-    list: ''
-    url: 'http://www.cisgalicia.org/contactos/campan/inscribir/21'
-    text: 'Ficha de inscrición'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/campan/inscribir/21"
+    text: "Ficha de inscrición"
     type: button
-intro: 'O vindeiro 28 de novembro, terá lugar no CIS Ferrol, unha xornada de mañá adicada aos deseñadores e deseñadoras que traballan directamente con empresas coa finalidade de alcanzar o éxito empresarial promovendo e potenciando o uso do deseño.'
+intro: "O vindeiro 28 de novembro, terá lugar no CIS Ferrol, unha xornada de mañá adicada aos deseñadores e deseñadoras que traballan directamente con empresas coa finalidade de alcanzar o éxito empresarial promovendo e potenciando o uso do deseño."
 slug: os-desenadores-como-factor-de-exito
 tags: []
 lang: gl

@@ -1,14 +1,12 @@
 id: 395
-title: 'Modelo Bb'
+title: "Modelo Bb"
 slug: modelo-bb
 body:
-  -
-    image: /img/portfolio/images/0-bb.jpg
-    text: ''
+  - image: /img/portfolio/images/0-bb.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/00-bb.jpg
-    text: ''
+  - image: /img/portfolio/images/00-bb.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/0-bb.jpg
 tags:

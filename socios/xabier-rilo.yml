@@ -1,21 +1,19 @@
 id: 27
 contact: |-
-  Rúa das Hedras 4, 1ºC  
+  Rúa das Hedras 4, 1ºC
    15895 Novo Milladoiro, Ames (A Coruña)
 
   T. 981 576 771
 
   [cen@cenlitros.com](mailto:cen@cenlitrosmetrocadrado.com)
 links:
-  -
-    text: cenlitros
-    url: 'https://www.cenlitros.com/'
+  - text: cenlitros
+    url: "https://www.cenlitros.com/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/cenlitros/'
+  - text: Instagram
+    url: "https://www.instagram.com/cenlitros/"
     type: facebook
-name: 'Xabier Rilo'
+name: "Xabier Rilo"
 slug: xabier-rilo
 avatarBig: null
 avatar: /img/avatars/554d075825cba-xabier-rilo.jpeg
@@ -26,11 +24,11 @@ tags:
   - Espazos
   - Embalaxe
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Mobiliario
   - Exposicións
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador industrial en cenlitros'
-job.es: 'Deseñador en cenlitros'
+job.gl: "Deseñador industrial en cenlitros"
+job.es: "Deseñador en cenlitros"

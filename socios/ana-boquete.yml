@@ -1,11 +1,10 @@
 id: 85
-contact: 'T. 690 075 006'
+contact: "T. 690 075 006"
 links:
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/ana-boquete-11896bb0/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/ana-boquete-11896bb0/"
     type: linkedin
-name: 'Ana Boquete'
+name: "Ana Boquete"
 slug: ana-boquete
 avatarBig: null
 avatar: /img/avatars/foto-ana.jpg
@@ -14,5 +13,5 @@ tags:
 draft: true
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñadora UX'
-job.es: 'Diseñadora UX'
+job.gl: "Deseñadora UX"
+job.es: "Diseñadora UX"

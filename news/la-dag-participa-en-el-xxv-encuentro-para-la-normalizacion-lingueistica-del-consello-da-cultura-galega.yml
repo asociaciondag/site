@@ -1,26 +1,23 @@
 id: 1251
-title: 'La DAG participa en el XXV Encuentro para la Normalización Lingüística del Consello da Cultura Galega'
+title: "La DAG participa en el XXV Encuentro para la Normalización Lingüística del Consello da Cultura Galega"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/encontro-consello-cultura.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Este año en el que el Consello da Cultura Galega celebra su 40 aniversario como entidad, celebra también 25 años de estos encuentros que nacieron como un foro dedicado a la información y a la reflexión sobre la situación de la lengua galleg​a, un lugar de intercambio de experiencias y presentaciones de proyectos, de elaboración y lanzamiento de propuestas de futuro.​
 
       El Encuentro también quiere ser un espacio abierto a la pluralidad y a la construcción colectiva. De esta manera, este año pone el foco en el ámbito socioecónomico y las intervenciones que se verán en la jornada son presentaciones de experiencias e iniciativas normalizadoras diseñadas por profesionales y entidades del ámbito público y privado. Habrá espacio también​ ​para el diálogo con empresas que por su actividad y su relación de servicio con otras se convierten en amplificadoras del uso de la lengua. Y se hablará de los derechos de las personas usuarias y comsumidoras, de su cumplimento, con una mirada propositiva de mejora de la presencia de la lengua gallega en el tejido comercial y empresarial.
 
       La jornada está dividida en dos sesiones, de mañaña y de tarde, y tendrá lugar en la sede d​el Consello da Cultura Galega (Pazo de Raxoi). La inscripción es gratuita hasta completar el aforo. ​​
     type: text
-  -
-    list: ''
-    url: 'http://consellodacultura.gal/evento.php?id=201661'
-    text: 'Más información'
+  - list: ""
+    url: "http://consellodacultura.gal/evento.php?id=201661"
+    text: "Más información"
     type: button
-intro: 'El próximo 17 de octubre, la DAG estará presente en una mesa redonda dentro del XXV Encuentro para la Normalización Lingü​ística que organiza el Consello da Cultura Galega. Nuestro presidente Xóse García será quien nos represente​​​ como entidad en la jornada de mañana. ​'
+intro: "El próximo 17 de octubre, la DAG estará presente en una mesa redonda dentro del XXV Encuentro para la Normalización Lingü​ística que organiza el Consello da Cultura Galega. Nuestro presidente Xóse García será quien nos represente​​​ como entidad en la jornada de mañana. ​"
 slug: la-dag-participa-en-el-xxv-encuentro-para-la-normalizacion-lingueistica-del-consello-da-cultura-galega
 tags: []
 lang: es

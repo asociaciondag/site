@@ -1,9 +1,8 @@
 id: 31
-title: 'O deseño na historia da prensa galega (II)'
-author: 'Ana Boquete'
+title: "O deseño na historia da prensa galega (II)"
+author: "Ana Boquete"
 body:
-  -
-    text: |-
+  - text: |-
       ## A chegada da imprenta a Galicia
 
       A chegada da imprenta sitúase a finais do século XV, chega a Galiza un pouco máis tarde que a outras áreas da Península da man de impresores estranxeiros que traballaban con imprentas portátiles e baixo o requerimento da Igrexa e a nobreza.
@@ -26,37 +25,29 @@ body:
 
       En ocasións tamén se utilizaban filetes con algún tipo de ornamento para separar as seccións ou o encabezado ou pé de páxina, pois os xornais acostumaban incluír numeración. Tamén se utilizaban para separar o colofón na última páxina, onde se reflexaba o nome e o establecemento do impresor/a en moitos dos xornais.
     type: text
-  -
-    image: /img/articles/images/fig1losguerrilleroscorreo.jpg
-    text: 'Fig. 1. Á esquerda, _Los Guerrilleros por la Religión, La Patria y El Rey_ (1813). Neste caso, vemos os datos do impresor e establecemento na primeira páxina. Á dereita_, Correo de la Comisión Provincial de Santiago_ (1812)'
+  - image: /img/articles/images/fig1losguerrilleroscorreo.jpg
+    text: "Fig. 1. Á esquerda, _Los Guerrilleros por la Religión, La Patria y El Rey_ (1813). Neste caso, vemos os datos do impresor e establecemento na primeira páxina. Á dereita_, Correo de la Comisión Provincial de Santiago_ (1812)"
     mode: normal
     type: image
-  -
-    text: 'Malia que non existiu gran variedade ou diferencia nos estilos compositivos nin tipográficos utilizados nos diferentes xornais, podemos rexistrar o uso de diferentes letras capitulares para destacar a primeira páxina, os inicios ou títulos de sección.'
+  - text: "Malia que non existiu gran variedade ou diferencia nos estilos compositivos nin tipográficos utilizados nos diferentes xornais, podemos rexistrar o uso de diferentes letras capitulares para destacar a primeira páxina, os inicios ou títulos de sección."
     type: text
-  -
-    image: /img/articles/images/fig-2-xornal-elsensato-num1-1811.png
-    text: 'Fig.2. _El Sensato_ (1811)'
+  - image: /img/articles/images/fig-2-xornal-elsensato-num1-1811.png
+    text: "Fig.2. _El Sensato_ (1811)"
     mode: normal
     type: image
-  -
-    text: 'O primeiro xornal galego foi _El Catón Compostelano_ (1800), impreso por Heredera de Frayz en octava. Debido á invasión francesa, terán que pasar oito anos ata que vexamos outro xornal saír do prelo.'
+  - text: "O primeiro xornal galego foi _El Catón Compostelano_ (1800), impreso por Heredera de Frayz en octava. Debido á invasión francesa, terán que pasar oito anos ata que vexamos outro xornal saír do prelo."
     type: text
-  -
-    image: /img/articles/images/fig-3-el-caton-compostelano.jpg
-    text: 'Fig. 3. _El Catón Compostelano_ (1800)'
+  - image: /img/articles/images/fig-3-el-caton-compostelano.jpg
+    text: "Fig. 3. _El Catón Compostelano_ (1800)"
     mode: normal
     type: image
-  -
-    text: 'En xuño de 1808 aparecen na cidade de A Coruña os primeiros xornais publicados nesta cidade, _Diario de La Coruña_ e _La Gazeta de La Coruña_.'
+  - text: "En xuño de 1808 aparecen na cidade de A Coruña os primeiros xornais publicados nesta cidade, _Diario de La Coruña_ e _La Gazeta de La Coruña_."
     type: text
-  -
-    image: /img/articles/images/fig-4-xornais-decada-1810.jpg
-    text: 'Fig. 4. _Diario de La Coruña, Diario de Santiago_ e _Telégrafo Político y literario de La Coruña_. Periódicos da década de 1810'
+  - image: /img/articles/images/fig-4-xornais-decada-1810.jpg
+    text: "Fig. 4. _Diario de La Coruña, Diario de Santiago_ e _Telégrafo Político y literario de La Coruña_. Periódicos da década de 1810"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       _Diario de La Coruña_ estendería a súa actividade xornalística durante 7 anos, ata 1815. O xornal nace como resposta á invasión francesa, publicábase a diario e o formato era de medio prego en marca española (19x15.5cm). No momento no que os franceses chegan a A Coruña, o director do xornal vese obrigado a fuxir e suspender a publicación. Meses máis tarde, reaparece baixo o nome de _Diario del Gobierno de La Coruña_ cun novo director.
 
       En agosto de 1809 o xornal volve a recuperar o seu nome orixinal _Diario de La Coruña,_ pero volve a cambialo en 1814 por _Diario Antiguo de La Coruña_. En 1815 deixará de publicarse.
@@ -65,42 +56,35 @@ body:
 
       _Exacto Correo de España en La Coruña_ aparece o 22 de decembro de 1810. Este xornal publicábase a diario e tiña oito páxinas impresas en cuarta. A cabeceira estaba composta polo título e unha ilustración central da Torre de Hércules, acompañábao a data e un lema.
     type: text
-  -
-    image: /img/articles/images/fig-5-exacto-correo-de-espan-a-en-la-coruna.jpg
-    text: 'Fig. 5. Evolución _Exacto Correo de España en La Coruña_'
+  - image: /img/articles/images/fig-5-exacto-correo-de-espan-a-en-la-coruna.jpg
+    text: "Fig. 5. Evolución _Exacto Correo de España en La Coruña_"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En 1812 cambia de nome por _El Exacto Diario_ e voltará a cambiar de nome en 1820 por _El Exacto Diario en La Coruña._
 
       Durante as primeiras décadas da prensa galega, o estilo dos xornais continuará a ser semellante, comezaremos a ver deseños máis traballados e composicións a dúas columnas nalgúns xornais, como El ciudadano por la Constitución (1813) e El Conciso Correo de Galicia (1837).
     type: text
-  -
-    image: /img/articles/images/fig-6-xornal-elciudadanoporlaconstiucion-num1-1813.png
-    text: 'Fig. 6. _El ciudadano por la Constitución_ (1813)'
+  - image: /img/articles/images/fig-6-xornal-elciudadanoporlaconstiucion-num1-1813.png
+    text: "Fig. 6. _El ciudadano por la Constitución_ (1813)"
     mode: normal
     type: image
-  -
-    image: /img/articles/images/fig7elconciso.jpg
-    text: 'Fig. 7. Á esquerda, _El Conciso Correo de Galicia_ (1837). Á dereita, _El Conciso Correo de Galicia_, detalle nunha das páxinas interiores. Táboa sobre as Audiencias.'
+  - image: /img/articles/images/fig7elconciso.jpg
+    text: "Fig. 7. Á esquerda, _El Conciso Correo de Galicia_ (1837). Á dereita, _El Conciso Correo de Galicia_, detalle nunha das páxinas interiores. Táboa sobre as Audiencias."
     mode: normal
     type: image
-  -
-    text: 'En 1838 vemos as primeiras ilustracións incluídas en prensa, dentro de _Semanario Instructivo. Periódico de Agricultura, Ciencias Naturales y Artes_.'
+  - text: "En 1838 vemos as primeiras ilustracións incluídas en prensa, dentro de _Semanario Instructivo. Periódico de Agricultura, Ciencias Naturales y Artes_."
     type: text
-  -
-    image: /img/articles/images/fig-8-semanario-instructivo-prospecto-n1.jpg
-    text: 'Fig. 8 _Semanario Instructivo. Periódico de Agricultura, Ciencias Naturales y Artes_. No prospecto, destaca “y artes” utilizando a mesma tipografía que para o nome, _Semanario Instructivo_. Foi unha publicación de temática diversa, nela podemos ver ilustracións policromadas e litografías de Ramón Gil Rey.'
+  - image: /img/articles/images/fig-8-semanario-instructivo-prospecto-n1.jpg
+    text: "Fig. 8 _Semanario Instructivo. Periódico de Agricultura, Ciencias Naturales y Artes_. No prospecto, destaca “y artes” utilizando a mesma tipografía que para o nome, _Semanario Instructivo_. Foi unha publicación de temática diversa, nela podemos ver ilustracións policromadas e litografías de Ramón Gil Rey."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       **Referencias bibliográficas**
 
       - Gayoso, E. S. (1990). Historia de la prensa gallega, 1800-1986. Sada, España: Ediciós do Castro.
       - Odriozola, A., &amp; Fernández, J. R. B. (1992). Historia de la imprenta en Galicia. Santiago de Compostela, España: Biblioteca Gallega.
-       
+
       © As imaxes do artículo pertencen a [Galiciana-Biblioteca Dixital de Galicia](http://www.galiciana.bibliotecadegalicia.xunta.es/gl/inicio/inicio.do).
     type: text
 position: null

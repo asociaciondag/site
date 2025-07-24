@@ -1,34 +1,28 @@
 id: 100
-title: 'Pecados. Ciclo de músicas prohibidas'
+title: "Pecados. Ciclo de músicas prohibidas"
 slug: pecados-ciclo-de-musicas-prohibidas
 body:
-  -
-    text: |-
+  - text: |-
       Pecados é un ciclo de músicas prohibidas. Nin músicas populares contemporáneas nin músicas avanzadas nin músicas especializadas, senón músicas prohibidas. Os pecados son a pluralidade, a curiosidade e unha certa ignorancia. Non existen xa fronteiras entre etiquetas e xéneros. Stereolab, The Residents e Toumani Diabaté podían armar o cartel dun festival. A electrónica e a música tradicional africana e o pop e a _performance_ podían convivir e dialogar nun mesmo espazo e coa mesma coartada.
 
       A identidade visual para o ciclo de concertos alude ao pecado do ornamento, ou ao delito que diría Aldolf Loos de poñer xuntos a tipografía DINo Pantone Rodamine e a textura ornamental.
 
       Pecados: Ciclo de músicas prohibidas é un ciclo de concertos organizado polo Concello de Pontevedra e SinSal audio.
     type: text
-  -
-    image: /img/portfolio/images/5585959db5ef5-logo2.jpg
-    text: ''
+  - image: /img/portfolio/images/5585959db5ef5-logo2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585959db6448-pecados2b.jpg
-    text: ''
+  - image: /img/portfolio/images/5585959db6448-pecados2b.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585959db6e2c-pecados3b.jpg
-    text: ''
+  - image: /img/portfolio/images/5585959db6e2c-pecados3b.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585959db73d2-3.jpg
-    text: ''
+  - image: /img/portfolio/images/5585959db73d2-3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585959db78bb-51.jpg
-    text: ''
+  - image: /img/portfolio/images/5585959db78bb-51.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585959db58e2-logo2.jpg
 tags:
@@ -40,13 +34,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'De dominio público'
-  -
-    name: Cliente
-    value: 'Concello de Pontevedra'
-  -
-    name: Ano
-    value: '2008'
+  - name: Estudio
+    value: "De dominio público"
+  - name: Cliente
+    value: "Concello de Pontevedra"
+  - name: Ano
+    value: "2008"
 draft: false

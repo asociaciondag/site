@@ -1,8 +1,7 @@
 id: 292
-title: 'A vida dos museos'
+title: "A vida dos museos"
 body:
-  -
-    text: |-
+  - text: |-
       Unha ampla programación de entre a que queremos destacar hoxe dous obradoiros que comezan o 19 de outubro nos dous museos. A proposta do Marco de Vigo leva por título: Unha aproximación á historia da arquitectura contemporánea, e está concibida para que ao longo de 23 sesións e da man de Ana Pereira, os participantes fagan un percorrido polos principais movementos e figuras da historia da arquitectura dos séculos XIX, XX e XXI, pero sen perder nunca de vista o xeito en que os cambios nas distintas ordes sociais (demográfica, técnica, ideolóxica...) foron repercutindo nos modos construtivos. No [Macuf](http://www.macuf.es/) será Jorge Couceiro o encargado de guiar a todas as persoas interesadas nunha viaxe desde o impresionismo ata os nosos días pola arte do século XX. Con este obradoiro preténdese aproximar o público non especializado aos cambios máis significativos experimentados na arte durante o século pasado e dar a coñecer tanto os artistas coma os movementos que os protagonizaron. Con este obxectivo, ademais das explicacións xerais, proxectaranse imaxes das obras máis relevantes de cada autor e comentaranse as principais características de cada unha. A arte, aínda que só a producida nas últimas catro décadas será tamén a protagonista do obradoiro impartido por Juan de Nieves no Marco entre o 27 de outubro e o 10 de maio. Neste caso ademais, a abordaxe do fenómeno artístico será lixeiramente distinta porque a análise das prácticas artísticas máis relevantes do período farase en relación coa nova orde sobre a que estas se acomodan ou contra a que se revolven: os profundos cambios da institución (o museo e as novas estruturas temporais de validación), o rol do espectador e a influencia crecente dos novos axentes artísticos (cuxo máximo expoñente é a figura do comisario), ou a esfera pública como espazo de liberación.
 
       Consulta toda a información sobre as actividades nos enlaces:
@@ -13,12 +12,11 @@ body:
 
       [Produción artística e cultural desde 1968 ata os nosos días](http://www.marcovigo.com/content/produci-n-art-stica-e-cultural-dende-1968-ata-os-nosos-d)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9eea9bb-marco.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Moita vida é a que se agocha entre as paredes dos museos e para comprobalo só fai falta botarlle unha ollada á oferta formativa, tanto do [Marco](http://www.marcovigo.com/) coma do Macuf, para este outono.'
+intro: "Moita vida é a que se agocha entre as paredes dos museos e para comprobalo só fai falta botarlle unha ollada á oferta formativa, tanto do [Marco](http://www.marcovigo.com/) coma do Macuf, para este outono."
 slug: a-vida-dos-museos
 tags: []
 lang: gl

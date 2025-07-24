@@ -1,24 +1,21 @@
 id: 688
-title: 'Tutti Frutti, a exposición sobre gráfica popular de América Sánchez chega a Compostela'
+title: "Tutti Frutti, a exposición sobre gráfica popular de América Sánchez chega a Compostela"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/57d97a8b3c3c5-grafica-popular.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O acto de inauguración terá lugar ás 20.00 h e nel participarán a vicerreitora de Estudantes, Cultura e Responsabilidade Social, Dolores Álvarez; o presidente do Ateneo, Salvador García-Bodaño; e o deseñador gráfico Pepe Barro.
 
       A exposición permanecerá aberta até o 15 de outubro e poderá visitarse en horario de luns a sábado de 11.00 a 14.00 e de 17.00 a 20.30 horas.
     type: text
-  -
-    list: ''
-    url: 'http://xornal.usc.es/xornal/acontece/2016_09/noticia_0060.html'
-    text: 'A noticia da exposición no web da USC'
+  - list: ""
+    url: "http://xornal.usc.es/xornal/acontece/2016_09/noticia_0060.html"
+    text: "A noticia da exposición no web da USC"
     type: button
-intro: 'Este xoves 15 de setembro inaugúrase no Colexio Fonseca **Tutti Frutti. Gráfica popular e diversidade cultural**, unha exposición que reúne unha escolma do proxecto fotográfico desenvolvido polo deseñador gráfico [América Sánchez](http://graffica.info/america-sanchez/) para documentar expresións de gráfica popular de todo o mundo.'
+intro: "Este xoves 15 de setembro inaugúrase no Colexio Fonseca **Tutti Frutti. Gráfica popular e diversidade cultural**, unha exposición que reúne unha escolma do proxecto fotográfico desenvolvido polo deseñador gráfico [América Sánchez](http://graffica.info/america-sanchez/) para documentar expresións de gráfica popular de todo o mundo."
 slug: tutti-frutti-a-exposicion-sobre-grafica-popular-de-america-sanchez-chega-a-compostela
 tags: []
 lang: gl

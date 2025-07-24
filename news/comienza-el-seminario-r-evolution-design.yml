@@ -1,18 +1,16 @@
 id: 335
-title: 'Comienza el seminario  (R)evolution design'
+title: "Comienza el seminario  (R)evolution design"
 body:
-  -
-    text: |-
+  - text: |-
       Organizado por la DAG en colaboración con ENISA y la Escuela de Organización Industrial (EOI), el seminario está orientado a la implementación de nuevos sistemas y productos de gestión del diseño innovador en las PYMES. Recordamos a todos los socios de la DAG e interesados que pueden asistir como oyentes. El seminario finaliza mañana sábado día 14.
 
       Puedes encontrar más información sobre el seminario [aquí](http://www.asociaciondag.org/revolution-design-seminario-para-la-implementacion-de-productos-y-servicios-innovadores-200.html).
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa06f6d4-designthinking.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Esta mañana en Santiago dió comienzo la primera jornada dol seminario (R) evolution design. Design thinking.'
+intro: "Esta mañana en Santiago dió comienzo la primera jornada dol seminario (R) evolution design. Design thinking."
 slug: comienza-el-seminario-r-evolution-design
 tags: []
 lang: es

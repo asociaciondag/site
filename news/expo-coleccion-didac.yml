@@ -1,14 +1,12 @@
 id: 960
-title: 'La Fundación DIDAC presenta su colección de arte y diseño '
+title: "La Fundación DIDAC presenta su colección de arte y diseño "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/vistaexposicion-colfunddidac.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La Colección Fundación DIDAC nace con la intención de crear un mapa visual y documental del diseño y el arte contemporáneo, desde los años setenta hasta la actualidad. En la Colección encontramos piezas de diseño y obras de arte, acompañadas de información y otros materiales que enmarcan el diseño y el arte contemporáneo en Galicia en un contexto global.
 
       La exposición, organizada de manera cronológica, comienza con la publicación del primer número del _Laboratorio das Formas_ en 1970. También se inclúen algunhas creaciones anteriores, como la identidad corportiva para Zeltia o las latas de conserva Massó. Los diseños de grandes referentes gallegos como Luis Seoane o Isaac Díaz Pardo estarán acompañados del trabajo de otros profesionales de reconocido prestigio histórico, como Ettore Sottsass, Dieter Rams, o Paul Rand. El diseño gallego más contemporáneo estará representado por profesionales de contrastada experiencia, como nuestros socios [Uqui Pemui](https://uqui.net) y [Pepe Barro](https://dag.gal/es/pepe-barro/), y otros con una trayectoria más corta como [Artur Galocha](https://www.behance.net/arturgalocha), [Álvaro Valiño](https://www.alvarovalino.com) o el estudio [desescribir](http://www.desescribir.com). En el contexto internacional, encontramos a creadoras como Paula Scher o Susana Blasco, junto a otros históricos del diseño como Cruz Novillo o Víctor Moscoso.
@@ -17,12 +15,11 @@ body:
 
       La inauguración de esta exposición será además una buena ocasión para conocer la nueva sede del [estudio DARDO](http://dardo.gal/dardo/), que comparte espacio con la Fundación DIDAC desde el pasado mes de enero .
     type: text
-  -
-    list: ''
-    url: 'http://www.didac.gal/didac/es/exposiciones/coleccion-didac'
-    text: 'Más información'
+  - list: ""
+    url: "http://www.didac.gal/didac/es/exposiciones/coleccion-didac"
+    text: "Más información"
     type: button
-intro: 'El sábado 8 de febrero, a las 12:30 de la mañana, tenemos una cita con el arte y el diseño. La Fundación DIDAC presenta parte de los fondos de su colección en una exposición que estará abierta al público hasta el día 12 de abril.'
+intro: "El sábado 8 de febrero, a las 12:30 de la mañana, tenemos una cita con el arte y el diseño. La Fundación DIDAC presenta parte de los fondos de su colección en una exposición que estará abierta al público hasta el día 12 de abril."
 slug: expo-coleccion-didac
 tags: []
 lang: es

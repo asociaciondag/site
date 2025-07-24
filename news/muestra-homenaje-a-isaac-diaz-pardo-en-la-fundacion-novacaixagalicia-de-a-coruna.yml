@@ -1,8 +1,7 @@
 id: 349
-title: 'Muestra homenaje a Isaac Díaz Pardo en la Fundación Novacaixagalicia de A Coruña'
+title: "Muestra homenaje a Isaac Díaz Pardo en la Fundación Novacaixagalicia de A Coruña"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       La muestra homenaje a Isaac Díaz Pardo permanecerá abierta hasta el 1 de mayo y reúne un total de 35 pinturas realizadas en óleo sobre lienzo, cartulina, tabla y cartón, tinta sobre papel; carboncillo, lápiz, tinta y sanguina sobre papel.
 
@@ -21,8 +20,7 @@ body:
       Cantón Grande, 21, 23
 
       15003 A Coruña
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa0b7e8f-diazpardo.jpg
 intro: null
 slug: muestra-homenaje-a-isaac-diaz-pardo-en-la-fundacion-novacaixagalicia-de-a-coruna

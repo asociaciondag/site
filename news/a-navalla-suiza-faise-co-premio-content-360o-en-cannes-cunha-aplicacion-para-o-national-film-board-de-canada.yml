@@ -1,8 +1,7 @@
 id: 80
-title: 'A Navalla Suíza faise co premio ʻContent 360ºʼ en Cannes cunha aplicación para o National Film Board de Canadá'
+title: "A Navalla Suíza faise co premio ʻContent 360ºʼ en Cannes cunha aplicación para o National Film Board de Canadá"
 body:
-  -
-    text: |-
+  - text: |-
       A empresa galega impúxose ás outras dúas finalistas, unha compañía londinense e outra dos Estados Unidos, no pitching final diante do xurado. O premio consiste nun contrato de desenvolvemento da aplicación, financiado con 12.000 euros polo National Film Board de Canadá, a institución cinematográfica máis importante daquel país.
 
       O proxecto seleccionado polo National Film Board traslada a realidade aumentada ao cinema canadense e permite que os usuarios recoñezan os lugares onde se filmaron diversas películas apuntando co seu teléfono móbil ao espazo que os arrodea. Ademais, inclúe unha actividade social importante, pois os usuarios e usuarias poden xogar cos filmes e mesmo engadir contido.
@@ -11,12 +10,11 @@ body:
 
       A Navalla Suíza é unha empresa de comunicación dixital creada no 2008 en Santiago de Compostela por Berto Yáñez, Xabier Cid, Óscar Otero, Álvaro Gómez e María Yáñez. Entre os seus traballos realizados ata hoxe destaca Flocos.TV, o cineclube do audiovisual galego, unha plataforma web que ofrece máis de 350 filmes feitos en Galicia e que conta con máis de 1800 usuarios.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9851f64-foto-navalla-suiza-peq.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'A Navalla Suíza proclamouse vencedora do certame ʻContent 360ʼ de contidos dixitais, celebrado onte 14 de abril no marco do MIPTV -o máis importante mercado de televisión do mundo, celebrado en Cannes- na categoría de Next Generation Online Video Experience.'
+intro: "A Navalla Suíza proclamouse vencedora do certame ʻContent 360ʼ de contidos dixitais, celebrado onte 14 de abril no marco do MIPTV -o máis importante mercado de televisión do mundo, celebrado en Cannes- na categoría de Next Generation Online Video Experience."
 slug: a-navalla-suiza-faise-co-premio-content-360o-en-cannes-cunha-aplicacion-para-o-national-film-board-de-canada
 tags: []
 lang: gl

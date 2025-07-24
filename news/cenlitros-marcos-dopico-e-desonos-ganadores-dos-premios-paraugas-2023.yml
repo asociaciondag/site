@@ -1,14 +1,12 @@
 id: 1260
-title: 'Cenlitros, Marcos Dopico e Desoños gañadores dos Premios Paraugas 2023'
+title: "Cenlitros, Marcos Dopico e Desoños gañadores dos Premios Paraugas 2023"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/img-0589.jpeg
-    text: 'Imaxe: Web Premios'
+    text: "Imaxe: Web Premios"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A gala foi conducida polos xornalistas Luis Fraga e María Lamela e congregou a un gran número de profesionais e empresas ligadas á cadea de valor do sector da comunicación que engloba o Clúster da Comunicación: deseño, impresión, márketing, creatividade, comunicació​n​ e eventos. ​
 
       De entre 300 inscricións e 55 finalistas, ​na categoría de deseño temos que felicitar aos socios Xabier Rilo, Marcos Dopico, Noelia Estévez, Carlos Álvarez e Susana González​ porque os seus traballos foron merecedores de premio. Por un lado, os Cenlitros coa imaxe corporativa deseñada para a empresa galega Mobalco, que desenvolveron coa implicación de Marcos Dopico no deseño da tipografía; e polo outro, Desoños, que presentaron o deseño web creado para AR\\DE, un proxecto interno de DAG con moita proxección de futuro,​​ que nos fai especial ilusión. No apartado de deseño industrial ou de produto o premio foi para ​​Lavelle Fireroad de Pablo Iglesias.
@@ -19,10 +17,9 @@ body:
 
       O xurado dos premios estivo conformado por persoas especialistas en cada categoría. A organización contou con varios socios e socias de DAG para​ levar a cabo a selección nas categorías de impresión e deseño: Alberto Carballido de Novagarda, Conchi Mayo directora de Dardo e presidenta da Fundación Didac, Alberto Rodríguez deseñador en Fundación USC - Servizo de Edición e Impresión Dixital, e Carmen Bouza, deseñadora de produtos dixitais en Accenture Song.
     type: text
-  -
-    list: ''
-    url: 'https://premios.clustercomunicacion.gal/ganadores-premios-paraugas-2023'
-    text: 'Web dos Premios Paraugas'
+  - list: ""
+    url: "https://premios.clustercomunicacion.gal/ganadores-premios-paraugas-2023"
+    text: "Web dos Premios Paraugas"
     type: button
 intro: 'O pasado 17 de novembro celebrouse no Teatro Jofre de Ferrol a gala de entrega dos VIII Premios Paraugas onde Xabier Rilo e Ricardo Tubío xunto con Marcos Dopico recibiron o premio ao mellor deseño gráfico; e​ os compañeiros de Desoños, Noelia Estévez, Carlos Álvarez e Susana González, gañaron o premio ao mellor deseño dixital pola web AR\\DE.​​'
 slug: cenlitros-marcos-dopico-e-desonos-ganadores-dos-premios-paraugas-2023

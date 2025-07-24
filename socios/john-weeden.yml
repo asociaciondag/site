@@ -1,11 +1,10 @@
 id: 60
-contact: '<john@jweeden.com>'
+contact: "<john@jweeden.com>"
 links:
-  -
-    text: Web
-    url: 'http://jweeden.com'
+  - text: Web
+    url: "http://jweeden.com"
     type: link
-name: 'John Weeden'
+name: "John Weeden"
 slug: john-weeden
 avatarBig: null
 avatar: /img/avatars/john-weeden.jpg
@@ -15,5 +14,5 @@ tags:
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

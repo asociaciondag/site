@@ -1,14 +1,12 @@
 id: 948
-title: 'La experiencia del Selected'
+title: "La experiencia del Selected"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/20191116-183314.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El [Selected](https://selectedinspiration.com/) fue concebido en el año 2002 como un encuentro donde la protagonista es la cultura visual en sus distintas formas de expresión. Nació, por tanto, con voluntad de ser un evento útil a los profesionales de la comunicación visual y la creatividad.
 
       En esta edición ha reunido a **750 participantes** alrededor de las tendencias actuales del diseño en el panorama cultural e industrial y más de **1700 proyectos** en su plataforma. Entre todos estos profesionales, este año los socios de la DAG del estudio [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/?lang=es) han tenido un papel destacado al ser ponentes, colaboradores y también premiados:
@@ -27,9 +25,9 @@ body:
 
       - Stand expositivo para la artesana Rosa Méndez.
       - [Arquitectos de Santiago](https://selectedinspiration.com/community/project/arquitectos-de-santiago-imagen-grafica), una reedición de un proyecto hecho para la sede del COAG de Santiago de Compostela, que fue el proyecto de gráfica ganador en la categoría profesional.
-       
+
     type: text
-intro: 'El pasado 15 y 16 de noviembre en el Palacio Euskaldune Bilbao y en el marco de la Bilbao Bizkaia Design Week ha tendio lugar el Selected Inspiration Europe.'
+intro: "El pasado 15 y 16 de noviembre en el Palacio Euskaldune Bilbao y en el marco de la Bilbao Bizkaia Design Week ha tendio lugar el Selected Inspiration Europe."
 slug: la-experiencia-del-selected
 tags: []
 lang: es

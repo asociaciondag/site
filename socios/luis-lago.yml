@@ -1,29 +1,25 @@
 id: 96
 contact: |-
-  **lago:monroy**  
-   Iluminación Deseño e Restauración  
-   T. 986 380 232  
+  **lago:monroy**
+   Iluminación Deseño e Restauración
+   T. 986 380 232
    M. 626 338 605
 
   <lagomonroy@gmail.com>
 links:
-  -
-    text: Web
-    url: 'http://monroyproyectos.blogspot.com/p/planetario.html'
+  - text: Web
+    url: "http://monroyproyectos.blogspot.com/p/planetario.html"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/lago-monroy-b0b8aa184/?originalSubdomain=es'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/lago-monroy-b0b8aa184/?originalSubdomain=es"
     type: linkedin
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/lagomonroytaller/'
+  - text: Instagram
+    url: "https://www.instagram.com/lagomonroytaller/"
     type: facebook
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/monroyproyectos.iluminaciondisenorestauracion'
+  - text: Facebook
+    url: "https://www.facebook.com/monroyproyectos.iluminaciondisenorestauracion"
     type: facebook
-name: 'Luis Lago'
+name: "Luis Lago"
 slug: luis-lago
 avatarBig: null
 avatar: /img/avatars/luis-lago.jpg
@@ -67,5 +63,5 @@ bio.es: |-
   Llegar al máximo de la funcionalidad de un objeto es imprescindible pero no lo único.
 
   Función y emoción son siempre mi meta.
-job.gl: 'Deseñador en lago:monroy'
-job.es: 'Diseñador en lago:monroy'
+job.gl: "Deseñador en lago:monroy"
+job.es: "Diseñador en lago:monroy"

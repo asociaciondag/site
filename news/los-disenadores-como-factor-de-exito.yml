@@ -1,31 +1,27 @@
 id: 942
-title: 'Los diseñadores como factor de éxito'
+title: "Los diseñadores como factor de éxito"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/xornada-desenadores-cis-nov2019.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Allí estarán nuestras socias, Noelia Estevez, del estudio [Desoños](https://www.desonhos.gal/), que centrará a súa presentación na creación de identidade visual a través do packaging; e [Noemí Cortizas](https://dag.gal/gl/noemi-cortizas/), diseñadora de producto y experta en CMF, que hablará de diseño teniendo en cuenta colores, materiales y acabados.
 
       La jornada se completa con la presentación de los objetivos del proyecto **Design4Innovation** y otras intervenciones centradas en el envase como valor añadido, en el diseño de iluminación, la creatividad y el emprendimiento. A las 13.30 h está previsto un aperitivo _networking_ para intercambiar opiniones entre los protagonistas y los asistentes.
 
       La asistencia es gratuita pero es necesario inscripción previa.
     type: text
-  -
-    list: ''
-    url: 'http://www.cisgalicia.org/contactos/plantillas/201911xdesenex/programa/programa.pdf'
-    text: 'Programa de la jornada'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/plantillas/201911xdesenex/programa/programa.pdf"
+    text: "Programa de la jornada"
     type: button
-  -
-    list: ''
-    url: 'http://www.cisgalicia.org/contactos/campan/inscribir/21'
-    text: 'Formulario de inscripción'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/campan/inscribir/21"
+    text: "Formulario de inscripción"
     type: button
-intro: 'El próximo 28 de noviembre, tendrá lugar en el CIS Ferrol, una jornada de mañana dedicada a los diseñadores y diseñadoras que trabajan directamente con empresas con la finalidad de alcanzar el éxito empresarial promoviendo y potenciando el uso del diseño.'
+intro: "El próximo 28 de noviembre, tendrá lugar en el CIS Ferrol, una jornada de mañana dedicada a los diseñadores y diseñadoras que trabajan directamente con empresas con la finalidad de alcanzar el éxito empresarial promoviendo y potenciando el uso del diseño."
 slug: los-disenadores-como-factor-de-exito
 tags: []
 lang: es

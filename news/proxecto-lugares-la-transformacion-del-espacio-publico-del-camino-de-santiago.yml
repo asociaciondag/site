@@ -1,14 +1,12 @@
 id: 1219
-title: '«Proxecto Lugares», la transformación​ del espacio público del Camino de Santiago'
+title: "«Proxecto Lugares», la transformación​ del espacio público del Camino de Santiago"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/poxecto-lugares.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El proyecto, dirigido por nuestra socia Natalia Balseiro, es una iniciativa impulsada ​​por la Xunta de Galicia a través de la Agencia Turismo de Galicia y patrocinada por la Fundación La Caixa dentro del cumplimiento del Pacto Verde Europeo,​ que se despliega en las comarcas de la Ulloa y Valdeorras en cuatro fases de trabajo. La primera, de mediación, se realizó en febrero de 2023, con agentes sociales de Palas de Rei y de la comarca para identificar lugares, materiales y valores en el territorio con posibilidad de realizar una intervención de arquitectura del paisaje sostenible.​
 
       La segunda fase consiste en la realización ​de un seminario que se celebrará el 18 y 19 de abril en el Castelo de Pambre, un espacio de pensamiento en el que profesionales de la arquitectura, el paisaje, el diseño y la artesanía abordarán cuestiones vinculadas a las intervenciones arquitectónicas del paisaje, desde una visión sostenible y contemporánea, en ese espacio público del Camino de Santiago. José Manuel Andrade y Pedro Calaza de la Fundación Juana de Vega,​​ Paola Sangalli, Amparo Moroño, Inés Rir, Verónica Moar, Carlos Seoane, Uqui Permui, Izaskun Chinchilla o Maé Durant son algunas de las profesionales que participarán en este seminario.​
@@ -19,12 +17,11 @@ body:
 
       Las inscripciones al seminario y al taller están actualmente cubiertas por la limitación física de los espacios, pero hay lista de espera por si hay bajas de última hora.​​ Más información, programa completo e inscripciones a las diferentes actividades, en la web del proyecto.
     type: text
-  -
-    list: ''
-    url: 'https://sites.google.com/view/proxectolugares/'
-    text: 'Proxecto lugares'
+  - list: ""
+    url: "https://sites.google.com/view/proxectolugares/"
+    text: "Proxecto lugares"
     type: button
-intro: 'Se desarrollará entre el 18 y el 22 de​ abril en las aldeas de Palas de Rei (Lugo) y Seadur (Ourense),​ sitas en el trazado del Camino Primitivo y el Camino de Invierno respectivamente, con la presencia de profesionales de diferentes ámbitos, incluido el diseño​​.'
+intro: "Se desarrollará entre el 18 y el 22 de​ abril en las aldeas de Palas de Rei (Lugo) y Seadur (Ourense),​ sitas en el trazado del Camino Primitivo y el Camino de Invierno respectivamente, con la presencia de profesionales de diferentes ámbitos, incluido el diseño​​."
 slug: proxecto-lugares-la-transformacion-del-espacio-publico-del-camino-de-santiago
 tags: []
 lang: es

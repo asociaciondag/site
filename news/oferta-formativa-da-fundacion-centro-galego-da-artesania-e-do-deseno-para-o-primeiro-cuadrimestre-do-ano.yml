@@ -1,8 +1,7 @@
 id: 348
-title: 'Oferta formativa da Fundación Centro Galego da Artesanía e do Deseño para o primeiro cuadrimestre do ano'
+title: "Oferta formativa da Fundación Centro Galego da Artesanía e do Deseño para o primeiro cuadrimestre do ano"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Varios cursos gratuítos relacionados cos eidos da xoiaría, do téxtil, do encaixe, das redes sociais na empresa ou da bixutaría constitúen a oferta formativa deseñada pola [Fundación Centro Galego da Artesanía e do Deseño](http://artesaniadegalicia.xunta.es/actualidad/noticias/econom-a-e-industria-presenta-o-calendario-de-formaci-n-especializada-para-art-2) para o primeiro cuadrimestre do ano.
 
@@ -13,8 +12,7 @@ body:
       Por último, todos os luns desde o 16 de abril ata o 7 de maio en Ourense desenvolverase o curso deFacebook para empresas e iniciación ao tratamento da fotografía dixital conducido por Inés Quiñoy.
 
       Estas actividades de formación están dirixidas principalmente a artesáns inscritos no Rexistro Xeral de Artesanía de Galicia aínda que, en función da dispoñibilidade de prazas, tamén poden participar afeccionados e interesados en xeral. A inscrición en calquera dos cursos pode realizarse a través da páxina web [www.artesaniadegalicia.org](http://artesaniadegalicia.xunta.es/)
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa0b5a96-logoartesaniagalicia.jpg
 intro: null
 slug: oferta-formativa-da-fundacion-centro-galego-da-artesania-e-do-deseno-para-o-primeiro-cuadrimestre-do-ano

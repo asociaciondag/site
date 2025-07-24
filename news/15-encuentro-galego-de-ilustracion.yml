@@ -1,14 +1,12 @@
 id: 825
-title: '15 Encuentro Galego de Ilustración'
+title: "15 Encuentro Galego de Ilustración"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/cartel-15encontro-1000px.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Invitados de relevancia internacional
 
       Los invitados principales de este año son tres nombres de gran relevancia dentro del panorama actual de la ilustración: **Ana Galvañ**, **Juan Díaz-Faes** y **Miguel Gallardo**.
@@ -27,12 +25,11 @@ body:
 
       Todas las actividades son de entrada libre y gratuita, excepto el taller, que requiere una inscripción previa de 15 euros. Toda la información puede consultarse en la web de [AGPI](https://agpi.es/).
     type: text
-  -
-    list: ''
-    url: 'https://agpi.es/encontro/'
-    text: '15 Encontro Galego de Ilustración'
+  - list: ""
+    url: "https://agpi.es/encontro/"
+    text: "15 Encontro Galego de Ilustración"
     type: button
-intro: 'Este año, el Encuentro Gallego de Ilustración que organiza anualmente la AGPI alcanza su edición número 15, y ofrece más contenidos y actividades de interés tanto para profesionales como para el público general. El grueso de las actividades se desarrollará en Unitaria (viernes 28) y en el Auditorio de Galicia (el sábado 29).'
+intro: "Este año, el Encuentro Gallego de Ilustración que organiza anualmente la AGPI alcanza su edición número 15, y ofrece más contenidos y actividades de interés tanto para profesionales como para el público general. El grueso de las actividades se desarrollará en Unitaria (viernes 28) y en el Auditorio de Galicia (el sábado 29)."
 slug: 15-encuentro-galego-de-ilustracion
 tags: []
 lang: es

@@ -1,62 +1,53 @@
 id: 1096
-title: 'Preséntase o primeiro Estudo estatístico sobre o sector do Deseño en Galicia'
+title: "Preséntase o primeiro Estudo estatístico sobre o sector do Deseño en Galicia"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-noticia-estudo.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O estudo aporta información relevante sobre o sector e permite facer comparativas con outros estudos desenvolvidos noutros territorios a nivel nacional e internacional; e supón un punto de partida importante para sentar as bases de estudos posteriores e máis amplos que sirvan de referencia estat​ística para a toma de decisións, tanto de carácter público como privado.
 
       O peso do sector deseño na economía galega é destacable, sobre todo porque é unha profesión que podemos definir como transversal por intervir en diferentes fases da cadea de produción das empresas, desde a concepción do produto ou servizo, ata a súa implementación e uso por parte da sociedade. Entón, que pasaría se se deixasen de facer actividades de deseño e se deixasen de consumir bens e servizos relacionados con esta profesión? Pois que a economía galega caería case un 2%, o valor engadido un 3,4% e o emprego un 4%. Suporía unha perda de case 2.000 millóns de euros en valor engadido e máis de 42.000 empregos a tempo completo. Estes datos obtivéronse mediante un exercicio de extracción hipotética das actividades de deseño especializado (CNAE 7410) e aquelas outras relacionadas en maior ou menor medida coa profesión, a partir dos últimos datos completos consultados (ano 2018).
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/dato-salientable-estudo.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Un dos factores a resaltar neste estudo é que ten en conta a empresas de diferentes sectores produtivos pertencentes aos quince clústeres de Galicia e empresas que participaron das diferentes iniciativas promovidas pola Xunta de Galicia que fomentan a integración do deseño como motor de cambio e innovación; pero tamén porque pretende facer unha radiografía do sector deseño desde o punto de vista de profesionais por conta propia e profesionais por conta allea, non tanto a nivel de cantas empresas e profesionais existen, senón como se comporta o sector, as diferenzas e semellanzas que existen entre diferentes profesionais, as especialidades que máis se realizan, etc.
 
       O estudo foi realizado por un equipo de trece persoas con asesoramento experto externo en certas fases da investigación, como na creación da **[taxonomía do deseño](https://estudodeseno.dag.gal/taxonomia/)**, que clarifica a importancia do deseño como disciplina que debe integrarse en calquera fase de creación e produción dun produto e servizo; e, ​ademais, mellora a descrición das diferentes disciplinas para que as empresas que demandan este tipo de servizos teñan a información necesaria para buscar o perfil profesional máis axeitado en cada caso. Unha das conclusións que se obtivo no estudo é que en Galicia existen profesionais competentes e de calidade, e que todas as disciplinas do deseño están representadas; polo que a oferta de servizos de deseño é completa e as empresas poden traballar con provedores locais sen ter que acudir a profesionais de fóra.​
 
       Outra das claves do estudo foi coñecer ata que punto as empresas invisten en deseño e como o utilizan, como valoran a súa repercusión e como miden o seu retorno. Así como hai empresas que xa asumen o deseño como parte do seu proceso produtivo e integran a profesionais dentro dos seus cadros de persoal, hai moitas empresas que non o consideran un factor importante para o seu desenvolvemento e seguen pensando que é un custo máis que un investimento. Evidenciouse, pois, certo descoñecemento do que aporta o deseño aos procesos internos e, tamén, a necesidade de desenvolver ferramentas que permitan medir de forma máis obxectiva e clara o retorno deste activo, tanto a nivel tanxible como intanxible.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/grafica01-proteccion-deseno-empresas.png
-    text: 'A protección do deseño está ligada coa importancia que se ​​lle da aos procesos, produtos e servizos que as empresas desenvolven. É unha maneira máis de valorar ​o uso do deseño e apréciase máis nas empresas de maior volume.'
+    text: "A protección do deseño está ligada coa importancia que se ​​lle da aos procesos, produtos e servizos que as empresas desenvolven. É unha maneira máis de valorar ​o uso do deseño e apréciase máis nas empresas de maior volume."
     mode: normal
     type: image
-  -
-    text: 'O nivel de estudos académicos dos e das profesionais do deseño é elevado. A maior parte proceden das Escolas de Arte Superiores de Deseño que existen en Galicia,​​ ou de Graos e Licenciaturas relacionadas. Sen embargo, constatouse no estudo que o rango salarial máis numeroso, no caso de profesionais por conta allea, é o de 14.000€/ano e que os máximos aos que se chega é de 24.000€/ano, no caso das mulleres, e de 36.000€/ano, no caso dos homes. Cómpre axustar esta realidade ao nivel de experiencia acadada no posto de traballo, á traxectoria dentro da empresa e tamén ao grao de responsabilidade adquirida; sobre todo, partindo de que a clasificación laboral inicial da profesión debería estar nos grupos 1 ou 2 de cotización que publica o BOE.'
+  - text: "O nivel de estudos académicos dos e das profesionais do deseño é elevado. A maior parte proceden das Escolas de Arte Superiores de Deseño que existen en Galicia,​​ ou de Graos e Licenciaturas relacionadas. Sen embargo, constatouse no estudo que o rango salarial máis numeroso, no caso de profesionais por conta allea, é o de 14.000€/ano e que os máximos aos que se chega é de 24.000€/ano, no caso das mulleres, e de 36.000€/ano, no caso dos homes. Cómpre axustar esta realidade ao nivel de experiencia acadada no posto de traballo, á traxectoria dentro da empresa e tamén ao grao de responsabilidade adquirida; sobre todo, partindo de que a clasificación laboral inicial da profesión debería estar nos grupos 1 ou 2 de cotización que publica o BOE."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/grafica-02-xenero-conta-propia.png
-    text: 'Dentro da mostra de profesionais por conta propia hai maior representación de homes que de mulleres (60% fronte ao 38,6%); igualmente, existen máis homes que mulleres á fronte dunha empresa de deseño. ​'
+    text: "Dentro da mostra de profesionais por conta propia hai maior representación de homes que de mulleres (60% fronte ao 38,6%); igualmente, existen máis homes que mulleres á fronte dunha empresa de deseño. ​"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Estas son algunhas das conclusións obtidas no estudo. O groso da investigación centrouse na análise cuantitativa e cualitativa dos resultados obtidos nas enquisas e entrevistas persoais realizadas tanto a empresas de diferentes sectores produtivos como a profesionais do deseño, por conta propia e allea. Toda a información está dispoñible na web [www.estudodeseno.dag.gal](https://estudodeseno.dag.gal/), onde ademais se pode consultar, de forma máis directa, a taxonomía do deseño, preguntas que dan resposta rápida e fácil sobre diferentes temas comúns no sector; e se aportan algunhas ferramentas de traballo para orientar mellor as relacións entre profesionais e empresas que demanden servizos de deseño. O[ informe completo](https://estudodeseno.dag.gal/assets/images/informe_EEDG.pdf) elaborado polo equipo de traballo, que profunda en moitos outros aspectos ademais dos salientados anteriormente, está dispoñible para libre descarga e consulta.
 
       A gráfica do informe e da web é obra dos socios de DAG,​ Iago Barreiro e Alberto Carballido, do estudio [Novagarda](https://novagarda.gal/).
     type: text
-  -
-    list: ''
-    url: 'https://estudodeseno.dag.gal/'
-    text: 'Web do estudo'
+  - list: ""
+    url: "https://estudodeseno.dag.gal/"
+    text: "Web do estudo"
     type: button
-intro: 'O pasado 15 de outubro, no seo do 9º Encontro Nacional de Asociacións de Deseño, organizado pola Rede Española de Asociacións de Deseño (READ) e a Asociación Galega de Deseño (DAG) en Santiago de Compostela, [presentouse o «Estudo da Economía​ ​do Deseño en Galicia»](https://youtu.be/3VbJuMxALGA?t=3358), un proxecto promovido pola Xunta de Galicia e a Axencia Galega de Innovación, GAIN, e desenvolvido pola DAG a través dun equipo de persoas pertencentes a diferentes disciplinas e profesións.'
+intro: "O pasado 15 de outubro, no seo do 9º Encontro Nacional de Asociacións de Deseño, organizado pola Rede Española de Asociacións de Deseño (READ) e a Asociación Galega de Deseño (DAG) en Santiago de Compostela, [presentouse o «Estudo da Economía​ ​do Deseño en Galicia»](https://youtu.be/3VbJuMxALGA?t=3358), un proxecto promovido pola Xunta de Galicia e a Axencia Galega de Innovación, GAIN, e desenvolvido pola DAG a través dun equipo de persoas pertencentes a diferentes disciplinas e profesións."
 slug: presentase-primeiro-estudo-estatistico-deseno-galicia
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2021-10-28T11:33:00+00:00

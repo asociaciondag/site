@@ -1,16 +1,14 @@
 id: 72
-title: 'Designers for Haiti'
+title: "Designers for Haiti"
 body:
-  -
-    text: |-
+  - text: |-
       Durante os próximos días, daranse a coñecer accións que desenvolverán dende [Grffica](http://graffica.info/) para recaudar diñeiro para as víctimas de Haití. Accións como doazóns, subastas, compra de produtos solidarios...
 
       A primeira accion é sinxela. Doa o que podas! 1 céntimo ou mil. Así de sinxelo. Unha vez feito isto, simplemente descarga o paquete de arquivos que atoparas no [link](http://graffica.info/2010/01/21/designers-for-haiti/) para que o poñas na túa web, blog, firma de e-mail, red social ou o que sexa.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a98365bf-designers-bannersuperior-blanco.jpg
-    text: ''
+    text: ""
     type: image
 intro: '**"Designers for Haití"** é a marca da iniciativa para facer aportacións, dende o mundo do deseño, para levar axuda a Haití.'
 slug: designers-for-haiti

@@ -1,24 +1,21 @@
 id: 1063
-title: 'Ladies, Wine & Design celebra su tercer aniversario en A Coruña'
+title: "Ladies, Wine & Design celebra su tercer aniversario en A Coruña"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/lwdcoruna.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El lema «Activas e creativas» integra un programa de actividades que incluirá la presentación de 4 profesionales vinculadas al diseño y la creatividad. Hablamos de la cineasta y periodista Paula Cons, directora de películas como A illa das mentiras, María José Mariño, directora de la Axencia Galega de Innovación, la cocinera Iria Espinosa, y la ilustradora y diseñadora Iria Prol. Las entradas para asistir al evento de manera presencial han tenido muy buena acogida y ya están agotadas. La buena noticia es que el evento será también retransmitido en directo, por primera vez las presentaciones estarán abiertas al público general. Para asistir al evento en línea solo hay que registrarse en el evento a través de la web Cultura ENVIVO.
 
       Apoyamos la iniciativa y trasladamos nuestras felicitaciones al colectivo en esta celebración.
     type: text
-  -
-    list: ''
-    url: 'https://www.culturaenvivo.com/es/activasecreativas/'
-    text: 'Entrada online '
+  - list: ""
+    url: "https://www.culturaenvivo.com/es/activasecreativas/"
+    text: "Entrada online "
     type: button
-intro: 'El próximo jueves, 10 de junio, la Fundación Luis Seoane acogerá un nuevo encuentro de [Ladies, Wine &amp; Design](https://ladieswinedesign.com/coruna/) en la ciudad. Esta será una ocasión especial, ya que el evento cumple 3 años de actividad continuada.'
+intro: "El próximo jueves, 10 de junio, la Fundación Luis Seoane acogerá un nuevo encuentro de [Ladies, Wine &amp; Design](https://ladieswinedesign.com/coruna/) en la ciudad. Esta será una ocasión especial, ya que el evento cumple 3 años de actividad continuada."
 slug: lwd-celebra-tercer-aniversario-a-coruna
 tags: []
 lang: es

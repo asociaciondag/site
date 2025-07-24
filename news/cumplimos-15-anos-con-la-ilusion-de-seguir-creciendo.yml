@@ -1,14 +1,12 @@
 id: 1071
-title: 'Cumplimos 15 años con la ilusión de seguir creciendo'
+title: "Cumplimos 15 años con la ilusión de seguir creciendo"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-15anosdag.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La filosofía de trabajo de la DAG hoy es la misma que se gestó hace 15 años, la colaboración y la participación de las personas asociadas es fundamental para que el proyecto perviva y crezca. Hacerse visible y que se entienda el diseño como una pieza indiscutible en la mejora de la competitividad de las empresas, así como en el acercamiento de las isntituciones y organismos públicos a los ciudadanos y ciudadanas, es clave para adquirir confianza y buscar espacios de encuentro donde DAG, como representante del sector, tenga voz. Y, en todo este proceso, que la administración pública camine cerca de nosotros amplía las opciones y avala los resultados.
 
       DAG siempre ha sido una asociación activa, con necesidad de interactuar con las personas, por eso organizamos encuentros, actividades y eventos que puedan ser de interés para todas. Desde aquella primera acción «Da idea á rúa» en 2007 hasta hoy, con la organización del FEED 2021, muchos fueron los proyectos y las actividades que se han realizado. Hablamos, por ejemplo, de la exposición «Entorno da Baskerville», el «FEET», «Acción DAG», «A volta das letras», el «MicAtlántica», el «I Encontro de deseñadoras e deseñadores galegos», el «Express», el «Estudo da economía do deseño en Galicia»... Y en esta línea seguimos trabajando. La nueva edición del FEED, un referente para estudiantes de diseño, profesionales y empresas ligadas al sector, ya tiene fecha y lugar este año, el 14 de octubre en Santiago de Compostela.
@@ -19,10 +17,10 @@ body:
 
       Con el paso del tiempo, vemos que el trabajo de años tiene resultados y que el apoyo de las y los profesionales del sector, tanto empresas de diseño como diseñadores y diseñadoras independientes o profesionales que trabajan por cuenta ajena, es fundamental para seguir actuando en favor del colectivo. Al mismo tiempo, entidades privadas y públicas, organismos autonómicos y administraciones locales, nos han acompañado a lo largo de estos 15 años y esperamos que siga siendo así, por lo menos, otros tantos.
     type: text
-intro: 'Hablamos de crecer en todos los sentidos, en el número de socios y de socias, en la relación con el resto de agentes y empresas del sector, en la repercusión de las actividades que desenvolvemos, en el compromiso de defender la profesión, en la creación de redes... Muchos son los retos que tenemos por delante y paso a paso vamos construyendo un camino asentado, con trazo recto y las menores curvas posibles.'
+intro: "Hablamos de crecer en todos los sentidos, en el número de socios y de socias, en la relación con el resto de agentes y empresas del sector, en la repercusión de las actividades que desenvolvemos, en el compromiso de defender la profesión, en la creación de redes... Muchos son los retos que tenemos por delante y paso a paso vamos construyendo un camino asentado, con trazo recto y las menores curvas posibles."
 slug: cumplimos-15-anos-con-la-ilusion-de-seguir-creciendo
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2021-06-30T00:00:00+00:00

@@ -1,12 +1,11 @@
 id: 475
-title: 'Conclusiones del Foro DAG: Propuestas de avance para el diseño'
+title: "Conclusiones del Foro DAG: Propuestas de avance para el diseño"
 body:
-  -
-    text: |-
+  - text: |-
       El foro, al que asistieron diseñadores gráficos e industriales de toda Galicia, se articuló en seis mesas de debate, cada una de ellas centrada en un tema:
 
       1. La web como medio en el contexto de la edición 2. Educación y formación en diseño en Galicia 3. La producción del diseño gallego 4. La comunicación del diseño gallego 5. Historia del diseño gallego y la identidad tipográfica 6. El tratamiento del diseño por parte de las administraciones públicas (contrataciones, concursos...)
-       
+
       El documento de conclusiones que ahora ve la luz pretende ser un punto de partida para la discusión de las distintas propuestas surgidas durante la jornada del foro y la selección de aquellas más interesantes para su desarrollo por parte de la DAG a través de comisiones de trabajo creadas para tal efecto.
 
       De momento hay ya una primera comisión constituida por miembros de la asociación que está trabajando en el tema de los concursos de diseño, puesto que desde la DAG se considera prioritario la puesta en marcha de iniciativas que combatan esta mala práctica cada vez más adoptada por empresas y administraciones públicas.
@@ -15,12 +14,11 @@ body:
 
       Descarga las conclusiones del foro:
     type: text
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa52ad54-propostas-do-foro-dag.pdf
     text: Descargar
     type: file
-intro: 'La DAG, Asociación Gallega de Diseñadores, hace público el documento con las conclusiones del foro Propuestas de avance para el diseño celebrado el 9 de febrero de 2013 en el Centro Gallego de Arte Contemporáneo.'
+intro: "La DAG, Asociación Gallega de Diseñadores, hace público el documento con las conclusiones del foro Propuestas de avance para el diseño celebrado el 9 de febrero de 2013 en el Centro Gallego de Arte Contemporáneo."
 slug: conclusiones-del-foro-dag-propuestas-de-avance-para-el-diseno
 tags: []
 lang: es

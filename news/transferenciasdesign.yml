@@ -1,24 +1,21 @@
 id: 731
 title: Transferenciasdesign
 body:
-  -
-    list: ''
+  - list: ""
     image: null
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El programa incluye varios seminarios y talleres sobre temas como Nuevos materiales y diseño, El papel del papel, Diseño de museos de Diseño, Diseño de experiencia de usuario, Empresa en los procesos formativos de postgrado en Diseño, Procesos globales de trabajo en el diseño; una conferencia sobre Gráfica comercial y economía; una exposición de carteles publicitarios y la entrega de los premios Cosentino Design Challenge.
 
       La inscripción ya está abierta y es gratuita.
     type: text
-  -
-    list: ''
-    url: 'http://www.transferencias.design/'
-    text: 'Transferencias Design 2017'
+  - list: ""
+    url: "http://www.transferencias.design/"
+    text: "Transferencias Design 2017"
     type: button
-intro: 'Transferencias.Design, el programa creado por la Red Española de Asociaciones de Diseño (READ) y la Confederación de Escuelas de Arte (CEA) reunirá el próximo 8 de 9 de junio en Málaga a empresas, instituciones, docentes y profesionales del Diseño para debatir sobre las relaciones entre el Diseño y la sociedade.'
+intro: "Transferencias.Design, el programa creado por la Red Española de Asociaciones de Diseño (READ) y la Confederación de Escuelas de Arte (CEA) reunirá el próximo 8 de 9 de junio en Málaga a empresas, instituciones, docentes y profesionales del Diseño para debatir sobre las relaciones entre el Diseño y la sociedade."
 slug: transferenciasdesign
 tags: []
 lang: es

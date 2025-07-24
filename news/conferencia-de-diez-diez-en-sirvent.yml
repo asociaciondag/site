@@ -1,8 +1,7 @@
 id: 314
-title: 'Conferencia de díez + díez en Sirvent'
+title: "Conferencia de díez + díez en Sirvent"
 body:
-  -
-    text: |-
+  - text: |-
       Ademais da conferencia, poderase visitar unha exposición que baixo o título de Epigramas reúne obxectos do estudio, a medio camiño entre o deseño e a arte contemporánea, e que eles definen como curtocircuítos, chispazos artísticos libres de calquera carga conceptual.
 
       Entrada libre
@@ -15,12 +14,11 @@ body:
 
       <sirvent@sirventvigo.com>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9fb11d8-diez-diez.gif
-    text: ''
+    text: ""
     type: image
-intro: 'Tras a inauguración do espazo [Sirvent](http://www.sirventvigo.com/sirvent/es) coa charla-coloquio: O algodón non engana do arquitecto Alfonso Penela, a seguinte cita na axenda será a conferencia de [díez + díez](http://www.diezmasdiez.com/) o vindeiro mércores, 30 de novembro, ás 20.00 h.'
+intro: "Tras a inauguración do espazo [Sirvent](http://www.sirventvigo.com/sirvent/es) coa charla-coloquio: O algodón non engana do arquitecto Alfonso Penela, a seguinte cita na axenda será a conferencia de [díez + díez](http://www.diezmasdiez.com/) o vindeiro mércores, 30 de novembro, ás 20.00 h."
 slug: conferencia-de-diez-diez-en-sirvent
 tags: []
 lang: gl

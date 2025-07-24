@@ -1,13 +1,11 @@
 id: 397
-title: 'Galería efímera, gráfica integral'
+title: "Galería efímera, gráfica integral"
 slug: galeria-efimera-grafica-integral
 body:
-  -
-    image: /img/portfolio/images/uv.jpg
-    text: ''
+  - image: /img/portfolio/images/uv.jpg
+    text: ""
     type: image
-  -
-    text: '[Galería efímera, gráfica integral ](https://davidrivada.es/poexpo.html)'
+  - text: "[Galería efímera, gráfica integral ](https://davidrivada.es/poexpo.html)"
     type: text
 cover: /img/portfolio/covers/uv.jpg
 tags:

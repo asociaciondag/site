@@ -1,24 +1,20 @@
 id: 302
-title: 'Todo el tiempo del mundo'
+title: "Todo el tiempo del mundo"
 slug: todo-el-tiempo-del-mundo
 body:
-  -
-    text: |-
-      _Todo el tiempo del mundo_ foi un encargo de Los Libros de Rocamadour, unha asociación cultural centrada na lectura e na edición de obras singulares. Neste empeño, buscan extraer de cada proxecto, os principios esenciais que potencien o conxunto, buscando obter un resultado, non só atractivo, senón tamén significativo.  
-       _Todo el tiempo del mundo_ foi a primeira novela de Manuel Olveira, licenciado en Historia da Arte e en Belas Artes, director do Centro de Producción y Residencias Artísticas Hangar (Barcelona, 2001–2005), do Centro Galego de Arte Contemporánea, CGAC (Santiago de Compostela, 2004-2009), do Ágora, Centro Cultural para o Progreso Social (A Coruña, 2010-2011) e, dende 2013, do Museo de Arte Contemporáneo de Castilla y León, MUSAC. Con isto quero sinalar que o libro a deseñar, non podía enfocarse como un libro calquera. Continente e contido tiñan que responder a un concepto común, adecuarse ao sentido e á estética da novela.   
+  - text: |-
+      _Todo el tiempo del mundo_ foi un encargo de Los Libros de Rocamadour, unha asociación cultural centrada na lectura e na edición de obras singulares. Neste empeño, buscan extraer de cada proxecto, os principios esenciais que potencien o conxunto, buscando obter un resultado, non só atractivo, senón tamén significativo.
+       _Todo el tiempo del mundo_ foi a primeira novela de Manuel Olveira, licenciado en Historia da Arte e en Belas Artes, director do Centro de Producción y Residencias Artísticas Hangar (Barcelona, 2001–2005), do Centro Galego de Arte Contemporánea, CGAC (Santiago de Compostela, 2004-2009), do Ágora, Centro Cultural para o Progreso Social (A Coruña, 2010-2011) e, dende 2013, do Museo de Arte Contemporáneo de Castilla y León, MUSAC. Con isto quero sinalar que o libro a deseñar, non podía enfocarse como un libro calquera. Continente e contido tiñan que responder a un concepto común, adecuarse ao sentido e á estética da novela.
        Así, por un lado foi a agua como elemento e fonte de vida o elemento aglutinador, polo outro, o propio tacto do volume, aparentemente uniforme, ata que o tes nas mans.
     type: text
-  -
-    image: /img/portfolio/images/todo-el-tiempo-del-mundo-1.jpg
-    text: ''
+  - image: /img/portfolio/images/todo-el-tiempo-del-mundo-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/todo-el-tiempo-del-mundo-2.jpg
-    text: ''
+  - image: /img/portfolio/images/todo-el-tiempo-del-mundo-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/todo-el-tiempo-del-mundo-3.jpg
-    text: ''
+  - image: /img/portfolio/images/todo-el-tiempo-del-mundo-3.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/todo-el-tiempo-del-mundo-1.jpg
 tags:

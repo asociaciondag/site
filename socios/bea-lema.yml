@@ -6,15 +6,13 @@ contact: |-
 
   +34 662 335 766
 links:
-  -
-    text: Web
-    url: 'http://bealema.com/'
+  - text: Web
+    url: "http://bealema.com/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/bea.lema/'
+  - text: Instagram
+    url: "https://www.instagram.com/bea.lema/"
     type: link
-name: 'Bea Lema'
+name: "Bea Lema"
 slug: bea-lema
 avatarBig: null
 avatar: /img/avatars/587f97abb1320-bea-lema.jpg
@@ -32,5 +30,5 @@ bio.es: |-
   En la actualidad soy socia de la cooperativa 7H, desde donde desarrollo mi trabajo en relación al diseño de producto y la ilustración. Realicé proyectos muy diversos (objetos grandes, objetos pequeños, instalaciones, acciones,...). Además, también imparto mis propios talleres.
 
   Mis diseños fueron realizado para amigos, empresas o instituciones como: Fuera de Margen, Unitaria, Nave 1839, Bibliotecas Municipales de A Coruña, Consejo Gallego de Cooperativas, Cidade da Cultura de Galicia o el Ayuntamiento de Santiago de Compostela.
-job.gl: 'Deseño de produto / ilustracción'
-job.es: 'Diseño de producto / ilustración'
+job.gl: "Deseño de produto / ilustracción"
+job.es: "Diseño de producto / ilustración"

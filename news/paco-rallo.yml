@@ -1,15 +1,13 @@
 id: 56
-title: 'Paco Rallo'
+title: "Paco Rallo"
 body:
-  -
-    text: 'A inauguración das dúas exposicións que levan por título "Eses signos gráficos chamados letras" e "Un vocabulario sen fórmulas" terá lugar o próximo venres 13 de novembro ás 19.00 h e ás 20.00 h na libraría Anónima e na Escola de Arte de Huesca, respectivamente.'
+  - text: 'A inauguración das dúas exposicións que levan por título "Eses signos gráficos chamados letras" e "Un vocabulario sen fórmulas" terá lugar o próximo venres 13 de novembro ás 19.00 h e ás 20.00 h na libraría Anónima e na Escola de Arte de Huesca, respectivamente.'
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a979ae6d-invitacion-copia.gif
-    text: ''
+    text: ""
     type: image
-intro: 'Paco Rallo inaugura en Huesca dúas novas exposicións.'
+intro: "Paco Rallo inaugura en Huesca dúas novas exposicións."
 slug: paco-rallo
 tags: []
 lang: gl

@@ -1,14 +1,12 @@
 id: 932
-title: 'Bienvenido, Alberto!'
+title: "Bienvenido, Alberto!"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/alberto-fernandez-garcia-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola,
 
       Soy Alberto, natural de Barcelona, aunque residente en Galicia desde los tres años. Pese a que soy técnico superior en el desarrollo de aplicaciones informáticas, he acabado decantándome por una rama más creativa como el diseño gráfico / web, en particular como diseñador UI / UX.
@@ -21,15 +19,14 @@ body:
 
       Un saludo y muchas gracias por acogerme.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/es/alberto-fernandez-garcia/'
-    text: 'Perfil de Alberto Fernández en la DAG'
+  - list: ""
+    url: "https://dag.gal/es/alberto-fernandez-garcia/"
+    text: "Perfil de Alberto Fernández en la DAG"
     type: button
-intro: 'Las actividades que organiza la DAG, como el FEED, suponen para muchos diseñadores el primer contacto con la Asociación Gallega de Diseño. Este ha sido el caso de este nuevo socio al que hoy vamos a conocer un poco mejor.'
+intro: "Las actividades que organiza la DAG, como el FEED, suponen para muchos diseñadores el primer contacto con la Asociación Gallega de Diseño. Este ha sido el caso de este nuevo socio al que hoy vamos a conocer un poco mejor."
 slug: bienvenido-alberto
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-11-07T20:03:37+00:00

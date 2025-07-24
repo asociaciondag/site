@@ -1,8 +1,7 @@
 id: 273
-title: 'Cursos de creación de videojuegos, creación de webs para dispositivos móviles y streaming de video y audio en el Centro Multimedia de Galicia'
+title: "Cursos de creación de videojuegos, creación de webs para dispositivos móviles y streaming de video y audio en el Centro Multimedia de Galicia"
 body:
-  -
-    text: |-
+  - text: |-
       Tres son los cursos ofertados:
 
       **Curso de creación de videojuegos** (septiembre) 8 horas presenciales + 22 de trabajo on line Inscripciones hasta el 12 de septiembre de 2011 Inicio de la actividad: 26 de septiembre de 2011 Profesor: Carlos Fernández Carlos Fernández lleva quince años diseñando y produciendo videojuegos para Wii, PS3, PC, iPad, iPhone, máquinas deportivas, etc., además de coordinar proyectos de I+D con varias empresas, centros tecnológicos y universidades españolas. A esta experiencia se suma la de director técnico y de animación en producciones cinematográficas en 3D con [Continental Producciones](http://www.continental-producciones.com/index.html) y la de guionista de producciones audiovisuales y videojuegos. Además, Carlos Fernández ha diseñado y dirigido el primer videojuego gallego para Wii, My Fireplace, número 1 en ventas en España y top ten en los mercados estadounidense y europeo. Programa: - Historia de los videojuegos (30 años de producción internacional y gallega) - Cómo es el proceso de producción de un videojuego - Características de un equipo de desarrollo de videojuegos. Qué debo estudiar? - Las plataformas y la distribución - La programación - Apartado gráfico (diseño, 3D o 2D, animación, etc.) - La jugabilidad y la “chispa” de un videojuego - Canales de comercialización accesibles para proyectos independientes Requisitos Se requiere formación previa en alguna de las facetas propias de la producción de videojuegos: programación, diseño gráfico, modelado, animación, efectos especiales, texturas, guión, efectos de sonido, composición musical, localización, etc.
@@ -15,22 +14,19 @@ body:
 
       Consulta la ficha de los cursos:
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9e6786c-curso-creacion-webmobil.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9e6786c-ficha-curso-videoxogos.pdf
     text: Descargar
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9e6786c-ficha-curso-webmobil.pdf
     text: Descargar
     type: file
-intro: 'Tras las vacaciones, el [Centro Multimedia de Galicia](http://www.cmg.xunta.es/) reanuda su actividad en septiembre con tres nuevos cursos gratuitos que se enmarcan dentro de su programa de formación multimedia y audiovisual para el 2011.'
+intro: "Tras las vacaciones, el [Centro Multimedia de Galicia](http://www.cmg.xunta.es/) reanuda su actividad en septiembre con tres nuevos cursos gratuitos que se enmarcan dentro de su programa de formación multimedia y audiovisual para el 2011."
 slug: cursos-de-creacion-de-videojuegos-creacion-de-webs-para-dispositivos-moviles-y-streaming-de-video-y-audio-en-el-centro-multimedia-de-galicia
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 1364
-title: '3º Encontro do Deseño Galego de DAG, Cangas'
+title: "3º Encontro do Deseño Galego de DAG, Cangas"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/encontro-cangas-fondos-de-pantalla-mesa-de-trabajo-1.jpg
-    text: 'Gráfica do evento de José A. Pérez Gil'
+    text: "Gráfica do evento de José A. Pérez Gil"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Coa celebración deste tipo de encontros a DAG quere deslocalizar as actividades de deseño das urbes galegas achegándoas a outros lugares para coñecer máis sobre a nosa identidade e recursos vinculados á cultura visual, historia e patrimonio.
 
       A xornada, aberta a toda comunidade do deseño e persoas interesadas no noso eido, comezará ás 10.30 h na propia Casa do Concello, coas presentacións de proxectos das asociadas/os **Carlos el Rojo** ([Carloselrojo](https://www.carloselrojo.com/)), **Thais Suárez** ([Sísmica Creativa](https://sismicacreativa.com/)), **Pablo Álvarez** ([BeDo Creativos](https://wearebedo.com/)), **Tania Villamarín** ([Tania Villaga](https://taniavillaga.es/)) e **Luis Lago** ([Lago:Monroy](https://lagomonroy.com/)). Seguidamente participaremos nunha dinámica colectiva a modo de debate sobre deseño e futuro, para tratar as inquedanzas e intereses do sector.
@@ -21,10 +19,10 @@ body:
 
       Rematamos agradecendo ao Concello de Cangas a súa acollida e animándovos a facer desta outra celebración do deseño galego.
     type: text
-intro: 'Comezamos o ano falando de deseño no 3º Encontro, que terá lugar en Cangas o vindeiro sábado 18 de xaneiro. Unha ocasión para compartir presentacións, intereses comúns e aprendizaxe conxunta.'
+intro: "Comezamos o ano falando de deseño no 3º Encontro, que terá lugar en Cangas o vindeiro sábado 18 de xaneiro. Unha ocasión para compartir presentacións, intereses comúns e aprendizaxe conxunta."
 slug: encontro-cangas
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2025-01-10T13:26:00+00:00

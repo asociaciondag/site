@@ -1,21 +1,19 @@
 id: 124
 contact: creative@xoseteiga.com
 links:
-  -
-    text: Web
-    url: 'https://www.xoseteiga.com/'
+  - text: Web
+    url: "https://www.xoseteiga.com/"
     type: link
-  -
-    text: Linkeding
-    url: 'https://www.linkedin.com/in/xoseteiga/'
+  - text: Linkeding
+    url: "https://www.linkedin.com/in/xoseteiga/"
     type: link
-name: 'Xosé Teiga'
+name: "Xosé Teiga"
 slug: xose-teiga
 avatarBig: /img/avatars/xose-teiga-2023.jpg
 avatar: /img/avatars/xose-teiga-2023.jpg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Sinalética
   - Editorial
   - Embalaxe
@@ -36,5 +34,5 @@ bio.es: |-
   En la actualidade es director creativo de [**teiga, studio** ](https://www.xoseteiga.com/)una agencia de _branding_ y diseño independente. Combina su labor profesional con la docencia en la Universidad de Vigo, la Universidad de Santiago de Compostela y la Universidad da Coruña. Ha impartido conferencias, cursos, _masterclass_ y seminarios en la Universidad Politécnica de Valencia, la Fundación Juana de Vega, la Universidad de Vigo, el Clúster do Produto Gráfico Galego… y practica la investigación en diferentes campos artísticos y del diseño como la reprodución de la obra de arte, el diseño como arte, la inteligencia artificial, la vídeocreación, el gravado, la tipografía,...
 
   Hasta la fecha ha obtenido más de 300 premios y reconocimientos nacionales e internacionales en diseño como Laus, Art Director Club of Europe (ADCE), Art Directors Club of New York (ADCNY), Print Awards, International Society Type Design (ISTD), Indigo Awards, Cannes Lions Design, Graphis, Communication Arts, Selected, Wolda, Design &amp; Design, Anuaria… Así como diferentes becas y premios de arte como Novos Valores, la Beca de Investigación MIDE UCLM, la Beca ampliación de estudos de la Diputación de A Coruña.
-job.gl: 'Director Creativo en teiga, studio'
-job.es: 'Director Creativo en teiga, studio'
+job.gl: "Director Creativo en teiga, studio"
+job.es: "Director Creativo en teiga, studio"

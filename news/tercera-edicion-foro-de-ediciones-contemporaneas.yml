@@ -1,20 +1,18 @@
 id: 154
-title: 'Tercera Edición. Foro de ediciones contemporáneas'
+title: "Tercera Edición. Foro de ediciones contemporáneas"
 body:
-  -
-    text: |-
+  - text: |-
       Á Arxentina, o país convidado este ano, estarán dedicados dous dos actos centrais da programación: unha mesa redonda sobre a edición independente nese país e un relatorio sobre os libros prohibidos durante a Ditadura.
 
       Ademais tamén se analizarán as claves que se achan detrás da proliferación de iniciativas editoriais independentes e o público asistente poderá coñecer de primeira man proxectos e produtos que normalmente quedan fóra dos circuítos convencionais de distribución.
 
       Máis información na web de[ Tercera Edición](http://terceraedicion-macg.tumblr.com/)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9a22d41-tercera-edicion.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'A edición independente será a protagonista do próximo foro de edicións contempóraneas que se celebrará en México no mes de decembro.'
+intro: "A edición independente será a protagonista do próximo foro de edicións contempóraneas que se celebrará en México no mes de decembro."
 slug: tercera-edicion-foro-de-ediciones-contemporaneas
 tags: []
 lang: gl

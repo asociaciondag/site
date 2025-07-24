@@ -1,14 +1,11 @@
 id: 377
-title: 'Últimos días para inscribirse en la BID12'
+title: "Últimos días para inscribirse en la BID12"
 body:
-  -
-    type: text
+  - type: text
     text: 'Solo quedan unos días para que se cierre el plazo de inscripción para participar en la [BID\_12](http://www.bid-dimad.org/bid12/index.html), la edición de la Bienal Iberoamericana del Diseño que organiza la Central del Diseño y [DIMAD](http://www.dimad.org/) con el fin de dar a conocer las propuestas más representativas, destacadas e innovadoras del diseño en Iberoamérica. En esta ocasión, están convocados profesionales del diseño de 22 países iberoamericanos, entre los que la organización otorgará hasta un total de 119 premios (5 por país y en las siguientes categorías: diseño de espacios e interiorismo, diseño industrial/producto, diseño gráfico, diseño de moda, textil y complementos, diseño digital). En el caso español, el comité asesor está integrado por Alberto Corazón, Manuel Estrada y Pedro Feduchi. Además de los premios, los trabajos seleccionados y premiados serán objeto de una exposición que podrá visitarse entre el 26 de noviembre de 2012 y el 28 de febrero de 2013 en la sede de DIMAD, en la Central del Diseño en Matadero Madrid, y que posteriormente viajará por países como Colombia, Argentina, Paraguay, Brasil o Portugal. Asimismo, está prevista la realización de mesas redondas, conferencias y talleres en los que se expondrán y se discutirán las nuevas ideas en torno al eje desarrollo, diseño y sostenibilidad. El plazo para inscribirse finaliza el próximo 30 de junio y el coste será de 59 euros, la tarifa normal, y de 50,15 euros, la tarifa con descuento del 15% para miembros de asociaciones. Más información en: [BID12, III Bienal Iberoamericana del Diseño ](http://www.bid-dimad.org/bid12/index.html) Descarga las bases:'
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa1c7445-bid12.jpg
-  -
-    type: file
+  - type: file
     text: Descargar
     file: /files/553e7aa1c7445-bid12-bases.pdf
 intro: null

@@ -1,14 +1,12 @@
 id: 1292
-title: 'VII Encontro de Deseño para a Innovación en Ferrol'
+title: "VII Encontro de Deseño para a Innovación en Ferrol"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/vii-encontro-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Nesta edición ponse o foco na relación entre o deseño, a tecnoloxía e o impacto económico e poderemos escoitar de primeira man a experiencia de compañeiros e compañeiras de profesión desde distintas disciplinas: deseño gráfico, deseño de produto dixital ou deseño de servizos enfocado á experiencia das persoas usuarias.
 
       Entre as persoas relatoras atopamos a [Uqui Permui](https://uqui.net/), Premio Galicia Deseño 2023 na categoría Profesional, que exporá unha visión integral do deseño como panca para o desenvolvemento social e económico; Dani Bembibre e David Silvosa de [Costa.io](http://costa.io), Premio Galicia Deseño 2023 na categoría de Empresas, que falarán da súa maneira de traballar desde un punto de vista estratéxico; [Carmen Bouza](https://dag.gal/es/carmen-bouza/), deseñadora de produto dixital en Accenture Song, que centrará a súa charla na parte de proceso previo á creación; [Rosa Seoane](https://www.linkedin.com/in/rosa-seoane-708a511/?originalSubdomain=es), directora de Digital Distribution &amp; Workplace en ABANCA, que falará da relación existente entre a tecnoloxía e as persoas usuarias en entornos totalmente dixitais; e [Javier Cañada](https://es.linkedin.com/in/javiercanada), fundador do Instituto Tramontana e director de deseño de Visual MS, que falará do deseño como gran catalizador.
@@ -17,17 +15,15 @@ body:
 
       Este ano o encontro trasládase a abril para conmemorar o Día Internacional do Deseño que se celebra o 27. A participación é de balde mais cómpre inscribirse previamente para que a organización poida levar un control de asistencia. Ao peche do encontro está previsto un aperitivo _networking_.
     type: text
-  -
-    list: ''
-    url: 'http://gain.xunta.gal/repo/3-ProgramaVIIEncontroDesenho.pdf'
-    text: 'Programa do encontro'
+  - list: ""
+    url: "http://gain.xunta.gal/repo/3-ProgramaVIIEncontroDesenho.pdf"
+    text: "Programa do encontro"
     type: button
-  -
-    list: ''
-    url: 'https://www.cistecnoloxiaedeseno.gal/intranet/campan/inscribir/168'
-    text: 'Formulario de inscrición'
+  - list: ""
+    url: "https://www.cistecnoloxiaedeseno.gal/intranet/campan/inscribir/168"
+    text: "Formulario de inscrición"
     type: button
-intro: 'O vindeiro 25 de abril terá lugar no CIS Tecnoloxía e Deseño de Ferrol o VII Encontro de Deseño para a Innovación organizado pola Consellería de Economía, Industria e Innovación a través da Axencia Galega de Innovación.'
+intro: "O vindeiro 25 de abril terá lugar no CIS Tecnoloxía e Deseño de Ferrol o VII Encontro de Deseño para a Innovación organizado pola Consellería de Economía, Industria e Innovación a través da Axencia Galega de Innovación."
 slug: vii-encontro-de-deseno-para-a-innovacion-en-ferrol
 tags: []
 lang: gl

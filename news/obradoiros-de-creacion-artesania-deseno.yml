@@ -1,25 +1,21 @@
 id: 250
-title: 'Obradoiros de creación Artesanía/Deseño'
+title: "Obradoiros de creación Artesanía/Deseño"
 body:
-  -
-    text: 'Resultado desta combinación son as parellas formadas polo deseñador de moda [Carlos Díez](http://carlosdiezdiez.com/) e o cesteiro [Carlos Fontales](http://carlosfontales.blogspot.com/), por Natalia Pérez e Jorge Bolado da firma [American Pérez](http://www.americanperez.com/) e a tecelá [Anna Champeney](http://www.textilesnaturales.com/about) e por Nando Cornejo de [Potipoti](http://www.potipoti.com/) e mais a cesteira [Idoia Cuesta](http://idoiacuesta.com/). Os obradoiros, que son gratuítos, están organizados polo Grupo de Investigación DX7 da Universidade de Vigo ESDEMGA e coordinados por Rocío Gómez, Cristina Varela e Silvia García, baixo a dirección de Lola Dopico. Para anotarse, hai que cubrir a folla de inscrición e enviala xunto co teu currículo ou portfolio e mais unha pequena explicación acerca dos teus motivos para inscribirte a info.esdemga@uvigo.es antes do 30 de xuño. Máis información na páxina de [ESDEMGA](http://www.esdemga.uvigo.es/index.php?id=72&idn=54)'
+  - text: "Resultado desta combinación son as parellas formadas polo deseñador de moda [Carlos Díez](http://carlosdiezdiez.com/) e o cesteiro [Carlos Fontales](http://carlosfontales.blogspot.com/), por Natalia Pérez e Jorge Bolado da firma [American Pérez](http://www.americanperez.com/) e a tecelá [Anna Champeney](http://www.textilesnaturales.com/about) e por Nando Cornejo de [Potipoti](http://www.potipoti.com/) e mais a cesteira [Idoia Cuesta](http://idoiacuesta.com/). Os obradoiros, que son gratuítos, están organizados polo Grupo de Investigación DX7 da Universidade de Vigo ESDEMGA e coordinados por Rocío Gómez, Cristina Varela e Silvia García, baixo a dirección de Lola Dopico. Para anotarse, hai que cubrir a folla de inscrición e enviala xunto co teu currículo ou portfolio e mais unha pequena explicación acerca dos teus motivos para inscribirte a info.esdemga@uvigo.es antes do 30 de xuño. Máis información na páxina de [ESDEMGA](http://www.esdemga.uvigo.es/index.php?id=72&idn=54)"
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9dbd105-artesania-deseno.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9dbd105-folleto-artesania-deseno.pdf
     text: Descargar
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9dbd105-folla-de-inscricion-artesania-deseno.pdf
     text: Descargar
     type: file
-intro: 'Un deseñador de moda e un artesán serán os encargados de impartir conxuntamente cada un dos tres obradoiros de creación que se desenvolverán do 4 ao 6 de xullo na Facultade de Belas Artes de Pontevedra en horario de 10.00 a 14.00 da mañá e de 16.00 a 19.00 da tarde.'
+intro: "Un deseñador de moda e un artesán serán os encargados de impartir conxuntamente cada un dos tres obradoiros de creación que se desenvolverán do 4 ao 6 de xullo na Facultade de Belas Artes de Pontevedra en horario de 10.00 a 14.00 da mañá e de 16.00 a 19.00 da tarde."
 slug: obradoiros-de-creacion-artesania-deseno
 tags: []
 lang: gl

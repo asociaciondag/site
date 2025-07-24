@@ -2,32 +2,25 @@ id: 288
 title: CentVint
 slug: centvint
 body:
-  -
-    text: 'Sistema de almacenamento de estilo moderno e práctico. A colección fórmana tres módulos flexibles que se adaptan ás necesidades do usuario e lle permiten crear configuracións personalizadas grazas ás súas caras imantadas. Fabricados en contrachapado de faia e bandexa interior de latón. Os módulos véndense por separado.'
+  - text: "Sistema de almacenamento de estilo moderno e práctico. A colección fórmana tres módulos flexibles que se adaptan ás necesidades do usuario e lle permiten crear configuracións personalizadas grazas ás súas caras imantadas. Fabricados en contrachapado de faia e bandexa interior de latón. Os módulos véndense por separado."
     type: text
-  -
-    image: /img/portfolio/images/centvint-fondo-blanco-1.jpg
-    text: ''
+  - image: /img/portfolio/images/centvint-fondo-blanco-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/centvint-fondo-blanco-2.jpg
-    text: ''
+  - image: /img/portfolio/images/centvint-fondo-blanco-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/centvint-fondo-blanco-3.jpg
-    text: ''
+  - image: /img/portfolio/images/centvint-fondo-blanco-3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/centvint-pres-1.jpg
-    text: ''
+  - image: /img/portfolio/images/centvint-pres-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/centvint-pres-2.jpg
-    text: ''
+  - image: /img/portfolio/images/centvint-pres-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/centvint-pres-3.jpg
-    text: ''
+  - image: /img/portfolio/images/centvint-pres-3.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/centvint-logo.jpg
 tags:
@@ -36,26 +29,21 @@ tags:
   - Mobiliario
   - Tipografía
   - Editorial
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
   - Embalaxe
 members_id:
   - 19
 lang: gl
 info:
-  -
-    name: 'Cliente:'
+  - name: "Cliente:"
     value: LaCapell
-  -
-    name: 'Año:'
-    value: '2019'
-  -
-    name: 'Personas que interviñeron no desenvolvemento:'
-    value: 'Antón García, Deya Carreón'
-  -
-    name: 'Venda online:'
+  - name: "Año:"
+    value: "2019"
+  - name: "Personas que interviñeron no desenvolvemento:"
+    value: "Antón García, Deya Carreón"
+  - name: "Venda online:"
     value: '<a href="https://www.rokdesign.es/shop">ROKdesign Shop</a>'
-  -
-    name: 'IG Produto'
-    value: '@centvint_'
+  - name: "IG Produto"
+    value: "@centvint_"
 draft: false

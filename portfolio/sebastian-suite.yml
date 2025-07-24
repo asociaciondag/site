@@ -1,10 +1,9 @@
 id: 421
-title: 'Sebastian Suite'
+title: "Sebastian Suite"
 slug: sebastian-suite
 body:
-  -
-    image: /img/portfolio/images/sebastian-suite-diseno-web.jpg
-    text: ''
+  - image: /img/portfolio/images/sebastian-suite-diseno-web.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/sebastian-suite-diseno-web.jpg
 tags:

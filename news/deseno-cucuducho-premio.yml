@@ -1,28 +1,25 @@
 id: 988
-title: 'O deseño de mobiliario infantil de cucuducho recibe un A’ Design Award'
+title: "O deseño de mobiliario infantil de cucuducho recibe un A’ Design Award"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/maijom-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/maijom-3-peq.png
-    text: 'Escritorio _maijon_ deseñado por Lois Guillán para cucuducho'
+    text: "Escritorio _maijon_ deseñado por Lois Guillán para cucuducho"
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       Os premios anuais [A’ Design Award](https://competition.adesignaward.com/) destacan o traballo desenvolvido en deseño de produto e sevizos, entre outros. Estes galardóns, moi ben considerados no sector, contan con un alto índice de participación de profesionais, estudios e marcas de distintas partes do mundo. Este ano atopamos deseño galego entre os nomes dos proxectos gañadores. O noso socio Lois Guillán co deseño do escritorio _maijon_ conseguiu un premio de prata na categoría de mobiliario infantil. Todos os deseños premiados estarán incluídos no anuario de creatividade e deseño Yearbook of Best Designs, que se publicará proximamente. O deseño galego segue a sumr proxectos á súa conta particular nestes premios. En edicións anteriores atopamos nomes como FrutoDS, co seu colector Big.Bin, en 2013 ou Wood Feelings en 2017. Esta é sen dúbida unha gran noticia para o deseño galego que recibe o recoñecemento ao seu bo facer.
 
       O proxecto cucuducho, creado en 2015, aposta por unha filosofía de traballo na que o deseño, a cultura e os valores se unen para promover o consumo responsable e a fabricación local. A marca, especializada na creación e venda de produtos infantís (mobiliario e obxectos decorativos), pon o foco nun deseño coidado e nunha exhaustiva selección de materiais, fomentando a sostibilidade dos recursos.
     type: text
-intro: 'A marca galega [cucuducho](https://cucuducho.com/cms/gl/) acaba de recibir o recoñecemento do xurado internacional nos prestixiosos A’ Design Award polo deseño do seu escritorio dobre _maijom_.'
+intro: "A marca galega [cucuducho](https://cucuducho.com/cms/gl/) acaba de recibir o recoñecemento do xurado internacional nos prestixiosos A’ Design Award polo deseño do seu escritorio dobre _maijom_."
 slug: deseno-cucuducho-premio
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2020-06-22T13:21:36+00:00

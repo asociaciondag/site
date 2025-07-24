@@ -1,18 +1,16 @@
 id: 299
-title: 'Los sábados en el Macuf'
+title: "Los sábados en el Macuf"
 body:
-  -
-    text: |-
+  - text: |-
       Entre las opciones que nos proponen están:
 
       \- Un taller de cine impartido por Tonecho Otero, LUDIDÁCTICA. El taller, que se llama Criaturas Mutantes, se trata, en realidad, de un curso de cine de animación y efectos especiales que utiliza la técnica stop-motion/pixilation, y en el que los participantes podrán aprender diversas técnicas de animación (foto a foto), de efectos especiales y también iniciarse en la edición de video digital con OpenShot Video Editor. Se desarrollará los sábados del 29 de octubre al 26 de noviembre de 2011 en horario de 11.00 al 14.00 y el plazo de inscripción termina hoy, 27 de octubre. - Dos talleres de grabado a cargo de Isabel Pintado, uno de iniciación, las mañanas de los sábados del 5 al 19 de noviembre, y otro de técnicas aditivas, pero en este caso los viernes por la tarde del 4 al 25 de noviembre. En ambos se admiten inscripciones hasta el 2 de noviembre. Toda la información sobre la matrícula, precios, programa se puede consultar en los siguientes enlaces: [Curso Criaturas Mutantes](http://www.macuf.es/htdocs/actividades_curso_criaturasMutantes.html) [Taller de Grabado. Iniciación](http://www.macuf.es/htdocs/actividades_taller_grabadoIniciacion.html) [Taller de Grabado. Técnicas Aditivas ](http://www.macuf.es/htdocs/actividades_taller_grabado.html)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9f269f3-macuf.png
-    text: ''
+    text: ""
     type: image
-intro: 'Una variada programación de cursos y talleres es lo que nos oferta el [Macuf](http://www.macuf.es/) para los sábados de octubre y de noviembre.'
+intro: "Una variada programación de cursos y talleres es lo que nos oferta el [Macuf](http://www.macuf.es/) para los sábados de octubre y de noviembre."
 slug: los-sabados-en-el-macuf
 tags: []
 lang: es

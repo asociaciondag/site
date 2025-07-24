@@ -1,33 +1,26 @@
 id: 295
-title: 'Produtos Koala-Grupo ECI'
+title: "Produtos Koala-Grupo ECI"
 slug: produtos-koala
 body:
-  -
-    text: 'Ilustracións vectoriais para _packaging_.'
+  - text: "Ilustracións vectoriais para _packaging_."
     type: text
-  -
-    image: /img/portfolio/images/01.jpg
-    text: ''
+  - image: /img/portfolio/images/01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/02.jpg
-    text: ''
+  - image: /img/portfolio/images/02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/03.jpg
-    text: ''
+  - image: /img/portfolio/images/03.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/04.jpg
-    text: ''
+  - image: /img/portfolio/images/04.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/05.jpg
-    text: ''
+  - image: /img/portfolio/images/05.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/ilustracions.jpg
-    text: ''
+  - image: /img/portfolio/images/ilustracions.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/03.jpg
 tags: []
@@ -35,7 +28,6 @@ members_id:
   - 69
 lang: gl
 info:
-  -
-    name: Cliente
-    value: 'Produtos Koala–Grupo ECI (El Corte Inglés e Hipercor)'
+  - name: Cliente
+    value: "Produtos Koala–Grupo ECI (El Corte Inglés e Hipercor)"
 draft: false

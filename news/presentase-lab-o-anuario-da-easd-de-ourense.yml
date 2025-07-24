@@ -1,20 +1,18 @@
 id: 593
-title: 'Preséntase Lab, o anuario da EASD de Ourense'
+title: "Preséntase Lab, o anuario da EASD de Ourense"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/560e653e97ae5-lab.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O evento contará coa presenza do deseñador Pepe Barro, protagonista dun dos artigos da publicación, de Laura Lobón, alumna da escola encargada do deseño e maquetación deste volume, e dunha representación das diferentes especialidades artísticas impartidas na [EASD Antonio Faílde](http://www.escolarte.com/).
 
-        
+
        Ao finalizar o acto farase entrega de exemplares aos asistentes.
     type: text
-intro: 'Será o próximo martes, 6 de outubro, ás 20.00 h cando a Escola de Arte e Superior de Deseño Antonio Faílde presente Lab, o seu anuario 2015, no Centro Cultural Marcos Valcárcel.'
+intro: "Será o próximo martes, 6 de outubro, ás 20.00 h cando a Escola de Arte e Superior de Deseño Antonio Faílde presente Lab, o seu anuario 2015, no Centro Cultural Marcos Valcárcel."
 slug: presentase-lab-o-anuario-da-easd-de-ourense
 tags: []
 lang: gl

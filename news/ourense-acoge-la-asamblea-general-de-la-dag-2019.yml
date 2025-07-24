@@ -1,14 +1,12 @@
 id: 898
-title: 'Ourense acoge la asamblea general de la DAG 2019'
+title: "Ourense acoge la asamblea general de la DAG 2019"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/poster-dag-final-2019-rgb-mod.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Este año recuperamos la idea de celebrar una jornada completa de actividades para acercarnos a un público más amplio que los propios asociados y asociadas, tal y como ya hiciéramos en el 2015 en A Coruña o en 2016 en Vigo. Por eso, en la jornada de mañana ofrecemos 2 charlas abiertas al público. La primera de ellas está protagonizada por el [estudio 988](https://www.988.gal/) de diseño gráfico y arquitectura, fundado por nuestro socio Daniel Vila. Hablará del trabajo que desarrollan, de los procesos y también de los proyectos que tienen entre manos. Después de la pausa café, será Óscar Otero, diseñador y socio también de la DAG, quien nos presente el proyecto [HA! Historia del Arte](https://historia-arte.com/) y nos desvele la maquinaria que hay detrás de toda esa dinámica de contenidos.
 
       Los interesados e interesadas en asistir as las charlas de la mañana, de 11 a 13.30 h, pueden confirmar su asistencia en info@dag.gal.
@@ -17,15 +15,14 @@ body:
 
       Toda la información que se vaya generando del evento estará disponible en la web creada para esta asamblea 2019.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/asemblea-xeral-2019/'
-    text: 'Web de la Asamblea 2019'
+  - list: ""
+    url: "https://dag.gal/gl/asemblea-xeral-2019/"
+    text: "Web de la Asamblea 2019"
     type: button
-intro: 'El próximo 29 de junio la DAG estará en Ourense, en el Centro Cívico A Ponte, para celebrar su asamblea general anual.'
+intro: "El próximo 29 de junio la DAG estará en Ourense, en el Centro Cívico A Ponte, para celebrar su asamblea general anual."
 slug: ourense-acoge-la-asamblea-general-de-la-dag-2019
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2019-06-17T14:35:26+00:00

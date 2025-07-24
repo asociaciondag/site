@@ -1,9 +1,8 @@
 id: 26
-title: 'Spanish Journal of Rural Development'
+title: "Spanish Journal of Rural Development"
 slug: spanish-journal-of-rural-development
 body:
-  -
-    text: |-
+  - text: |-
       A “Asociación Gallega de Investigadores para el Desarrollo Rural [(AGAIDERU)](http://www.sjruraldevelopment.org/es/docs/agaideru/)“ encárganos no 2012 o redeseño completo da súa web.
 
       O primeiro que plantexamos á hora de facer de novo o sitio é que máis alá dunha “páxina web” temos que ofrecer un servizo, neste caso orientado a a súa revista, e concretamente os seus contidos.
@@ -24,25 +23,20 @@ body:
 
       <http://www.sjruraldevelopment.org/>
     type: text
-  -
-    image: /img/portfolio/images/5585a23a2074d-01.png
-    text: ''
+  - image: /img/portfolio/images/5585a23a2074d-01.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585a23a21368-02.png
-    text: ''
+  - image: /img/portfolio/images/5585a23a21368-02.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585a23a22867-03.png
-    text: ''
+  - image: /img/portfolio/images/5585a23a22867-03.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585a23a233b3-04.jpg
-    text: ''
+  - image: /img/portfolio/images/5585a23a233b3-04.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585a23a2388f-05.jpg
-    text: ''
+  - image: /img/portfolio/images/5585a23a2388f-05.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585a23a200c7-04.jpg
 tags:
@@ -54,13 +48,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Sond3
-  -
-    name: Cliente
-    value: 'Asociación Gallega de Investigadores para el Desarrollo Rural (AGAIDERU)'
-  -
-    name: Ano
+  - name: Cliente
+    value: "Asociación Gallega de Investigadores para el Desarrollo Rural (AGAIDERU)"
+  - name: Ano
     value: 2012-2013
 draft: true

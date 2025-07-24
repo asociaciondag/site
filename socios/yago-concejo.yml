@@ -1,21 +1,19 @@
 id: 93
 contact: |-
-  Canteira de Eirís, 19 baixo  
+  Canteira de Eirís, 19 baixo
    15009 A Coruña
 
   T. 981 916 433
 
   <hola@srconcejo.es>
 links:
-  -
-    text: Web
-    url: 'https://srconcejo.es/'
+  - text: Web
+    url: "https://srconcejo.es/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/yagoconcejo/?originalSubdomain=es'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/yagoconcejo/?originalSubdomain=es"
     type: linkedin
-name: 'Yago Concejo'
+name: "Yago Concejo"
 slug: yago-concejo
 avatarBig: null
 avatar: /img/avatars/perfil-dag.jpg
@@ -23,7 +21,7 @@ tags:
   - Gráfico
   - Web
   - Embalaxe
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Editorial
   - Audiovisual
   - Sinalética
@@ -40,5 +38,5 @@ bio.es: |-
   Empecé trabajando en una empresa de rotulación a finales de 1997, después estuve un tiempo en una imprenta, me estresé en una agencia de publicidad y desde el 2005 trabajo por mi cuenta. También probé a montar una agencia víctima de una pandemia.
 
   Adoro el _branding_ y la creación de marcas sobre todas las cosas aunque los últimos años me han llevado también por el diseño de gráficas publicitarias promocionales que voy reorientando al formato animado, y diseño web.
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

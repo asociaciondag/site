@@ -1,9 +1,8 @@
 id: 32
-title: '¿Puede el diseño ayudar a erradicar las violencias de género?'
-author: 'Gráficas en Negro'
+title: "¿Puede el diseño ayudar a erradicar las violencias de género?"
+author: "Gráficas en Negro"
 body:
-  -
-    text: |-
+  - text: |-
       Y lo más importante, ¿está dispuesto el sector del diseño a asumir esta responsabilidad? ¿Queremos iniciar este debate o preferimos seguir dejándolo en manos de unas pocas diseñadoras concienciadas? ¿Hemos mejorado en los últimos años? ¿Qué ha supuesto todo esto para las diseñadoras? ¿Y para los diseñadores?
 
       El diseño es capaz de aportar soluciones y significados para alcanzar con éxito los grandes retos de la sociedad actual. Es una potente herramienta para contribuir a la mejora social, sobre todo por su amplio alcance e impacto. Objetivos como accesibilidad, universalidad, sostenibilidad o igualdad están directamente relacionados con la forma en la que diseñamos. En este 25N queremos poner el foco en la necesidad de incorporar la perspectiva de género a los procesos de diseño para impulsar el cambio a un mundo mejor.
@@ -22,13 +21,11 @@ body:
 
       Si como profesional del diseño te interesa incorporar la perspectiva de género a tu práctica y sumarte al diseño responsable, en Gráficas en Negro encontrarás alianzas.
     type: text
-  -
-    image: /img/articles/images/feed-gen-16-peq.jpg
-    text: ''
+  - image: /img/articles/images/feed-gen-16-peq.jpg
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## ¿Por qué es necesario un diseño con perspectiva de género?
 
       No hace falta profundizar demasiado para reconocer que desde el ámbito de la comunicación y el diseño se perpetúan discriminaciones o agresiones en materia de género. Por un lado, la inclusión de roles sexistas, la objetificación de la mujer, la hipersexualización de niñas y adolescentes o la erotización de la violencia son sólo algunos de los aspectos que continúan apareciendo e impactando al conjunto de la sociedad. Ya sea de forma implícita, como imagen o texto, o apelando a capas más profundas del subconsciente, siguen perjudicando la construcción de un imaginario colectivo respetuoso con todas las personas, y justificando actitudes y comportamientos que dañan a las mujeres.
@@ -45,16 +42,15 @@ body:
 
       Se trata de un proceso de aprendizaje y mejora continuo. Por este motivo, si el proyecto es de tu interés, te invitamos a seguirnos en nuestras redes sociales ( [Instagram](https://www.instagram.com/graficasennegro/) / [Linkedin](https://www.linkedin.com/company/gr%C3%A1ficas-en-negro/) / [Twitter](https://twitter.com/GRAFICASENNEGRO) ), para incluir nuevas miradas, compartir ideas y generar sinergias o alianzas. También puedes suscribirte a nuestra [newsletter](http://eepurl.com/hN3kdj), donde publicaremos avances, recursos o convocatorias para participar en procesos colaborativos. Tu papel como profesional del diseño es fundamental para lograr un mundo mejor diseñado sin violencias de género.
     type: text
-  -
-    text: |-
+  - text: |-
       **Referencias bibliográficas**
 
       - MORANT, I., ¿_Qué pasa con las mujeres creativas?_ Sororidad Creativa, 2021
       - CADOCHE, E. Y MONTARLOT, A., _El síndrome de la impostora_. Ed. Península, 2021
       - CRIADO, C., _La mujer invisible_. Seix Barral, 2020
-       
+
     type: text
-position: '1'
+position: "1"
 slug: puede-el-diseno-ayudar-a-erradicar-las-violencias-de-genero
 cover: /img/articles/covers/graficasennegro.jpg
 lang: es

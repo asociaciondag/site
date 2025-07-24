@@ -1,26 +1,23 @@
 id: 776
-title: 'Encontro de Asociacións de Deseño do Norte de España'
+title: "Encontro de Asociacións de Deseño do Norte de España"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/encontro-asociacions-norte.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Deseñadores gráficos de Asturias, País Vasco, Galicia e León reúnense en Avilés este xoves 30 de novembro, na capital do deseño gráfico do Norte de España, nun encontro promovido pola Asociación de Deseñadores Gráficos de Asturias (AGA) e a Escola Superior de Arte do Principado de Asturias (ESAPA).
 
       Os participantes terán ocasión de analizar os desafíos a que se enfronta o sector do deseño gráfico, de coñecer o código deontológixo da Red Española de Asociacións de Deseño (READ) e de debater sobre o día a día de un estudio de deseño, entre outras actividades.
 
       A xornada complétase cunha exposición en que se mostra o traballo da READ e das asociacións participantes.
     type: text
-  -
-    list: ''
+  - list: ""
     file: /files/encontro-de-asociacions-do-norte.pdf
-    text: 'Programa do Encontro de Asociacións de Deseño do Norte'
+    text: "Programa do Encontro de Asociacións de Deseño do Norte"
     type: file
-intro: 'Deseñadores gráficos de Asturias, País Vasco, Galicia e León analizan mañá na Escola de Arte de Avilés o presente e o futuro do sector.'
+intro: "Deseñadores gráficos de Asturias, País Vasco, Galicia e León analizan mañá na Escola de Arte de Avilés o presente e o futuro do sector."
 slug: encontro-de-asociacions-de-deseno-do-norte-de-espana
 tags: []
 lang: gl

@@ -1,25 +1,20 @@
 id: 359
-title: 'Reforma de vivenda'
+title: "Reforma de vivenda"
 slug: reforma-vivenda
 body:
-  -
-    text: 'Reforma dun piso nun edificio dos anos 70 que non sufrira ningunha actualización. Tratábase dun piso con demasiadas divisións, con boa luz natural pero que non chegaba a todos os recunchos. Decidimos comunicar estancias aproveitando a luz natural, ademais de aplicar novos acabados, novas instalacións e equipamento.'
+  - text: "Reforma dun piso nun edificio dos anos 70 que non sufrira ningunha actualización. Tratábase dun piso con demasiadas divisións, con boa luz natural pero que non chegaba a todos os recunchos. Decidimos comunicar estancias aproveitando a luz natural, ademais de aplicar novos acabados, novas instalacións e equipamento."
     type: text
-  -
-    image: /img/portfolio/images/img-2768.jpg
-    text: ''
+  - image: /img/portfolio/images/img-2768.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/img-2785.jpg
-    text: ''
+  - image: /img/portfolio/images/img-2785.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/img-2797.jpg
-    text: ''
+  - image: /img/portfolio/images/img-2797.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/img-2802.jpg
-    text: ''
+  - image: /img/portfolio/images/img-2802.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/img-2768.jpg
 tags:
@@ -28,10 +23,8 @@ members_id:
   - 77
 lang: gl
 info:
-  -
-    name: Ano
-    value: '2017'
-  -
-    name: Lugar
+  - name: Ano
+    value: "2017"
+  - name: Lugar
     value: Vigo
 draft: false

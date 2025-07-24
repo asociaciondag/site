@@ -1,26 +1,23 @@
 id: 1021
-title: 'Primera edición de los Premios Galicia de Innovación y Diseño'
+title: "Primera edición de los Premios Galicia de Innovación y Diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/banners-facebook1.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los [Premios Galicia de Innovación y Diseño](http://gain.xunta.gal/artigos/437/premios+galicia+innovacion+deseno+2020) buscan reconocer el trabajo de profesionales y empresas que contribuyen a la mejora del sector del diseño en Galicia y, también, la labor de personas y empresas gallegas que apuestan claramente por la innovación en su estrategia empresarial.
 
       Estos nuevos galardones pretenden recalcar la importancia de la innovación y el diseño como factores estratégicos fundamentales para el desarrollo económico y social en Galicia. El certamen, en esta primera edición, cuenta con 6 categorías, 3 en el apartado de Innovación (Trayectoria Innovadora, Gran Empresa Innovadora, Pequeña y Mediana Empresa Innovadora) y otros 3 en el apartado de Diseño. Los premios de Diseño reconocerán a una persoa o equipo profesional del diseño, a una empresa consolidada que incorporase el diseño a su estrategia empresarial y a una persona joven con una trayectoria destacada como profesional del diseño.
 
       Las candidaturas deberán ser presentadas por medios electrónicos a través del formulario normalizado en la [sede electrónica de la Xunta de Galicia](https://sede.xunta.gal). Las persoas y empresas interesadas tienen de plazo hasta el día 9 de diciembre para presentar sus propuestas.
     type: text
-  -
-    list: ''
-    url: 'https://www.xunta.gal/dog/Publicados/2020/20201008/AnuncioG0198-300920-0001_es.html'
-    text: 'Bases de los Premios'
+  - list: ""
+    url: "https://www.xunta.gal/dog/Publicados/2020/20201008/AnuncioG0198-300920-0001_es.html"
+    text: "Bases de los Premios"
     type: button
-intro: 'La Agencia Gallega de Innovación convoca a empresas y profesionales vinculados al diseño y a la innovación en Galicia para que presenten sus candidaturas a los Premios Galicia de Innovación y Diseño.'
+intro: "La Agencia Gallega de Innovación convoca a empresas y profesionales vinculados al diseño y a la innovación en Galicia para que presenten sus candidaturas a los Premios Galicia de Innovación y Diseño."
 slug: primera-premios-galicia-innovacion-diseno
 tags: []
 lang: es

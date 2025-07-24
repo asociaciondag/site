@@ -1,14 +1,12 @@
 id: 1125
-title: 'Los estudios DARDO y Piedrapapeltijera premiados en los Anuaria 2021'
+title: "Los estudios DARDO y Piedrapapeltijera premiados en los Anuaria 2021"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/anuaria2021-740.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [«Limen. Christian García Bello»](https://www.veredictas.com/es/trabajo/15875/limen._christian_garcia_bello/82), de DARDO, estudio liderado por Conchi Mayo, consiguió el Premio Anuaria al mejor diseño de una publicación editorial y el Premio Anuaria a la mejor cubierta de un libro. Limen es una monografía que revisa la última década del trabajo del artista Christian García Bello. El diseño de la publicación logra trasladar la propia esencia del trabajo del artista. La portada se resuelve desde la rotundidad y la sutileza, presidida por una línea central estampada capaz de dialogar con la poética visual del artista como un guiño al interior sin desvelar su contenido.
 
       [«Dalí. Litrografías de los excesos pantagruélicos»](https://www.veredictas.com/es/trabajo/15869/dali._litografias_.../82) y [«June Crespo. Helmets»](https://www.veredictas.com/es/trabajo/15874/june_crespo._helmets/82), ambos de DARDO, también fueron proyectos seleccionados en la categoría mejor diseño de una publicación editorial.
@@ -19,12 +17,11 @@ body:
 
       ¡Enhorabuena a todos!
     type: text
-  -
-    list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html'
-    text: 'Más información'
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html"
+    text: "Más información"
     type: button
-intro: 'Ya conocemos los proyectos ganadores de la XXVIII edición de los Premios Anuaria. Dos premios de oro al mejor diseño de una publicación editorial y a la mejor cubierta de un libro para [DARDO](http://dardo.gal/dardo/gl), y cuatro proyectos más​ seleccionados entre las 189 obras, dos de DARDO y dos de [Piedrapapeltijera](https://www.piedrapapeltijera.com/).'
+intro: "Ya conocemos los proyectos ganadores de la XXVIII edición de los Premios Anuaria. Dos premios de oro al mejor diseño de una publicación editorial y a la mejor cubierta de un libro para [DARDO](http://dardo.gal/dardo/gl), y cuatro proyectos más​ seleccionados entre las 189 obras, dos de DARDO y dos de [Piedrapapeltijera](https://www.piedrapapeltijera.com/)."
 slug: los-estudios-dardo-y-piedrapapeltijera-premiados-en-los-anuaria-2021
 tags: []
 lang: es

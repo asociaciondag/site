@@ -1,19 +1,16 @@
 id: 416
-title: 'Foro DAG: Propostas de avance para o deseño'
+title: "Foro DAG: Propostas de avance para o deseño"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       A Asociación Galega de Deseñadores (DAG) organiza o próximo sábado 9 de febreiro entre as 12.00 e as 20.00 h no [Centro Galego de Arte Contemporánea](http://cgac.xunta.es/home) (CGAC) de Santiago de Compostela o foro: Propostas de avance para o deseño. Trátase dunha iniciativa coa que a DAG quere convidar a todas as persoas interesadas no deseño a reflexionar sobre o papel que este debe xogar na sociedade e tamén sobre algunhas das cuestións que teñen que ver co traballo diario dos deseñadores. O foro articúlase en seis mesas de traballo, cada unha delas centrada nun dos seguintes temas de interese para os deseñadores:
 
       1. A web como medio no contexto da edición 2. Educación e formación en deseño en Galicia 3. A produción do deseño galego 4. A comunicación do deseño galego 5. Historia do deseño galego e a identidade tipográfica 6. O tratamento do deseño por parte das administracións públicas (contratacións, concursos...) Para participar, o único que hai que facer é enviar un mail a info@asociaciondag.org antes do 5 de febreiro para confirmar asistencia especificando a mesa da que se quere formar parte. No caso de que se cubran todas as prazas, os socios da DAG sempre terán preferencia.
 
       Descarga o programa:
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa2de05c-foro-dag-2013.jpg
-  -
-    type: file
+  - type: file
     text: Descargar
     file: /files/553e7aa2de05c-programa-foro-dag.pdf
 intro: null

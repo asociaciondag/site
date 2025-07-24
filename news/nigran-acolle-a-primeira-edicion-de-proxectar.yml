@@ -1,29 +1,26 @@
 id: 1414
-title: 'Nigrán acolle a primeira edición de  PROXECTAR'
+title: "Nigrán acolle a primeira edición de  PROXECTAR"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-proxectar-2025.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A localidade pontevedresa acollerá durante os días 18 e 19 de xullo un espazo para que profesionais do deseño poidan compartir o que hai detrás dos seus proxectos, ofrecendo de primeira man as súas experiencias, metodoloxías e o seu coñecemento.
 
       Esta primeira edición contará con figuras como o recoñecido deseñador británico Jon Marshall, socio da axencia internacional Pentagram; o galego Tomás Alonso, colaborador de ﬁrmas como Hermès ou Camper; a ceramista e deseñadora Paula Ojea, Premio Nacional de Artesanía; e o estudo compostelán Estar, especializado en arquitectura e paisaxe.
 
       Cun formato reducido, de 60 prazas por sesión, o evento busca ser un encontro próximo e inspirador orientado tanto a profesionais e estudantado de deseño industrial, arquitectura e artesanía, como a público interesado nos procesos creativos. Terá lugar no ximnasio do Colexio Público Humberto Juanes de Nigrán, entre as 20.00 - 22.00 h os dous días. O venres, Andrés Fraga, fotógrafo e director da iniciativa, conducirá a sesión con Jon Marshall e Paula Ojea, e o sábado, Marcos Dopico, decano da Facultade de Deseño da UVigo, tomará o seu relevo na sesión de Tomás Alonso e Estar Arquitectos.
     type: text
-  -
-    list: ''
-    url: 'https://proxectar.gal/'
-    text: 'Máis info e entradas'
+  - list: ""
+    url: "https://proxectar.gal/"
+    text: "Máis info e entradas"
     type: button
-intro: 'Nace un ciclo de conversas sobre deseño industrial e de produto'
+intro: "Nace un ciclo de conversas sobre deseño industrial e de produto"
 slug: nigran-acolle-a-primeira-edicion-de-proxectar
 tags:
-  - 'Difusión eventos'
+  - "Difusión eventos"
 lang: gl
 draft: false
 date: 2025-07-02T13:27:44+00:00

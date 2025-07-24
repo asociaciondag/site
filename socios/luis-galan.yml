@@ -2,21 +2,19 @@ id: 17
 contact: |-
   <luis@sistema.es>
 
-  San Andrés, 22-1º  
-   15003 A Coruña (A Coruña)  
-   T. 981213170  
-   M. 617326649  
+  San Andrés, 22-1º
+   15003 A Coruña (A Coruña)
+   T. 981213170
+   M. 617326649
    F. 981202367
 links:
-  -
-    text: Sistema
-    url: 'http://www.sistema.es'
+  - text: Sistema
+    url: "http://www.sistema.es"
     type: link
-  -
-    text: 'Dibujar me está matando'
-    url: 'http://www.dibujarmeestamatando.blogspot.com.es/'
+  - text: "Dibujar me está matando"
+    url: "http://www.dibujarmeestamatando.blogspot.com.es/"
     type: link
-name: 'Luis Galán'
+name: "Luis Galán"
 slug: luis-galan
 avatarBig: null
 avatar: /img/avatars/554cfced1afac-luis-galan.jpg
@@ -24,5 +22,5 @@ tags: []
 draft: true
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico en Sistema Diseño'
-job.es: 'Diseñador gráfico en Sistema Diseño'
+job.gl: "Deseñador gráfico en Sistema Diseño"
+job.es: "Diseñador gráfico en Sistema Diseño"

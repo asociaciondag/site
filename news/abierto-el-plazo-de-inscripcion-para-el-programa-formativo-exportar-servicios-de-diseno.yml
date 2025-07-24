@@ -1,14 +1,12 @@
 id: 1130
-title: 'Abierto el plazo de inscripción para el programa formativo Exportar servicios de diseño'
+title: "Abierto el plazo de inscripción para el programa formativo Exportar servicios de diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-exportar-deseno.png
-    text: 'Izquierda, NM type; derecha, Zooco Estudio'
+    text: "Izquierda, NM type; derecha, Zooco Estudio"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Este programa formativo _online_ está dirigido a todas las personas que deseen explorar la venta de sus servicios en el exterior, de cualquier disciplina de diseño y de todo el territorio nacional, para prospectar las posibilidades que existen en los diferentes mercados y, sobre todo, conocer los requisitos previos que se deben de reunir, qué pasos hay que dar antes de afrontar los procesos de internacionalización, dónde pueden encontrarse los problemas y qué planificación debe seguirse para no fracasar en el intento. La inscripción está abierta desde el 1 de marzo.
 
       Las fechas de las sesiones son el 15, el 22 y el 29 de marzo, en horario de 17 a 19 h. El formato será online, un webinario con presentaciones y foro abierto a la participación de las personas inscritas.
@@ -18,15 +16,14 @@ body:
       1. Exportar servicios de Diseño en 1ª persona. Casos de éxito. Martes 15 marzo. Estudios que ya iniciaron su carrera y venden fuera nos cuentan su experiencia, qué les ayudó, qué es necesario tener, qué sobra, dónde fallaron, qué mercados y sectores abordar, cuándo iniciar esta aventura. Contará con la participación de profesionales que lograron internacionalizar su negocio a través de diferentes canales y acciones, de diversos sectores del diseño y desde diferentes localidades: nuestra socia María Ramos, de [NM type ](https://www.nmtype.com/)(Santiago de Compostela–Estocolmo) y Miguel Crespo y Sixto Martín, de[ Zooco Estudio ](https://zooco.es/)(Madrid), y un tercer ponente pendiente de confirmar. Esta sesión será presentada y moderada por Nerea Domènech.
       2. Herramientas prácticas para la internacionalización. Martes 22 marzo. Pablo Conde, Director de Moda, Hábitat, e Industrias Culturales del ICEX, nos contará los requisitos previos que deberemos reunir para poder iniciar nuestra internacionalización, además de las diferentes herramientas y programas que existen para acometer esta tarea con garantía de éxito. También nos hablarán de sus experiencias Marcelo Alegre, de [Alegre Design ](https://www.alegredesign.es/)(Valencia) y [Fagerström studio](https://www.fagerstrom.studio/) (Madrid). Presenta y modera: Gloria Escribano.
       3. Exportar con; Exportar a. Martes 29 marzo. Territorios y oportunidades: es muy grande el mundo, por lo que hay que definir dónde ir y cuáles son las oportunidades para el diseño a corto plazo. En esta sesión se contará también con profesionales de la exportación de otros sectores, para conectar e ir de la mano de empresas exportadoras que trabajan el diseño. Un foro B2B para generar sinergias entre las diseñadoras y diseñadores españoles y las empresas exportadoras, y que facilite la internacionalización. Participan Francesco Monesi, agente exportador, Santiago Sevillano (Valencia) y un tercer ponente pendiente de confirmar. Presentado y moderado por Juan Lázaro.
-       
+
       Exportar servicios de diseño está organizado por READ (Red Española de Asociaciones de Diseño) y cuenta con el soporte del Ministerio de Cultura y Deporte del Gobierno de España.
     type: text
-  -
-    list: ''
-    url: 'https://www.eventbrite.com/e/entradas-exportar-servicios-de-diseno-15-22-y-29-de-marzo-288132079807'
-    text: 'Inscripción aquí'
+  - list: ""
+    url: "https://www.eventbrite.com/e/entradas-exportar-servicios-de-diseno-15-22-y-29-de-marzo-288132079807"
+    text: "Inscripción aquí"
     type: button
-intro: 'Desde el grupo de trabajo [From Spain with Design](https://fswd.es/) de READ, presentan este programa formativo _online_ para la internacionalización de profesionales y estudios de diseño de todo el territorio nacional, y es gratuito para los socios y socias de las asociaciones miembro como DAG'
+intro: "Desde el grupo de trabajo [From Spain with Design](https://fswd.es/) de READ, presentan este programa formativo _online_ para la internacionalización de profesionales y estudios de diseño de todo el territorio nacional, y es gratuito para los socios y socias de las asociaciones miembro como DAG"
 slug: abierto-el-plazo-de-inscripcion-para-el-programa-formativo-exportar-servicios-de-diseno
 tags: []
 lang: es

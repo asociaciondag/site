@@ -1,24 +1,22 @@
 id: 1192
-title: 'Premio Clap Platinum para o socio Carlos el Rojo do estudio Coma'
+title: "Premio Clap Platinum para o socio Carlos el Rojo do estudio Coma"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/image-premios-clap-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A proposta traslada ese «subidón» que se sinte ao saír á rúa, ir á verbena, bailar, ver os cabezudos, escoitar música en directo, asistir ao teatro e gozar da vida. Unha «ascensión» de cada compostelán ao ceo da ledicia e algarabía tanto tempo agardada, despois de dous anos de parón por culpa da pandemia. Un cartel literal onde a letra «i» inicia a súa ascensión deixando unha estela de festa.
 
       Os Premios Clap teñen unha longa traxectoria como premios internacionais e como referente de calidade dentro da profesión. Os máis de catrocentos traballos presentados nas últimas edicións son proba da súa consolidación. Contan co apoio dun xurado internacional composto polas principais organizacións e colectivos profesionais do ámbito do deseño de Iberoamérica.
 
       Podes ver os proxectos gañadores desta edición na [web dos propios premios](https://www.veredictas.com/es/premios/premios-clap/ganadores-clap.html).
     type: text
-intro: 'O traballo realizado polo socio [Carlos el Rojo](https://dag.gal/es/carlos-lorenzo/) do estudio coruñés [Coma](https://coma.gal/es/), para as Festas da Ascensión 2022 de Santiago de Compostela, vén de recibir un Clap Platinum na categoría de _Marketing_ e Publicidade, mellor anuncio ou campaña en vía pública.'
+intro: "O traballo realizado polo socio [Carlos el Rojo](https://dag.gal/es/carlos-lorenzo/) do estudio coruñés [Coma](https://coma.gal/es/), para as Festas da Ascensión 2022 de Santiago de Compostela, vén de recibir un Clap Platinum na categoría de _Marketing_ e Publicidade, mellor anuncio ou campaña en vía pública."
 slug: premio-clap-platinum-para-o-socio-carlos-el-rojo-do-estudio-coma
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2022-12-14T09:45:00+00:00

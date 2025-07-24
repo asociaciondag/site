@@ -1,14 +1,12 @@
 id: 1365
-title: '3º Encuentro de Diseño Gallego de DAG, Cangas'
+title: "3º Encuentro de Diseño Gallego de DAG, Cangas"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/encontro-cangas-fondos-de-pantalla-mesa-de-trabajo-1.jpg
-    text: 'Gráfica del evento de José A. Pérez Gil'
+    text: "Gráfica del evento de José A. Pérez Gil"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Con la celebración de este tipo de encuentros la DAG quiere descentralizar las actividades de diseño de las urbes gallegas llevándolas a otros lugares para conocer más sobre nuestra identidad y recursos vinculados a la cultura visual, historia y patrimonio.
 
       La jornada, abierta a toda la comunidad del diseño y personas interesadas en nuestro ámbito, comenzará a las 10.30 h en el propio ayuntamiento, con las presentaciones de proyectos de las socias/os **Carlos el Rojo** ([carloselrojo](https://www.carloselrojo.com/)), **Thais Suárez** ([Sísmica Creativa](https://sismicacreativa.com/)), **Pablo Álvarez** ([BeDo Creativos](https://wearebedo.com/)), **Tania Villamarín** ([Tania Villaga](https://taniavillaga.es/)) y **Luis Lago** ([Lago:Monroy](https://lagomonroy.com/)). A continuación participaremos en una dinámica colectiva a modo de debate sobre diseño y futuro, para tratar las inquietudes e intereses del sector.
@@ -21,10 +19,10 @@ body:
 
       Finalizamos agradeciendo al Concello de Cangas por su acogida y os animamos a hacer de esta ocasión otra celebración del diseño gallego.
     type: text
-intro: 'Empezamos el año hablando de diseño en el tercer encuentro organizado por la Asociación que tendrá lugar en Cangas el próximo 18 de enero. Una ocasión para compartir presentaciones, intereses comunes y aprendizaje conjunto.'
+intro: "Empezamos el año hablando de diseño en el tercer encuentro organizado por la Asociación que tendrá lugar en Cangas el próximo 18 de enero. Una ocasión para compartir presentaciones, intereses comunes y aprendizaje conjunto."
 slug: encuentro-cangas
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2025-01-10T13:31:00+00:00

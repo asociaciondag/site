@@ -1,22 +1,20 @@
 id: 879
-title: 'Uqui Permui es la invitada de los Ladies Wine & Design de A Coruña'
+title: "Uqui Permui es la invitada de los Ladies Wine & Design de A Coruña"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/ladies-and-wine-2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los [Ladies Wine &amp; Design](https://ladieswinedesign.com/coruna/) surgieron en la ciudad de Nueva York de la mano de la publicista Jessica Walsh, quien tuvo la idea de organizar estos encuentros de mujeres del mundo de la publicidad y el diseño para conversar de una manera informal de sus experiencias tomando una copa de vino.
 
       La iniciativa tuvo éxito y desde entonces se ha replicado en muchas ciudades del mundo, como en el caso de La Coruña, donde los Ladies Wine &amp; Design están coordinados por Noemi Cubillo, Lidia Bao y Thais ser. El encuentro de esta tarde tendrá lugar en la sala Aximut (Palexco) entre las 19.00 y las 21.00 h. El vino será Marqués de Vizhoja.
     type: text
-intro: 'Nuestra socia participa hoy por la tarde en estos encuentros para hablar de su trabajo como diseñadora gráfica, de los primeros pasos a la hora de lanzar un proyecto propio, y de los éxitos y fracasos profesionales.'
+intro: "Nuestra socia participa hoy por la tarde en estos encuentros para hablar de su trabajo como diseñadora gráfica, de los primeros pasos a la hora de lanzar un proyecto propio, y de los éxitos y fracasos profesionales."
 slug: uqui-permui-es-la-invitada-de-los-ladies-wine-design-de-a-coruna
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-03-21T14:33:33+00:00

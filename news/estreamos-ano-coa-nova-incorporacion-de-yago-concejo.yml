@@ -1,14 +1,12 @@
 id: 1114
-title: 'Estreamos ano coa nova incorporación de Yago Concejo'
+title: "Estreamos ano coa nova incorporación de Yago Concejo"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/foto-yago-newsletter-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola!
 
       Son Yago Concejo, Sr. Concejo para os amigos. De pai coruñés marino e debuxante e nai castelá xestora, teño unha mestura curiosa que me axudou a defenderme cos recibos de autónomos a base de deseño.
@@ -25,10 +23,10 @@ body:
 
       Moitas apertas.
     type: text
-intro: 'Comezamos 2022 sendo xa 80 asociadas, con ganas de seguir avanzando e colaborando para mellorar a situación do sector. [Yago Concejo](https://dag.gal/gl/yago-concejo/) é unha das últimas incorporacións, despois dunha longa traxectoria profesional, volve a atreverse cun novo proxecto, [Sr. Concejo](https://srconcejo.es), destacando na creación de marca. Benvido Yago!'
+intro: "Comezamos 2022 sendo xa 80 asociadas, con ganas de seguir avanzando e colaborando para mellorar a situación do sector. [Yago Concejo](https://dag.gal/gl/yago-concejo/) é unha das últimas incorporacións, despois dunha longa traxectoria profesional, volve a atreverse cun novo proxecto, [Sr. Concejo](https://srconcejo.es), destacando na creación de marca. Benvido Yago!"
 slug: estreamos-ano-coa-nova-incorporacion-de-yago-concejo
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2022-01-07T10:59:54+00:00

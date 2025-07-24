@@ -1,3 +1,3 @@
-layout: layouts/article_permalink.njk
+layout: layouts/article_permalink.vto
 type: article
 main_menu: news

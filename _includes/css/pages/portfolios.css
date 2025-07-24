@@ -26,17 +26,15 @@
 
 /* Cor de fondo */
 .page-content {
-	background: var(--color-main);
-	color: white;
+  background: var(--color-main);
+  color: white;
 }
 
 .buttons-tabs .button.is-selected {
-	background: var(--color-main);
-	color: var(--color-15);
+  background: var(--color-main);
+  color: var(--color-15);
 }
-
 
 .page-content-bar {
-	border-bottom-color: var(--black-5);
+  border-bottom-color: var(--black-5);
 }
-

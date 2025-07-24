@@ -1,8 +1,7 @@
 id: 507
-title: 'Acuerdo Telefónica I+D y READ. Integrando innovación tecnológica, creatividad, diseño y talento'
+title: "Acuerdo Telefónica I+D y READ. Integrando innovación tecnológica, creatividad, diseño y talento"
 body:
-  -
-    text: |-
+  - text: |-
       El acuerdo constituye un activo para el Sistema Nacional de Innovación y tiene por objeto generar sinergias colaborativas que contribuyan a impulsar el diseño digital de productos y servicios en España.
 
       En el acto de firma, que ha tenido lugar en el Centro de Creación Contemporánea Matadero Madrid, han participado por parte de Telefónica I+D, Pamela Mead, directora del laboratorio de User Experience (UX) de esta empresa, y por parte de READ su presidente, Gelo Álvarez.
@@ -11,12 +10,11 @@ body:
 
       [Más información, en la nota de prensa conjunta](http://www.designread.es/wp-content/uploads/2014/07/NdP-Acuerdo-Telefonica-I+D-READ-10072014.pdf)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa668692-read-telefonica-pamelaygelo-720.png
-    text: ''
+    text: ""
     type: image
-intro: '[Telefónica I+D](http://www.tid.es/es), la empresa especializada en I+D+I del Grupo Telefónica, y [READ](http://www.designread.es/) (Red Española de Asociaciones de Diseño a la que pertenece la DAG) han firmado un acuerdo marco de colaboración para cooperar en proyectos e iniciativas conjuntas e intercambiar conocimientos e investigación en el campo del diseño, tanto digital como de productos y servicios.'
+intro: "[Telefónica I+D](http://www.tid.es/es), la empresa especializada en I+D+I del Grupo Telefónica, y [READ](http://www.designread.es/) (Red Española de Asociaciones de Diseño a la que pertenece la DAG) han firmado un acuerdo marco de colaboración para cooperar en proyectos e iniciativas conjuntas e intercambiar conocimientos e investigación en el campo del diseño, tanto digital como de productos y servicios."
 slug: acuerdo-telefonica-i-d-y-read-integrando-innovacion-tecnologica-creatividad-diseno-y-talento
 tags: []
 lang: es

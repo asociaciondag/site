@@ -1,21 +1,19 @@
 id: 327
-title: '#Probeta, un programa piloto de formación para diseñadores que combina deseño industrial, gráfico e web'
+title: "#Probeta, un programa piloto de formación para diseñadores que combina deseño industrial, gráfico e web"
 body:
-  -
-    text: |-
+  - text: |-
       Este es su particular modo de luchar contra la rigidez burocrática del sistema de prácticas y también de dar respuesta a las inquietudes de gente joven como Susana Ríos, la joven que les lanzó el reto, y como no, la primera seleccionada en la edición de este año. Desde luego no se trata de prácticas al uso porque:
 
       1. Las personas seleccionadas no trabajarán para las empresas, sino que lo harán en proyectos personales que combinen las tres vertientes del diseño (gráfico, industrial y web) en las que están especializadas cada una de las empresas participantes, que las asesorarán a lo largo de todo el proceso. 2. Las 64 horas de formación se desenvolverán en cada uno de los tres estudios, de forma rotatoria: la primera semana en Ekinocio, la segunda en A Navalla suíza y finalmente la tercera en Cenlitrosmetrocadrado. 3. La cantidad simbólica que tendrán que pagar los participantes en el programa de formación será 1 euro.
       2. Los diseñadores beta tendrán la oportunidad de aprender del proceso de trabajo real de tres estudios muy heterogéneos, mientras que los profesionales podrán entrar en contacto con gente con la que pueden trabajar en un futuro y beneficiarse del intercambio de ideas y experiencias con los que están empezando su andadura profesional. El plazo para inscribirse comenzó el 1 de diciembre y estará abierto hasta el 6 de enero. Toda la información sobre el proyecto e inscripción en:
-       
+
       <http://anavallasuiza.com/probeta/>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa05e172-probeta.png
-    text: ''
+    text: ""
     type: image
-intro: 'Tres empresas de diseño: [Cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/es/), [Ekinocio](http://www.ekinocio.com/) y [A navalla suíza](http://anavallasuiza.com/) suman sus fuerzas parasacar adelante Probeta, un programa de formación para diseñadores nada convencional.'
+intro: "Tres empresas de diseño: [Cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/es/), [Ekinocio](http://www.ekinocio.com/) y [A navalla suíza](http://anavallasuiza.com/) suman sus fuerzas parasacar adelante Probeta, un programa de formación para diseñadores nada convencional."
 slug: probeta-un-programa-piloto-de-formacion-para-disenadores-que-combina-deseno-industrial-grafico-e-web
 tags: []
 lang: es

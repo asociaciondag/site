@@ -1,23 +1,19 @@
 id: 83
-contact: ''
+contact: ""
 links:
-  -
-    text: Web
-    url: 'https://javiferrin.com/work'
+  - text: Web
+    url: "https://javiferrin.com/work"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/javiferrin/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/javiferrin/"
     type: linkedin
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/javiferrinstudio'
+  - text: Facebook
+    url: "https://www.facebook.com/javiferrinstudio"
     type: facebook
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/javiferrinstudio/'
+  - text: Instagram
+    url: "https://www.instagram.com/javiferrinstudio/"
     type: link
-name: 'Javier Ferrín Rey'
+name: "Javier Ferrín Rey"
 slug: javier-ferrin
 avatarBig: /img/avatars/javi-ferrin.jpg
 avatar: /img/avatars/javi-ferrin.jpg
@@ -28,5 +24,5 @@ tags:
 draft: true
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador industrial'
-job.es: 'Diseñador industrial'
+job.gl: "Deseñador industrial"
+job.es: "Diseñador industrial"

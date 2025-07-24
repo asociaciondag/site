@@ -1,34 +1,27 @@
 id: 270
-title: 'Afinidades selectivas'
+title: "Afinidades selectivas"
 slug: afinidades-selectivas
 body:
-  -
-    image: /img/portfolio/images/catalogo-afinidades-selectivas-1.jpg
-    text: ''
+  - image: /img/portfolio/images/catalogo-afinidades-selectivas-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/catalogo-afinidades-selectivas-2.jpg
-    text: ''
+  - image: /img/portfolio/images/catalogo-afinidades-selectivas-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/catalogo-afinidades-selectivas-3.jpg
-    text: ''
+  - image: /img/portfolio/images/catalogo-afinidades-selectivas-3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/catalogo-afinidades-selectivas-4.jpg
-    text: ''
+  - image: /img/portfolio/images/catalogo-afinidades-selectivas-4.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/catalogo-afinidades-selectivas-5.jpg
-    text: ''
+  - image: /img/portfolio/images/catalogo-afinidades-selectivas-5.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/cartel-afinidades-selectivas-9.jpg
-    text: ''
+  - image: /img/portfolio/images/cartel-afinidades-selectivas-9.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/cartel-afinidades-selectivas-9-reverso.jpg
-    text: ''
+  - image: /img/portfolio/images/cartel-afinidades-selectivas-9-reverso.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/catalogo-afinidades-selectivas-1.jpg
 tags:
@@ -37,10 +30,8 @@ members_id:
   - 23
 lang: es
 info:
-  -
-    name: 'Cliente:'
-    value: 'Universidad de Vigo'
-  -
-    name: 'Año:'
-    value: '2016'
+  - name: "Cliente:"
+    value: "Universidad de Vigo"
+  - name: "Año:"
+    value: "2016"
 draft: false

@@ -1,23 +1,20 @@
 id: 534
-title: 'O como é o que conta'
+title: "O como é o que conta"
 body:
-  -
-    text: 'O conxunto ven ser unha reflexión sobre a profesión, os temas e as teimas deste deseñador, vinte e nove pezas da súa autoría máis un artigo de Xosé Luís Méndez Ferrín sobre o deseño gráfico, recuperado por Barro dun folleto dos anos setenta. A edición consta de cen exemplares numerados e asinados polo autor, que ademáis ofrece a posibilidade da descarga do libro nun pdf aloxado nesta mesma web da DAG. En O como é o que conta, Barro ven dicir que realmente, un deseñador gráfico o que debe saber é contar, porque a humanidade leva dicindo case as mesmas cousas desde o principio dos tempos, o que cambia é a forma de contalas, de comunicalas, pero dicindo o mesmo doutro xeito conseguimos decir cousas novas, exploramos novos conceptos, abrimos novos puntos de vista. Ás veces o “como” ten máis peso que o “que”. Velaquí as palabras do autor no limiar do libro:“Son un escritor ventureiro, os artigos deste libro son todos produto de encomendas, fun onde me pediron e fixen cando me mandaron. Mesmo así puxen en cada un todo o meu coidado, non só por respecto ao lector posible, gozo ecribindo e saboreo de vagar a maxia de armar un pequeño mundo con nada, gústame sentir o pensamento a abrollar mentres debullo as palabras e a orde precisa para narrar. Tardei en poñerme a escribir, en ser consciente da utilidade da reflexión sobre a propia obra, sobre a profesión, sobre a cultura, útil para min, pero pode que tamén para outros. No cabo de cada artigo veredes reseñado onde e cando viron a luz por primeira vez, foi en publicacións modestas ou de gran tiraxe, pero en todos os casos escribín coa certeza de que guindaba unha garrafa ao mar, confiando que co tempo algunha chegaría a unha ribeira na que sería valorada. Tiven a fortuna de comprobar que foi así en máis dun caso e de dous. A palabra conduce o pensamento do mesmo xeito que as formas, as cores e a tipografía son as portadoras do discurso visual dos deseñadores, con elas —como quere Enric Satué— conformamos a imaxe da cultura, da comunicación, desde a forma máis minúscula das letras e as palabras.”'
+  - text: "O conxunto ven ser unha reflexión sobre a profesión, os temas e as teimas deste deseñador, vinte e nove pezas da súa autoría máis un artigo de Xosé Luís Méndez Ferrín sobre o deseño gráfico, recuperado por Barro dun folleto dos anos setenta. A edición consta de cen exemplares numerados e asinados polo autor, que ademáis ofrece a posibilidade da descarga do libro nun pdf aloxado nesta mesma web da DAG. En O como é o que conta, Barro ven dicir que realmente, un deseñador gráfico o que debe saber é contar, porque a humanidade leva dicindo case as mesmas cousas desde o principio dos tempos, o que cambia é a forma de contalas, de comunicalas, pero dicindo o mesmo doutro xeito conseguimos decir cousas novas, exploramos novos conceptos, abrimos novos puntos de vista. Ás veces o “como” ten máis peso que o “que”. Velaquí as palabras do autor no limiar do libro:“Son un escritor ventureiro, os artigos deste libro son todos produto de encomendas, fun onde me pediron e fixen cando me mandaron. Mesmo así puxen en cada un todo o meu coidado, non só por respecto ao lector posible, gozo ecribindo e saboreo de vagar a maxia de armar un pequeño mundo con nada, gústame sentir o pensamento a abrollar mentres debullo as palabras e a orde precisa para narrar. Tardei en poñerme a escribir, en ser consciente da utilidade da reflexión sobre a propia obra, sobre a profesión, sobre a cultura, útil para min, pero pode que tamén para outros. No cabo de cada artigo veredes reseñado onde e cando viron a luz por primeira vez, foi en publicacións modestas ou de gran tiraxe, pero en todos os casos escribín coa certeza de que guindaba unha garrafa ao mar, confiando que co tempo algunha chegaría a unha ribeira na que sería valorada. Tiven a fortuna de comprobar que foi así en máis dun caso e de dous. A palabra conduce o pensamento do mesmo xeito que as formas, as cores e a tipografía son as portadoras do discurso visual dos deseñadores, con elas —como quere Enric Satué— conformamos a imaxe da cultura, da comunicación, desde a forma máis minúscula das letras e as palabras.”"
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa801229-2015-01-09-17-09-30.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa801229-ocomoe-oqueconta.pdf
     text: Descargar
     type: file
-intro: 'O libro achega un feixe de artigosde Pepe Barro sobre o deseño, a cultura e a imaxe da cultura.'
+intro: "O libro achega un feixe de artigosde Pepe Barro sobre o deseño, a cultura e a imaxe da cultura."
 slug: o-como-e-o-que-conta
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2015-01-12T11:54:00+00:00

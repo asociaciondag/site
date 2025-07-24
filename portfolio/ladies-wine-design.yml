@@ -1,13 +1,11 @@
 id: 386
-title: 'Ladies, Wine & Design'
+title: "Ladies, Wine & Design"
 slug: ladies-wine-design
 body:
-  -
-    text: ''
+  - text: ""
     type: text
-  -
-    image: /img/portfolio/images/20210805-5.jpg
-    text: ''
+  - image: /img/portfolio/images/20210805-5.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/20210805-5.jpg
 tags:

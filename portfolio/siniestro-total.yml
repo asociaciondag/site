@@ -1,20 +1,17 @@
 id: 90
-title: 'Siniestro Total'
+title: "Siniestro Total"
 slug: siniestro-total
 body:
-  -
-    text: |-
+  - text: |-
       O mítico grupo vigués de _punk_ Siniestro Total foi un dos primeiros grupos musicais en España en teren web de seu. Nela, os usuarios podían deixar mensaxes e consultar a súa extensísima base de datos con todo tipo de información: letras de cancións, biografías, discos, xiras, etc. Desde que se montou a web (no 1996) ata agora foise actualizando dun xeito bastante artesanal, polo que era necesario refacela desde cero, o que se fixo coincidir co lanzamento do seu novo disco Country Western.
 
       O primeiro reto no deseño foi atopar a identidade gráfica de Siniestro Total, moi dispersa ao longo da súa historia. Non había un logotipo oficial, nin un estilo definido. Optouse por unha web en branco e negro combinados con vermello, por seren as cores máis empregadas ata agora, e tamén as da gráfica do novo disco. Debido á inmensa cantidade de información que había, houbo que crear caixas de distintas cores para axudar a orientarse. Por exemplo, os comentarios e todo o xerado polos usuarios vai sobre fondo branco, o dazibao (que é o muro onde os visitantes deixan mensaxes e se mostra a súa actividade) sobre vermello, e os vídeos, fotos e todo o material audiovisual en gris. Tamén foi unha das primeiras webs que fixemos onde incluímos por css unha tipografía especial para os títulos, en concreto a CA BND Web Bold, da fundición Cape Arcona, unha tipografía gratuíta deseñada especificamente para usar en web. Outra das novidades foi un sistema de comentarios onde os usuarios non só comentan con texto, senón que poden subir fotos e vídeos e deste xeito axudan a completar coas súas achegas a pequena enciclopedia da historia de Siniestro Total.
     type: text
-  -
-    image: /img/portfolio/images/5585a034d8fbd-siniestro-total-portada.jpg
-    text: ''
+  - image: /img/portfolio/images/5585a034d8fbd-siniestro-total-portada.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585a034d9b28-siniestro-total-interior.jpg
-    text: ''
+  - image: /img/portfolio/images/5585a034d9b28-siniestro-total-interior.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585a034d7d75-siniestro-total-portada.jpg
 tags:
@@ -25,13 +22,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'A navalla suíza'
-  -
-    name: Cliente
-    value: 'Siniestro Total'
-  -
-    name: Ano
-    value: '2010'
+  - name: Estudio
+    value: "A navalla suíza"
+  - name: Cliente
+    value: "Siniestro Total"
+  - name: Ano
+    value: "2010"
 draft: true

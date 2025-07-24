@@ -1,30 +1,26 @@
 id: 64
-title: 'Premios Laus 2010'
+title: "Premios Laus 2010"
 body:
-  -
-    text: |-
+  - text: |-
       En 1964 ADG-FAD creou os Premios LAUS en recoñecemento á creatividade eá calidade da comunicación audiovisual e gráfica. Este ano celébrase a 40ª edición, xunto coa 12ª edición dos Premios Laus de Gráfica e Comunicación de Administracións Públicas e a 7ª edición dos Premios Laus Estudantes.
 
       Os Laus están divididos nas categorías de Deseño gráfico, Interactivos, Creatividade publicitaria e Audiovisuais, e premian A Excelencia.
 
       Para máis información e inscripcións: <http://fad.cat/awards/view/20/lang:spa>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a980c8e3-001-laus2010.gif
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a980c8e3-bases-laus.pdf
     text: Descargar
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a980c8e3-bases-laus-estudantes.pdf
     text: Descargar
     type: file
-intro: '40ª edición dos premios internacionais Laus de deseño gráfico e a comunicación visual.'
+intro: "40ª edición dos premios internacionais Laus de deseño gráfico e a comunicación visual."
 slug: premios-laus-2010
 tags: []
 lang: gl

@@ -1,9 +1,8 @@
 id: 14
-title: 'Reflexións sobre o deseño de arquivos dixitais'
-author: 'María Agra'
+title: "Reflexións sobre o deseño de arquivos dixitais"
+author: "María Agra"
 body:
-  -
-    text: |-
+  - text: |-
       O campo dos arquivos dixitais cobra maior relevancia, pois cada vez son máis as empresas que invisten na dixitalización dos seus arquivos físicos para preservar materiais a miúdo fráxiles e, á súa vez, ofrecer maior acceso a un público non especializado. Deseñar modos de acceder a estas coleccións a través dunha pantalla é un reto interesante e fascinante, do que fun partícipe directa nestes últimos dous anos grazas ao meu traballo na axencia [Keepthinking](https://www.keepthinking.it/) de Londres.
 
       Keepthinking deseña sitios web e proporciona sistemas de xestión de coleccións para empresas como Sainsbury’s, unha icónica cadea de supermercados británica, o Lloyds Register Foundation Heritage Center, un vastísimo arquivo de materiais –os máis antigos datan dos anos 30 do século XIX–, ou GSK (GlaxoSmithKline), a empresa farmacéutica máis antiga do Reino Unido, cuxos arquivos conteñen tanto información sobre produtos e marcas como documentos relacionados coa financiación e xestión das súas empresas e instalacións desde 1747 ata a actualidade.
@@ -12,13 +11,11 @@ body:
 
       Para comezar teremos que definir o que é un arquivo. Un arquivo é unha acumulación de documentos históricos catalogados de xeito ordenado. Estes documentos poden ser papeis, rexistros sonoros, vídeos, fotografías, obxectos e incluso ficheiros dixitais. Pódese usar un arquivo para almacenar varios tipos de contidos, xa sexan bibliotecas para conservar os seus manuscritos, xa sexan arquivos persoais que documentan a vida dunha persoa, ou outros relativos á preservación da historia e da evolución dunha empresa. Estes últimos son considerados como activos para cada vez maior número de empresas, xa que os documentos que conteñen poden ser empregados para tomar decisións no ámbito legal, da mercadotecnia, da comunicación ou da xestión. De modo que, aínda que temos un elemento de nostalxia, un arquivo tamén é un investimento importante no futuro da empresa.
     type: text
-  -
-    image: /img/articles/images/00-gsk.png
-    text: ''
+  - image: /img/articles/images/00-gsk.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Como se cataloga un arquivo?
 
       Un arquivo catalógase normalmente cunha estrutura xerárquica, organizado en niveis que van dende os máis amplos (fondos) aos máis específicos (expedientes e documentos).
@@ -45,86 +42,68 @@ body:
 
       Por iso, crear múltiples puntos de acceso á colección é fundamental para ter unha experiencia de usuario exitosa. Un elemento clave na creación destes puntos de acceso reside na construción de narrativas arredor da colección. Durante o proceso de deseño, buscamos como atopar fíos que agrupen contido para promover que os usuarios descubran contidos. Estes fíos poden adoptar a forma de cronogramas, contido seleccionado como temas, artigos e incluso árbores familiares, como podemos ver na páxina web do [Sainsbury Archive](https://www.sainsburyarchive.org.uk/), o arquivo da cadea de supermercados fundada en 1869.
     type: text
-  -
-    image: /img/articles/images/01-sainsbury-s-timeline.png
-    text: ''
+  - image: /img/articles/images/01-sainsbury-s-timeline.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Outros recursos empregados no sitio web de Sainsbury consisten nun [mapa que contén a ubicación física de todas as tendas](https://www.sainsburyarchive.org.uk/branch/branches), almacéns, granxas e oficinas pertencentes á cadea desde a súa fundación, mapa que permite aos usuarios ver a expansión do negocio a través dunha animación, xa sexa buscando por tendas ou por localización.'
+  - text: "Outros recursos empregados no sitio web de Sainsbury consisten nun [mapa que contén a ubicación física de todas as tendas](https://www.sainsburyarchive.org.uk/branch/branches), almacéns, granxas e oficinas pertencentes á cadea desde a súa fundación, mapa que permite aos usuarios ver a expansión do negocio a través dunha animación, xa sexa buscando por tendas ou por localización."
     type: text
-  -
-    image: /img/articles/images/02-sainsbury-s-map.png
-    text: ''
+  - image: /img/articles/images/02-sainsbury-s-map.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Na web do [Shakespeare Birthplace Trust](http://collections.shakespeare.org.uk/), que alberga unha das máis importantes coleccións de material relacionado co escritor inglés a nivel mundial, a páxina principal ou _home_ ten como obxectivo proporcionar múltiples puntos de acceso. Un sinxelo formulario de busca toma o primeiro plano cando o usuario chega á páxina, mentres que se se despraza cara abaixo, atopará formas de explorar a colección a través de narrativas, de exposicións en liña ou de blogs, así como buscas predeterminadas que mostran o número total de obxectos en cada unha das tres coleccións.'
+  - text: "Na web do [Shakespeare Birthplace Trust](http://collections.shakespeare.org.uk/), que alberga unha das máis importantes coleccións de material relacionado co escritor inglés a nivel mundial, a páxina principal ou _home_ ten como obxectivo proporcionar múltiples puntos de acceso. Un sinxelo formulario de busca toma o primeiro plano cando o usuario chega á páxina, mentres que se se despraza cara abaixo, atopará formas de explorar a colección a través de narrativas, de exposicións en liña ou de blogs, así como buscas predeterminadas que mostran o número total de obxectos en cada unha das tres coleccións."
     type: text
-  -
-    image: /img/articles/images/03-sbt-homepage.png
-    text: ''
+  - image: /img/articles/images/03-sbt-homepage.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Outro exemplo é o sitio web do [arquivo de Charlie Chaplin](http://www.charliechaplinarchive.org/), que agrupa os documentos persoais e profesionais do director e actor gardados na Cineteca de Bolonia (Italia); a páxina de historias ([Stories](http://www.charliechaplinarchive.org/en/stories/storie)) funciona como un recurso didáctico no que artigos curtos revelan aspectos da vida de Chaplin relacionados cos documentos do arquivo.'
+  - text: "Outro exemplo é o sitio web do [arquivo de Charlie Chaplin](http://www.charliechaplinarchive.org/), que agrupa os documentos persoais e profesionais do director e actor gardados na Cineteca de Bolonia (Italia); a páxina de historias ([Stories](http://www.charliechaplinarchive.org/en/stories/storie)) funciona como un recurso didáctico no que artigos curtos revelan aspectos da vida de Chaplin relacionados cos documentos do arquivo."
     type: text
-  -
-    image: /img/articles/images/04-chaplin-stories.png
-    text: ''
+  - image: /img/articles/images/04-chaplin-stories.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Atendendo ás necesidades dos arquivistas e investigadores
 
       Unha parte esencial de calquera arquivo dixital é a páxina de busca. Os arquivistas que queren atopar documentos específicos con frecuencia navegan a xerarquía para realizar buscas complexas con múltiples criterios, polo que asegurarse de que a súa funcionalidade permita realizalas é clave para o éxito dun arquivo dixital.
     type: text
-  -
-    image: /img/articles/images/05-gsk-browse-vs-list.png
-    text: ''
+  - image: /img/articles/images/05-gsk-browse-vs-list.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'No caso do sitio web do arquivo GSK, a páxina de busca permite aos usuarios, por unha banda, acceder directamente introducindo unha palabra clave no formulario e engadir dinámicamente múltiples criterios e, por outra banda, navegar a través dunha xerarquía interactiva ou explorar contido seleccionado en forma de temas; estes permiten traer obxectos destacados ao primeiro plano, dándolle aos usuarios a oportunidade de ver documentos en contexto e de ser guiados por seccións da colección.'
+  - text: "No caso do sitio web do arquivo GSK, a páxina de busca permite aos usuarios, por unha banda, acceder directamente introducindo unha palabra clave no formulario e engadir dinámicamente múltiples criterios e, por outra banda, navegar a través dunha xerarquía interactiva ou explorar contido seleccionado en forma de temas; estes permiten traer obxectos destacados ao primeiro plano, dándolle aos usuarios a oportunidade de ver documentos en contexto e de ser guiados por seccións da colección."
     type: text
-  -
-    image: /img/articles/images/06-gsk-collection-search.png
-    text: ''
+  - image: /img/articles/images/06-gsk-collection-search.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Unha vez feita unha busca, os criterios mantéñense na pantalla cando se ven os resultados, para permitir ao usuario refinar os seus parámetros e facer buscas máis específicas. Ao mesmo tempo, os resultados pódense ordenar de diferentes xeitos e mostrarse tanto nunha lista como nunha grella con imaxes, permitindo ao usuario axustar o nivel de detalle que quere ver.
 
       Cando chegamos a un documento ou obxecto específico, incentivamos aos usuarios a continuar o seu percorrido pola colección mostrándolles de novo a xerarquía, ou tamén contido relacionado co obxecto, como podemos ver no sitio web de [Asia Art Archive](https://aaa.org.hk/).
     type: text
-  -
-    image: /img/articles/images/07-aaa-single-object.png
-    text: ''
+  - image: /img/articles/images/07-aaa-single-object.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'No caso da web de [Lloyd''s Register Heritage and Education Center (HEC)](https://hec.lrfoundation.org.uk/), que conserva a colección Lloyd''s Register (un rexistro de barcos que se iniciou en Londres en 1764 nunha cafetería frecuentada por navegantes e que se estima que contén máis de un millón vintecinco mil documentos), a estrutura do arquivo está organizada en torno aos nomes dos barcos. Un barco en particular, por exemplo o famoso [Cutty Sark](https://hec.lrfoundation.org.uk/archive-library/ships/cutty-sark-1869-ferreira-maria-do-amparo/search/everywhere:cutty-sark-11617/page/1), ten unha extensa lista de documentos asociados, desde referencias aos portos onde navegaba ata información sobre a tripulación e incluso inspeccións técnicas.'
+  - text: 'No caso da web de [Lloyd''s Register Heritage and Education Center (HEC)](https://hec.lrfoundation.org.uk/), que conserva a colección Lloyd''s Register (un rexistro de barcos que se iniciou en Londres en 1764 nunha cafetería frecuentada por navegantes e que se estima que contén máis de un millón vintecinco mil documentos), a estrutura do arquivo está organizada en torno aos nomes dos barcos. Un barco en particular, por exemplo o famoso [Cutty Sark](https://hec.lrfoundation.org.uk/archive-library/ships/cutty-sark-1869-ferreira-maria-do-amparo/search/everywhere:cutty-sark-11617/page/1), ten unha extensa lista de documentos asociados, desde referencias aos portos onde navegaba ata información sobre a tripulación e incluso inspeccións técnicas.'
     type: text
-  -
-    image: /img/articles/images/08-lrf-hec.png
-    text: ''
+  - image: /img/articles/images/08-lrf-hec.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Involucrando á audiencia
 
       Un paso máis alá no proceso de deseño e que normalmente adoitamos aplicar a arquivos nos que o público en xeral mostra interese, como o arquivo de Sainsbury (unha marca que forma parte da vida cotiá dos británicos), consiste en involucrar á audiencia nas historias que contamos. Nestes casos, damos importancia ás formas en que os usuarios poden sentir que o arquivo de certo modo lles pertence, engadindo un nivel de personalización e creando unha sensación de comunidade. Conseguimos isto permitindo aos usuarios rexistrarse de balde e gardar contido nos seus propios álbums, engadir comentarios, compartir elementos en redes sociais ou compartir recordos e historias persoais en forma de lembranzas relacionadas coa tenda ou con obxectos concretos do arquivo.
     type: text
-  -
-    image: /img/articles/images/09-sainsbury-s-albums.png
-    text: ''
+  - image: /img/articles/images/09-sainsbury-s-albums.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Xuntando todas as pezas do crebacabezas
 
       A integración do xestor de contidos e coleccións que propón Keepthinking, a través dun único software axuda a dixitalizar moitos arquivos, xa que tanto a colección como a web están completamente sincronizadas.

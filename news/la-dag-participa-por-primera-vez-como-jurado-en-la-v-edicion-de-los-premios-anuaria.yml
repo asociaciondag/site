@@ -1,14 +1,12 @@
 id: 395
-title: 'La DAG participa por primera vez como jurado en la V edición de los premios Anuaria'
+title: "La DAG participa por primera vez como jurado en la V edición de los premios Anuaria"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       El pasado viernes 28 de septiembre se reunió en Barcelona el jurado de los premios internacionales de diseño gráfico de España y Portugal ANUARIA. Por primeira vez, la Asociación Gallega de Diseñadores ha participado como miembro del jurado junto con las principales asociaciones de diseño: AEPD (Asociación Española de Profesionales del Diseño), AAD (Asociación Andaluza de Diseñadores), ADP (Asociació de Dissenyadors Professionals), AGA (Asociación de Diseñadores Gráficos de Asturias), ADCV (Asociación de Diseñadores de la Comunidad Valenciana), Col·legi Oficial Disseny Grfic Catalunya, CEdiR (Centro de Diseño Integral de La Rioja), DI\_Mad (Asociación de Diseñadores de Madrid), CdeC (Club de Creativos), BCD (Barcelona Centre de Disseny), Igualada=Disseny, DiCA (Asociación de Profesionales y Empresas de Diseño de Canarias), DIP (Asociación de Profesionales del Diseño y la Comunicación Publicitaria de la Región de Murcia, DISENA, AND (Associaçao Nacional Designers). La reunión del jurado ha servido para estrechar lazos entre las diferentes asociaciones de diseñadores y proponer proyectos en común de cara al futuro.
 
       Y por lo que respecta a la presencia gallega en las 27 categorías premiadas, esta destacó especialmente en la categoría del [premio al mejor catálogo](http://www.veredictas.com/index.php?md=premis&accio=guanyadors&id_categoria=294) que ganó la agencia coruñesa [Unlimit-ed](http://www.unlimitedcreativegroup.com/) y en la que también resultaron finalistas nuestros socios del estudio [Era Comunicación](http://www.eracomunicacion.com/), con sede en Pontevedra. Puedes consultar la relación de premiados en el enlace: [Ganadores Anuaria 2012](http://www.veredictas.com/premios/premios-anuaria/galeria-premiados-anuaria/ganadores-2012.html)
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa25bd7a-xurado-anuaria.jpg
 intro: null
 slug: la-dag-participa-por-primera-vez-como-jurado-en-la-v-edicion-de-los-premios-anuaria

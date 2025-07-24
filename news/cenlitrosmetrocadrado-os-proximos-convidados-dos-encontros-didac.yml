@@ -1,14 +1,12 @@
 id: 716
-title: 'Cenlitrosmetrocadrado, os próximos convidados dos Encontros DIDAC'
+title: "Cenlitrosmetrocadrado, os próximos convidados dos Encontros DIDAC"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/58d2a5f2c2f57-cenlitros.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O Instituto inauguraba a súa programación con dúas liñas de actividades: a expositiva, con _[Specchio Paulo Reis](http://didac.gal/didac/gl/node/38),_ unha mostra que lle rende homenaxe á figura Paulo Reis, e que reúne artistas que traballaron con el e que contribuiron á súa intención de tender pontes entre creadores de España, Portugal e Brasil; e os encontros con creadores, o último deles, a semana pasada, co pintor, gravador, escultor, escritor, etc. [Correa Corredoira](http://www.didac.gal/didac/gl/node/33), para falar do seu labor editorial, como deseñador de libros e impulsor de proxecto editoriais.
 
       Continuando con estes encontros DIDAC chega este xoves 23 de marzo ás 19.30 a vez do equipo do estudio compostelá [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/?lang=gl).
@@ -25,7 +23,7 @@ body:
 
       Entre os seus últimos traballos encontramos o desenvolvemento da cadeira [Minia](http://cenlitrosmetrocadrado.com/minia/) na que se alixeira ao máximo a estrutura sen comprometer a resistencia e que está pensada para poder ser realizada en calquera carpintaría, a mesa [Lusi](http://cenlitrosmetrocadrado.com/lusi/?lang=gl) que nace coa intención de xuntar a calidez e proximidade do mobiliario doméstico e a limpeza e pragmatismo das solucións de oficina, o deseño da publicación [_El trayecto de un anhelo_](http://cenlitrosmetrocadrado.com/el-trayecto-de-un-anhelo/?lang=gl) que relata o proceso desde os primeiros trámites ate a ocupación das vivendas Galeras-Entrerríos situadas no solar do antigo Hospital Xeral de Galicia ou o sistema de embalaxe [Lesma](http://cenlitrosmetrocadrado.com/lesma/) baseado na reutilización de cámaras de aire de rodas usadas para pezas de xoiería da artesán Rosa Méndez.
     type: text
-intro: 'Desde o pasado 3 de marzo temos en Compostela [DIDAC](http://didac.gal/didac/gl) (DARDO Instituto do Deseño e das Artes Contemporáneas), un novo espazo para a divulgación e proxección do deseño e a arte contemporánea.'
+intro: "Desde o pasado 3 de marzo temos en Compostela [DIDAC](http://didac.gal/didac/gl) (DARDO Instituto do Deseño e das Artes Contemporáneas), un novo espazo para a divulgación e proxección do deseño e a arte contemporánea."
 slug: cenlitrosmetrocadrado-os-proximos-convidados-dos-encontros-didac
 tags: []
 lang: gl

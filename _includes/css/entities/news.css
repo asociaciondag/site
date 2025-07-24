@@ -23,120 +23,119 @@
  */
 
 /*
-* Estilos comúns
-*/
-.new{}
+ * Estilos comúns
+ */
+.new {}
 
-.new-header{
-	color: var(--color-medium);
+.new-header {
+  color: var(--color-medium);
 
-	/* Lista de etiquetas */
-	& > nav {
-		display: inline;
-		font-size: var(--fs-14);
-		font-weight: var(--fw-bold);
-		text-transform: uppercase;
+  /* Lista de etiquetas */
+  & > nav {
+    display: inline;
+    font-size: var(--fs-14);
+    font-weight: var(--fw-bold);
+    text-transform: uppercase;
 
-		& a{
-			text-decoration: none;
-			margin-right: 1em;
-			color: var(--color-dag);
+    & a {
+      text-decoration: none;
+      margin-right: 1em;
+      color: var(--color-dag);
 
-			&:hover{
-				color: var(--color-medium);
-			}
-		}
-	}
+      &:hover {
+        color: var(--color-medium);
+      }
+    }
+  }
 
-	/* Data */
-	& > time {
-		font-size: var(--fs-14);
-		white-space: nowrap;
-	}
+  /* Data */
+  & > time {
+    font-size: var(--fs-14);
+    white-space: nowrap;
+  }
 
-	/* Título */
-	& > h1{
-		line-height: 1;
-		font-weight: var(--fw-bold);
-		color: var(--color-main);
-		margin: 0;
+  /* Título */
+  & > h1 {
+    line-height: 1;
+    font-weight: var(--fw-bold);
+    color: var(--color-main);
+    margin: 0;
 
-		& a {
-			text-decoration: none;
-			color: var(--color-main);
+    & a {
+      text-decoration: none;
+      color: var(--color-main);
 
-			&:hover{
-				color: var(--color-medium);
-			}
-		}
-	}
+      &:hover {
+        color: var(--color-medium);
+      }
+    }
+  }
 }
 .new-intro,
 .new-body {
-	color: var(--color-dark);
-	font-weight: var(--fw-light);
-	font-size: var(--fs-16);
+  color: var(--color-dark);
+  font-weight: var(--fw-light);
+  font-size: var(--fs-16);
 
-	& a{
-		color: inherit;
+  & a {
+    color: inherit;
 
-		&:hover{
-			color: var(--color-main);
-			text-decoration: none;
-		}
-	}
+    &:hover {
+      color: var(--color-main);
+      text-decoration: none;
+    }
+  }
 }
 
 .new-body {
-	line-height: 1.45;
+  line-height: 1.45;
 
-	& h2,
-	& h3 {
-		color: var(--color-main);
-		line-height: 1.1;
-		margin-top: 1.5em;
-	}
-	& h2 {
-		font-size: var(--fs-18);
-		font-weight: var(--fw-normal);
-	}
-	& h3 {
-		font-size: var(--fs-16);
-		font-weight: var(--fw-bold);
-	}
-	& li {
-		margin: 0.5em 0;
-	}
+  & h2,
+  & h3 {
+    color: var(--color-main);
+    line-height: 1.1;
+    margin-top: 1.5em;
+  }
+  & h2 {
+    font-size: var(--fs-18);
+    font-weight: var(--fw-normal);
+  }
+  & h3 {
+    font-size: var(--fs-16);
+    font-weight: var(--fw-bold);
+  }
+  & li {
+    margin: 0.5em 0;
+  }
 
-	& strong {
-		font-weight: var(--fw-normal);
-		color: var(--color-main);
-	}
+  & strong {
+    font-weight: var(--fw-normal);
+    color: var(--color-main);
+  }
 }
-
 
 /**
  * Noticia modo listado 
  */
 
 .new-list {
-	border-top: 1px solid var(--black-8);
-	padding-top: 1.3em;
-	padding-bottom: 1.3em;
+  border-top: 1px solid var(--black-8);
+  padding-top: 1.3em;
+  padding-bottom: 1.3em;
 
-	& .new-header {
-		& > h1 {
-			font-size: var(--fs-26);
-			margin: 0.2em 0;
-		}
+  & .new-header {
+    & > h1 {
+      font-size: var(--fs-26);
+      margin: 0.2em 0;
+    }
 
-		@media (--mobile-landscape) {
-			& time {
-				float: right;
-				margin: 0.2em 0 2em 2em;
-			}
-		}
-	}
+    @media (--mobile-landscape) {
+      & time {
+        float: right;
+        margin: 0.2em 0 2em 2em;
+      }
+    }
+  }
 }
 
 /**
@@ -144,94 +143,93 @@
  */
 
 .new-grid {
-	border-bottom: 1px solid var(--black-8);
-	padding: 2rem 0;
+  border-bottom: 1px solid var(--black-8);
+  padding: 2rem 0;
 
-	& .new-header {
-		& > h1 {
-			font-size: var(--fs-26);
-			margin: 0.2em 0;
-		}
-	}
+  & .new-header {
+    & > h1 {
+      font-size: var(--fs-26);
+      margin: 0.2em 0;
+    }
+  }
 
-	& .new-intro p {
-		margin-bottom: 0;
-		line-height: 1.4;
-	}
+  & .new-intro p {
+    margin-bottom: 0;
+    line-height: 1.4;
+  }
 
-	& .section {
-		margin: 0 auto;
-		padding-bottom: 0;
+  & .section {
+    margin: 0 auto;
+    padding-bottom: 0;
 
-		&:first-child {
-			margin-top: 0;
-			margin-bottom: 1rem;
-		}
-	}
+    &:first-child {
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+  }
 }
-
 
 /**
  * Noticia modo permalink
  */
 
 .new-permalink {
-	position: relative;
+  position: relative;
 
-	& .new-header {
-		margin-bottom: 1.5rem;
+  & .new-header {
+    margin-bottom: 1.5rem;
 
-		& > h1 {
-			margin-top: 0.5rem;
-			font-size: var(--fs-32);
-			letter-spacing: -0.02em;
+    & > h1 {
+      margin-top: 0.5rem;
+      font-size: var(--fs-32);
+      letter-spacing: -0.02em;
 
-			@media (min-width: 30rem) {
-				font-size: var(--fs-48);
-				letter-spacing: -0.03em;
-			}
-		}
-	}
+      @media (min-width: 30rem) {
+        font-size: var(--fs-48);
+        letter-spacing: -0.03em;
+      }
+    }
+  }
 
-	& .new-intro {
-		font-size: var(--fs-18);
-		color: var(--color-main);
-		margin-bottom: 1rem;
-	}
+  & .new-intro {
+    font-size: var(--fs-18);
+    color: var(--color-main);
+    margin-bottom: 1rem;
+  }
 
-	& .new-body {
-		padding-top: 2.5rem;
-		padding-bottom: 2.5rem;
+  & .new-body {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
 
-		& > .new-section-text {
-			/* capitular */
-			&:first-of-type > p:first-child::first-letter {
-				font-size: var(--fs-48);
-				font-weight: var(--fw-bold);
-				display: inline-block;
-				line-height: 0;
-			}
-			/* sangría */
-			& p + p {
-				text-indent: 1em;
-			}
-		}
-	}
+    & > .new-section-text {
+      /* capitular */
+      &:first-of-type > p:first-child::first-letter {
+        font-size: var(--fs-48);
+        font-weight: var(--fw-bold);
+        display: inline-block;
+        line-height: 0;
+      }
+      /* sangría */
+      & p + p {
+        text-indent: 1em;
+      }
+    }
+  }
 
-	@media (--tablet) {
-		& .new-intro {
-			font-size: var(--fs-26);
-			letter-spacing: -0.01em;
-		}
-		& .new-body {
-			font-size: var(--fs-18);
+  @media (--tablet) {
+    & .new-intro {
+      font-size: var(--fs-26);
+      letter-spacing: -0.01em;
+    }
+    & .new-body {
+      font-size: var(--fs-18);
 
-			& h2 {
-				font-size: var(--fs-26);
-			}
-			& h3 {
-				font-size: var(--fs-18);
-			}
-		}
-	}
+      & h2 {
+        font-size: var(--fs-26);
+      }
+      & h3 {
+        font-size: var(--fs-18);
+      }
+    }
+  }
 }

@@ -1,30 +1,26 @@
 id: 802
-title: 'A vaixela Ferrádica de cenlitrosmetrocadrado no Museu del Disseny de Barcelona '
+title: "A vaixela Ferrádica de cenlitrosmetrocadrado no Museu del Disseny de Barcelona "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/ferradica03.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Para saberdes máis sobre a Ferrádica dos [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/), podedes ver este vídeo elaborado polos autores en que falan do proceso de traballo ou consultar a información dispoñíbel sobre o proxecto na web do estudio.'
+  - text: "Para saberdes máis sobre a Ferrádica dos [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/), podedes ver este vídeo elaborado polos autores en que falan do proceso de traballo ou consultar a información dispoñíbel sobre o proxecto na web do estudio."
     type: text
-  -
-    list: ''
+  - list: ""
     info:
       code: '<iframe src="https://player.vimeo.com/video/89599141?app_id=122963" width="640" height="360" frameborder="0" title="A vaixela Ferr&aacute;dica" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
-      ratio: '60'
+      ratio: "60"
     type: embed
-  -
-    list: ''
-    url: 'http://cenlitrosmetrocadrado.com/ferradica/'
-    text: 'Vaixela Ferrádica'
+  - list: ""
+    url: "http://cenlitrosmetrocadrado.com/ferradica/"
+    text: "Vaixela Ferrádica"
     type: button
-intro: 'Esta semana soubemos que o deseño que cenlitrosmetrocadrado realizou para Sargadelos en colaboración con Abastos 2.0 vai pasar a formar parte da colección do museo. Moitos parabéns Manuel, Ricardo e Xabier!!!'
+intro: "Esta semana soubemos que o deseño que cenlitrosmetrocadrado realizou para Sargadelos en colaboración con Abastos 2.0 vai pasar a formar parte da colección do museo. Moitos parabéns Manuel, Ricardo e Xabier!!!"
 slug: a-vaixela-ferradica-de-cenlitrosmetrocadrado-no-museo-del-disseny-de-barcelona
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2018-04-10T19:39:14+00:00

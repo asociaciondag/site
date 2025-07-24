@@ -4,34 +4,30 @@ contact: |-
 
   <hola@porlasramasestudio.com>
 links:
-  -
-    text: Web
-    url: 'https://www.porlasramasestudio.com/'
+  - text: Web
+    url: "https://www.porlasramasestudio.com/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/ver%C3%B3nica-vieira-gonz%C3%A1lez-100678213/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/ver%C3%B3nica-vieira-gonz%C3%A1lez-100678213/"
     type: linkedin
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/veronicavieiragonzalez'
+  - text: Facebook
+    url: "https://www.facebook.com/veronicavieiragonzalez"
     type: facebook
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/porlasramas_estudio/?hl=es'
+  - text: Instagram
+    url: "https://www.instagram.com/porlasramas_estudio/?hl=es"
     type: link
-name: 'Verónica Vieira González'
+name: "Verónica Vieira González"
 slug: veronica-vieira-gonzalez
 avatarBig: /img/avatars/veronicavieira.jpeg
 avatar: /img/avatars/veronicavieira.jpeg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Embalaxe
   - Editorial
   - Audiovisual
 draft: true
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñadora gráfica '
-job.es: 'Diseñadora gráfica'
+job.gl: "Deseñadora gráfica "
+job.es: "Diseñadora gráfica"

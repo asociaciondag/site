@@ -1,14 +1,12 @@
 id: 624
-title: 'Se abre la convocatoria para participar en la 46 edición de los Premios Laus'
+title: "Se abre la convocatoria para participar en la 46 edición de los Premios Laus"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/5674487e824ec-premios-laus.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Además de las categorías anteriores, los premios reconocerán a través del Laus Aporta-Fundació Banc Sabadell, instaurado hace tres años, aquellos proyectos que, a través de la comunicación visual, hayan conseguido tener un impacto social o económico positivo.
 
       Como principal novedad, este año los Laus incorporan dos novos premios: el Laus Empresas y Entidades, que será otorgado por los miembros de la Junta Directa de ADG-FAD, e el Young Talent, con el que el jurado de estudiantes premiará al mejor de los trabajos de sua categoría.
@@ -19,7 +17,7 @@ body:
 
       Todos los socios de la DAG tienen un 15% de descuento en su inscripción
     type: text
-intro: 'La Asociación de Diseñadores Gráficos y Directores de Arte del FAD (ADG-FAD) abrió esta semana la convocatoria para inscribirse en la 46ª edición de los Premios Laus de Diseño Gráfico y Comunicación Visual. A ella se pueden presentar todos los trabajos impresos, publicados, emitidos, visionados online o editados durante el año 2015 en las siguientes categorías: Diseño Gráfico, Digital, Publicidad, Audiovisuales y Estudiantes.'
+intro: "La Asociación de Diseñadores Gráficos y Directores de Arte del FAD (ADG-FAD) abrió esta semana la convocatoria para inscribirse en la 46ª edición de los Premios Laus de Diseño Gráfico y Comunicación Visual. A ella se pueden presentar todos los trabajos impresos, publicados, emitidos, visionados online o editados durante el año 2015 en las siguientes categorías: Diseño Gráfico, Digital, Publicidad, Audiovisuales y Estudiantes."
 slug: se-abre-la-convocatoria-para-participar-en-la-46-edicion-de-los-premios-laus
 tags: []
 lang: es

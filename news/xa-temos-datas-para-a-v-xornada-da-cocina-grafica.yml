@@ -1,8 +1,7 @@
 id: 792
-title: 'Xa temos datas para a V Xornada da Cociña Gráfica'
+title: "Xa temos datas para a V Xornada da Cociña Gráfica"
 body:
-  -
-    text: |-
+  - text: |-
       **Martes, 6 de febreiro** terá lugar en **Santiago de Compostela**, na sede de Afundación, na rúa do Vilar, 19, en horario ininterrompido de 10.00 a 19.00 h
 
       **Mércores, 7 de febreiro** será a vez da Coruña**, na sede de Afundación, rúa Cantón Grande, 8, en horario ininterrompido de 10.00 a 19.00 h
@@ -17,15 +16,14 @@ body:
       - 16.30 h Palestra de Claudio Cándido Roland DG: Personalización e dato variábel. A forza do simple
       - 18.00 h Presentación: A Cociña Gráfica – Just Print! As tecnoloxías dixitais ao servizo da innovación
       - De 10.00 a 19.00 h Obradoiros: Roland DG, Framum-Trotec, Sign-Tronic, Siser, Rysia, Plásticos Carrera, Grupo DV, Colegio Hogar Afundación.
-       
+
       As actividades son abertas e gratuítas, mais é necesario rexistrarse como asistente no evento para poder acceder. Podes rexistrarte aquí: [Formulario de inscrición](https://goo.gl/forms/b0gT5LwBaUXJtwu52).
     type: text
-  -
-    list: ''
-    url: 'http://lacocinagrafica.afundacion.org/'
-    text: 'Web da Cociña Gráfica'
+  - list: ""
+    url: "http://lacocinagrafica.afundacion.org/"
+    text: "Web da Cociña Gráfica"
     type: button
-intro: 'Será a próxima semana e a principal novidade desta edición é que a xornada viaxa a tres cidades galegas para facilitar a asistencia de todos os profesionais interesados.'
+intro: "Será a próxima semana e a principal novidade desta edición é que a xornada viaxa a tres cidades galegas para facilitar a asistencia de todos os profesionais interesados."
 slug: xa-temos-datas-para-a-v-xornada-da-cocina-grafica
 tags: []
 lang: gl

@@ -1,98 +1,80 @@
 id: 2
-title: 'Do Seoane máis deseñador'
-author: 'Pepe Barro'
+title: "Do Seoane máis deseñador"
+author: "Pepe Barro"
 body:
-  -
-    image: /img/articles/images/558700ade73f9-seoane1.jpg
-    text: 'Fig. 1. Luís Seoane'
+  - image: /img/articles/images/558700ade73f9-seoane1.jpg
+    text: "Fig. 1. Luís Seoane"
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       É ben raro achar un proxecto no que o deseñador Luís Seoane (fig. 1) desbote a ilustración do artista Luís Seoane. Pero hainos.
 
       Entre os documentos da colección que atesoura Xosé Neira Vilas sobre as súas múltiples actividades culturais na Arxentina e Cuba, existen dúas cartolinas, quizais convites, para unha exposición de libros galegos (fig. 2) e tamén unha variante mínima de forma e cor, para outra exposición sobre o xornalismo galego na Arxentina (fig. 3). Son pezas realizadas por Seoane a pedimento de Follas Novas, a iniciativa de promoción e venda de libros galegos que desenvolve a parella Anísia Miranda e Xosé Neira Vilas na Galicia bonaerense (fig. 4).
     type: text
-  -
-    image: /img/articles/images/558700ade7830-seoane2.jpg
-    text: 'Fig. 2. Convite para unha exposición de libros galegos.'
+  - image: /img/articles/images/558700ade7830-seoane2.jpg
+    text: "Fig. 2. Convite para unha exposición de libros galegos."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/558700ade7c61-seoane3.jpg
-    text: 'Fig. 3. Exposición sobre o xornalismo galego na Arxentina'
+  - image: /img/articles/images/558700ade7c61-seoane3.jpg
+    text: "Fig. 3. Exposición sobre o xornalismo galego na Arxentina"
     mode: normal
     type: image
-  -
-    image: /img/articles/images/558700ade8047-seoane4.jpg
-    text: 'Fig. 4. Anísia Miranda e Xosé Neira Vilas'
+  - image: /img/articles/images/558700ade8047-seoane4.jpg
+    text: "Fig. 4. Anísia Miranda e Xosé Neira Vilas"
     mode: normal
     type: image
-  -
-    image: /img/articles/images/558700ade84e5-seoane5.jpg
-    text: 'Fig. 5. «Exposición del libro gallego contemporáneo», no Centro Lucense de Bos Aires, 1958.'
+  - image: /img/articles/images/558700ade84e5-seoane5.jpg
+    text: "Fig. 5. «Exposición del libro gallego contemporáneo», no Centro Lucense de Bos Aires, 1958."
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       En 1958, un ano despois da creación de Follas Novas xurde o reto dunha «Exposición del libro gallego contemporáneo» que foi disposta con gran dignidade, a xulgar pola fotografía que se conserva (fig. 5), nas salas de arte do Centro Lucense de Bos Aires e que meses despois se monta tamén no Padroado da Cultura Galega de Montevideo e aínda logo en Caracas coa colaboración da _Hermandad Galleg_a. De novo, Anísia Miranda e Neira Vilas volven organizar outra mostra sobre xornalismo no mesmo Centro Lucense.
 
       Sobre a procedencia dos fondos cos que se montou aquela exposición bibliográfica dá unha idea Xosé Neira Vilas (_A cultura galega en Buenos Aires: 1950-1960_, discurso de ingreso na Real Academia Galega, A Coruña, 2001), ao dar conta do que se vendía na súa «Feira permanente do libro galego»:
 
       > «Esta organización, que un ano despois comezaría tamén a súa actividade editorial, tiña como finalidade reunir todo o que se publicaba en galego ou referido a Galicia en calquera parte do mundo. Comezou coas edicións de autor, os remanentes das editoriais Emecé e Nova e os libros que viñan publicando os selos editores xa mencionados. A esto engadiuse o fondo de Galaxia, o das editoriais Porto, Bibliófilos Gallegos, Benito Soto e as obras de interese galego de casas de Madrid, Barcelona, París e México».
     type: text
-  -
-    image: /img/articles/images/558700ade8a1a-seoane6.jpg
-    text: 'Fig. 6. Cartaz feito por Luís Seoane para a exposición'
+  - image: /img/articles/images/558700ade8a1a-seoane6.jpg
+    text: "Fig. 6. Cartaz feito por Luís Seoane para a exposición"
     mode: right
     type: image
-  -
-    image: /img/articles/images/558700adea828-seoane9.jpg
-    text: 'Fig. 7. Cartaz para Cinzano deseñado por Luís Seoane, 1953.'
+  - image: /img/articles/images/558700adea828-seoane9.jpg
+    text: "Fig. 7. Cartaz para Cinzano deseñado por Luís Seoane, 1953."
     mode: right
     type: image
-  -
-    image: /img/articles/images/558700adeabf0-seoane10.jpg
-    text: 'Fig. 8. Obra de Tomás Maldonado'
+  - image: /img/articles/images/558700adeabf0-seoane10.jpg
+    text: "Fig. 8. Obra de Tomás Maldonado"
     mode: right
     type: image
-  -
-    image: /img/articles/images/558700adeae9a-seoane11.jpg
-    text: 'Fig. 9. Obra de Raúl Lozza'
+  - image: /img/articles/images/558700adeae9a-seoane11.jpg
+    text: "Fig. 9. Obra de Raúl Lozza"
     mode: right
     type: image
-  -
-    image: /img/articles/images/558700adeb917-seoane14.jpg
-    text: 'Fig. 10. Bóbeda das Galerías Larreta, Bos Aires'
+  - image: /img/articles/images/558700adeb917-seoane14.jpg
+    text: "Fig. 10. Bóbeda das Galerías Larreta, Bos Aires"
     mode: right
     type: image
-  -
-    image: /img/articles/images/558700adec8a2-seoane18-a.jpg
-    text: 'Fig. 11-a. Cartaz para a libraría Formatos, deseñada por Xosé Teiga'
+  - image: /img/articles/images/558700adec8a2-seoane18-a.jpg
+    text: "Fig. 11-a. Cartaz para a libraría Formatos, deseñada por Xosé Teiga"
     mode: right
     type: image
-  -
-    image: /img/articles/images/558700adecf9b-seoane18-c.jpg
-    text: 'Fig. 11-b. Rótulo da libraría Formatos, deseñado por Xosé Teiga'
+  - image: /img/articles/images/558700adecf9b-seoane18-c.jpg
+    text: "Fig. 11-b. Rótulo da libraría Formatos, deseñado por Xosé Teiga"
     mode: right
     type: image
-  -
-    image: /img/articles/images/5587015e30ef2-seoane19.jpg
-    text: 'Fig. 12. Logotipo da Rede de Bibliotecas de Galicia'
+  - image: /img/articles/images/5587015e30ef2-seoane19.jpg
+    text: "Fig. 12. Logotipo da Rede de Bibliotecas de Galicia"
     mode: right
     type: image
-  -
-    image: /img/articles/images/5587015e313f4-seoane20.jpg
-    text: 'Fig. 13. Logotipo do Cluster do Produto Gráfico e do Libro Galego'
+  - image: /img/articles/images/5587015e313f4-seoane20.jpg
+    text: "Fig. 13. Logotipo do Cluster do Produto Gráfico e do Libro Galego"
     mode: right
     type: image
-  -
-    image: /img/articles/images/5587015e32cb1-seoane24.jpg
-    text: 'Fig. 14. Monografía sobre Max Bill, escrita, deseñada e editada por Tomás Maldonado en 1955.'
+  - image: /img/articles/images/5587015e32cb1-seoane24.jpg
+    text: "Fig. 14. Monografía sobre Max Bill, escrita, deseñada e editada por Tomás Maldonado en 1955."
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       Polo que sei, Luís Seoane (1910-1979) realiza varias colaboracións para esta exposición e ademáis dos convites citados, cando menos deseña un cartaz xa coñecido e exposto en varias ocasións (fig. 6). Nas tres pezas citadas Luís Seoane bota man da linguaxe da arte concreta, que desde hai uns cinco anos inflúe na súa obra, aínda que se resista a abandonar totalmente a figuración. É Max Bill (1908-1994), artista e tamén deseñador, como o propio Seoane, o que nos aclara que «a arte concreta está basada na construción aritmética controlada», el procura deste xeito unha «arte universal de absoluta claridade» na que as pinturas se constrúen a partir de planos e cores, elementos puros e matemáticamente exactos, que dan tamén un resultado puramente abstracto. Pero a linguaxe da arte concreta pode aplicarse ao deseño, aínda que o risco é grande porque, a diferencia do traballo dos artistas, o traballo dos deseñadores adoita ter que entenderse en poucos segundos. No territorio do deseño as formas deben adquirir un sentido simbólico ou semántico máis explícito, se adoecen desta función estamos no territorio da arte, da arte concreta que Luís Seoane practica tamén en varias obras artísticas daqueles anos. Pero é precisamente nunha peza de deseño na que se constata en Seoane a influencia primeira do movemento arxentino «Arte Concreto-Invención», trátase do famoso cartaz deseñado para Cinzano en 1953 (fig. 7) no que xa se ve claramente a influencia dos artistas Tomás Maldonado (fig. 8), que vai ser o teórico e abandeirado do movemento, Raúl Lozza (fig. 9), Juan Mele ou Lidy Prati, como ten sinalado Antonio Garrido Moreno (_«Modernidad e ideología en el arte mural argentino. La aportación de Luís Seoane»_). Aquel mesmo ano de 1958, Seoane realiza o único mural da arte concreta que se fixo na Arxentina, son as extraordinarias intervencións nas Galerías Larreta de Bos Aires, que nos descubren un Seoane vangardista, experimentador de novas técnicas e linguaxes, que declara: «Una pared resulta para un muralista como la página de un libro para un diagramador gráfico...» (Luís Seoane, _Arte mural. La ilustración_, Buenos Aires, 1974). Desgraciadamente, a intervención na bóveda das galerías, un prodixio de liñas en tensión, ten desaparecido (fig. 10); queda a intervención nunha parede, unha peza construída con mármores de distintas cores, que con retallos de formas diversas levan á abstracción máis radical o que pode interpretarse como figuras vagamente humanas, nunha especie de danza que anima toda a superficie. É nesta parede onde se sente a influenza do vocabulario de Raúl Lozza, que retoma en 1968, para a gran vidreira (3,5 x 12 m) do teatro da Sociedade Hebraica Arxentina.
 
       Pero como Max Bill e Tomás Maldonado, Seoane transita da arte ao deseño con moita frecuencia e este é o caso das pezas realizadas para esta exposición dos libros galegos. Aínda así, no proxecto do cartaz, Seoane non parece saír do territorio da arte porque as súas formas non acadan ningún sentido semántico explícito, mesmo que se lle dedique unha boa cantidade de segundos. É nas humildes cartolinas onde a linguaxe da arte concreta conduce ao deseñador á excelencia. Para realizar esta encomenda Seoane dispón unhas barras verticais paralelas en grupos diversos, pero esta «ilustración» está ben lonxe do Seoane artista, do «debuxador», aquí adopta tal grao de abstracción xeométrica que mesmo lembra o minimalismo norteamericano que se ha desenvolver na década seguinte e, certamente, as pezas poden ser interpretadas coma un proxecto de deseño da Escola de Ulm (1953-1968), que naquelas mesmas datas desenvolía a súa actividade na cidade alemá. A abstraccion é enorme pero o título do evento, situado ao pé das cartolinas, activa o valor semántico das barras. O deseñador Xosé Teiga non coñece este traballo de Seoane cando proxecta a espléndida identidade corporativa (fig. 11-a-b) da librería Formatos da Coruña (2007), probablemente os autores das marcas da Rede de Bibliotecas de Galicia (fig. 12) e do Cluster do Produto Gráfico e do Libro Galego (fig. 13) tampouco coñecen este deslumbrante traballo de Seoane, de extraordinaria concisión, pero rico en posibilidades de desenvolvemento, un proxecto radicalmente moderno, que mesmo podo atreverme a calificar de _cool_, tanto que 57 anos despois, algúns traballos de hoxe pódense ver como emparentados con aquel, mesmo que os deseñadores de agora descoñezamos a existencia de tan avanzado precedente.

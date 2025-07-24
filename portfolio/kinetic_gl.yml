@@ -2,37 +2,29 @@ id: 204
 title: Kinetic
 slug: kinetic
 body:
-  -
-    text: 'Deseño dunha familia tipográfica sen remates, de inspiración xeométrica e influenciada nas súas formas pola arte de Alexander Calder. Este proxecto inclúe ademais o deseño de todo o material promocional: o móbil inspirado polas esculturas cinéticas de Calder, o catálogo tipográfico impreso, a [páxina web](http://www.kinetictypeface.com/), a [aplicación para móbiles](https://itunes.apple.com/es/app/kinetic-notes/id1169177801?l=en&mt=8) gratuíta, e unha [curta documental](https://vimeo.com/199140896) sobre o proxecto.'
+  - text: "Deseño dunha familia tipográfica sen remates, de inspiración xeométrica e influenciada nas súas formas pola arte de Alexander Calder. Este proxecto inclúe ademais o deseño de todo o material promocional: o móbil inspirado polas esculturas cinéticas de Calder, o catálogo tipográfico impreso, a [páxina web](http://www.kinetictypeface.com/), a [aplicación para móbiles](https://itunes.apple.com/es/app/kinetic-notes/id1169177801?l=en&mt=8) gratuíta, e unha [curta documental](https://vimeo.com/199140896) sobre o proxecto."
     type: text
-  -
-    image: /img/portfolio/images/1-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/1-kinetic.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/2-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/2-kinetic.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/4-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/4-kinetic.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/5-kinetic.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/6-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/6-kinetic.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/22-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/22-kinetic.jpg
+    text: ""
     type: image
-  -
-    info:
+  - info:
       code: '<iframe src="https://player.vimeo.com/video/199140896" width="640" height="360" frameborder="0" title="Kinetic typeface" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
-      ratio: ''
+      ratio: ""
     type: embed
 cover: /img/portfolio/covers/0-kinetic.png
 tags:
@@ -41,13 +33,10 @@ members_id:
   - 56
 lang: gl
 info:
-  -
-    name: 'Estudio:'
-    value: 'NM type'
-  -
-    name: Coautor
-    value: 'Noel Pretorius'
-  -
-    name: 'Ano:'
-    value: '2017'
+  - name: "Estudio:"
+    value: "NM type"
+  - name: Coautor
+    value: "Noel Pretorius"
+  - name: "Ano:"
+    value: "2017"
 draft: true

@@ -1,15 +1,13 @@
 id: 70
-contact: '<iago@iagobarreiro.com>'
+contact: "<iago@iagobarreiro.com>"
 links:
-  -
-    text: Web
-    url: 'https://www.iagobarreiro.com/'
+  - text: Web
+    url: "https://www.iagobarreiro.com/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/iacus/'
+  - text: Instagram
+    url: "https://www.instagram.com/iacus/"
     type: link
-name: 'Iago Barreiro'
+name: "Iago Barreiro"
 slug: iago-barreiro
 avatarBig: null
 avatar: /img/avatars/iago-barreiro.jpg
@@ -18,7 +16,7 @@ tags:
   - Gráfico
   - UX/UI
 draft: false
-bio.gl: 'Deseñador gráfico especializado en identidade visual, deseño UX/UI e desenvolvemento web, con experiencia en diferentes disciplinas e tecnoloxías _online_ e _offline_.'
-bio.es: 'Diseñador gráfico especializado en identidad visual, diseño UX/UI y desarrollo web, con experiencia en diferentes disciplinas y tecnologías _online_ y _offline_.'
-job.gl: 'Deseñador gráfico e programador web en NOVAGARDA'
-job.es: 'Diseñador gráfico y programador web en NOVAGARDA'
+bio.gl: "Deseñador gráfico especializado en identidade visual, deseño UX/UI e desenvolvemento web, con experiencia en diferentes disciplinas e tecnoloxías _online_ e _offline_."
+bio.es: "Diseñador gráfico especializado en identidad visual, diseño UX/UI y desarrollo web, con experiencia en diferentes disciplinas y tecnologías _online_ y _offline_."
+job.gl: "Deseñador gráfico e programador web en NOVAGARDA"
+job.es: "Diseñador gráfico y programador web en NOVAGARDA"

@@ -1,14 +1,12 @@
 id: 665
-title: ' A ILLA, máis que un obradoiro de serigrafía e colaxe'
+title: " A ILLA, máis que un obradoiro de serigrafía e colaxe"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/5735ab0e7d8c1-laisla.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [A ILLA](http://www.laplatanera.com/talleres/la-isla-taller-serigrafiacollage/)
 
       É un encontro entre a colaxe e a serigrafía.
@@ -31,10 +29,9 @@ body:
 
       **Máis información e inscricións en** <info@laplatanera.com>
     type: text
-  -
-    list: ''
-    url: 'https://www.facebook.com/events/1532444873729411/'
-    text: 'Facebook da ILLA'
+  - list: ""
+    url: "https://www.facebook.com/events/1532444873729411/"
+    text: "Facebook da ILLA"
     type: button
 intro: |-
   Que pasa cando unes serigrafía e colaxe?

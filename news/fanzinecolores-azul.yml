@@ -1,17 +1,14 @@
 id: 174
-title: 'fanzinecolores:  #AZUL'
+title: "fanzinecolores:  #AZUL"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Noemí Díaz Patiño Eva Morell Galicia fanzine
 
       fanzinecolores nace coa intención de promover o traballo de artistas emerxentes, novos creadores e aqueles consolidados mediante unha proposta peculiar: a partir dunha cor créanse as obras que formarán parte dun fanzine trimestral e monográfico, a través das súas colaboracións. Hai tantos artistas coma cores podemos inventar, por iso creamos este espazo para eles; e así, este pequeno proxecto nace desde unha idea e coa ilusión de que se converta en algo permanente, incluso máis alá do papel e de internet. Título do primeiro numero: #AZUL n.º páxinas: 44 Encadernación: cunha goma de cores (cada exemplar leva unha diferente) Fanzinecolores é unhaidea de: [Noemí Díaz Patiño](http://www.itrynottothink.com/) [Eva Morell](http://www.evamorell.es/)
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9abbc6f-fanzinecolores-1.jpg
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9abbc6f-fanzinecolores-2.jpg
 intro: null
 slug: fanzinecolores-azul

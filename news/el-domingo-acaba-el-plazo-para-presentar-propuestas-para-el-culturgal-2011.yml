@@ -1,8 +1,7 @@
 id: 281
-title: 'El domingo acaba el plazo para presentar propuestas para el Culturgal 2011'
+title: "El domingo acaba el plazo para presentar propuestas para el Culturgal 2011"
 body:
-  -
-    text: |-
+  - text: |-
       La feria, que está organizada por las más importantes asociaciones del sector con la colaboración de las empresas, de los artistas, de los colectivos y de las instituciones del gremio, es el escaparate ideal para presentar servicios, proyectos e ideas ante las empresas culturales gallegas, un espacio de encuentro en el que conocer y darse a conocer.
 
       Se pueden presentar propuestas de actividades para el Culturgal 2011 hasta el 25 de septiembre y la convocatoria está abierta a empresas, personas, asociaciones y otras entidades que quieran hacer presentaciones de sus productos, servicios, espectáculos, proyectos... Aunque no es necesario que una empresa cuente con un stand en la feria para que su actividad sea elegida para formar parte de la programación, aquellas empresas con un puesto de expositor tienen asegurada la presencia de una actividad de presentación de proyecto o producto, siempre dentro de los espacios y formatos preestablecidos.
@@ -19,12 +18,11 @@ body:
 
       [Formulario de inscrición](http://culturgal.com/docs/Contratacion_Stand.doc)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9ebb2b1-logo-culturgal.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'La cuarta edición del [Culturgal](http://www.culturgal.com/), la gran fiesta de la cultura gallega en la que el año pasado participaron más de 14.000 personas vuelve al recinto ferial del [Palacio de la Cultura de Pontevedra](http://www.pazodacultura.org/) los días 2, 3 y 4 de diciembre.'
+intro: "La cuarta edición del [Culturgal](http://www.culturgal.com/), la gran fiesta de la cultura gallega en la que el año pasado participaron más de 14.000 personas vuelve al recinto ferial del [Palacio de la Cultura de Pontevedra](http://www.pazodacultura.org/) los días 2, 3 y 4 de diciembre."
 slug: el-domingo-acaba-el-plazo-para-presentar-propuestas-para-el-culturgal-2011
 tags: []
 lang: es

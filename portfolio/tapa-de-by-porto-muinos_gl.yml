@@ -1,21 +1,17 @@
 id: 69
-title: 'Tapa de by Porto Muíños'
+title: "Tapa de by Porto Muíños"
 slug: tapa-de-by-porto-muinos
 body:
-  -
-    text: 'Deseño do _packaging_  de tapas de algas e cogomelos en que as ilustracións vectoriais de trazo solto con forte protagonismo cromático conviven con tipografías contundentes da familia Helvética Neue.'
+  - text: "Deseño do _packaging_  de tapas de algas e cogomelos en que as ilustracións vectoriais de trazo solto con forte protagonismo cromático conviven con tipografías contundentes da familia Helvética Neue."
     type: text
-  -
-    image: /img/portfolio/images/55a3d64ec5984-luisgalan-tapade1.jpg
-    text: ''
+  - image: /img/portfolio/images/55a3d64ec5984-luisgalan-tapade1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55a3d64ec5c66-luisgalan-tapade02.jpg
-    text: ''
+  - image: /img/portfolio/images/55a3d64ec5c66-luisgalan-tapade02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55a3d64ec5e84-luisgalan-tapade03.jpg
-    text: ''
+  - image: /img/portfolio/images/55a3d64ec5e84-luisgalan-tapade03.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55a3d6af45826-cuberta.png
 tags:
@@ -24,13 +20,10 @@ members_id:
   - 17
 lang: gl
 info:
-  -
-    name: Estudio
-    value: 'Sistema Deseño'
-  -
-    name: Cliente
-    value: 'Porto Muiños'
-  -
-    name: Ano
-    value: '2010'
+  - name: Estudio
+    value: "Sistema Deseño"
+  - name: Cliente
+    value: "Porto Muiños"
+  - name: Ano
+    value: "2010"
 draft: false

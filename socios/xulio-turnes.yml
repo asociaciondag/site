@@ -8,31 +8,25 @@ contact: |-
 
   M. <xulio@domohomo.es>
 links:
-  -
-    text: Web
-    url: 'http://domohomo.es/'
+  - text: Web
+    url: "http://domohomo.es/"
     type: link
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/Domohomo-arquitectos-336020066470116/'
+  - text: Facebook
+    url: "https://www.facebook.com/Domohomo-arquitectos-336020066470116/"
     type: facebook
-  -
-    text: Twitter
-    url: 'https://mobile.twitter.com/domohomo_design'
+  - text: Twitter
+    url: "https://mobile.twitter.com/domohomo_design"
     type: twitter
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/_domohomo_/'
+  - text: Instagram
+    url: "https://www.instagram.com/_domohomo_/"
     type: link
-  -
-    text: Pinterest
-    url: 'https://es.pinterest.com/domohomo/'
+  - text: Pinterest
+    url: "https://es.pinterest.com/domohomo/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/xulio-turnes-vieito-5b67b954?trk=hp-identity-name'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/xulio-turnes-vieito-5b67b954?trk=hp-identity-name"
     type: linkedin
-name: 'Xulio Turnes'
+name: "Xulio Turnes"
 slug: xulio-turnes
 avatarBig: null
 avatar: /img/avatars/56e06a20dfb75-xulio-turnes.jpeg
@@ -46,5 +40,5 @@ bio.es: |-
   Arquitecto de profesión, diseñador de vocación. Desde niño, me he criado entre tablas y herramientas de carpintería. Fue mi padre, carpintero-ebanista, quien me inculcó la pasión por la madera. Desde entonces, este material siempre me ha acompañado, tanto en mis proyectos de arquitectura como en mis creaciones de mobiliario. Esta última línea creativa, se ha convertido en una auténtica pasión. Además de concebir espacios, surgió la necesidad también de diseñar piezas de mobiliario que definiesen el carácter de las estancias.
 
   He sido seleccionado para la IV bienal Iberoamericana del diseño y también para la París Design Week del año 2015.
-job.gl: 'Arquitecto e deseñador en domohomo'
-job.es: 'Arquitecto y diseñador en domohomo'
+job.gl: "Arquitecto e deseñador en domohomo"
+job.es: "Arquitecto y diseñador en domohomo"

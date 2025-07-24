@@ -1,13 +1,11 @@
 id: 398
-title: 'Mami natureza, campaña postal'
+title: "Mami natureza, campaña postal"
 slug: mami-natureza-campana-postal
 body:
-  -
-    image: /img/portfolio/images/mahoma2.jpg
-    text: ''
+  - image: /img/portfolio/images/mahoma2.jpg
+    text: ""
     type: image
-  -
-    text: '[Mami natureza, campaña postal](https://davidrivada.es/postal.html)'
+  - text: "[Mami natureza, campaña postal](https://davidrivada.es/postal.html)"
     type: text
 cover: /img/portfolio/covers/mahoma2.jpg
 tags:

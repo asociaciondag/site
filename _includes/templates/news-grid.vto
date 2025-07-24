@@ -1,0 +1,37 @@
+<div>
+  <article class="new new-grid">
+    {{ for block of news.body }}
+      {{ if block.list === "before" }}
+        {{ include `blocks/${block.type}-list.vto` {block} }}
+      {{ /if }}
+    {{ /for }}
+
+    <header class="new-header">
+      <nav>
+        {{ for tag of news.tags }}
+          <a href="{{ tag }}">{{ tag }}</a>
+        {{ /for }}
+      </nav>
+
+      <time datetime='{{ news.date |> date("DATETIME") }}'>
+        {{ news.date |> date("HUMAN_DATE") }}
+      </time>
+
+      <h1>
+        <a href="{{ news.url }}">
+          {{ news.title }}
+        </a>
+      </h1>
+    </header>
+
+    <div class="new-intro">
+      {{ news.intro |> md }}
+    </div>
+
+    {{ for block of news.body }}
+      {{ if block.list === "after" }}
+        {{ include `blocks/${block.type}-list.vto` { block } }}
+      {{ /if }}
+    {{ /for }}
+  </article>
+</div>

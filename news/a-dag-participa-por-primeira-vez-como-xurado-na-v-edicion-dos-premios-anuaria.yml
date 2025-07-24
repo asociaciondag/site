@@ -1,8 +1,7 @@
 id: 396
-title: 'A DAG participa por primeira vez como xurado na V edición dos premios Anuaria'
+title: "A DAG participa por primeira vez como xurado na V edición dos premios Anuaria"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       O pasado venres 28 de setembro reuniuse en Barcelona o xurado dos premios internacionais de deseño gráfico de España e Portugal ANUARIA.
 
@@ -11,8 +10,7 @@ body:
       Canto á presenza galega nas 27 categorías premiadas, esta destacou especialmente na categoría do [premio ao mellor catálogo](http://www.veredictas.com/index.php?md=premis&accio=guanyadors&id_categoria=294) que gañou a axencia coruñesa [Unlimit-ed](http://www.unlimitedcreativegroup.com/) e na que tamén resultaron finalistas os nosos socios do estudio [Era Comunicación](http://www.eracomunicacion.com/), con sede en Pontevedra.
 
       Podes consultar a relación de premiados no enlace: [Gañadores Anuaria 2012](http://www.veredictas.com/premios/premios-anuaria/galeria-premiados-anuaria/ganadores-2012.html)
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa265613-xurado-anuaria.jpg
 intro: null
 slug: a-dag-participa-por-primeira-vez-como-xurado-na-v-edicion-dos-premios-anuaria

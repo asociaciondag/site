@@ -1,19 +1,16 @@
 id: 116
 contact: null
 links:
-  -
-    text: Web
-    url: 'https://www.ismaelvelo.com/'
+  - text: Web
+    url: "https://www.ismaelvelo.com/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/ismael.velo/'
+  - text: Instagram
+    url: "https://www.instagram.com/ismael.velo/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/ismaelvelofeijoo/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/ismaelvelofeijoo/"
     type: link
-name: 'Ismael Velo'
+name: "Ismael Velo"
 slug: ismaelvelo
 avatarBig: null
 avatar: /img/avatars/dsc-1210-square.jpg
@@ -25,7 +22,7 @@ tags:
   - Iluminación
   - Mobiliario
 draft: false
-bio.gl: 'Deseñador de produto ourensán actualmente afincado en Amsterdam. Artesán de corazón e deseñador de formación, desfruto do proceso de deseño e desenvolvemento de produtos físicos na súa maioría, de beleza sinxela e que teñan un impacto positivo na vida das persoas.'
-bio.es: 'Diseñador de producto ourensano actualmente afincado en Amsterdam. Artesano de corazón y diseñador de formación, disfruto del proceso de diseño y desarrollo de productos físicos en su mayoría, de belleza sencilla y que tengan un impacto positivo en la vida de las personas.'
-job.gl: 'Deseñador de produto'
-job.es: 'Diseñador de producto'
+bio.gl: "Deseñador de produto ourensán actualmente afincado en Amsterdam. Artesán de corazón e deseñador de formación, desfruto do proceso de deseño e desenvolvemento de produtos físicos na súa maioría, de beleza sinxela e que teñan un impacto positivo na vida das persoas."
+bio.es: "Diseñador de producto ourensano actualmente afincado en Amsterdam. Artesano de corazón y diseñador de formación, disfruto del proceso de diseño y desarrollo de productos físicos en su mayoría, de belleza sencilla y que tengan un impacto positivo en la vida de las personas."
+job.gl: "Deseñador de produto"
+job.es: "Diseñador de producto"

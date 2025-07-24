@@ -1,74 +1,60 @@
 id: 29
-title: 'El diseño en la historia de la prensa gallega (I)'
-author: 'Ana Boquete'
+title: "El diseño en la historia de la prensa gallega (I)"
+author: "Ana Boquete"
 body:
-  -
-    text: 'En el año 1800 aparece el primer periódico gallego, _El Catón Compostelano_. Impreso por Heredera de Frayz en octava, fue un periódico de diseño austero compuesto a una sola columna con tipos con serifa, sin ningún tipo de alarde ornamental en su cabecera. Tenía un tamaño reducido, menor al de un A4 y solo dieciseis páginas, se publicaba cada semana en Compostela en castellano y aunque se desconoce quien fue el fundador, Manuel Murguía atribuyó la dirección a Francisco del Valle Inclán.'
+  - text: "En el año 1800 aparece el primer periódico gallego, _El Catón Compostelano_. Impreso por Heredera de Frayz en octava, fue un periódico de diseño austero compuesto a una sola columna con tipos con serifa, sin ningún tipo de alarde ornamental en su cabecera. Tenía un tamaño reducido, menor al de un A4 y solo dieciseis páginas, se publicaba cada semana en Compostela en castellano y aunque se desconoce quien fue el fundador, Manuel Murguía atribuyó la dirección a Francisco del Valle Inclán."
     type: text
-  -
-    image: /img/articles/images/fig-1-el-caton-compostelano.jpg
-    text: 'Figura 1. _El Catón Compostelano_ comienza a publicarse el 1 de mayo de 1800 en Santiago de Compostela. Debido a la invasión francesa no se publicarán nuevos periódicos hasta ocho años más tarde.'
+  - image: /img/articles/images/fig-1-el-caton-compostelano.jpg
+    text: "Figura 1. _El Catón Compostelano_ comienza a publicarse el 1 de mayo de 1800 en Santiago de Compostela. Debido a la invasión francesa no se publicarán nuevos periódicos hasta ocho años más tarde."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Han pasado más de 220 años desde que apareció la prensa en Galicia y, a día de hoy, podemos saber que se imprimieron millares de periódicos y revistas, gracias a los estudios de Enrique Santos Gayoso o los monográficos sobre la Historia de la Imprenta de Antonio Odriozola y Xosé Ramón Barreiro.
 
       A pesar de que la producción impresa en Galicia ha sido un tema tratado desde la óptica de la historia, aún nos falta construir y sobre todo documentar las piezas y el papel del diseño en la historia de la prensa gallega.
     type: text
-  -
-    image: /img/articles/images/fig-2-xornais-decada-1810.jpg
-    text: 'Figura 2. _Diario de La Coruña_ (1808), _Diario de Santiago_ (1808), _Telégrafo Político y Literario de La Coruña_ (1808).'
+  - image: /img/articles/images/fig-2-xornais-decada-1810.jpg
+    text: "Figura 2. _Diario de La Coruña_ (1808), _Diario de Santiago_ (1808), _Telégrafo Político y Literario de La Coruña_ (1808)."
     mode: normal
     type: image
-  -
-    text: 'Dando un paso más allá de inventariar o cuantificar los periódicos y revistas publicados, desde la perspectiva del diseño podemos observar la necesidad de recopilar y analizar sus portadas y sus cabeceras para acercarnos a temas como la evolución en las composiciones y tipografías utilizadas, los anuncios y la historia de nuestra publicidad y otros aspectos tan fundamentales como poner nombre a las impresoras que formaban parte de los talleres tipográficos, dejando atrás los apelativos de «viúda de» para poner nombre y apellidos a las que podemos considerar las primeras diseñadoras editoriales gallegas.'
+  - text: "Dando un paso más allá de inventariar o cuantificar los periódicos y revistas publicados, desde la perspectiva del diseño podemos observar la necesidad de recopilar y analizar sus portadas y sus cabeceras para acercarnos a temas como la evolución en las composiciones y tipografías utilizadas, los anuncios y la historia de nuestra publicidad y otros aspectos tan fundamentales como poner nombre a las impresoras que formaban parte de los talleres tipográficos, dejando atrás los apelativos de «viúda de» para poner nombre y apellidos a las que podemos considerar las primeras diseñadoras editoriales gallegas."
     type: text
-  -
-    image: /img/articles/images/fig-3-exacto-correo-de-espan-a-en-la-coruna.jpg
-    text: 'Figura 3. _Exacto_ _Correo de España en La Coruña_. Aparece el 22 de deciembre de 1810, a partir de este momento empezamos a ver diseños más cuidados en las cabeceras de los periódicos.'
+  - image: /img/articles/images/fig-3-exacto-correo-de-espan-a-en-la-coruna.jpg
+    text: "Figura 3. _Exacto_ _Correo de España en La Coruña_. Aparece el 22 de deciembre de 1810, a partir de este momento empezamos a ver diseños más cuidados en las cabeceras de los periódicos."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La prensa es, además, un objeto de estudio en el que podemos encontrar un reflejo de la historia gallega y como ha sido transmitida, como se han ido trasladando los acontecimientos a la población, en que lengua, que tipo de revistas y publicaciones literarias o humorísticas se demandaban, disfrutar de ilustraciones, retratos o caricaturas o leer muchos de los primeros textos de las grandes escritoras de la literatura gallega; también podemos convertirnos en testimonio del calado o la importancia de personajes como Rosalía de Castro y todos las homenajes que surgieron a raíz de su muerte.
 
       Con este artículo iniciamos una serie de publicaciones en las que podremos ver las portadas de los principales periódicos y revistas de cada época y como fue evolucionando el papel del diseño en ellas.
     type: text
-  -
-    image: /img/articles/images/fig-4-semanario-instructivo-prospecto-n1.jpg
-    text: 'Figura 4. _Semanario Instructivo_, primera revista ilustrada publicada en Galicia. Prospecto y número 1.'
+  - image: /img/articles/images/fig-4-semanario-instructivo-prospecto-n1.jpg
+    text: "Figura 4. _Semanario Instructivo_, primera revista ilustrada publicada en Galicia. Prospecto y número 1."
     mode: normal
     type: image
-  -
-    image: /img/articles/images/fig-5-ilustracion-seminario-instructivo.jpg
-    text: 'Figura 5. Litografía de Ramón Gil Rey incluida en el número 1 de _Semanario Instructivo_.'
+  - image: /img/articles/images/fig-5-ilustracion-seminario-instructivo.jpg
+    text: "Figura 5. Litografía de Ramón Gil Rey incluida en el número 1 de _Semanario Instructivo_."
     mode: right
     type: image
-  -
-    text: 'Comenzaremos viendo la austeridad que caracterizó a los periódicos gallegos en las cuatro primeras décadas de la prensa, desde la publicación de _El Catón Compostelano_, en el año 1800, a la aparición de la primera revista ilustrada en Galicia en 1838, _Semanario Instructivo_, que ya contaba con litografías e ilustraciones policromadas.'
+  - text: "Comenzaremos viendo la austeridad que caracterizó a los periódicos gallegos en las cuatro primeras décadas de la prensa, desde la publicación de _El Catón Compostelano_, en el año 1800, a la aparición de la primera revista ilustrada en Galicia en 1838, _Semanario Instructivo_, que ya contaba con litografías e ilustraciones policromadas."
     type: text
-  -
-    text: 'El siguiente bloque nos trasladará hasta la mitad del siglo XIX y veremos en las publicaciones el reflejo de las nuevas tendencias políticas centradas en recuperar los derechos y libertades que en algún momento se habían tenido. Veremos periódicos y revistas vinculadas al posicionamento ideológico regionalista, preocupadas por la situación socioeconómica de Galicia y por las raíces literarias e históricas. La presencia de litografías o ilustraciones comenzará a ser más común y también la fotografía, pues será en el año 1843 cuando Enrique Luard abrirá la primera tienda de fotografía en la rúa San Andrés de la ciudad de A Coruña.'
+  - text: "El siguiente bloque nos trasladará hasta la mitad del siglo XIX y veremos en las publicaciones el reflejo de las nuevas tendencias políticas centradas en recuperar los derechos y libertades que en algún momento se habían tenido. Veremos periódicos y revistas vinculadas al posicionamento ideológico regionalista, preocupadas por la situación socioeconómica de Galicia y por las raíces literarias e históricas. La presencia de litografías o ilustraciones comenzará a ser más común y también la fotografía, pues será en el año 1843 cuando Enrique Luard abrirá la primera tienda de fotografía en la rúa San Andrés de la ciudad de A Coruña."
     type: text
-  -
-    image: /img/articles/images/fig-6-o-vello-do-pico-sagro-n1.jpg
-    text: 'Figura 6. _O Vello do Pico-Sagro_ (1860) primera revista escrita completamente en gallego.'
+  - image: /img/articles/images/fig-6-o-vello-do-pico-sagro-n1.jpg
+    text: "Figura 6. _O Vello do Pico-Sagro_ (1860) primera revista escrita completamente en gallego."
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       Será también durante esta época, en el año 1860, cuando se publique la primera revista escrita enteramente en gallego, _O Vello do Pico-Sagro_. Desde este momento aflorarán las revistas y periódicos escritos en gallego, aunque nunca llegarán a ser la mayoría. En este tercer bloque veremos muchas revistas ilustradas, las composiciones también se verán influenciadas por las corrientes artísticas y vanguardistas que comenzarán a coexistir en las siguientes décadas.
 
       Podréis seguir toda esta serie de publicaciones desde la web y las redes sociales de la DAG.
     type: text
-  -
-    text: |-
+  - text: |-
       **Referencias bibliográficas**
 
       - Gayoso, E. S. (1990). _Historia de la prensa gallega, 1800-1986_. Sada, España: Ediciós do Castro.
       - Odriozola, A., &amp; Fernández, J. R. B. (1992). _Historia de la imprenta en Galicia_. Santiago de Compostela, España: Biblioteca Gallega.
-       
+
       © Imágenes contenidas en el artículo: [Galiciana-Biblioteca Dixital de Galicia](http://www.galiciana.bibliotecadegalicia.xunta.es/es/inicio/inicio.do).
     type: text
 position: null

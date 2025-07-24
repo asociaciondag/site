@@ -1,8 +1,7 @@
 id: 727
-title: 'La READ promueve el decálogo ético para la práctica del diseño'
+title: "La READ promueve el decálogo ético para la práctica del diseño"
 body:
-  -
-    text: |-
+  - text: |-
       El decálogo se comenzó a gestar en el 4ENAD Encuentro Nacional de Diseño por un grupo de profesionales del diseño, como punto de partida a la elaboración de un Código Deontológico del diseño, abierto e inclusivo, que pretende servir de referencia a toda la comunidad relacionada con el Diseño.
 
       En su elaboración han participado: Xavi Calvo, Jesús Ángel Alonso, Mari Carmen Estevan, Esteban Julio Zamora, Carlos G. Martín, Francisco del Campo, Santiago Blanc, Esther Muñoz, David Gopar, Abel de Benito, Rodolfo Fernández, Toni Mañach Moreno, Kike Correcher y Uqui Permui.
@@ -19,10 +18,10 @@ body:
       8. Nos implicamos con quien nos contrata, velando tanto por el proyecto como por la información que nos confían. Definimos el trabajo y la remuneración de forma transparente.
       9. Adquirimos los conocimientos necesarios, y mantenemos en todo momento el interés por actualizarlos para ofrecer siempre los resultados más convenientes.
       10. Transmitimos estos valores a todas las personas relacionadas con nuestra profesión, como parte de nuestro trabajo, tratando siempre de fomentar las buenas prácticas en el diseño.
-       
+
       Todas las aportaciones que deseéis formular las podéis enviar a <uquipermui@designread.es> Asunto: Código Deontológico. Gracias
     type: text
-intro: 'Con este decálogo la READ pretende establecer un marco de fundamentos éticos para la práctica del diseño, teniendo en cuenta las recomendaciones realizadas por organismos internacionales como Ico-D, ICSID e IFI.'
+intro: "Con este decálogo la READ pretende establecer un marco de fundamentos éticos para la práctica del diseño, teniendo en cuenta las recomendaciones realizadas por organismos internacionales como Ico-D, ICSID e IFI."
 slug: la-read-promueve-el-decalogo-etico-para-la-practica-del-diseno
 tags: []
 lang: es

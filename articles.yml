@@ -2,4 +2,4 @@ id: articles
 main_menu: news
 url.es: /es/articulos/
 url.gl: /gl/artigos/
-layout: layouts/article_list.njk
+layout: layouts/article_list.vto

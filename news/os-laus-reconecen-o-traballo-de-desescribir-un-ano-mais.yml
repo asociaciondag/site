@@ -1,25 +1,22 @@
 id: 734
-title: 'Os Laus recoñecen o traballo de desescribir un ano máis'
+title: "Os Laus recoñecen o traballo de desescribir un ano máis"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/laus-bronce-desescribir-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Na edición deste ano concorrían 1100 proxectos en cinco categorías diferentes: Deseño Gráfico, Dixital, Creatividade Publicitaria, Audiovisuais e Estudantes, por tanto, nada nos alegra máis que saber que os nosos socios [Suso Vázquez](https://dag.gal/gl/suso-vazquez-gomez/) e [Cibrán Rico](https://dag.gal/gl/cibran-rico-lopez/), [desescribir](http://www.desescribir.com/), se encontran entre os galardoados.
 
       Nesta ocasión o traballo premiado polo xurado cun Laus de bronce na categoría de Libro completo foi [Altres glòries](http://adg-fad.org/es/laus/proyecto/altres-glories-other-glories), o libro que deseñaron para deumésu. Para este proxecto, os autores requirían dous bloques diferenciados: proposta e proceso, e unha estrutura capaz de ordenar un material gráfico variado e complexo acompañado de textos en dous idiomas. De acordo con estas indicacións, o libro concibiuse como un dossier. As páxinas aparecen divididas en dúas áreas, unha para cada idioma, e a narración gráfica discorre polo centro. Pola súa parte, os dous bloques de contidos (proposta e proceso) diferéncianse polo tipo de papel.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/laus-bronce-desescribir-2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'O pasado 30 de xuño a Asociación de Deseñadores Gráficos e Directores de Arte do FAD, ADG-FAD, entregaba en Barcelona os Premios Laus de Deseño Gráfico e Comunicación Visual.'
+intro: "O pasado 30 de xuño a Asociación de Deseñadores Gráficos e Directores de Arte do FAD, ADG-FAD, entregaba en Barcelona os Premios Laus de Deseño Gráfico e Comunicación Visual."
 slug: os-laus-reconecen-o-traballo-de-desescribir-un-ano-mais
 tags: []
 lang: gl

@@ -4,15 +4,13 @@ contact: |-
 
   daniel@daniel-pino.com
 links:
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/ratasconfaca/'
+  - text: Instagram
+    url: "https://www.instagram.com/ratasconfaca/"
     type: facebook
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/dani-el-pino/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/dani-el-pino/"
     type: linkedin
-name: 'Daniel Pino'
+name: "Daniel Pino"
 slug: daniel-pino
 avatarBig: null
 avatar: /img/avatars/daniel-pino.jpg
@@ -23,5 +21,5 @@ tags:
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

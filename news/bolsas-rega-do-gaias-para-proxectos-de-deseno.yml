@@ -1,14 +1,12 @@
 id: 1230
-title: 'Bolsas REGA do Gaiá​s​ para proxectos de deseño '
+title: "Bolsas REGA do Gaiá​s​ para proxectos de deseño "
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/img-0479.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       As bolsas REGA están dotadas con 8.000 euros cada unha. O Gaiás pon a disposición das persoas beneficiarias os recursos técnicos e espazos necesarios para que poidan materializar as súas propostas nunha estadía de entre tres semanas e un mes e medio na Cidade da Cultura, que se realizará entre os meses de setembro e novembro de 2023. Ademais, contarán cunha persoa mentora especialista que acompañará cada iniciativa.
 
       Selecionaranse catro proxectos, un por cada área. O tribunal de avaliación valorará de maneira positiva ligazóns a proxectos con outras disciplinas non recollidas nas bases, amosando o carácter híbrido da cultura contemporánea. O resultado dos proxectos poderá ter unha vertente investigadora, unha dimensión práctica ou mixta, e darase a coñecer de maneira pública na Cidade da Cultura. Ademais, poderán formar parte do programa cultural do Gaiás.
@@ -17,12 +15,11 @@ body:
 
       O prazo de presentación de solicitudes vai desde o 2 de xuño ata o 3 de xullo ambos inclusive. E preferiblemente a solicitude frarase por medios electrónicos.​​
     type: text
-  -
-    list: ''
-    url: 'https://www.cidadedacultura.gal/gl/evento/axudas-rega-2023-residencias-artisticas-do-gaias'
-    text: 'Máis información'
+  - list: ""
+    url: "https://www.cidadedacultura.gal/gl/evento/axudas-rega-2023-residencias-artisticas-do-gaias"
+    text: "Máis información"
     type: button
-intro: 'A Xunta de Galicia, a través da Fundación Cidade da Cultura, convoca unha nova edició​​n do programa de residencias artísticas do Gaiás na procura de proxectos artísticos e culturais vencellados ás artes visuais, escénicas, á música e ao deseño.'
+intro: "A Xunta de Galicia, a través da Fundación Cidade da Cultura, convoca unha nova edició​​n do programa de residencias artísticas do Gaiás na procura de proxectos artísticos e culturais vencellados ás artes visuais, escénicas, á música e ao deseño."
 slug: bolsas-rega-do-gaias-para-proxectos-de-deseno
 tags: []
 lang: gl

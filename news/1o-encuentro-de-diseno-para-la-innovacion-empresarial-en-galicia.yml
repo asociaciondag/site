@@ -1,29 +1,25 @@
 id: 812
-title: '1º Encuentro de Diseño para la Innovación Empresarial en Galicia '
+title: "1º Encuentro de Diseño para la Innovación Empresarial en Galicia "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/i-encontro-deseno.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Se trata de una de las actividades enmarcada dentro del nuevo Plan de Diseño para la Innovación 2020 que se dirige a todos los diseñadores gallegos de todos los ámbitos (industrial, gráfico, de producto, organizacional, digital y multimedia), estudiantes de esta especialidad y representantes de empresas y otras entidades interesadas en potenciar el diseño como herramienta de innovación y competitividad en sus organizaciones.
 
       El programa incluye conferencias, espacios expositivos, reuniones bilaterales entre diseñadores y empresas, y la inscripción es gratuita.
     type: text
-  -
-    list: ''
-    url: 'http://www.ris3galicia.es/wp-content/uploads/2018/06/Programa.pdf'
-    text: 'Programa del encuentro'
+  - list: ""
+    url: "http://www.ris3galicia.es/wp-content/uploads/2018/06/Programa.pdf"
+    text: "Programa del encuentro"
     type: button
-  -
-    list: ''
-    url: 'http://web4.cisgalicia.net/enc_desenho.html'
-    text: 'Formulario de inscripción'
+  - list: ""
+    url: "http://web4.cisgalicia.net/enc_desenho.html"
+    text: "Formulario de inscripción"
     type: button
-intro: 'Con motivo del Día Mundial del Diseño Industrial, la Consellería de Economía, Empleo e Industria, a través de la Agencia Gallega de Innovación (GAIN) organiza el próximo 28 de junio de 2018 el I Encuentro de Diseño para la Innovación Empresarial en el CIS Galicia de Ferrol.'
+intro: "Con motivo del Día Mundial del Diseño Industrial, la Consellería de Economía, Empleo e Industria, a través de la Agencia Gallega de Innovación (GAIN) organiza el próximo 28 de junio de 2018 el I Encuentro de Diseño para la Innovación Empresarial en el CIS Galicia de Ferrol."
 slug: 1o-encuentro-de-diseno-para-la-innovacion-empresarial-en-galicia
 tags: []
 lang: es

@@ -2,42 +2,34 @@ id: 157
 title: Cousalinda
 slug: cousalinda
 body:
-  -
-    text: 'Cousalinda, es una tienda de moda y complementos para mujer, principalmente. El proyecto nace con la ideación de un nombre propio, partiendo de la forma de ser, de comunicarse de sus propietarias. Femenina, neutral en cuanto a colores, versátil y con "cierto toque", fueron las premisas que tuvimos en cuenta para desarrollar esta imagen corporativa y su embalaje. Las cajas de palomitas aportan esa diferenciación en cuanto a la presentación del producto como regalo.'
+  - text: 'Cousalinda, es una tienda de moda y complementos para mujer, principalmente. El proyecto nace con la ideación de un nombre propio, partiendo de la forma de ser, de comunicarse de sus propietarias. Femenina, neutral en cuanto a colores, versátil y con "cierto toque", fueron las premisas que tuvimos en cuenta para desarrollar esta imagen corporativa y su embalaje. Las cajas de palomitas aportan esa diferenciación en cuanto a la presentación del producto como regalo.'
     type: text
-  -
-    image: /img/portfolio/images/555cde8c77680-cousalinda-01.jpg
-    text: ''
+  - image: /img/portfolio/images/555cde8c77680-cousalinda-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cde8c77d9d-cousalinda-02.jpg
-    text: ''
+  - image: /img/portfolio/images/555cde8c77d9d-cousalinda-02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cde8c783ea-cousalinda-03.jpg
-    text: ''
+  - image: /img/portfolio/images/555cde8c783ea-cousalinda-03.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cde8c78a2c-cousalinda-04.jpg
-    text: ''
+  - image: /img/portfolio/images/555cde8c78a2c-cousalinda-04.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55855d0dddfe1-555cde8c77d9d-cousalinda-02.jpg
 tags:
   - Embalaxe
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 3
   - 18
 lang: es
 info:
-  -
-    name: Estudio
-    value: 'Ekinocio comunicación'
-  -
-    name: Cliente
-    value: 'Miñi e Curru Barreiro'
-  -
-    name: Año
-    value: '2012'
+  - name: Estudio
+    value: "Ekinocio comunicación"
+  - name: Cliente
+    value: "Miñi e Curru Barreiro"
+  - name: Año
+    value: "2012"
 draft: true

@@ -1,15 +1,13 @@
 id: 238
-title: 'Cada día somos máis!'
+title: "Cada día somos máis!"
 body:
-  -
-    text: '"Somos Irene e Raquel, ou o que é o mesmo, [ekinocio](http://ekinocio.com/). Estudamos Publicidade e RRPP en Pontevedra, e levamos desde o 2005 facendo da creatividade o noso medio de vida. O noso pequeno obradoiro de soños está na zona vella de Compostela. Alí facemos e desfacemos, xogamos con cores, formas e letras, probamos materiais... damos xeito aos proxectos alleos converténdoos nos nosos. Como case todos os que se dedican a isto dámoslle a moitos paus distintos, desde as imaxes corporativas ata as webs, pasando por todo tipo de gráfica aplicada, pero recoñecemos que o papel aínda nos ten cativadas. Asociámonos á DAG porque cremos na conciencia do colectivo, na mellora e dignificación da profesión, na filosofía de compartir e non competir... porque queremos participar e vemos nisto unha forma xenial de facelo."'
+  - text: '"Somos Irene e Raquel, ou o que é o mesmo, [ekinocio](http://ekinocio.com/). Estudamos Publicidade e RRPP en Pontevedra, e levamos desde o 2005 facendo da creatividade o noso medio de vida. O noso pequeno obradoiro de soños está na zona vella de Compostela. Alí facemos e desfacemos, xogamos con cores, formas e letras, probamos materiais... damos xeito aos proxectos alleos converténdoos nos nosos. Como case todos os que se dedican a isto dámoslle a moitos paus distintos, desde as imaxes corporativas ata as webs, pasando por todo tipo de gráfica aplicada, pero recoñecemos que o papel aínda nos ten cativadas. Asociámonos á DAG porque cremos na conciencia do colectivo, na mellora e dignificación da profesión, na filosofía de compartir e non competir... porque queremos participar e vemos nisto unha forma xenial de facelo."'
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9d60797-ekinocio.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Amodiño e sen facer ruído, pero así é: a DAG medra! E cada día son máis os nomes que se van sumando a esa xa longa listaxe de socios da web. Entre estes novos habitantes da DAG que foron chegando nos últimos meses están María Agra, [Diego Carracedo](http://www.multipla.es/), [Víctor Núñez](http://www.multipla.es/), [Puri Díaz](http://www.edea.es/), [Manuel del Río](http://cenlitrosmetrocadrado.com/gl), [Ricardo Tubío](http://cenlitrosmetrocadrado.com/gl) ou [Xabier Rilo](http://cenlitrosmetrocadrado.com/gl), caras novas ás que agora temos que engadir as de Raquel e Irene. Conscientes como somos de que o principal valor dunha asociación son as persoas, non queremos que este capital pase desapercibido por máis tempo e decidimos traelo á portada. A partir de agora, por aquí irán desfilando todos os novos socios e como alguén tiña que ser o primeiro, comezamos con estas dúas mozas que elas mesmas se presentan:'
+intro: "Amodiño e sen facer ruído, pero así é: a DAG medra! E cada día son máis os nomes que se van sumando a esa xa longa listaxe de socios da web. Entre estes novos habitantes da DAG que foron chegando nos últimos meses están María Agra, [Diego Carracedo](http://www.multipla.es/), [Víctor Núñez](http://www.multipla.es/), [Puri Díaz](http://www.edea.es/), [Manuel del Río](http://cenlitrosmetrocadrado.com/gl), [Ricardo Tubío](http://cenlitrosmetrocadrado.com/gl) ou [Xabier Rilo](http://cenlitrosmetrocadrado.com/gl), caras novas ás que agora temos que engadir as de Raquel e Irene. Conscientes como somos de que o principal valor dunha asociación son as persoas, non queremos que este capital pase desapercibido por máis tempo e decidimos traelo á portada. A partir de agora, por aquí irán desfilando todos os novos socios e como alguén tiña que ser o primeiro, comezamos con estas dúas mozas que elas mesmas se presentan:"
 slug: cada-dia-somos-mais
 tags: []
 lang: gl

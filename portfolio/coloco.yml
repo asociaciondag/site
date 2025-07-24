@@ -2,31 +2,25 @@ id: 34
 title: Coloco
 slug: coloco
 body:
-  -
-    text: |-
+  - text: |-
       Coloco es un conjunto de piezas modulares destinado a actividades deportivas para niños de entre 4 y 6 años. Se fabrica en espuma de poliuretano flexible.
 
       Proyecto desarrollado en el Máster de diseño de Mobiliario dirigido por Ricard Ferrer, que se imparte en la escuela Elisava (Escola Superior de Disseny i Enginyeria) de Barcelona.
     type: text
-  -
-    image: /img/portfolio/images/555cdb6fad5e4-3-coloco-imagen1-01.jpg
-    text: ''
+  - image: /img/portfolio/images/555cdb6fad5e4-3-coloco-imagen1-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cdb6fadbb5-3-coloco-imagen2-01.jpg
-    text: ''
+  - image: /img/portfolio/images/555cdb6fadbb5-3-coloco-imagen2-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cdb6fae139-3-coloco-imagen3-01.jpg
-    text: ''
+  - image: /img/portfolio/images/555cdb6fae139-3-coloco-imagen3-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cdb6fae8d8-3-coloco-imagen4-01.jpg
-    text: ''
+  - image: /img/portfolio/images/555cdb6fae8d8-3-coloco-imagen4-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cdb6faee25-3-coloco-imagen5-01.jpg
-    text: ''
+  - image: /img/portfolio/images/555cdb6faee25-3-coloco-imagen5-01.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585635faeacb-555cdb6fae8d8-3-coloco-imagen4-01.jpg
 tags:
@@ -37,13 +31,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'ROK Design'
-  -
-    name: Cliente
-    value: 'Proyecto desarrollado en el Máster de diseño de Mobiliario, Elisava (Escola Superior de Disseny i Enginyeria) de Barcelona.'
-  -
-    name: Ano
-    value: '2012'
+  - name: Estudio
+    value: "ROK Design"
+  - name: Cliente
+    value: "Proyecto desarrollado en el Máster de diseño de Mobiliario, Elisava (Escola Superior de Disseny i Enginyeria) de Barcelona."
+  - name: Ano
+    value: "2012"
 draft: false

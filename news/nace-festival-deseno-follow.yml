@@ -1,29 +1,26 @@
 id: 1022
-title: 'Nace en Galicia o Festival de Deseño #follow'
+title: "Nace en Galicia o Festival de Deseño #follow"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/follow20.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Os contidos do festival estarán divididos en seis actividades diferentes e nelas participarán varios socios e socias da DAG. Na sección de «stories» —pequenas pezas documentais— veremos a David Silvosa e Dani Bembibre do estudio [Costa](http://costa.io), xunto con María Ramos do estudio [NM Type](http://www.nmtype.com); tamén será protagonista a nosa socia Conchi Mayo como representante do estudio [Dardo](http://dardo.gal/dardo/). A sección de «conversas» contará coa participación de Dani Bembibre, [Artur Galocha](https://www.behance.net/arturgalocha), [Marcos Dopico](http://www.maistypes.com) e [Uqui Permui](https://uqui.net), que falarán de marcas, infografía, tipografía corporativa e deseño como comunicación cultural. Os e as protagonistas destas «stories» e «conversas» colaborarán tamén ofrecendo asesoramento persoal en proxectos de estudantes e profesionais noveis.
 
       O festival abrirá ademáis un «showroom», que servirá de escaparate de creacións e espazos de deseño galegos e contará cunha carpa na Praza de Lugo (A Coruña). Este espazo acollerá unha serie de intervencións do colectivo Flaco, incluirá a proxección das «stories» e «conversas» e albergará unha exposición de traballos profesionais do denominado pola organización como «novo deseño galego». Esta exposición contará, para a montaxe, coas estruturas deseñadas polos nosos socios Xabier Rilo e Ricardo Tubío do estudio [Cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com).
 
       O #follow20 complétase cun programa paralelo para os días 11 e 12 de novembro. Toda a información sobre as actividades do festival está dispoñible na súa web.
     type: text
-  -
-    list: ''
-    url: 'https://follow.gal'
-    text: 'Web do #follow20'
+  - list: ""
+    url: "https://follow.gal"
+    text: "Web do #follow20"
     type: button
-intro: 'Hoxe comeza o #follow20, un festival que ten por obxectivo poñer en valor o deseño galego conectándoo co exterior e o gran público, e que servirá de antesala do lanzamento da _Galicia Design Week_ en xuño do 2021.'
+intro: "Hoxe comeza o #follow20, un festival que ten por obxectivo poñer en valor o deseño galego conectándoo co exterior e o gran público, e que servirá de antesala do lanzamento da _Galicia Design Week_ en xuño do 2021."
 slug: nace-festival-deseno-follow
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2020-11-07T13:12:43+00:00

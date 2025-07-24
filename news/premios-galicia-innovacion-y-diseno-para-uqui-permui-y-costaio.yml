@@ -1,14 +1,12 @@
 id: 1267
-title: 'Premios Galicia Innovación y Diseño para Uqui Permui y Costa.io​'
+title: "Premios Galicia Innovación y Diseño para Uqui Permui y Costa.io​"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/foto-premios-2023.jpg
-    text: 'Imágenes: Instagram de Gain @manuelgvicentefotografia'
+    text: "Imágenes: Instagram de Gain @manuelgvicentefotografia"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los premios reconocen la labor de las personas y empresas referentes del avance económico y social en Galicia a través de la innovación y del diseño. Xose García, presidente de DAG, fue miembro del jurado junto con David Barro, de la Fudación Didac y asesor de la Xunta en el programa Diferenza, la diseñadora​ ​Coca Rivas y el presidente del Clúster da Comunicación,​ Alberto Garnil. La DAG participa de este certamen desde el año de su creación​.​
 
       La gala, que tuvo lugar ayer en el Hotel Monumento San Francisco de Santiago de Compostela, consolidó un año más la calidad de los perfiles presentados para estos premios autonómico​s​ que,​ finalmente, quedaron así repartidos:
@@ -19,7 +17,7 @@ body:
 
       Muchas felicitaciones tambié​n​ al resto de finalistas en las diferentes categorías, Tomás Alonso y, en especial, a nuestro socio Álvaro Valiño; Amalia Puga, Borja Regueiro, Visual MS, Ascensores Enor, Texas Control y MRF Solutions.
     type: text
-intro: 'Ayer, 21 de diciembre, se celebró en el Hotel Monumento San Francisco de Santiago de Compostela la gala de entrega de los IV Premios Galicia Innovación y Diseño que promueve la Xunta de Galicia a través de la Axencia Galega de Innovación, donde Uqui Permui se llevó el premio en la categoría Profesional y Costa.io en la de Empresas.'
+intro: "Ayer, 21 de diciembre, se celebró en el Hotel Monumento San Francisco de Santiago de Compostela la gala de entrega de los IV Premios Galicia Innovación y Diseño que promueve la Xunta de Galicia a través de la Axencia Galega de Innovación, donde Uqui Permui se llevó el premio en la categoría Profesional y Costa.io en la de Empresas."
 slug: premios-galicia-innovacion-y-diseno-para-uqui-permui-y-costaio
 tags: []
 lang: es

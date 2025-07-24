@@ -1,26 +1,24 @@
 id: 5
-contact: '<xosebarro@gmail.com>'
+contact: "<xosebarro@gmail.com>"
 links:
-  -
-    text: 'Grupo Revisión'
-    url: 'http://gruporevision.net/'
+  - text: "Grupo Revisión"
+    url: "http://gruporevision.net/"
     type: link
-  -
-    text: Twitter
-    url: 'https://twitter.com/BarroDesign'
+  - text: Twitter
+    url: "https://twitter.com/BarroDesign"
     type: twitter
-name: 'Pepe Barro'
+name: "Pepe Barro"
 slug: pepe-barro
 avatarBig: null
 avatar: /img/avatars/554cf137e5271-pepe-barro.jpg
 tags:
   - Embalaxe
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Exposicións
   - Editorial
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

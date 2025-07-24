@@ -1,14 +1,12 @@
 id: 924
-title: 'María Ramos estará en el 3º warm up del 10º Encuentro de Tipografia'
+title: "María Ramos estará en el 3º warm up del 10º Encuentro de Tipografia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/encontro-talk-landscape.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El programa incluye varias conferencias y el taller Dibujar-cortar-colar: construir tipografía experimental en papel, con la orientación de Joana Correia, María Ramos, Viktoriya Grabowska.
 
       Programa completo:
@@ -18,26 +16,24 @@ body:
       - Conferencia de Joana Correia: Límites y restricciones de la tipografía
       - Conferencia de María Ramos: Type, art and movement
       - Conferencia de Viktoriya Grabowska: Sobre la Birra Saison
-       
+
       Día 18.10.2019 a las 10.30 h en la sala P5 da ESAD
 
       - Obradoiro Dibujar-cortar-colar: construir tipografia experimental en papel, coordinado por las tres oradoras del día anterior.
-       
+
     type: text
-  -
-    list: ''
-    url: 'https://esad.pt/pt/news/joana-correia-maria-ramos-viktoriya-grabowska'
-    text: '3º Warm up'
+  - list: ""
+    url: "https://esad.pt/pt/news/joana-correia-maria-ramos-viktoriya-grabowska"
+    text: "3º Warm up"
     type: button
-  -
-    list: ''
-    url: 'https://10et.esad.pt/pt'
-    text: 'X Encuentro de Tipografía do Porto'
+  - list: ""
+    url: "https://10et.esad.pt/pt"
+    text: "X Encuentro de Tipografía do Porto"
     type: button
-intro: 'Este tercer warm up del X Encuentro de Tipografía se desarrollará entre el 17 y el 18 de octubre, y forma parte de los eventos satélite de la Porto Design Biennale que está teniendo lugar en diferentes lugares de O Porto y Matosiños.'
+intro: "Este tercer warm up del X Encuentro de Tipografía se desarrollará entre el 17 y el 18 de octubre, y forma parte de los eventos satélite de la Porto Design Biennale que está teniendo lugar en diferentes lugares de O Porto y Matosiños."
 slug: maria-ramos-estara-en-el-3o-warm-up-del-10o-encuentro-de-tipografia
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-10-13T12:59:03+00:00

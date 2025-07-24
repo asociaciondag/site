@@ -1,24 +1,21 @@
 id: 304
-title: 'One Team Report'
+title: "One Team Report"
 slug: one-team-report-es
 body:
-  -
-    text: '[→ Visitar la web](https://oneteam.report)'
+  - text: "[→ Visitar la web](https://oneteam.report)"
     type: text
-  -
-    image: /img/portfolio/images/landing-page.png
-    text: ''
+  - image: /img/portfolio/images/landing-page.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/marca.png
 tags:
   - UX/UI
   - Web
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 69
 lang: es
 info:
-  -
-    name: Cliente
-    value: 'proyecto propio'
+  - name: Cliente
+    value: "proyecto propio"
 draft: false

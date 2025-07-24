@@ -1,21 +1,19 @@
 id: 572
-title: 'Convócanse os Premios CLAP 2015'
+title: "Convócanse os Premios CLAP 2015"
 body:
-  -
-    text: |-
+  - text: |-
       Na edición deste ano admítense traballos candidatos aos premios en sete grupos de categorías: tipografía, deseño industrial, publicidade gráfica, miscelánea, gráfica dixital, branding e editorial.
 
       O prazo de inscrición permanecerá aberto ata 31 de agosto, mais as inscricións realizadas antes do 20 de xullo teñen un 42% de desconto.
 
       Toda a información en: <http://premiosclap.org/>
     type: text
-  -
-    list: after
+  - list: after
     image: /img/news/images/55a2a5cf80cc6-premios-clap.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'Os CLAP son uns Premios Internacionais de Deseño Industrial e Deseño Gráfico aos que poden concorrer traballos de deseño gráfico e industrial realizados en América Latina, Os Estados Unidos, O Brasil, España e Portugal durante os anos 2013, 2014 e 2015.'
+intro: "Os CLAP son uns Premios Internacionais de Deseño Industrial e Deseño Gráfico aos que poden concorrer traballos de deseño gráfico e industrial realizados en América Latina, Os Estados Unidos, O Brasil, España e Portugal durante os anos 2013, 2014 e 2015."
 slug: convocanse-os-premios-clap-2015
 tags: []
 lang: gl

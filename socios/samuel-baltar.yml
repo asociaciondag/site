@@ -4,23 +4,19 @@ contact: |-
 
   <info@orixecreativa.com>
 links:
-  -
-    text: 'Orixe | Comunicación Creativa'
-    url: 'https://www.orixecreativa.com'
+  - text: "Orixe | Comunicación Creativa"
+    url: "https://www.orixecreativa.com"
     type: link
-  -
-    text: Behance
-    url: 'https://www.behance.net/izzyberto'
+  - text: Behance
+    url: "https://www.behance.net/izzyberto"
     type: link
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/orixecreativa'
+  - text: Facebook
+    url: "https://www.facebook.com/orixecreativa"
     type: facebook
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/orixecreativa'
+  - text: Instagram
+    url: "https://www.instagram.com/orixecreativa"
     type: link
-name: 'Samuel Baltar'
+name: "Samuel Baltar"
 slug: samuel-baltar
 avatarBig: null
 avatar: /img/avatars/img-4525-jpg-2.JPG
@@ -29,12 +25,12 @@ tags:
   - UX/UI
   - Sinalética
   - Web
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Gráfico
   - Infografía
   - Audiovisual
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico e director creativo en Orixe'
-job.es: 'Diseñador gráfico y director creativo en Orixe'
+job.gl: "Deseñador gráfico e director creativo en Orixe"
+job.es: "Diseñador gráfico y director creativo en Orixe"

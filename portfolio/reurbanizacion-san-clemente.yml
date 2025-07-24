@@ -1,9 +1,8 @@
 id: 15
-title: 'Reurbanización San Clemente'
+title: "Reurbanización San Clemente"
 slug: reurbanizacion-san-clemente
 body:
-  -
-    text: |-
+  - text: |-
       En Maio do 2011 o estudio de arquitectura abalo e alonso encoméndanos o deseño dun libro que recolla a obra de reurbanización do espazo público de San Clemente en Compostela.
 
       Despois de escoitar, por parte dos autores, a explicación do contexto do encargo e a evolución do proxecto xunto coas modificacións e adaptacións que foron xurdindo durante a obra, decidimos que o libro, máis que presentar a obra como un resultado final, debería mostrar a evolución do proxecto dende o encargo ata a súa construcción.
@@ -20,29 +19,23 @@ body:
 
       Gustábanos a idea de levar ao lector da man nun paseo por Compostela.
     type: text
-  -
-    image: /img/portfolio/images/555724ae3b35c-0120.jpg
-    text: ''
+  - image: /img/portfolio/images/555724ae3b35c-0120.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555724ae3b35c-068.jpg
-    text: ''
+  - image: /img/portfolio/images/555724ae3b35c-068.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555724ae3b35c-0216.jpg
-    text: ''
+  - image: /img/portfolio/images/555724ae3b35c-0216.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555724ae3b35c-0315.jpg
-    text: ''
+  - image: /img/portfolio/images/555724ae3b35c-0315.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555724ae3b35c-0416.jpg
-    text: ''
+  - image: /img/portfolio/images/555724ae3b35c-0416.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555724ae3b35c-0510.jpg
-    text: ''
+  - image: /img/portfolio/images/555724ae3b35c-0510.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55855a45a3e9e-555724ae3b35c-0416.jpg
 tags:
@@ -54,10 +47,8 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Cliente
-    value: 'Abalo Alonso arquitectos'
-  -
-    name: Ano
-    value: '2012'
+  - name: Cliente
+    value: "Abalo Alonso arquitectos"
+  - name: Ano
+    value: "2012"
 draft: true

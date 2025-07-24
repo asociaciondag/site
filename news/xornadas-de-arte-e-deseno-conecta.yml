@@ -1,14 +1,12 @@
 id: 804
-title: 'Xornadas de Arte e Deseño Conecta'
+title: "Xornadas de Arte e Deseño Conecta"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/conecta-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O programa deste ano está formado por seis conferencias e dous obradoiros que serán impartidos por profesionais relacionados coas diferentes áreas que arestora oferta o centro: Deseño de Interiores, Gravado, Serigrafía, Deseño Gráfico, Fotografía e Cerámica.
 
       **Xoves, 12 de abril de 2018**
@@ -37,12 +35,11 @@ body:
 
       As xornadas son gratuítas e están abertas a todas as persoas interesadas.
     type: text
-  -
-    list: ''
-    url: 'http://escoladeartelugo.com/conecta/'
-    text: 'Web de Conecta'
+  - list: ""
+    url: "http://escoladeartelugo.com/conecta/"
+    text: "Web de Conecta"
     type: button
-intro: 'Desde mañá e até o 24 de abril desenvolveranse en Lugo as Xornadas de Arte e Deseño Conecta que organiza a [EASD Ramón Falcón](http://escoladeartelugo.com/).'
+intro: "Desde mañá e até o 24 de abril desenvolveranse en Lugo as Xornadas de Arte e Deseño Conecta que organiza a [EASD Ramón Falcón](http://escoladeartelugo.com/)."
 slug: xornadas-de-arte-e-deseno-conecta
 tags: []
 lang: gl

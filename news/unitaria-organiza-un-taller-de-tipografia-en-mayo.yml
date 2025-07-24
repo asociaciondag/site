@@ -1,14 +1,12 @@
 id: 664
-title: 'Unitaria organiza un taller de tipografía en mayo'
+title: "Unitaria organiza un taller de tipografía en mayo"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/572a2b50344cc-unitaria-grafica-tipografia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       **Impartido por:** María Ramos
 
       **Nivel:** Iniciación
@@ -25,12 +23,11 @@ body:
 
       **Cuota:** 115 € (10 € de descuento para socios de la DAG)
     type: text
-  -
-    list: ''
-    url: 'http://escolaunitaria.com/2016/04/01/tipografia/'
-    text: 'Inscripción en Unitaria'
+  - list: ""
+    url: "http://escolaunitaria.com/2016/04/01/tipografia/"
+    text: "Inscripción en Unitaria"
     type: button
-intro: 'El objetivo de la actividad es acercarse a las nociones básicas en el diseño de tipografías. A partir del dibujo de un grupo de letras, los participantes aprenderán a trabajar sus formas para que funcionen como conjunto en sus diseños.'
+intro: "El objetivo de la actividad es acercarse a las nociones básicas en el diseño de tipografías. A partir del dibujo de un grupo de letras, los participantes aprenderán a trabajar sus formas para que funcionen como conjunto en sus diseños."
 slug: unitaria-organiza-un-taller-de-tipografia-en-mayo
 tags: []
 lang: es

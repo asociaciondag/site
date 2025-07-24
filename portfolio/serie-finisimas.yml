@@ -1,10 +1,9 @@
 id: 427
-title: 'Serie finísimas'
+title: "Serie finísimas"
 slug: serie-finisimas
 body:
-  -
-    image: /img/portfolio/images/serie-finiiiisima.jpg
-    text: ''
+  - image: /img/portfolio/images/serie-finiiiisima.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/serie-finiiiisima.jpg
 tags:

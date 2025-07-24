@@ -1,26 +1,23 @@
 id: 1108
-title: 'A DAG colabora co programa Xuventude Mentoring da Xunta de Galicia'
+title: "A DAG colabora co programa Xuventude Mentoring da Xunta de Galicia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/cartel-mentoring.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O programa busca favorecer a transición á vida laboral das persoas mozas con estudos de grao ou de formación profesional e está destinado á mellora das habilidades e competencias para a busca de emprego, tanto por conta propia como por conta allea, a través de accións formativas, actividades de _networking_ e dunha rede de persoas mentoras procedentes do empresariado galego, que ofrecerán asesoramento e apoio. Os e as participantes ademais terán un asesoramento continuado por parte do equipo especializado do programa.
 
       O proceso de inscrición estivo aberto desde o 6 de agosto ata o 15 de setembro de 2021, e todas as accións deseñadas no programa nesta edición, desenvolvéronse entre os meses de outubro e decembro.
 
       O programa está ​promovido pola Xunta de Galicia e o Consorcio para o desenvolvemento de aplicacións de xestión universitaria (Cixug), cofinanciado polo Fondo Social Europeo e a Iniciativa de Emprego Xuvenil, nun 91,89%, con cargo ao Programa Operativo de Emprego Xuvenil, para o período 2014-2020, no eixe prioritario 5, obxectivo temático 8, prioridade de investimento 8.2, obxectivo específico 8.2.1, medida 8.2.1.1.​
     type: text
-  -
-    list: ''
-    url: 'https://xportal.cixug.gal/?lang=es'
-    text: 'Máis información'
+  - list: ""
+    url: "https://xportal.cixug.gal/?lang=es"
+    text: "Máis información"
     type: button
-intro: 'Xuventude Mentoring é un programa integral de formación e mentoría destinado a persoas mozas tituladas e inscritas no Sistema Nacional de Garantía Xuvenil na Comunidade Autónoma de Galicia. A DAG colabora difundindo información sobre o proxecto e servindo de canle para a incorporación de persoas asociadas como mentoras. Nesta edición contouse coa colaboración do deseñador industrial [Javier Ferrín](https://dag.gal/gl/javier-ferrin/) e a deseñadora editorial [Paula Cantero](https://dag.gal/gl/paula-cantero-rey/) de Origami Estudio.'
+intro: "Xuventude Mentoring é un programa integral de formación e mentoría destinado a persoas mozas tituladas e inscritas no Sistema Nacional de Garantía Xuvenil na Comunidade Autónoma de Galicia. A DAG colabora difundindo información sobre o proxecto e servindo de canle para a incorporación de persoas asociadas como mentoras. Nesta edición contouse coa colaboración do deseñador industrial [Javier Ferrín](https://dag.gal/gl/javier-ferrin/) e a deseñadora editorial [Paula Cantero](https://dag.gal/gl/paula-cantero-rey/) de Origami Estudio."
 slug: a-dag-colabora-programa-xuventude-mentoring-xunta-galicia
 tags: []
 lang: gl

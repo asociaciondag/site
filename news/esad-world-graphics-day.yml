@@ -1,8 +1,7 @@
 id: 232
-title: 'ESAD World Graphics Day'
+title: "ESAD World Graphics Day"
 body:
-  -
-    text: |-
+  - text: |-
       O evento, comisariado polo investigador José Bártolo, reunirá a 27 dos máis destacados deseñadores portugueses. Alva, Andrew Howard, António Modesto, Aurelindo Jaime Ceia, Bolos Quentes, Carlos Guerreiro, Dorindo Carvalho, Eduardo Aires, Emanuel Barbosa, Ivone Ralha, Francisco Providência, Joana &amp; Mariana, João Alves Marrucho, João Faria, João Vinagre, Jorge dos Reis, José Brandão, Jorge Silva, Manuel Granja, Martino &amp; Jaña, Moda Lisboa, Nada, Pedro Falcão, Ricardo Mealha, Rui Silva, Valdemar Lamego, Vera Tavares é a nómina dos participantes neste acto que consistirá en presentacións de 20 imaxes x 20 segundos x 27 deseñadores.
 
       Entrada libre
@@ -15,12 +14,11 @@ body:
 
       Reservas: ewgday@esad.pt 229 578 750
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9d23964-esad-world-graphics-day.jpg
-    text: ''
+    text: ""
     type: image
-intro: '[A Escola Superior de Artes e Deseño de Matosiños](http://www.esad.pt/pt/) conmemora o próximo 27 de abril o Día Mundial do Deseño Gráfico.'
+intro: "[A Escola Superior de Artes e Deseño de Matosiños](http://www.esad.pt/pt/) conmemora o próximo 27 de abril o Día Mundial do Deseño Gráfico."
 slug: esad-world-graphics-day
 tags: []
 lang: gl

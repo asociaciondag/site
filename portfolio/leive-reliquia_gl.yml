@@ -1,17 +1,14 @@
 id: 21
-title: 'Leive Reliquia'
+title: "Leive Reliquia"
 slug: leive-reliquia
 body:
-  -
-    text: 'Reliquia é un viño branco do Ribeiro envellecido en barrica de carballo galego. Ten unha produción moi limitada e preséntase como unha Reliquia.'
+  - text: "Reliquia é un viño branco do Ribeiro envellecido en barrica de carballo galego. Ten unha produción moi limitada e preséntase como unha Reliquia."
     type: text
-  -
-    image: /img/portfolio/images/555cf38d165c9-dag004-reliquia001.jpg
-    text: ''
+  - image: /img/portfolio/images/555cf38d165c9-dag004-reliquia001.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cf38d168f1-dag004-reliquia002.jpg
-    text: ''
+  - image: /img/portfolio/images/555cf38d168f1-dag004-reliquia002.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55855d9998edf-555cf38d168f1-dag004-reliquia002.jpg
 tags:
@@ -21,13 +18,10 @@ members_id:
   - 16
 lang: gl
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Desoños
-  -
-    name: Cliente
-    value: 'Adegas Aurea Lux'
-  -
-    name: Ano
-    value: '2012'
+  - name: Cliente
+    value: "Adegas Aurea Lux"
+  - name: Ano
+    value: "2012"
 draft: false

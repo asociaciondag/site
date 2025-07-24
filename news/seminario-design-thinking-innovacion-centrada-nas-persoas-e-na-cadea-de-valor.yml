@@ -1,8 +1,7 @@
 id: 456
-title: 'Seminario Design Thinking, innovación centrada nas persoas e na cadea de valor'
+title: "Seminario Design Thinking, innovación centrada nas persoas e na cadea de valor"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       [O Centro de Innovación e Servizos Tecnolóxicos da Madeira de Galicia](http://www.cismadeira.com/galego/inicial.php) (CIS-Madeira) organiza os días 23 e 24 de outubro de 2013 en Ourense un seminario co obxectivo de difundir a metodoloxía do Design Thinking como ferramenta práctica para promover a innovación. O programa inclúe:
 
@@ -49,8 +48,7 @@ body:
       17:00 – 17:30 Posta en común dos resultados
 
       Todos os datos relativos á inscrición en: <http://www.cismadeira.es/Galego/novas/23-e-24-10-2013.html>
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa46acad-seminario-design-thinking.jpg
 intro: null
 slug: seminario-design-thinking-innovacion-centrada-nas-persoas-e-na-cadea-de-valor

@@ -1,14 +1,12 @@
 id: 1307
-title: 'Pablo Álvarez se suma a la DAG'
+title: "Pablo Álvarez se suma a la DAG"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-pabloalvarez.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola gente,
 
       Soy Pablo, de Ourense. Me gusta crear marcas con alma e historia y también dotarle de vestimenta a productos a través del _packaging_.
@@ -19,10 +17,10 @@ body:
 
       ¡Nos vemos pronto en persona!
     type: text
-intro: 'Pablo es diseñador gráfico y está afincado en Ourense. Lleva poco tiempo en la DAG pero ya tiene ganas de participar y ver lo que se cuece por aquí. Esta es su presentación. ¡Bienvenido!'
+intro: "Pablo es diseñador gráfico y está afincado en Ourense. Lleva poco tiempo en la DAG pero ya tiene ganas de participar y ver lo que se cuece por aquí. Esta es su presentación. ¡Bienvenido!"
 slug: pablo-alvarez-se-suma-a-la-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2024-05-27T08:54:13+00:00

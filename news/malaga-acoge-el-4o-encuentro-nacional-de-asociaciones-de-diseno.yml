@@ -1,14 +1,12 @@
 id: 691
-title: 'Málaga acoge el 4º Encuentro Nacional de Asociaciones de Diseño'
+title: "Málaga acoge el 4º Encuentro Nacional de Asociaciones de Diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/57e2a589da1da-3enadgrupo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los Encuentros Nacionales de Asociaciones de Diseño son proyectos anuales desarrollados por READ y otras asociaciones colaboradoras para facilitar un espacio común de análisis y propuesta de procesos o situaciones relacionados con el ejercicio del diseño por parte de todos los actores que en él participan y también para establecer y reforzar alianzas entre profesionales, centros de formación, empresas e instituciones punteras, para ejemplificar el beneficio que un correcto uso del diseño aporta.
 
       Este cuarto encuentro presentará los proyectos finalizados y los que están en curso, producto de la labor de READ y de las mesas de trabajo de los ENAD de años anteriores, para seguir profundizando en las líneas definidas y configurar nuevos equipos de trabajo colaborativo.
@@ -23,7 +21,7 @@ body:
       - From Spain With Design
       - Modelos de Organización y Financiación
       - Transferencias.Design Málaga2017
-       
+
       En Málaga estarán representados más de 1.000 diseñadores profesionales asociados de toda España y han confirmado su presencia participantes del Ministerio de Economía y Competitividad (MINECO); el Ministerio de Educación, Cultura y Deporte (MECD); la Embajada del Reino de los Países Bajos; el Museo Nacional de Artes Decorativas (MNAD); la Fundación Centro Nacional del Vidrio; el Centro para el Desarrollo Tecnológico Industrial (CDTI); BCD, Barcelona Centro de Diseño; el Centro Aragonés de Diseño Industrial (CADI); el Instituto Andaluz de Tecnología (IAT) y Surgenia, el centro tecnológico de diseño andaluz; el Museo Picasso y el Ayuntamiento de Málaga. Además, empresas como Telefónica, Cosentino y BBVA, con profesionales de sus departamentos de investigación y desarrollo y experiencia del usuario; Gráficas Muriel, Ingenia, Estampable, Dame la chapa y la revista Experimenta, así como la Confederación de Escuelas de Arte y más de una quincena de docentes de universidades y centros públicos y privados, venidos de distintos lugares del estado español.
 
       Por segundo año consecutivo, este encuentro se celebra en las instalaciones de La Térmica, Diputación de Málaga, siendo la aad, Asociación Andaluza de Diseñadores, que detenta la presidencia de READ, la asociación anfitriona.
@@ -36,7 +34,7 @@ body:
 
       Más sobre READ, en [http://www.designread.es](http://www.designread.es/)
     type: text
-intro: 'Por segundo año consecutivo, Málaga será punto de encuentro en un foro que reunirá a un centenar de agentes del diseño, personalidades de relevancia nacional e internacional, en 4ENAD, los días 22 y 23 de septiembre de 2016 en La Térmica.'
+intro: "Por segundo año consecutivo, Málaga será punto de encuentro en un foro que reunirá a un centenar de agentes del diseño, personalidades de relevancia nacional e internacional, en 4ENAD, los días 22 y 23 de septiembre de 2016 en La Térmica."
 slug: malaga-acoge-el-4o-encuentro-nacional-de-asociaciones-de-diseno
 tags: []
 lang: es

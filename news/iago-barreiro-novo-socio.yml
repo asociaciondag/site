@@ -1,29 +1,26 @@
 id: 963
-title: 'Iago Barreiro, novo socio da DAG'
+title: "Iago Barreiro, novo socio da DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/iago-barreiro.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola! Son Iago Barreiro, deseñador gráfico especializado en identidade visual, deseño UX/UI e desenvolvemento web, con experiencia en diferentes disciplinas e tecnoloxías _online_ e _offline_.
 
       Fai 10 anos, marchei a Barcelona a estudar o Grao en Deseño Gráfico, tendo a oportunidade de traballar en diferentes estudios de _branding_ e comunicación liderando os seus proxectos dixitais. Hai un ano que volvín a Galicia, dende onde colaboro con estudios, axencias e clientes de todo o mundo transformando as súas identidades visuais a entornos dixitais e interactivos, tanto no campo do deseño coma no da programación.
 
       Ademáis son fundador dun espazo de _coworking_ en Compostela, [Modular Multiespazo](https://somosmodular.com/), dende onde traballo e comparto espazo e cafés con outros profesionais. Estades todos convidados ;)
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/iago-barreiro/'
-    text: 'Perfil na web da DAG'
+  - list: ""
+    url: "https://dag.gal/gl/iago-barreiro/"
+    text: "Perfil na web da DAG"
     type: button
-intro: 'Na DAG sabemos da importancia de contar con profesionais que traballen en distintas disciplinas do deseño, para ter unha perspectiva ampla e traballar por representar a nosa profesión da mellor maneira posible. Iago Barreiro é deseñador especializado en entornos dixitais e interactivos, que despois dunha longa tempada en Barcelona decide volver a Galicia para traballar desde aquí. Aledámonos moito da túa volta Iago.'
+intro: "Na DAG sabemos da importancia de contar con profesionais que traballen en distintas disciplinas do deseño, para ter unha perspectiva ampla e traballar por representar a nosa profesión da mellor maneira posible. Iago Barreiro é deseñador especializado en entornos dixitais e interactivos, que despois dunha longa tempada en Barcelona decide volver a Galicia para traballar desde aquí. Aledámonos moito da túa volta Iago."
 slug: iago-barreiro-novo-socio
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2020-02-11T11:13:31+00:00

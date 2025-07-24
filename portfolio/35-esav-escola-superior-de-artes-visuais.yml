@@ -1,9 +1,8 @@
 id: 200
-title: '35. ESAV Escola Superior de Artes Visuais'
+title: "35. ESAV Escola Superior de Artes Visuais"
 slug: 35-esav-escola-superior-de-artes-visuais
 body:
-  -
-    text: |-
+  - text: |-
       A xeito de homenaxe aos 35 milímetros do universo fotográfico, a Escola Superior de Artes Visuais de Vigo adopta o número 35 como nome para ser identificada. A presenza do punto ortográfico pecha toda posibilidade de continuar mentalmente a secuencia numérica, ao tempo que outorga contundencia visual.
 
       Queriamos conseguir un símbolo que falase de fotografía e cinema dunha maneira eficaz, limpa e directa. Que as persoas interesadas en cine e fotografía recoñecesen por instinto a presenza da Escola. Era necesario e básico falar tamén de pluralidade, de apertura, de converxencias.
@@ -16,56 +15,44 @@ body:
 
       O resultado é unha identidade en continua transformación, que evoluciona e muta visualmente adaptándose a cada necesidade comunicativa.
     type: text
-  -
-    image: /img/portfolio/images/58ee5b17d9a20-rafacaccamo-35esav-01.jpg
-    text: ''
+  - image: /img/portfolio/images/58ee5b17d9a20-rafacaccamo-35esav-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/58ee5b41a461b-rafacaccamo-35esav-02.jpg
-    text: ''
+  - image: /img/portfolio/images/58ee5b41a461b-rafacaccamo-35esav-02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/58ee5b41a49d0-rafacaccamo-35esav-03.jpg
-    text: ''
+  - image: /img/portfolio/images/58ee5b41a49d0-rafacaccamo-35esav-03.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/58ee5b41a4d70-rafacaccamo-35esav-04.jpg
-    text: ''
+  - image: /img/portfolio/images/58ee5b41a4d70-rafacaccamo-35esav-04.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/58ee5b5c99ce7-rafacaccamo-35esav-06.jpg
-    text: ''
+  - image: /img/portfolio/images/58ee5b5c99ce7-rafacaccamo-35esav-06.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/58ee5b85c5a1f-rafacaccamo-35esav-07.jpg
-    text: ''
+  - image: /img/portfolio/images/58ee5b85c5a1f-rafacaccamo-35esav-07.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/58ee5b85c7d65-rafacaccamo-35esav-08.jpg
-    text: ''
+  - image: /img/portfolio/images/58ee5b85c7d65-rafacaccamo-35esav-08.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/58ee5b036624c-rafacaccamo-35esav-01.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 7
 lang:
   - gl
   - es
 info:
-  -
-    name: 'Estudio:'
-    value: 'Rafa Cáccamo'
-  -
-    name: 'Proxecto:'
-    value: 'Identidade de 35. ESAV'
-  -
-    name: 'Cliente:'
-    value: 'Escola Superior de Artes Visuais'
-  -
-    name: 'Ano:'
-    value: '2017'
-  -
-    name: 'Colaboradores:'
-    value: 'Xisela Franco, Juan Pablo Moreiras, Enrique Touriño, Eutropio Rodríguez, Javier Fernández Pérez de Lis'
+  - name: "Estudio:"
+    value: "Rafa Cáccamo"
+  - name: "Proxecto:"
+    value: "Identidade de 35. ESAV"
+  - name: "Cliente:"
+    value: "Escola Superior de Artes Visuais"
+  - name: "Ano:"
+    value: "2017"
+  - name: "Colaboradores:"
+    value: "Xisela Franco, Juan Pablo Moreiras, Enrique Touriño, Eutropio Rodríguez, Javier Fernández Pérez de Lis"
 draft: false

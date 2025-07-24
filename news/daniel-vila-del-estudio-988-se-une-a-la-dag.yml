@@ -1,14 +1,12 @@
 id: 787
-title: 'Daniel Vila del estudio 988 se une a la DAG'
+title: "Daniel Vila del estudio 988 se une a la DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/foto-dani-presentacio-n.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ¡Hola a todos!
 
       Me llamo Daniel Vila y, como muchos de vosotros, soy diseñador gráfico.
@@ -23,15 +21,14 @@ body:
 
       Es un placer formar parte de la DAG.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/es/daniel-vila-prieto/'
-    text: 'Perfil de socio en la DAG'
+  - list: ""
+    url: "https://dag.gal/es/daniel-vila-prieto/"
+    text: "Perfil de socio en la DAG"
     type: button
-intro: 'Y, como a cada nuevo socio que llega a la asociación, le hemos pedido que se presente para que todos podáis conocerle un poco mejor. Esto es lo que nos ha contado.'
+intro: "Y, como a cada nuevo socio que llega a la asociación, le hemos pedido que se presente para que todos podáis conocerle un poco mejor. Esto es lo que nos ha contado."
 slug: daniel-vila-del-estudio-988-se-une-a-la-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2018-01-17T19:37:27+00:00

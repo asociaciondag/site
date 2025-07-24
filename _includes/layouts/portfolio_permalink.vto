@@ -1,0 +1,54 @@
+---
+layout: ./base.vto
+---
+
+<div class="wrapper">
+  <nav class="buttons-tabs">
+    {{ set p = search.page("id=members lang=" + lang) }}
+    <a class="button" href="{{ p.url }}">{{ t.members.members }}</a>
+
+    {{ set p = search.page("id=portfolio lang=" + lang) }}
+    <a class="button is-selected" href="{{ p.url }}">{{
+      t.members.projects
+    }}</a>
+  </nav>
+</div>
+
+<article class="portfolio portfolio-permalink">
+  <div class="wrapper-narrow">
+    <header class="portfolio-header">
+      <h1>{{ title }}</h1>
+    </header>
+
+    {{ if info }}
+      <dl class="portfolio-data">
+        {{ for item of info }}
+          <dt>{{ item.name }}</dt>
+          <dd>{{ item.value }}</dd>
+        {{ /for }}
+      </dl>
+    {{ /if }}
+
+    <ul class="portfolio-authors">
+      {{ for member of members }}
+        <li class="member-avatar">
+          <a href="{{ member.url }}">
+            <img
+              src="{{ member.avatar }}"
+              width="48"
+              height="48"
+              alt="{{ member.name }}"
+            >
+            <span>{{ member.name }}</span>
+          </a>
+        </li>
+      {{ /for }}
+    </ul>
+  </div>
+
+  <div class="porfolio-body">
+    {{ for block of body }}
+      {{ include "blocks/" + block.type + ".vto" { block } }}
+    {{ /for }}
+  </div>
+</article>

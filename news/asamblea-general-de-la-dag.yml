@@ -1,15 +1,13 @@
 id: 201
-title: 'Asamblea General de la DAG'
+title: "Asamblea General de la DAG"
 body:
-  -
-    text: 'Aprovechando que se acaban de cumplir cuatro años de vida de la asociación, Uqui Permui, la actual presidenta, hará un balance de la actividad desarrollada hasta el momento; seguidamente se procederá a elegir la nueva Junta Directiva y se abrirá un debate acerca de las perspectivas de trabajo y líneas de actuación para el futuro. Día: 14 de enero de 2011 Hora: 18.00 h Lugar: [Galería Sargadelos](http://www.sargadelos.com/galerias/galeria.php?id=2&lg=gal), Rúa Nova, 16, 15705 Santiago de Compostela'
+  - text: "Aprovechando que se acaban de cumplir cuatro años de vida de la asociación, Uqui Permui, la actual presidenta, hará un balance de la actividad desarrollada hasta el momento; seguidamente se procederá a elegir la nueva Junta Directiva y se abrirá un debate acerca de las perspectivas de trabajo y líneas de actuación para el futuro. Día: 14 de enero de 2011 Hora: 18.00 h Lugar: [Galería Sargadelos](http://www.sargadelos.com/galerias/galeria.php?id=2&lg=gal), Rúa Nova, 16, 15705 Santiago de Compostela"
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9bcda40-asemblea-xeral-dag.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Los socios de la Asociación Gallega de Diseñadores se reúnen en Asamblea General el viernes, 14 de enero, en Santiago de Compostela.'
+intro: "Los socios de la Asociación Gallega de Diseñadores se reúnen en Asamblea General el viernes, 14 de enero, en Santiago de Compostela."
 slug: asamblea-general-de-la-dag
 tags: []
 lang: es

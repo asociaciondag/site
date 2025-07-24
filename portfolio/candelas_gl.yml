@@ -2,28 +2,22 @@ id: 372
 title: Candelas
 slug: candelas
 body:
-  -
-    text: 'Deseño da presencia de marca de Cafés Candelas no 52 Festival de Sitges.'
+  - text: "Deseño da presencia de marca de Cafés Candelas no 52 Festival de Sitges."
     type: text
-  -
-    image: /img/portfolio/images/azucarillos.jpg
-    text: ''
+  - image: /img/portfolio/images/azucarillos.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/graficas.jpg
-    text: ''
+  - image: /img/portfolio/images/graficas.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/publicacionxeral.jpg
-    text: ''
+  - image: /img/portfolio/images/publicacionxeral.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/reacciones.jpg
-    text: ''
+  - image: /img/portfolio/images/reacciones.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/vaso.jpg
-    text: ''
+  - image: /img/portfolio/images/vaso.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/portadacandelas.jpg
 tags:
@@ -32,7 +26,6 @@ members_id:
   - 81
 lang: gl
 info:
-  -
-    name: Cliente
-    value: 'Cafés Candelas'
+  - name: Cliente
+    value: "Cafés Candelas"
 draft: false

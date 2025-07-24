@@ -1,28 +1,25 @@
 id: 722
-title: 'Xa te podes inscribir nos Anuaria'
+title: "Xa te podes inscribir nos Anuaria"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/58e3a47e04897-anuaria-logo-para-descargar.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Para lle dar cabida aos diferentes ámbitos do Deseño Gráfico impreso e dixital, os Premios Anuaria establecen 25 categorías nas que os participantes poden inscribir as obras realizadas no 2016 e 2017.
 
       Este ano as inscricións permanecerán abertas até o 30 de xuño, e os descontos son os seguintes:
 
       - Desde agora e até o 30 de abril un **50% desconto** (60 €). Do 1 ao 30 de maio un **25% de desconto** (90 €). E sen desconto do 1 ao 30 de xuño (120 €).
       - Os membros da DAG teñen ademais un **15% de desconto adicional** en calquera período.
-       
+
     type: text
-  -
-    list: ''
-    url: 'http://www.veredictas.com/premios/premios-anuaria.html'
-    text: 'Premios Anuaria'
+  - list: ""
+    url: "http://www.veredictas.com/premios/premios-anuaria.html"
+    text: "Premios Anuaria"
     type: button
-intro: 'A convocatoria para participar na XXIV edición dos Premios Nacionais de Deseño Gráfico Anuaria está aberta desde hai uns días.'
+intro: "A convocatoria para participar na XXIV edición dos Premios Nacionais de Deseño Gráfico Anuaria está aberta desde hai uns días."
 slug: xa-te-podes-inscribir-nos-anuaria
 tags: []
 lang: gl

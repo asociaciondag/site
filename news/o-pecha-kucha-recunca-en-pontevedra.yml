@@ -1,15 +1,13 @@
 id: 52
-title: 'O Pecha Kucha recunca en Pontevedra'
+title: "O Pecha Kucha recunca en Pontevedra"
 body:
-  -
-    text: 'Enviade cinco imaxes e unha breve explicación do voso proxecto creativo a: <pechakucha@martinovillaverde.com> O último día de entrega será o 13 de novembro.'
+  - text: "Enviade cinco imaxes e unha breve explicación do voso proxecto creativo a: <pechakucha@martinovillaverde.com> O último día de entrega será o 13 de novembro."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a978d959-bannerpkn2.gif
-    text: ''
+    text: ""
     type: image
-intro: 'Queda aberta a convocatoria para recibir as vosas propostas, se queredes participar no segundo Pecha Kucha Night de Pontevedra, que terá lugar na sala Karma o día 11 de decembro.'
+intro: "Queda aberta a convocatoria para recibir as vosas propostas, se queredes participar no segundo Pecha Kucha Night de Pontevedra, que terá lugar na sala Karma o día 11 de decembro."
 slug: o-pecha-kucha-recunca-en-pontevedra
 tags: []
 lang: gl

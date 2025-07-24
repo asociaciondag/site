@@ -1,21 +1,19 @@
 id: 574
-title: 'Las 12 miradas de Pepe Barro'
+title: "Las 12 miradas de Pepe Barro"
 body:
-  -
-    text: |-
+  - text: |-
       En casi cuarenta años de actividad profesional, el conjunto de su trabajo puede entenderse como una lectura de Galicia que quiere rejuvenecer sus señas de identidad, incorporando los lenguajes del diseño internacional como un ingrediente más. Como un profesional independiente, asociado en Grupo Revisión o desde Barro Deseño, ha realizado algunos de sus trabajos más conocidos como la identidad gráfica de la Universidad de A Coruña, los primeros "cuponazos” de la Once, la camiseta de la selección Gallega de Fútbol, la web de la Real Academia Gallega o el proyecto museológico y museográfico de la casa de Rosalía.
 
       La exposición permanecerá abierta hasta el 31 de este mes y puede visitarse de lunes a viernes en el siguiente horario: de 11.00 a 14.00 de la mañana y de 17.00 a 21.00 de la tarde. La galería está situada en la calle Padre Feijoó 5-1º, 15004 A Coruña
     type: text
-  -
-    list: ''
+  - list: ""
     file: /files/55ba2bd3247be-pepe-barro.pdf
-    text: 'PDF del catálogo de la exposición'
+    text: "PDF del catálogo de la exposición"
     type: file
-intro: 'El pasado 9 de julio se inauguraba en la galería Vilaseco de A Coruña la exposición **Doce miradas** del diseñador Pepe Barro, un diseñador al que le gusta tocar todos los géneros e incluso mezclar unos con otros.'
+intro: "El pasado 9 de julio se inauguraba en la galería Vilaseco de A Coruña la exposición **Doce miradas** del diseñador Pepe Barro, un diseñador al que le gusta tocar todos los géneros e incluso mezclar unos con otros."
 slug: las-12-miradas-de-pepe-barro
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2015-07-30T15:51:15+00:00

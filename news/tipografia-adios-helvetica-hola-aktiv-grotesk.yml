@@ -1,23 +1,20 @@
 id: 104
-title: 'Tipografía. Adiós Helvetica, hola Aktiv Grotesk'
+title: "Tipografía. Adiós Helvetica, hola Aktiv Grotesk"
 body:
-  -
-    text: |-
+  - text: |-
       Esta reinterpretación del estilo suizo internacional –en ocasiones como oposición frontal a su hegemonía- es un asunto contradictorio en la última década, en la que se han creado tipografías neogrotescas con una intención crítica de ofrecer alternativas a las tipografías más exitosas pero con unos parámetros muy similares. Es el caso de la **Aktiv Grotesk** (2010) del diseñador suizo afincado en Londres Bruno Maag, bautizada como la _Helvetica kille_r. Maag es un diseñador profundamente crítico con la ubicuidad de la Helvetica y con la idea ampliamente extendida de que ésta es la fuente moderna por excelencia. En su opinión, el éxito a nivel mundial de la Helvetica se debe a potentes campañas de marketing de la empresa Linotype en el momento de su nacimiento y, sobre todo, a la expansión del ordenador personal Mac en los 80 y 90, más que por la calidad de su diseño. En este sentido considera la Univers como la tipografía moderna más consecuente, como la esencia del estilo internacional. Mientras que en la Escuela de Basilea se utilizaba mayoritariamente la Univers, en Zurich las preferencias se inclinaban más por la Azkidenz Grotesk e incluso por la Monotype Grotesk 215. En este sentido, Helvetica fue más un producto que alcanzó su mayor éxito a posteriori en el mundo corporativo y la publicidad en EEUU e Inglaterra, convirtiéndose en la fuente “por defecto”. **Aktiv Grotesk**, creada por el equipo de diseño de Dalton Maag, nace por tanto con la osada idea de sustituir a la Helvetica, aunque para diferenciar ambas fuentes sea necesario un análisis en detalle. Con una altura x ligeramente superior, posee también similitudes con la Univers y detalles sutiles que pretenden darle un toque de personalidad.
 
       www.daltonmaag.com
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a98d50dd-aktivgrotesk1.png
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a98d50dd-aktivgrotesk2.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'La tendencia al _revival_ o _remake_, de tipografías lineales grotescas al estilo de Helvetica o Univers no hace más que crecer en la última década.'
+intro: "La tendencia al _revival_ o _remake_, de tipografías lineales grotescas al estilo de Helvetica o Univers no hace más que crecer en la última década."
 slug: tipografia-adios-helvetica-hola-aktiv-grotesk
 tags: []
 lang: es

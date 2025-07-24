@@ -1,14 +1,12 @@
 id: 1266
-title: 'Premios Galicia Innovación e Deseño para Uqui Permui e Costa.io​'
+title: "Premios Galicia Innovación e Deseño para Uqui Permui e Costa.io​"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/foto-premios-2023.jpg
-    text: 'Imaxes: Instagram de Gain @manuelgvicentefotografia'
+    text: "Imaxes: Instagram de Gain @manuelgvicentefotografia"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Os galardóns recoñecen o labor das persoas e empresas referentes do avance económico e social en Galicia a través da innovación e do deseño. Xose García, presidente de DAG, foi membro do xurado xunto con David Barro, da Fudación Didac e asesor da Xunta no programa Diferenza, a deseñadora​ ​Coca Rivas e o presidente do Clúster da Comunicación,​ Alberto Garnil. A DAG participa deste certame desde o ano da súa creación​.​
 
       A gala, que tivo lugar onte no Hotel Monumento San Francisco de Santiago de Compostela, consolidou un ano máis a calidade dos perfís presentados para estes premios autonómico​s​ que,​ finalmente, quedaron así repartidos:
@@ -19,10 +17,10 @@ body:
 
       Moitos parabéns tamé​n​ ao resto de finalistas nas diferentes categorías, Tomás Alonso e, en especial, ao noso socio Álvaro Valiño; Amalia Puga, Borja Regueiro, Visual MS, Ascensores Enor, Texas Control e MRF Solutions.
     type: text
-intro: 'Onte, 21 de decembro, celebrouse no Hotel Monumento San Francisco de Santiago de Compostela a gala de entrega dos IV Premios Galicia Innovación e Deseño que promove a Xunta de Galicia a través da Axencia Galega de Innovación, onde Uqui Permui levouse o premio na categoría Profesional e Costa.io na de Empresas.'
+intro: "Onte, 21 de decembro, celebrouse no Hotel Monumento San Francisco de Santiago de Compostela a gala de entrega dos IV Premios Galicia Innovación e Deseño que promove a Xunta de Galicia a través da Axencia Galega de Innovación, onde Uqui Permui levouse o premio na categoría Profesional e Costa.io na de Empresas."
 slug: premios-galicia-innovacion-e-deseno-para-uqui-permui-e-costaio
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2023-12-22T13:34:46+00:00

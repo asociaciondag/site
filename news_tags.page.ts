@@ -1,8 +1,8 @@
-export const layout = "layouts/news_list.njk";
+export const layout = "layouts/news_list.vto";
 export const main_menu = "news";
 
-export default function* ({ search }: Lume.PageData): Generator<Lume.PageData> {
-  for (const tag of search.tags("type=news lang=gl")) {
+export default function* ({ search }: Lume.Data) {
+  for (const tag of search.values<string>("tag", "type=news lang=gl")) {
     yield {
       url: `/gl/novas/${tag.replace("/", "-")}/`,
       title: `Novas de ${tag}`,
@@ -12,7 +12,7 @@ export default function* ({ search }: Lume.PageData): Generator<Lume.PageData> {
     };
   }
 
-  for (const tag of search.tags("type=news lang=es")) {
+  for (const tag of search.values<string>("tag", "type=news lang=es")) {
     yield {
       url: `/es/noticias/${tag.replace("/", "-")}/`,
       title: `Noticias de ${tag}`,

@@ -1,8 +1,7 @@
 id: 339
-title: 'Se amplía el plazo de inscripción en el Curso de creación de empresas de diseño'
+title: "Se amplía el plazo de inscripción en el Curso de creación de empresas de diseño"
 body:
-  -
-    text: |-
+  - text: |-
       De este modo, todas las personas interesadas tendrán un poco más de tiempo para presentar toda la documentación que se les pide: solicitud de inscripción con todos los datos y firmada, 2 fotos, copia del DNI, copia del título académico especificado en la solicitud de inscripción, copia del documento que acredite la situación laboral del candidato (IAE o documento de pago a la Seguridad Social como autónomo, tarjeta de demandante de empleo, certificado de la empresa en la que trabaja...).
 
       **Dirigido** a emprendedores de cualquier sector de actividad que, teniendo una idea de empresa y a través de la información y tutela recibida en los cursos sean capaces de llevar a cabo su proyecto de empresa.
@@ -11,27 +10,23 @@ body:
 
       Descarga la solicitud y envíala junto con toda la documentación a info@asociaciondag.org:
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa0786ab-6707421069-9610552b42-b.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa0786ab-convocatoria-galicia.pdf
     text: Descargar
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa0786ab-solicitud-inscripcio-n-fse-20101020.doc
     text: Descargar
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/553e7aa0786ab-folleto-eoi-fse-curso-de-creacion-de-empresas-gallego.pdf
     text: Descargar
     type: file
-intro: 'Hasta el miércoles, 8 de febrero, estará abierto el plazo de inscripción en el curso de creación de empresas de diseño impartido por la [Escuela de Organización Industrial (EOI)](http://www.eoi.es).'
+intro: "Hasta el miércoles, 8 de febrero, estará abierto el plazo de inscripción en el curso de creación de empresas de diseño impartido por la [Escuela de Organización Industrial (EOI)](http://www.eoi.es)."
 slug: se-amplia-el-plazo-de-inscripcion-en-el-curso-de-creacion-de-empresas-de-diseno
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 940
-title: 'Anxo López se incorpora a la DAG'
+title: "Anxo López se incorpora a la DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/2019-anxo-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola
 
       Soy Anxo, un diseñador industrial lugués que lleva más de 10 años afincado en Madrid. Estudié ingeniería técnica en diseño industrial, después de descubrir la existencia de la profesión en mi paso por la escuela de ingeniería industrial.
@@ -23,15 +21,14 @@ body:
 
       Ha sido la enorme calidad humana de las personas que forman parte de este colectivo la que me hizo hacerme socio de la asociación tras conocerlas en la última edición del foro de diseño: FEED 2019. Gracias por acogerme, espero estar a la altura y poder contribuir desde Madrid a la consolidación del diseño gallego.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/es/anxo-lopez/'
-    text: 'Perfil en la web de la DAG'
+  - list: ""
+    url: "https://dag.gal/es/anxo-lopez/"
+    text: "Perfil en la web de la DAG"
     type: button
-intro: 'Con su llegada, la asociación ensancha aún más el amplio abanico de perfiles profesionales existentes, pero en su caso hay una circunstancia que la hace aún más especial: su idea de asociarse es una cosa buena más de las muchas que nos ha dejado la última edición del FEED 19, en la que hemos tenido la suerte de contar con la presencia de conferenciantes tan estupendos como él. ¡Qué alegría que te hagas de la DAG, bienvenido!'
+intro: "Con su llegada, la asociación ensancha aún más el amplio abanico de perfiles profesionales existentes, pero en su caso hay una circunstancia que la hace aún más especial: su idea de asociarse es una cosa buena más de las muchas que nos ha dejado la última edición del FEED 19, en la que hemos tenido la suerte de contar con la presencia de conferenciantes tan estupendos como él. ¡Qué alegría que te hagas de la DAG, bienvenido!"
 slug: anxo-lopez-se-incorpora-a-la-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-11-26T19:28:37+00:00

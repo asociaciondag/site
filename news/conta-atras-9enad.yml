@@ -1,14 +1,12 @@
 id: 1082
-title: 'Conta atrás para o 9ENAD '
+title: "Conta atrás para o 9ENAD "
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-enad.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Un dos eixos fundamentais dos ENAD son as mesas de traballo onde as persoas interesadas poden intervir e aportar ideas. Non só participan profesionais do deseño e representantes das asociacións de deseño, senón tamén outras entidades e institucións coas que construír novas iniciativas que den valor ao deseño. Este ano traballarase con From Spain With Design (FSWD), Arquivo do Deseño, Proxectos Internacionais, Gráficas en Negro e Boas Prácticas. Haberá ademais unha mesa pechada, a de Estratexia do Deseño.
 
       O programa presenta dous días completos de actividade. O venres 15 ábrese a xornada con conferencias e presentacións de proxectos e pola tarde concentra toda a dinámica das mesas de traballo. O sábado 16, pola mañá ademais das conferencias e dunha mesa sobre contratación de servizos de deseño, presentaranse as conclusións das mesas de traballo. A última hora da tarde, xa de forma máis distendida, gozaremos do Showroom de festivais e eventos de deseño en España e a presentación da WDC Valencia 2022. Para a xornada do 17 estase planeando unha visita guiada para coñecer ás instalacións de Sargadelos en Sada (A Coruña) e o proxecto A2Velas.
@@ -17,15 +15,14 @@ body:
 
       O 9ENAD é unha actividade organizada por [READ](https://www.designread.es) (Red Española de Asociaciones de Diseño) e por[ DAG](https://dag.gal/gl/) (Asociación Galega de Deseño). Está patrocinada pola [Xunta de Galicia](https://www.xunta.gal/portada) e conta coa colaboración do [CGAC](http://cgac.xunta.gal/GL) (Centro Galego de Arte Contemporánea), do [Museo do Polo Galego](https://www.santiagoturismo.com/museos/museo-do-pobo-galego) e da [World Design Capital Valencia 2022.](https://www.wdcvalencia2022.com/es/) A imaxe gráfica foi creada polos nosos compañeiros Adrián Parcero de[ Guillotina Estudio](http://guillotinaestudio.com) e Ángel Ramos.
     type: text
-  -
-    list: ''
-    url: 'https://designread.es/9enad/'
-    text: 'Web 9ENAD'
+  - list: ""
+    url: "https://designread.es/9enad/"
+    text: "Web 9ENAD"
     type: button
-intro: 'O 9º Encontro Nacional de Asociacións de Deseño, que terá lugar en Santiago de Compostela do 15 ao 17 de outubro, acaba de activar a súa web para recibir as inscricións ás mesas de traballo e ofrecer xa información sobre o programa e participantes do evento. Coas restricións actuais de aforos terase en conta a orde de chegada das solicitudes.'
+intro: "O 9º Encontro Nacional de Asociacións de Deseño, que terá lugar en Santiago de Compostela do 15 ao 17 de outubro, acaba de activar a súa web para recibir as inscricións ás mesas de traballo e ofrecer xa información sobre o programa e participantes do evento. Coas restricións actuais de aforos terase en conta a orde de chegada das solicitudes."
 slug: conta-atras-9enad
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2021-09-02T13:02:16+00:00

@@ -1,9 +1,8 @@
 id: 11
-title: 'La pizarra. Galician & Spanish Slate'
+title: "La pizarra. Galician & Spanish Slate"
 slug: la-pizarra-galician-spanish-slate
 body:
-  -
-    text: |-
+  - text: |-
       A principios do 2010, o arquitecto Carlos Quintáns encargounos darlle forma definitiva a un proxecto de libro, da súa autoría, que editaría o Cluster da Pizarra de Galicia.
 
       A publicación quería mostrar, a través de imaxes e pequenos textos, as cualidades e usos da pizarra a partir de exemplos de arquitectura culta e popular.
@@ -14,29 +13,23 @@ body:
 
       Procuramos facer fincapé na materialidade e na ausencia de gráfica imaxinando que alguén que non lese o texto, pero que vise e percorrese o libro, lle chegase a esencia do seu contido. Lendo, sen ler.
     type: text
-  -
-    image: /img/portfolio/images/5557236de5f0a-0215.jpg
-    text: ''
+  - image: /img/portfolio/images/5557236de5f0a-0215.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5557236de5f0a-0119.jpg
-    text: ''
+  - image: /img/portfolio/images/5557236de5f0a-0119.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5557236de5f0a-0314.jpg
-    text: ''
+  - image: /img/portfolio/images/5557236de5f0a-0314.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5557236de5f0a-0415.jpg
-    text: ''
+  - image: /img/portfolio/images/5557236de5f0a-0415.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5557236de5f0a-059.jpg
-    text: ''
+  - image: /img/portfolio/images/5557236de5f0a-059.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5557239d463d6-067.jpg
-    text: ''
+  - image: /img/portfolio/images/5557239d463d6-067.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558556e764026-5557236de5f0a-0215.jpg
 tags:
@@ -48,13 +41,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Desescribir
-  -
-    name: Cliente
-    value: 'Cluster da Pizarra de Galicia'
-  -
-    name: Ano
-    value: '2011'
+  - name: Cliente
+    value: "Cluster da Pizarra de Galicia"
+  - name: Ano
+    value: "2011"
 draft: true

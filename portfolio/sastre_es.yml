@@ -2,28 +2,22 @@ id: 205
 title: Sastre
 slug: sastre
 body:
-  -
-    text: 'Diseño de una familia tipográfica para los alfabetos latino, griego y hebreo. Seleccionada para la exposición internacional de tipografía Pangramme (Francia, 2016) y como finalista en la Morisawa Type Design Competition (Japón, 2016). Reconocida con el _Best in class_ en los Type &amp; Lettering Awards de la revista Print (EE.UU., 2015). Esta familia tipográfica es un proyecto en curso, aún no dispoñible para su distribución comercial.'
+  - text: "Diseño de una familia tipográfica para los alfabetos latino, griego y hebreo. Seleccionada para la exposición internacional de tipografía Pangramme (Francia, 2016) y como finalista en la Morisawa Type Design Competition (Japón, 2016). Reconocida con el _Best in class_ en los Type &amp; Lettering Awards de la revista Print (EE.UU., 2015). Esta familia tipográfica es un proyecto en curso, aún no dispoñible para su distribución comercial."
     type: text
-  -
-    image: /img/portfolio/images/sastre.png
-    text: ''
+  - image: /img/portfolio/images/sastre.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/sastre2.png
-    text: ''
+  - image: /img/portfolio/images/sastre2.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/sastre3.png
-    text: ''
+  - image: /img/portfolio/images/sastre3.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/sastre4.png
-    text: ''
+  - image: /img/portfolio/images/sastre4.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/sastre5.png
-    text: ''
+  - image: /img/portfolio/images/sastre5.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/sastre0.png
 tags:
@@ -32,10 +26,8 @@ members_id:
   - 56
 lang: es
 info:
-  -
-    name: 'Proyecto académico'
-    value: 'Universidad de Reading'
-  -
-    name: 'Año:'
-    value: '2015'
+  - name: "Proyecto académico"
+    value: "Universidad de Reading"
+  - name: "Año:"
+    value: "2015"
 draft: true

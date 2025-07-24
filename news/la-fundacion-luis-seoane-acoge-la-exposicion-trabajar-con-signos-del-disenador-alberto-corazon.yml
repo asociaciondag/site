@@ -1,8 +1,7 @@
 id: 473
-title: 'La Fundación Luís Seoane acoge la exposición Trabajar con signos del diseñador Alberto Corazón'
+title: "La Fundación Luís Seoane acoge la exposición Trabajar con signos del diseñador Alberto Corazón"
 body:
-  -
-    text: |-
+  - text: |-
       Se trata de la exposición Trabajar con signos. Alberto Corazón 1963-2013. La muestra reúne carteles, publicaciones, maquetas y bocetos originales realizados por [Alberto Corazón](http://www.albertocorazon.com/) en los últimos cincuenta años y organizados en siete grandes bloques para ofrecer una visión global del universo creativo del diseñador, tanto en su vertiente artística como en los campos del diseño gráfico e industrial: Arte y diseño, Compromiso y ética, El papel del diseño en la Transición, La renovación de la imagen, La modernización de la empresa, El Diseño y la Academia y El diseño y el arte.
 
       Fundación Luís Seoane San Francisco 27 15001 A Coruña
@@ -11,12 +10,11 @@ body:
 
       Martes a sábado de 11.00 a 14.00 y de 17.00 a 20.00. Domingos de 11.00 a 14.00. Lunes cerrado
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa526ee8-alberto-corazon.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Se inauguró en noviembre, pero aun estáis a tiempo de visitarla porque permanecerá abierta hasta el 23 de febrero en la [Fundación Luís Seoane](http://www.luisseoanefund.org/fundacionls/) de A Coruña.'
+intro: "Se inauguró en noviembre, pero aun estáis a tiempo de visitarla porque permanecerá abierta hasta el 23 de febrero en la [Fundación Luís Seoane](http://www.luisseoanefund.org/fundacionls/) de A Coruña."
 slug: la-fundacion-luis-seoane-acoge-la-exposicion-trabajar-con-signos-del-disenador-alberto-corazon
 tags: []
 lang: es

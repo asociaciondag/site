@@ -1,9 +1,8 @@
 id: 344
-title: 'Ados System'
+title: "Ados System"
 slug: ados-system
 body:
-  -
-    text: |-
+  - text: |-
       O interese polo deseño de produto, a creación e desenvolvemento de pezas especiais ou a medida para os clientes leva a colaboración con QBO Iluminación, S.L. para o desenvolvemento e fabricación do deseño do sistema de iluminación Ados System.
 
       Ados System é un sistema de iluminación versátil que nace da necesidade de ofrecer solucións de iluminación personalizadas para proxectos de distintos sectores: comercio, hostalaría, vivienda, industria, educación ou sanidade.
@@ -12,21 +11,17 @@ body:
 
       O resultado é unha escultura de luz, unha solución especial, con carácter, que permite incorporar múltiples accesorios, carril trifásico, así como aloxar tiras de led na parte superior e na inferior, para dispoñer da luz necesaria no momento xusto.
     type: text
-  -
-    image: /img/portfolio/images/infografiaados-alum-general-peq.jpg
-    text: ''
+  - image: /img/portfolio/images/infografiaados-alum-general-peq.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/infografiaados-cuadros-1.jpg
-    text: ''
+  - image: /img/portfolio/images/infografiaados-cuadros-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/infografiaados-cuadros-2.jpg
-    text: ''
+  - image: /img/portfolio/images/infografiaados-cuadros-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/infografiaados-cuadros-3.jpg
-    text: ''
+  - image: /img/portfolio/images/infografiaados-cuadros-3.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/infografiaados-alum-general-peq.jpg
 tags:
@@ -38,7 +33,6 @@ members_id:
   - 77
 lang: gl
 info:
-  -
-    name: Ano
-    value: '2019'
+  - name: Ano
+    value: "2019"
 draft: false

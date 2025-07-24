@@ -1,20 +1,18 @@
 id: 303
-title: 'Los Premios Nacionales reconocen la artesanía gallega'
+title: "Los Premios Nacionales reconocen la artesanía gallega"
 body:
-  -
-    text: |-
+  - text: |-
       [Arturo Álvarez](http://www.arturo-alvarez.com/) (iluminación) optaba al Premio Nacional de Artesanía, la zoqueira Elena Ferro Lamela optaba estaba nominada al Premio Producto, y la Fundación [Centro Gallego de Artesanía y del Diseño. Dirección General de Comercio de la Xunta de Galicia](http://www.artesaniadegalicia.org/ca/web/portada.php), al Premio Promociona para entidades públicas.
 
       Finalmente y, como no podía ser de otro modo, dos han sido los galardonados gallegos: la empresa [Cerámica Regal](http://www.oteroregal.com/) de Viveiro, con el Premio Promociona que reconoce la contribución de las entidades privadas en la promoción de la artesanía, y la cestera [Idoia Cuesta](http://idoiacuesta.com/), que recibió una mención en la categoría Innova que premia a los productos que apuestan por la innovación en el ámbito de la artesanía.
 
       Más información en: [Premios Nacionales de Artesanía](http://www.fundesarte.org/new/premiosnacionalesdeartesania/index.php)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9f37176-premios-artesans-2011.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'La verdad es que era muy difícil que esta año la artesanía gallega no se llevase premio, sobre todo si tenemos en cuenta que había candidatos gallegos nominados en todas las categorías de los Premios Nacionales.'
+intro: "La verdad es que era muy difícil que esta año la artesanía gallega no se llevase premio, sobre todo si tenemos en cuenta que había candidatos gallegos nominados en todas las categorías de los Premios Nacionales."
 slug: los-premios-nacionales-reconocen-la-artesania-gallega
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 685
-title: 'A Rede Española de Asociacións de Deseño convoca o 4ENAD'
+title: "A Rede Española de Asociacións de Deseño convoca o 4ENAD"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/57a4c24e4018f-4enad.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O encontro deste ano desenvolverase en Málaga o 22 e o 23 de setembro e terá como primeiro obxectivo a presentación dos proxectos finalizados e daqueles que están en curso, produto do labor da READ e das mesas de traballo dos ENAD de anos anteriores, para continuar traballando nas liñas definidas e configurar novos equipos de traballo colaborativo.
 
       O segundo obxectivo será a posta en funcionamento do novo espazo común de coñecemento e debate: Ágora. Este será o lugar en que exporen temas non formulados aínda e que as asociacións de deseño consideren importante tratar: asuntos para debater, experiencias con valores destacábeis para compartiren, etc.
@@ -17,15 +15,14 @@ body:
 
       Toda a información sobre o encontro e as inscricións na páxina do evento:
     type: text
-  -
-    list: ''
-    url: 'http://www.designread.es/4enad/'
+  - list: ""
+    url: "http://www.designread.es/4enad/"
     text: 4ENAD
     type: button
-intro: 'Con cada nova edición, o Encontro Nacional de Asociacións de Deseño que organiza a Rede Española de Asociacións de Deseño (READ) consolídase como un espazo común de análise e presentación de propostas por parte de todos actores relacionados co exercicio do deseño.'
+intro: "Con cada nova edición, o Encontro Nacional de Asociacións de Deseño que organiza a Rede Española de Asociacións de Deseño (READ) consolídase como un espazo común de análise e presentación de propostas por parte de todos actores relacionados co exercicio do deseño."
 slug: a-rede-espanola-de-asociacions-de-deseno-convoca-o-4enad
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2016-08-05T18:43:27+00:00

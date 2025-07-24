@@ -1,20 +1,18 @@
 id: 309
-title: 'Designa 2011: La esperanza proyectual'
+title: "Designa 2011: La esperanza proyectual"
 body:
-  -
-    text: |-
+  - text: |-
       La conferencia anual de investigación en Diseño, Designa 2011, reflexionará sobre los problemas conceptuales y operativos planteados por el Diseño a lo largo de dos días, 25 y 26 de noviembre, en la [Universidad de Beira Interior](https://www.ubi.pt/Index.aspx).
 
       El plazo de inscripción para asistir a las conferencias finaliza el 20 de noviembre.
 
       Más información en: [Designa 2011](http://designa.ubi.pt/index.html)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9f5941f-designa-2011.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Tomando como punto de partida, el clásico ensayo de Tomás Maldonado _La esperanza proyectual_...'
+intro: "Tomando como punto de partida, el clásico ensayo de Tomás Maldonado _La esperanza proyectual_..."
 slug: designa-2011-la-esperanza-proyectual
 tags: []
 lang: es

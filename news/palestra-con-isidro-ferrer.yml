@@ -1,16 +1,14 @@
 id: 599
-title: 'Palestra de Isidro Ferrer'
+title: "Palestra de Isidro Ferrer"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/5626248eab0e8-isidro-ferrer-web-670x900.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: '[Isidro Ferrer](http://www.isidroferrer.com/) é na actualidade unha das figuras internacionais máis relevantes na gramática obxectual e na creación de universos cotiáns.'
+  - text: "[Isidro Ferrer](http://www.isidroferrer.com/) é na actualidade unha das figuras internacionais máis relevantes na gramática obxectual e na creación de universos cotiáns."
     type: text
-intro: 'O deseñador, aproveitando que esta fin de semana imparte un [taller](http://laplantacion.info/isidro-ferrer/) en Ourense organizado por a Plantación, achégase antes á escola [Antonio Faílde](http://www.escolarte.com/) para falar sobre o seu método de traballo e sobre como consegue dotar de novas dimensións e de vida propia os obxectos cotiáns.'
+intro: "O deseñador, aproveitando que esta fin de semana imparte un [taller](http://laplantacion.info/isidro-ferrer/) en Ourense organizado por a Plantación, achégase antes á escola [Antonio Faílde](http://www.escolarte.com/) para falar sobre o seu método de traballo e sobre como consegue dotar de novas dimensións e de vida propia os obxectos cotiáns."
 slug: palestra-con-isidro-ferrer
 tags: []
 lang: gl

@@ -23,38 +23,37 @@
  */
 
 .page-content {
-	padding-bottom: 3rem;
+  padding-bottom: 3rem;
 }
 
 /* Axustes na lista de proxectos */
 .project-list {
-	& .project-header{
-		color: white;
-		opacity: 0;
-		transition: opacity 0.5s;
-	}
+  & .project-header {
+    color: white;
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
 
-	& .project-image {
-		border-radius: 4px;
-		background: var(--color-main);
+  & .project-image {
+    border-radius: 4px;
+    background: var(--color-main);
 
-		& img {
-			transition: opacity 0.5s;
-		}
-	}
+    & img {
+      transition: opacity 0.5s;
+    }
+  }
 
-	& > a:hover{
-		& .project-header{
-			opacity: 1;
-		}
-		
-		& .project-image {
-			background: var(--color-main);
+  & > a:hover {
+    & .project-header {
+      opacity: 1;
+    }
 
-			& img {
-				opacity: 0.1;
-			}
-		}
-	}
+    & .project-image {
+      background: var(--color-main);
+
+      & img {
+        opacity: 0.1;
+      }
+    }
+  }
 }
-

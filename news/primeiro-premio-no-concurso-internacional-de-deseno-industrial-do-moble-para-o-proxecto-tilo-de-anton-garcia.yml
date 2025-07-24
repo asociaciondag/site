@@ -1,36 +1,31 @@
 id: 589
-title: 'Primeiro premio no Concurso Internacional de Deseño Industrial do Moble para o proxecto TILO de Antón García'
+title: "Primeiro premio no Concurso Internacional de Deseño Industrial do Moble para o proxecto TILO de Antón García"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/560a5e84ad782-premiados.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Uns premios que van xa pola 20ª edición e que naceron co obxectivo de fomentar a cultura do deseño industrial no sector do moble e promover o achegamento entre deseñadores e empresas.
 
       Con dúas categorías de participación, una para profesionais e outra para estudantes, trátase do único concurso de deseño que premia tanto o deseño conceptual como o desenvolvemento necesario para a construción dun prototipo real.
 
       Na edición deste ano, na que participaban case 70 proxectos, o traballo premiado na categoría de profesionais, e dotado con 2500 euros, foi TILO, un proxecto deseñado polo noso socio [Antón García](http://www.rokdesign.es/), xunto con María Salazar, e fabricado en colaboración con Egelasta. TILO é un versátil e orixinal moble modular formado por unha mesa e uns estantes totalmente customizables concibido para satisfacer as necesidades dun usuario contemporáneo e para cuxo deseño os seus autores se inspiraron no outono.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/560a5e84ae0b5-tilo-premio-cetem-escena.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/560a5e84adde1-tilo-spanish-dossier-pg11-recorte.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'O xurado que avaliou os traballos procedentes de países como Italia, O Brasil, Os Estados Unidos, Colombia, México, Perú, A China e España, estivo composto polos deseñadores Carmelo Puyo Irisarri, Ana Ibáñez Martínez e José Antonio Martínez Gil, así como por Pedro Azorín Puche (Dido Mobili S.L), Ana Alcázar Peña (Suinta S.L.), Antonio Romero Navarro (Instituto de Fomento Región de Murcia), Ángel Luis del Pino Moreno (Concejalía de Hacienda, Industria, Sanidad y Consumo del Excmo. Ayuntamiento de Yecla), D. Diego López Marín (CajaMurcia) e José Francisco Puche Forte (CETEM).'
+  - text: "O xurado que avaliou os traballos procedentes de países como Italia, O Brasil, Os Estados Unidos, Colombia, México, Perú, A China e España, estivo composto polos deseñadores Carmelo Puyo Irisarri, Ana Ibáñez Martínez e José Antonio Martínez Gil, así como por Pedro Azorín Puche (Dido Mobili S.L), Ana Alcázar Peña (Suinta S.L.), Antonio Romero Navarro (Instituto de Fomento Región de Murcia), Ángel Luis del Pino Moreno (Concejalía de Hacienda, Industria, Sanidad y Consumo del Excmo. Ayuntamiento de Yecla), D. Diego López Marín (CajaMurcia) e José Francisco Puche Forte (CETEM)."
     type: text
-intro: 'O Centro Tecnolóxico do Moble e a Madeira da Rexión de Murcia (CETEM) entregou a semana pasada, no marco da Feira do Moble Yecla, os premios do Concurso Internacional de Deseño Industrial do Moble.'
+intro: "O Centro Tecnolóxico do Moble e a Madeira da Rexión de Murcia (CETEM) entregou a semana pasada, no marco da Feira do Moble Yecla, os premios do Concurso Internacional de Deseño Industrial do Moble."
 slug: primeiro-premio-no-concurso-internacional-de-deseno-industrial-do-moble-para-o-proxecto-tilo-de-anton-garcia
 tags: []
 lang: gl

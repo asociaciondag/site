@@ -4,19 +4,16 @@ contact: |-
 
   [pablo@casapransa.com](mailto:pablo@wearebed.com)
 links:
-  -
-    text: Web
-    url: 'https://casapransa.com'
+  - text: Web
+    url: "https://casapransa.com"
     type: link
-  -
-    text: Linkedin
-    url: 'https://es.linkedin.com/in/pablo-alvarez-estevez-899a9315'
+  - text: Linkedin
+    url: "https://es.linkedin.com/in/pablo-alvarez-estevez-899a9315"
     type: link
-  -
-    text: Spotify
-    url: 'https://open.spotify.com/user/mallado?si=2b2edad34ea24626&nd=1&dlsi=81f4341aade6497d'
+  - text: Spotify
+    url: "https://open.spotify.com/user/mallado?si=2b2edad34ea24626&nd=1&dlsi=81f4341aade6497d"
     type: link
-name: 'Pablo Álvarez Estévez'
+name: "Pablo Álvarez Estévez"
 slug: pabloalvarez
 avatarBig: null
 avatar: /img/avatars/avatar-pablo-alvarez.jpg
@@ -25,10 +22,10 @@ tags:
   - Embalaxe
   - Espazos
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Sinalética
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico en CASA.PRANSA'
-job.es: 'Diseñador gráfico en CASA.PRANSA'
+job.gl: "Deseñador gráfico en CASA.PRANSA"
+job.es: "Diseñador gráfico en CASA.PRANSA"

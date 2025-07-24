@@ -1,15 +1,13 @@
 id: 286
-title: 'Volve Fálame do teu'
+title: "Volve Fálame do teu"
 body:
-  -
-    text: 'Nesta nova edición de **Fálame do teu**, a cita será os xoves ás 18.30 h e pola sede da Vicerreitoría do Campus de Pontevedra pasarán [Oriol Villar](http://www.villarrosas.com/index.html#/home), [Rafa Soto](http://www.herraizsoto.com/), [Álex Quintana](http://www.arista.es/) e [Carlos Rolando](http://www.crolandodesign.com/artindex.html).'
+  - text: "Nesta nova edición de **Fálame do teu**, a cita será os xoves ás 18.30 h e pola sede da Vicerreitoría do Campus de Pontevedra pasarán [Oriol Villar](http://www.villarrosas.com/index.html#/home), [Rafa Soto](http://www.herraizsoto.com/), [Álex Quintana](http://www.arista.es/) e [Carlos Rolando](http://www.crolandodesign.com/artindex.html)."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9ecf7de-falame-do-teu-2011.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'O ciclo de conferencias de creativos publicitarios que coordina [Creatividade Galega](http://creatividadegalega.org/) e a [Universidade de Vigo](http://www.uvigo.es/) volve este outubro e novembro á [Casa das Campás](http://casadascampas.uvigo.es/).'
+intro: "O ciclo de conferencias de creativos publicitarios que coordina [Creatividade Galega](http://creatividadegalega.org/) e a [Universidade de Vigo](http://www.uvigo.es/) volve este outubro e novembro á [Casa das Campás](http://casadascampas.uvigo.es/)."
 slug: volve-falame-do-teu
 tags: []
 lang: gl

@@ -1,14 +1,12 @@
 id: 1067
-title: '«Pacto por el Diseño», promovido por READ y otras cinco entidades, busca impulsar unha futura Estrategia Nacional de Diseño'
+title: "«Pacto por el Diseño», promovido por READ y otras cinco entidades, busca impulsar unha futura Estrategia Nacional de Diseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/jornada-parlamentaria-pnl-2018-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El impulso de esta iniciativa nace del trabajo conjunto y colaborativo de seis organizaciones –READ, Red Española de Asociaciones de Diseño; FAD, Fomento de las Artes y del Diseño; BcD, Barcelona centro de Diseño; FMRE, Foro de Marcas Renombradas Españolas; CADI, Centro Aragonés de Diseño Industrial y València Capital Mundial del Diseño 2022– a través del grupo de trabajo «La Multilateral del Diseño».
 
       El 10 de mayo de 2018 la Comisión de Economía, Industria y Competitividad del Congreso de los Diputados aprobó por unanimidad de todos los grupos políticos la Proposición no de Ley para el desarrollo de una Estrategia Nacional de Diseño. Una propuesta que contó con la colaboración y respaldo de organismos y agentes del ecosistema nacional del diseño. Tres años después de su aprobación, es el momento de retomar el camino iniciado en aquel momento para apelar a la capacidad del diseño para crear, innovar y aportar soluciones transversales, sostenibles, sociales y con un alto impacto económico. El ejemplo de otros países europeos en la implementación y uso del diseño en sus estrategias institucionales son buen ejemplo de la necesidad de aprovechar el valor del diseño para ayudar en la recuperación económica, social y medioambiental.
@@ -19,12 +17,11 @@ body:
 
       La iniciativa cuenta ya con la adhesión de numerosas entidades, empresas y profesionais de distintos sectores y disciplinas. Toda la información sobre el «Pacto por el Diseño» y el formulario de adhesión están disponibles en la página web de la iniciativa.
     type: text
-  -
-    list: ''
-    url: 'https://pactoporeldiseno.es/'
-    text: 'Pacto por el Diseño'
+  - list: ""
+    url: "https://pactoporeldiseno.es/"
+    text: "Pacto por el Diseño"
     type: button
-intro: 'La DAG Asociación Gallega de Diseño se suma al pacto impulsado por seis organizaciones de referencia en el sector. El documento tiene como principal objetivo conectar a particulares, empresas y organizaciones interesadas en el uso del diseño como herramienta de transformación económica, social y medioambiental.'
+intro: "La DAG Asociación Gallega de Diseño se suma al pacto impulsado por seis organizaciones de referencia en el sector. El documento tiene como principal objetivo conectar a particulares, empresas y organizaciones interesadas en el uso del diseño como herramienta de transformación económica, social y medioambiental."
 slug: pacto-por-el-diseno-read
 tags: []
 lang: es

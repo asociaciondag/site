@@ -1,16 +1,14 @@
 id: 437
-title: 'Expositor pementa '
+title: "Expositor pementa "
 slug: expositor-pementa-gal
 body:
-  -
-    text: |-
+  - text: |-
       Expositor para a firma de lentes Pementa Eyewear
 
       Fotografía de Javier Fernández
     type: text
-  -
-    image: /img/portfolio/images/expositior-pementa.png
-    text: ''
+  - image: /img/portfolio/images/expositior-pementa.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/expositior-pementa.png
 tags:

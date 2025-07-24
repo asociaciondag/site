@@ -1,34 +1,30 @@
 id: 1265
-title: 'Parga, las luminarias diseñadas por Cenlitros para a-emotional Light, reciben un Honoree nos premios Interior Design 2023'
+title: "Parga, las luminarias diseñadas por Cenlitros para a-emotional Light, reciben un Honoree nos premios Interior Design 2023"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/parga-a-emotional-light.jpg
-    text: 'Fotografía: a-emotional light'
+    text: "Fotografía: a-emotional light"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los Best of Year Award están organizados por la revista Interior Design. En su 18ª edición, a-emotional light presentó la colección Parga, diseñada por los compañeros de Cenlitros, estudio formado por Ricardo Tubío y el socio de DAG, Xabier Rilo. Tal y como apuntan en su web, esta colección recupera la aplicación del granito para objetos funcionales y decorativos en espacios interiores, aprovechando la neutralidad cromática y su textura natural. El conjunto está formado por tres piezas de diferentes diámetros y alturas elaboradas con granito que se extrae de las canteras de Parga-Guitiriz, aprovechando los descartes. Se trata de un material compacto de tono grisáceo claro uniforme con pintas negras y granulometría fina.
 
       No es la primera vez que [Cenlitros](https://www.cenlitros.com/) colabora con a-emotional light. También diseñaron las colecciones Nebra y Cambo, esta última llevó el Premio Paraugas al Mejor Diseño de Producto en 2021.
 
       Los premios de la revista Interior Design ponen de relieve los trabajos más impactantes del año, reconociendo a los iconos de hoy y marcando la pauta para la innovación del mañana.
     type: text
-  -
-    list: ''
-    url: 'https://interiordesign.net/awards/best-of-year/#pendant-fixtures'
-    text: 'Web de los premios'
+  - list: ""
+    url: "https://interiordesign.net/awards/best-of-year/#pendant-fixtures"
+    text: "Web de los premios"
     type: button
-  -
-    list: ''
-    url: 'https://www.cenlitros.com/parga'
-    text: 'Colección Parga Cenlitros'
+  - list: ""
+    url: "https://www.cenlitros.com/parga"
+    text: "Colección Parga Cenlitros"
     type: button
-intro: 'Los premios reconocen la excelencia mundial en diseño de interiores, en arquitectura y en la fabricación, y entre los cientos de galardonados encontramos la colección de luminarias Parga, diseñada por Cenlitros para a-emotional light, que obtuvo un Honoree dentro de la categoría de producto.'
+intro: "Los premios reconocen la excelencia mundial en diseño de interiores, en arquitectura y en la fabricación, y entre los cientos de galardonados encontramos la colección de luminarias Parga, diseñada por Cenlitros para a-emotional light, que obtuvo un Honoree dentro de la categoría de producto."
 slug: parga-las-luminarias-disenadas-por-cenlitros-para-a-motional-light-reciben-un-honoree-en-los-premios-interior-design-2023
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2023-12-18T09:08:22+00:00

@@ -2,44 +2,34 @@ id: 432
 title: Fontoira
 slug: fontoira
 body:
-  -
-    text: 'En 2020 salió a la luz Fontoira, una tipografía realizada junto con Lino Prieto como coautor. La fuente está inspirada en el estilo tradicional de laminar los barcos en los puertos de O Grove y Meloxo, concretamente de la mano de Raúl Fontoira, un marinero jubilado y aficionado al lettering desde gran parte de su vida. El señor Fontoira rotuló a mano docenas de barcos con un estilo muy llamativo y característico que ya es algo que forma parte del paisaje y del imaginario colectivo de la villa. El propósito de esta tipografía no solo era para rendirle homenage a nuestro vecino, sino también para dar a conocer y perpetuar su obra, así como animar a que nuevas embarcaciones se sigan rotulando con su estilo.'
+  - text: "En 2020 salió a la luz Fontoira, una tipografía realizada junto con Lino Prieto como coautor. La fuente está inspirada en el estilo tradicional de laminar los barcos en los puertos de O Grove y Meloxo, concretamente de la mano de Raúl Fontoira, un marinero jubilado y aficionado al lettering desde gran parte de su vida. El señor Fontoira rotuló a mano docenas de barcos con un estilo muy llamativo y característico que ya es algo que forma parte del paisaje y del imaginario colectivo de la villa. El propósito de esta tipografía no solo era para rendirle homenage a nuestro vecino, sino también para dar a conocer y perpetuar su obra, así como animar a que nuevas embarcaciones se sigan rotulando con su estilo."
     type: text
-  -
-    image: /img/portfolio/images/1-fontoira.png
-    text: ''
+  - image: /img/portfolio/images/1-fontoira.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/2-fontoira.png
-    text: ''
+  - image: /img/portfolio/images/2-fontoira.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/3-fontoira.png
-    text: ''
+  - image: /img/portfolio/images/3-fontoira.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/7-fontoira.png
-    text: ''
+  - image: /img/portfolio/images/7-fontoira.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/8-fontoira.jpg
-    text: ''
+  - image: /img/portfolio/images/8-fontoira.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/9-fontoira.jpg
-    text: ''
+  - image: /img/portfolio/images/9-fontoira.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/10-fontoira.jpg
-    text: ''
+  - image: /img/portfolio/images/10-fontoira.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/11-fontoira.jpg
-    text: ''
+  - image: /img/portfolio/images/11-fontoira.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/15-fontoira.jpg
-    text: ''
+  - image: /img/portfolio/images/15-fontoira.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/1-fontoira.png
 tags:

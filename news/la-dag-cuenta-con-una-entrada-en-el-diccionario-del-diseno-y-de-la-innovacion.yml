@@ -1,19 +1,17 @@
 id: 1209
-title: 'La DAG cuenta con una entrada en el Diccionario del diseño y de la innovación'
+title: "La DAG cuenta con una entrada en el Diccionario del diseño y de la innovación"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/image-diccionario-deseno.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La primera edición del [_Diccionario del diseño y de la innovación en Galicia_](http://gain.xunta.gal/repo/2-DicionarioDesenhoGalicia.pdf), se presentó en Santiago de Compostela el pasado mes de noviembre de 2022 y es una de las iniciativas lanzadas por la Xunta de Galicia a través de la Agencia Gallega de Innovación en colaboración con la Fundación DIDAC, dentro del programa Diseño para la Innovación Diferencia 2024. Esta primera edición ofrece una selección de 100 fichas de profesionales, estudios, proyectos, iniciativas empresariales y entidades ligadas al diseño que participaron de las diferentes acciones desarrolladas por la Xunta de Galicia desde el inicio del programa en 2018.
 
       La DAG forma parte de la publicación como entidad representante de los y las profesionales del diseño en Galicia, y como colaboradora habitual del programa impulsado por la Xunta. Al mismo tiempo, algunas de las asociadas a la DAG también están presentes en esta primera edición, como Álvaro Valiño, Cenlitrosmetrocadrado, Costa, Desescribir, Desoños, Idoia Cuesta, Pepe Barro y el Grupo Revisión, María Ramos, Marcos Dopico, Numax, Nuria Carballo, Roberto Núñez o Uqui Permui. Muchas más se sumarán en los próximos meses en posteriores ediciones,​ pues es un proyecto que crecerá​ con el paso del tiempo con la inclusión de más fichas de referencia para consulta e interés del sector y de la sociedad en general. ​ ​
     type: text
-intro: '_ABC Diseño_, el _Diccionario del diseño y de la innovación_, editado por la Xunta de Galicia y Fundación DIDAC contiene 100 fichas de profesionales, estudios y proyectos de diseño ordenados alfabéticamente para su fácil consulta​. La DAG es una de ellas.'
+intro: "_ABC Diseño_, el _Diccionario del diseño y de la innovación_, editado por la Xunta de Galicia y Fundación DIDAC contiene 100 fichas de profesionales, estudios y proyectos de diseño ordenados alfabéticamente para su fácil consulta​. La DAG es una de ellas."
 slug: la-dag-cuenta-con-una-entrada-en-el-diccionario-del-diseno-y-de-la-innovacion
 tags: []
 lang: es

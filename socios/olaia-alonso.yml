@@ -4,11 +4,10 @@ contact: |-
 
   <demostra@demostra.com>
 links:
-  -
-    text: Demostra
-    url: 'http://www.demostra.com/'
+  - text: Demostra
+    url: "http://www.demostra.com/"
     type: link
-name: 'Olaia Alonso'
+name: "Olaia Alonso"
 slug: olaia-alonso
 avatarBig: null
 avatar: /img/avatars/demostra.jpeg
@@ -19,5 +18,5 @@ tags:
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: ' Deseñadora en Demostra'
-job.es: ' Diseñadora en Demostra'
+job.gl: " Deseñadora en Demostra"
+job.es: " Diseñadora en Demostra"

@@ -1,21 +1,19 @@
 id: 733
-title: 'Raiola Marketing Conference Galicia'
+title: "Raiola Marketing Conference Galicia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/raiola-marketing.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El evento estará presentado y moderado Álvaro Fontela y en él participarán los siguientes ponentes: Luis M. Villanueva, Alejandro Novás, Lúa Louro, Cova Díaz, Ana Mata, Fernando Angulo, Miguel Florido, Javi Pastor, Rosa Morel, Claudio Inacio, José Facchin, Miguel Ángel Trabado e Rubén Alonso.
 
       Las personas interesadas pueden comprar su entrada en el siguiente enlace: [Raiola Marketing](https://www.eventbrite.es/e/entradas-raiola-marketing-conference-galicia-34468075943?aff=cluster&discount=CLUSTER)
 
       Todos los socios y socias de la DAG tienen un descuento del 50%.
     type: text
-intro: 'Se trata de una jornada de marketing digital que tendrá lugar el próximo 8 de julio en la sala Obradoiro del Palacio de Congresos y Exposiciones de Galicia en Santiago de Compostela.'
+intro: "Se trata de una jornada de marketing digital que tendrá lugar el próximo 8 de julio en la sala Obradoiro del Palacio de Congresos y Exposiciones de Galicia en Santiago de Compostela."
 slug: raiola-marketing-conference-galicia
 tags: []
 lang: es

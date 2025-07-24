@@ -1,33 +1,28 @@
 id: 1113
-title: 'Conferencia de Nacho Lavernia, Premio Nacional de Diseño, en el Centro Galego de Arte Contemporánea'
+title: "Conferencia de Nacho Lavernia, Premio Nacional de Diseño, en el Centro Galego de Arte Contemporánea"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/tarjeta-nl-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       From Spain With Design (FSWD) es un proyecto de READ, Red Española de Asociaciones de Diseño, concebido de forma colaborativa como una herramienta para la proyección del diseño español a nivel nacional e internacional. Fruto de este proyecto se inauguró el pasado 15 de octubre la exposición «FSWD. Identidad y territorio», que recoge proyectos de diseño de distintos ámbitos, entre ellos el diseño de estuches, especialidad en la que sobresale [Nacho Lavernia](https://lavernia-cienfuegos.com/es/equipo), Premio Nacional de Diseño en el 2012 y un referente a nivel internacional.
 
       La exposición cuenta con un acuerdo firmado entre la Xunta de Galicia y READ a través de la [Axencia Galega da Industria Forestal](https://www.xunta.gal/notas-de-prensa/-/nova/64991/xunta-red-espanola-asociaciones-diseno-colaboraran-divulgacion-del-uso-madera), para la divulgación del uso de la madera gallega como elemento para el diseño. De esta manera todas las muestras de esta exposición itinerante, que se desarrollará en varias ciudades y países, utilizarán como soportes de las piezas unas peanas realizadas de manera artesanal en Galicia con madera local.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/expo-fswd-xeral.jpg
-    text: 'Vista de las peanas de la exposición «FSWD. Identidad y territorio», hechas en colaboración con Xera'
+    text: "Vista de las peanas de la exposición «FSWD. Identidad y territorio», hechas en colaboración con Xera"
     mode: normal
     type: image
-  -
-    text: 'Las plazas para la conferencia se cubrirán por orden de inscripción y posteriormente, a las 19:00h, se realizará una visita guiada a la exposición. «FSWD: Identidad y territorio» está​ ​ comisariada por Uqui Permui (DAG), Ángel Martínez (ADCV), Gloria Escribano (DIMAD) y Juan Lázaro (Cuenca Diseño) y puede visitarse hasta el 30 de enero.'
+  - text: "Las plazas para la conferencia se cubrirán por orden de inscripción y posteriormente, a las 19:00h, se realizará una visita guiada a la exposición. «FSWD: Identidad y territorio» está​ ​ comisariada por Uqui Permui (DAG), Ángel Martínez (ADCV), Gloria Escribano (DIMAD) y Juan Lázaro (Cuenca Diseño) y puede visitarse hasta el 30 de enero."
     type: text
-  -
-    list: ''
-    url: 'https://forms.gle/B8Tx5r93ifcwDRhN7'
+  - list: ""
+    url: "https://forms.gle/B8Tx5r93ifcwDRhN7"
     text: Inscripciones
     type: button
-intro: 'El próximo jueves 13 de enero a las 18:00 h. en el [CGAC,](https://cgac.xunta.gal/gl) Nacho Lavernia ofrecerá la conferencia «Exportar diseño y diseño para exportar» en el marco de la exposición [«FSWD: Identidad y territorio»](https://fswd.es/expo/)'
+intro: "El próximo jueves 13 de enero a las 18:00 h. en el [CGAC,](https://cgac.xunta.gal/gl) Nacho Lavernia ofrecerá la conferencia «Exportar diseño y diseño para exportar» en el marco de la exposición [«FSWD: Identidad y territorio»](https://fswd.es/expo/)"
 slug: conferencia-nacho-lavernia-premio-nacional-diseno
 tags: []
 lang: es

@@ -1,34 +1,28 @@
 id: 277
-title: 'Identidade do concello de Poio'
+title: "Identidade do concello de Poio"
 slug: identidade-do-concello-de-poio
 body:
-  -
-    image: /img/portfolio/images/simbolo-marca-poio.jpg
-    text: ''
+  - image: /img/portfolio/images/simbolo-marca-poio.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/simbolo-logotipo-marca-poio.jpg
-    text: ''
+  - image: /img/portfolio/images/simbolo-logotipo-marca-poio.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/positivo-e-negativo.jpg
-    text: ''
+  - image: /img/portfolio/images/positivo-e-negativo.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/sello-antiguo-poio.jpg
-    text: ''
+  - image: /img/portfolio/images/sello-antiguo-poio.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/simbolo-marca-poio.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 23
 lang: gl
 info:
-  -
-    name: 'Cliente:'
-    value: 'Concello de Poio'
-  -
-    name: 'Ano:'
-    value: '2017'
+  - name: "Cliente:"
+    value: "Concello de Poio"
+  - name: "Ano:"
+    value: "2017"
 draft: false

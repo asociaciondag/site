@@ -1,14 +1,12 @@
 id: 1162
-title: 'Desconto para asociadas no ​Máster CESUGA en Deseño Gráfico e Audiovisual '
+title: "Desconto para asociadas no ​Máster CESUGA en Deseño Gráfico e Audiovisual "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-master-cesuga-02-22.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O máster, de carácter práctico e versátil está estruturado en tres bloques básicos -Gráfica, Audiovisual e Planificación Estratéxica-, e permitirá​ ao alumnado adquirir competencias relacionadas coa comunicación visual e audiovisual. Contará cun equipo de profesores formado por figuras de recoñecida traxectoria profesional e docente. O vínculo co mundo profesional constitúe o núcleo do cuarto e último bloque, un Traballo Fin de Máster enfocado como caso práctico no que envorcar os coñecementos e ferramentas adquiridas, e complétase cunha serie de obradoiros relacionados coas áreas específicas do Máster.
 
       O bloque de Gráfica estará a cargo dos nosos asociados [María Ramos ](https://dag.gal/es/maria-ramos/)(NM type), [Cibrán Rico](https://dag.gal/es/cibran-rico-lopez/) e [Suso Vázquez](https://dag.gal/es/suso-vazquez-gomez/) (Desescribir), [Dani Bembibre](https://dag.gal/es/dani-bembibre/) (Costa), [Alberto Carballido](https://dag.gal/es/alberto-carballido/) e [Iago Barreiro](https://dag.gal/es/iago-barreiro/) (Novagarda), e [Pepe Barro](https://dag.gal/es/pepe-barro/), que encargarase da clase maxistral de apertura; Jano Viñuela, Lorena Arévalo e Borja Ramón López Cotelo completan o grupo docente. O bloque de Audiovisual será impartido por Andrea Franco, David Fidalgo, Miguel Mariño, Javier Trigales e Tono Mejuto; mentres que Chisco Saavedra e Julián Abad (Wise), xunto con Marga Borreguero, serán os responsables do bloque de Planificación Estratéxica.
@@ -17,12 +15,11 @@ body:
 
       Ademais do 20% de desconto para asociadas interesadas, o pago pódese aplazar ata en 7 meses e o programa benefíciase de [FUNDAE](https://www.fundae.es/).
     type: text
-  -
-    list: ''
-    url: 'https://cesuga.com/master-en-diseno-grafico-audiovisual/'
-    text: 'Máis Información'
+  - list: ""
+    url: "https://cesuga.com/master-en-diseno-grafico-audiovisual/"
+    text: "Máis Información"
     type: button
-intro: 'O Centro Superior de Estudos Universitarios de Galicia ([CESUGA](https://cesuga.com/)) incorpora á súa oferta docente para o curso 2022-23 o Máster en Deseño Gráfico e Audiovisual, que se desenvolverá entre outubro de 2022 e maio de 2023. As persoas asociadas a DAG, teñen un 20% de desconto na matrícula.'
+intro: "O Centro Superior de Estudos Universitarios de Galicia ([CESUGA](https://cesuga.com/)) incorpora á súa oferta docente para o curso 2022-23 o Máster en Deseño Gráfico e Audiovisual, que se desenvolverá entre outubro de 2022 e maio de 2023. As persoas asociadas a DAG, teñen un 20% de desconto na matrícula."
 slug: desconto-para-asociadas-no-master-cesuga-en-deseno-grafico-e-audiovisual
 tags: []
 lang: gl

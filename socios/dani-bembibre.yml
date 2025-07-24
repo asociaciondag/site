@@ -2,22 +2,20 @@ id: 6
 contact: |-
   **Costa**
 
-  Rúa Real 55, 1º esq.  
+  Rúa Real 55, 1º esq.
    15003 A Coruña
 
   T. 981 229 662
 
   <dani@costa.io>
 links:
-  -
-    text: Costa
-    url: 'http://costa.io'
+  - text: Costa
+    url: "http://costa.io"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/danibembibre'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/danibembibre"
     type: linkedin
-name: 'Dani Bembibre'
+name: "Dani Bembibre"
 slug: dani-bembibre
 avatarBig: null
 avatar: /img/avatars/retrato-2018.jpg
@@ -27,10 +25,10 @@ tags:
   - Editorial
   - Gráfico
   - Embalaxe
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Exposicións
 draft: false
-bio.gl: 'Dani Bembibre é deseñador gráfico e director de arte en Costa. Licenciado en Belas Artes, especializouse en deseño e ilustración na Universidade Aalto de Helsinki (Finlandia). Ten 15 anos de experiencia. Traballou en axencias como Ruiz+Company ou SUMMA de Barcelona, e nesta participou en proxectos para clientes como Silestone, Chocolat Factory, Nutrexpa, Telecinco ou na renovación da identidade visual de RTVE. En 2010 funda o seu propio estudio na Coruña, Belda. En 2014 asóciase con David Silvosa e nace Costa. É docente en distintos foros, e ten o Premio do Art Directors Club of Europe, un Premio LAUS e os premios Grafia de Finlandia.'
-bio.es: 'Dani Bembibre es diseñador gráfico y director de arte en Costa. Licenciado en Bellas Artes, se especializó en diseño e ilustración en la Universidad Aalto de Helsinki (Finlandia). Tiene 15 años de experiencia. Ha trabajado en agencias como Ruiz+Company o SUMMA de Barcelona, y en esta ha participado en proyectos para clientes como Silestone, Chocolat Factory, Nutrexpa, Telecinco o en la renovación de la identidad visual de RTVE. En 2010 funda su propio estudio en A Coruña, Belda. En 2014 se asocia con David Silvosa y nace Costa. Es docente en distintos foros, y tiene el Premio del Art Directors Club of Europe, un Premio LAUS y los premios Grafia de Finlandia.'
-job.gl: 'Deseñador gráfico en Costa'
-job.es: 'Diseñador gráfico en Costa'
+bio.gl: "Dani Bembibre é deseñador gráfico e director de arte en Costa. Licenciado en Belas Artes, especializouse en deseño e ilustración na Universidade Aalto de Helsinki (Finlandia). Ten 15 anos de experiencia. Traballou en axencias como Ruiz+Company ou SUMMA de Barcelona, e nesta participou en proxectos para clientes como Silestone, Chocolat Factory, Nutrexpa, Telecinco ou na renovación da identidade visual de RTVE. En 2010 funda o seu propio estudio na Coruña, Belda. En 2014 asóciase con David Silvosa e nace Costa. É docente en distintos foros, e ten o Premio do Art Directors Club of Europe, un Premio LAUS e os premios Grafia de Finlandia."
+bio.es: "Dani Bembibre es diseñador gráfico y director de arte en Costa. Licenciado en Bellas Artes, se especializó en diseño e ilustración en la Universidad Aalto de Helsinki (Finlandia). Tiene 15 años de experiencia. Ha trabajado en agencias como Ruiz+Company o SUMMA de Barcelona, y en esta ha participado en proyectos para clientes como Silestone, Chocolat Factory, Nutrexpa, Telecinco o en la renovación de la identidad visual de RTVE. En 2010 funda su propio estudio en A Coruña, Belda. En 2014 se asocia con David Silvosa y nace Costa. Es docente en distintos foros, y tiene el Premio del Art Directors Club of Europe, un Premio LAUS y los premios Grafia de Finlandia."
+job.gl: "Deseñador gráfico en Costa"
+job.es: "Diseñador gráfico en Costa"

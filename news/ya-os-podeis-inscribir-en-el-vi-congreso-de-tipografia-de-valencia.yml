@@ -1,13 +1,11 @@
 id: 485
-title: 'Ya os podéis inscribir en el VI Congreso de Tipografía de Valencia'
+title: "Ya os podéis inscribir en el VI Congreso de Tipografía de Valencia"
 body:
-  -
-    text: 'Los precios de las cuotas de inscripción son de 80 euros para estudiantes y desempleados, 110 euros para profesionales miembros de la [ADCV](http://adcv.com/) y de otras asociaciones de diseñadores, la DAG entre ellas, y 150 euros para profesionales y público en general. Todos aquellos que estéis pensando en acudir, debéis daros prisa porque solo podréis aprovecharos de estas cuotas reducidas hasta el 20 de mayo, que será cuando se les aplique una suba del 20%. Además de asistir al congreso, los más jóvenes aún estáis a tiempo de participar en la 3ª edición del Premio de diseño de tipografía Paco Bascuñán. A este premio solo pueden optar los diseñadores de tipos menores de 25 años (cumplidos antes de julio de 2014) con nacionalidad española y residentes en el territorio español. Se admiten alfabetos compuestos por glifos pertenecientes a cualquiera de los sistemas de escritura conocidos, pero no se pueden presentar más de dos trabajos por autor y los alfabetos deben estar completos. La participación es gratuita y el plazo para inscribirse finaliza el 2 de junio. Más información sobre la inscripción en el congreso en: <http://www.congresotipografia.com/inscripcion/> Y sobre la participación en el Premio de diseño de tipografía Paco Bascuñán en: <http://www.congresotipografia.com/3a-edicion-premio-de-tipografia-paco-bascunan/>'
+  - text: "Los precios de las cuotas de inscripción son de 80 euros para estudiantes y desempleados, 110 euros para profesionales miembros de la [ADCV](http://adcv.com/) y de otras asociaciones de diseñadores, la DAG entre ellas, y 150 euros para profesionales y público en general. Todos aquellos que estéis pensando en acudir, debéis daros prisa porque solo podréis aprovecharos de estas cuotas reducidas hasta el 20 de mayo, que será cuando se les aplique una suba del 20%. Además de asistir al congreso, los más jóvenes aún estáis a tiempo de participar en la 3ª edición del Premio de diseño de tipografía Paco Bascuñán. A este premio solo pueden optar los diseñadores de tipos menores de 25 años (cumplidos antes de julio de 2014) con nacionalidad española y residentes en el territorio español. Se admiten alfabetos compuestos por glifos pertenecientes a cualquiera de los sistemas de escritura conocidos, pero no se pueden presentar más de dos trabajos por autor y los alfabetos deben estar completos. La participación es gratuita y el plazo para inscribirse finaliza el 2 de junio. Más información sobre la inscripción en el congreso en: <http://www.congresotipografia.com/inscripcion/> Y sobre la participación en el Premio de diseño de tipografía Paco Bascuñán en: <http://www.congresotipografia.com/3a-edicion-premio-de-tipografia-paco-bascunan/>"
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa587171-vi-congreso-de-tipografia-de-valencia.png
-    text: ''
+    text: ""
     type: image
 intro: 'Ya está abierto el plazo de inscripción en el Congreso de tipografía de Valencia. Se celebrará entre el 20 y el 22 de junio y bajo el lema "Con carácter. Diez años de tipografía en España (2004-2014)", puesto que en este 2014 el congreso cumple diez años de vida.'
 slug: ya-os-podeis-inscribir-en-el-vi-congreso-de-tipografia-de-valencia

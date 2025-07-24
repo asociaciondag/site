@@ -2,28 +2,22 @@ id: 82
 title: Outonando
 slug: outonando
 body:
-  -
-    text: 'A antiga Feira de Outono de Pontevedra precisa renovarse e busca un nome novo. Outoneando é unha invitación a todos os cidadáns a gozaren das opcións de ocio, gastronomía, etc. que lles ofrece esta estación. Deste xeito, vincúlase o nome cunha actitude positiva e activa.'
+  - text: "A antiga Feira de Outono de Pontevedra precisa renovarse e busca un nome novo. Outoneando é unha invitación a todos os cidadáns a gozaren das opcións de ocio, gastronomía, etc. que lles ofrece esta estación. Deste xeito, vincúlase o nome cunha actitude positiva e activa."
     type: text
-  -
-    image: /img/portfolio/images/555ce3c9f386e-cartel-outonando.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce3c9f386e-cartel-outonando.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555ce3c9f3fa4-diptico-outonando-detalle-2.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce3c9f3fa4-diptico-outonando-detalle-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555ce3ca0032c-diptico-outonando-detalle.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce3ca0032c-diptico-outonando-detalle.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555ce3ca008fe-diptico-outonando-exterior.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce3ca008fe-diptico-outonando-exterior.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555ce3ca00df8-diptico-outonando-interior.jpg
-    text: ''
+  - image: /img/portfolio/images/555ce3ca00df8-diptico-outonando-interior.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585996e60365-555ce3c9f386e-cartel-outonando.jpg
 tags:
@@ -34,13 +28,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'Era Comunicación'
-  -
-    name: Cliente
-    value: 'Concello de Pontevedra. Concellaría de Festas'
-  -
-    name: Ano
-    value: '2010'
+  - name: Estudio
+    value: "Era Comunicación"
+  - name: Cliente
+    value: "Concello de Pontevedra. Concellaría de Festas"
+  - name: Ano
+    value: "2010"
 draft: true

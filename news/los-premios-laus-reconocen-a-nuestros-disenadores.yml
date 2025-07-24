@@ -1,57 +1,48 @@
 id: 674
-title: 'Los Premios Laus reconocen a nuestros diseñadores'
+title: "Los Premios Laus reconocen a nuestros diseñadores"
 body:
-  -
-    text: |-
+  - text: |-
       Los [Laus](http://www.laus.cat/ca/laus-adg) son unos prestigiosos galardones que otorga la Asociación de Diseñadores Gráficos y Directores de Arte ([ADG-FAD](http://www.fad.cat/)), y que cada año reconocen los mejores trabajos de diseño gráfico y comunicación visual en España.
 
       Un año más, como ya viene siendo habitual en los últimos tiempos, este también tenemos que celebrar la presencia de diseñadores de la DAG entre los premiados:
 
       Nuestras felicitaciones a [Ricardo Tubío](https://dag.gal/es/ricardo-tubio-pazos/) y [Xabier Rilo](https://dag.gal/es/xabier-rilo/) ([cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/)), premiados con un [Laus de plata en la categoría a la portada de libro](http://www.laus.cat/es/proyecto?aw=3&project_page=2).
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/575e95dc49324-premios-laus-2016-1.jpg
-    text: '_El trayecto de un anhelo_ de cenlitrosmetrocadrado para Grupo Arial.'
+    text: "_El trayecto de un anhelo_ de cenlitrosmetrocadrado para Grupo Arial."
     mode: normal
     type: image
-  -
-    text: 'Y también a [Suso Vázquez](https://dag.gal/es/suso-vazquez-gomez/) y [Cibrán Rico](https://dag.gal/es/cibran-rico-lopez/) ([desescribir](http://www.desescribir.com/)), merecedores de dos Laus de bronce en la categoría de libro completo: uno por [Günter Förg. Verfolgen Malerei](http://www.laus.cat/es/proyecto?aw=4&project_page=36) y el otro por [La cobla patafísica 2001-2015. Cabo SanRoque](http://www.laus.cat/es/proyecto?aw=4&project_page=37).'
+  - text: "Y también a [Suso Vázquez](https://dag.gal/es/suso-vazquez-gomez/) y [Cibrán Rico](https://dag.gal/es/cibran-rico-lopez/) ([desescribir](http://www.desescribir.com/)), merecedores de dos Laus de bronce en la categoría de libro completo: uno por [Günter Förg. Verfolgen Malerei](http://www.laus.cat/es/proyecto?aw=4&project_page=36) y el otro por [La cobla patafísica 2001-2015. Cabo SanRoque](http://www.laus.cat/es/proyecto?aw=4&project_page=37)."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/575e95dc49a2c-premios-laus-2016-2.jpg
-    text: '_Günter Förg. Verfolgen Malerei_ de desescribir para la Fundación Luís Seoane.'
+    text: "_Günter Förg. Verfolgen Malerei_ de desescribir para la Fundación Luís Seoane."
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/575e95dc49dc5-premios-laus-2016-3.jpg
-    text: '_La cobla patafísica 2001-2015. Cabo SanRoque_ de desescribir para Arts Santa Mònica y Fabulatorio.'
+    text: "_La cobla patafísica 2001-2015. Cabo SanRoque_ de desescribir para Arts Santa Mònica y Fabulatorio."
     mode: normal
     type: image
-  -
-    text: 'Dos Laus que se vienen a sumar a otros reconocimientos como el del Premio [Photoespaña](http://www.phe.es/) que incluía recientemente _[Boas Noites](http://fabulatorio.org/publicacion/boas-noites-2/),_ una obra de su sello editorial [Fabulatorio](http://fabulatorio.org/), en la lista de los 10 finalistas al mejor libro de fotografía editado en 2016.'
+  - text: "Dos Laus que se vienen a sumar a otros reconocimientos como el del Premio [Photoespaña](http://www.phe.es/) que incluía recientemente _[Boas Noites](http://fabulatorio.org/publicacion/boas-noites-2/),_ una obra de su sello editorial [Fabulatorio](http://fabulatorio.org/), en la lista de los 10 finalistas al mejor libro de fotografía editado en 2016."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/575e95dc4a184-premios-laus-2016-4.jpg
-    text: '_Boas Noites_ de Jesús Madriñán editado por Fabulatorio.'
+    text: "_Boas Noites_ de Jesús Madriñán editado por Fabulatorio."
     mode: normal
     type: image
-  -
-    text: 'O el León de Oro conseguido por el pabellón español en la Bienal de Arquitectura de Venecia, para el que diseñaron la gráfica.'
+  - text: "O el León de Oro conseguido por el pabellón español en la Bienal de Arquitectura de Venecia, para el que diseñaron la gráfica."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/575e95dc4a3d2-premios-laus-2016-5.jpg
-    text: 'Diseño de identidad de desescribir para el pabellón español en la Bienal de Arquitectura de Venecia 2016.'
+    text: "Diseño de identidad de desescribir para el pabellón español en la Bienal de Arquitectura de Venecia 2016."
     mode: normal
     type: image
-intro: 'El pasado viernes, en el transcurso de la Nit Laus, se desvelaba por fin la lista completa de premiados con un Laus.'
+intro: "El pasado viernes, en el transcurso de la Nit Laus, se desvelaba por fin la lista completa de premiados con un Laus."
 slug: los-premios-laus-reconocen-a-nuestros-disenadores
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2016-06-13T13:15:40+00:00

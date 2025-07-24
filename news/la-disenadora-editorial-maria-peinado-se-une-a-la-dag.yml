@@ -1,14 +1,12 @@
 id: 1074
-title: 'La diseñadora editorial María Peinado se une a la DAG'
+title: "La diseñadora editorial María Peinado se une a la DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/presentacion-maria-peinado.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola a todos, encantada de saludaros por aquí.
 
       Me llamo María, soy malagueña, y después de unos años viviendo también en Barcelona, Edimburgo y Madrid, aterricé en Galicia hace escasos meses. Muy contenta con el cambio y con muchas ganas de descubrir y conocer esta tierra y a todos vosotros.
@@ -21,15 +19,14 @@ body:
 
       Un abrazo y muchas gracias por acogerme.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/es/maria-peinado-florido/'
-    text: 'Perfil de María Peinado'
+  - list: ""
+    url: "https://dag.gal/es/maria-peinado-florido/"
+    text: "Perfil de María Peinado"
     type: button
-intro: 'El verano de 2021 nos trae buenas noticias, la Asociación Gallega de Diseño sigue sumando asociadas. Nos alegra poder seguir creciendo en número pero también en diversidad. Las últimas incorporaciones a la DAG tienen nombre de mujer y esto nos permiten avanzar en uno de nuestros objetivos marcados: conseguir un mayor equilibrio de género en nuestra asociación. Hoy presentamos a [María Peinado](https://dag.gal/es/maria-peinado-florido/), una diseñadora malagueña que se ha mudado a Galicia y ya forma parte de nuestra red profesional. ¡Bienvenida a Galicia y a la DAG!'
+intro: "El verano de 2021 nos trae buenas noticias, la Asociación Gallega de Diseño sigue sumando asociadas. Nos alegra poder seguir creciendo en número pero también en diversidad. Las últimas incorporaciones a la DAG tienen nombre de mujer y esto nos permiten avanzar en uno de nuestros objetivos marcados: conseguir un mayor equilibrio de género en nuestra asociación. Hoy presentamos a [María Peinado](https://dag.gal/es/maria-peinado-florido/), una diseñadora malagueña que se ha mudado a Galicia y ya forma parte de nuestra red profesional. ¡Bienvenida a Galicia y a la DAG!"
 slug: la-disenadora-editorial-maria-peinado-se-une-a-la-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2021-07-21T12:52:38+00:00

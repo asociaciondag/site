@@ -1,14 +1,12 @@
 id: 791
-title: 'La Kinetic de María Ramos y Noel Pretorius entre las tipografías excelentes de 2017 para el Type Directors Club'
+title: "La Kinetic de María Ramos y Noel Pretorius entre las tipografías excelentes de 2017 para el Type Directors Club"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/1-kinetic.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Kinetic es una família de tipos creada por [María Ramos](https://dag.gal/es/maria-ramos/) y Noel Pretorius. Una de las principales fuentes de inspiración para su diseño fue la obra de Alexander Calder, quien comenzó a trabajar con esculturas móviles en París en el inicio de la década de 1930. La apariencia leve, juguetona y suave de los móviles de Calder era algo que los diseñadores querían traducir en formas de tipo.
 
       Kinetic es una sans-serif geométrica que evita patrones de diseño rígidos. A pesar de que la geometría esté claramente presente en la estructura simple de los caracteres, las correcciones ópticas fueron incluidas y hay espacio para la interpretación en el diseño de cada carácter particular.
@@ -17,16 +15,15 @@ body:
 
       Kinetic es una família de tipos pensada para el uso tipográfico contemporáneo, tanto en la impresión como en la pantalla. El diseño se destina a una amplia gama de aplicaciones: publicidad, diseño editorial y cualquier proyecto corporativo o artístico.
     type: text
-  -
-    list: ''
+  - list: ""
     info:
       code: '<iframe src="https://player.vimeo.com/video/199140896" width="640" height="360" frameborder="0" title="Kinetic typeface" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
-      ratio: '60'
+      ratio: "60"
     type: embed
-intro: 'La organización internacional que vela por la excelencia tipográfica en todas sus formas, el Type Directors Club, también conocido como TDC, acaba de distinguir con su certificado de excelencia a Kinetic de [NM type](http://www.kinetictypeface.com/), el sello tipográfico de María Ramos y Noel Pretorius.'
+intro: "La organización internacional que vela por la excelencia tipográfica en todas sus formas, el Type Directors Club, también conocido como TDC, acaba de distinguir con su certificado de excelencia a Kinetic de [NM type](http://www.kinetictypeface.com/), el sello tipográfico de María Ramos y Noel Pretorius."
 slug: la-kinetic-de-maria-ramos-y-noel-pretorius-entre-las-tipografias-excelentes-de-2017-para-el-type-directors-club
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2018-01-31T18:24:59+00:00

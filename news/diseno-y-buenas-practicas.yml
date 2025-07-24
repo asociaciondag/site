@@ -1,18 +1,17 @@
 id: 584
-title: 'Diseño y buenas prácticas'
+title: "Diseño y buenas prácticas"
 body:
-  -
-    text: |-
+  - text: |-
       A través de cartas abiertas, [manifiestos](http://dag.gal/es/la-posicion-de-dag-sobre-los-concursos-de-diseno) o [intervenciones públicas](http://dag.gal/es/a-vueltas-con-los-concursos), la DAG ha criticado, en reiteradas ocasiones, mecanismos como los concursos abiertos de diseño, deficiencias en la redacción de los objetivos de los encargos, elaboración de propuestas no remuneradas o valoraciones económicas insuficientes para los trabajos a desarrollar. Tenemos la firme convicción de que estos aspectos, entre otros, perjudican a la profesión en su conjunto y, en último término, afectan a la calidad del diseño que una sociedad como la gallega precisa y demanda.
 
       Sin embargo, creemos también necesario, para acompañar la necesaria labor de crítica, reconocer aquellas acciones por parte de las administraciones que se encaminan justo en la dirección contraria. Acabamos de saber que el Ayuntamiento de Santiago de Compostela está poniendo en práctica alguna de las recomendaciones que tuvimos la ocasión de comentar conjuntamente en una reunión celebrada en fechas previas entre la DAG y el Ayuntamiento, y no podemos más que celebrar su compromiso y determinación.
 
       Desde la DAG queremos aprovechar además para ofrecer nuestra colaboración a todos los agentes públicos y administraciones que compartan nuestra preocupación por promover prácticas laborales justas y éticas en nuestro oficio, y que, además, conciban el diseño como un herramienta fundamental en el presente y futuro de nuestro país.
     type: text
-intro: 'A lo largo de los últimos años la DAG viene manifestando la necesidad de que las administraciones públicas pongan en práctica [métodos de contratación de servicios de diseño](http://dag.gal/es/la-dag-se-ha-reunido-con-el-ayuntamiento-de-a-coruna-para-hablar-sobre-los-concursos-y-la-contratacion-del-diseno) más justos y sostenibles, siempre dentro de los límites que propone la Ley de contratos del sector público (LCSP).'
+intro: "A lo largo de los últimos años la DAG viene manifestando la necesidad de que las administraciones públicas pongan en práctica [métodos de contratación de servicios de diseño](http://dag.gal/es/la-dag-se-ha-reunido-con-el-ayuntamiento-de-a-coruna-para-hablar-sobre-los-concursos-y-la-contratacion-del-diseno) más justos y sostenibles, siempre dentro de los límites que propone la Ley de contratos del sector público (LCSP)."
 slug: diseno-y-buenas-practicas
 tags:
-  - 'actividades dag'
+  - "actividades dag"
   - concursos
 lang: es
 draft: false

@@ -1,24 +1,21 @@
 id: 1030
-title: 'Últimas semanas para presentarse aos Premios Anuaria de deseño'
+title: "Últimas semanas para presentarse aos Premios Anuaria de deseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/anuaria.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O vindeiro 30 de novembro rematará o prazo ordinario para a presentación de proxectos aos Anuaria. Dende a organización fan unha chamada a profesionais e empresas de deseño de toda España a presentar traballos desenvolvidos entre 2019 e 2020. Os Premios Anuaria contan cada ano coa colaboración de asociacións e centros de deseño, que propoñen os nomes das persoas que integran o xurado. Nesta ocasión, a DAG estará representada por [Simón Villamayor](https://dag.gal/gl/simon-windsock/), deseñador gráfico e web e membro da actual Xunta Directiva.
 
       Todas as obras premiadas serán publicadas na páxina web dos premios e difundidas a través das súas redes sociais e canles de comunicación. As persoas asociadas á DAG poderán beneficiarse dun desconto do 15% nas inscricións de proxectos.
     type: text
-  -
-    list: ''
-    url: 'https://www.veredictas.com/en/awards/anuaria-awards/bases-dates-126.html'
-    text: 'Bases Premios Anuaria'
+  - list: ""
+    url: "https://www.veredictas.com/en/awards/anuaria-awards/bases-dates-126.html"
+    text: "Bases Premios Anuaria"
     type: button
-intro: 'Os Premios Anuaria recoñecen obras de deseño gráfico e dixital. Os proxectos están agrupados en 25 categorías diferentes, cunha categoría especial para proxectos de estudos e un premio especial á traxectoria profesional.'
+intro: "Os Premios Anuaria recoñecen obras de deseño gráfico e dixital. Os proxectos están agrupados en 25 categorías diferentes, cunha categoría especial para proxectos de estudos e un premio especial á traxectoria profesional."
 slug: ultimas-premios-anuaria-2020
 tags: []
 lang: gl

@@ -3,9 +3,9 @@
     <img src="{{ block.image }}" alt="{{ block.alt }}">
   </picture>
 
-  {% if block.text %}
-  <figcaption>
-    {{ block.text | md | safe }}
-  </figcaption>
-  {% endif %}
+  {{ if block.text }}
+    <figcaption>
+      {{ block.text |> md }}
+    </figcaption>
+  {{ /if }}
 </figure>

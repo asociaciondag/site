@@ -1,24 +1,21 @@
 id: 643
-title: 'Unha nova socia :)'
+title: "Unha nova socia :)"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/56cdf86476cc0-conchimayo-dagbn.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola, son Conchi Mayo e non son deseñadora. Son a directora de DARDO, empresa galega de deseño que neste ano cumpre o seu décimo aniversario. O meu labor é o de dirixir os proxectos encargándome da produción, actuando como xestora de contas a partir da relación directa co cliente e a análise de cada traballo coas creativas de DARDO. Non entendo o meu labor como unha supervisión, senón como un complemento, colaborando na selección dos materiais para cada proxecto e sempre en contacto directo cos provedores, coidando os detalles, acabados e a calidade de cada cousa que facemos e sen descoidar os factores de sustentabilidade. A miña función é, en ocasións, similar á dun tradutor para o cliente e un cómplice para as deseñadoras, ás veces afanándome nun traballo e outras ausentándome por completo. Entendo que un bo traballo non é unicamente o máis creativo senón o que é capaz de sumar a iso unha boa relación entre orzamento, prazos e obxectivos. Definir o _briefing_ co cliente e destilalo coas creativas para volvelo proxectar co cliente é o meu plan de cada día, algo así como unha roda dentada que ten que permitir que todo avance.
 
       Neste 2016 que cumprimos 10 anos, igual que a DAG, en DARDO cremos que xa é hora de unirnos á Asociación, agradecendo todo o que tedes feito polo deseño galego, e compartir e contribuír coa nosa experiencia para proxectar e defender o deseño responsable feito en Galicia.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/conchi-mayo/'
-    text: 'Perfil de socia DAG'
+  - list: ""
+    url: "https://dag.gal/gl/conchi-mayo/"
+    text: "Perfil de socia DAG"
     type: button
-intro: 'Leva dez anos vinculada ao mundo do deseño, os mesmos anos que ten a DAG, e cre que chegou a hora de traballar desde o colectivo pola dignificación do deseño galego. Benvinda!'
+intro: "Leva dez anos vinculada ao mundo do deseño, os mesmos anos que ten a DAG, e cre que chegou a hora de traballar desde o colectivo pola dignificación do deseño galego. Benvinda!"
 slug: unha-nova-socia
 tags: []
 lang: gl

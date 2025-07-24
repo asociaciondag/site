@@ -4,28 +4,25 @@ contact: |-
 
   <ac@novagarda.gal>
 links:
-  -
-    text: Web
-    url: 'http://novagarda.gal'
+  - text: Web
+    url: "http://novagarda.gal"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/novagarda/'
+  - text: Instagram
+    url: "https://www.instagram.com/novagarda/"
     type: link
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/novagarda/'
+  - text: Facebook
+    url: "https://www.facebook.com/novagarda/"
     type: link
-name: 'Al Carballido'
+name: "Al Carballido"
 slug: alberto-carballido
 avatarBig: null
 avatar: /img/avatars/1718708581511.jpg
 tags:
   - Gráfico
   - Editorial
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico en NOVAGARDA'
-job.es: 'Diseñador gráfico en NOVAGARDA'
+job.gl: "Deseñador gráfico en NOVAGARDA"
+job.es: "Diseñador gráfico en NOVAGARDA"

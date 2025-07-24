@@ -1,14 +1,12 @@
 id: 668
-title: '¡Tenemos un nuevo socio!'
+title: "¡Tenemos un nuevo socio!"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/5745db5beafb9-alejandro.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ¡Hola!
 
       Soy Alejandro, diseñador gráfico, ilustrador, amante de la fotografía y del surf.
@@ -17,12 +15,11 @@ body:
 
       Mi perfil profesional se orienta hacia disciplinas diversas como la creación de marca, el diseño editorial, la ilustración y la fotografía. Además, me gusta estar en contacto con las nuevas tendencias, herramientas y soportes.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/alejandro-fabregas/'
-    text: 'Perfil de socio DAG'
+  - list: ""
+    url: "https://dag.gal/gl/alejandro-fabregas/"
+    text: "Perfil de socio DAG"
     type: button
-intro: 'Como siempre, podéis conocerlo un poco mejor a través de esta breve presentación suya en la que nos habla de sus intereses e inquietudes.'
+intro: "Como siempre, podéis conocerlo un poco mejor a través de esta breve presentación suya en la que nos habla de sus intereses e inquietudes."
 slug: tenemos-un-nuevo-socio
 tags: []
 lang: es

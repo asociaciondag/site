@@ -1,8 +1,7 @@
 id: 200
-title: 'Congreso anual da Design History Society 2011. Deseño activista e cambio social'
+title: "Congreso anual da Design History Society 2011. Deseño activista e cambio social"
 body:
-  -
-    text: |-
+  - text: |-
       As especialidades do deseño que esta conferencia inclúe son, aínda que non de forma exclusiva, tanto profesionais como amateurs: deseño industrial, deseño artesán, deseño gráfico, deseño téxtil, deseño de moda, urbanismo, deseño de espazos, deseño de interiores, deseño dixital e deseño de servizos.
 
       8-10 de Setembro de 2011, Barcelona
@@ -15,12 +14,11 @@ body:
 
       [www.historiadeldiseno.org/congres/index.html](http://www.historiadeldiseno.org/congres/index.html)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9bc9a3b-design-activism.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Esta conferencia ofrece unha oportunidade importante de participar no desenvolvemento da investigación histórica do activismo do deseño aos estudantes de deseño, os académicos e os profesionais. A fundación Historia do Deseño agradece a presentación de investigacións orixinais que axuden a profundizar e a ampliar a nosa comprensión das súas prácticas e contextos, teorías e discursos.'
+intro: "Esta conferencia ofrece unha oportunidade importante de participar no desenvolvemento da investigación histórica do activismo do deseño aos estudantes de deseño, os académicos e os profesionais. A fundación Historia do Deseño agradece a presentación de investigacións orixinais que axuden a profundizar e a ampliar a nosa comprensión das súas prácticas e contextos, teorías e discursos."
 slug: congreso-anual-da-design-history-society-2011-deseno-activista-e-cambio-social
 tags: []
 lang: gl

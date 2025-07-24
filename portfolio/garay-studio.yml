@@ -1,10 +1,9 @@
 id: 311
-title: 'Garay Studio'
+title: "Garay Studio"
 slug: garay-studio
 body:
-  -
-    image: /img/portfolio/images/garaystudio.jpg
-    text: ''
+  - image: /img/portfolio/images/garaystudio.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/garaystudio.jpg
 tags:

@@ -1,14 +1,12 @@
 id: 370
-title: 'Así se presenta Alberto Rodríguez, o novo socio da DAG'
+title: "Así se presenta Alberto Rodríguez, o novo socio da DAG"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       O meu nome é [Alberto Rodríguez Pérez](http://www.arrp.es/), son fillo de emigrantes galegos e nacín no Uruguai. No ano 2000, a miña familia e mais eu decidimos realizar o noso maior emprendemento: facer case 10.000 Km atravesando o Atlántico para comezar unha nova vida en Galicia. Estudei debuxo publicitario, deseño de interior e deseño gráfico. No transcurso de case 25 anos, traballei en imprentas, fotomecánicas, axencias de publicidade, empresas de venda directa, xornais, nun taller de serigrafía, como pintor de letras, e por suposto, entre todas esas actividades, sempre fun freelance. En Galicia encontrei todo o que estaba buscando. Desde o ano 2001 traballo no Servizo de Edición Dixital da Universidade de Santiago de Compostela, como deseñador gráfico. Decidín asociarme á DAG porque me interesa pertencer a unha asociación que impulse e apoie o deseño de Galicia.
 
       E para os que queirades saber un pouquiño máis sobre Alberto, aquí vos deixamos este enlace: <http://es.flavors.me/albertorrp>
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa1b2c46-alberto-rodriguez-perez.png
 intro: null
 slug: asi-se-presenta-alberto-rodriguez-o-novo-socio-da-dag

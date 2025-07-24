@@ -1,14 +1,11 @@
 id: 388
-title: 'Unha exposición do Vitra Design Museum homenaxea en Compostela os obxectos cotiáns'
+title: "Unha exposición do Vitra Design Museum homenaxea en Compostela os obxectos cotiáns"
 body:
-  -
-    type: text
-    text: 'Do 6 de xullo ao 29 de agosto de 2012 pode visitarse no Colexio de Fonseca en Santiago de Compostela unha exposición que lles rende homenaxe aos obxectos cotiáns e que nos desvela as historias que se agochan detrás deles. Os protagonistas desta mostra que leva por título **Heroes ocultos. Inventos xeniais. Obxectos cotiáns** son obxectos coma o lapis, a lata, a cremalleira, o clip, o apósito, a pinza para prender a roupa, o abanico ou o tetrabrik, elementos todos que forman parte do noso día a día e nos que xa non reparamos, pero aos que esta exposición nos ensinará a mirar con outros ollos, descubríndonos aspectos como a fascinante historia da súa invención, as condicións técnicas de fabricación, a súa evolución ou que inspirou os artistas e deseñadores á hora de crealos. Os conservadores do Vitra Design Museum Jochen Eisenbrand e Laura Hompesch son os comisarios desta exposición que nos achega a esas acertadas estratexias creativas e empresarias que conseguiron o éxito, pero que tamén nos descobre que moitas veces é o azar quen se acha detrás de produtos masivos que, en realidade, foran concibidos como algo completamente distinto. Lugar: Colexio de Fonseca Praza de Fonseca, s/n Santiago de Compostela Horario da exposición: De luns a sábado, de 11 a 14 h e de 17 a 20.30 h Domingos e festivos, de 11 a 14 h Visitas guiadas para grupos, cita previa no teléfono 981 554 400'
-  -
-    type: image
+  - type: text
+    text: "Do 6 de xullo ao 29 de agosto de 2012 pode visitarse no Colexio de Fonseca en Santiago de Compostela unha exposición que lles rende homenaxe aos obxectos cotiáns e que nos desvela as historias que se agochan detrás deles. Os protagonistas desta mostra que leva por título **Heroes ocultos. Inventos xeniais. Obxectos cotiáns** son obxectos coma o lapis, a lata, a cremalleira, o clip, o apósito, a pinza para prender a roupa, o abanico ou o tetrabrik, elementos todos que forman parte do noso día a día e nos que xa non reparamos, pero aos que esta exposición nos ensinará a mirar con outros ollos, descubríndonos aspectos como a fascinante historia da súa invención, as condicións técnicas de fabricación, a súa evolución ou que inspirou os artistas e deseñadores á hora de crealos. Os conservadores do Vitra Design Museum Jochen Eisenbrand e Laura Hompesch son os comisarios desta exposición que nos achega a esas acertadas estratexias creativas e empresarias que conseguiron o éxito, pero que tamén nos descobre que moitas veces é o azar quen se acha detrás de produtos masivos que, en realidade, foran concibidos como algo completamente distinto. Lugar: Colexio de Fonseca Praza de Fonseca, s/n Santiago de Compostela Horario da exposición: De luns a sábado, de 11 a 14 h e de 17 a 20.30 h Domingos e festivos, de 11 a 14 h Visitas guiadas para grupos, cita previa no teléfono 981 554 400"
+  - type: image
     image: /img/news/images/553e7aa22db5d-inventos-xeniais.jpg
-  -
-    type: file
+  - type: file
     text: Descargar
     file: /files/553e7aa22db5d-dosier-inventos-xeniais.pdf
 intro: null

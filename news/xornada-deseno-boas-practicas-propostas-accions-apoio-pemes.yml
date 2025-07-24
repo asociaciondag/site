@@ -1,25 +1,22 @@
 id: 888
 title: 'Xornada "O deseño e boas prácticas, propostas de accións e apoio a PEMEs"'
 body:
-  -
-    text: |-
+  - text: |-
       Esta xornada, dirixida a profesionais e empresas, introdúcenos nos dous programas de ámbito europeo nos que participa GAIN: **Desig4Innovation**, financiado a través do programa Interreg Europe, e **User-Factor** financiado a través do Interreg Atlantic Area. O primeiro está destinado a promover políticas públicas de deseño, a través do uso do deseño como condutor da innovación e mellora da competitividade das empresas. O segundo busca fortalecer a innovación en pequenas e medianas empresas co uso do deseño como ferramenta de innovación para adaptarse ás exixencias do mercado e dos usuarios. Para elo desenvolverase unha acción piloto con 25 PEMEs galegas.
 
       A DAG forma parte do grupo de axentes do deseño que colabora coa Axencia Galega de Innovación nestes dous proxectos europeos. Coñeceremos os avances de cada un deles e teremos a oportunidade de conversar cos seus impulsores, ademais de asistir á presentación de novos casos de éxito galego coas empresas Bico de Xeado, EV Confort ou Mobalco.
 
       A xornada é de balde pero precisa de inscrición previa.
     type: text
-  -
-    list: ''
-    url: 'http://gain.xunta.gal/repo/1-AgendaEventD4INNOV-USERFACTOR.pdf'
-    text: 'Programa da xornada'
+  - list: ""
+    url: "http://gain.xunta.gal/repo/1-AgendaEventD4INNOV-USERFACTOR.pdf"
+    text: "Programa da xornada"
     type: button
-  -
-    list: ''
-    url: 'http://www.cisgalicia.org/contactos/campan/inscribir/10'
-    text: 'Formulario de inscrición'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/campan/inscribir/10"
+    text: "Formulario de inscrición"
     type: button
-intro: 'A Consellería de Economía, Emprego e Industria, a través da Axencia Galega de Innovación (GAIN), celebra o vindeiro 15 de maio, no CIS Tecnoloxía e Deseño de Ferrol, a **xornada: “O deseño – boas prácticas, propostas de accións e apoio a PEMEs”** no marco do Programa Deseño para a Innovación que está activo ata finais de 2020.'
+intro: "A Consellería de Economía, Emprego e Industria, a través da Axencia Galega de Innovación (GAIN), celebra o vindeiro 15 de maio, no CIS Tecnoloxía e Deseño de Ferrol, a **xornada: “O deseño – boas prácticas, propostas de accións e apoio a PEMEs”** no marco do Programa Deseño para a Innovación que está activo ata finais de 2020."
 slug: xornada-deseno-boas-practicas-propostas-accions-apoio-pemes
 tags:
   - concursos

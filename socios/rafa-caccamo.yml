@@ -6,30 +6,27 @@ contact: |-
 
   <estudio@rafacaccamo.com>
 links:
-  -
-    text: 'Estudio Rafa Cáccamo'
-    url: 'http://www.rafacaccamo.com/'
+  - text: "Estudio Rafa Cáccamo"
+    url: "http://www.rafacaccamo.com/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/estudiorafacaccamo/?hl=es'
+  - text: Instagram
+    url: "https://www.instagram.com/estudiorafacaccamo/?hl=es"
     type: facebook
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/pages/Estudio-Rafa-C%C3%A1ccamo/345288782236839'
+  - text: Facebook
+    url: "https://www.facebook.com/pages/Estudio-Rafa-C%C3%A1ccamo/345288782236839"
     type: facebook
-name: 'Rafa Cáccamo'
+name: "Rafa Cáccamo"
 slug: rafa-caccamo
 avatarBig: null
 avatar: /img/avatars/58ee5d4215a76-rafa-caccamo.png
 tags:
   - Editorial
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Embalaxe
   - Exposicións
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

@@ -1,14 +1,12 @@
 id: 696
-title: 'Benvindo á DAG, Fran'
+title: "Benvindo á DAG, Fran"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/5807b2a589402-20161017-180409.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola a todos/as!
 
       Chámome Fran e alégrame moito formar parte da DAG. Espero poder colaborar co meu gran de area para que o deseño galego sexa cada día máis destacado e que a profesión de deseñador, en calquera das súas vertentes, sexa máis e mellor recoñecida e respectada.
@@ -17,15 +15,14 @@ body:
 
       Embarqueime en [Innovación Ágil](http://innovacionagil.com/) fai xa algo máis de tres anos e estou a gozar moito traballando día a día, lado a lado, con persoas e en proxectos de diferente tipoloxía.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/fran-martinez/'
-    text: 'Perfil de socio DAG'
+  - list: ""
+    url: "https://dag.gal/gl/fran-martinez/"
+    text: "Perfil de socio DAG"
     type: button
-intro: 'Pois si, temos un novo socio e, como sempre, pedímoslle que se presente para que todos poidades coñecelo un pouco mellor.'
+intro: "Pois si, temos un novo socio e, como sempre, pedímoslle que se presente para que todos poidades coñecelo un pouco mellor."
 slug: benvindo-a-dag-fran
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2016-10-26T01:00:00+00:00

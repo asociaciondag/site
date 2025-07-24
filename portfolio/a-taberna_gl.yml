@@ -1,36 +1,30 @@
 id: 289
-title: 'A taberna'
+title: "A taberna"
 slug: a-taberna
 body:
-  -
-    image: /img/portfolio/images/a-taberna-lugo.jpg
-    text: ''
+  - image: /img/portfolio/images/a-taberna-lugo.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/cartas-exterior.jpg
-    text: ''
+  - image: /img/portfolio/images/cartas-exterior.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/cartas-interior.jpg
-    text: ''
+  - image: /img/portfolio/images/cartas-interior.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/cartas.jpg
-    text: ''
+  - image: /img/portfolio/images/cartas.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/mandilon-restaurante.jpg
-    text: ''
+  - image: /img/portfolio/images/mandilon-restaurante.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/cartas.jpg
 tags:
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 69
 lang: gl
 info:
-  -
-    name: Cliente
-    value: 'A taberna'
+  - name: Cliente
+    value: "A taberna"
 draft: false

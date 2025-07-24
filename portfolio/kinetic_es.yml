@@ -2,32 +2,25 @@ id: 207
 title: Kinetic
 slug: kinetic
 body:
-  -
-    text: 'Diseño de una familia tipográfica sin remates, de inspiración geométrica e influenciada en sus formas por el arte de Alexander Calder. Este proyecto incluye además el diseño de todo el material promocional: el móbil inspirado por las esculturas cinéticas de Calder, el muestrario tipográfico impreso, la [página web](http://www.kinetictypeface.com/), la [aplicación para móviles](https://itunes.apple.com/es/app/kinetic-notes/id1169177801?l=en&mt=8) gratuita, y un [cortometraje documental](https://vimeo.com/199140896) sobre el proyecto.'
+  - text: "Diseño de una familia tipográfica sin remates, de inspiración geométrica e influenciada en sus formas por el arte de Alexander Calder. Este proyecto incluye además el diseño de todo el material promocional: el móbil inspirado por las esculturas cinéticas de Calder, el muestrario tipográfico impreso, la [página web](http://www.kinetictypeface.com/), la [aplicación para móviles](https://itunes.apple.com/es/app/kinetic-notes/id1169177801?l=en&mt=8) gratuita, y un [cortometraje documental](https://vimeo.com/199140896) sobre el proyecto."
     type: text
-  -
-    image: /img/portfolio/images/1-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/1-kinetic.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/2-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/2-kinetic.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/4-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/4-kinetic.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/5-kinetic.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/6-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/6-kinetic.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/22-kinetic.jpg
-    text: ''
+  - image: /img/portfolio/images/22-kinetic.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/0-kinetic.png
 tags:
@@ -36,13 +29,10 @@ members_id:
   - 56
 lang: es
 info:
-  -
-    name: 'Estudio:'
-    value: 'NM type'
-  -
-    name: Coautor
-    value: 'Noel Pretorius'
-  -
-    name: 'Año:'
-    value: '2017'
+  - name: "Estudio:"
+    value: "NM type"
+  - name: Coautor
+    value: "Noel Pretorius"
+  - name: "Año:"
+    value: "2017"
 draft: true

@@ -1,26 +1,23 @@
 id: 1092
-title: 'Convocados los VI Premios Paraugas 2021'
+title: "Convocados los VI Premios Paraugas 2021"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premios-paraugas-vi-edicion.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los Premios de la Comunicación y del Marketing de Galicia fueron creados por el Clúster de la Comunicación de Galicia en el año 2016. Nacieron con la idea de poner en valor a calidad y el excelente trabajo que se hace en nuestra tierra, con el objetivo de ensalzar la función de la creatividad, el diseño, la edición, la impresión, el marketing, la comunicación y los eventos de origen gallego y como medio para conseguir aumentar la competitividad y la capacidad innovadora. Se trata de una convocatoria de premios desde el sector y para el sector.
 
       Los Premios Paraugas reconocen el trabajo profesional hecho en Galicia en los ámbitos de la creatividad, la edición, la impresión, el _marketing_, la comunicación y el diseño. Esta última categoría, patrocinada por la Agencia Gallega de Innovación, incluye 3 premios: Premio Paraugas al Mejor Diseño Gráfico, Premio Paraugas al Mejor Diseño Industrial o de Producto y Premio Paraugas al Mejor Diseño Digital.
 
       Todos los detalles sobre esta nueva edición de los Premios Paraugas están disponibles [en su web](https://premios.clustercomunicacion.gal/), desde donde también se puede hacer la inscripción de proyectos.
     type: text
-  -
-    list: ''
-    url: 'https://premios.clustercomunicacion.gal/wp-content/uploads/2021/10/bases-VI-Premios-Paraugas-20-10-21.pdf'
-    text: 'Bases de los Premios Paraugas'
+  - list: ""
+    url: "https://premios.clustercomunicacion.gal/wp-content/uploads/2021/10/bases-VI-Premios-Paraugas-20-10-21.pdf"
+    text: "Bases de los Premios Paraugas"
     type: button
-intro: 'El Cluster de la Comunicación Gráfica de Galicia convoca una nueva edición de los VI Premios Paraugas. Las empresas y profesionales interesados en inscribir sus proyectos podrán hacerlo hasta el próximo 25 de octubre.'
+intro: "El Cluster de la Comunicación Gráfica de Galicia convoca una nueva edición de los VI Premios Paraugas. Las empresas y profesionales interesados en inscribir sus proyectos podrán hacerlo hasta el próximo 25 de octubre."
 slug: convocados-premios-paraugas-2021
 tags: []
 lang: es

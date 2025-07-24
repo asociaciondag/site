@@ -1,17 +1,14 @@
 id: 145
-title: 'Leive Reliquia'
+title: "Leive Reliquia"
 slug: leive-reliquia
 body:
-  -
-    text: 'Reliquia es un vino blanco del Ribeiro envejecido en barrica de roble gallego. Tiene una producción muy limitada y se presenta como una reliquia.'
+  - text: "Reliquia es un vino blanco del Ribeiro envejecido en barrica de roble gallego. Tiene una producción muy limitada y se presenta como una reliquia."
     type: text
-  -
-    image: /img/portfolio/images/555cf38d165c9-dag004-reliquia001.jpg
-    text: ''
+  - image: /img/portfolio/images/555cf38d165c9-dag004-reliquia001.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cf38d168f1-dag004-reliquia002.jpg
-    text: ''
+  - image: /img/portfolio/images/555cf38d168f1-dag004-reliquia002.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55855d9998edf-555cf38d168f1-dag004-reliquia002.jpg
 tags:
@@ -21,13 +18,10 @@ members_id:
   - 16
 lang: es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Desoños
-  -
-    name: Cliente
-    value: 'Bodegas Aurea Lux'
-  -
-    name: Año
-    value: '2012'
+  - name: Cliente
+    value: "Bodegas Aurea Lux"
+  - name: Año
+    value: "2012"
 draft: false

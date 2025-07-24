@@ -1,69 +1,57 @@
 id: 755
-title: '7 trabajos de socios de la DAG premiados en la edición de este año de los Anuaria'
+title: "7 trabajos de socios de la DAG premiados en la edición de este año de los Anuaria"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/o-almacen.jpeg
-    text: 'O Almacén de Guillotina Estudio, Anuaria de Oro en la categoría de mejor programa de identidad corporativa'
+    text: "O Almacén de Guillotina Estudio, Anuaria de Oro en la categoría de mejor programa de identidad corporativa"
     mode: normal
     type: image
-  -
-    text: 'El proyecto O Almacén de [Guillotina Estudio](http://guillotinaestudio.com/) resultó galardonado con el Anuaria de Oro en la categoría de mejor programa de identidad corporativa, y el estudio coruñés aun logró una Selección Anuaria más en la misma categoría por Astrovisit Teide. El tercer premio fue una Selección Anuaria en la categoría de mejor packaging por el trabajo desarrollado para Adegas Tollodouro.'
+  - text: "El proyecto O Almacén de [Guillotina Estudio](http://guillotinaestudio.com/) resultó galardonado con el Anuaria de Oro en la categoría de mejor programa de identidad corporativa, y el estudio coruñés aun logró una Selección Anuaria más en la misma categoría por Astrovisit Teide. El tercer premio fue una Selección Anuaria en la categoría de mejor packaging por el trabajo desarrollado para Adegas Tollodouro."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/o-almacen.jpeg
-    text: 'O Almacén de Guillotina Estudio, Anuaria de Oro al mejor programa de identidad corporativa'
+    text: "O Almacén de Guillotina Estudio, Anuaria de Oro al mejor programa de identidad corporativa"
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/astrovisit-teide.jpeg
-    text: 'Astrovisit Teide de Guillotina Estudio, Selección Anuaria en la categoría de mejor programa de identidad corporativa'
+    text: "Astrovisit Teide de Guillotina Estudio, Selección Anuaria en la categoría de mejor programa de identidad corporativa"
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/adegas-tollodouro.jpeg
-    text: 'Adegas Tollodouro de Guillotina Estudio, Selección Anuaria en la categoría de mejor packaging'
+    text: "Adegas Tollodouro de Guillotina Estudio, Selección Anuaria en la categoría de mejor packaging"
     mode: normal
     type: image
-  -
-    text: 'Por su parte, [Dardo](https://dag.gal/gl/conchi-mayo/) consiguió tres selecciones Anuaria: una en la categoría de mejor cubierta de libro, por _Hakon Bleken. El camino entre la abstracción y la figuración_; otra, en la de mejor trabajo de autopromoción; y una más en la de mejor programa de identidad corporativa por La Monda.'
+  - text: "Por su parte, [Dardo](https://dag.gal/gl/conchi-mayo/) consiguió tres selecciones Anuaria: una en la categoría de mejor cubierta de libro, por _Hakon Bleken. El camino entre la abstracción y la figuración_; otra, en la de mejor trabajo de autopromoción; y una más en la de mejor programa de identidad corporativa por La Monda."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/hakon-bleken.jpeg
-    text: '_Hakon Bleken. El camino entre la abstracción y la figuración_ de Dardo, Selección Anuaria en la categoría de mejor cubierta de un libro'
+    text: "_Hakon Bleken. El camino entre la abstracción y la figuración_ de Dardo, Selección Anuaria en la categoría de mejor cubierta de un libro"
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/autopromocion-dardo.jpeg
-    text: 'Dardo, Selección Anuaria en la categoría de mejor trabajo de autopromoción'
+    text: "Dardo, Selección Anuaria en la categoría de mejor trabajo de autopromoción"
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/la-monda.jpeg
-    text: 'La Monda de Dardo, Selección Anuaria en la categoría de mejor programa de identidad corporativa'
+    text: "La Monda de Dardo, Selección Anuaria en la categoría de mejor programa de identidad corporativa"
     mode: normal
     type: image
-  -
-    text: 'Finalmente, [Era Comunicación](http://eracomunicacion.es/) obtuvo una Selección Anuaria por su cartel para el Festival Internacional de Jazz y Blues de Pontevedra, categoría en la que repite premio porque el año pasado ya fuera seleccionado por su cartel para la fiesta del mar de Combarro.'
+  - text: "Finalmente, [Era Comunicación](http://eracomunicacion.es/) obtuvo una Selección Anuaria por su cartel para el Festival Internacional de Jazz y Blues de Pontevedra, categoría en la que repite premio porque el año pasado ya fuera seleccionado por su cartel para la fiesta del mar de Combarro."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/festival-jazz-e-blues.jpeg
-    text: 'Cartel del Festival Internacional de Jazz y Blues de Pontevedra de Era Comunicación, Selección Anuaria en la categoría de mejor cartel'
+    text: "Cartel del Festival Internacional de Jazz y Blues de Pontevedra de Era Comunicación, Selección Anuaria en la categoría de mejor cartel"
     mode: normal
     type: image
-  -
-    list: ''
-    url: 'http://www.veredictas.com/premios/premios-anuaria/galeria-premiados-anuaria/ganadores-2017.html'
-    text: 'Premiados Anuaria 2017'
+  - list: ""
+    url: "http://www.veredictas.com/premios/premios-anuaria/galeria-premiados-anuaria/ganadores-2017.html"
+    text: "Premiados Anuaria 2017"
     type: button
-intro: 'Efectivamente, entre premios y selecciones anuaria, han sido 7 los trabajos de diseñadores de la DAG que han conseguido un Premio Anuaria o más de uno. Este es el caso de Guillotina Estudio y de Dardo, premiados ambos con tres galardones.'
+intro: "Efectivamente, entre premios y selecciones anuaria, han sido 7 los trabajos de diseñadores de la DAG que han conseguido un Premio Anuaria o más de uno. Este es el caso de Guillotina Estudio y de Dardo, premiados ambos con tres galardones."
 slug: 7-trabajos-de-socios-de-la-dag-premiados-en-la-edicion-de-este-ano-de-los-anuaria
 tags: []
 lang: es

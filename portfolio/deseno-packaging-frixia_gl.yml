@@ -1,10 +1,9 @@
 id: 410
-title: 'Deseño packaging Frixia'
+title: "Deseño packaging Frixia"
 slug: deseno-packaging-frixia
 body:
-  -
-    image: /img/portfolio/images/diseno-de-packaging-frixia.jpg
-    text: ''
+  - image: /img/portfolio/images/diseno-de-packaging-frixia.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/diseno-de-packaging-frixia.jpg
 tags:

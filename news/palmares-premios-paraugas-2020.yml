@@ -1,14 +1,12 @@
 id: 1038
-title: 'Os Premios Paraugas 2020 xa teñen palmarés'
+title: "Os Premios Paraugas 2020 xa teñen palmarés"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/paraugas.jpg
-    text: 'Mostra de dous dos proxectos gañadores: Naipes (desescribir e Álvaro Valiño) e Cervexas 1906 (Costa)'
+    text: "Mostra de dous dos proxectos gañadores: Naipes (desescribir e Álvaro Valiño) e Cervexas 1906 (Costa)"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Nesta ocasión, a gala de entrega de premios foi celebrada de maneira virtual e retransmitida en directo. La celebración, conducida por Luis Fraga e Belén Xestal, contou coa presenza dos finalistas en cada categoría.
 
       Entre as candidaturas finalistas este ano atopamos, en varias categorías, ao estudio [desescribir](http://www.desescribir.com/): Mellor Libro polo catálogo da exposición _Pensar coas mans_, Mellor Deseño Gráfico polo _branding_ para Fibracolour de Finsa, e Mellor Creatividade Gráfica polo proxecto Naipes para Agencia Gráfica, este último, en colaboración con outro dos nosos socios, [Álvaro Valiño](https://www.alvarovalino.com/). Na categoría de Deseño Gráfico, atopamos ademais ao estudio vigués [Desoños](https://www.desonhos.gal/) co seu deseño da marca NOVE (tamén presente na categoría de Deseño Dixital pola web desta mesma marca) e ao estudio [Costa](http://www.costa.io/) co redeseño da marca de cervexas 1906. O estudio [cenlitrometrocatrado](http://cenlitrosmetrocadrado.com/?lang=gl) competía na categoría de Mellor Deseño Industrial ou de Produto co seu proxecto de sinaléctica para as Cabanas de Albeida, proxecto que esa mesma semana presentaban no ciclo [Ráfagas da Bienal Iberoamericana de Deseño](https://youtu.be/ocfCSM0i36g?t=1343).
@@ -18,12 +16,12 @@ body:
       - Deseño gráfico: redeseño da identidade de marca de Cervezas 1906–Hijos de Rivera, desenvolvido polo estudio coruñés Costa.
       - Deseño Industrial/Produto: Lavelle Bikes de Pablo Iglesias.
       - Deseño dixital: web de Arturo Álvarez de Teiga Studio.
-       
+
       Ademais, na categoría de Creatividade, Suso Vázquez, Cibrán Rico e Álvaro Valiño foron merecedores do premio á Mellor Creatividade Gráfica polo proxecto Naipes, creado para Agencia Gráfica.
 
       Un ano máis, celebramos o recoñecemento ao deseño feito en Galicia e damos os nosos parabéns a finalistas e gañadores desta edición.
     type: text
-intro: 'O pasado venres, 12 de febreiro, fixéronse públicos os nomes dos proxectos gañadores dos [Premios Paraugas](https://premios.clustercomunicacion.gal/). Estes premios organizados polo Cluster da Comunicación de Galicia, que xa van pola súa quinta edición, buscan recoñecer o traballo feito en Galicia no campo do deseño, a impresión e a edición, a creatividade, a comunicación, o márketing e a organización de eventos.'
+intro: "O pasado venres, 12 de febreiro, fixéronse públicos os nomes dos proxectos gañadores dos [Premios Paraugas](https://premios.clustercomunicacion.gal/). Estes premios organizados polo Cluster da Comunicación de Galicia, que xa van pola súa quinta edición, buscan recoñecer o traballo feito en Galicia no campo do deseño, a impresión e a edición, a creatividade, a comunicación, o márketing e a organización de eventos."
 slug: palmares-premios-paraugas-2020
 tags: []
 lang: gl

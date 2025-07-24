@@ -1,14 +1,12 @@
 id: 887
-title: 'Pequeña crónica de EXPRESS'
+title: "Pequeña crónica de EXPRESS"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [EXPRESS](https://dag.gal/gl/express/) empezó con un taller de _letterpress_ impartido por el colectivo [Manchea](https://manchea.wordpress.com/) y que tuvo una espectacular acogida, pues las plazas para participar en él se cubrieron todas ya el mismo día del lanzamiento de la convocatoria.
 
       **Laura Sánchez** y **Tono Galán** explicaron el proceso de trabajo con máquinas de impresión en tipos móviles y mostraron el funcionamiento de la Minerva y de la Adana. Trajeron materiales suficientes para trabajar, varias tipografías de madera y de plomo, y enseguida hubo resultados. Los trabajos se expusieron en la propia aula y durante el posterior se pudo charlar en profundidad con los protagonistas.
@@ -31,16 +29,15 @@ body:
 
       Tras escuchar a los protagonistas e intercambiar algunas cuestiones con el público asistente, invitamos a todos los participantes a un pequeño convite en el aula de trabajo, patrocinado por cervezas 1906 y Coren, donde pudimos hablar más distendidamente, compartiendo opiniones e intereses sobre la impresión tradicional.
     type: text
-  -
-    list: ''
+  - list: ""
     info:
       code: '<a data-flickr-embed="true" href="https://www.flickr.com/photos/asociaciondag/sets/72157706866350411" title="Xornada Letterpress by Asociación DAG, on Flickr"><img src="https://live.staticflickr.com/65535/33874922438_67698583c7_b.jpg" width="1024" height="683" alt="IMG_9607"></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'
-      ratio: ''
+      ratio: ""
     type: embed
-intro: 'El pasado 26 de abril se celebró en el espacio de intervención cultural de la Universidad de A Coruña, NORMAL, la jornada sobre impresión tradicional organizada por la DAG.'
+intro: "El pasado 26 de abril se celebró en el espacio de intervención cultural de la Universidad de A Coruña, NORMAL, la jornada sobre impresión tradicional organizada por la DAG."
 slug: pequena-cronica-de-express
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2019-05-02T11:49:33+00:00

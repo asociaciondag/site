@@ -1,14 +1,12 @@
 id: 852
-title: 'Uqui Permui galardoada cun Premio SERenidade pola campaña En negro contra as violencias '
+title: "Uqui Permui galardoada cun Premio SERenidade pola campaña En negro contra as violencias "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/uqui-permui.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       No caso de [Uqui Permui](http://uqui.net/gl) prémiase o seu traballo como deseñadora da campaña [En negro contra as violencias](http://tm.santiagodecompostela.gal/es/en-negro-contra-as-violencias/compostela-en-negro-2018), nacida en 2015 da man do Concello de Santiago con **Compostela en negro**, unha iniciativa que conseguiu implicar arredor de 300 estabelecementos comerciais e axentes sociais do municipio nun obxectivo común: promoveren e faceren visíbel o rexeitamento da cidadanía ante calquera tipo de violencia contra as mulleres.
 
       A acción consistiu en pintar de negro a cidade a través dos escaparates, os manequíns, a roupa de traballo. Vestíase así de loito Compostela en sinal da dor por todas as mulleres que sofren violencia machista.
@@ -17,10 +15,10 @@ body:
 
       O acto de entrega dos galardóns de [SER-Galicia](http://cadenaser.com/emisora/radio_galicia/) terá lugar este mércores 12 de decembro nunha gala no Auditorio de Galicia.
     type: text
-intro: 'A nosa socia Uqui Permui acaba de ser distinguida cun dos Premios SERenidade que outorga Radio Galicia-Cadena SER, e que recoñecen o papel e a contribución á sociedade de persoeiros e institucións vinculadas a Galicia.'
+intro: "A nosa socia Uqui Permui acaba de ser distinguida cun dos Premios SERenidade que outorga Radio Galicia-Cadena SER, e que recoñecen o papel e a contribución á sociedade de persoeiros e institucións vinculadas a Galicia."
 slug: uqui-permui-galardoada-cun-premio-serenidade-pola-campana-en-negro-contra-as-violencias
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2018-12-11T09:19:33+00:00

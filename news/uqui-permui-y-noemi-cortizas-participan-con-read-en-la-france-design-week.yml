@@ -1,14 +1,12 @@
 id: 1331
-title: 'Uqui Permui y Noemí Cortizas participan con READ en la France Design Week'
+title: "Uqui Permui y Noemí Cortizas participan con READ en la France Design Week"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/img-0692.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El objetivo del evento «Dialogos sur le design» organizado desde el grupo de internacionalización de READ y en el que llevan meses trabajando es el de establecer alianzas y crear redes entre distintos países para darle visibilidad a los profesionales del diseño español en el estranjero y difundir la imagen de España como referente en diseño e innovación.
 
       En colaboración con la Asociación para la Promoción del Diseño (APCI), miembro de BEDA igual que READ, se ofrece un espacio de intercambio de experiencias centrado en dos ejes: el desafío digital y la internacionalización del diseño. El evento tendrá lugar en el Cole​gio de España en París el 20 de septiembre de 10 a 13.30 horas.
@@ -23,17 +21,15 @@ body:
 
       Agradecemos a la Xunta de Galicia, a través del Programa de[ Deseño para a Innovación e a Sustentabilidade 2024 – DIFERENZA](http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+sustentabilidade+2024+diferenza), el apoyo dado a DAG para promocionar el diseño gallego en este evento.
     type: text
-  -
-    list: ''
-    url: 'https://designread.es/read-participa-en-la-france-design-week/'
-    text: 'Más info'
+  - list: ""
+    url: "https://designread.es/read-participa-en-la-france-design-week/"
+    text: "Más info"
     type: button
-  -
-    list: ''
-    url: 'https://francedesignweek.fr/'
-    text: 'France Design Week'
+  - list: ""
+    url: "https://francedesignweek.fr/"
+    text: "France Design Week"
     type: button
-intro: 'Las socias Uqui Permui y Noemí Cortizas forman parte del equipo de READ que estará en la _France Design Week_ el próximo 20 de septiembre, participando del proyecto «Dialogos sur le design», creado por el grupo de internacionalización.'
+intro: "Las socias Uqui Permui y Noemí Cortizas forman parte del equipo de READ que estará en la _France Design Week_ el próximo 20 de septiembre, participando del proyecto «Dialogos sur le design», creado por el grupo de internacionalización."
 slug: uqui-permui-y-noemi-cortizas-participan-con-read-en-la-france-design-week
 tags: []
 lang: es

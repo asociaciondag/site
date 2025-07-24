@@ -1,44 +1,36 @@
 id: 7
-title: 'A Nave de Vidán'
+title: "A Nave de Vidán"
 slug: a-nave-de-vidan
 body:
-  -
-    text: |-
+  - text: |-
       A Nave de Vidán é un espazo gastronómico-cultural ubicado no barrio de Vidán, Santiago de Compostela. Esta proposta de ocio alternativo xurde da conversión dun antigo almacén industrial nun establecemento hostaleiro con tres ambientes diferenciados: o bar-café, o restaurante e unha sala multidisciplinar na que teñen lugar todo tipo de eventos culturais.
 
       Para o proxecto mantivemos o nome co que era coñecido tradicionalmente o lugar, para favorecer a retentiva da ubicación e ao mesmo tempo dotar da significancia de “contenedor de propostas” a un espazo no que caben iniciativas moi variadas. No referente á imaxe, inspirámonos no carácter industrial da rehabilitación do edificio, tomando como referencia as liñas diagonais da madeira dos grandes portóns, elemento orixinal que se conservou na fachada. O símbolo representa un “N” de Nave, forma abreviada de uso máis común do nome, formada á súa vez polas tres letras do seu acrónimo ”ANV” . Desenvolveuse unha trama co símbolo que se reproduciu na fachada como elemento decorativo e tamén no interior, así como tamén nas aplicacións de papelería. O logotipo é sobrio, de liñas sinxelas, evocando o teito da nave e as súas cerchas descubertas.
     type: text
-  -
-    image: /img/portfolio/images/5554e579195f8-anavedevidan_1.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e579195f8-anavedevidan_1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e579195f8-anavedevidan_2.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e579195f8-anavedevidan_2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e579195f8-anavedevidan_31.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e579195f8-anavedevidan_31.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5554e579195f8-anavedevidan_41.jpg
-    text: ''
+  - image: /img/portfolio/images/5554e579195f8-anavedevidan_41.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585542827927-5554e579195f8-anavedevidan-41.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 3
   - 18
 lang: gl
 info:
-  -
-    name: Estudio
-    value: 'Ekinocio Comunicación'
-  -
-    name: Cliente
-    value: 'Miguel R. Penas e socios/as.'
-  -
-    name: Ano
-    value: '2012'
+  - name: Estudio
+    value: "Ekinocio Comunicación"
+  - name: Cliente
+    value: "Miguel R. Penas e socios/as."
+  - name: Ano
+    value: "2012"
 draft: true

@@ -1,8 +1,7 @@
 id: 255
-title: 'Alumnos de la Ingeniería Técnica de la EUDI diseñan como proyecto fin de carrera un modelo de coche sin conductor para Seat'
+title: "Alumnos de la Ingeniería Técnica de la EUDI diseñan como proyecto fin de carrera un modelo de coche sin conductor para Seat"
 body:
-  -
-    text: |-
+  - text: |-
       En esta edición, el desafío propuesto por Seat al inicio del curso consistía en diseñar un coche automático de bajo coste y adaptado a los nuevos perfiles de usuario. Este año además, los proyectos se debían realizar de modo individual, y no en grupo como el año pasado cuando los alumnos habían trabajado en el diseño de un coche de bajo consumo.
 
       Entre las propuestas de los estudiantes, 56 en total, pudieron verse coches que se reconvierten en oficinas y equipados con grafeno, que permite aplicar pantallas táctiles en las ventanas o proyectar películas; modelos como el Seat Caneiro, pensado para viajar y con asientos que se transforman en camas, o otros como el Utopía, con forma de pelota de tenis y cableado exterior.
@@ -11,12 +10,11 @@ body:
 
       El convenio entre la EUDI y Seat ya le había dado la oportunidad a tres estudiantes el año pasado de formarse en esta compañía, y este año tres más, seleccionados de entre todos los participantes realizarán sus prácticas en el Centro de Diseño en Martorell.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9de6e27-convenio-eudi-seat.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Por segundo año consecutivo y en el marco del acuerdo de colaboración suscrito entre la [Escuela Universitaria de Diseño Industrial](http://www.eudi.udc.es/) de la UDC y Seat, los alumnos de la EUDI les presentaron la semana pasada a los responsables de la empresa de automoción sus propuestas para un nuevo modelo de coche.'
+intro: "Por segundo año consecutivo y en el marco del acuerdo de colaboración suscrito entre la [Escuela Universitaria de Diseño Industrial](http://www.eudi.udc.es/) de la UDC y Seat, los alumnos de la EUDI les presentaron la semana pasada a los responsables de la empresa de automoción sus propuestas para un nuevo modelo de coche."
 slug: alumnos-de-la-ingenieria-tecnica-de-la-eudi-disenan-como-proyecto-fin-de-carrera-un-modelo-de-coche-sin-conductor-para-seat
 tags: []
 lang: es

@@ -1,27 +1,24 @@
 id: 625
-title: 'Álvaro Valiño, outra vez connosco'
+title: "Álvaro Valiño, outra vez connosco"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/568fe46d95f9c-alvarovalin-o.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       > Ola! Son Álvaro Valiño e voltei á DAG polo Nadal, pouco despois de ter falado no FEED 2015. Creo que o labor da DAG é imprescindible para pór en valor o deseño e facer por crear unha comunidade de profesionais e estudantes.
-      > 
+      >
       > Son coruñés, mais resido en Washington DC desde onde traballo como infografista, deseñador e ilustrador freelance.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/alvaro-valino/'
-    text: 'Ficha de socio DAG'
+  - list: ""
+    url: "https://dag.gal/gl/alvaro-valino/"
+    text: "Ficha de socio DAG"
     type: button
-intro: 'Pois si! Témolo de volta! Tan lonxe e á vez tan cerca :)'
+intro: "Pois si! Témolo de volta! Tan lonxe e á vez tan cerca :)"
 slug: alvaro-valino-outra-vez-connosco
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2016-01-08T17:31:41+00:00

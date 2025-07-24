@@ -1,8 +1,7 @@
 id: 506
-title: 'Primeiras conclusións do 2ENAD (Segundo encuentro nacional de asociaciones de Diseño)'
+title: "Primeiras conclusións do 2ENAD (Segundo encuentro nacional de asociaciones de Diseño)"
 body:
-  -
-    text: |-
+  - text: |-
       O evento foi organizado e coordinado por READ, Red Española de Asociaciones de Diseño á que pertenece a DAG, e coordinado por di\_mad en Central del Diseño no Matadero Madrid durante os días 12 e 13 de xuño. Estiveron presentes 39 representantes de 20 asociacións de deseño español e unha ducia de invitados de empresas privadas e institucións de encino.
 
       O encontró para o debate e, sobre todo, a proposta, en seis mesas de trabalho de maneira co-creativa en torno a otros tantos temas de interese manifesto para o sector: a relación das asociacións de profesionais coa ensinança, a relación dos deseñadores coas empresas, o Mapa do Deseño, a comunicación e a relación das asociacións coa administración.
@@ -21,12 +20,11 @@ body:
 
       ## @Foro\_READ
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa661d67-2encuentro-read-int1.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'O[ Segundo Encuentro Nacional de Asociaciones de Diseño (2ENAD)](http://www.designread.es/2encuentro)convocou a 20 organizacións en torno a seis mesas de traballo de especial interese para o sector.'
+intro: "O[ Segundo Encuentro Nacional de Asociaciones de Diseño (2ENAD)](http://www.designread.es/2encuentro)convocou a 20 organizacións en torno a seis mesas de traballo de especial interese para o sector."
 slug: primeiras-conclusions-do-2enad-segundo-encuentro-nacional-de-asociaciones-de-diseno
 tags: []
 lang: gl

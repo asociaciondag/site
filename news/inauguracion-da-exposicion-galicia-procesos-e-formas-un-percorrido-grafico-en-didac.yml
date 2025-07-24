@@ -1,26 +1,23 @@
 id: 1326
-title: 'Inauguración da exposición Galicia Procesos e Formas. Un percorrido gráfico en DIDAC'
+title: "Inauguración da exposición Galicia Procesos e Formas. Un percorrido gráfico en DIDAC"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/galiciaprocesosformas-didac.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Esta exposición, coproducida pola Xunta de Galicia e a Fundación Didac dentro do Programa de Deseño para a Innovación e a Sustentabilidade - Diferenza, é unha versión da exposición máis ampla que puidemos ver na [Porto Design Biennale](https://www.portodesignbiennale.pt) e que levaba por título Galicia, Procesos e formas.
 
       A selección de traballos nesta ocasión céntrase principalmente no material gráfico que estivo presente na bienal e busca formar parte da Colección Didac con intención de crear un arquivo dixital para estudar a historia do deseño en Galicia xunto con estudos, publicacións, charlas _online_ e diversos contidos dixitais.
 
       A exposición estará aberta ao público ata o 31 de outubro de 2024, de luns a venres en horario de 10 a 14 e de 16 a 19 horas, e os sábados con cita previa.
     type: text
-  -
-    list: ''
-    url: 'https://didac.gal/didac/es/content/galicia-procesos-y-formas-un-recorrido-grafico'
-    text: 'Máis info'
+  - list: ""
+    url: "https://didac.gal/didac/es/content/galicia-procesos-y-formas-un-recorrido-grafico"
+    text: "Máis info"
     type: button
-intro: 'Hoxe 10 de setembro ás 18 horas terá lugar na Fundación Didac de Santiago de Compostela a inauguración da exposición Galicia, Procesos e Formas. Un percorrido gráfico, na que participan socios e socias de DAG xunto con outros deseñadores e deseñadoras galegas.'
+intro: "Hoxe 10 de setembro ás 18 horas terá lugar na Fundación Didac de Santiago de Compostela a inauguración da exposición Galicia, Procesos e Formas. Un percorrido gráfico, na que participan socios e socias de DAG xunto con outros deseñadores e deseñadoras galegas."
 slug: inauguracion-da-exposicion-galicia-procesos-e-formas-un-percorrido-grafico-en-didac
 tags: []
 lang: gl

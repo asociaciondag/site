@@ -1,14 +1,12 @@
 id: 1019
-title: 'La DAG y GAIN inician un estudio sobre la economía del diseño en Galicia'
+title: "La DAG y GAIN inician un estudio sobre la economía del diseño en Galicia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/estudo-deseno.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Debido a su carácter transversal, el valor del diseño es un factor dificilmente medible. Es por eso que se considera necesario un estudio específico, que permita indagar en su capacidad para incidir directamente en la economía y en la evolución de las empresas, así como en los servicios y produtos ofrecidos por estas.
 
       El Estudio de la economía del diseño en Galicia partirá de una recopilación de datos, que permitirá hacer un retrato amplio del sector del diseño en Galicia: cuáles son sus agentes, qué profesionales y disciplinas intervienen en el sector, cuáles son sus circunstancias… Además, a través de una muestra en la que se incluirán distintos sectores, este estudio ofrecerá datos de cómo el deseño interactúa con las empresas.
@@ -19,12 +17,11 @@ body:
 
       Para la realización de este estudio queremos hacer una llamada abierta a profesionales del diseño en Galicia, sean personas empleadas, responsables de una empresa de diseño o trabajadores independientes. Si quieres participar en el estudio y recibir información puntual en sus diferentes fases puedes subscribirte a la lista de correo, creada para este estudio, por la DAG.
     type: text
-  -
-    list: ''
-    url: 'http://eepurl.com/hg6SYj'
-    text: 'Quiero recibir más información'
+  - list: ""
+    url: "http://eepurl.com/hg6SYj"
+    text: "Quiero recibir más información"
     type: button
-intro: 'El estudio de investigación sobre el impacto y el retorno del diseño en la economía gallega es una iniciativa de la Agencia Gallega de Innovación, que se enmarca en el [Programa Deseño Galego para a Innovación 2020](http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+2020).'
+intro: "El estudio de investigación sobre el impacto y el retorno del diseño en la economía gallega es una iniciativa de la Agencia Gallega de Innovación, que se enmarca en el [Programa Deseño Galego para a Innovación 2020](http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+2020)."
 slug: dag-gain-estudio-economia-diseno-galicia
 tags: []
 lang: es

@@ -1,22 +1,20 @@
 id: 560
-title: 'Este 10 de junio descubre la nueva ruta digital'
+title: "Este 10 de junio descubre la nueva ruta digital"
 body:
-  -
-    text: |-
+  - text: |-
       El programa incluye una conferencia del diseñador América Sánchez y un pequeño taller para experimentar con nuevos soportes.
 
       América Sánchez es diseñador gráfico, fotógrafo y pedagogo de la imagen. De formación autodidacta, aprendió de la llamada Escuela de Suíza. Después de varios años trabajando para varias agencias y como free-lance, pone en marcha su propio estudio de diseño. También desarrolla una actividad pedagógica en la Escuela de Diseño y Artes Eina de Barcelona y otras escuelas e instituciones. Es responsable de la identidad corporativa de reconocidas instituciones y empresas y de la identidad gráfica de importantes eventos, como el logotipo de la candidatura olímpica de Barcelona 92. En su estilo combina la rigurosidad del diseño de tradición europea con el grafismo popular.
 
-      Para asistir, confirma tu presencia a través de:  
-       Teléfono 902 905 024  
+      Para asistir, confirma tu presencia a través de:
+       Teléfono 902 905 024
        Mail: <comunicacion@torculo.com>
     type: text
-  -
-    list: ''
+  - list: ""
     file: /files/55a298b2b33b4-descubre-a-nova-ruta-dixital.pdf
-    text: 'Descarga o programa'
+    text: "Descarga o programa"
     type: file
-intro: 'Tórculo Comunicación Gráfica invita a los diseñadores a participar en la actividad **Descubre la nueva ruta digital** que tendrá lugar la tarde del próximo miércoles 10 de junio en su sede del Polígono del Tambre, Vía Edison 33-35 de Santiago de Compostela.'
+intro: "Tórculo Comunicación Gráfica invita a los diseñadores a participar en la actividad **Descubre la nueva ruta digital** que tendrá lugar la tarde del próximo miércoles 10 de junio en su sede del Polígono del Tambre, Vía Edison 33-35 de Santiago de Compostela."
 slug: este-10-de-junio-descubre-la-nueva-ruta-digital
 tags: []
 lang: es

@@ -1,9 +1,8 @@
 id: 11
-title: 'Aviso legal'
+title: "Aviso legal"
 slug: aviso-legal
 body:
-  -
-    text: |-
+  - text: |-
       A finalidade do presente aviso legal é regular os principios de acceso e as condicións xerais de uso da web [dag.gal](http://dag.gal), así como establecer a política en materia de protección de datos de carácter persoal (política de privacidade).
 
       ## 1. Información xeral do titular do sitio web
@@ -64,14 +63,14 @@ body:
       2. Calquera vulneración dos dereitos de propietario do sitio web ou dos seus lexítimos titulares.
       3. A súa utilización para todo tipo de fins comerciais ou publicitarios, distintos dos estritamente permitidos.
       4. Calquera intento de obter os contidos do sitio web por calquera medio distinto dos que se poñan a disposición das persoas usuarias así como dos que habitualmente se empreguen na rede, sempre que non causen ningún prexuízo ao sitio web.
-       
+
       Para os efectos de preservar os posibles dereitos de propiedade intelectual, no caso de que calquera persoa usuaria ou unha terceira persoa considere que se produciu unha violación dos seus lexítimos dereitos pola introdución dun determinado contido no web, deberá notificar esta circunstancia á DAG indicando:
 
       1. Datos persoais da persoa interesada titular dos dereitos presuntamente infrinxidos. Se a reclamación a presenta unha terceiro persoa distinta da interesada, deberá indicar a representación coa que actúa.
       2. Indicación dos contidos protexidos polos dereitos de propiedade intelectual e a súa localización no web.
       3. Acreditación dos citados dereitos de propiedade intelectual.
       4. Declaración expresa na que a persoa interesada se responsabiliza da veracidade das informacións facilitadas na notificación.
-       
+
       A lexitimidade dos dereitos de propiedade intelectual ou industrial correspondentes aos contidos proporcionados por terceiras persoas é da súa exclusiva responsabilidade.
 
       O establecemento de calquera “hiperenlace” entre unha páxina web e calquera das páxinas web do sitio web estará sometido ás seguintes condicións:
@@ -79,7 +78,7 @@ body:
       1. Non se permite a reprodución nin total nin parcial de ningún dos servizos nin contidos do sitio web.
       2. A páxina web na que se estableza o hiperenlace non conterá ningunha marca, nome comercial, rótulo de establecemento, denominación, logotipo, slogan ou outros signos distintivos pertencentes ao sitio web.
       3. Baixo ningunha circunstancia, o propietario do sitio web será responsable dos contidos ou servizos postos a disposición do público na páxina web desde a que se realice o “hiperenlace” nin das informacións e manifestacións incluídas nela.
-       
+
     type: text
 menu: false
 footer: true

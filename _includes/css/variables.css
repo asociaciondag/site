@@ -22,55 +22,55 @@
  *
  */
 :root {
-    --color-error: #E60016;
-	/* cor dag principal */
-    --color-main: #363636;
+  --color-error: #e60016;
+  /* cor dag principal */
+  --color-main: #363636;
 
-    --color-dark: #5E5E5E;
+  --color-dark: #5e5e5e;
 
-    /* cor dag gris medio */
-    --color-medium: #757575;
+  /* cor dag gris medio */
+  --color-medium: #757575;
 
-	/* cor dag light */
-    --color-light: #36363633;
-    --color-15: #E1E1E1;
+  /* cor dag light */
+  --color-light: #36363633;
+  --color-15: #e1e1e1;
 
-    --black-10a: #36363622;
-    --black-10: #EAEAEA;
-    --black-8: #EFEFEF;
-    --black-5: #F5F5F5;
-    --black-5a: #36363611;
+  --black-10a: #36363622;
+  --black-10: #eaeaea;
+  --black-8: #efefef;
+  --black-5: #f5f5f5;
+  --black-5a: #36363611;
 
-    /* cor dag */
-    --color-dag: var(--color-main);
+  /* cor dag */
+  --color-dag: var(--color-main);
 
-    /* font-size */
-    --fs-14: 0.875rem;
-    --fs-16: 1rem;
-    --fs-18: 1.2rem;
-    --fs-26: 1.625rem;
-    --fs-32: 2rem;
-    --fs-48: 3rem;
-    --fs-60: 3.8rem;
+  /* font-size */
+  --fs-14: 0.875rem;
+  --fs-16: 1rem;
+  --fs-18: 1.2rem;
+  --fs-26: 1.625rem;
+  --fs-32: 2rem;
+  --fs-48: 3rem;
+  --fs-60: 3.8rem;
 
-    /* font-weight */
-    --fw-black: 700;
-    --fw-bold: 600;
-    --fw-normal: 500;
-    --fw-light: 400;
+  /* font-weight */
+  --fw-black: 700;
+  --fw-bold: 600;
+  --fw-normal: 500;
+  --fw-light: 400;
 
-    /* font-family */
-    --ff-normal: Isaac, Helvetica, Arial, sans-serif;
-    --ff-display: IsaacDisplay, Helvetica, Arial, sans-serif;
+  /* font-family */
+  --ff-normal: Isaac, Helvetica, Arial, sans-serif;
+  --ff-display: IsaacDisplay, Helvetica, Arial, sans-serif;
 
-    /* font-feature-settings */
-    --ffs-alt: "kern" 1, "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1;
+  /* font-feature-settings */
+  --ffs-alt: "kern" 1, "ss01" 1, "ss02" 1, "ss03" 1, "ss04" 1;
 
-    /* font-icons */
-    --ico-right: "\25b6";
-    --ico-left: "\25c0";
-    --ico-up: "\25b2";
-    --ico-down: "\25bc";
+  /* font-icons */
+  --ico-right: "\25b6";
+  --ico-left: "\25c0";
+  --ico-up: "\25b2";
+  --ico-down: "\25bc";
 }
 
 /* Custom medias */
@@ -83,4 +83,3 @@
 @custom-media --tablet-landscape (min-width: 1024px);
 @custom-media --until-desktop (min-width: 1439px);
 @custom-media --desktop (min-width: 1440px);
-

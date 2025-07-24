@@ -1,14 +1,12 @@
 id: 846
-title: 'OFFF,  el punto de encuentro para las mentes creativas '
+title: "OFFF,  el punto de encuentro para las mentes creativas "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/03.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hace más de una década OFFF Barcelona nacía como un evento para conectar a profesionales, artistas y creadores de disciplinas como las del diseño, fotografía, film, animación, ilustración, tipografía, programación, branding o música. A día de hoy, OFFF es una forma de vida, un festival que acoge a talentos innovadores del panorama internacional para compartir sus experiencias. Es el punto de encuentro para artistas y mentes creativas de todo el mundo, donde conocerse, colaborar y compartir sus pasiones. OFFF es una comunidad que invita a cualquiera con interés por participar y dejarse inspirar, en un viaje que incluye conferencias, talleres, actividades y performances. Es una plataforma en la cual los artistas revelan sus procesos de trabajo y demuestran la potencia de la industria creativa. OFFF tiene lugar cada año en Barcelona, mientras gira alrededor del mundo con los OFFF On Tour, que ya han visitado lugares como Cincinnati, Quebec, México DF, Viena o Tel Aviv, por nombrar sólo algunos.
 
       OFFF Sevilla será la primera cita de estos OFFF On Tour en Andalucía, y tiene como objetivo convertirse en la referencia en el sur para la creatividad. Se celebrará del 6 al 9 de diciembre en un incomparable emplazamiento histórico que data de la Exposición Universal de 1929, el Teatro Lope de Vega y el Casino de la Exposición. En su primera edición, OFFF Sevilla nace como un lugar para conectar, hacer crecer e inspirar a la gente a través de la creatividad y la interdisciplinariedad. El interés radica en la capacidad de OFFF de servir como plataforma de intercambio de ideas y proyectos entre distintos colectivos artísticos, sirviendo para reforzar y potenciar el tejido creativo y empresarial sevillano y andaluz, conectándolo con la red internacional del OFFF.
@@ -17,12 +15,11 @@ body:
 
       Hasta el 30 noviembre, todos los socios de la DAG tienen un 20% de descuento en el precio de las entradas. Para que se os aplique, escribid <info@dag.gal>
     type: text
-  -
-    list: ''
-    url: 'https://offfsevilla.com/'
-    text: 'Web de OFFF Sevilla'
+  - list: ""
+    url: "https://offfsevilla.com/"
+    text: "Web de OFFF Sevilla"
     type: button
-intro: 'OFFF, el acontecimiento internacional de referencia para la creatividad llega por primera vez a Sevilla, del 6 al 9 de diciembre en el Teatro Lope de Vega y en el Casino de la Exposición.'
+intro: "OFFF, el acontecimiento internacional de referencia para la creatividad llega por primera vez a Sevilla, del 6 al 9 de diciembre en el Teatro Lope de Vega y en el Casino de la Exposición."
 slug: offf-el-punto-de-encuentro-para-las-mentes-creativas
 tags: []
 lang: es

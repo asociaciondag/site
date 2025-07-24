@@ -1,27 +1,23 @@
 id: 300
-title: 'Campus Vida'
+title: "Campus Vida"
 slug: campus-vida-es
 body:
-  -
-    text: |-
-      La marca «Campus Vida» inicialmente fue un encargo para la presentación de la Univesidade de Santiago de Compostela al reconocimiento en el año 2009 como Campus de Excelencia Internacional, luego se convirtió en la imagen del Campus Sur, que pasó a llamarse «Campus Vida». Fue creada para que conviva en armonía con la marca USC.  
+  - text: |-
+      La marca «Campus Vida» inicialmente fue un encargo para la presentación de la Univesidade de Santiago de Compostela al reconocimiento en el año 2009 como Campus de Excelencia Internacional, luego se convirtió en la imagen del Campus Sur, que pasó a llamarse «Campus Vida». Fue creada para que conviva en armonía con la marca USC.
        El Campus Vida ha sido reconocido con la cualificación de Campus de Excelencia Internacional por los Ministerios de Educación e Innovación en el año 2009.
     type: text
-  -
-    image: /img/portfolio/images/campusvida-01.jpg
-    text: ''
+  - image: /img/portfolio/images/campusvida-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/campus-vida-mu.jpg
-    text: ''
+  - image: /img/portfolio/images/campus-vida-mu.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/totem-campus-vida-01.png
-    text: ''
+  - image: /img/portfolio/images/totem-campus-vida-01.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/campusvida-01.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 28
 lang: es

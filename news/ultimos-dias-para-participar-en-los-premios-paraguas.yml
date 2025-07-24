@@ -1,14 +1,12 @@
 id: 928
-title: 'Últimos días para participar en los Premios Paraguas'
+title: "Últimos días para participar en los Premios Paraguas"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premios-paraugas-definitiva.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Se trata de la única convocatoria existente en Galicia de premios desde el sector y para el sector. En esta IV edición, que celebrará la entrega de premios el próximo 29 de noviembre, la categoría de Diseño, patrocinada por el GAIN - Agencia Gallega de Innovación, cuenta con tres premios específicos:
 
       **1. Premio Paraguas al Mejor Diseño Gráfico**
@@ -63,17 +61,15 @@ body:
 
       3ª inscripción y siguientes: gratuitamente
     type: text
-  -
-    list: ''
-    url: 'http://premios.clustercomunicacion.gal/'
-    text: 'Web de los Premios Paraguas'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/"
+    text: "Web de los Premios Paraguas"
     type: button
-  -
-    list: ''
-    url: 'http://premios.clustercomunicacion.gal/wp-content/uploads/2019/10/BASES-IV-Premios-Paraugas.pdf'
-    text: 'Bases de los Premios Paraguas'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/wp-content/uploads/2019/10/BASES-IV-Premios-Paraugas.pdf"
+    text: "Bases de los Premios Paraguas"
     type: button
-intro: 'Los Premios Paraguas, organizados por el Clúster de la Comunicación de Galicia, nacieron con la idea de poner en valor la calidad y el excelente trabajo de los y las profesionales gallegos. Su objetivo principal es ensalzar la función de la creatividad, el diseño, la edición, la impresión, el marketing y la comunicación en las empresas y en las instituciones, y como medio para conseguir aumentar la competitividad y la capacidad innovadora.'
+intro: "Los Premios Paraguas, organizados por el Clúster de la Comunicación de Galicia, nacieron con la idea de poner en valor la calidad y el excelente trabajo de los y las profesionales gallegos. Su objetivo principal es ensalzar la función de la creatividad, el diseño, la edición, la impresión, el marketing y la comunicación en las empresas y en las instituciones, y como medio para conseguir aumentar la competitividad y la capacidad innovadora."
 slug: ultimos-dias-para-participar-en-los-premios-paraguas
 tags: []
 lang: es

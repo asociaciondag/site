@@ -1,22 +1,19 @@
 id: 251
-title: 'Triple Alpha'
+title: "Triple Alpha"
 slug: triple-alpha
 body:
-  -
-    image: /img/portfolio/images/triple-alpha-2018-branding.jpg
-    text: ''
+  - image: /img/portfolio/images/triple-alpha-2018-branding.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/triple-alpha-2018-branding.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 67
 lang: es
 info:
-  -
-    name: Proyecto
-    value: 'Triple Alpha'
-  -
-    name: Año
-    value: '2018'
+  - name: Proyecto
+    value: "Triple Alpha"
+  - name: Año
+    value: "2018"
 draft: false

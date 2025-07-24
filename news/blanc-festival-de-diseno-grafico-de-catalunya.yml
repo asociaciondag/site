@@ -1,8 +1,7 @@
 id: 50
-title: 'BLANC: Festival de Diseño Gráfico de Catalunya'
+title: "BLANC: Festival de Diseño Gráfico de Catalunya"
 body:
-  -
-    text: |-
+  - text: |-
       Un punto de encotro para avaliar a calidade do noso deseño a través de actividades dirixidas a profesionais e estudantes, para os que dispoñemos ademais de créditos de libre elección.
 
       ¿Cándo? O venres 13 e o sábado 14 de novembro do 2009
@@ -11,12 +10,11 @@ body:
 
       +info: <http://blancfestival.com/website/>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a97853a8-blancc-copia.gif
-    text: ''
+    text: ""
     type: image
-intro: 'Blanc é unha idea de deseñadores gráficos dirixida a deseñadores gráficos: 2 días. 2 workshops. 14 conferencias.'
+intro: "Blanc é unha idea de deseñadores gráficos dirixida a deseñadores gráficos: 2 días. 2 workshops. 14 conferencias."
 slug: blanc-festival-de-diseno-grafico-de-catalunya
 tags: []
 lang: gl

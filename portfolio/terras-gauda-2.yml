@@ -1,13 +1,11 @@
 id: 385
-title: 'Terras Gauda'
+title: "Terras Gauda"
 slug: terras-gauda-2
 body:
-  -
-    text: ''
+  - text: ""
     type: text
-  -
-    image: /img/portfolio/images/20210805-4.jpg
-    text: ''
+  - image: /img/portfolio/images/20210805-4.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/20210805-4.jpg
 tags:

@@ -1,14 +1,12 @@
 id: 1144
-title: 'Convócanse os III Premios Galicia de Innovación e Deseño'
+title: "Convócanse os III Premios Galicia de Innovación e Deseño"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premiosinnovaciondes2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Con estes galardóns búscase destacar as mellores prácticas para que sirvan de exemplo a todo o tecido empresarial galego, poñendo de relevo como a innovación e o deseño cumpren un papel esencial para mellorar a competitividade das empresas e, en definitiva, a calidade de vida das persoas.
 
       O certame conta con seis categorías, das que tres están especificamente dirixidas a recoñecer a profesionais e empresas que contribúen de maneira relevante á mellora do prestixio do deseño galego e as compañías que, ao incorporalo á súa estratexia empresarial, demostran que o deseño actúa como motor de innovación, sustentabilidade e competitividade. Un destes premios será para profesionais cunha traxectoria de dez ou máis anos, outro para empresas que incorporasen o deseño a súa ​estratexia empresarial durante unha década como mínimo, e un terceiro para deseñadores e deseñadoras menores de 35 anos de idade e cunha traxectoria profesional inferior a dez anos.
@@ -21,12 +19,11 @@ body:
 
       Estes foron os aspectos nos que destacaron as persoas e empresas galardoadas nas ​edicións anteriores deste certame. No apartado de deseño foron recoñecidos os nosos socios Ricardo Tubío e Xabier Rilo de Cenlitrosmetrocadrado e Suso Vázquez e Cibrán Rico de​ ​Desescribir (profesionais), Eva Yarza e Damián Calvo (talento emerxente) e Televés e TMC Cancela (empresas). No de innovación os premiados foron Francisco Guitián e Fernando Pérez (traxectoria innovadora), Marine Instruments e GalChimia (pemes) e Cupa Innovación e Congalsa (grandes empresas).
     type: text
-  -
-    list: ''
-    url: 'https://www.xunta.gal/dog/Publicados/2022/20220502/AnuncioG0198-210422-0001_gl.html'
-    text: 'Bases da convocatoria'
+  - list: ""
+    url: "https://www.xunta.gal/dog/Publicados/2022/20220502/AnuncioG0198-210422-0001_gl.html"
+    text: "Bases da convocatoria"
     type: button
-intro: 'A [**Axencia Galega de Innovación (Gain)**](http://gain.xunta.gal/?locale=es_ES), convoca a terceira edición dos **Premios Galicia de Innovación e Deseño** para recoñecer o labor das persoas e empresas que están a contribuír significativamente ao desenvolvememento económico e social en Galicia a través da innovación e o deseño. O plazo de inscrición de candidaturas está aberto ata o 4 de xullo.'
+intro: "A [**Axencia Galega de Innovación (Gain)**](http://gain.xunta.gal/?locale=es_ES), convoca a terceira edición dos **Premios Galicia de Innovación e Deseño** para recoñecer o labor das persoas e empresas que están a contribuír significativamente ao desenvolvememento económico e social en Galicia a través da innovación e o deseño. O plazo de inscrición de candidaturas está aberto ata o 4 de xullo."
 slug: convocanse-os-iii-premios-galicia-de-innovacion-e-deseno
 tags: []
 lang: gl

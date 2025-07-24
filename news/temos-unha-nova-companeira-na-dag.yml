@@ -1,27 +1,24 @@
 id: 588
-title: 'Temos unha nova compañeira na DAG'
+title: "Temos unha nova compañeira na DAG"
 body:
-  -
-    text: |-
+  - text: |-
       Boas. E non só como saúdo, senón porque para min son boas novas poder formar parte da DAG e estar en contacto con profesionais do medio deste país.
 
       Chámome Laura Alonso, son licenciada en Belas Artes e conto cun Máster en Dirección de Arte en Publicidade pola Universidade de Vigo. Levo anos adicándome ao deseño e en xeral ás artes gráficas. Agardo que a travesía sexa ben produtiva.
     type: text
-  -
-    list: ''
-    url: 'http://dag.gal/gl/laura-alonso-carracedo'
-    text: 'Perfil de socia'
+  - list: ""
+    url: "http://dag.gal/gl/laura-alonso-carracedo"
+    text: "Perfil de socia"
     type: button
-  -
-    list: after
+  - list: after
     image: /img/news/images/5603cdebe4235-laura-alonso-presentacion.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'Queredes coñecela, verdade? Pois aquí está a súa presentación'
+intro: "Queredes coñecela, verdade? Pois aquí está a súa presentación"
 slug: temos-unha-nova-companeira-na-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2015-09-24T12:18:19+00:00

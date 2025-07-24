@@ -1,15 +1,13 @@
 id: 41
-contact: 'Mail: hola@joanrios.com'
+contact: "Mail: hola@joanrios.com"
 links:
-  -
-    text: 'Páxina web'
-    url: 'http://joanrios.com/'
+  - text: "Páxina web"
+    url: "http://joanrios.com/"
     type: link
-  -
-    text: Behance
-    url: 'https://www.behance.net/joanrios'
+  - text: Behance
+    url: "https://www.behance.net/joanrios"
     type: link
-name: 'Joan Ríos'
+name: "Joan Ríos"
 slug: joan-rios
 avatarBig: null
 avatar: /img/avatars/561ce203b252e-joan-rios-dominguez.png
@@ -17,5 +15,5 @@ tags: []
 draft: true
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

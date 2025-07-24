@@ -1,46 +1,37 @@
 id: 55
-title: 'Debut 10'
+title: "Debut 10"
 slug: debut-10
 body:
-  -
-    text: |-
+  - text: |-
       En novembro de 2010 celebrouse no sexto edificio do Museo de Pontevedra a 4ª edición da pasarela Debut 10 que amosa os proxectos fin de carreira dos alumnos da última promoción dos Estudos Superiores en Deseño Téxtil e Moda de Galicia ESDEMGA. Este foi o ano da consolidación dun proxecto creativo que xira ao redor da moda galega.
 
       A liña gráfica do evento formulouse a partir desa idea da unión de proxectos de todo un colectivo de deseñadores. Xeometría, deconstrución e mestizaxe conforman a idea dunha imaxe central que tenta representar moitas imaxes, tantas coma proxectos presentados.
 
       <http://www.esdemga.uvigo.es/debut2010>
     type: text
-  -
-    image: /img/portfolio/images/5585941b53c0e-debut10-1.jpg
-    text: ''
+  - image: /img/portfolio/images/5585941b53c0e-debut10-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585941b54819-dsc-0015.jpg
-    text: ''
+  - image: /img/portfolio/images/5585941b54819-dsc-0015.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585941b54da8-dsc-0018.jpg
-    text: ''
+  - image: /img/portfolio/images/5585941b54da8-dsc-0018.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585941b55481-dsc-00171.jpg
-    text: ''
+  - image: /img/portfolio/images/5585941b55481-dsc-00171.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585941b55c53-dscn38892.jpg
-    text: ''
+  - image: /img/portfolio/images/5585941b55c53-dscn38892.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585941b565c7-2.jpg
-    text: ''
+  - image: /img/portfolio/images/5585941b565c7-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585941b5694e-11-1.jpg
-    text: ''
+  - image: /img/portfolio/images/5585941b5694e-11-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585941b56d7b-36.jpg
-    text: ''
+  - image: /img/portfolio/images/5585941b56d7b-36.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585946a54e73-dsc-0015.jpg
 tags:
@@ -53,16 +44,12 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'De dominio público'
-  -
-    name: Cliente
-    value: 'Universidade de Vigo / ESDEMGA'
-  -
-    name: Ano
-    value: '2010'
-  -
-    name: Colaboradores
-    value: 'Marcos Villalba'
+  - name: Estudio
+    value: "De dominio público"
+  - name: Cliente
+    value: "Universidade de Vigo / ESDEMGA"
+  - name: Ano
+    value: "2010"
+  - name: Colaboradores
+    value: "Marcos Villalba"
 draft: false

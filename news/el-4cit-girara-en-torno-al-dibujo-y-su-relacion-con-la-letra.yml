@@ -1,8 +1,7 @@
 id: 81
-title: 'El 4CIT girará en torno al dibujo y su relación con la letra'
+title: "El 4CIT girará en torno al dibujo y su relación con la letra"
 body:
-  -
-    text: |-
+  - text: |-
       Entre los participantes de esta año estarán, entre otros, Javier Mariscal (conferencia inaugural), Keith Adams, Marian Bantjes, Ken Barber, Inocuo, Claude Mediavilla, James Mosley, Gerrit Noordzij y Ricardo Rousselot.
 
       El congreso estará de nuevo organizado por la Asociación de Diseñadores de la Comunidad Valenciá (ADCV)
@@ -11,10 +10,9 @@ body:
 
       [+ info](http://www.congresotipografia.com/)[inscripción](http://congresotipografia.com/inscripcion.aspx) **Cuota reducida**: Estudiantes, profesionales miembros de la ADCV y otras asociaciones de diseñadores.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9853e60-4-cit.gif
-    text: ''
+    text: ""
     type: image
 intro: 'El IV Congreso Internacional de tipografía (4CIT) cuyo título es "La letra dibujada" tendrá lugar en Valencia los días 18, 19 y 20 de junio.'
 slug: el-4cit-girara-en-torno-al-dibujo-y-su-relacion-con-la-letra

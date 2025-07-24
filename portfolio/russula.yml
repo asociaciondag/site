@@ -2,13 +2,12 @@ id: 314
 title: Russula
 slug: russula
 body:
-  -
-    image: /img/portfolio/images/russula.jpg
-    text: ''
+  - image: /img/portfolio/images/russula.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/russula.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 6
 lang:

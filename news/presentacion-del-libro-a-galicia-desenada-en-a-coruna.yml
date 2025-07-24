@@ -1,14 +1,12 @@
 id: 1363
-title: 'Presentación del libro A Galicia Deseñada en A Coruña'
+title: "Presentación del libro A Galicia Deseñada en A Coruña"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-noticia-libro-agaliciadesenada.jpg
-    text: 'Fotografía: Fabulatorio'
+    text: "Fotografía: Fabulatorio"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El libro parte de la exposición mostrada en Normal-Espazo de Intervención Cultural (UDC) entre el 14 de octubre de 2022 y el 14 de enero de 2023. ​​Muestra un reccorrido único por la historia del diseño gallego, a través de una selección de cien símbolos, marcas e identidades gráficas que ayudan a entender la evolución del patrimonio gráfico gallego.
 
       _A Galicia deseñada_ traza una secuencia narrativa de cinco períodos históricos —de los antecedentes a la contemporaneidad— y establece puentes entre épocas, interprentando la historia como un relato colectivo. Cuenta con 700 páginas editadas en gallego e inglés ​y se divide en tres partes:​​ una primera, con textos que exploran nuestra memoria gráfica en el contexto de ls grandes movimientos globales; una segunda, que presenta cien marcas acompañadas de explicaciones contextuales; y una tercera, de 250 páginas, que reúne fotografías de aplicaciones gráficas en soportes tan diversos como carteles, libros o objetos. Busca ser una obra de referencia para la divulgación, consulta e inspiración para profesionales del presente y del futuro; tomando conciencia de nuestro patrimonio también a t​ravés del diseño como herramienta al servicio de la sociedad​​.
@@ -17,7 +15,7 @@ body:
 
       La entrada a la Sala Normal es libre hasta completar su capacidad. Habrá libros a la venta, aunque también pueden adquirirse en la web de la editora [Fabulatorio](https://fabulatorio.com/es).​ ​
     type: text
-intro: 'Hoy jueves 12 de diciembre a las 20.00 ​h​ tendrá​ lugar en la Sala Cubo de Normal, en A Coruña, la presentación del volumen A Galicia deseñada, con autoría​ ​de Marcos Dopico, Cibrán Rico y Suso Vázquez, y coeditado entre Fabulatorio y la Universidade da Coruña.'
+intro: "Hoy jueves 12 de diciembre a las 20.00 ​h​ tendrá​ lugar en la Sala Cubo de Normal, en A Coruña, la presentación del volumen A Galicia deseñada, con autoría​ ​de Marcos Dopico, Cibrán Rico y Suso Vázquez, y coeditado entre Fabulatorio y la Universidade da Coruña."
 slug: presentacion-del-libro-a-galicia-desenada-en-a-coruna
 tags: []
 lang: es

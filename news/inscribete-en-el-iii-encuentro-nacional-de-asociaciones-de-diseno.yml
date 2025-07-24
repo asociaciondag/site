@@ -1,15 +1,14 @@
 id: 557
-title: 'Inscríbete en el III Encuentro Nacional de Asociaciones de Diseño'
+title: "Inscríbete en el III Encuentro Nacional de Asociaciones de Diseño"
 body:
-  -
-    text: |-
+  - text: |-
       En el caso de la mesa 1, que coordinará Gelo Álvarez (Dimad), el debate estará centrado en la definición de una serie de líneas maestras que puedan servir de guía a las administraciones a la hora de acometer un plan estratégico de acción sobre diseño; mientras que en la mesa 5, bajo la coordinación de Eugenio Jiménez (aad), se abordarán cuestiones com los modelos de organización de los profesionales del diseño o el papel de las asociaciones de diseño en el futuro próximo.
 
       Otros ejes temáticos en torno a los que se articulan las jornadas de trabajo serán: el primer encuentro de centros docentes y asociaciones profesionales de diseño, la creación del archivo documental Memorias del Diseño Español, el workshop diseño\_empresa con la experiencia proyecto READ-Telefónica I+D o el proyecto Spain with Design.
 
       Todas aquellas personas, colectivos o instituciones interasados en participar pueden inscribirse antes de este miércoles 3 de junio en: <http://designread.es/3enad/#inscripcion>
     type: text
-intro: 'La DAG acude al III Encuentro Nacional de Asociaciones de Diseño que se celebra los próximos 11 y 12 de junio en Málaga para participar en la mesa de trabajo n.º 1. _Bases para las políticas públicas del diseño en España_ y en la n.º 5. _Nuevos modelos de organización y asociación de diseñadores._'
+intro: "La DAG acude al III Encuentro Nacional de Asociaciones de Diseño que se celebra los próximos 11 y 12 de junio en Málaga para participar en la mesa de trabajo n.º 1. _Bases para las políticas públicas del diseño en España_ y en la n.º 5. _Nuevos modelos de organización y asociación de diseñadores._"
 slug: inscribete-en-el-iii-encuentro-nacional-de-asociaciones-de-diseno
 tags: []
 lang: es

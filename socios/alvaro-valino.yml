@@ -1,19 +1,16 @@
 id: 43
 contact: null
 links:
-  -
-    text: Web
-    url: 'http://www.alvarovalino.com/'
+  - text: Web
+    url: "http://www.alvarovalino.com/"
     type: link
-  -
-    text: Tumblr
-    url: 'http://alvarovalino.tumblr.com/'
+  - text: Tumblr
+    url: "http://alvarovalino.tumblr.com/"
     type: link
-  -
-    text: Twitter
-    url: 'https://twitter.com/alvarovalino'
+  - text: Twitter
+    url: "https://twitter.com/alvarovalino"
     type: twitter
-name: 'Álvaro Valiño'
+name: "Álvaro Valiño"
 slug: alvaro-valino
 avatarBig: null
 avatar: /img/avatars/566aff54a2ba5-alvaro-valino.jpeg
@@ -33,5 +30,5 @@ bio.es: |-
   Su trabajo ha sido reconocido por la Society of News Design en once ocasiones y ha obtenido 28 premios Malofiej, el galardón más reputado en la infografía periodística.
 
   Ha impartido seminarios de gráficos informativos en Madrid, Nueva Dehli y Kuala Lumpur. Su trabajo ha sido publicado en los volúmenes _Information Graphics_ de Taschen y _Visual Storytelling_ de Gestalten.
-job.gl: 'Deseñador gráfico e infografista'
-job.es: 'Diseñador gráfico e infografista'
+job.gl: "Deseñador gráfico e infografista"
+job.es: "Diseñador gráfico e infografista"

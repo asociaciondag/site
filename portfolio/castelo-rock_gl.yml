@@ -1,13 +1,11 @@
 id: 81
-title: 'Castelo Rock'
+title: "Castelo Rock"
 slug: castelo-rock
 body:
-  -
-    text: 'Creación da imaxe dun festival de rock e do seu _merchandising_. Imaxe aplicada aos carteis, papelaría, _merchandising_, programación do evento e sinalética.'
+  - text: "Creación da imaxe dun festival de rock e do seu _merchandising_. Imaxe aplicada aos carteis, papelaría, _merchandising_, programación do evento e sinalética."
     type: text
-  -
-    image: /img/portfolio/images/5564c886a3549-castelorock.jpg
-    text: ''
+  - image: /img/portfolio/images/5564c886a3549-castelorock.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/558598faecfe7-5564c886a3549-castelorock.jpg
 tags: []
@@ -15,10 +13,8 @@ members_id:
   - 21
 lang: gl
 info:
-  -
-    name: Cliente
-    value: 'Castelo Rock / Concello de Muros'
-  -
-    name: Ano
-    value: '2010'
+  - name: Cliente
+    value: "Castelo Rock / Concello de Muros"
+  - name: Ano
+    value: "2010"
 draft: false

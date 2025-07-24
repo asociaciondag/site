@@ -1,29 +1,26 @@
 id: 768
-title: 'O deseño de servizos dixitais para o cidadán. O caso do goberno británico'
+title: "O deseño de servizos dixitais para o cidadán. O caso do goberno británico"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/coca-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [Coca Rivas](https://www.linkedin.com/in/cocarivas/) sempre estivo interesada no deseño estratéxico e nos procesos creativos. Licenciouse coa 2ª promoción da Facultade de Belas Artes en Pontevedra (pasando pola Kingston University de Londres) e completou a súa formación académica cun Máster en tecnoloxías dixitais na University College of Londres (UCL) que compaxinou co seu traballo como Executive MBA do Instituto de Empresa (IE) en Madrid.
 
       En 2000 marchou a Londres e alí emprendeu a súa propia compañía de innovación e proxectos dixitais. Os seus clientes eran startups e grandes organizacións até que en 2002 o Goberno do Reino Unido, no marco da súa política de desenvolvemento dixital, lle ofreceu traballo como deseñadora de servizos dixitais para o cidadán. Ela foi unha das primeiras integrantes do orixinal e emblemático equipo de transformación dixital: o Government Digital Service (GDS). Durante esta etapa, traballou como consultora interna do GDS noutras unidades dentro do Goberno do Reino Unido: desde a Cabinet Office, até o Ministerio de Xustiza. En todas elas, contribuíu ao desenvolvemento dos estándares do goberno e liderou procesos de transformación dixital (como por exemplo o rexistro persoal para poder votar nas eleccións); traballo que lle valeu o recoñecemento como especialista no redeseño de servizos do goberno na era dixital, e na creación de equipos internos dixitais.
 
       Desde setembro de 2016 traballa para a empresa de tecnoloxía francesa Sopra Steria, onde é a head of service design e xestiona un equipo de deseñadores de experiencia do usuario.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: 'FEED''17'
     type: button
-intro: 'Este será o tema da conferencia de Coca Rivas, unha deseñadora de servizos galega que leva máis de quince anos traballando en tecnoloxías dixitais, definindo experiencias de cliente (internet, extranet, intranet, produtos e aplicacións) montando equipos, estabelecendo e aplicando estratexias dixitais.'
+intro: "Este será o tema da conferencia de Coca Rivas, unha deseñadora de servizos galega que leva máis de quince anos traballando en tecnoloxías dixitais, definindo experiencias de cliente (internet, extranet, intranet, produtos e aplicacións) montando equipos, estabelecendo e aplicando estratexias dixitais."
 slug: o-deseno-de-servizos-dixitais-para-o-cidadan-o-caso-do-goberno-britanico
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2017-10-30T21:01:20+00:00

@@ -1,14 +1,12 @@
 id: 837
-title: 'La V edición del ADCE European Creativity Festival aborda la ineludible y necesaria transformación del proceso creativo '
+title: "La V edición del ADCE European Creativity Festival aborda la ineludible y necesaria transformación del proceso creativo "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/adce-festival18-logo.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los mejores profesionales europeos de la industria creativa, la publicidad y el diseño volverán al Disseny Hub Barcelona para asistir a la quinta edición del **ADCE European Creativity Festival**, que presenta un programa de dos días -9 y 10 de noviembre- con inspiradoras conferencias, talleres y espacios para el encuentro entre profesionales.
 
       Bajo el concepto **‘Rewiring the Creative Machine’**, la edición de este año propone conciliar creatividad y tecnología “a través del diseño de flujos de trabajo y procesos colaborativos adecuados a la complejidad del proceso creativo_”_, en palabras de **Kris Hoet**, comisario del Festival y Director de Innovación en **Happiness** y **FCB Global**.
@@ -24,7 +22,7 @@ body:
       - **Conn Bertish**, Fundador y CEO en **Cancer Dojo**, -aplicación móvil que combina creatividad, tecnología y medicina para ayudar a los pacientes con cáncer- explicará en su intervención titulada ‘**Why dying made me a better creative’** la importancia y el poder de la creatividad en un mundo regido por el estrés.
       - **Rey Andrade**, Director Creativo en **72andSunny Amsterdam**, remarcará la importancia de la diversidad en la industria creativa y cómo,las organizaciones multiculturales y diversas pueden convertirse en potentes entornos creativos. ‘**Creativity needs diversity**’ es el título de la conferencia que propone.
       - **Julia Blomquist**, planner en **Forsman &amp; Bodenfors** presentará una conferencia titulada ‘**How “tillsammans” promotes creativity**’, en la que reflexionará sobre cómo una aproximación colaborativa a la resolución de tareas ayuda a promover la creatividad.
-       
+
       ## Workshops y High Potentials
 
       La mañana del sábado, 10 de noviembre, los asistentes con Full Pass podrán participar en uno de los talleres programados entorno a las singularidades del proceso creativo. Un total de ocho propuestas, totalmente prácticas, pensadas para inspirar y estimular las habilidades de los participantes en la resolución de problemas, la resiliencia, la colaboración y la búsqueda de formas innovadoras de potenciar su creatividad:
@@ -38,7 +36,7 @@ body:
       - ‘**Generative Design, Processing the Future**’ con Maximilian Heitsch, Korbi Lenzer (Moby Digg) y Saurabh Kakade (Serviceplan)
       - ‘**Out of the darkness and into the light. A performance writing workshop**’ con Marcus Brown
       - ‘**Human Creative Machine’** con Maria Anderson-Contreras
-       
+
       Por la tarde, el auditorio del Disseny Hub Barcelona acogerá la sesión [**High Potentials**](https://www.adceurope.org/education/high-potentials/). Un desafiante e inspirador formato diseñado para ayudar a jóvenes creativos a mostrar sus habilidades, crearse una red de contactos y encontrar trabajos irresistibles. En su cuarta edición, el programa de este año trabaja para conectar a los nuevos talentos emergentes con los directores creativos y responsables de recursos humanos de destacadas agencias europeas. Durante la sesión, los jóvenes participantes tendrán la oportunidad de presentar al público sus mejores trabajos y participar en un ‘_speed dating_’ con representantes de varias agencias para generar nuevas relaciones profesionales.
 
       ## Creative Incubator
@@ -61,12 +59,11 @@ body:
 
       **La organización le ofrece a todos los socios de la DAG un 10% de descuento en las entradas al Festival. Si escribes a info@dag.gal, te informaremos de lo que tienes que hacer para se te aplique.**
     type: text
-  -
-    list: ''
-    url: 'https://www.adceurope.org/festival/whenwhere/'
-    text: 'ADCE Festival'
+  - list: ""
+    url: "https://www.adceurope.org/festival/whenwhere/"
+    text: "ADCE Festival"
     type: button
-intro: 'Rewiring the Creative Machine es el concepto que articula el programa de conferencias, talleres y actividades de _networking_ que ofrece el Festival.'
+intro: "Rewiring the Creative Machine es el concepto que articula el programa de conferencias, talleres y actividades de _networking_ que ofrece el Festival."
 slug: la-v-edicion-del-adce-european-creativity-festival-aborda-la-ineludible-y-necesaria-transformacion-del-proceso-creativo
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 623
-title: 'Ábrese a convocatoria para participar na 46 edición dos Premios Laus'
+title: "Ábrese a convocatoria para participar na 46 edición dos Premios Laus"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/5674487e824ec-premios-laus.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Alén das categorías anteriores, os premios recoñecen a través do Laus Aporta-Fundació Banc Sabadell, instaurado hai tres anos, aqueles proxectos que, a través da comunicación visual, conseguiran ter un impacto social ou económico positivo.
 
       Como principal novidade, este ano os Laus incorporan dous novos premios o Laus Empresas e Entidades, que será outorgado polos membros da Xunta Directiva de ADG-FAD, e o Young Talent, co que o xurado de estudantes premiará o mellor dos traballos da súa categoría.
@@ -19,7 +17,7 @@ body:
 
       Todos os socios da DAG teñen un 15% de desconto na súa inscrición
     type: text
-intro: 'A Asociación de Deseñadores Gráficos e Directores de Arte do FAD (ADG-FAD) abriu esta semana a convocatoria para se inscribir na 46ª edición dos Premios Laus de Deseño Gráfico e Comunicación Visual. A ela poden presentarse todos os traballos impresos, publicados, emitidos, visionados online ou editados durante o ano 2015 nas seguintes categorías: Deseño Gráfico, Dixital, Publicidade, Audiovisuais e Estudantes.'
+intro: "A Asociación de Deseñadores Gráficos e Directores de Arte do FAD (ADG-FAD) abriu esta semana a convocatoria para se inscribir na 46ª edición dos Premios Laus de Deseño Gráfico e Comunicación Visual. A ela poden presentarse todos os traballos impresos, publicados, emitidos, visionados online ou editados durante o ano 2015 nas seguintes categorías: Deseño Gráfico, Dixital, Publicidade, Audiovisuais e Estudantes."
 slug: abrese-a-convocatoria-para-participar-na-46-edicion-dos-premios-laus
 tags: []
 lang: gl

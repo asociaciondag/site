@@ -1,14 +1,12 @@
 id: 1044
-title: 'Iniciamos os preparativos para a celebración do FEED e o ENAD en Santiago de Compostela'
+title: "Iniciamos os preparativos para a celebración do FEED e o ENAD en Santiago de Compostela"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/9enad-cabecera-fb.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A Asociación Galega de Deseño prepara unha nova edición do FEED e asume a organización do ENAD, en colaboración coa [Rede Española de Asociacións de Deseño](https://www.designread.es/). Será unha boa oportunidade para o encontro, intercambiar experiencias, opinións e coñecementos, pero sobre todo para seguir avanzando no recoñecemento do deseño como un factor esencial para o desenvolvemento social, cultural e económico.
 
       Tanto o FEED coma o ENAD seguirán a ter programas independentes con enfoques diferenciados, os dous comparten obxectivos e terán, este ano, continuidade no tempo. Ambos eventos poñerán o foco, durante 3 días, no deseño. Dáse a curiosa coincidencia que tanto o ENAD coma o FEED botaron a andar aló polo 2013. Este ano xuntarán os seus camiños para dar continuidade ao seu traballo en prol do deseño.
@@ -19,10 +17,10 @@ body:
 
       Dende DAG e READ xa estamos traballando na preparación e organización dos encontros e seguiremos informando de novidades e avances na programación.
     type: text
-intro: 'A que será a 6ª edición do Foro de Edición e Deseño e a 9ª do Encontro Nacional de Deseño xa teñen datas. Os dous eventos terán este ano unha programación continua e sucederán entre o 14 e o 16 de outubro. Santiago de Compostela é a cidade elixida para acoller as actividades incluídas no programa.'
+intro: "A que será a 6ª edición do Foro de Edición e Deseño e a 9ª do Encontro Nacional de Deseño xa teñen datas. Os dous eventos terán este ano unha programación continua e sucederán entre o 14 e o 16 de outubro. Santiago de Compostela é a cidade elixida para acoller as actividades incluídas no programa."
 slug: preparativos-feed-enad-santiago
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2021-02-23T12:55:24+00:00

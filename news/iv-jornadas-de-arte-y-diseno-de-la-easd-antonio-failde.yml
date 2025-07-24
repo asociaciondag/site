@@ -1,14 +1,12 @@
 id: 1383
-title: 'IV Jornadas de Arte y Diseño de la EASD Antonio Faílde​'
+title: "IV Jornadas de Arte y Diseño de la EASD Antonio Faílde​"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/xornadas-crea-2025.jpg
-    text: 'Imagen: EASD Antonio Faílde'
+    text: "Imagen: EASD Antonio Faílde"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Este evento se realiza bianualmente desde hace ocho años y pretende visibilizar las actividades y la oferta formativa de la EASD en su entorno social, cultural y productivo, ofreciendo interesantes conferencias de prestigiosas/os profesionales de las artes aplicadas y del diseño, así como la puesta en valor de los proyectos de su alumnado titulado.
 
       El programa al completo se realiza en el recinto educativo Universidade Laboral en el barrio de A Cuña (Ourense), sede de la EASD Artonio Faíld​e​.
@@ -21,15 +19,14 @@ body:
 
       Las jornadas Crea están abiertas al público general, para que conozca de primera mano unas prácticas profesionales llenas de creatividade y técnica muy necesarias y demandadas por la sociedad y el ámbito productivo.​
     type: text
-  -
-    list: ''
-    url: 'https://www.escolarte.com/noticias-e-eventos/crea-2025-iv-xornadas-de-arte-e-deseno-da-easd-antonio-failde'
-    text: 'Más info'
+  - list: ""
+    url: "https://www.escolarte.com/noticias-e-eventos/crea-2025-iv-xornadas-de-arte-e-deseno-da-easd-antonio-failde"
+    text: "Más info"
     type: button
-intro: 'Del 1 al 3 de abril la EASD Antonio Faílde organiza las IV Jornadas Crea de Arte y Diseño con un amplio programa de charlas y presentaciones de proyectos, con la participación de nuestro socio Ismael Velo.​​​'
+intro: "Del 1 al 3 de abril la EASD Antonio Faílde organiza las IV Jornadas Crea de Arte y Diseño con un amplio programa de charlas y presentaciones de proyectos, con la participación de nuestro socio Ismael Velo.​​​"
 slug: iv-jornadas-de-arte-y-diseno-de-la-easd-antonio-failde
 tags:
-  - 'Difusión eventos'
+  - "Difusión eventos"
 lang: es
 draft: false
 date: 2025-03-24T13:08:53+00:00

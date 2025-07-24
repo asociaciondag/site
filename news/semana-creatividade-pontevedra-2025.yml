@@ -1,14 +1,12 @@
 id: 1390
-title: 'Pensarmos futuros sustentables, Semana da Creatividade en Pontevedra '
+title: "Pensarmos futuros sustentables, Semana da Creatividade en Pontevedra "
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/posemanacrea1.jpg
-    text: 'Imaxe da Semana Creativa do Campus Crea de Pontevedra, UVigo'
+    text: "Imaxe da Semana Creativa do Campus Crea de Pontevedra, UVigo"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Esta edición da Semana da Creatividade, que terá lugar entre o 21 e 25 de abril en varias localizacións de Pontevedra, ten por eixo temático a sustentabilidade e inclúe charlas, obradoiros, coloquios, un ciclo de cinema e unha exposición.
 
       Os relatorios, que versarán sobre a sustentabilidade desde distintos ámbitos da creación, estarán protagonizados pola deseñadora de moda e investigadora Elisa Palomino, o profesor Carlos Rodríguez Méndez da Facultade de Belas Artes da Universidade de Salamanca e o director de SODS Estudio Manuel Heredia Pérez.
@@ -23,15 +21,14 @@ body:
 
       A Semana da Creatividade está promovida polo Campus Crea e conta co apoio da Deputación de Pontevedra para a súa realización.
     type: text
-  -
-    list: ''
-    url: 'https://www.uvigo.gal/sites/uvigo.gal/files/contents/events/2025-04/Programa%20Semana%20Crea.pdf'
-    text: 'Programa completo'
+  - list: ""
+    url: "https://www.uvigo.gal/sites/uvigo.gal/files/contents/events/2025-04/Programa%20Semana%20Crea.pdf"
+    text: "Programa completo"
     type: button
-intro: 'Cinco días de actividades centradas nas principais liñas do proxecto de especialización do Campus Crea, abertas para toda a cidadanía, abordarán a creatividade nun sentido transversal e interdisciplinario.'
+intro: "Cinco días de actividades centradas nas principais liñas do proxecto de especialización do Campus Crea, abertas para toda a cidadanía, abordarán a creatividade nun sentido transversal e interdisciplinario."
 slug: semana-creatividade-pontevedra-2025
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2025-04-22T07:34:00+00:00

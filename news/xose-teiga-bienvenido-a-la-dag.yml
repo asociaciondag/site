@@ -1,14 +1,12 @@
 id: 1421
-title: 'Xose Teiga, bienvenido a la DAG'
+title: "Xose Teiga, bienvenido a la DAG"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-xose-teiga-2025.jpg
-    text: 'Fotografía: Teiga Studio'
+    text: "Fotografía: Teiga Studio"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Soy Xosé Teiga director creativo y diseñador gráfico, aunque en realidad lo que hago va mucho más allá de elegir colores o tipografías bonitas. Me dedico a construir marcas con sentido, con carácter y con una historia que contar.
 
       Llevo más de 20 años metido en esto del diseño, y sigo con la misma pasión (o más) que el primer día. Desde Galicia, he tenido la suerte de trabajar con marcas de todos los tamaños y sectores, siempre con la idea de aportar algo distinto, algo que conecte de verdad con las personas.
@@ -19,10 +17,10 @@ body:
 
       Si algo tengo claro después de todos estos años es que el diseño es una forma de pensar. Y yo sigo pensando (y diseñando) todos los días.
     type: text
-intro: 'Hoy presentamos a Xose Teiga, creativo y diseñador gráfico con amplia experiencia en el sector y una trayectoria señalada. Aquí os dejamos con unas palabras suyas para que lo conozcáis mejor. Muy contentas de contar contigo dentro de la asociación. ¡Bienvenido Xose!'
+intro: "Hoy presentamos a Xose Teiga, creativo y diseñador gráfico con amplia experiencia en el sector y una trayectoria señalada. Aquí os dejamos con unas palabras suyas para que lo conozcáis mejor. Muy contentas de contar contigo dentro de la asociación. ¡Bienvenido Xose!"
 slug: xose-teiga-bienvenido-a-la-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2025-07-24T14:47:03+00:00

@@ -1,8 +1,7 @@
 id: 477
-title: 'Congreso editando para las minorías en la era digital'
+title: "Congreso editando para las minorías en la era digital"
 body:
-  -
-    text: |-
+  - text: |-
       El programa del congreso incluye conferencias, mesas redondas, talleres y la inauguración el día 3 de abril en Fonseca de la exposición Imprimatur sobre la evolución del libro, desde la artesanía de los encuadernadores e impresores hasta los nuevos formatos digitales.
 
       La inscripción en el congreso es gratuita, pero solo será necesario formalizarla en el caso de aquellos que vayan a asisitir al 80% de las actividades o a alguno de los tres talleres que tendrán lugar:
@@ -10,19 +9,18 @@ body:
       1. El arte de encuadernar a cargo de María del Carmen Villalba Caramés
       2. El arte de imprimir, impartido por Antonio Piñeiro
       3. El arte de crear ilustraciones, a cargo de Pep Carrió
-       
+
       La asistencia a las conferencias y mesas redondas será libre hasta completar el aforo.
 
       Consulta el programa y toda la información relativa al evento en:
 
       <http://www.campusculturae.com/gl/novas/editando-para-minorias-na-era-dixital-congreso-internacional>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa53a296-captura-de-pantalla-2014-03-26.png
-    text: ''
+    text: ""
     type: image
-intro: 'Editores, ilustradores, diseñadores, escritores, bibliófilos, gestores culturales y expertos en nuevas tecnologías debatirán en Compostela sobre la situación del libro y de la edición en la era de Internet en el marco del congreso Editando para las minorías en la era digital que se celebrará del 3 al 6 de abril.'
+intro: "Editores, ilustradores, diseñadores, escritores, bibliófilos, gestores culturales y expertos en nuevas tecnologías debatirán en Compostela sobre la situación del libro y de la edición en la era de Internet en el marco del congreso Editando para las minorías en la era digital que se celebrará del 3 al 6 de abril."
 slug: congreso-editando-para-las-minorias-en-la-era-digital
 tags: []
 lang: es

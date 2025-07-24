@@ -1,14 +1,12 @@
 id: 856
-title: 'O redeseño de Óscar Otero para HA! entre os proxectos seleccionados polos Premios CLAP 2018'
+title: "O redeseño de Óscar Otero para HA! entre os proxectos seleccionados polos Premios CLAP 2018"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/clap-oscar.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Na edición deste ano, o traballo do socio da DAG [Óscar Otero](https://oscarotero.com/gl/) foi un dos seleccionados polo xurado na [categoría de mellor deseño gráfico de sitio web para unha organización](https://premiosclap.org/ganador-730).
 
       [HA!](https://historia-arte.com/) (ou Historia Arte) é un proxecto conxunto de **Miguel Calvo** e **Óscar Otero** que naceu coa vontade de achegar a arte a unha maior audiencia e conseguir que resulte comprensible e gozable para todo o mundo.
@@ -23,16 +21,15 @@ body:
 
       As persoas interesadas en coñeceren polo miúdo todos os detalles relativos ao redeseño poden ler a serie de sete artigos, cada un deles centrado nunha parte específica do desenvolvemento: [presentación](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-1-o-reto-e773e7ad6a43), [tipografía](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-2-tipograf%C3%ADa-2a34ac09dc3c), [layout](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-3-layout-a73eedea2eaf), [cor](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-4-a-cor-70fb7c070fb2), [artigos](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-5-artigos-2408005fb932), [navegación](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-6-artistas-49213653922a) e [rompendo algunhas regras](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-7-rompendo-algunhas-reglas-333335722946), con que Óscar Otero foi documentando o proceso completo.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/clap-proxecto.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'Os Premios CLAP son uns premios internacionais que recoñecen os mellores traballos de deseño industrial e de deseño gráfico realizados en América Latina, Estados Unidos, Brasil, España e Portugal entre 2017 e 2018.'
+intro: "Os Premios CLAP son uns premios internacionais que recoñecen os mellores traballos de deseño industrial e de deseño gráfico realizados en América Latina, Estados Unidos, Brasil, España e Portugal entre 2017 e 2018."
 slug: o-redeseno-de-oscar-otero-para-ha-entre-os-proxectos-seleccionados-polos-premios-clap-2018
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2018-12-16T20:09:20+00:00

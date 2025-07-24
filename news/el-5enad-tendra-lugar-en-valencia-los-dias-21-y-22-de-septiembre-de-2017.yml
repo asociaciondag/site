@@ -1,14 +1,12 @@
 id: 738
-title: 'El 5ENAD tendrá lugar en Valencia los días 21 y 22 de septiembre de 2017'
+title: "El 5ENAD tendrá lugar en Valencia los días 21 y 22 de septiembre de 2017"
 body:
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/enad-poster-azul-jpg-01-01.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Entre las actividades programadas para este año hay que destacar:
 
       \- La conferencia de apertura "Techonology and The Circular Economy" a cargo de Emma Fromberg, de la Ellen MacArthur Foundation
@@ -21,12 +19,11 @@ body:
       - Mesa 4. “Diseño circular”: _Para fomentar el conocimiento sobre cómo el diseño desempeña un papel fundamental en la transición a la economía circular._
       - Mesa 5. “Organización y financiación”: _Profundización en la estructura económica de las asociaciones de diseño para plantear fórmulas de obtención de financiación que faciliten su estabilidad y desarrollo._
       - Mesa 6. “Diseñar el diseño”: _Replanteamiento de la profesión; búsqueda de la vertebración y modernización del sector._
-       
+
       \- El encuentro con representantes del diseño de Portugal, país invitado en esta ocasión.
     type: text
-  -
-    list: ''
-    url: 'http://www.designread.es/5enad/'
+  - list: ""
+    url: "http://www.designread.es/5enad/"
     text: 5enad
     type: button
 intro: 'Esta quinta edición está coordinada por la ADCV, la Asociación de Diseñadores de la Comunitat Valenciana, y contará con el apoyo de la Feria Hábitat Valencia, que abrirá sus puertas el martes 19, y también con el de Las Naves, Espai d''Innovación i Creaciò, las dos sedes que acogerán el encuentro. 5ENAD coincidirá también con la Valencia Disseny Week.'

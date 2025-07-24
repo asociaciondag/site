@@ -1,14 +1,12 @@
 id: 1282
-title: 'Recycled Textil Stone, o material sustentable creado por Noemí Cortizas, Premio MIAD'
+title: "Recycled Textil Stone, o material sustentable creado por Noemí Cortizas, Premio MIAD"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/premio-miad-noemicortizas.jpg
-    text: 'Fotografías: Noemí Cortizas e Antonio Vides'
+    text: "Fotografías: Noemí Cortizas e Antonio Vides"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O Madrid Inside Art &amp; Design, MIAD, é unha feira de arte, deseño e arquitectura que se desenvolveu en Madrid desde o 5 ata o 17 de marzo. Contou con 30 espazos expositivos e máis de 150 marcas, de eido nacional e internacional, que apostan pola renovación do deseño e o uso de materiais que dan resposta ante o cambio global da arquitectura, as normativas, a industria e a sociedade.
 
       Dentro do espazo [Tattoo Contract](https://tattoocontract.com/), Noemí e Pablo presentaron o produto Recycled Textil Stone en dous formatos visibles e entendibles para o público: a mesa «Circular» e un tótem, a través dos cales puideron explicar a súa filosofía de traballo (de onde veñen os materiais e cara onde van) e dar conta do proceso circular que sustenta todo. No laboratorio dan unha nova vida aos desfeitos a través dun proceso que non implica o uso de calor; logrando reciclar estes materiais sin emitir gases nocivos á atmosfera, e marcando así un fito na loita contra o cambio climático. Recibiron o primeiro premio ao produto máis ecolóxico e sustentable da mostra.
@@ -17,10 +15,10 @@ body:
 
       Noemí Cortizas leva anos traballando na creación de novos produtos a partir de materiais sustentables. Desde o seu estudio de deseño [Ydemaker](https://www.ydemaker.com/), realiza ecodeseño de forma transversal para empresas de sectores de todo tipo, como o de embalaxe, transporte, moda e o luxo, mobiliario ou de produtos de consumo.
     type: text
-intro: 'A socia Noemí Cortizas, xunto con Pablo García, de Wim Studio, acaban de ser galardoados co Premio MIAD ao produto máis ecolóxico e sustentable co material Recycled Textil Stone, creado no propio laboratorio de materiais circulares que a empresa ten en Alvedro.'
+intro: "A socia Noemí Cortizas, xunto con Pablo García, de Wim Studio, acaban de ser galardoados co Premio MIAD ao produto máis ecolóxico e sustentable co material Recycled Textil Stone, creado no propio laboratorio de materiais circulares que a empresa ten en Alvedro."
 slug: recycled-textil-stone-o-material-sustentable-creado-por-noemi-cortizas-premio-miad
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2024-03-20T08:39:20+00:00

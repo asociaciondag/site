@@ -1,25 +1,22 @@
 id: 140
-title: 'Isilda ou a mudez dos códigos de barras'
+title: "Isilda ou a mudez dos códigos de barras"
 body:
-  -
-    text: |-
+  - text: |-
       A asociación organiza tamén organiza obradoiros, seminarios teóricos e exposicións, e participa en eventos do ámbito da edición nacionais e internacionais. O seu nome débese a unha importante casa de impresión do século XVIII.
 
       **_Isilda ou a mudez dos códigos de barras_** é unha reedición do poemario de Manuel Freitas publicado por Black Sun en 2001 (a edición está esgotada).
 
       A Oficina do Cego fixo unha nova versión cunha tiraxe de 250 exemplares numerados e asinados polo autor e polos ilustradores (Manuel Diogo e Luís Henriques) composta e impresa enteiramente con tipografía de caracteres móbiles.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a99a262c-download-6.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a99a262c-download-7.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'A [Oficina do Cego](http://oficinadocego.blogspot.com/) é unha asociación sen ánimo de lucro que desenvolve o seu traballo no dominio das artes gráficas. Fundada en Lisboa, en 2009, dedícase a desenvolver e promover todo un conxunto de prácticas de impresión e autoedición.'
+intro: "A [Oficina do Cego](http://oficinadocego.blogspot.com/) é unha asociación sen ánimo de lucro que desenvolve o seu traballo no dominio das artes gráficas. Fundada en Lisboa, en 2009, dedícase a desenvolver e promover todo un conxunto de prácticas de impresión e autoedición."
 slug: isilda-ou-a-mudez-dos-codigos-de-barras
 tags: []
 lang: gl

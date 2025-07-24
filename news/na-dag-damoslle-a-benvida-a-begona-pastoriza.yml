@@ -1,14 +1,12 @@
 id: 1150
-title: 'Na DAG dámoslle a benvida a Begoña Pastoriza'
+title: "Na DAG dámoslle a benvida a Begoña Pastoriza"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/begona-pastoriza.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola compañeiros DAG!
 
       Xa levo un tempiño por aquí vendo cousas maravillosas dos vosos traballos, e aínda que fixen unha presentación _online_, non me presentei oficialmente (en casa de ferreiro… pois iso).
@@ -29,10 +27,10 @@ body:
 
       Bikiños!
     type: text
-intro: '[Begoña Pastoriza](https://dag.gal/es/begona-pastoriza/) é socia da DAG desde o ano 2020. Hoxe, fai a súa presentación oficial e comparte con nós a súa experiencia e as súas inquietudes nesta nova etapa. Estamos encantadas de darche a benvida, Begoña!'
+intro: "[Begoña Pastoriza](https://dag.gal/es/begona-pastoriza/) é socia da DAG desde o ano 2020. Hoxe, fai a súa presentación oficial e comparte con nós a súa experiencia e as súas inquietudes nesta nova etapa. Estamos encantadas de darche a benvida, Begoña!"
 slug: na-dag-damoslle-a-benvida-a-begona-pastoriza
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2022-06-15T11:59:54+00:00

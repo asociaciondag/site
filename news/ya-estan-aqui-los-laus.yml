@@ -1,11 +1,9 @@
 id: 413
-title: '¡Ya están aquí los Laus!'
+title: "¡Ya están aquí los Laus!"
 body:
-  -
-    type: text
-    text: 'Como cada año, y con esta ya van 43, tenemos aquí una nueva edición de los **Premios Laus** que organiza la [Asociación de Diseñadores Gráficos y Directores de Arte del FAG (ADG-FAD)](http://www.fad.cat/contents/view/home/association:4). Hace unos días se abría el plazo de inscripción de obras en la diferentes categorías: diseño gráfico, web y medios digitales, creatividad publicitaria, audiovisuales, empresas, entidades y estudiantes. La inscripción solo se puede realizar a través de la web [www.laus.cat](http://www.laus.cat/) y toda la información relativa a la forma de pago, condiciones de participación, etc. se encuentra disponible en la propia página. El plazo para inscribirse finaliza el próximo 1 de febrero, y en la edición de este año en la que DAG colabora como asociación amiga de los premios, todos nuestros socios tienen descuento.'
-  -
-    type: image
+  - type: text
+    text: "Como cada año, y con esta ya van 43, tenemos aquí una nueva edición de los **Premios Laus** que organiza la [Asociación de Diseñadores Gráficos y Directores de Arte del FAG (ADG-FAD)](http://www.fad.cat/contents/view/home/association:4). Hace unos días se abría el plazo de inscripción de obras en la diferentes categorías: diseño gráfico, web y medios digitales, creatividad publicitaria, audiovisuales, empresas, entidades y estudiantes. La inscripción solo se puede realizar a través de la web [www.laus.cat](http://www.laus.cat/) y toda la información relativa a la forma de pago, condiciones de participación, etc. se encuentra disponible en la propia página. El plazo para inscribirse finaliza el próximo 1 de febrero, y en la edición de este año en la que DAG colabora como asociación amiga de los premios, todos nuestros socios tienen descuento."
+  - type: image
     image: /img/news/images/553e7aa2cedb0-newsletter-asociaciones-amigasv22.jpg
 intro: null
 slug: ya-estan-aqui-los-laus

@@ -1,37 +1,31 @@
 id: 1059
-title: 'Proyectos gallegos en la XV Bienal Española de Arquitectura y Urbanismo con la participación de Cenlitrosmetrocadrado'
+title: "Proyectos gallegos en la XV Bienal Española de Arquitectura y Urbanismo con la participación de Cenlitrosmetrocadrado"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/trecerosas.jpg
-    text: 'Fotos: Luis Díaz Díaz'
+    text: "Fotos: Luis Díaz Díaz"
     mode: normal
     type: image
-  -
-    text: 'Hay dos proyectos finalistas. Por un lado, está la Cooperativa de viviendas Trece Rosas Residencial, en Santiago de Compostela, proyectada por [Carbajo Barrios Arquitectos](https://carbajobarrios.com/). Un edificio con espacios de uso común diseñados por Ricardo y Xabier. Su trabajo en este proyecto se completó con el diseño de la señalética y el mobiliario, usando la madera y el metal como materiales.'
+  - text: "Hay dos proyectos finalistas. Por un lado, está la Cooperativa de viviendas Trece Rosas Residencial, en Santiago de Compostela, proyectada por [Carbajo Barrios Arquitectos](https://carbajobarrios.com/). Un edificio con espacios de uso común diseñados por Ricardo y Xabier. Su trabajo en este proyecto se completó con el diseño de la señalética y el mobiliario, usando la madera y el metal como materiales."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/albeida.jpg
-    text: 'Fotos: Roi Alonso'
+    text: "Fotos: Roi Alonso"
     mode: normal
     type: image
-  -
-    text: 'El segundo proyecto finalista de esta bienal es el Complejo Turístico Albeida, ideado por [Salgado e Liñares Arquitectos](http://www.salgadoeliñares.com/) para [Doartesanato](https://doartesanato.com/), donde de nuevo nuestros compañeros se encargaron de la señalética del espacio, integrando los soportes en las formas, tonalidades y texturas predominantes de la zona construida.'
+  - text: "El segundo proyecto finalista de esta bienal es el Complejo Turístico Albeida, ideado por [Salgado e Liñares Arquitectos](http://www.salgadoeliñares.com/) para [Doartesanato](https://doartesanato.com/), donde de nuevo nuestros compañeros se encargaron de la señalética del espacio, integrando los soportes en las formas, tonalidades y texturas predominantes de la zona construida."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/casa-cotona.jpg
-    text: 'Fotos: Roi Alonso'
+    text: "Fotos: Roi Alonso"
     mode: normal
     type: image
-  -
-    text: 'El tercer proyecto a destacar, que fue seleccionado entre las más de 600 obras presentadas, es la Regeneración del Conjunto de la Casa da Cotona, planteado también conjuntamente por Salgado y Liñares Arquitectos y Cenlitrosmetrocadrado.'
+  - text: "El tercer proyecto a destacar, que fue seleccionado entre las más de 600 obras presentadas, es la Regeneración del Conjunto de la Casa da Cotona, planteado también conjuntamente por Salgado y Liñares Arquitectos y Cenlitrosmetrocadrado."
     type: text
-intro: 'La [XV Edición de la Bienal Española de Arquitectura y Urbanismo](https://labienal.es/) ha hecho pública la lista de proyectos seleccionados y finalistas. Destacamos los tres que cuentan con la participación de nuestros compañeros Ricardo Tubío y Xabier Rilo, del estudio [Cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/).'
+intro: "La [XV Edición de la Bienal Española de Arquitectura y Urbanismo](https://labienal.es/) ha hecho pública la lista de proyectos seleccionados y finalistas. Destacamos los tres que cuentan con la participación de nuestros compañeros Ricardo Tubío y Xabier Rilo, del estudio [Cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/)."
 slug: proyectos-gallegos-xv-bienal-arquitectura-urbanismo-cenlitrosmetrocadrado
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2021-05-28T08:31:33+00:00

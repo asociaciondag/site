@@ -1,70 +1,58 @@
 id: 1
-title: 'Bailar co máis feo'
-author: 'Pepe Barro'
+title: "Bailar co máis feo"
+author: "Pepe Barro"
 body:
-  -
-    image: /img/articles/images/5586f189374a9-omaisfeo1.jpg
-    text: 'Fig. 1. Cabeceira do xornal _La Oliva_'
+  - image: /img/articles/images/5586f189374a9-omaisfeo1.jpg
+    text: "Fig. 1. Cabeceira do xornal _La Oliva_"
     mode: right
     type: image
-  -
-    image: /img/articles/images/5586f1d6806a2-omaisfeo2.jpg
-    text: 'Fig. 2. Cabeceira do xornal _El Miño_'
+  - image: /img/articles/images/5586f1d6806a2-omaisfeo2.jpg
+    text: "Fig. 2. Cabeceira do xornal _El Miño_"
     mode: right
     type: image
-  -
-    image: /img/articles/images/5586f299166f3-omaisfeo3.jpg
-    text: 'Fig. 3. _Faro de Vigo_'
+  - image: /img/articles/images/5586f299166f3-omaisfeo3.jpg
+    text: "Fig. 3. _Faro de Vigo_"
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       Moitos recursos gráficos que cremos achados da modernidade veñen xa de atrás. É o caso desta solución empregada para indicar a continuidade entre os xornáis _La Oliva_ e _El Miño_, dous nomes distintos pero que son un mesmo logotipo, cambian varias letras, pero coñecendo _La Oliva_ co logotipo da figura 1, se mañá desaparece e xurde nos quioscos _El Miño_ co logotipo da figura 2, estaremos certos de que son parentes, irmáns xemelgos e mesmo daremos intuído que este é continuación de aquel. E isto sucede por utilizar o mesmo tipo, certamente un tipo ben _exquisito_, que dirían en Portugal. Velaquí o caso.
 
       A mediados do século XIX, os progresistas de Vigo deciden financiar un xornal que dé a batalla ao conservador _Faro de Vigo_, fundado en 1853 (fig. 3). Alejandro Chao é quen recibe a encomenda da administración e posta en marcha do proxecto, chamando a Vigo aos seus amigos e correlixionarios, o impresor Juan Compañel e o xornalista Manuel Murguía, ambolosdous mozos e naquela altura residentes en Madrid. Velaquí o nucleo que dá corpo a La Oliva, que ve a luz en 1856, na rúa Real de Vigo. Finalmente Murguía non abandona as súas colaboraciónns na prensa progresista madrileña, pero si Compañel, que deixa a imprenta que dirixe en Madrid e desembarca en Vigo. Murguía exercerá a distancia de conselleiro e “director literario”, aínda que en 1859 accede a vivir en Vigo durante cinco meses, mesmo acompañado de Rosalía coa que ven de casar o ano anterior, para sustituir a Compañel no xornal ante unha viaxe deste á capital española.
 
       Alejandro Chao, Juan Compañel e Manuel Murguía, tamén Rosalía, forman parte dunha xeración que naquelas catro remotas provincias do noroeste de España saben ver un antigo reino, un pequeno país de Europa chamado Galicia e traballan pola súa dignidade. Con _La Oliva-El Miño_ sobordan os límites do progresismo dando pulo á idea de Galicia; do mesmo xeito sobordan a difusión local, viguesa, para acadar unha incipiente influenza nacional, galega.
     type: text
-  -
-    image: /img/articles/images/5586f36c10c8a-omaisfeo4.jpg
-    text: 'Fig. 4. Etiquetas da colección Bouza Brey'
+  - image: /img/articles/images/5586f36c10c8a-omaisfeo4.jpg
+    text: "Fig. 4. Etiquetas da colección Bouza Brey"
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       Juan Compañel é un impresor formado no obradoiro familiar compostelano (ver na figura 4 as etiquetas da colección Bouza Brey), e xa en Madrid rexe unha imprenta que publica os primeiros xornáis “obreiros” no territorio do estado español. En Vigo logo se fai propietario da imprenta e mesmo do xornal progresista, exercendo como director desde 1859. Pero en 1857 ocorrera xa o cambio de nome, que non de logo, porque _La Oliva_ é suspendido pola autoridade e Compañel idea _El Miño_ como “periódico no político y de intereses materiales y morales” segundo a noticia publicada en _La Iberia_ de Madrid. Evidentemente “no político” é unha calificación necesaria para cumprir a lei, unha declaración puramente retórica.
 
       Pero debo recoñecer que a visión deste logotipo _La Oliva-El Miño_ fíxome crer que o impresor-editor Juan Compañel tiña debuxado el mesmo as letras, deseñando un tipo estrambótico que levou o deseñador a lugares sen saída como o ollo do “E”, no que claramente non hai sitio de abondo para tanto remate, ou ese “O” deitado que para min é prestado doutra familia… Todo nun resultado absolutamente extravagante para unhas letras que invirten a orde clásica de distribución de grosos e finos, plantexando un tipo _exípcio bodonizado_ ou ao revés, un _bodoni faraónico_. Debo recoñecer que vin debuxar a Compañel, construíndo un logotipo que, como diría o deseñador América Sánchez, para quitalo do ollo tes que ir a Barraquer.
 
       Pero non, Compañel só é responsable da elección do tipo _Italian_, como foi denominado polo seu deseñador, Henry Caslon II (1786-1850), un dos moitos Caslon da saga tipográfica inglesa de máis prestixio. Para quedar pasmado.
     type: text
-  -
-    image: /img/articles/images/5586f45ece42f-omaisfeo5-a.jpg
-    text: 'Fig. 5-a. Mostra do tipo _Italian_ publicado no _Specimen_ de 1842'
+  - image: /img/articles/images/5586f45ece42f-omaisfeo5-a.jpg
+    text: "Fig. 5-a. Mostra do tipo _Italian_ publicado no _Specimen_ de 1842"
     mode: right
     type: image
-  -
-    image: /img/articles/images/5586f45ece9f1-omaisfeo5-b.jpg
-    text: 'Fig. 5-b. Mostra do tipo _Italian_ publicado no _Specimen_ de 1842'
+  - image: /img/articles/images/5586f45ece9f1-omaisfeo5-b.jpg
+    text: "Fig. 5-b. Mostra do tipo _Italian_ publicado no _Specimen_ de 1842"
     mode: right
     type: image
-  -
-    image: /img/articles/images/5586f45eced35-omaisfeo5-c.jpg
-    text: 'Fig. 5-c. Mostra do tipo _Italian_ publicado no _Specimen_ de 1842'
+  - image: /img/articles/images/5586f45eced35-omaisfeo5-c.jpg
+    text: "Fig. 5-c. Mostra do tipo _Italian_ publicado no _Specimen_ de 1842"
     mode: right
     type: image
-  -
-    image: /img/articles/images/55882f1e173ed-omaisfeo6.jpg
-    text: 'Fig. 6. _Karloff Negative_ deseñada por Peter Bilak'
+  - image: /img/articles/images/55882f1e173ed-omaisfeo6.jpg
+    text: "Fig. 6. _Karloff Negative_ deseñada por Peter Bilak"
     mode: right
     type: image
-  -
-    image: /img/articles/images/5586f5580c57b-omaisfeo7.jpg
-    text: 'Fig. 7.sds'
+  - image: /img/articles/images/5586f5580c57b-omaisfeo7.jpg
+    text: "Fig. 7.sds"
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       A primeira metade do século XIX é dalgún xeito unha época dourada para comunicación visual: Os xornáis esténdense a localidades diversas, competindo varios nunha mesma praza; proliferan as follas voandeiras que anuncian produtos, servizos ou ideas políticas; é o momento no que os cartaces comezan a izar as rúas; a alfabetización gaña lectores que engrosan as tiraxes dos libros e as diferentes industrias desenvolven o xénero do catálogo para ofrecer os seus produtos, como é o caso do propio _Specimen of Pninting Types_ que en diferentes anos publica Henry Caslon. Velaquí na imaxe adxunta (fig. 5-a-b-c) o tipo _Italian_ publicado no _Specimen_ de 1842, que acada as seiscentas páxinas ateigadas de tipos que as imprentas de Europa e América consultan para mercar os que precisan. Vexo a man de Compañel marcando a páxina do _Italian_. Son os tempos dun fervedoiro de deseño nos que fundicións tipográficas de todo o mundo compiten por fornecer os tipos máis rechamantes, que enganchen o ollo dos lectores nos anuncios dos xornáis, nos cartaces das rúas. Neste rebulir aparecen por primeira vez as familias tipográficas de pau seco, as exípcias ou as clarendon, sen contar un sen fin de tipos de fantasía e adorno que por sorte non acadan o canon tipográfico. Pero ao parecer, entre todos os tipos editados nesta época, ningún ten suscitado tanto consenso coma este _Italian_ —seica os deseñadores de tipos tiñan en pouca estima os que viñan de Italia—, presentado por primeira vez en 1821 e que xa tres anos máis tarde era alcumado de “monstrosidade tipográfica” e a principios do século vinte foi definido como “unha expresión crúa da perversidade”, moitos cualificárono sen máis como “dexenerado”, aínda que a súa “fealdade” ten suscitado a simpatía de varios deseñadores de tipos actuais como Peter Bilak, que chega a deseñar e editar o _Karloff Negative_ (fig.6), unha versión do _Italian_ de Caslon, nomeado como o actor que mellor encarnou ao monstro de Frankestein.
 
       Compañel quería facerse notar e, contra a normalidade gráfica do _Faro de Vigo,_ elixe un tipo rechamante, que mesmo eleva á categoría de símbolo cando ten que facer o cambio a _El Miño,_ e así o estrambótico _Italian_ de Caslon estivo na cabeceira do progresismo galeguista até 1864, ano no que Compañel decide o retorno á orde e sustitúe este tipo por un exípcio de alto peso pero cun deseño moi normal (fig. 7).
@@ -85,9 +73,8 @@ body:
 
       <http://www.myfonts.com/fonts/apostrof/caslon1821/>
     type: text
-  -
-    image: /img/articles/images/5586f61adb3c6-omaisfeo8.jpg
-    text: 'Fig. 8. Cabeceira do xornal _El porvenirf_'
+  - image: /img/articles/images/5586f61adb3c6-omaisfeo8.jpg
+    text: "Fig. 8. Cabeceira do xornal _El porvenirf_"
     mode: normal
     type: image
 position: null

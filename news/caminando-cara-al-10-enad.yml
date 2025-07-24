@@ -1,14 +1,12 @@
 id: 1159
-title: 'Caminando hacia el 10 ENAD'
+title: "Caminando hacia el 10 ENAD"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/10enad.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En cuanto al programa, la jornada del viernes se abrirá con una conferencia magistral de Tamara Pérez y Guillermo Parada del estudio chileno [GT2P](https://www.gt2p.com/About-gt2P), que utiliza el diseño paramétrico para crear artefactos urbanos. A continuación, una mesa redonda en la que conoceremos diferentes e interesantes proyectos, en los que participarán Flora Pescador, arquitecta paisajista; [Space 10](https://space10.com/), laboratorio de investigación y diseño de IKEA; [To Good To Go](https://toogoodtogo.es/es/), un movimiento contra el desperdicio de alimentos; Montse Rodríguez Ojea, directora de innovación de la Axencia Galega da Industria Forestal (XERA); e [Miguel Arraiz](https://www.miguelarraiz.com/), arquitecto y creativo que se conectará desde el Àgora València. La mañana finalizará con un debate moderado por María Navarro sobre «¿cómo diseñar los lugares que habitamos para hacerlos más sostenibles?».
 
       El sábado se repite el esquema de funcionamiento con [Pablo Sendra](https://pablosendra.com/), arquitecto que combina la docencia en la Bartlett School of Planning del University College of London con la práctica profesional del diseño urbano. Una nueva mesa redonda participada por [María Novas](https://us.academia.edu/MariaNovas), arquitecta e investigadora autora del libro _Arquitectura y género_; Amelie Aranguren, responsable del Centro de Acercamiento a lo Rural (CAR), socia de [Campo Adentro](https://inland.org/es/about/what-is-it/) y Premio Mini de Diseño 2022; [Pezestudio](https://pezestudio.org/), estudio de arquitectas de Bilbao, Madrid y Lima que diseñan espacios, procesos y servicios de forma participativa; e [Inés Novella](https://es.linkedin.com/in/in%C3%A9s-novella-b4041b32), arquitecta urbanista desde València. La presidenta de READ Uqui Permui moderará el debate «¿cómo son las ciudades en las que queremos vivir?» con el que se pondrá punto y final a la​ sesión de conferencias.
@@ -23,13 +21,13 @@ body:
       - **Educación y diseño**, coordinada por Juana Valcárcel y Daniel Hervás
       - **Llamadas a proyecto. Ese gran desconocido**, coordinada por Ana Rodríguez
       - **Presentamos el SNIC (Sistema Nacional de Inteligencia Creativa)**, coordinada por Irene García y Mónica Bonafonte
-       
+
       La imagen corporativa ha sido diseñada por el socio de DAG Samuel Baltar, del [estudio Orixe](https://orixecreativa.com/), y en breve presentaremos la página web en la que además de conocer todos los detalles del encuentro podréis inscribiros y participar en las mesas de trabajo programadas, ​de las mesas redondas, conferencias y debates.
     type: text
-intro: 'Los próximos 21 y 22 de octubre se celebrará​,​ en el edificio Castelao del Museo Pontevedra, el 10ENAD. La décima edición de los Encuentros Nacionales de Diseño que organiza READ y DAG, como asociación que ocupa la actual presidencia, se desarrollará bajo el lema «Ciudades imaginadas, ciudades diseñadas» con la intención de responder a la cuestión: «¿en qué tipo de ciudades queremos vivir?».'
+intro: "Los próximos 21 y 22 de octubre se celebrará​,​ en el edificio Castelao del Museo Pontevedra, el 10ENAD. La décima edición de los Encuentros Nacionales de Diseño que organiza READ y DAG, como asociación que ocupa la actual presidencia, se desarrollará bajo el lema «Ciudades imaginadas, ciudades diseñadas» con la intención de responder a la cuestión: «¿en qué tipo de ciudades queremos vivir?»."
 slug: caminando-cara-al-10-enad
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2022-07-01T12:00:00+00:00

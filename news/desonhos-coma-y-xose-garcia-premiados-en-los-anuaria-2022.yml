@@ -1,14 +1,12 @@
 id: 1205
-title: 'Desoños, Coma y Xose García premiados en los Anuaria 2022'
+title: "Desoños, Coma y Xose García premiados en los Anuaria 2022"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/image-premios-anuaria-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El estudio [Desoños](https://www.veredictas.com/show/desonos_vigo/es) se lleva un Premio Anuaria de Oro a la mejor tipografía por Vieira Font para Pepe Vieira, creada en colaboración con nuestro también​ ​socio [Marcos Dopico](https://dag.gal/es/marcos-dopico-castro/). La tipografía aporta identidad a la experiencia gastronómica Pepe Vieira y está inspirada en inscripciones del Pórtico da Gloria de la Catedral de Santiago de Compostela. Además, el programa de identidad, inspirado en mitos y leyendas gallegas, ha recibido una Selección Anuaria.
 
       Por otro lado, un tercer trabajo de Desoños, el diseño de la identidad de Artesa, proveedor de productos de alimentación especializado en clientes de alta cocina,​ recibe otra Selección Anuaria.
@@ -19,15 +17,14 @@ body:
 
       Los Premios Anuaria son de ámbito nacional y para el jurado la organización​ ​cuenta con representantes de las diferentes organizaciones profesionales. Este año, y como viene siendo habitual la colaboración, María Agra participó como representante de DAG.
     type: text
-  -
-    list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html'
-    text: 'Web de los Premios Anuaria'
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html"
+    text: "Web de los Premios Anuaria"
     type: button
-intro: 'La XXIX edición de los Premios Anuaria publica su selección los premiados del año 2022, con cinco creaciones de socias y socios de DAG.'
+intro: "La XXIX edición de los Premios Anuaria publica su selección los premiados del año 2022, con cinco creaciones de socias y socios de DAG."
 slug: desonhos-coma-y-xose-garcia-premiados-en-los-anuaria-2022
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2023-02-10T11:55:44+00:00

@@ -1,14 +1,12 @@
 id: 756
-title: 'A tipografía será a protagonista do segundo workshop do FEED 17'
+title: "A tipografía será a protagonista do segundo workshop do FEED 17"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/joana-web.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |2-
+  - text: |2-
        [Joana Correia](http://joanacorreiatype.com/) é unha deseñadora de tipos portuguesa cuxa paixón son o _lettering_ e a tipografía. Cursou o Máster en deseño de tipos da Universidade de Reading; antes diso, traballou como arquitecta e estudou Deseño Gráfico.
 
       Na actualidade vive no Porto e traballa como deseñadora _free lance._ Personaliza tipografías e deseña as súas propias para o seu uso en identidades ou con fins editoriais. Organiza _workshops,_ dá conferencias e foi profesora na ESAD Matosinhos desde 2011 até 2017.
@@ -17,15 +15,14 @@ body:
 
       Inscríbete en:
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/feed2017/'
-    text: 'FEED 2017'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
+    text: "FEED 2017"
     type: button
-intro: 'E non só será a protagonista do obradoiro Curvas suaves - do debuxo á pantalla que Joana Correia impartirá durante a mañá da segunda xornada, a tipografía voltará a estar presente na sesión da tarde na que Joana tamén participa cunha palestra sobre Variable Fonts.'
+intro: "E non só será a protagonista do obradoiro Curvas suaves - do debuxo á pantalla que Joana Correia impartirá durante a mañá da segunda xornada, a tipografía voltará a estar presente na sesión da tarde na que Joana tamén participa cunha palestra sobre Variable Fonts."
 slug: a-tipografia-sera-a-protagonista-do-segundo-workshop-do-feed-17
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2017-10-18T18:46:17+00:00

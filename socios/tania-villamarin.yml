@@ -4,19 +4,16 @@ contact: |-
 
   <taniavillaga@gmail.com>
 links:
-  -
-    text: Web
-    url: 'https://taniavillaga.es/'
+  - text: Web
+    url: "https://taniavillaga.es/"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/tania-villamarin/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/tania-villamarin/"
     type: linkedin
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/villaga.estudio/?hl=es'
+  - text: Instagram
+    url: "https://www.instagram.com/villaga.estudio/?hl=es"
     type: link
-name: 'Tania Villamarín'
+name: "Tania Villamarín"
 slug: tania-villamarin
 avatarBig: null
 avatar: /img/avatars/villaga-logo.jpg
@@ -25,12 +22,12 @@ tags:
   - Editorial
   - Embalaxe
   - Gráfico
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Infografía
   - Sinalética
   - Web
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñadora gráfica'
-job.es: 'Diseñadora gráfica'
+job.gl: "Deseñadora gráfica"
+job.es: "Diseñadora gráfica"

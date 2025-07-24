@@ -1,14 +1,12 @@
 id: 1399
-title: 'Galicia Design Week 2025'
+title: "Galicia Design Week 2025"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/gdw-2025-02.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El espacio Avenida de Abanca acogerá el grueso del event​o en un formato más de contacto con el públic​o, sin interferencias y fomentando la participación de las personas asistentes. Dentro del contenido Pro, el viernes 23 y el sábado 24 de mayo,​ se proyectan un total de 13 charlas de grandes profesionales del diseño gallego entre los que se encuentran nuestros socios Iago Barreiro y Alberto Carballido del estudio Novagarda. Compartirán la jornada del viernes con Rígido y Carla Et Stik, Burr y Desescribir. El sábado las charlas tienen como protagonistas a Marta Cerdá, Marta Pazos, Amalia Puga o Inma Horta, entre otras. ​ ​
 
       Ademá​s, hay preparados dos talleres de diseño dirigidos a profesionales para los que es necesario inscripción previa a través de correo electónico​.​ Uno será dirigido por Vagrant y el otro por el Grupo Malasa y se dará​n también en el mismo espacio Avenida. ​​
@@ -19,16 +17,15 @@ body:
 
       La Galicia Design Week está co-organizada por Marta González y nuestro socio Alex Rico, y cuenta con el apoyo de la Xunta de Galicia y de la Deputación da Coruña, además de otras entidades privadas.
     type: text
-  -
-    list: ''
-    url: 'https://www.gdw.gal/'
-    text: 'Web GDW 2025'
+  - list: ""
+    url: "https://www.gdw.gal/"
+    text: "Web GDW 2025"
     type: button
-intro: 'Del 16 al 24 de mayo tendrá lugar en A Coruña una nueva edición de la Galicia Design Week, un evento​ que se encuadra dentro de la asociación internacional World Design Week y que este año divide su contenido en Pro, Show, Sessions y Off.​'
+intro: "Del 16 al 24 de mayo tendrá lugar en A Coruña una nueva edición de la Galicia Design Week, un evento​ que se encuadra dentro de la asociación internacional World Design Week y que este año divide su contenido en Pro, Show, Sessions y Off.​"
 slug: galicia-design-week-2025
 tags:
-  - 'Difusión eventos'
-  - 'noticias socios/socias'
+  - "Difusión eventos"
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2025-05-13T12:52:43+00:00

@@ -1,22 +1,20 @@
 id: 990
-title: 'Elixida a 7ª Xunta Directiva da DAG'
+title: "Elixida a 7ª Xunta Directiva da DAG"
 body:
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/axdag.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Como marcan os Estatutos, cada dous anos a DAG renova a súa Xunta Directiva cunha votación aberta das persoas que conforman a Asemblea Xeral. O equipo da Directiva saínte propuxo este ano unha nova candidatura na que Irene García e María Agra repiten como presidenta e vicepresidenta. O cargo de tesoureiro estará ocupado por Xosé García e o de secretario por Adrián Parcero. O equipo de vogais conta con Lois Guillán, Dani Bembibre e Simón Villamayor, que continúan no cargo, e coas incorporacións de Noelia Fernández, Antonio Doñate e Olaia Rodríguez. A nova Xunta Directiva resulta elixida coa votación positiva das persoas asistentes e dos votos delegados.
 
       A Asemblea Xeral da DAG, que habitualmente organiza algunha actividade paralela á reunión anual, tivo nesta ocasión unha dinámica diferente. Se ben a distancia non permitiu un encontro persoal, a celebración _online_ facilitou a conexión de socios e socias que doutra maneira non poderían asistir. A asistencia e participación foi ampla e a experiencia igualmente positiva. Esta asamblea, pouco ordinaria para a Asociación, establece un punto de partida para dinámicas de interacción que máis que novas xa empezan a se converteren en habituais.
     type: text
-intro: 'O pasado sábado, 27 de xuño, a Asociación Galega de Deseño celebrou a súa Asemblea Xeral anual. Nesta ocasión, co obxectivo de minimizar riscos innecesarios e facilitar a presenza de socios e socias que residen e traballan fóra de Galicia, a reunión foi _online_.'
+intro: "O pasado sábado, 27 de xuño, a Asociación Galega de Deseño celebrou a súa Asemblea Xeral anual. Nesta ocasión, co obxectivo de minimizar riscos innecesarios e facilitar a presenza de socios e socias que residen e traballan fóra de Galicia, a reunión foi _online_."
 slug: 7-xunta-directiva
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2020-06-30T13:29:15+00:00

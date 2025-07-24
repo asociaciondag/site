@@ -1,8 +1,7 @@
 id: 194
-title: 'Manual de supervivencia para los días del gran desastre'
+title: "Manual de supervivencia para los días del gran desastre"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Clase Turista Bos Aires Libros
 
@@ -11,14 +10,11 @@ body:
       **_Mirad al cielo: ¡Los renos caen ardiendo!_**[Editorial Clase Turista](http://www.edclaseturista.com.ar/) e o CCEBA quixo encerrar o espírito do nadal e o seu reverso nun libro. Para iso, lanzaron un concurso sobre poemas que recollesen todos os sentidos deses días e noites en que os televisores quedan posuídos por películas relixiosas, as mercadorías de cores rechamantes invaden os escaparates dos negocios, os nenos se sobreexcitan e o ánimo dos adultos flutúa entre a angustia e a manía, ao ritmo das luces da árbore de nadal. O resultado é este libro. Benvidos ao lado B do Nadal. Autores: Maximiliano Matayoshi, Matías Moscardi, Juan Terranova, Sol Echevarría e outros. Bos Aires, 2009 | Español | 21 x 13,5 cm (8.25 x 5.5 in.) | 48 p. | ISBN: 978-987-22450-6-1
 
       **_Horny housewife kidnapped_ \[Ama de casa calentona secuestrada\]** Nenos na véspera dunha pelexa de barrio, desocupados perturbados e furiosos, crimes infantís narrados por Crónica TV, empregadas de _call centers_ aparvadas polo sistema ou adolescentes que estudan por primeira vez a paisaxe dunha pista de baile. Estes poemas achégannos á vida cotiá da Arxentina do século XXI, a través de aventuras cotiás, salpicadas de sexo, violencia, diñeiro e fantasmas infantís. Autores: Esteban Castromán, Lorena Iglesias e Iván Moiseeff Bos Aires, 2006 | Español | 20,5 x 13,5 cm (8 x 5.25 in.) | 46 páxs. | ISBN: 987-22450-0-2
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9ba3a84-manual-de-supervivencia-para-los-dias-del-gran-desastre.jpg
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9ba3a84-mirad-al-cielo-los-renos-caen-ardiendo.jpg
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7a9ba3a84-ama-de-casa-calentona-secuestrada.jpg
 intro: null
 slug: manual-de-supervivencia-para-los-dias-del-gran-desastre

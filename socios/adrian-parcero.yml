@@ -4,33 +4,29 @@ contact: |-
 
   [info@guillotinaestudio](mailto:info@guillotinaestudio)
 links:
-  -
-    text: 'Guillotina Estudio'
-    url: 'http://guillotinaestudio.com/'
+  - text: "Guillotina Estudio"
+    url: "http://guillotinaestudio.com/"
     type: link
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/guillotinaestudio'
+  - text: Facebook
+    url: "https://www.facebook.com/guillotinaestudio"
     type: facebook
-  -
-    text: Twitter
-    url: 'https://twitter.com/guillotinaest'
+  - text: Twitter
+    url: "https://twitter.com/guillotinaest"
     type: twitter
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/guillotinaestudio/'
+  - text: Instagram
+    url: "https://www.instagram.com/guillotinaestudio/"
     type: link
-name: 'Adrián Parcero'
+name: "Adrián Parcero"
 slug: adrian-parcero
 avatarBig: null
 avatar: /img/avatars/5748875ee255f-adrian-parcero.jpg
 tags:
   - Gráfico
   - Embalaxe
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Editorial
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

@@ -1,37 +1,29 @@
 id: 91
-title: 'A moda como proxecto'
+title: "A moda como proxecto"
 slug: a-moda-como-proxecto
 body:
-  -
-    text: 'Desenvolvemento da identidade gráfica para a exposición de proxecto de moda e prenda gráfica dos alumnos de ESDEMGA, na Casa Galega da Cultura de Vigo. A moda como proxecto é unha exposición organizada polo Concello de Vigo e a Universidade de Vigo que amosa as sinerxías entre a gráfica e a moda a través das propostas dos estudantes dos Estudos Superiores en Deseño Téxtil e Moda de Galicia e dos alumnos de moda da Central Saint Martins de Londres.'
+  - text: "Desenvolvemento da identidade gráfica para a exposición de proxecto de moda e prenda gráfica dos alumnos de ESDEMGA, na Casa Galega da Cultura de Vigo. A moda como proxecto é unha exposición organizada polo Concello de Vigo e a Universidade de Vigo que amosa as sinerxías entre a gráfica e a moda a través das propostas dos estudantes dos Estudos Superiores en Deseño Téxtil e Moda de Galicia e dos alumnos de moda da Central Saint Martins de Londres."
     type: text
-  -
-    image: /img/portfolio/images/5585965f03701-12.jpg
-    text: ''
+  - image: /img/portfolio/images/5585965f03701-12.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585965f0449a-21.jpg
-    text: ''
+  - image: /img/portfolio/images/5585965f0449a-21.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585965f05922-31.jpg
-    text: ''
+  - image: /img/portfolio/images/5585965f05922-31.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585965f06356-41.jpg
-    text: ''
+  - image: /img/portfolio/images/5585965f06356-41.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585965f07032-52.jpg
-    text: ''
+  - image: /img/portfolio/images/5585965f07032-52.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585965f07992-61.jpg
-    text: ''
+  - image: /img/portfolio/images/5585965f07992-61.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585965f08658-71.jpg
-    text: ''
+  - image: /img/portfolio/images/5585965f08658-71.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585965f02592-41.jpg
 tags: []
@@ -42,13 +34,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
-    value: 'De dominio público'
-  -
-    name: Cliente
-    value: 'Concello de Vigo / Universidade de Vigo'
-  -
-    name: Ano
-    value: '2011'
+  - name: Estudio
+    value: "De dominio público"
+  - name: Cliente
+    value: "Concello de Vigo / Universidade de Vigo"
+  - name: Ano
+    value: "2011"
 draft: false

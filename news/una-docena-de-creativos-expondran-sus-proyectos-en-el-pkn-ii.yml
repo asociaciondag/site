@@ -1,15 +1,13 @@
 id: 61
-title: 'Una docena de creativos expondrán sus proyectos en el PKN II'
+title: "Una docena de creativos expondrán sus proyectos en el PKN II"
 body:
-  -
-    text: 'Para contradecirlo expondrán su trabajo Andrea González, Arturo Álvarez, Baldo Ramos, Chachacha Estudio, Eva Morell, Lucía García, Marcos Dopico, Pepe Sollay Pepe Vieira, Rita Pajarita, Xandre Outeiroy Xulio, Moncho e Noe. Viernes 11 de diciembrea las22:00 horas, Sala Karma \[Pontevedra\].'
+  - text: 'Para contradecirlo expondrán su trabajo Andrea González, Arturo Álvarez, Baldo Ramos, Chachacha Estudio, Eva Morell, Lucía García, Marcos Dopico, Pepe Sollay Pepe Vieira, Rita Pajarita, Xandre Outeiroy Xulio, Moncho e Noe. Viernes 11 de diciembrea las22:00 horas, Sala Karma \[Pontevedra\].'
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a97c97b3-pechakucha-vol2-copia.gif
-    text: ''
+    text: ""
     type: image
-intro: 'Quién ha dicho que las segundas partes nunca fueron buenas?'
+intro: "Quién ha dicho que las segundas partes nunca fueron buenas?"
 slug: una-docena-de-creativos-expondran-sus-proyectos-en-el-pkn-ii
 tags: []
 lang: es

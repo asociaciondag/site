@@ -1,15 +1,13 @@
 id: 14
-title: 'Presentación do libro'
+title: "Presentación do libro"
 body:
-  -
-    text: 'Un ano máis queremos agradecer a súa participación en Creatividade Galega, así como a confianza depositada neste proxecto, promovido por tres profesores da Universidade de Vigo e que conta co respaldo de Galicia Calidade e a Consellaría de Innovación e Industria da Xunta de Galicia. Na edición de 2009, contamos tamén co apoio das dúas organizacións profesionais de Galicia: a Asociación de Deseñadores de Galicia (DAG) e a Asociación Provincial de Axencias de Publicidade de Pontevedra (APAP), que participaron activamente na selección dos traballos e a edición do anario. Mañá, ás 12 horas, terá lugar a presentación publica do libro no hotel AC Palacio do Carmen (rúa Oblatas s/n, Santiago de Compostela), nun acto onde todos/as os/as asistentes recibirán un exemplar gratuíto. Moi pronto iniciaremos a súa distribución, informándolles dos puntos de venda a través da nosa páxina web www.creatividadegalega.es. Esperamos que o traballo realizado lle satisfaga e poidamos contar coa súa presenza para o ano que vén. Afectuosamente, CHECHU PÉREZ EVA QUINTAS ALBERTO DAFONTE Creatividade Galega.'
+  - text: "Un ano máis queremos agradecer a súa participación en Creatividade Galega, así como a confianza depositada neste proxecto, promovido por tres profesores da Universidade de Vigo e que conta co respaldo de Galicia Calidade e a Consellaría de Innovación e Industria da Xunta de Galicia. Na edición de 2009, contamos tamén co apoio das dúas organizacións profesionais de Galicia: a Asociación de Deseñadores de Galicia (DAG) e a Asociación Provincial de Axencias de Publicidade de Pontevedra (APAP), que participaron activamente na selección dos traballos e a edición do anario. Mañá, ás 12 horas, terá lugar a presentación publica do libro no hotel AC Palacio do Carmen (rúa Oblatas s/n, Santiago de Compostela), nun acto onde todos/as os/as asistentes recibirán un exemplar gratuíto. Moi pronto iniciaremos a súa distribución, informándolles dos puntos de venda a través da nosa páxina web www.creatividadegalega.es. Esperamos que o traballo realizado lle satisfaga e poidamos contar coa súa presenza para o ano que vén. Afectuosamente, CHECHU PÉREZ EVA QUINTAS ALBERTO DAFONTE Creatividade Galega."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a942a42c-cg-08-portada.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Preséntase un novo número da revista _Creatividade Galega_'
+intro: "Preséntase un novo número da revista _Creatividade Galega_"
 slug: presentacion-do-libro
 tags: []
 lang: gl

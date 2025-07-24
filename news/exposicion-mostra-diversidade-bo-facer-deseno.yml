@@ -1,59 +1,50 @@
 id: 1091
-title: 'A exposición «FSWD/Identidade e territorio» mostra a diversidade e bo facer do deseño '
+title: "A exposición «FSWD/Identidade e territorio» mostra a diversidade e bo facer do deseño "
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/enad-15-xh1s8168-c-xaimecortizo.jpg
-    text: 'De esquerda a dereita: Ángel Martínez, Gloria Escribano, Uqui Permui e Juan Lázaro, comisarios da exposición.'
+    text: "De esquerda a dereita: Ángel Martínez, Gloria Escribano, Uqui Permui e Juan Lázaro, comisarios da exposición."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O pasado 15 de outubro inaugurouse, no [CGAC ](http://cgac.xunta.gal/GL/contido/cgac)de Santiago de Compostela, a exposición _FSWD / Identidade e Territorio_, organizada por READ, Red Española de Asociaciones de Diseño, dentro do proxecto global [FSWD / From Spain With Design](http://www.fswd.es/), unha iniciativa concibida de forma colaborativa como unha ferramenta para a proxección do deseño español a nivel nacional e internacional.
 
       Distintos eixos conceptuais contribúen a acoutar unha selección de máis de 125 obras de diferentes ámbitos: _Interseccións_, _Identidade e territorio_, _Internacionalización_, _Sostibilidade e Complicidades_ son os alicerces vertebradores que nos achegan, aos distintos relatos que nos ofrecen tanto obxetos como espazos ou formas de comunicar e que tiveron como obxectivo un uso, unha utilidade, e que crearon identidade dende o contexto no que naceron, respondendo a un problema ou demanda e sobre todo á necesidade das persoas.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/expo-fswd-xh1s7358-c-xaimecortizo.jpg
-    text: 'Vista da exposición'
+    text: "Vista da exposición"
     mode: normal
     type: image
-  -
-    text: 'Traballos de deseño industrial, deseño gráfico, interiorismo e deseño de servizos, algúns transversais a compartimentos estancos, así como outros formulados nos límites destas definicións, dialogan neste espazo expositivo, articulando no seu discurso manifestacións ligadas á inclusión, a igualdade de xénero, as preocupacións ambientais, as ambicións tecnolóxicas, a procura de novos materiais e usos. E cada un e todos, construíndo un escenario e unha narrativa identitaria que indubidablemente crea memoria.'
+  - text: "Traballos de deseño industrial, deseño gráfico, interiorismo e deseño de servizos, algúns transversais a compartimentos estancos, así como outros formulados nos límites destas definicións, dialogan neste espazo expositivo, articulando no seu discurso manifestacións ligadas á inclusión, a igualdade de xénero, as preocupacións ambientais, as ambicións tecnolóxicas, a procura de novos materiais e usos. E cada un e todos, construíndo un escenario e unha narrativa identitaria que indubidablemente crea memoria."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/silla-bolina-amalia-puga.jpg
-    text: 'Silla Bolina. Amalia Puga'
+    text: "Silla Bolina. Amalia Puga"
     mode: normal
     type: image
-  -
-    text: 'Exposta con intención itinerante, _FSWD / Identidade e Territorio_ mira ao futuro para viaxar por distintas cidades e países coa idea de compartir con distintos públicos esta radiografía do panorama actual do deseño español. Ese foi o reto do deseño expositivo, desenvolto por Enorme Estudo, resultado dunha chamada a proxecto. O mesmo expón unha exposición con posibilidade de replicarse nun formato _responsive_, adaptable a distintos tamaños, cantidade de proxectos e espazos. Baséase, fundamentalmente, nunhas pezas/peanas que se produciron artesanalmente en Galicia, con madeira galega, no taller de carpintería de Víctor Domínguez Gaviño.'
+  - text: "Exposta con intención itinerante, _FSWD / Identidade e Territorio_ mira ao futuro para viaxar por distintas cidades e países coa idea de compartir con distintos públicos esta radiografía do panorama actual do deseño español. Ese foi o reto do deseño expositivo, desenvolto por Enorme Estudo, resultado dunha chamada a proxecto. O mesmo expón unha exposición con posibilidade de replicarse nun formato _responsive_, adaptable a distintos tamaños, cantidade de proxectos e espazos. Baséase, fundamentalmente, nunhas pezas/peanas que se produciron artesanalmente en Galicia, con madeira galega, no taller de carpintería de Víctor Domínguez Gaviño."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/454-feed2021-xh1s7366-c-xaimecortizo.jpg
-    text: 'Vista da exposición'
+    text: "Vista da exposición"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Comisariada e coordinada por Uqui Permui (DAG), Angel Martínez (ADCV), Gloria Escribano (DIMAD) e Juan Lázaro (Cuenca Diseño), contou no seu desenvolvemento coa colaboración de integrantes das doce asociacións que compoñen READ e é un formidable exemplo dun traballo aberto, xeneroso e participativo ao que se sumaron con entusiasmo as e os profesionais de deseño participantes e as empresas produtoras.
 
       Sinalar ademais que na selección de estudios e profesionais do deseño participan 21 procedentes de Galicia, entre as que se atopan as nosas asociadas Álvaro Valiño, Carlos Lorenzo, Marcos Dopico, María Ramos, Pepe Barro, Uqui Permui, e os estudios cenlitrometrocadrado, Desescribir, Numax, Desoños, Ekinoccio, Era Comunicación e Guillotina Estudio.
 
       A exposición poderá visitarse ata o 30 de xaneiro de 2022.
     type: text
-  -
-    list: ''
-    url: 'https://cgac.xunta.gal/gl/exposicions/fswd-identidade-e-territorio'
-    text: 'Máis información'
+  - list: ""
+    url: "https://cgac.xunta.gal/gl/exposicions/fswd-identidade-e-territorio"
+    text: "Máis información"
     type: button
-intro: 'O CGAC acolle dende o 15 de outubro a exposición _FSWD / Identidade e territorio_, unha mostra que recolle o tecido creativo e produtivo do deseño español e que conta con traballos de deseño industrial, deseño gráfico, interiorismo e deseño de servizos, que destacan pola súa calidade, pola súa proxección no mercado nacional e internacional e por ser un modelo de sinerxía entre profesionais do deseño, empresas e editoras.'
+intro: "O CGAC acolle dende o 15 de outubro a exposición _FSWD / Identidade e territorio_, unha mostra que recolle o tecido creativo e produtivo do deseño español e que conta con traballos de deseño industrial, deseño gráfico, interiorismo e deseño de servizos, que destacan pola súa calidade, pola súa proxección no mercado nacional e internacional e por ser un modelo de sinerxía entre profesionais do deseño, empresas e editoras."
 slug: exposicion-mostra-diversidade-bo-facer-deseno
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2021-10-20T11:27:54+00:00

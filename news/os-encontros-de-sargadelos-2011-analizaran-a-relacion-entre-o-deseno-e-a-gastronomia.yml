@@ -1,14 +1,13 @@
 id: 260
-title: 'Os encontros de Sargadelos 2011 analizarán a relación entre o Deseño e a Gastronomía'
+title: "Os encontros de Sargadelos 2011 analizarán a relación entre o Deseño e a Gastronomía"
 body:
-  -
-    text: |-
+  - text: |-
       As actividades que conforman o programa deste ano son:
 
       1. Un obradoiro aberto á participación de deseñadores de produto, ceramistas, estudantes e investigadores de calquera das disciplinas implicadas.
       2. O taller experimental: Deseño industrial, arte e gastronomía contemporánea, que desenvolverá un grupo de deseñadores industriais.
       3. Unha exposición sobre a Escola de Ulm. **O obradoiro**
-       
+
       O obradoiro, que tratará de analizar a interacción entre o Deseño e a Gastronomía nas distintas vertentes, desenvolverase entre o 1 e o 12 de agosto baixo a supervisión da profesora Marta Rois.
 
       Os participantes recibirán clases teóricas e tamén poderán investigar e experimentar no taller de Sargadelos durante a primeira semana e á semana seguinte trasladaranse á planta do Castro para confeccionar os prototipos. O obradoiro persegue que os alumnos aprendan a mirar doutro xeito os alimentos e afonden na concepción de obxectos e artefactos que optimicen a súa degustación. **Deseño industrial, arte e gastronomía contemporánea**
@@ -23,17 +22,15 @@ body:
 
       Consulta o dossier con toda a información:
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9e11a77-encontros-sargadelos-2011.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a9e11a77-dossier-encontros-sargadelos-2011.pdf
     text: Descargar
     type: file
-intro: 'A relación entre o Deseño e a Gastronomía será a protagonista do Taller internacional de tendencias cerámicas que nesta corenta edición traerá a Cervo a deseñadores de todo o mundo para que intercambien e compartan as súas experiencias.'
+intro: "A relación entre o Deseño e a Gastronomía será a protagonista do Taller internacional de tendencias cerámicas que nesta corenta edición traerá a Cervo a deseñadores de todo o mundo para que intercambien e compartan as súas experiencias."
 slug: os-encontros-de-sargadelos-2011-analizaran-a-relacion-entre-o-deseno-e-a-gastronomia
 tags: []
 lang: gl

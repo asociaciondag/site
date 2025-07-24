@@ -1,20 +1,17 @@
 id: 17
-title: 'Deseñar unha nova accesibilidade'
-author: 'Laurent Ogel'
+title: "Deseñar unha nova accesibilidade"
+author: "Laurent Ogel"
 body:
-  -
-    text: |-
+  - text: |-
       Din que a Covid serviu para repensar o deseño. Gran cantidade de actividades, espazos e servizos tiveron que redeseñarse en poucos meses, dende novas circulacións e movementos ata experiencias e hábitos, para adaptarse a unha nova realidade e novos entornos, tanto físicos como dixitais.
 
       En _Design for the Real World_ (1971), sendo un dos libros máis lidos sobre deseño, Victor Papanek facía unha chamada á inclusión, a xustiza social e a sostibilidade, temas de gran relevancia para o deseño actual, poñendo sobre a mesa o debate: Cal ten que ser hoxe o rol do deseño e das/dos profesionais do deseño para ser verdadeiramente útiles á sociedade? Sendo estudante de Papanek, a deseñadora danesa Susanne Koefoed, en 1968, deseñou o primeiro símbolo internacional de accesibilidade cotiá de moitas persoas.
     type: text
-  -
-    image: /img/articles/images/iconoaccesibilidad.png
-    text: ''
+  - image: /img/articles/images/iconoaccesibilidad.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Un símbolo universal que 50 anos despois é difícil de mellorar a pesar das súas limitacións. Indica que non deberiamos ocupar unha praza de estacionamento marcada con esa icona, que hai un ascensor ou un baño supostamente accesible (aplicando criterios de Accesibilidade Universal, non chegan ao 10% os baños totalmente accesibles). Enténdese que un acceso marcado esténdese –segundo a clasificación internacional do funcionamento, da discapacidade e da saúde, coñecida como CIF– ás 1.424 categorías que o marco conceptual da Organización Mundial da Saúde recolle, e non só enfocado ás personas con mobilidade reducida. Como profesionais, independentemente do noso campo de especialización –comunicación, produto, servizo, espazos, entornos dixitais, etc.– o ideal sería preguntarnos se os nosos deseños se adaptan a calquera das 1.424 categorías, polo menos considerar que a mobilidade reducida representa menos do 20% e que o 80% representa a persoas con visión baixa ou nula, percepción auditiva distorsionada ou nula, lesións cerebrais adquiridas, déficit de funcións cognitivas, trastornos do espectro autista, trastornos invisibles derivados de diferenzas sensoriais, psicolóxicas ou neurolóxicas, ou persoas con trastornos progresivos ou regresivos, entre outras.
 
       Aproveito para lembrar algúns principios da Accesibilidade Universal e que unha estratexia de Deseño para Todas e Todos alude ás medidas que se deben adoptar:
@@ -24,7 +21,7 @@ body:
       3. Información perceptible. O deseño debe comunicar á persona usuaria a información necesaria de maneira eficaz, sen importar as condicións ambientais ou as capacidades sensoriais. Usar distintos modos (gráfico, verbal, táctil) que consideren o contraste axeitado entre a información, a lexibilidade da información esencial e a compatibilidade con diversas técnicas.
       4. Esforzo físico e mental reducido. O deseño pode ser usado de maneira eficiente e confortable, e cun mínimo de fatiga. Hai que minimizar as accións repetitivas e a necesidade de forzas pouco razoables para realizar diferentes accións.
       5. Tamaño e espazo para o seu acercamento e uso. Debe proporcionarse un tamaño e un espazo axeitados para acercarse, alcanzar, manipular e usar, sen que importe o tamaño corporal da persona usuaria, a súa postura ou a súa mobilidade.
-       
+
       Din que posiblemente sexa a peor crise sanitaria á que nos teñamos enfrontado ao longo da historia. Será a nosa historia. Dende que Papanek cuestionou hai 50 anos o rol do deseño, as/os profesionais do deseño que nos adicamos á procura de solucións para que non quede ninguén sen acceder a un espazo, físico ou dixital, sen ser atendido, oído ou comprendido, en definitiva, eliminando o máximo número de barreiras tanto físicas como cognitivas, levamos un chasco.
 
       Cantos fracasos sairon á luz? Cantas barbaridades se cometeron? Está ben improvisar, e as persoas que deseñamos somos amantes dos entornos incertos e dos lugares descoñecidos, pero en ningún caso debemos renunciar aos principios de cualquera proceso de deseño. Non debemos permitir(nos) a entrega da solución menos mala, engadindo un _plugin_, parcheando o saltando uns cantos pasos sen nin sequera facer prototipos ou tests para verificar a solución, e quizáis o máis importante, non facer as preguntas de rigor: quen pode ter un problema?, que pode impedir o acceso ao que necesita?, como se sinte fronte ao que se lle propón?, que apoio ou medida alternativa se podería ofrecer?, estamos seguros de que ninguén queda fóra?
@@ -46,31 +43,27 @@ body:
       - UNE 153101:2018 EX Lectura Fácil. Pautas e recomendacións para a elaboración de documentos.
       - Convención Internacional sobre os Dereitos das Persoas con Discapacidade das Nacións Unidas.
       - Para máis información ou normas específicas, podedes enviar a vosa consulta a <logel@praxxis.es>.
-       
+
       Por que non hai día no que non nos atopemos cun “imposible”, “non se pode”, ou un “dedicádevos a outra cousa”. Esos imposibles deixaron (e seguen a deixar) a moitas persoas fóra da esfera pública, social, educativa, política ou económica, por non conseguir o deseño, responsable, esa condición de accesibilidade, tendo en conta a diversidade na funcionalidade das capacidades humanas.
 
       Por exemplo, para as persoas (97% mulleres) que se dedican a servizos domésticos e actividades relacionadas co coidado de personas nos domicilios, adoptáronse medidas durante o Estado de Alarma, en paralelo aos ERTE e a outras axudas. Sen embargo só o 10% do colectivo se beneficiou destas axudas. Que pasou? Moitas destas personas non se enteraron e moitas outras non podían acceder ou non souberon utilizar os servizos telemáticos deseñados para cumprir ese obxectivo. Erro do sistema.
     type: text
-  -
-    image: /img/articles/images/error-sistema.jpg
-    text: ''
+  - image: /img/articles/images/error-sistema.jpg
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Que se entende por accesibilidade?
 
       > Condición que deben cumprir os entornos, procesos, bens, produtos e servizos, así como os obxectos, instrumentos e dispositivos, para ser comprensibles, utilizables e practicables para todas as personas en condicións de seguridade e comodidade e da forma máis autónoma e natural posible.
 
       Imaxinemos uns chanzos, 3 ou 4 por exemplo, para acceder a un espazo, edificio, comercio, zona de recreo, etc. Se queremos facilitar o acceso para subir ou baixar cunha maleta, un carriño de bebé ou da compra, un andadeiro ou unha cadeira de rodas, pensaremos en poñer unha rampla, non é? Coa normativa na man, aplicando as porcentaxes de pendentes, pasamáns, ángulos e xiros, idearemos ramplas que poderían competir nos libros de arquitectura coas mellores obras de Calatrava. E se fixeramos o experimento de separar á metade eses chanzos deixando a outra metade como rampa? Sorprenderíanos ver que a maioría da xente opta por subir pola rampla. E se suprimísemos os chanzos e fose só unha rampla? Todo o mundo podería subir ou baixar sen problema.
     type: text
-  -
-    image: /img/articles/images/chanzos.png
-    text: ''
+  - image: /img/articles/images/chanzos.png
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Pero como a nosa imaxinación busca sempre o “problema” e non a solución, diremos que en tal caso ou tal outro é imposible. Así é, pero seguro que teremos solucionado o 80% dos casos. Pois ben, adiquemos o noso tempo ao 20% restante, con creatividade. Eso si, sempre seguindo as fases de calquera proceso de deseño, cooperando con expertos doutras disciplinas, e cumprindo cos principios básicos dunha boa accesibilidade, buscando un uso sinxelo e intuitivo, adaptado a unha ampla variedade de preferencias e capacidades individuais, evitando complexidades innecesarias ou informacións confusas, minimizando a necesidade de forzas pouco razoables, e proporcionando un tamaño e un espazo axeitados para acercarse, alcanzar, manipular e usar, sen que importe o tamaño corporal da persona usuaria, a súa postura ou a súa mobilidade. En definitiva, sen complicar máis as cousas.'
+  - text: "Pero como a nosa imaxinación busca sempre o “problema” e non a solución, diremos que en tal caso ou tal outro é imposible. Así é, pero seguro que teremos solucionado o 80% dos casos. Pois ben, adiquemos o noso tempo ao 20% restante, con creatividade. Eso si, sempre seguindo as fases de calquera proceso de deseño, cooperando con expertos doutras disciplinas, e cumprindo cos principios básicos dunha boa accesibilidade, buscando un uso sinxelo e intuitivo, adaptado a unha ampla variedade de preferencias e capacidades individuais, evitando complexidades innecesarias ou informacións confusas, minimizando a necesidade de forzas pouco razoables, e proporcionando un tamaño e un espazo axeitados para acercarse, alcanzar, manipular e usar, sen que importe o tamaño corporal da persona usuaria, a súa postura ou a súa mobilidade. En definitiva, sen complicar máis as cousas."
     type: text
 position: null
 slug: desenar-nova-accesibilidade

@@ -1,14 +1,12 @@
 id: 647
-title: 'No solo una asamblea general'
+title: "No solo una asamblea general"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/56d469350a0a9-cartel-asemblea-dag.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Con este objetivo, de forma paralela a la asamblea general, os proponemos una serie de actividades abiertas, pensadas también para vosotros, todos los que tenéis curiosidad e interés por acercaros y conocer un poco mejor a la DAG y a sus asociados. El programa de este año incluye:
 
       11.00 h Una charla sobre estrategia de marca a cargo de los integrantes de Desoños
@@ -19,16 +17,14 @@ body:
 
       Aunque, como todos sabéis, los miembros de [Desoños](http://www.desonhos.gal/) han tirado tabiques para hacernos sitio ;)
     type: text
-  -
-    list: ''
+  - list: ""
     info:
       code: "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Tomámonos en serio a asemblea xeral da <a href=\"https://twitter.com/asociaciondag\">@asociaciondag</a>, e tiramos un tabique para acollela o 5 de marzo! <a href=\"https://twitter.com/hashtag/deso%C3%B1ando?src=hash\">#desoñando</a> <a href=\"https://t.co/i6qg5bJGR5\">pic.twitter.com/i6qg5bJGR5</a></p>&mdash; Desoños (@_desonhos) <a href=\"https://twitter.com/_desonhos/status/704309211136659456\">February 29, 2016</a></blockquote>\r\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      ratio: ''
+      ratio: ""
     type: embed
-  -
-    text: 'El espacio es limitado, así que, si quieres venir, avísanos antes en el correo: [info@asociaciondag.org](mailto:info@asociaciondag.org?subject=Quero%20asistir%20%C3%A1s%20actividades%20abertas%20da%20DAG%20este%20s%C3%A1bado)'
+  - text: "El espacio es limitado, así que, si quieres venir, avísanos antes en el correo: [info@asociaciondag.org](mailto:info@asociaciondag.org?subject=Quero%20asistir%20%C3%A1s%20actividades%20abertas%20da%20DAG%20este%20s%C3%A1bado)"
     type: text
-intro: 'Porque, como ya viene siendo habitual en las últimas ediciones, la DAG amplía el formato de la asamblea de socios para favorecer el encuentro entre diseñadores.'
+intro: "Porque, como ya viene siendo habitual en las últimas ediciones, la DAG amplía el formato de la asamblea de socios para favorecer el encuentro entre diseñadores."
 slug: no-solo-una-asamblea-general
 tags: []
 lang: es

@@ -4,15 +4,13 @@ contact: |-
 
   Móbil: 688 952 224
 links:
-  -
-    text: Web
-    url: 'http://www.ellagrimal.com/'
+  - text: Web
+    url: "http://www.ellagrimal.com/"
     type: link
-  -
-    text: '@ellagrimal'
-    url: 'https://twitter.com/ElLagrimal'
+  - text: "@ellagrimal"
+    url: "https://twitter.com/ElLagrimal"
     type: twitter
-name: 'Manuel Moital Davila'
+name: "Manuel Moital Davila"
 slug: manuel-moital-davila
 avatarBig: null
 avatar: /img/avatars/55e82438aad1c-manuel-moital-davila.jpeg
@@ -20,5 +18,5 @@ tags: []
 draft: true
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

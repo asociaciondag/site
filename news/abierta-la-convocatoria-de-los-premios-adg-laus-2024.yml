@@ -1,14 +1,12 @@
 id: 1271
-title: 'Abierta la convocatoria de los Premios ADG Laus 2024'
+title: "Abierta la convocatoria de los Premios ADG Laus 2024"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/premios-laus-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los proyectos deben de ser inscritos a través de la plataforma online hasta el 14 de febrero y deberán ser enviados antes del 1 de marzo. Pueden ser trabajos impresos, publicados, emitidos o editados desde enero de 2023 hasta el cierre de inscripciones.
 
       Este año desaparecen las divisiones clásicas y los proyectos podrán inscribirse​ en 40 apartados especializados en dirección de arte, diseño editorial, comunicación gráfica y publicitaria, gráfica de entorno, _packaging_, diseño digital y comunicación audiovisual y la distinción Aporta al impacto social.​ Además, aparecen ​l​os apartados de rediseño de identidad visual, el de tipografía corporativa y el de gráfica para exposiciones.
@@ -17,12 +15,11 @@ body:
 
       El jurado está formado por profesionales nacionales e internacionales de prestigio, entre ellos, Nieves Berenguer (Hermanos Berenguer), Fraser Muggeridge (Fraser Muggeridge studio), Nick Ace (socio y director creativo en COLLINS), Beatriz Suárez (Maba), Borja Garmendia (Pensando en blanco), Gustav Nordebrink (ID—C), Paco Badia (VML) o Ana Delgado (unadebravas).
     type: text
-  -
-    list: ''
-    url: 'https://www.adg-fad.org/es/laus/premios'
-    text: 'Inscripciones y más información'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premios"
+    text: "Inscripciones y más información"
     type: button
-intro: 'La 54ª edición de los premios ADG Laus de diseño gráfico y comunicación visual ya está en marcha.​ Estudiantes y profesionales del sector podrán inscribir sus mejores trabajos en las diferentes categorías, y las asociadas a DAG cuentan con un 15% de descuento.'
+intro: "La 54ª edición de los premios ADG Laus de diseño gráfico y comunicación visual ya está en marcha.​ Estudiantes y profesionales del sector podrán inscribir sus mejores trabajos en las diferentes categorías, y las asociadas a DAG cuentan con un 15% de descuento."
 slug: abierta-la-convocatoria-de-los-premios-adg-laus-2024
 tags: []
 lang: es

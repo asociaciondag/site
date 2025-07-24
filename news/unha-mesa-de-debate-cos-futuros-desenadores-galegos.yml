@@ -1,27 +1,24 @@
 id: 770
-title: 'Unha mesa de debate cos futuros deseñadores galegos'
+title: "Unha mesa de debate cos futuros deseñadores galegos"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-alumnos-conxunto.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A visión que nos interesa coñecer neste FEED'17 é a dos futuros profesionais do deseño, os alumnos e alumnas das escolas que en breve se van incorporar ao mercado laboral e van ir construíndo o futuro do deseño.
 
       Con este obxectivo, convidamos a Ángel Currás da escola [Aula d](http://aulad.com/) de Vigo, María Ángeles Regal da [EASD Antonio Failde](http://www.escolarte.com/) de Ourense, Tino Abad da [EASD Pablo Picasso](http://www.eapicasso.com/) da Coruña, e Ana Rivera da [EASD Ramón Falcón](http://escoladeartelugo.com/) de Lugo para falarmos sobre a situación actual do deseño, do papel do deseño nesta sociedade e na sociedade do futuro, de cara a onde cren que vai ir o deseño, se albiscan novas disciplinas e moitas cousas máis. De moderadora exercerá a socia da DAG [Noelia Fernández](https://dag.gal/gl/noelia-fernandez-estevez/).
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: 'FEED''17'
     type: button
-intro: 'Cuestionalo todo, repensar as cousas, procurar diferentes perspectivas forma parte do día a día de calquera deseñador. Nesta ocasión, quixemos darlle unha volta ao formato da mesa de debate para mostrar un nuevo punto de vista.'
+intro: "Cuestionalo todo, repensar as cousas, procurar diferentes perspectivas forma parte do día a día de calquera deseñador. Nesta ocasión, quixemos darlle unha volta ao formato da mesa de debate para mostrar un nuevo punto de vista."
 slug: unha-mesa-de-debate-cos-futuros-desenadores-galegos
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2017-11-02T16:22:19+00:00

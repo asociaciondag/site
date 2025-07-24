@@ -1,26 +1,23 @@
 id: 1117
-title: 'Aberta a convocatoria dos Premios ADG Laus de deseño gráfico e comunicación visual'
+title: "Aberta a convocatoria dos Premios ADG Laus de deseño gráfico e comunicación visual"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/adglaus-22.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A Asociación de Diseñadores Gráficos y Directores de Arte (ADG-FAD) abre a convocatoria de inscricións da 52ª edición dos Premios ADG Laus nas categorías Deseño Gráfico, Dixital, Publicidade e Audiovisual para profesionais do deseño gráfico e a comunicación visual, os Laus Estudiantes para estudantes de deseño, publicidade, audiovisual e dixital de todo o país, e a categoría Laus Aporta, que busca recoñecer proxectos que a través do deseño conseguiron redimensionar unha información, un servicio ou un produto social e culturalmente.
 
       O xurado que outorgará os Premios ADG Laus 2022 destaca polo seu carácter independente e transversal, e está integrado por grandes profesionais do sector do deseño e da comunicación visual, recoñecidos a nivel nacional e internacional como [Marisa Gallén](https://gallenibanez.com/), [Enric Aguilera](http://www.enricaguilera.com/), [Marta Yarza](https://yarzatwins.com/), [Ana Mirats](http://www.anamirats.com/), [David Ruiz](http://ruizcompany.com/), [Patricia Luján](http://www.patriciaycarlitos.com/), [Raúl Ortiz](http://www.nectarestudio.com/), [Tara Rego](https://dous.studio/), [Jean-Paul Frenay](http://www.frenayjp.be/) e [Óscar Guayabero](https://www.guayabero.net/), entre moitos outros.
 
       A convocatoria de inscricións permanecerá aberta ata o vindeiro 14 de febreiro. Toda a información e condicións de participación aparecen detalladas nas bases. A presentación de proxectos para esta edición realízase na [páxina web dos premio](https://www.adg-fad.org/es/laus/premios)[s](http://www.adg-fad.org/es/laus/premios) e todas as persoas asociadas á DAG, como entidade amiga, poden beneficiarse dun desconto do 15%.
     type: text
-  -
-    list: ''
-    url: 'https://www.adg-fad.org/es/laus/bases-y-categorias'
-    text: 'Bases dos Premios Laus'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/bases-y-categorias"
+    text: "Bases dos Premios Laus"
     type: button
-intro: 'Arrinca a 52ª edición dos premios ADG Laus onde os e as profesionais do deseño gráfico, a publicidade e a comunicación visual poderán inscribir os seus mellores proxectos ata o 14 de febreiro de 2022.'
+intro: "Arrinca a 52ª edición dos premios ADG Laus onde os e as profesionais do deseño gráfico, a publicidade e a comunicación visual poderán inscribir os seus mellores proxectos ata o 14 de febreiro de 2022."
 slug: aberta-a-convocatoria-dos-premios-adg-laus-de-deseno-grafico-e-comunicacion-visual
 tags: []
 lang: gl

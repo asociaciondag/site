@@ -1,9 +1,8 @@
 id: 12
-title: 'Aviso legal'
+title: "Aviso legal"
 slug: aviso-legal
 body:
-  -
-    text: |-
+  - text: |-
       La finalidad del presente aviso legal es regular los principios de acceso y las condiciones generales de uso de la web [dag.gal](http://dag.gal), así como establecer la política en materia de protección de datos de carácter personal (política de privacidad).
 
       ## 1.- Información general del titular del sitio web
@@ -64,14 +63,14 @@ body:
       2. Cualquier vulneración de los derechos de propietario del website o de sus legítimos titulares.
       3. Su utilización para todo tipo de fines comerciales o publicitarios, distintos de los estrictamente permitidos.
       4. Cualquier intento de obtener los contenidos del sitio web por cualquier medio distinto de los que se pongan a disposición de las personas usuarias, así como de los que habitualmente se empleen en la red, siempre que no causen perjuicio alguno al sitio web.
-       
+
       A los efectos de preservar los posibles derechos de propiedad intelectual, en el caso de que cualquiera persona usuaria o una tercera persona considere que se ha producido una violación de sus legítimos derechos por la introducción de un determinado contenido en el web, deberá notificar dicha circunstancia a la DAG indicando:
 
       1. Datos personales de la persona interesada titular de los derechos presuntamente infringidos. Si la reclamación la presenta una tercera persona distinta de la persona interesada, deberá indicar la representación con la que actúa.
       2. Indicación de los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en el web
       3. Acreditación de los citados derechos de propiedad intelectual.
       4. Declaración expresa en la que la persona interesada se responsabiliza de la veracidad de las informaciones facilitadas en la notificación.
-       
+
       La legitimidad de los derechos de propiedad intelectual o industrial correspondientes a los contenidos aportados por terceras personas es de la exclusiva responsabilidad de las mismas.
 
       El establecimiento de cualquier “hiperenlace” entre una página web y cualquiera de las páginas web del del sitio web estará sometido a las siguientes condiciones:
@@ -79,7 +78,7 @@ body:
       1. No se permite la reproducción ni total ni parcial de ninguno de los servicios ni contenidos del sitio web.
       2. La página web en la que se establezca el hiperenlace no contendrá ninguna marca, nombre comercial, rótulo de establecimiento, denominación, logotipo, eslogan u otros signos distintivos pertenecientes al sitio web.
       3. Bajo ninguna circunstancia, el propietario del sitio web será responsable de los contenidos o servicios puestos a disposición del público en la página web desde la que se realice el “hiperenlace” ni de las informaciones y manifestaciones incluidas en la misma.
-       
+
     type: text
 menu: false
 footer: true

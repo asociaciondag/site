@@ -22,59 +22,58 @@
  *
  */
 
-
 /*
  * Estilos comuns
  */
 .project {
-	& .project-header {
-		& > h1{
-			margin:0;
-			font-weight: var(--fw-normal);
-		}
-	}
+  & .project-header {
+    & > h1 {
+      margin: 0;
+      font-weight: var(--fw-normal);
+    }
+  }
 }
 
 /**
  * Modo listado
  */
 .project-list {
-	box-sizing: border-box;
-	max-width: 30rem;
+  box-sizing: border-box;
+  max-width: 30rem;
 
-	& > a {
-		min-height: 8rem;
-		display: block;
-		text-decoration: none;
-		color: inherit;
-		position: relative;
-	}
+  & > a {
+    min-height: 8rem;
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+  }
 
-	& .project-image {
-		padding: 0;
-		margin: 0;
-		line-height: 0;
+  & .project-image {
+    padding: 0;
+    margin: 0;
+    line-height: 0;
 
-		& img {
-			border-radius: 3px;
-			max-width: 100%;
-			object-fit: cover;
-		}
-	}
+    & img {
+      border-radius: 3px;
+      max-width: 100%;
+      object-fit: cover;
+    }
+  }
 
-	& .project-header {
-		position: absolute;
-		top:0;
-		height: 100%;
-		width: 100%;
-		display: flex;
-		justify-content:center;
-		align-items: center;
+  & .project-header {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-		& > h1 {
-			font-size: var(--fs-18);
-			text-align: center;
-			padding: 2em;
-		}
-	}
+    & > h1 {
+      font-size: var(--fs-18);
+      text-align: center;
+      padding: 2em;
+    }
+  }
 }

@@ -1,14 +1,12 @@
 id: 705
-title: 'Abierto el plazo de inscripción de trabajos en los Premios Laus'
+title: "Abierto el plazo de inscripción de trabajos en los Premios Laus"
 body:
-  -
-    list: after
+  - list: after
     info:
       code: '<iframe src="https://player.vimeo.com/video/198180028" width="640" height="360" frameborder="0" title="ADG Laus 2017" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
-      ratio: ''
+      ratio: ""
     type: embed
-  -
-    text: |-
+  - text: |-
       Este año contarán un jurado de reconocidos profesionales nacionales e internacionales del sector como Larissa Kasper, Will Hudson, Javier Jaén, Veronica Ditting, Diego Feijóo, Lernert&amp;Sander, Chacho Puebla, Belén Coca, Olga Llopis o Albert Folch entre muchos otros.
 
       El ADG-FAD da el pistoletazo de salida para que los profesionales del grafismo, la publicidad y la comunicación visual interesados inscriban sus mejores trabajos hasta el 3 de febrero de 2017.
@@ -25,7 +23,7 @@ body:
 
       Podéis consultar las bases e inscripciones, que contemplan un 15% de descuento para los socios de la DAG, en <http://www.adg-fad.org/es/laus/premios>
     type: text
-intro: 'La Asociación de Diseñadores Gráficos y Directores de Arte del FAD (ADG-FAD) acaba de abrir la convocatoria de inscripciones para participar en la 47ª edición de los Premios ADG Laus de Diseño Gráfico y Comunicación Visual.'
+intro: "La Asociación de Diseñadores Gráficos y Directores de Arte del FAD (ADG-FAD) acaba de abrir la convocatoria de inscripciones para participar en la 47ª edición de los Premios ADG Laus de Diseño Gráfico y Comunicación Visual."
 slug: abierto-el-plazo-de-inscripcion-de-trabajos-en-los-premios-laus
 tags: []
 lang: es

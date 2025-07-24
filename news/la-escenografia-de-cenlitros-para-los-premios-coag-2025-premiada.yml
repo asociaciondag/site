@@ -1,14 +1,12 @@
 id: 1417
-title: 'La escenografía de Cenlitros para los Premios COAG 2025 premiada'
+title: "La escenografía de Cenlitros para los Premios COAG 2025 premiada"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-premiocesuga-cenlitros.jpg
-    text: 'Fotografía: COAG'
+    text: "Fotografía: COAG"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La nueva edición del premio convocó a aquellas actuaciones realizadas en España y Portugal con el objetivo de poner en valor las posibilidades de la construción con madera como recurso natural, renovable, reciclable y sostenible.
 
       Entre las categorías de premios está la de Diseño de Producto y Pequeña Escala, que incluye mobiliario o innovación en el diseño de marca, donde resultó ganadora la propuesta de diseño de escenografía realizada por el estudio [Cenlitros](https://www.cenlitros.com/), del que forma parte nuestro socio Xabier Rilo, para los Premios COAG 2025 celebrados en el Pazo de Congresos de Galicia el pasado mes de abril de 2025.
@@ -19,15 +17,14 @@ body:
 
       Felicidades también, por la parte que les toca, a los compañeros de Novagarda, creadores de la identidad gráfica de los Premios COAG 2025.
     type: text
-  -
-    list: ''
-    url: 'https://cesuga.com/premio-pino-de-galicia/'
-    text: 'Más info'
+  - list: ""
+    url: "https://cesuga.com/premio-pino-de-galicia/"
+    text: "Más info"
     type: button
-intro: 'El CESUGA acaba de premiar el trabajo de Cenlitros en la categoría de Diseño de Producto y Pequeña Escala en la III Edición del Premio Arquitectura en Madera Cesuga-Pino de Galicia.'
+intro: "El CESUGA acaba de premiar el trabajo de Cenlitros en la categoría de Diseño de Producto y Pequeña Escala en la III Edición del Premio Arquitectura en Madera Cesuga-Pino de Galicia."
 slug: la-escenografia-de-cenlitros-para-los-premios-coag-2025-premiada
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2025-07-16T10:58:27+00:00

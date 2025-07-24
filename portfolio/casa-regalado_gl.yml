@@ -1,9 +1,8 @@
 id: 122
-title: 'Casa Regalado'
+title: "Casa Regalado"
 slug: casa-regalado
 body:
-  -
-    text: |-
+  - text: |-
       A empresa familiar Casa Regalado leva anos producindo de xeito artesanal un mel de excelente calidade. Dar a coñecer este produto único, e estreitamente vinculado á terra merece unha pel que realce as virtudes desta «xoia real».
 
       O proxecto consiste na creación da identidade da empresa, baseada nun sistema tipográfico de logotipo e símbolo sobrio e elegante, e no deseño de envases: dúas presentacións de 600 e 90 gramos e un pack de tres unidades nos que a madeira e o propio mel transmiten a sensación de pureza.
@@ -12,61 +11,47 @@ body:
 
       Como colofón marca da «Casa», o selo de lacre é o garante de que este mel cumpre todos os requisitos de calidade e provén directamente das colmeas de Casa Regalado.
     type: text
-  -
-    image: /img/portfolio/images/56c9ef630e4ed-02-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9ef630e4ed-02-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9ef630e957-03-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9ef630e957-03-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9ef630eed9-04-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9ef630eed9-04-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9ef630f188-05-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9ef630f188-05-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9ef8e38c05-06-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9ef8e38c05-06-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9ef8e38dfd-07-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9ef8e38dfd-07-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9efb1a3f78-08-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9efb1a3f78-08-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9efb1a66ee-09-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9efb1a66ee-09-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9f01955b94-10-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9f01955b94-10-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9f01955fa9-11-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9f01955fa9-11-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9f0195626f-12-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9f0195626f-12-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9f01956502-13-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9f01956502-13-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9f01956799-14-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9f01956799-14-casa-regalado-enrique.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/56c9f03117440-15-casa-regalado-enrique.jpg
-    text: ''
+  - image: /img/portfolio/images/56c9f03117440-15-casa-regalado-enrique.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/56c9ef630ca1a-01-casa-regalado-enrique.jpg
 tags: []
@@ -74,10 +59,8 @@ members_id:
   - 46
 lang: gl
 info:
-  -
-    name: Escola
-    value: 'EASD Antonio Faílde'
-  -
-    name: Ano
+  - name: Escola
+    value: "EASD Antonio Faílde"
+  - name: Ano
     value: 2014/2015
 draft: false

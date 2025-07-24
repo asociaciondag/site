@@ -1,10 +1,9 @@
 id: 388
-title: 'Nave Nove'
+title: "Nave Nove"
 slug: nave-nove
 body:
-  -
-    image: /img/portfolio/images/foto-de-cnandoiglesias-mg-5108.jpg
-    text: ''
+  - image: /img/portfolio/images/foto-de-cnandoiglesias-mg-5108.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/foto-de-cnandoiglesias-mg-5108.jpg
 tags:

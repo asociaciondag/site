@@ -1,10 +1,9 @@
 id: 390
-title: 'Chilam Balam'
+title: "Chilam Balam"
 slug: chilam-balam
 body:
-  -
-    image: /img/portfolio/images/chilambalamvigo.jpg
-    text: ''
+  - image: /img/portfolio/images/chilambalamvigo.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/chilambalamvigo.jpg
 tags:

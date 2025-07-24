@@ -1,14 +1,12 @@
 id: 1258
-title: 'Así foi a 7ª Edición do FEED​ celebrado en Santiago os días 3 e 4 de novembro​'
+title: "Así foi a 7ª Edición do FEED​ celebrado en Santiago os días 3 e 4 de novembro​"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/foto-feed2023.jpg
-    text: 'Foto: Rubén Vilanova'
+    text: "Foto: Rubén Vilanova"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       As sedes principais deste ano volveron ser o CGAC e a Fundación Didac. A primeira para acoller as xornadas de tarde e a segunda para desenvolver os talleres formativos. Na liña das actividades desenvolvidas en anos anteriores ao longo dos últimos anos, a 7ª edición do FEED retomou os dous días de evento e serviu de punto de encontro para que os e as profesionais compartiran experiencias, satisfaceran a demanda de formación continua e propiciasen a reflexión e o debate interno na profesión.
 
       En canto á formación, realizáronse​ 2 obradoiros para un grupo de 20 persoas, que se desenvolveron na Fundación Didac. O obradoiro do venres 3 foi impartido por David Galar de Thru Motion, estudio de deseño con sede en Barcelona especializado en deseño gráfico animado que traballa para grandes marcas nacionais e internacionais. O obradoiro do sábado 4, sobre procesos e negocios de deseño, foi impartido por Marta Falcón, deseñadora de produto de formación, que foi evolucionando cara o deseño de procesos e servizos e que traballou para grandes corporacións no seu deseño interno.
@@ -23,20 +21,18 @@ body:
 
       Vémonos no FEED 2025!
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/feed2023/'
-    text: 'Web do FEED'
+  - list: ""
+    url: "https://dag.gal/feed2023/"
+    text: "Web do FEED"
     type: button
-  -
-    list: ''
-    url: 'https://www.flickr.com/photos/asociaciondag/albums/72177720312555030/page1'
-    text: 'Flickr do FEED 2023'
+  - list: ""
+    url: "https://www.flickr.com/photos/asociaciondag/albums/72177720312555030/page1"
+    text: "Flickr do FEED 2023"
     type: button
-intro: 'O pasado 3 e 4 de novembro a DAG citaba a profesionais, empresas e estudantes de deseño​​ a participar dos talleres, das conferencias e das presentacións de proxectos que se ofreceron nesta 7ª edición do Foro FEED en Santiago de Compostela.'
+intro: "O pasado 3 e 4 de novembro a DAG citaba a profesionais, empresas e estudantes de deseño​​ a participar dos talleres, das conferencias e das presentacións de proxectos que se ofreceron nesta 7ª edición do Foro FEED en Santiago de Compostela."
 slug: asi-foi-a-7-edicion-do-feed-celebrado-en-santiago-os-dias-3-e-4-de-novembro
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2023-11-15T09:23:00+00:00

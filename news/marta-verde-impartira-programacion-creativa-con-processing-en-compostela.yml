@@ -1,24 +1,21 @@
 id: 636
-title: 'Marta Verde impartirá programación creativa con processing en Compostela'
+title: "Marta Verde impartirá programación creativa con processing en Compostela"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/569fe17c3f5c3-processing-marta-verde.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Se trata de un taller de iniciación al processing, un lenguaje de código abierto e IDE que tuvo su inicio en 2001 en el MIT. Una de sus singularidades es que está desarrollado por y para artistas y diseñadores, y se trata, por tanto, de un acceso simple a la programación creativa con unas enormes posibilidades. Sus múltiples usos van desde la generación de gráficos en tiempo real, visualización de datos, aplicaciones de computer vision, control de sensores y actuadores (Arduino), etc.
 
       La actividad tendrá lugar los días 6 y 7 de febrero de 2016 en horario de 10 a 14 h y de 16 a 20 h en el espacio Unitaria en Santiago de Compostela.
     type: text
-  -
-    list: ''
-    url: 'http://escolaunitaria.com/2016/01/12/programacion-creativa-con-processing/'
-    text: 'Información e inscripciones'
+  - list: ""
+    url: "http://escolaunitaria.com/2016/01/12/programacion-creativa-con-processing/"
+    text: "Información e inscripciones"
     type: button
-intro: '[Marta Verde](http://www.martaverde.net/), nuestra ponente del pasado [FEED](https://dag.gal/gl/feed2015/) volverá a Galicia a principios de febrero para impartir un taller de programación creativa con processing.'
+intro: "[Marta Verde](http://www.martaverde.net/), nuestra ponente del pasado [FEED](https://dag.gal/gl/feed2015/) volverá a Galicia a principios de febrero para impartir un taller de programación creativa con processing."
 slug: marta-verde-impartira-programacion-creativa-con-processing-en-compostela
 tags: []
 lang: es

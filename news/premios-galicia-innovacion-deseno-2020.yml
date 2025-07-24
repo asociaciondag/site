@@ -1,14 +1,12 @@
 id: 1046
-title: 'Entrega dos Premios Galicia de Innovación e Deseño 2020'
+title: "Entrega dos Premios Galicia de Innovación e Deseño 2020"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premiosgalicia.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A cerimonia foi retransmitida en directo a través da canle de Youtube do [Programa Deseño para a Innovación](http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+2020), iniciativa na que se integra a convocatoria dos premios. Os Premios Galicia de Innovación e Deseño teñen como principal obxectivo recoñecer o labor de profesionais e empresas que contribúen ao desenvolvemento económico e social en Galicia a través da innovación e o deseño. Dende a Asociación Galega de Deseño celebramos esta iniciativa porque supón o recoñecemento do valor da nosa profesión e contribúe á súa visibilización como factor estratéxico.
 
       As gañadoras e gañadores desta primeira edición na sección de Deseño foron:
@@ -16,23 +14,23 @@ body:
       - Profesionais: Ricardo Tubío, Xabier Rilo e Javier Aliste do estudio Cenlitrosmetrocadrado.
       - Deseñadores/as mozos/as: Eva Yarza Hilario do estudio Yarza Twins.
       - Empresas (premio honorífico): Televés, pola incorporación do deseño á estratexia empresarial.
-       
+
       Aplaudimos ás persoas e empresas premiadas e trasladamos os nosos parabéns tamén ás finalistas:
 
       - Profesionais: Dani Bembibre e David Silvosa (Costa) e Antonio Parcero e Alberto R. Monteniel (Fruto DS).
       - Deseñadores/as mozos/as: Bea Lema Rivera e Sofía Blanco Santos.
       - Empresas: Bico de Xeado e D-Due.
-       
+
       Queremos felicitar especialmente aos nosos socios Ricardo Tubío, Xabier Rilo, Dani Bembibre e David Silvosa. E tamén a Manuel del Río, pola súa aportación na traxectoria do estudio Cenlitrosmetrocadrado.
 
       Na sección Innovación os galardóns foron para Francisco Guitián (director do Instituto de Cerámica de Galicia da USC) na categoría traxectoria innovadora, Marine Instruments na categoría de pemes, e Cupa Stone como gran empresa (premio honorífico).
 
       Agardamos que esta sexa a primeira de moitas outras edicións duns premios nos que o traballo dos e das profesionais do deseño recibe o recoñecemento da administración pública de Galicia.
     type: text
-intro: 'O pasado venres, 26 de febreiro, celebrouse a entrega de premios da primeira edición dos [Premios Galicia de Innovación e Deseño](http://gain.xunta.gal/artigos/437/premios+galicia+innovacion+deseno+2020), promovidos pola Xunta de Galicia a través da Axencia Galega de Innovación.'
+intro: "O pasado venres, 26 de febreiro, celebrouse a entrega de premios da primeira edición dos [Premios Galicia de Innovación e Deseño](http://gain.xunta.gal/artigos/437/premios+galicia+innovacion+deseno+2020), promovidos pola Xunta de Galicia a través da Axencia Galega de Innovación."
 slug: premios-galicia-innovacion-deseno-2020
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2021-03-01T11:38:27+00:00

@@ -1,14 +1,12 @@
 id: 592
-title: 'La DAG sigue creciendo'
+title: "La DAG sigue creciendo"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/560a6a81490ed-manuel-moital.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola, soy [Manuel Moital Davila](http://www.ellagrimal.com/), diseñador gráfico y web.
 
       Ahora me dedico principalmente a la usabilidad (UX/UI) web, haciendo que la interacción entre el usuario y la aplicación sea fácil y comprensible.
@@ -17,15 +15,14 @@ body:
 
       Un saludo para todos/as desde Bueu
     type: text
-  -
-    list: ''
-    url: 'http://dag.gal/es/manuel-moital-davila'
-    text: 'Perfil de socio'
+  - list: ""
+    url: "http://dag.gal/es/manuel-moital-davila"
+    text: "Perfil de socio"
     type: button
-intro: 'En la DAG estamos muy contentos, porque nada nos gusta más que anunciar la llegada de un nuevo socio. Se hace apenas unos días le dábamos la bienvenida a Laura Alonso, hoy toca recibir a un nuevo compañero. Su nombre es Manuel Moital Davila. Bienvenido!'
+intro: "En la DAG estamos muy contentos, porque nada nos gusta más que anunciar la llegada de un nuevo socio. Se hace apenas unos días le dábamos la bienvenida a Laura Alonso, hoy toca recibir a un nuevo compañero. Su nombre es Manuel Moital Davila. Bienvenido!"
 slug: la-dag-sigue-creciendo
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2015-09-29T12:40:01+00:00

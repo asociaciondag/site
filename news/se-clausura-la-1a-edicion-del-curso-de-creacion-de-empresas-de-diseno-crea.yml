@@ -1,11 +1,9 @@
 id: 397
-title: 'Se clausura la 1ª edición del Curso de creación de empresas de diseño (CREA)'
+title: "Se clausura la 1ª edición del Curso de creación de empresas de diseño (CREA)"
 body:
-  -
-    type: text
-    text: 'Este viernes 19 de octubre entre las 17.30 y las 19.30 h tendrá lugar el acto de clausura de la 1ª edición del **Curso de creación de empresas de diseño (CREA)** que se ha estado desarrollando desde marzo en Santiago de Compostela. Para ese día, además de la entrega de diplomas a los participantes, está prevista una presentación, abierta a todo el público, de los distintos proyectos y modelos de negocio en los que los alumnos han estado trabajando a lo largo de estos meses bajo la supervisión del profesorado de la [Escuela de Organización Industrial](http://www.eoi.es/portal/guest/inicio) (EOI), encargado de impartir el CREA. En la clausura, acompañando a los participantes, estarán [Juan Freire](http://www.juanfreire.net/), director del curso, y Alfonso Martínez, representante de la EOI en Galicia y cotutor de proyectos, y también el diseñador web Óscar Otero, quien acudirá enrepresentación da Asociación Galega de Deseñadores. El acto, al que puede asistir cualquier persona interesada, se celebrará en la [Galería Sargadelos](http://www.sargadelos.com/galerias/galeria.php?id=2&lg=gal), situada en la calle Nova, 16, de Santiago de Compostela.'
-  -
-    type: image
+  - type: text
+    text: "Este viernes 19 de octubre entre las 17.30 y las 19.30 h tendrá lugar el acto de clausura de la 1ª edición del **Curso de creación de empresas de diseño (CREA)** que se ha estado desarrollando desde marzo en Santiago de Compostela. Para ese día, además de la entrega de diplomas a los participantes, está prevista una presentación, abierta a todo el público, de los distintos proyectos y modelos de negocio en los que los alumnos han estado trabajando a lo largo de estos meses bajo la supervisión del profesorado de la [Escuela de Organización Industrial](http://www.eoi.es/portal/guest/inicio) (EOI), encargado de impartir el CREA. En la clausura, acompañando a los participantes, estarán [Juan Freire](http://www.juanfreire.net/), director del curso, y Alfonso Martínez, representante de la EOI en Galicia y cotutor de proyectos, y también el diseñador web Óscar Otero, quien acudirá enrepresentación da Asociación Galega de Deseñadores. El acto, al que puede asistir cualquier persona interesada, se celebrará en la [Galería Sargadelos](http://www.sargadelos.com/galerias/galeria.php?id=2&lg=gal), situada en la calle Nova, 16, de Santiago de Compostela."
+  - type: image
     image: /img/news/images/553e7aa26ea9a-clausura-crea.jpg
 intro: null
 slug: se-clausura-la-1a-edicion-del-curso-de-creacion-de-empresas-de-diseno-crea

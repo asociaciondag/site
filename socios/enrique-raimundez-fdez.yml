@@ -1,35 +1,31 @@
 id: 46
-contact: '<enrique@infinitocromia.com>'
+contact: "<enrique@infinitocromia.com>"
 links:
-  -
-    text: Web
-    url: 'http://www.infinitocromia.com/'
+  - text: Web
+    url: "http://www.infinitocromia.com/"
     type: link
-  -
-    text: Behance
-    url: 'https://www.behance.net/infinitocromia'
+  - text: Behance
+    url: "https://www.behance.net/infinitocromia"
     type: link
-  -
-    text: Twitter
-    url: 'https://twitter.com/Infinitocromia'
+  - text: Twitter
+    url: "https://twitter.com/Infinitocromia"
     type: twitter
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/infinitocromia'
+  - text: Facebook
+    url: "https://www.facebook.com/infinitocromia"
     type: facebook
-name: 'Enrique Raimúndez Fdez.'
+name: "Enrique Raimúndez Fdez."
 slug: enrique-raimundez-fdez
 avatarBig: null
 avatar: /img/avatars/56c755745ad6e-enrique-raimundez-fernandez.png
 tags:
   - Gráfico
   - Embalaxe
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Audiovisual
   - Editorial
   - Tipografía
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

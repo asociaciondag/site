@@ -1,35 +1,30 @@
 id: 104
-title: 'Hachedè Visual'
+title: "Hachedè Visual"
 slug: hachede-visual
 body:
-  -
-    text: |-
-      Deseño e desenvolvemento web para a produtora audiovisual lucense Hachedè visual.  
-       Interface formada a partir de estruturas baseadas no _tangram._ En cada cambio de apartado, prodúcese un cambio aleatorio na posición das figuras, co que se crea unha  
-       nova forma, e se apoia así o concepto creativo.  
-       Usando fotografías de fondo a pantalla completa (case todas  
-       pertencentes a paisaxes), os espazos abertos e a sensación de liberdade, están  
+  - text: |-
+      Deseño e desenvolvemento web para a produtora audiovisual lucense Hachedè visual.
+       Interface formada a partir de estruturas baseadas no _tangram._ En cada cambio de apartado, prodúcese un cambio aleatorio na posición das figuras, co que se crea unha
+       nova forma, e se apoia así o concepto creativo.
+       Usando fotografías de fondo a pantalla completa (case todas
+       pertencentes a paisaxes), os espazos abertos e a sensación de liberdade, están
        en sintonía coa filosofía de traballo da produtora.
 
       Seleccionada na Bid-10 (II bienal Iberoamericana de deseño). Premiada na categoría de deseño dixital, representando a España.
 
       <http://www.hachedevisual.com/>
     type: text
-  -
-    image: /img/portfolio/images/55a3cfd3505d1-01.jpg
-    text: ''
+  - image: /img/portfolio/images/55a3cfd3505d1-01.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55a3cfd350c22-02.jpg
-    text: ''
+  - image: /img/portfolio/images/55a3cfd350c22-02.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55a3cfd350f27-03.jpg
-    text: ''
+  - image: /img/portfolio/images/55a3cfd350f27-03.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/55a3cfd351308-04.jpg
-    text: ''
+  - image: /img/portfolio/images/55a3cfd351308-04.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55a3cf064d97b-portada.png
 tags:
@@ -41,13 +36,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Cliente
-    value: 'Hachedè Visual'
-  -
-    name: Ano
-    value: '2009'
-  -
-    name: Programación
-    value: 'Diego Vilariño'
+  - name: Cliente
+    value: "Hachedè Visual"
+  - name: Ano
+    value: "2009"
+  - name: Programación
+    value: "Diego Vilariño"
 draft: true

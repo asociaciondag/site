@@ -1,13 +1,11 @@
 id: 92
-title: 'Sabores e saberes'
+title: "Sabores e saberes"
 slug: sabores-e-saberes
 body:
-  -
-    text: 'Imaxe aplicada a carteis, papelaría, serigrafía de copos, programación do evento e sinalética.'
+  - text: "Imaxe aplicada a carteis, papelaría, serigrafía de copos, programación do evento e sinalética."
     type: text
-  -
-    image: /img/portfolio/images/5564c8b36b8cc-sabores-e-saberes.jpg
-    text: ''
+  - image: /img/portfolio/images/5564c8b36b8cc-sabores-e-saberes.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859c01926d0-5564c8b36b8cc-sabores-e-saberes.jpg
 tags: []
@@ -15,10 +13,8 @@ members_id:
   - 21
 lang: gl
 info:
-  -
-    name: Cliente
-    value: 'Central Folque / Concello de Vilagarcía'
-  -
-    name: Ano
-    value: '2010'
+  - name: Cliente
+    value: "Central Folque / Concello de Vilagarcía"
+  - name: Ano
+    value: "2010"
 draft: false

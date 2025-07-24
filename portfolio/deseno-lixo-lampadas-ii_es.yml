@@ -1,22 +1,18 @@
 id: 197
-title: 'Deseño&Lixo // Lámpadas II'
+title: "Deseño&Lixo // Lámpadas II"
 slug: deseno-lixo-lampadas-ii
 body:
-  -
-    text: '100% Basura (pasta de papel)'
+  - text: "100% Basura (pasta de papel)"
     type: text
-  -
-    image: /img/portfolio/images/5882418a56c51-bealema-05-1.jpg
-    text: ''
+  - image: /img/portfolio/images/5882418a56c51-bealema-05-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5879293e1bb18-bealema-05-2.jpg
-    text: ''
+  - image: /img/portfolio/images/5879293e1bb18-bealema-05-2.jpg
+    text: ""
     type: image
-  -
-    info:
+  - info:
       code: '<iframe src="https://player.vimeo.com/video/131234604" width="480" height="270" frameborder="0" title="UNITARIA Deseño &amp; Lixo-HD" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
-      ratio: ''
+      ratio: ""
     type: embed
 cover: /img/portfolio/covers/5879291330269-bealema-05-1.jpg
 tags: []

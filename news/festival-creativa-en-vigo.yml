@@ -1,26 +1,23 @@
 id: 1291
-title: 'Festival Creativa en Vigo'
+title: "Festival Creativa en Vigo"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/festival-creativa.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Diferentes espacios acogerán el completo de la programación: la Galería Maraca, el Museo MARCO y el espacio Évame Orza. Como novedad habrá un mercado gráfico de ilustración, diseño y autoedición que podrá visitarse durante la jornada del sábado.
 
       El festival reúne a artistas, profesionales del diseño y de la ilustración y, en esta ocasión, especialistas en IA. Así, podremos escuchar a Alba Meijide, al colectivo Boamistura, Eugenia Tenenbaun, Ricardo Cavolo, Carme López, Fantasmage, Flavita Banana y Ricardo Moya, y Nuria Díaz. Habrá también una mesa redonda donde participan nuestras compañeras, [María Ramos](http://www.marsidesino.com/) y [Noelia Estévez](https://estudio.desonhos.gal/es), junto con Lis M. Torrón, una exposición del ilustrador alemán Yeye Weller y charlas rápidas donde se presentan proyectos y artistas locales.
 
       La entrada es gratuita y el aforo limitado en algunas localizaciones.
     type: text
-  -
-    list: ''
-    url: 'https://dotgalicia.com/artistas-y-proyectos/'
-    text: 'Web Festival Creativa'
+  - list: ""
+    url: "https://dotgalicia.com/artistas-y-proyectos/"
+    text: "Web Festival Creativa"
     type: button
-intro: 'La segunda edición del Festival Creativa, organizado por Galería Maraca y Dot Galicia, ya está en marcha y podremos disfrutar de contenidos variados desde el viernes 19 hasta el domingo 21 de abril.'
+intro: "La segunda edición del Festival Creativa, organizado por Galería Maraca y Dot Galicia, ya está en marcha y podremos disfrutar de contenidos variados desde el viernes 19 hasta el domingo 21 de abril."
 slug: festival-creativa-en-vigo
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 658
-title: 'Taller de iniciación a la caligrafía en Unitaria'
+title: "Taller de iniciación a la caligrafía en Unitaria"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/56fe56ca3f713-unitaria-caligrafia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       **Impartido por:** Iván Caíña
 
       **Nivel:** Iniciación
@@ -27,12 +25,11 @@ body:
 
       **INSCRIPCIÓN:** llamando al 609 830 553 o enviando un e-mail con vuestros datos y los del taller en el que queréis participar a queroaprender@escolaunitaria.com
     type: text
-  -
-    list: ''
-    url: 'http://escolaunitaria.com/2016/02/04/caligrafia/'
-    text: 'Infórmate en Unitaria'
+  - list: ""
+    url: "http://escolaunitaria.com/2016/02/04/caligrafia/"
+    text: "Infórmate en Unitaria"
     type: button
-intro: 'Los asistentes podrán iniciarse en la técnica de la caligrafía con pincel. Empezarán practicando desde cero los trazos básicos de la caligrafía itálica para acabar el taller componiendo sus propios textos con soltura.'
+intro: "Los asistentes podrán iniciarse en la técnica de la caligrafía con pincel. Empezarán practicando desde cero los trazos básicos de la caligrafía itálica para acabar el taller componiendo sus propios textos con soltura."
 slug: taller-de-iniciacion-a-la-caligrafia-en-unitaria
 tags: []
 lang: es

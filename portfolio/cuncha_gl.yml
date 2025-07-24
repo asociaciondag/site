@@ -2,37 +2,30 @@ id: 137
 title: Cuncha
 slug: cuncha
 body:
-  -
-    text: |-
+  - text: |-
       Cuncha é unha cadeira completamente artesanal, informal, cálida e sorprendente. Ao lle dar a volta, encontrámonos cunha parte inferior oca, onde se agochan dúas cinchas que suporán o arranque para unha chea de situacións lúdicas.
 
       Quen non sentou nunha rocha a descansar e comezou a movérselle? Ese momento foi o punto de partida para comezar a desenvolver o produto. Porén, e para afastarnos dese símil "pétreo", centrámonos en revestir cunha "pel" o suficientemente cálida a nosa "coiraza" para que convidase a se sentar (e a manipular).
 
       A estrutura metálica interior queda semioculta grazas ao traballo artesanal de Idoia Cuesta, ao aplicar técnicas de cestería tradicionais reformuladas. O emprego de algodón trenzado reforza a mensaxe do produto.
     type: text
-  -
-    image: /img/portfolio/images/570f5349a83b6-cun003-perspectiva-inferior.jpg
-    text: ''
+  - image: /img/portfolio/images/570f5349a83b6-cun003-perspectiva-inferior.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f5349a8f63-cun003-perspectiva.jpg
-    text: ''
+  - image: /img/portfolio/images/570f5349a8f63-cun003-perspectiva.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f5349a90c0-cuncha-composicion-1.jpg
-    text: ''
+  - image: /img/portfolio/images/570f5349a90c0-cuncha-composicion-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f5349a91fb-cuncha-composicion-2.jpg
-    text: ''
+  - image: /img/portfolio/images/570f5349a91fb-cuncha-composicion-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f5349a933a-cuncha-detalle-2.jpg
-    text: ''
+  - image: /img/portfolio/images/570f5349a933a-cuncha-detalle-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f6447ed295-cun003-detalle.jpg
-    text: ''
+  - image: /img/portfolio/images/570f6447ed295-cun003-detalle.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/570f5349a7dd6-cun003-detalle.jpg
 tags: []

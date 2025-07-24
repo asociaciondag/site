@@ -2,29 +2,24 @@ id: 134
 title: Marela
 slug: marela
 body:
-  -
-    text: |-
+  - text: |-
       Marela é o nome da nai vaca que atende con dedicación e esmero aos seus cuxos. Camiñar mirando ao chan e con paso firme é fundamental para a súa aprendizaxe (aínda que iso supoña facer máis ruído do normal).
 
       Dise que a familia que medra unida permanece unida. A madeira é cálida, natural e duradeira, como os lazos familiares. Esta idea reflíctese nos materiais e os acabados desta familia sobre rodas.
 
       A colaboración co irreverente ilustrador Alberto Guitián ponse de manifesto nos pequenos detalles distintivos destes adorables bóvidos, como o "orificio posterior de escape" ou as "rodas tractoreñas".
     type: text
-  -
-    image: /img/portfolio/images/570f55828290e-marela-composicion-1.jpg
-    text: ''
+  - image: /img/portfolio/images/570f55828290e-marela-composicion-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f558282be0-marela-composicion-2.jpg
-    text: ''
+  - image: /img/portfolio/images/570f558282be0-marela-composicion-2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f63ac27f95-mar001-forntal.jpg
-    text: ''
+  - image: /img/portfolio/images/570f63ac27f95-mar001-forntal.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/570f558282f16-marela-vista-posterior.jpg
-    text: ''
+  - image: /img/portfolio/images/570f558282f16-marela-vista-posterior.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/570f6384e4778-marela-composicion-1.jpg
 tags: []

@@ -1,33 +1,28 @@
 id: 1111
-title: 'Dos piezas de Desescribir seleccionadas en los premios anuales del Tokyo Type Directors Club'
+title: "Dos piezas de Desescribir seleccionadas en los premios anuales del Tokyo Type Directors Club"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/bdcdc01a-cb45-4e90-978b-62f139385f06.jpeg
-    text: 'Cartel de la película Ons. Foto de Desescribir'
+    text: "Cartel de la película Ons. Foto de Desescribir"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los Tokyo TDC Annual Awards son unos premios de prestigio internacional que se celebran desde 1990. Valoran trabajos donde prima la expresión visual y las letras y las palabras toman el protagonismo. Entre los ganadores de las últimas ediciones están estudios como OK-RM de Londres o M/M de París. A mediados de este mes de enero se comunicará la selección final del jurado.
 
       El libro «Iremos al sol/Towards the sun», que diseñaron y editaron para Fabulatorio, está coeditado con el​​ Museo Patio Herreriano de Valladolid y fue publicado con motivo de la exposición que, bajo el mismo nombre, tuvo lugar en ese museo del 19 de septiembre de 2020 al 17 de enero de 2021. Su autora, Regina Giménez, es una artista contemporánea de renombre tanto a nivel nacional como internacional, que trabaja elementos extraidos de su contexto natural para reinterpretarlos con diferentes técnica​s.​ ​Por otro lado, el cartel de la película ONS, de Alfonso Zarauza, una de las grandes triunfadoras de los Premios Mestre Mateo 2021, ya fue premiado con un Laus de Bronce ​el año pasado.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/7.jpg
-    text: 'Libro «Iremos al sol». Foto de Desescribir'
+    text: "Libro «Iremos al sol». Foto de Desescribir"
     mode: normal
     type: image
-  -
-    text: '[Fabulatorio](http://fabulatorio.org/categoria_publicacions/publicacions/) es la editora independiente que los compañeros de la DAG crearon en​​ 2012, centrada en proyectos sobre arte, diseño y cultura visual. Este libro forma parte de la colección Somnámbulo Funámbulo, piezas editadas en cooperación con museos, instituciones, colectivos o personas individuales. No es la primera vez que sus trabajos están nominados​ a premios de alcance internacional.'
+  - text: "[Fabulatorio](http://fabulatorio.org/categoria_publicacions/publicacions/) es la editora independiente que los compañeros de la DAG crearon en​​ 2012, centrada en proyectos sobre arte, diseño y cultura visual. Este libro forma parte de la colección Somnámbulo Funámbulo, piezas editadas en cooperación con museos, instituciones, colectivos o personas individuales. No es la primera vez que sus trabajos están nominados​ a premios de alcance internacional."
     type: text
-  -
-    list: ''
-    url: 'https://tokyotypedirectorsclub.org'
-    text: 'Web Tokyo TDC'
+  - list: ""
+    url: "https://tokyotypedirectorsclub.org"
+    text: "Web Tokyo TDC"
     type: button
-intro: 'Los socios Suso Vázquez y Cibrán Rico, del estudio [Desescribir](http://desescribir.com/), están de enhorabuena por la reciente nominación del libro «Iremos al Sol/Towards the sun» de Regina Giménez y del cartel diseñado para la película ONS, como finalistas dos Premios Tokyo Type Directors Club'
+intro: "Los socios Suso Vázquez y Cibrán Rico, del estudio [Desescribir](http://desescribir.com/), están de enhorabuena por la reciente nominación del libro «Iremos al Sol/Towards the sun» de Regina Giménez y del cartel diseñado para la película ONS, como finalistas dos Premios Tokyo Type Directors Club"
 slug: dos-piezas-desescribir-seleccionadas-en-los-premios-tdc
 tags: []
 lang: es

@@ -1,10 +1,9 @@
 id: 342
-title: 'Cervezas 1906'
+title: "Cervezas 1906"
 slug: cervezas1906
 body:
-  -
-    image: /img/portfolio/images/cervezas-1906.png
-    text: ''
+  - image: /img/portfolio/images/cervezas-1906.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/cervezas-1906.png
 tags:

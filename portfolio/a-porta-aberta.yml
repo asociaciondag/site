@@ -1,10 +1,9 @@
 id: 305
-title: 'A Porta Aberta'
+title: "A Porta Aberta"
 slug: a-porta-aberta
 body:
-  -
-    image: /img/portfolio/images/aportaaberta.jpg
-    text: ''
+  - image: /img/portfolio/images/aportaaberta.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/aportaaberta.jpg
 tags:

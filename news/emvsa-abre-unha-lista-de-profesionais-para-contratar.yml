@@ -1,26 +1,23 @@
 id: 655
-title: 'EMVSA abre unha lista de profesionais para contratar'
+title: "EMVSA abre unha lista de profesionais para contratar"
 body:
-  -
-    text: |-
+  - text: |-
       A lista que se constituirá terá unha vixencia de doce meses prorrogables. Nela poderán apuntarse persoas, sociedades ou colectivos profesionais, así como asociacións, con capacidade para seren adxudicatarios de contratos de prestación de servizos de Arquitectura; Arquitectura Técnica; Enxeñaría de Camiños, Canles e Portos; Enxeñaría de Obras Públicas e Deseño Gráfico e de Produto.
 
       Os profesionais interesados en formar parte desta lista deben remitir ao enderezo de correo electrónico <bolsatraballo@emvsa.es> no prazo máximo de dez días desde a data da publicación do anuncio das bases no Boletín Oficial da Provincia (BOP) a seguinte documentación:
 
       - Curriculum vitae europeo, cun máximo de dúas caras
       - Portfolio de máximo oito caras
-       
+
       Desde a DAG celebramos que as administracións públicas comecen a pór en práctica métodos de contratación de servizos de deseño máis transparentes e acordes coas demandas que desde a asociación levamos tempo formulando
     type: text
-  -
-    list: ''
-    url: 'http://www.emvsa.es/images/files/1_Bases%20bolsas%20de%20traballo.pdf'
-    text: 'Bases da convocatoria'
+  - list: ""
+    url: "http://www.emvsa.es/images/files/1_Bases%20bolsas%20de%20traballo.pdf"
+    text: "Bases da convocatoria"
     type: button
-  -
-    text: 'A infomación actualizada relativa a todo proceso pode seguirse na web de [EMVSA](http://www.emvsa.es/index.php?option=com_content&view=article&id=58%3Aconvocatoria-de-bolsas-profesionais&catid=5%3Aperfil-del-contratante&Itemid=12&lang=en)'
+  - text: "A infomación actualizada relativa a todo proceso pode seguirse na web de [EMVSA](http://www.emvsa.es/index.php?option=com_content&view=article&id=58%3Aconvocatoria-de-bolsas-profesionais&catid=5%3Aperfil-del-contratante&Itemid=12&lang=en)"
     type: text
-intro: 'EMVSA, a empresa municipal da vivenda do Concello da Coruña que asume as funcións que teñen que ver coa facilitación de vivendas para os colectivos en risco e actúa como oficina de mediación e asesoramento en temas de habitabilidade, acaba de abrir unha convocatoria para elaborar unha lista de profesionais para contratar.'
+intro: "EMVSA, a empresa municipal da vivenda do Concello da Coruña que asume as funcións que teñen que ver coa facilitación de vivendas para os colectivos en risco e actúa como oficina de mediación e asesoramento en temas de habitabilidade, acaba de abrir unha convocatoria para elaborar unha lista de profesionais para contratar."
 slug: emvsa-abre-unha-lista-de-profesionais-para-contratar
 tags: []
 lang: gl

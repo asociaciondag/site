@@ -1,21 +1,19 @@
 id: 969
-title: 'READ celebra su Asamblea General Anual en Ávila'
+title: "READ celebra su Asamblea General Anual en Ávila"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/asamblearead2020.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Como viene siendo habitual el programa de la Asamblea incluye una serie de actividades que complementan las reuniones y las mesas de trabajo. El objetivo es servir de punto de encuentro para compartir problemáticas, identificar oportunidades, y definir las prioridades para este año.
 
       El encuentro tendrá lugar el próximo viernes 28 por la tarde y terminará el domingo a mediodía. Esta asamblea permitirá avanzar en los proxectos que ya están en marcha y establecer dinámicas de trabajo que permitan abordar otros asuntos pendientes. Las y los representantes de las asociaciones que trabajan y coordinan la actividad de READ desempeñan sus funciones durante todo el ano a través de vídeo-reuniones y trabajo colaborativo. En esta ocasión podrán trabajar de manera presencial para concentrar esfuerzos y agilizar procesos.
 
       El lugar escogido por la organización para la Asamblea es un hotel rural situado a orillas del embalse de El Burguillo, frente a la Reserva Natural del Valle de Iruelas. Un lugar tranquilo ubicado a medio camiño para la mayoría de asociaciones, que buscar servir de espacio para la reflexión, la confrontación de ideas y la toma de decisiones.
     type: text
-intro: 'Una veintena de delegados y delegadas de las asociaciones pertenecientes a la Red Española de Asociaciones de Diseño asistirán el próximo fin de semana a su Asamblea General, que este año tendrá lugar en la provincia de Ávila.'
+intro: "Una veintena de delegados y delegadas de las asociaciones pertenecientes a la Red Española de Asociaciones de Diseño asistirán el próximo fin de semana a su Asamblea General, que este año tendrá lugar en la provincia de Ávila."
 slug: asamblea-general-read
 tags: []
 lang: es

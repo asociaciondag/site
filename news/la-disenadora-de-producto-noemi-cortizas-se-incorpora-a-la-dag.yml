@@ -1,14 +1,12 @@
 id: 906
-title: 'La diseñadora de producto Noemí Cortizas se incorpora a la DAG'
+title: "La diseñadora de producto Noemí Cortizas se incorpora a la DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/imaxe-noemi-cortizas.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Hola,
 
       Soy Noemí, una diseñadora industrial afincada en Francia. De base he cursado una ingeniería mecánica, pero siempre me ha gustado la innovación y el diseño para las personas. Por eso acabé haciendo una formación de este tipo en una escuela en París, donde vivo.
@@ -19,15 +17,14 @@ body:
 
       Gracias por acogerme y espero poder intercambiar ideas y colaborar en este bonito proyecto con todos vosotros.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/noemi-cortizas/'
-    text: 'Perfil de Noemí Cortizas na DAG'
+  - list: ""
+    url: "https://dag.gal/gl/noemi-cortizas/"
+    text: "Perfil de Noemí Cortizas na DAG"
     type: button
-intro: 'Si hace unos días presentábamos al nuevo socio de la DAG, Roberto Núñez, hoy es el turno de Noemí, una ingeniera industrial afincada en Francia y que en los últimos tiempos ha reorientado sus pasos hacia el CMF design.'
+intro: "Si hace unos días presentábamos al nuevo socio de la DAG, Roberto Núñez, hoy es el turno de Noemí, una ingeniera industrial afincada en Francia y que en los últimos tiempos ha reorientado sus pasos hacia el CMF design."
 slug: la-disenadora-de-producto-noemi-cortizas-se-incorpora-a-la-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-07-03T12:36:22+00:00

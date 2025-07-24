@@ -1,15 +1,13 @@
 id: 28
-title: 'A DAG organiza o primero Pecha Kucha galego'
+title: "A DAG organiza o primero Pecha Kucha galego"
 body:
-  -
-    text: 'Ponse en marcha a organización do PECHA KUCHA NIGHT, o 10 de xullo en Pontevedra, seguidelle o rastro…'
+  - text: "Ponse en marcha a organización do PECHA KUCHA NIGHT, o 10 de xullo en Pontevedra, seguidelle o rastro…"
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a96287c9-greetingsact.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Pontevedra acollerá a primeira edición dunha PECHA KUCHA NIGHT en Galicia'
+intro: "Pontevedra acollerá a primeira edición dunha PECHA KUCHA NIGHT en Galicia"
 slug: a-dag-organiza-o-primero-pecha-kucha-galego
 tags: []
 lang: gl

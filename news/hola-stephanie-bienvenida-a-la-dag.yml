@@ -1,14 +1,12 @@
 id: 1287
-title: '¡Hola Stephanie, bienvenida a la DAG!'
+title: "¡Hola Stephanie, bienvenida a la DAG!"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/stephanie-wurm.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Nací en Austria y pasé muchos años en Barcelona, una ciudad que me enriqueció profesional y personalmente. Durante mi tiempo allí, me especialicé en diseño de branding y _packaging_. Para mí, un buen diseño no solo debe ser estéticamente agradable, sino también funcional y capaz de adaptarse a nuevos retos de la empresa.
 
       Después de casi dos décadas en Barcelona, mi marido Xaime y yo decidimos iniciar una nueva etapa en Galicia (sí, fue una huída pandémica en toda regla.) Bajo el nombre[ wurm aneiros](http://wurmaneiros.com/) colaboramos con agencias, otros estudios o trabajamos directamente con clientes tanto locales como nacionales. También formo parte de[ Brandbuch](https://brandbuch.com/), lo cual me permite trabajar con equipos multinacionales e interdisciplinares.
@@ -17,10 +15,10 @@ body:
 
       Me apunté a la DAG para formar parte del tejido del diseño en Galicia y poder conectar con otras diseñadoras.
     type: text
-intro: 'Presentamos a Stephanie Wurm, diseñadora austríaca asentada en el rural gallego y especalizada en el diseño de marcas y embalaje. Tiene ganas de participar de la DAG y formar parte del tejido del diseño de nuestra comunidad. ¡Benvenida!'
+intro: "Presentamos a Stephanie Wurm, diseñadora austríaca asentada en el rural gallego y especalizada en el diseño de marcas y embalaje. Tiene ganas de participar de la DAG y formar parte del tejido del diseño de nuestra comunidad. ¡Benvenida!"
 slug: hola-stephanie-bienvenida-a-la-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2024-04-08T09:27:02+00:00

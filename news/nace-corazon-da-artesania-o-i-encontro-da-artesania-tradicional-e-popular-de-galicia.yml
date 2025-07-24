@@ -1,16 +1,14 @@
 id: 376
-title: 'Nace Corazón da Artesanía, o I Encontro da Artesanía Tradicional e Popular de Galicia'
+title: "Nace Corazón da Artesanía, o I Encontro da Artesanía Tradicional e Popular de Galicia"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Os Pendellos en Agolada acollerán entre o 6 e 8 de xullo de 2012 [Corazón da Artesanía, o I Encontro da Artesanía Tradicional e Popular de Galicia](http://artesaniadegalicia.xunta.es/actualidad/noticias/coraz-n-da-artesan-a-i-encontro-da-artesan-a-tradicional-e-popular-de-galicia). O encontro, que se celebra nun dos recintos feirais de orixe medieval mellor conservados, está concibido como unha feira sobre os oficios artesanais e a cultura tradicional. Alí estarán representados moitos dos oficios: a olaría, os instrumentos musicais, a forxa, o téxtil tradicional, o coiro, a elaboración de zocos, a cestaría, etc., poderanse degustar e comprar produtos de agricultura ecolóxica, conservas artesanais, augardentes e licores... e visitar as exposicións temáticas e demostracións dos artesáns e artesás.
 
       Ademais da feira, o programa inclúe unha conferencia e mais un obradoiro a cargo do deseñador [Martín Azúa](http://www.martinazua.com/cas/inicio/). A conferencia, que leva por título: **Artesanía-deseño, unha historia para contar**, celebrarase o 6 de xullo na sala multidisciplinar do Encontro. No caso do obradoiro **Procesos compartidos**, as datas previstas para a súa realización son o 7 e 8 de xullo e ofértanse 30 prazas. O obradoiro está dirixido a artesáns, deseñadores e arquitectos e, nel, Martín Azúa centrarase en dous dos oficios tradicionais: o torneado en madeira e a cerámica.
 
       A inscrición no obradoiro ten un custo de 60 euros e pode facerse a través da páxina web [artesaniadegalicia.org](http://artesaniadegalicia.xunta.es/) na sección de Actualidade &gt; Formación
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa1c5835-corazon-da-artesania.jpg
 intro: null
 slug: nace-corazon-da-artesania-o-i-encontro-da-artesania-tradicional-e-popular-de-galicia

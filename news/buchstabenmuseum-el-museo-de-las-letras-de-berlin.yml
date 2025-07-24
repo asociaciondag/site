@@ -1,35 +1,31 @@
 id: 128
-title: 'Buchstabenmuseum: El museo de las letras de Berlín'
+title: "Buchstabenmuseum: El museo de las letras de Berlín"
 body:
-  -
-    text: |-
+  - text: |-
       Fundado en 2005 por Barbara Dechant y Anja Schulze, su colección está formada por una infinidad de letras, rótulos tipográficos, letreros de la calle y todas aquellas manifestaciones tipográficas rescatadas de las calles de Berlín y alrdedores. La filosofía del museo se basa en el objeto letra como semiótica textual y comunicación escrita, por lo tanto, cualquier letra, artesanal o industrial que realiza una función de comunicación en el entorno de la vida del hombre es bien recibida en sus salas. El museo funciona como centro de reciclaje a la vez que realiza una labor de recuperación de la memoria histórica ante la homogeneización del paisaje gráfico de las ciudades que impone el fenómeno de la globalización. La desterritorialización del diseño de las grandes multinacionales está provocando la impersonalización de la identidad gráfica de pequeñas tiendas que poco a poco están desapareciendo.
 
       En estos momentos el museo está realizando una labor de ampliación en su reciclaje de letras a otros países, así que si tienes localizado un viejo rótulo o una letra abandonada, quizá pueda formar parte de un museo.
 
-      **Buchstabenmuseum**  
-       Berlin 2005-2010  
-       Vereinsregister 25064 NZ  
-       Amtsgericht Charlottenburg  
-       Steuernummer 27/648/51071  
+      **Buchstabenmuseum**
+       Berlin 2005-2010
+       Vereinsregister 25064 NZ
+       Amtsgericht Charlottenburg
+       Steuernummer 27/648/51071
        [www.buchstabenmuseum.de](http://www.buchstabenmuseum.de/)
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a996156b-letra1.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a996156b-letra2.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a996156b-letra3.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'En el centro de Berlín, cerca de la famosa plaza Alexanderplatz, se encuentra el **Buchstabenmuseum** (Museo de las letras, caracteres y tipografías).'
+intro: "En el centro de Berlín, cerca de la famosa plaza Alexanderplatz, se encuentra el **Buchstabenmuseum** (Museo de las letras, caracteres y tipografías)."
 slug: buchstabenmuseum-el-museo-de-las-letras-de-berlin
 tags: []
 lang: es

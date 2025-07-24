@@ -2,9 +2,8 @@ id: 339
 title: Zendal
 slug: zendal
 body:
-  -
-    image: /img/portfolio/images/zendal-awards.jpg
-    text: ''
+  - image: /img/portfolio/images/zendal-awards.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/zendal-awards.jpg
 tags:

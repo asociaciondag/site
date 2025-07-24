@@ -1,24 +1,21 @@
 id: 795
-title: 'Marca en tu agenda la exposición Camilo Díaz Baliño: la genialidad truncada'
+title: "Marca en tu agenda la exposición Camilo Díaz Baliño: la genialidad truncada"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/diazbalino.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La programación conmemorativa ha incluido la creación de una web (<http://www.diadailustracion.gal/>) y también de un vídeo (<https://www.youtube.com/watch?v=aHPHqfd0T6Y>) sobre la figura homenajeada, pero aquí queremos destacar una actividad que está teniendo lugar en estos momentos en la Biblioteca de Galicia da Cidade da Cultura y en la que aun estáis a tiempo de participar. Se trata de la exposición [Camilo Díaz Baliño: a xenialidade truncada](http://www.cidadedacultura.gal/gl/evento/camilo-diaz-balino-xenialidade-truncada), comisariada por Daniel Buján y Elena Díaz, y que reúne 54 piezas que permiten acercarse a la trayectoria profesional y vital de Díaz Baliño y conocer sus diversas facetas de escenógrafo, de pintor y de ilustrador de publicaciones periódicas y de libros, proyectos, muchos de ellos, impulsados al amparo de las Irmandades da Fala, organización en la que ingresa en 1918.
 
       La exposición, que es gratuita, permanecerá abierta hata el 7 marzo de 2018 en horario de 08.00 a 20.00h en la Biblioteca y Archivo de Galicia.
     type: text
-  -
-    list: ''
-    url: 'http://www.diadailustracion.gal/'
-    text: 'Camilo Díaz Baliño en el site del Día de la Ilustración'
+  - list: ""
+    url: "http://www.diadailustracion.gal/"
+    text: "Camilo Díaz Baliño en el site del Día de la Ilustración"
     type: button
-intro: 'Desde hace dos años y, por iniciativa de la AGPI, el Día de la Ilustración viene homenajeando a un gran ilustrador gallego que merece ser redescubierto por las nuevas generaciones. Este año, la figura elegida ha sido Camilo Díaz Baliño, quien, además de pintor, ilustrador, escenógrafo, ha sido también uno de los pioneros del diseño en Galicia.'
+intro: "Desde hace dos años y, por iniciativa de la AGPI, el Día de la Ilustración viene homenajeando a un gran ilustrador gallego que merece ser redescubierto por las nuevas generaciones. Este año, la figura elegida ha sido Camilo Díaz Baliño, quien, además de pintor, ilustrador, escenógrafo, ha sido también uno de los pioneros del diseño en Galicia."
 slug: marca-en-tu-agenda-la-exposicion-camilo-diaz-balino-la-genialidad-truncada
 tags: []
 lang: es

@@ -1,14 +1,12 @@
 id: 861
-title: 'ADG-FAD abre la convocatoria de inscripciones para participar en la 49ª edición de los premios ADG Laus de Diseño Gráfico y Comunicación Visual'
+title: "ADG-FAD abre la convocatoria de inscripciones para participar en la 49ª edición de los premios ADG Laus de Diseño Gráfico y Comunicación Visual"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/twitter-facebook-post.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Este año contarán con un jurado de reconocidos profesionales nacionales e internacionales del sector como Sascha Lobe ([Pentagram](https://www.pentagram.com/)), Daan Lucas ([Random Studio](https://random.studio/)), Iria López ([Wednesday](http://www.wearewednesday.com/)), David McFarline ([Commission](http://commission.studio/)), Monse Garcia ([SeriesNemo](http://www.seriesnemo.com/)), Biel Capllonch ([Biel Capllonch](http://www.bielcapllonch.com/)), Laura Messeguer ([Laura Messeguer](http://www.laurameseguer.com/)), Mireia Ruiz ([Cocolia](http://www.cocolia.cat/)) y Marta Cerdà ([Marta Cerdà](http://www.martacerda.com/)), entre otros
 
       Los premios ADG Laus de Diseño Gráfico y Comunicación Visual se otorgan con el objetivo de reconocer la excelencia en la comunicación gráfica. Son los premios de diseño gráfico de referencia y de mayor prestigio del Estado español, la celebración del grafismo que se ha convertido en una referencia esencial para conocer las propuestas creativas relevantes del año. Los ADG Laus son un trampolín para los estudiantes y diseñadores emergentes, la consagración de los profesionales y el reconocimiento a las empresas e instituciones que invierten en diseño. Los ADG Laus son también una inapelable herramienta de divulgación y participar es un ejercicio de promoción inestimable para cualquier diseñador gráfico o director de arte. Todas estas razones hacen de los ADG Laus los premios que dan reconocimiento y visibilidad al trabajo de los grafistas.
@@ -21,12 +19,11 @@ body:
 
       El plazo de inscripción permanecerá abierto hasta el 10 de febrero. **Por ser la DAG una asociación amiga de la ADG-FAD, todos sus socios tienen un 15% de descuento en el precio de la inscripción.**
     type: text
-  -
-    list: ''
-    url: 'https://www.adg-fad.org/es/laus/premios'
-    text: 'Bases e inscripciones en los LAUS 2019'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premios"
+    text: "Bases e inscripciones en los LAUS 2019"
     type: button
-intro: 'La Asociación de Diseñadores Gráficos y Directores de Arte del FAD (ADG-FAD) da el pistoletazo de salida a la 49ª edición de los premios ADG Laus para los profesionales del grafismo, la publicidad y la comunicación visual, que podrán inscribir sus mejores trabajos desde el 7 de enero hasta el 10 de febrero de 2019.'
+intro: "La Asociación de Diseñadores Gráficos y Directores de Arte del FAD (ADG-FAD) da el pistoletazo de salida a la 49ª edición de los premios ADG Laus para los profesionales del grafismo, la publicidad y la comunicación visual, que podrán inscribir sus mejores trabajos desde el 7 de enero hasta el 10 de febrero de 2019."
 slug: adg-fad-abre-la-convocatoria-de-inscripciones-para-participar-en-la-49a-edicion-de-los-premios-adg-laus-de-diseno-grafico-y-comunicacion-visual
 tags: []
 lang: es

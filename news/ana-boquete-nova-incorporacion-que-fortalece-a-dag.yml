@@ -1,14 +1,12 @@
 id: 1080
-title: 'Ana Boquete, unha nova incorporación que fortalece a DAG '
+title: "Ana Boquete, unha nova incorporación que fortalece a DAG "
 body:
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/foto-ana.jpg
-    text: ''
+    text: ""
     mode: right
     type: image
-  -
-    text: |-
+  - text: |-
       Ola!
 
       Son Ana, deseñadora UX.
@@ -23,15 +21,14 @@ body:
 
       Grazas por acollerme!
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/ana-boquete/'
-    text: 'Perfil de Ana Boquete'
+  - list: ""
+    url: "https://dag.gal/gl/ana-boquete/"
+    text: "Perfil de Ana Boquete"
     type: button
-intro: 'Iniciamos a semana con boas novas, sumamos unha nova socia. Ana Boquete incorpórase á Asociación Galega de Deseño para aportar e colaborar no avance e mellora do deseño galego, como colectivo, como profesión, e tamén como parte importante do sistema educativo e da nosa historia. Nos vindeiros meses compartirá con nós parte da información recompilada na súa investigación sobre a historia da prensa galega. Xa podedes ler o [primeiro artigo introdutorio](https://dag.gal/gl/o-deseno-na-historia-da-prensa-galega/).'
+intro: "Iniciamos a semana con boas novas, sumamos unha nova socia. Ana Boquete incorpórase á Asociación Galega de Deseño para aportar e colaborar no avance e mellora do deseño galego, como colectivo, como profesión, e tamén como parte importante do sistema educativo e da nosa historia. Nos vindeiros meses compartirá con nós parte da información recompilada na súa investigación sobre a historia da prensa galega. Xa podedes ler o [primeiro artigo introdutorio](https://dag.gal/gl/o-deseno-na-historia-da-prensa-galega/)."
 slug: ana-boquete-nova-incorporacion-que-fortalece-a-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2021-08-23T11:27:54+00:00

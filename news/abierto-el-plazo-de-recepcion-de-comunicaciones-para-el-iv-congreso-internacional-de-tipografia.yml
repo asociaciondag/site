@@ -1,8 +1,7 @@
 id: 69
-title: 'Abierto el plazo de recepción de comunicaciones para el IV Congreso Internacional de Tipografía'
+title: "Abierto el plazo de recepción de comunicaciones para el IV Congreso Internacional de Tipografía"
 body:
-  -
-    text: |-
+  - text: |-
       Bases para la presentación de comunicaciones para el 4º Congreso Internacional de Tipografía
 
       La convocatoria está abierta a diseñadores, estudiantes, investigadores y académicos que pueden presentar sus trabajos, ya sean de aplicación práctica o artículos de investigación, de acuerdo a las áreas temáticas del Congreso.
@@ -29,12 +28,11 @@ body:
 
       Estas y otras muchas cuestiones se abordarán en el IV Congreso Internacional de Tipografía, dedicado en esta convocatoria al dibujo y su relación con la letra.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a98310c6-cabecera.gif
-    text: ''
+    text: ""
     type: image
-intro: 'En marcha el 4º Congreso de Tipografía bajo el título “La letra dibujada” Valencia. Junio 2010'
+intro: "En marcha el 4º Congreso de Tipografía bajo el título “La letra dibujada” Valencia. Junio 2010"
 slug: abierto-el-plazo-de-recepcion-de-comunicaciones-para-el-iv-congreso-internacional-de-tipografia
 tags: []
 lang: es

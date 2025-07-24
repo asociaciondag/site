@@ -1,13 +1,11 @@
 id: 264
-title: 'Cartaz Implicadas'
+title: "Cartaz Implicadas"
 slug: cartaz-implicadas
 body:
-  -
-    text: 'Cartel realizado para la ONG Implicadas no Desenvolvemento.'
+  - text: "Cartel realizado para la ONG Implicadas no Desenvolvemento."
     type: text
-  -
-    image: /img/portfolio/images/implicadas.jpg
-    text: ''
+  - image: /img/portfolio/images/implicadas.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/implicadas.jpg
 tags: []

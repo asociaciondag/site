@@ -1,14 +1,12 @@
 id: 1419
-title: 'Premios Nacionales de Diseño 2025'
+title: "Premios Nacionales de Diseño 2025"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/image-premios-nacionales-2025.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los Premios se dividen en dos grandes categorías, la de diseño y la de innovación, y dentro de cada una de ellas encontramos cuatro modalidades. En esta edición, el jurado de la categoría de diseño, presidido por la secretaria General de Innovación, Teresa Riesgo Alcaide, y formado por Leticia Sastre Sánchez, Héctor Serrano Barbeta, Manuel Blanco Lage, Cristina Busquets Morales, Ariel Guersenzvaig e Ignacio García Fenoll como secretario, premió a:
 
       **Patricia Urquiola en la modalidad de Trayectoria en Diseño**, como figura indiscutible del diseño español a escala internacional con una carrera excepcional transformando el diseño contemporáneo, además de su contribución a su difusión en el resto del mundo. Su trabajo está caracterizado por la fusión de innovación tecnológica, una sensibilidad artesanal y el compromiso con la sostenibilidad, renovando profundamente la visión del diseño del siglo XXI con un enfoque humanista, experimental y social.
@@ -23,7 +21,7 @@ body:
 
       ¡Felicidades!
     type: text
-intro: 'Estos galardones distinguen a profesionales y entidades que integran el diseño en su estrategia de crecimiento y desarrollo empresarial. En esta edición, Patricia Urquiola, Diego Areso, Miguel Leiro y la empresa Viccarbe Habitat fueron las premiadas.'
+intro: "Estos galardones distinguen a profesionales y entidades que integran el diseño en su estrategia de crecimiento y desarrollo empresarial. En esta edición, Patricia Urquiola, Diego Areso, Miguel Leiro y la empresa Viccarbe Habitat fueron las premiadas."
 slug: premios-nacionales-de-diseno-2025
 tags: []
 lang: es

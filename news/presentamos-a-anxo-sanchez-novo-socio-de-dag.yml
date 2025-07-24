@@ -1,14 +1,12 @@
 id: 1296
-title: 'Presentamos a Anxo Sánchez, novo socio de DAG'
+title: "Presentamos a Anxo Sánchez, novo socio de DAG"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/foto-anxo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Ola!
 
       Son deseñador web e desde 2018 adícome a isto por conta propia. Actualmente non o cambiaría por nada. Non sei se iso é bo ou é malo, pero é.
@@ -27,10 +25,10 @@ body:
 
       Penso que xa era hora de apoiar unha asociación como a DAG e, animado por persoas que xa son socias actualmente, animeime a participar. Agardo aprender moito, seguro que si!
     type: text
-intro: 'Anxo é deseñador web e animado por outros integrantes de DAG súmase á asociación para aportar desde a súa perspectiva de deseño dixital e creador de contidos en galego. Aquí vos deixamos coa súa presentación. Benvido Anxo!'
+intro: "Anxo é deseñador web e animado por outros integrantes de DAG súmase á asociación para aportar desde a súa perspectiva de deseño dixital e creador de contidos en galego. Aquí vos deixamos coa súa presentación. Benvido Anxo!"
 slug: presentamos-a-anxo-sanchez-novo-socio-de-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2024-04-24T09:41:01+00:00

@@ -1,15 +1,13 @@
 id: 75
-title: 'Premios Nacionales de Diseño 2010'
+title: "Premios Nacionales de Diseño 2010"
 body:
-  -
-    text: 'El Boletín Oficial del Estadoha publicadocon fecha 25 de febrerola resolución de la Secretaría General de Innovación que abre el plazo de presentación de candidaturas hasta el próximo 26 de abril. Las modalidades para la convocatoria 2010 son profesional y empresa. En esta convocatoria el procedimiento de convocatoria, concurrencia y dotación económica de este premio se equiparará al de otros Premios Nacionales. Concretamente, los ganadores de la modalidad profesional recibirán por primera vez una dotación de 30.000 euros.La ddi es la engargada de la difusión, gestión y coordinación de estos premios. www.ddi.es'
+  - text: "El Boletín Oficial del Estadoha publicadocon fecha 25 de febrerola resolución de la Secretaría General de Innovación que abre el plazo de presentación de candidaturas hasta el próximo 26 de abril. Las modalidades para la convocatoria 2010 son profesional y empresa. En esta convocatoria el procedimiento de convocatoria, concurrencia y dotación económica de este premio se equiparará al de otros Premios Nacionales. Concretamente, los ganadores de la modalidad profesional recibirán por primera vez una dotación de 30.000 euros.La ddi es la engargada de la difusión, gestión y coordinación de estos premios. www.ddi.es"
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a983a780-premiosdddi.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'El Ministerio de Ciencia e Innovación convoca los Premios Nacionales de Diseño 2010.'
+intro: "El Ministerio de Ciencia e Innovación convoca los Premios Nacionales de Diseño 2010."
 slug: premios-nacionales-de-diseno-2010
 tags: []
 lang: es

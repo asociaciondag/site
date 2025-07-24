@@ -1,14 +1,12 @@
 id: 962
-title: 'Nueva edición de Transferencias.design en Málaga'
+title: "Nueva edición de Transferencias.design en Málaga"
 body:
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/transferencias-desing2020.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Transferencias.design es un evento que surgió del tercer encuentro nacional de diseño [ENAD](http://www.designread.es/7enad/), organizado por [READ](https://www.designread.es). Se ha ido consolidando con los años y ha aumentando su valor al pasar a ser miembro del comité del [Foro Transfiere](https://transfiere.fycma.com/). Cada año ofrece una temática diferente: diseño y transformación en el siglo XXI, empresas y cambios desde el diseño, formación y educación en diseño...
 
       El programa incluye charlas, talleres y seminarios. En esta edición, se rendirá además homenaje a [Pepe Cruz Novillo](https://www.cruznovillo.com/), que estará presente en el evento el día 14 por la tarde. Se proyectará el documental _El hombre que diseñó España_, del que es protagonista. A continuación se abrirá un coloquio en el que participarán también su hijo y socio Pepe Cruz Novillo, y los productores y directores del documental. El sábado 15, [Xenia Viladás](https://www.xeniaviladas.today/) y [The Room 1.0](http://www.theroom10.com) guiarán el coloquio de clausura, para presentar las conclusiones del evento y abrir el debate de cara a la próxima edición.
@@ -17,12 +15,11 @@ body:
 
       Los seminarios y talleres de Transferencias.design se realizarán de forma simultánea, por lo que los y las participantes solo podrán inscribirse en una actividad por cada franja horaria. Los socios y las socias de la DAG, junto con el resto de asociaciones de diseño pertenecientes a READ, pueden beneficiarse de un descuento en la [compra de entradas](https://transferencias.design/inscripcion/). Además habrá un descuento del 30% en Renfe si se viaja en tren a Málaga para asistir al evento.
     type: text
-  -
-    list: ''
-    url: 'https://transferencias.design'
-    text: 'Más información'
+  - list: ""
+    url: "https://transferencias.design"
+    text: "Más información"
     type: button
-intro: 'Los próximos días 13, 14 y 15 de febrero la comunidad del diseño se traslada a Málaga, donde tendrá lugar la IV edición de Transferencias.design, un encuentro profesional que nace en 2016 y que este año se centra en las estrategias y la innovación en diseño y Administración Pública.'
+intro: "Los próximos días 13, 14 y 15 de febrero la comunidad del diseño se traslada a Málaga, donde tendrá lugar la IV edición de Transferencias.design, un encuentro profesional que nace en 2016 y que este año se centra en las estrategias y la innovación en diseño y Administración Pública."
 slug: transferenciasdesign-2020
 tags: []
 lang: es

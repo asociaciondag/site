@@ -1,31 +1,27 @@
 id: 178
-title: 'Nuno Coelho e Adam Kershaw no feet 2010'
+title: "Nuno Coelho e Adam Kershaw no feet 2010"
 body:
-  -
-    text: '[Nuno Coelho](http://www.nunocoelho.net/) e Adam Kershaw presentaron a súa obra _Uma terra sem gente para gente sem terra - Um livro de colorir sobre a Palestina_ e compartiron cos participantes do Taller de edición e xestión de revistas experimentais de [La Más Bella](http://www.lamasbella.org/) a súa experiencia en autoedición.'
+  - text: "[Nuno Coelho](http://www.nunocoelho.net/) e Adam Kershaw presentaron a súa obra _Uma terra sem gente para gente sem terra - Um livro de colorir sobre a Palestina_ e compartiron cos participantes do Taller de edición e xestión de revistas experimentais de [La Más Bella](http://www.lamasbella.org/) a súa experiencia en autoedición."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9aece9d-presentacion-nuno-coelho-e-adam-kershaw-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9aece9d-presentacion-nuno-coelho-e-adam-kershaw-2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9aece9d-presentacion-nuno-coelho-e-adam-kershaw-3.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: '[Nuno Coelho](http://www.nunocoelho.net/) e Adam Kershaw presentaron a súa obra _Uma terra sem gente para gente sem terra - Um livro de colorir sobre a Palestina_ e compartiron cos participantes do Taller de edición e xestión de revistas experimentais de [La Más Bella](http://www.lamasbella.org/) a súa experiencia en autoedición.'
+intro: "[Nuno Coelho](http://www.nunocoelho.net/) e Adam Kershaw presentaron a súa obra _Uma terra sem gente para gente sem terra - Um livro de colorir sobre a Palestina_ e compartiron cos participantes do Taller de edición e xestión de revistas experimentais de [La Más Bella](http://www.lamasbella.org/) a súa experiencia en autoedición."
 slug: nuno-coelho-e-adam-kershaw-no-feet-2010
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang:
   - gl
   - es

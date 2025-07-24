@@ -1,34 +1,30 @@
 id: 576
-title: '1º Encontro de deseñadoras e deseñadores galegos'
+title: "1º Encontro de deseñadoras e deseñadores galegos"
 body:
-  -
-    text: |-
+  - text: |-
       Trátase dunha iniciativa con vontade de ter continuidade e que se enmarca dentro dunha das liñas de actuación da DAG que busca descentralizar os eventos de deseño e achegar estes tamén ás vilas pequenas. O lugar elixido para esta primeira edición é Rianxo, concello ao que lle agradecemos que nos ceda o seu auditorio para a súa celebración.
 
       O encontro, concibido para pór en común e aprender a partir das experiencias dos profesionais do deseño galego, desenvolverase ao longo de dúas xornadas (31 de xullo e 1 de agosto) e contempla un variado programa de actividades con conferencias, debates, presentacións de proxectos, etc.
 
-      **Auditorio de Rianxo**  
+      **Auditorio de Rianxo**
        Rúa Autores da Rianxeira, 15920 Rianxo
     type: text
-  -
-    list: ''
+  - list: ""
     file: /files/55ba423bd7a69-150707-cartel-rianxo-1.pdf
-    text: 'Cartel do encontro, PDF'
+    text: "Cartel do encontro, PDF"
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/55ba423bd7f30-150707-cartel-rianxo-programa-1-1.pdf
-    text: 'Programa do encontro, PDF'
+    text: "Programa do encontro, PDF"
     type: file
-  -
-    list: after
-    url: 'http://dag.gal/gl/rianxo'
-    text: 'Páxina do evento con toda a información'
+  - list: after
+    url: "http://dag.gal/gl/rianxo"
+    text: "Páxina do evento con toda a información"
     type: button
-intro: 'A DAG, Asociación Galega de Deseñadores, organiza o 1º Encontro de deseñadoras e deseñadores galegos para analizar a situación da profesión no contexto máis próximo.'
+intro: "A DAG, Asociación Galega de Deseñadores, organiza o 1º Encontro de deseñadoras e deseñadores galegos para analizar a situación da profesión no contexto máis próximo."
 slug: primeiro-encontro-de-desenadoras-e-desenadores-galegos
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2015-07-30T17:26:51+00:00

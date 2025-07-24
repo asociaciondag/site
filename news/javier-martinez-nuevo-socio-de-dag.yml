@@ -1,14 +1,12 @@
 id: 1403
-title: 'Javier Martínez, nuevo socio de DAG'
+title: "Javier Martínez, nuevo socio de DAG"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/presentacio-n-javiermarmon.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ¡Hola!
 
       Soy Javier Martínez Monzoncillo, _Javi MarMon_, artista digital nacido en Ourense.
@@ -27,10 +25,10 @@ body:
 
       Javi MarMon
     type: text
-intro: 'Hoy presentamos a Javier Martínez, Javi MarMon, orensano apasionado y creativo, artista 3D y tejedor de historias que busca aplicar su entusiasmo y habilidades al diseño de personajes y mundos. ¡Bienvenido!'
+intro: "Hoy presentamos a Javier Martínez, Javi MarMon, orensano apasionado y creativo, artista 3D y tejedor de historias que busca aplicar su entusiasmo y habilidades al diseño de personajes y mundos. ¡Bienvenido!"
 slug: javier-martinez-nuevo-socio-de-dag
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2025-06-02T14:02:00+00:00

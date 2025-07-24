@@ -1,14 +1,12 @@
 id: 1119
-title: 'Los II Premios Galicia de Innovación y Diseño ya tienen ganadores'
+title: "Los II Premios Galicia de Innovación y Diseño ya tienen ganadores"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premios-deseno-1024x683.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Unas distinciones creadas en el 2020, que buscan reconocer la labor de las personas y empresas gallegas que son referentes en el desarrollo económico y social de nuestra comunidad mediante la innovación y el diseño, y supone el reconocimiento del valor de nuestra profesión, contribuyendo a su visibilización como factor estratégico.
 
       La ceremonia fue presencial, pero igual que el año pasado, también fue retransmitida en directo a través del [canal de Youtube](https://www.youtube.com/watch?app=desktop&v=HVxS7iV5_N0) del[ ](http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+2020)Programa Deseño para a Innovación.
@@ -20,18 +18,18 @@ body:
       - Pequeña y mediana empresa: GalChimia.
       - Gran empresa: Congalsa.
       - Trayectoria innovadora: Fernando Pérez.
-       
+
       Categoría de Diseño:
 
       - Profesionales: Desescribir.
       - Diseñadores/as jóvenes: Damián Calvo.
       - Empresas: TMC Cancela.
-       
+
       El jurado estuvo integrado por profesionales de reconocido prestigio encargados de seleccionar las candidaturas finalistas de las dos categorías principales y sus subcategorías. En la categoría de Innovación fueron jurados Teresa Mariño, Alberto Barreiro, Ana J. Varela y Jorge Barrero. El jurado en la categoría Diseño estuvo conformado por Irene García, Xosé Luís Reza, Coca Rivas y David Barro.
 
       Enhorabuena a todos y todas las premiadas y en especial a los compañeros de Desescribir, Cibrán Rico y Suso Vázquez. Hacemos mención también a los socios David Silvosa y Daniel Bembibre de estudio [Costa](http://costa.io/) que fueron finalistas en la categoría de profesionales.
     type: text
-intro: 'La Axencia Galega de Innovación (GAIN) otorgó el lunes 24 de enero los galardones de la segunda edición de los[ Premios Galicia de Innovación y Deseño](http://gain.xunta.gal/artigos/437/premios+galicia+innovacion+deseno+2021). [Desescribir](https://www.desescribir.com/) ganó el premio en la categoría Profesionales de Diseño.'
+intro: "La Axencia Galega de Innovación (GAIN) otorgó el lunes 24 de enero los galardones de la segunda edición de los[ Premios Galicia de Innovación y Deseño](http://gain.xunta.gal/artigos/437/premios+galicia+innovacion+deseno+2021). [Desescribir](https://www.desescribir.com/) ganó el premio en la categoría Profesionales de Diseño."
 slug: los-ii-premios-galicia-de-innovacion-y-diseno-ya-tienen-ganadores
 tags: []
 lang: es

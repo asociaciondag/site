@@ -1,28 +1,25 @@
 id: 667
-title: 'Temos un novo socio na DAG!'
+title: "Temos un novo socio na DAG!"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/5745db84a90f8-alejandro.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
-      Ola!  
-         
+  - text: |-
+      Ola!
+
        Son Alejandro, deseñador gráfico, ilustrador, amante da fotografía e do surf.
 
-      Cursei os estudos superiores de Deseño Gráfico na ESDA e os de Técnico superior en Ilustración na EASD Pablo Picasso. Neste momento estou a piques de finalizar o Máster en dirección de arte publicitaria da Universidade de Vigo.  
-         
+      Cursei os estudos superiores de Deseño Gráfico na ESDA e os de Técnico superior en Ilustración na EASD Pablo Picasso. Neste momento estou a piques de finalizar o Máster en dirección de arte publicitaria da Universidade de Vigo.
+
        O meu perfil profesional oriéntase cara a disciplinas diversas como a creación de marca, o deseño editorial, a ilustración e a fotografía. Ademais, gústame estar en contacto coas novas tendencias, ferramentas e soportes.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/alejandro-fabregas/'
-    text: 'Perfil de socio DAG'
+  - list: ""
+    url: "https://dag.gal/gl/alejandro-fabregas/"
+    text: "Perfil de socio DAG"
     type: button
-intro: 'Como sempre, podedes coñecelo un pouco mellor a través desta breve presentación súa en que nos fala dos seus intereses e inquietudes.'
+intro: "Como sempre, podedes coñecelo un pouco mellor a través desta breve presentación súa en que nos fala dos seus intereses e inquietudes."
 slug: temos-un-novo-socio-na-dag
 tags: []
 lang: gl

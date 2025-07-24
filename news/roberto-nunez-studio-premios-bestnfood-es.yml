@@ -1,22 +1,20 @@
 id: 1057
-title: 'Roberto Núñez Studio premiado en los Best!N Food'
+title: "Roberto Núñez Studio premiado en los Best!N Food"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/vanidade.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El proyecto premiado ha sido la nueva identidad de Vanidade, un vino albariño de la D.O. Rías Baixas que ironiza sobre la sociedad actual. El diseño propone una experiencia, estableciendo una conexión emocional con los y las consumidoras, a través de un juego con una tinta rascable.
 
       Las buenas noticias para Roberto Núñez Studio llegan también por otra banda, con las 2 nominaciones que acaba de recibir a los premios Laus en las categorías de Publicidad y Diseño. Una de ellas, en el ámbito del diseño, para el proyecto Maccerato, también de [Viña Almirante](http://www.vinaalmirante.com). El próximo 10 de junio, en Barcelona, conoceremos el veredicto del jurado en la gala Nit-Laus 2021.
     type: text
-intro: 'Los [Best!N Food Awards](https://bestinfood.es), premios del marketing alimentario, otorgaron un bronce en la categoría de _Branding &amp; packaging_ a [Roberto Núñez Studio](http://www.robertonunez.com) por su trabajo para la bodega Viña Almirante.'
+intro: "Los [Best!N Food Awards](https://bestinfood.es), premios del marketing alimentario, otorgaron un bronce en la categoría de _Branding &amp; packaging_ a [Roberto Núñez Studio](http://www.robertonunez.com) por su trabajo para la bodega Viña Almirante."
 slug: roberto-nunez-studio-premios-bestnfood-es
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2021-05-25T10:49:31+00:00

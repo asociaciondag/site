@@ -1,8 +1,7 @@
 id: 405
-title: 'Varios socios de la DAG participan en el Foro Culturgal 2012'
+title: "Varios socios de la DAG participan en el Foro Culturgal 2012"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       Los socios de la DAG Rebeca Ces, Manuel del Río y Uqui Permui participan hoy, primer día del Culturgal, en la mesa de trabajo Compartiendo multiplicamos dentro del [Foro Culturgal 2012](http://www.culturgal.com/nova_culturgal.php?id=1453) que organiza la Asociación Gallega de Profesionales de la Gestión Cultural para hablar de su experiencia en la Asociación Gallega de Diseñadores y presentar el proyecto [Espacio de creación contemporánea](https://docs.google.com/file/d/0B0dmXsdIuZ64M2swZUwtejJFQzA/edit) para el IGI que en este momento promueve la DAG en colaboración con otros colectivos.
 
@@ -13,8 +12,7 @@ body:
       Toda la información sobre la edición del Culturgal de este año en:
 
       [http://www.culturgal.com/](http://www.culturgal.com/index.php)
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa28c9a0-culturgal-2012.jpg
 intro: null
 slug: varios-socios-de-la-dag-participan-en-el-foro-culturgal-2012

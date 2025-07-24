@@ -1,14 +1,12 @@
 id: 983
-title: 'Convocatoria de la Bienal Iberoamericana de Diseño'
+title: "Convocatoria de la Bienal Iberoamericana de Diseño"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-bid20.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En estos momentos, y hasta el 8 de julio, está abierto el plazo para participar en esta nueva edición de la Bienal. Pueden participar proyectos de diseño producidos y comercializados en los dos últimos años, creados por diseñadores, diseñadoras y empresas de Latinoamérica, España y Portugal.
 
       Las categorías en las que inscribir los trabajos son: espacios e interiorismo, gráfico y comunicación visual, producto e industrial, moda, textil y complementos, digital, diseño de servicios y trabajos integrales o transversales (que abarcan distintas categorías).
@@ -19,17 +17,15 @@ body:
 
       Sin duda es una buena oportunidad para mostrar proyectos con proyección internacional y conocer el diseño que se está desarrollando en otros países próximos a nuestra cultura.
     type: text
-  -
-    list: ''
-    url: 'https://www.bid-dimad.org/'
-    text: 'Web del evento'
+  - list: ""
+    url: "https://www.bid-dimad.org/"
+    text: "Web del evento"
     type: button
-  -
-    list: ''
-    url: 'https://bid20.bid-dimad.org/wp-content/uploads/2020/05/Bases_generales_BID20_ES.pdf'
-    text: 'Bases de la convocatoria'
+  - list: ""
+    url: "https://bid20.bid-dimad.org/wp-content/uploads/2020/05/Bases_generales_BID20_ES.pdf"
+    text: "Bases de la convocatoria"
     type: button
-intro: 'Ya está aquí la 7ª Edición de la Bienal Iberoamericana de Diseño que tendrá lugar del 23 al 27 de noviembre en la Central de Diseño Matadero Madrid.'
+intro: "Ya está aquí la 7ª Edición de la Bienal Iberoamericana de Diseño que tendrá lugar del 23 al 27 de noviembre en la Central de Diseño Matadero Madrid."
 slug: bienal-iberoamericana-diseno
 tags: []
 lang: es

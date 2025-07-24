@@ -1,29 +1,23 @@
 id: 430
-title: 'RCD Carme'
+title: "RCD Carme"
 slug: rcd-carme
 body:
-  -
-    text: 'O RC Deportivo da Coruña ofreceume a posibilidade en 2014 de poder rotular os dorsais e nomes dos xogadores nos seus uniformes. Dese xeito naceu RCD Carme, unha forma de letra sinxela que combina con uns números de maior peso. O propósito era facer algo lexible e medianamente neutro, todo o contrario ao que se estaba poñendo de moda no fútbol naqueles anos. O equipo lucíuna nas súas camisetas durante tres temporadas consecutivas en primeira división e anos despois volveuna recuperar xa en 1ª RFEF con un lixeiro redeseño.'
+  - text: "O RC Deportivo da Coruña ofreceume a posibilidade en 2014 de poder rotular os dorsais e nomes dos xogadores nos seus uniformes. Dese xeito naceu RCD Carme, unha forma de letra sinxela que combina con uns números de maior peso. O propósito era facer algo lexible e medianamente neutro, todo o contrario ao que se estaba poñendo de moda no fútbol naqueles anos. O equipo lucíuna nas súas camisetas durante tres temporadas consecutivas en primeira división e anos despois volveuna recuperar xa en 1ª RFEF con un lixeiro redeseño."
     type: text
-  -
-    image: /img/portfolio/images/1.jpg
-    text: ''
+  - image: /img/portfolio/images/1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/2.png
-    text: ''
+  - image: /img/portfolio/images/2.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/3.jpg
-    text: ''
+  - image: /img/portfolio/images/3.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/4.png
-    text: ''
+  - image: /img/portfolio/images/4.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5.jpg
-    text: ''
+  - image: /img/portfolio/images/5.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/1.jpg
 tags:

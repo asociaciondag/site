@@ -1,8 +1,7 @@
 id: 125
-title: 'Creative Review Type Annual'
+title: "Creative Review Type Annual"
 body:
-  -
-    text: |-
+  - text: |-
       Para ser seleccionados os tipos de letra deberon ser creados ou utilizados por primeira vez dentro deste periodo de tempo. Os traballos seleccionados aparecerán nun número especial de Creative Review en febreiro.
 
       As categorías son:
@@ -13,12 +12,11 @@ body:
 
       +info <http://www.creativereview.co.uk/cr-blog/2010/september/creative-review-type-annual>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a995b503-typeanual.gif
-    text: ''
+    text: ""
     type: image
-intro: 'Xa está aberta a convocatoria para o primeiro Creative Review Type Annual. Organizada pola publicación Creative Review, busca os mellores deseños tipográficos realizados nos últimos 12 meses. O Type Annual espera reunir os mellores deseños tipográficos, os máis innovadores e excitantes dende outubro de 2009 a outubro de 2010.'
+intro: "Xa está aberta a convocatoria para o primeiro Creative Review Type Annual. Organizada pola publicación Creative Review, busca os mellores deseños tipográficos realizados nos últimos 12 meses. O Type Annual espera reunir os mellores deseños tipográficos, os máis innovadores e excitantes dende outubro de 2009 a outubro de 2010."
 slug: creative-review-type-annual
 tags: []
 lang: gl

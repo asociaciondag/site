@@ -1,29 +1,26 @@
 id: 761
 title: 'Seguimos con las presentaciones de los invitados del FEED''17'
 body:
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/bea-facebook.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [Bea Lema](http://bealema.com/) vive en A Coruña, su ciudad natal. Estudió Diseño de Producto y empezó su trayectoria profesional trabajando para la firma cerámica Sargadelos. Posteriormente participó en la creación del proyecto Lelédacuca, en el que cual realizó objetos que mezclan la artesanía tradicional con el diseño contemporáneo.
 
       En la actualidad es socia de [7H Coop](http://www.7hcoop.es/), desde donde desarrolla su trabajo en relación con el diseño de producto e ilustración. Ha realizado proyectos muy diversos (objetos grandes, objetos pequeños, instalaciones, acciones...).
 
       Ha creado diseños para amigos, empresas o instituciones como el Certamen Coreográfico de Madrid, Fuera de Margen, Unitaria, Nave 1839, las bibliotecas municipales de A Coruña, el Consejo Gallego de Cooperativas, la Ciudad de la Cultura de Galicia o el Ayuntamiento de Santiago de Compostela. El pasado mes de agosto fue galardonada con el XII Premio Castelao de Cómic por su primera novela gráfica _O corpo de Cristo,_ que será editada la próxima primavera.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: 'FEED''17'
     type: button
-intro: 'Si la semana pasada os presentábamos a [Elena Urizar](https://dag.gal/es/un-taller-de-visual-thinking-abrira-el-feed-2017/) y a [Joana Correia](https://dag.gal/es/la-tipografia-sera-la-protagonista-del-segundo-workshop-del-feed/), hoy es el turno de Bea Lema. La diseñadora gallega será una de las conferenciantes del sábado, con una intervención en la que partirá de su propia experiencia para hablar del carácter multidisciplinar de la profesión del diseño.'
+intro: "Si la semana pasada os presentábamos a [Elena Urizar](https://dag.gal/es/un-taller-de-visual-thinking-abrira-el-feed-2017/) y a [Joana Correia](https://dag.gal/es/la-tipografia-sera-la-protagonista-del-segundo-workshop-del-feed/), hoy es el turno de Bea Lema. La diseñadora gallega será una de las conferenciantes del sábado, con una intervención en la que partirá de su propia experiencia para hablar del carácter multidisciplinar de la profesión del diseño."
 slug: seguimos-con-las-presentaciones-de-los-invitados-del-feed-17
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2017-10-23T10:51:31+00:00

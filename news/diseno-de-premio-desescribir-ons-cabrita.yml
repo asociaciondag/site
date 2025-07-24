@@ -1,28 +1,24 @@
 id: 1055
-title: 'Diseño de premio de desescribir para la película ONS y la exposición de Cabrita en el CGAC'
+title: "Diseño de premio de desescribir para la película ONS y la exposición de Cabrita en el CGAC"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/cartel-ons.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Los premiados de la 51ª edición de los Laus se conocerán en junio, durante la celebración de la Nit ADG Laus. Idea, ejecución, funcionalidad, aportación y consistencia han sido los criterios marcados desde la organización para evaluar las propuestas presentadas. Un jurado profesional ha sido el encargado de seleccionar los trabajos más destacados en cada categoría, que optarán a rebicir los codiciados galardones. Los proyectos premiados serán publicados en la web de ADG-FAD, recopilados en un libro y se mostrarán en una exposción durante la [Barcelona Design Week](https://barcelonadesignweek.com).'
+  - text: "Los premiados de la 51ª edición de los Laus se conocerán en junio, durante la celebración de la Nit ADG Laus. Idea, ejecución, funcionalidad, aportación y consistencia han sido los criterios marcados desde la organización para evaluar las propuestas presentadas. Un jurado profesional ha sido el encargado de seleccionar los trabajos más destacados en cada categoría, que optarán a rebicir los codiciados galardones. Los proyectos premiados serán publicados en la web de ADG-FAD, recopilados en un libro y se mostrarán en una exposción durante la [Barcelona Design Week](https://barcelonadesignweek.com)."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/cabrita.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'El trabajo del estudio Desescribir suma ya 14 premios Laus. Estas dos nuevas nominaciones son muestra del reconocimiento a su buen hacer en sus ya más de 10 años de existencia. Trasladamos nuestra enhorabuena a Cibrán Rico y a Suso Vázquez y celebramos una vez más el reconocimiento al diseño hecho en Galicia.'
+  - text: "El trabajo del estudio Desescribir suma ya 14 premios Laus. Estas dos nuevas nominaciones son muestra del reconocimiento a su buen hacer en sus ya más de 10 años de existencia. Trasladamos nuestra enhorabuena a Cibrán Rico y a Suso Vázquez y celebramos una vez más el reconocimiento al diseño hecho en Galicia."
     type: text
-intro: 'Los [ADG Laus](https://www.adg-fad.org/es/laus/premios) acaban de comunicar los proyectos nominados de su edición 2021. En la lista de trabajos seleccionados encontramos el diseño del cartel de la película ONS, dirigida por Alfonso Zarauza, y el catálogo de la exposición «Cabrita. Work (always) in progress», que se pudo visitar en el CGAC. Ambos proyectos son obra del estudio [Desescribir](http://www.desescribir.com), que optará a recibir dos premios.'
+intro: "Los [ADG Laus](https://www.adg-fad.org/es/laus/premios) acaban de comunicar los proyectos nominados de su edición 2021. En la lista de trabajos seleccionados encontramos el diseño del cartel de la película ONS, dirigida por Alfonso Zarauza, y el catálogo de la exposición «Cabrita. Work (always) in progress», que se pudo visitar en el CGAC. Ambos proyectos son obra del estudio [Desescribir](http://www.desescribir.com), que optará a recibir dos premios."
 slug: diseno-de-premio-desescribir-ons-cabrita
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2021-05-11T13:03:17+00:00

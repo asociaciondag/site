@@ -1,22 +1,19 @@
 id: 355
-title: 'Proxector Ados'
+title: "Proxector Ados"
 slug: proxector-ados
 body:
-  -
-    text: |-
+  - text: |-
       Trala colaboración con QBO Iluminación, S.L. no deseño e desenvolvemento do Ados System, deseñamos o proxector Ados completando así o sistema de iluminación.
 
       É un proxector que estará dispoñible en diferentes tamaños, potencias, etc. composto por dous cilindros que encaixan entre si coa idea de que se poidan combinar acabados: negro+dourado, negro+negro, branco+cromo, branco+branco, branco+dourado, etc.
 
       Inclue a posibilidade de aloxar un panel de abella _antideslumbrante_.
     type: text
-  -
-    image: /img/portfolio/images/proyector-ados-mini-1.jpg
-    text: ''
+  - image: /img/portfolio/images/proyector-ados-mini-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/proyector-ados-mini-2.jpg
-    text: ''
+  - image: /img/portfolio/images/proyector-ados-mini-2.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/proyector-ados-mini-1.jpg
 tags:
@@ -26,7 +23,6 @@ members_id:
   - 77
 lang: gl
 info:
-  -
-    name: Ano
-    value: '2020'
+  - name: Ano
+    value: "2020"
 draft: false

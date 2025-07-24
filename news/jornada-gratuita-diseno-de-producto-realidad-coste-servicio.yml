@@ -1,14 +1,12 @@
 id: 401
-title: 'Jornada gratuita Diseño de Producto: Realidad Coste/Servicio'
+title: "Jornada gratuita Diseño de Producto: Realidad Coste/Servicio"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       El próximo jueves, 15 de noviembre, a las 19.00 h, tres de los socios de la DAG: Alberto Rodríguez Montiel (miembro fundador de [FrutoDS](http://frutods.com/blog/)), José Ramón Méndez Salgueiro (profesor de la [Escuela Universitaria de Diseño Industrial de Ferrol](http://www.eudi.udc.es/)) y Esteban Carballido Couceiro (responsable de diseño de producto de [Televés](http://www.televes.es/es/esp/home)) participarán como ponentes en una jornada gratuita que bajo el título **Diseño de Producto: Realidad Coste/Servicio** organiza la Cámara de Comercio de Vilagarcía de Arousa. Esta actividad se enmarca dentro del Programa Jornadas Competitividad que con motivo de la actual coyuntura económica está desarrollando la Cámara para mejorar la competitividad de las empresas.
 
       En esta ocasión, la jornada se centrará en cómo el diseño de productos para la empresa puede ayudar a convertir oportunidades de negocio en negocios efectivos y entre los puntos que se abordarán estarán el diseño de producto, las fases, las mejores propuestas en menor tiempo y menor coste, y también se analizarán casos prácticos de diseño e internalización. Para la inscripción dirígete al correo electrónico b.lorda@camaravilagarcia.com o entra en el siguiente enlace: [http://www.camaravilagarcia.com/index\_3.php?id\_seccion=523&amp;id\_idioma=2](http://www.camaravilagarcia.com/index_3.php?id_seccion=523&id_idioma=2)
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa284f6f-xornadas-competitividade.jpg
 intro: null
 slug: jornada-gratuita-diseno-de-producto-realidad-coste-servicio

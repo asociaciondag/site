@@ -1,14 +1,12 @@
 id: 876
-title: 'Chamadas a proxecto para profesionais do deseño'
+title: "Chamadas a proxecto para profesionais do deseño"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/fromspainwithdesign-nova.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       From Spain with Design, FSWD, é un proxecto impulsado por [READ](http://www.designread.es/) co apoio económico do Ministerio de Educación, Cultura e Deporte do Goberno de España, que pretende dar visibilidade ao deseño español, propiciando a súa comunicación a nivel nacional e internacional. Tamén quere crear sinerxias dentro do colectivo profesional e impulsar a creatividade e o deseño como eixos de prosperidade, contribuíndo á visibilidade da “Marca España”.
 
       FSWD quere amosar as capacidades dos deseñadores e deseñadoras e os estudios nos que están integrados dentro dos ámbitos do deseño de produto, deseño gráfico e comunicación visual, interiorismo e espazos, e deseño de servizos. O colectivo empresarial estará representado coas empresas produtoras e editoras vinculadas a eses mesmos ámbitos.
@@ -17,28 +15,26 @@ body:
 
       Crearase un Comité de Selección que avaliará os proxectos, deseñadores e empresas propostos polas diferentes asociacións e que xa pasaran o filtro previo do Grupo de Traballo FSWD.
 
-      **Servizos contratados nestas chamadas a proxecto**  
+      **Servizos contratados nestas chamadas a proxecto**
        O ano pasado fíxose a chamada a proxecto para crear a identidade gráfica e o sitio web de FSWD. O GT FSWD lanza agora as chamadas a proxecto dos soportes que faltan:
 
-      1\) Chamada a proxecto para o Documental Interactivo FSWD – 1ª Fase  
+      1\) Chamada a proxecto para o Documental Interactivo FSWD – 1ª Fase
        2) Chamada a proxecto para o Anteproxecto Expositivo FSWD
 
-      O prazo límite de envío de candidaturas é o 22 de marzo de 2019, ás 18:00 h.  
+      O prazo límite de envío de candidaturas é o 22 de marzo de 2019, ás 18:00 h.
        Esta convocatoria é aberta e non exclusiva para socios e socias das asociacións de READ.
 
       Podedes consultar as convocatorias completas nestes documentos.
     type: text
-  -
-    list: ''
+  - list: ""
     file: /files/llamada-a-proyecto-fswd-documental.pdf
-    text: 'Chamada a proxecto para o documental'
+    text: "Chamada a proxecto para o documental"
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/llamada-a-proyecto-fswd-anteproyecto-expositivo.pdf
-    text: 'Chamada a proxecto para anteproxecto expositivo'
+    text: "Chamada a proxecto para anteproxecto expositivo"
     type: file
-intro: 'Un anteproxecto expositivo e un documental interactivo son dúas das tres partes de que consta o proxecto From Desing with Design, que pretende dar visibilidade internacional ao deseño español.'
+intro: "Un anteproxecto expositivo e un documental interactivo son dúas das tres partes de que consta o proxecto From Desing with Design, que pretende dar visibilidade internacional ao deseño español."
 slug: chamadas-a-proxecto-para-profesionais-do-deseno
 tags:
   - concursos

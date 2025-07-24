@@ -1,19 +1,17 @@
 id: 1140
-title: 'Formación en deseño con desconto para asociadas de DAG'
+title: "Formación en deseño con desconto para asociadas de DAG"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/formacion-dto.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A [Escola Superior Marcelo Macías](https://www.marcelomacias.com) en colaboración coa axencia creativa Sísmica lanza o programa [Master Sessions](https://www.marcelomacias.com/curso/master-sessions-masterclass-networking), no que presenta un completo programa de aprendizaxe directa con expertos e profesionais. As xornadas terán lugar na propia escola, na cidade da Coruña, todos os venres a partir do próximo 29 de abril, en horario de 17:00 a 19:30. Ademais da «masterclass» cada xornada incluirá tamén unha sesión de «networking», para facilitar o encontro entre profesionais, estudantes e persoas interesadas. Pablo Pez, director de arte senior en Reclam será o encargado de inaugurar o programa. Completan a axenda Susana Novo, responsable de comunicación de Estirando el Chicle, Fernando Rodríguez de la Torre, director de Con C de Comunicación e Briefing Galego, Uqui Permui, deseñadora e presidenta de READ, Samuel L. París, responsable de estratexia en redes sociais na axencia Nasas, e o estudio Salvaje co seu proxecto El vino del mes. As asociadas de DAG poderán beneficiarse dun desconto de 10€ na inscrición.
 
       Xa en maio, na primeira fin de semana, [Escola Unitaria](https://escolaunitaria.com), en Santiago de Compostela, presenta un [obradoiro de creación de fontes variables](https://escolaunitaria.com/2022/02/22/crear-unha-fonte-variable/). A formación será impartida nunha única xornada, de 10:00 a 14:00 e de 16:00 a 19:00, que se repetirá o sábado e o domingo. As prazas para o día 7 xa están esgotadas pero aínda quedan ocos na xornada do domingo día 8. Será impartido por Rainer Erich Scheichelbauer, co-director do editor de fontes [Glyphs](https://glyphsapp.com), que estará acompañado pola deseñadora de tipografías María Ramos. O programa abordará a configuración dun proxecto de tipografía, a optimización e reutilización de recursos para o deseño dos caracteres e a exploración das fontes variables como formato tipográfico. As inscricións de asociadas a DAG terán un desconto do 10%.
     type: text
-intro: 'A primavera vén cargada de actividades e eventos de deseño en Galicia. Ademais de exposicións e presentacións, nas próximas semanas contaremos con formación especializada en Santiago de Compostela e na cidade da Coruña. Un obradoiro de tipografía e un ciclo de «masterclass» impartidos por profesionais de referencia no sector. Ambas formacións contan con desconto para as persoas asociadas a DAG.'
+intro: "A primavera vén cargada de actividades e eventos de deseño en Galicia. Ademais de exposicións e presentacións, nas próximas semanas contaremos con formación especializada en Santiago de Compostela e na cidade da Coruña. Un obradoiro de tipografía e un ciclo de «masterclass» impartidos por profesionais de referencia no sector. Ambas formacións contan con desconto para as persoas asociadas a DAG."
 slug: formacion-en-deseno-con-desconto-para-asociadas-de-dag
 tags: []
 lang: gl

@@ -1,24 +1,22 @@
 id: 1025
-title: 'Los premios nacionales de innovación y de diseño son para…'
+title: "Los premios nacionales de innovación y de diseño son para…"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/pnid-mcin.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El Premio Nacional de Deseño en la modalidad «Profesional» ha sido para el valenciano [Pepe Gimeno](http://www.pepegimeno.com/), en reconocimiento a su larga trayectoria como diseñador y «por ser embajador del diseño español en el mundo». En esta misma categoría, [Isabel Inés Casasnovas](https://twitter.com/ludita?lang=en) ha recibido una mención especial; la organización destaca «su labor pionera en el asentamiento y expansión de las diferentes disciplinas del diseño emergente».
 
       El Premio Nacional de Diseño en la modalidad de «Empresa» ha sido para la también valenciana [LZF Lamps](https://lzf-lamps.com/), galardonada por defender una estrategia basada en el diseño y en la sostenibilidad medioambiental, desarrollando productos y proyectos de instalación singulares. Nuestro socio y compañero [Anxo López](http://www.anxolopez.com/) también tiene motivos para la celebración porque, en esta categoría, la empresa BBVA, en la que lidera la estrategia de diseño, ha recibido una mención especial por el éxito en la integración del diseño no tangible. El jurado ha destacado en este caso «su contribución indiscutible en la difusión de la cultura del diseño, acompañada de una inestimable labor pedagógica».
 
       El Premio Nacional de Diseño en la modalidad «Jóvenes Creadores» ha sido para las hermanas Eva y Marta del estudio [Yarza Twins](https://yarzatwins.com/), valoradas por el jurado «por su habilidad para conseguir soluciones diferenciadas y sorprendentes, trascendiendo al ámbito internacional».
     type: text
-intro: 'El Ministerio de Ciencia e Innovación ha anunciado los ganadores de los [Premios Nacionales de Innovación y de Diseño](https://www.ciencia.gob.es/portal/site/MICINN/menuitem.8ce192e94ba842bea3bc811001432ea0/?vgnextoid=30b05b23f3083710VgnVCM1000001d04140aRCRD&vgnextrefresh=1), tres en la categoría de innovación y tres en la categoría de diseño, donde además ha habido dos menciones especiales.'
+intro: "El Ministerio de Ciencia e Innovación ha anunciado los ganadores de los [Premios Nacionales de Innovación y de Diseño](https://www.ciencia.gob.es/portal/site/MICINN/menuitem.8ce192e94ba842bea3bc811001432ea0/?vgnextoid=30b05b23f3083710VgnVCM1000001d04140aRCRD&vgnextrefresh=1), tres en la categoría de innovación y tres en la categoría de diseño, donde además ha habido dos menciones especiales."
 slug: premios-nacionales-diseno-2020
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2020-11-10T09:12:43+00:00

@@ -1,46 +1,37 @@
 id: 175
-title: 'Iago Fdez. - Acougo'
+title: "Iago Fdez. - Acougo"
 slug: iago-fdez-acougo
 body:
-  -
-    text: |-
+  - text: |-
       Segundo disco como líder del talentoso batería cangués Iago Fernández.
 
       Diseñamos dos ediciones diferentes: un _digipack_ clásico y una _jewell_ casi totalmente transparente envuelta en una faja de pvc serigrafiada y acabada con una pegatina.
 
       En ambos casos quisimos representar la "calma" de la que habla el disco (y la cita de Vidal Bolaño a la que remite) con un diseño de mínimos, intentando reproducir la sensación de dejar entrar la luz (la música) en la oscuridad, en el vacío.
     type: text
-  -
-    image: /img/portfolio/images/574876e24ae07-iago-acougo-1.png
-    text: ''
+  - image: /img/portfolio/images/574876e24ae07-iago-acougo-1.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/574876e24b255-iago-acougo-2.png
-    text: ''
+  - image: /img/portfolio/images/574876e24b255-iago-acougo-2.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/574878ab80ab9-iago-acougo-3.png
-    text: ''
+  - image: /img/portfolio/images/574878ab80ab9-iago-acougo-3.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/574878ab80d41-iago-acougo-4.png
-    text: ''
+  - image: /img/portfolio/images/574878ab80d41-iago-acougo-4.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/574878ab810f5-iago-acougo-5.png
-    text: ''
+  - image: /img/portfolio/images/574878ab810f5-iago-acougo-5.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/574878ab8125c-iago-acougo-6.png
-    text: ''
+  - image: /img/portfolio/images/574878ab8125c-iago-acougo-6.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/574878ab81932-iago-acougo-7.png
-    text: ''
+  - image: /img/portfolio/images/574878ab81932-iago-acougo-7.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/574878ab81a78-iago-acougo-8.png
-    text: ''
+  - image: /img/portfolio/images/574878ab81a78-iago-acougo-8.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/574876e24a748-iago-acougo-1.png
 tags: []

@@ -1,27 +1,22 @@
 id: 118
-contact: '<ricardo@teteerck.com>'
+contact: "<ricardo@teteerck.com>"
 links:
-  -
-    text: Web
-    url: 'https://teteerck.com/'
+  - text: Web
+    url: "https://teteerck.com/"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/teteerck/'
+  - text: Instagram
+    url: "https://www.instagram.com/teteerck/"
     type: link
-  -
-    text: Threads
-    url: 'https://www.threads.net/@teteerck'
+  - text: Threads
+    url: "https://www.threads.net/@teteerck"
     type: link
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/teteerck/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/teteerck/"
     type: link
-  -
-    text: Read.CV
-    url: 'https://read.cv/teteerck'
+  - text: Read.CV
+    url: "https://read.cv/teteerck"
     type: link
-name: 'Ricardo Rey'
+name: "Ricardo Rey"
 slug: ricardorey
 avatarBig: null
 avatar: /img/avatars/1.jpg
@@ -30,5 +25,5 @@ tags:
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador 3D'
-job.es: 'Diseñador 3D'
+job.gl: "Deseñador 3D"
+job.es: "Diseñador 3D"

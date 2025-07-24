@@ -1,14 +1,12 @@
 id: 1132
-title: 'READ celebra a súa asemblea anual en Soria coa aprobación do código deontolóxico'
+title: "READ celebra a súa asemblea anual en Soria coa aprobación do código deontolóxico"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/asamblea-read-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A presidenta de [READ](https://www.designread.es/), Uqui Permui, deu a benvida aos representantes de Dica, asociación canaria recén incorporada á rede, e ao resto de compañeiros e compañeiras das doce asociacións membro, e repasou xunto con Irene García o primeiro ano de presidencia de DAG en READ; unha experiencia positiva e gratificante que fortaleceu a estrutura interna e ofreceu unha maior visibilidade da nosa entidade. Ambas as dúas animaron a aquelas asociacións recentes e máis pequenas de cara a asumir esta responsabilidade cando lles toque, porque a repercusión é importante e o apoio do resto de asociacións está asegurado.
 
       Presentáronse os fitos máis destacados da READ ao longo do ano. Algúns deles: o [Pacto polo Deseño](https://pactoporeldiseno.es/), a incorporación ao proxecto do SNIC (Sistema Nacional de Intelixencia Creativa), a presencia nos Premios Nacionais de Deseño e tamén de Artesanía, a inauguración da exposición FSWD e a súa posterior itinerancia, a celebración do [9 ENAD](https://designread.es/9enad/), a colaboración coa World Design Capital Valencia 2022 para desenvolver algunhas actividades e a participación en diferentes reunións e webinarios con sectores e entidades colaboradoras como Packnet.
@@ -23,12 +21,11 @@ body:
 
       READ está actualmente formada por doce asociacións na que se integran 806 profesionais do deseño de España: [AAD](https://www.aad-andalucia.org/) (Andalucía), [ADCV](https://www.adcv.com/) (​Comunidade Valenciá),​ [AGA](https://www.aga-asturias.org/) (Asturias), [Cuenca Diseño](http://www.cuencadiseno.com/) (Cuenca), [Dica](http://di-ca.es/) (Canarias), [DIEX](https://www.diex.es/) (Extremadura), [Di\_mad](https://dimad.org/) (Madrid), [Dip](https://dipmurcia.es/) (Murcia), [Dis Soria](http://disoria.com/) (Soria), [EIDE](https://eidedesign.eus/) (Euskadi e Navarra), [La Exprimidora](https://laexprimidora.com/) (Castellón) e DAG (Galicia).​
     type: text
-  -
-    list: ''
-    url: 'https://www.flickr.com/photos/designread/albums/72177720297354523/with/51938878625/'
-    text: 'Flickr da Asemblea READ 2022'
+  - list: ""
+    url: "https://www.flickr.com/photos/designread/albums/72177720297354523/with/51938878625/"
+    text: "Flickr da Asemblea READ 2022"
     type: button
-intro: 'O pasado 11 de marzo as delegacións das diferentes asociacións que conforman READ viaxaron ata Soria para​ celebrar a súa asemblea anual, dentro dunha programaci​ón máis ampla organizada por [Dis Soria](http://disoria.com/), entidade anfitrioa, e organismos colaboradores.​​'
+intro: "O pasado 11 de marzo as delegacións das diferentes asociacións que conforman READ viaxaron ata Soria para​ celebrar a súa asemblea anual, dentro dunha programaci​ón máis ampla organizada por [Dis Soria](http://disoria.com/), entidade anfitrioa, e organismos colaboradores.​​"
 slug: read-celebra-a-sua-asemblea-anual-en-soria-coa-aprobacion-do-codigo-deontoloxico
 tags: []
 lang: gl

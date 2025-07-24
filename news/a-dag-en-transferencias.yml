@@ -1,24 +1,22 @@
 id: 648
-title: 'A DAG en Transferencias'
+title: "A DAG en Transferencias"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/56d86647d4c6b-transferencias.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       [Transferencias](http://transferencias.design/) é un punto de encontro entre asociacións, centros formativos, empresas e institucións que, durante os días 3 e 4 de marzo, debaterán sobre os novos perfís profesionais en deseño e as necesidade formativas a eles vinculadas. Realizaranse catro seminarios simultáneos: deseño gráfico e comunicación (seminario I), deseño industrial ou de produto (seminario II), deseño de espazos e interior (seminario III) e deseño de moda e tendencias (seminario IV). A DAG estivo participando activamente no grupo de traballo encargado da coordinación do seminario I, onde, entre todos os participantes, se acordou formular o debate a partir dos dous eixos da profesión e unha serie de preguntas relacionadas con estes eixos:
 
       - Eixo horizontal, centrado nas disciplinas do deseño gráfico: branding, editorial design, deseño interactivo, motion graphics e tipografía.
       - Eixo vertical, onde se estableceron tres liñas: a escaleira do deseño (non-deseño, deseño como forma, deseño como proceso, deseño como estratexia), os niveis de cualificación (junior, senior, manager, lead, consultor) e os niveis de formación da UNESCO, os niveis CINE 3, 5b, 6, 7, 8 e a súa equivalencia na educación española.
-       
+
       Isto serviunos para establecer un punto de partida e pouco a pouco achegámonos a preguntas concretas: En que departamento traballan os deseñadores nas grandes corporacións? Que competencias teñen? Que formación? Cal foi a súa traxectoria despois de saíren da escola? Como se relacionan as escolas cos profesionais do deseño? Que estratexias existen para medir o impacto do deseño nas empresas? Como ensinar a medir ese impacto nas escolas de deseño, nas asociacións de deseñadores...?
 
       Ademais, Transferencias enmárcase na semana do deseño de Málaga, e entre as súas actividades encóntrase a exposición Gráfica publicitaria. Relacións comerciais España-EUA. Carteis de 1890 a 1961; a participación de Owen Foster e Xènia Viladàs, xefe do departamento de deseño industrial e profesora de Deseño de Servizos do Savannah College of Art and Design de Georgia (EUA); de Jaime Moreno, Premio Nacional de Deseño 2015; Michael Thompson, director de experiencia de usuario de Telefónica I+D; Santiago Alfonso Rodríguez, director de marketing e comunicación de Cosentino; María José Jordá García, head of customer experience transformation at BBVA e Javier Fernández, coordinador de Transferencias Málaga 2016.
     type: text
-intro: 'A DAG participa na primeira edición de Transferencias Málaga 2016, un programa creado pola Rede Española de Asociacións de Deseño (READ) e a Confederación de Escolas de Arte (CEA), en colaboración con Telefónica I+D e La Térmica-Deputación de Málaga.'
+intro: "A DAG participa na primeira edición de Transferencias Málaga 2016, un programa creado pola Rede Española de Asociacións de Deseño (READ) e a Confederación de Escolas de Arte (CEA), en colaboración con Telefónica I+D e La Térmica-Deputación de Málaga."
 slug: a-dag-en-transferencias
 tags: []
 lang: gl

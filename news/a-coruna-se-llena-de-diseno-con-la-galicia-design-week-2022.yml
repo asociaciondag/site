@@ -1,14 +1,12 @@
 id: 1153
-title: 'A Coruña se llena de diseño con la Galicia Design Week 2022​'
+title: "A Coruña se llena de diseño con la Galicia Design Week 2022​"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/gdw22-imaxe.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La Galicia Design Week ofrece programació​n​ en cuatro ejes diferenciados: el _Pro_, con cuatro días de conferencias y presentaciones; el _Showcase_, que incluye tres exposiciones dedicadas al diseño; el _Showroom_, un escaparate digital de creaciones gallegas y una ruta por estudios y espacios de diseño de A Coruña; y el _Camp_, con cuatro talleres y revisión de portafolios.
 
       En las conferencias _Pro_ del viernes 24 y del sábado 25 participan 9 profesionales gallegos mezclados con 5 referentes nacionales. El público podrá disfrutar de los trabajos y de la experiencia de, entre otros, Kike Besada, Realmente Bravo, Óscar Germade y extratype, Verónica Bello de Designit, Estefanía Casal​, Lucía Freitas, Laura Delgado y Idoia Cuesta, o nuestra compañera [Uqui Permui](https://www.uqui.net/es).
@@ -23,17 +21,15 @@ body:
 
       La sede principal de la GDW será el [estudio Follow](https://follow.gal/studio) aunqu​e​​ gran parte de la programación se podrá seguir vía _streaming_. ​Las entradas son gratuitas y es precisa inscripción previa a través de la plataforma DICE.
     type: text
-  -
-    list: ''
-    url: 'https://www.gdw.gal'
-    text: 'Web GDW'
+  - list: ""
+    url: "https://www.gdw.gal"
+    text: "Web GDW"
     type: button
-  -
-    list: ''
-    url: 'https://dice.fm/event/ymmm2-galicia-design-week-22-24th-jun-studio-follow-a-corua-tickets'
-    text: 'Inscripciones a la GD​W'
+  - list: ""
+    url: "https://dice.fm/event/ymmm2-galicia-design-week-22-24th-jun-studio-follow-a-corua-tickets"
+    text: "Inscripciones a la GD​W"
     type: button
-intro: 'Durante los meses de junio y julio A Coruña será la sede de la [GDW22](https://www.gdw.gal/gdw22-pro), un evento que ofrece conferencias, presentaciones de proyectos​,​ exposiciones, rutas, gastronomía​​,​ talleres y revisiones de portafolios, en un formato híbrido con clara intención de acercar el diseño al público general de la mano de profesionales del sector.'
+intro: "Durante los meses de junio y julio A Coruña será la sede de la [GDW22](https://www.gdw.gal/gdw22-pro), un evento que ofrece conferencias, presentaciones de proyectos​,​ exposiciones, rutas, gastronomía​​,​ talleres y revisiones de portafolios, en un formato híbrido con clara intención de acercar el diseño al público general de la mano de profesionales del sector."
 slug: a-coruna-se-llena-de-diseno-con-la-galicia-design-week-2022
 tags: []
 lang: es

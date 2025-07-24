@@ -1,10 +1,9 @@
 id: 405
-title: 'Cruz Roja Enredando'
+title: "Cruz Roja Enredando"
 slug: cruz-roja-enredando
 body:
-  -
-    image: /img/portfolio/images/cruz-roja-enredando.jpg
-    text: ''
+  - image: /img/portfolio/images/cruz-roja-enredando.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/cruz-roja-enredando.jpg
 tags:

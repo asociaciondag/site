@@ -1,22 +1,20 @@
 id: 981
-title: 'Reconocimiento al diseño hecho en Galicia'
+title: "Reconocimiento al diseño hecho en Galicia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premiados.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Si hablamos de los [Premios de Arquitectura Ascensores Enor](http://www.enor.es/premio/) no serán muchas las personas que no sepan de que estamos hablando. Estos galardones, que nacieron en el año 2005, son hoy uno de los eventos de arquitectura más destacados de la Península Ibérica. En esta VIII edición, Ricardo Tubío y Xabier Rilo ([cenlitros](http://cenlitrosmetrocadrado.com/?lang=es)) han sido seleccionados con el proyecto que desarrollaron conjuntamente con Salgado e Liñares Arquitectos para la [regeneración del conjunto de la Casa da Cotona](http://www.salgadoeliñares.com/index.php/proxectos/patrimonio-rehabilitacion/casa-da-cotona), en Rois. Un nuevo ejemplo de como arquitectura y diseño confluyen para lograr un resultado óptimo.
 
       Las buenas noticias llegan también desde otros puntos del planeta. Los [_European Design Awards_](https://europeandesign.org) acaban de anunciar la lista de premiados para este 2020 tan atípico. Nos alegra mucho comunicar que la tipografía [Movement](http://www.nmtype.com/movement/) de María Ramos y Noel Pretorius ([NM type](http://www.nmtype.com)) ha sido galardonada con el Oro en la categoría «Tipografía Original–Display». Esta misma tipografía es además finalista en la 99ª edición de los [_ADC Awards_](https://www.adcawards.org). En este caso los premiados se darán a conocer durante el [_Creative Month_](https://www.oneclub.org/creativemonth/) un programa completamente _online_ y gratuito que, además de ofrecer charlas en vivo, permitirá interactuar con compañeros y compañeras de profesión.
     type: text
-intro: 'En estas semanas de cancelaciones y proyectos pausados el trabajo bien hecho sigue recibiendo merecido reconocimiento. Hablamos en este caso de los compañeros de cenlitrosmetrocadrado en los prestigiosos Premios de Arquitectura Ascensores Enor, y de la diseñadora de tipografías María Ramos en los _European Design Awards_ y los _ADC Awards_.'
+intro: "En estas semanas de cancelaciones y proyectos pausados el trabajo bien hecho sigue recibiendo merecido reconocimiento. Hablamos en este caso de los compañeros de cenlitrosmetrocadrado en los prestigiosos Premios de Arquitectura Ascensores Enor, y de la diseñadora de tipografías María Ramos en los _European Design Awards_ y los _ADC Awards_."
 slug: premios-mayo2020
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2020-04-30T20:28:50+00:00

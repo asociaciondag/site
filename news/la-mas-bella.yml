@@ -1,20 +1,17 @@
 id: 146
-title: 'La más bella'
+title: "La más bella"
 body:
-  -
-    text: 'Un proxecto sen ánimo de lucro que se concreta en varias vías de actuación: En primeiro lugar, e principalmente, na edición da revista experimental La Más Bella, un soporte de experimentación editorial, que se edita regularmente desde 1993,e con aproximadamente 40 números na rúa. En segundo lugar, a través de proxectos como Bellamátic e os seus alter ego BolaBellamátic e Bellamatamátic, todas elas máquinas automáticas expendedoras de produtos editoriais e artísticos. E en terceiro lugar, na organización de obradoiros, charlas, ciclos de arte acción, etc., relacionados coa actividade editorial. A revista experimental La Más Bella é un colector de colaboracións, que conta en cada edición co traballo de creadores procedentes de todas as disciplinas artísticas, tanto plásticas como literarias, audiovisuais ou conceptuais, principalmente do ámbito artístico e cultural español. Os colaboradores (case 700 desde 1993) son invitados a traballar nun tema monográfico e nun formato proposto por La Más Bella. O seu traballo é totalmente altruísta, e La Más Bella asume os procesos de produción, financiamento e distribución. Ademais de nos contidos, La Más Bella aposta desde sempre por un produto experimental no seu formato e aparencia externa, co que se queren achegar á idea de revista ensamblada ou libro obxecto que cultivaron moitos artistas e colectivos ao longo dos séculos XX e XXI.'
+  - text: "Un proxecto sen ánimo de lucro que se concreta en varias vías de actuación: En primeiro lugar, e principalmente, na edición da revista experimental La Más Bella, un soporte de experimentación editorial, que se edita regularmente desde 1993,e con aproximadamente 40 números na rúa. En segundo lugar, a través de proxectos como Bellamátic e os seus alter ego BolaBellamátic e Bellamatamátic, todas elas máquinas automáticas expendedoras de produtos editoriais e artísticos. E en terceiro lugar, na organización de obradoiros, charlas, ciclos de arte acción, etc., relacionados coa actividade editorial. A revista experimental La Más Bella é un colector de colaboracións, que conta en cada edición co traballo de creadores procedentes de todas as disciplinas artísticas, tanto plásticas como literarias, audiovisuais ou conceptuais, principalmente do ámbito artístico e cultural español. Os colaboradores (case 700 desde 1993) son invitados a traballar nun tema monográfico e nun formato proposto por La Más Bella. O seu traballo é totalmente altruísta, e La Más Bella asume os procesos de produción, financiamento e distribución. Ademais de nos contidos, La Más Bella aposta desde sempre por un produto experimental no seu formato e aparencia externa, co que se queren achegar á idea de revista ensamblada ou libro obxecto que cultivaron moitos artistas e colectivos ao longo dos séculos XX e XXI."
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9a0519c-download-13.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9a0519c-download-14.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'La Más Bella é un proxecto de acción e experimentación editorial, que impulsa e realiza proxectos artísticos especificamente pensados para seren editados por canles e métodos alternativos ao mundo editorial convencional.'
+intro: "La Más Bella é un proxecto de acción e experimentación editorial, que impulsa e realiza proxectos artísticos especificamente pensados para seren editados por canles e métodos alternativos ao mundo editorial convencional."
 slug: la-mas-bella
 tags: []
 lang: gl

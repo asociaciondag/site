@@ -1,23 +1,20 @@
 id: 34
 title: DIÁLOGOS
 body:
-  -
-    text: 'A DAG, presenta unha exposición de logotipo/marca/identidade gráfica de recente creación en Galicia. Tamén se mostrarán anteriores accións do colectivo: "En torno da baskerville" e o taller de tipografía, "O ollo na rúa. sinais de identidade" realizado no CGAC (Santiago de Compostela). O día 10 de Xullo terá lugar, tamén en Pontevedra e formando parte deste mesmo proxecto: Pecha Kucha Night, presentacións de traballos creativos nun formato de 20 imaxes x 20 segundos.'
+  - text: 'A DAG, presenta unha exposición de logotipo/marca/identidade gráfica de recente creación en Galicia. Tamén se mostrarán anteriores accións do colectivo: "En torno da baskerville" e o taller de tipografía, "O ollo na rúa. sinais de identidade" realizado no CGAC (Santiago de Compostela). O día 10 de Xullo terá lugar, tamén en Pontevedra e formando parte deste mesmo proxecto: Pecha Kucha Night, presentacións de traballos creativos nun formato de 20 imaxes x 20 segundos.'
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a96d6d26-dialogos.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     file: /files/553e7a96d6d26-cartaz.pdf
     text: Descargar
     type: file
-intro: 'O proxecto expositivo DIÁLOGOS inaugurarase o vindeiro mércores 1 de xullo de 2009, ás 20:00 horas na sala de exposicións do Pazo da Cultura de Pontevedra.'
+intro: "O proxecto expositivo DIÁLOGOS inaugurarase o vindeiro mércores 1 de xullo de 2009, ás 20:00 horas na sala de exposicións do Pazo da Cultura de Pontevedra."
 slug: dialogos
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: gl
 draft: false
 date: 2009-06-23T17:15:30+00:00

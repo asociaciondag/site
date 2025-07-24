@@ -1,8 +1,7 @@
 id: 577
-title: 'A DAG reuniuse co concello da Coruña para falar sobre os concursos e a contratación do deseño'
+title: "A DAG reuniuse co concello da Coruña para falar sobre os concursos e a contratación do deseño"
 body:
-  -
-    text: |-
+  - text: |-
       O obxectivo da reunión foi pór en coñecemento da nova corporación municipal algunha das medidas que a DAG vén demandando das administracións públicas galegas desde hai tempo.
 
       Ao longo de case dúas horas, as representantes da DAG comentaron co concelleiro a situación da profesión en Galicia, e propuxéronlle un conxunto de boas prácticas para activar mecanismos de contratación racionais e xustos, dentro dos límites que propón a Lei de contratos do sector público (LCSP).
@@ -18,23 +17,21 @@ body:
       - Que no caso de solicitar solucións gráficas concretas no proceso de contratación, esas propostas sexan sempre remuneradas tal como recolle o artigo 179 da LCSP.
       - Que no órgano de contratación haxa profesionais do deseño nunha proporción mínima da metade mais un dos seus membros.
       - Que tal como recolle o artigo 96 da LCSP, a garantía do contrato poida producirse por unha retención do importe de contratación en vez de pola presentación dun aval ou dun ingreso en metálico.
-       
+
       José Manual Sande confirmou que estudarán en detalle o conxunto de recomendacións propostas e manifestou o seu compromiso de incorporalas progresivamente no seu quefacer como concelleiro.
 
       A DAG agradece a cordialidade e vontade de entendemento por parte do concelleiro de cultura e confía en que no futuro outras corporacións municipais valoren a posibilidade de incorporar o deseño como ferramenta necesaria na acción de goberno e promovan modos de contratación que axuden o tecido de empresas creativas do país.
     type: text
-  -
-    list: ''
-    url: 'http://dag.gal/gl/a-posicion-da-dag-sobre-os-concursos-de-deseno'
-    text: 'A postura da DAG sobre os concursos de deseño'
+  - list: ""
+    url: "http://dag.gal/gl/a-posicion-da-dag-sobre-os-concursos-de-deseno"
+    text: "A postura da DAG sobre os concursos de deseño"
     type: button
-  -
-    list: after
+  - list: after
     image: /img/news/images/55ba4397e50ad-corun-a.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'O pasado martes 21 de xullo unha representación da directiva da DAG acudiu á Coruña para reunirse con José Manuel Sande, concelleiro de servizos sociais, cultura, educación e deporte do Concello da Coruña.'
+intro: "O pasado martes 21 de xullo unha representación da directiva da DAG acudiu á Coruña para reunirse con José Manuel Sande, concelleiro de servizos sociais, cultura, educación e deporte do Concello da Coruña."
 slug: a-dag-reuniuse-co-concello-da-coruna-para-falar-sobre-os-concursos-e-a-contratacion-do-deseno
 tags:
   - concursos

@@ -1,14 +1,13 @@
 id: 343
-title: 'Xunta de Galicia'
+title: "Xunta de Galicia"
 slug: xunta-de-galicia
 body:
-  -
-    image: /img/portfolio/images/xunta-de-galicia.jpg
-    text: ''
+  - image: /img/portfolio/images/xunta-de-galicia.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/xunta-de-galicia.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Tipografía
 members_id:
   - 6

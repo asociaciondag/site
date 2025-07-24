@@ -1,15 +1,13 @@
 id: 254
-title: 'X Edición de Mundos Dixitais'
+title: "X Edición de Mundos Dixitais"
 body:
-  -
-    text: 'O intenso [programa](http://www.mundosdigitales.org/espanol/conferencias.php) deste ano arranca o mércores, cunha primeira xornada dedicada á arquitectura dixital, mentres que ao día seguinte, o cine e a animación serán os protagonistas. O xoves será ademais o día en que se poidan ver os últimos proxectos desenvolvidos neste ámbito polas empresas galegas Moonbite Games, Perro Verde Films e Otiiplanet. Os últimos avances en publicidade acapararán toda a atención durante a mañá do venres e xa pola tarde será a quenda das conferencias, con dúas das intervencións máis agardadas: a de Eric Roth e a do supervisor de efectos especiais na película Orixe, Astrid Busser. O festival pecharase o sábado coa entrega do premio especial a Alvy Ray Smith, cofundador de Pixar. Esta décima edición do festival presenta como novidade a celebración do I Foro de Educación para a Industria co fin de propiciar a comunicación e o intercambio de experiencias entre os representantes da industrias e os centros educativos. No marco deste encontro tamén está prevista a realización de procesos de recrutamento por parte dalgunhas empresas interesadas en incorporar novos talentos aos seus equipos. Lugar: Sede da Fundación Caixa Galicia Cantón Grande 21-24 15003 A Coruña Máis información na páxina de [Mundos Dixitais](http://www.mundosdigitales.org/espanol/noticias.php)'
+  - text: "O intenso [programa](http://www.mundosdigitales.org/espanol/conferencias.php) deste ano arranca o mércores, cunha primeira xornada dedicada á arquitectura dixital, mentres que ao día seguinte, o cine e a animación serán os protagonistas. O xoves será ademais o día en que se poidan ver os últimos proxectos desenvolvidos neste ámbito polas empresas galegas Moonbite Games, Perro Verde Films e Otiiplanet. Os últimos avances en publicidade acapararán toda a atención durante a mañá do venres e xa pola tarde será a quenda das conferencias, con dúas das intervencións máis agardadas: a de Eric Roth e a do supervisor de efectos especiais na película Orixe, Astrid Busser. O festival pecharase o sábado coa entrega do premio especial a Alvy Ray Smith, cofundador de Pixar. Esta décima edición do festival presenta como novidade a celebración do I Foro de Educación para a Industria co fin de propiciar a comunicación e o intercambio de experiencias entre os representantes da industrias e os centros educativos. No marco deste encontro tamén está prevista a realización de procesos de recrutamento por parte dalgunhas empresas interesadas en incorporar novos talentos aos seus equipos. Lugar: Sede da Fundación Caixa Galicia Cantón Grande 21-24 15003 A Coruña Máis información na páxina de [Mundos Dixitais](http://www.mundosdigitales.org/espanol/noticias.php)"
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9de5450-x-mundos-digitales.gif
-    text: ''
+    text: ""
     type: image
-intro: 'Do 6 ao 9 de xullo celébrase na Coruña Mundos Dixitais, o Festival Internacional de Animación, Efectos Especiais, Videoxogos e Arquitectura Dixital.'
+intro: "Do 6 ao 9 de xullo celébrase na Coruña Mundos Dixitais, o Festival Internacional de Animación, Efectos Especiais, Videoxogos e Arquitectura Dixital."
 slug: x-edicion-de-mundos-dixitais
 tags: []
 lang: gl

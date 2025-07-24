@@ -1,52 +1,45 @@
 id: 1064
-title: 'Os Laus 2021 premian o traballo de desescribir e Roberto Núñez'
+title: "Os Laus 2021 premian o traballo de desescribir e Roberto Núñez"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/premioslaus.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       As catro nominacións dos nosos socios convertéronse en premio durante a Nit Laus. Catro eran os proxectos que estaban nominados nas distintas categorías e catro foron os proxectos que conseguiron un Laus de bronce nesta convocatoria.
 
       Roberto Núñez Studio foi galardoado na categoría de Dirección de arte / packaging polo seu traballo para Maccerato, de Viña Almirante SCG. Un deseño homenaxe a Domingo Fontán e á súa magnífica carta xeométrica de 1834.
 
       Roberto recibiu tamén un bronce pola dirección de arte da [web de Davide](https://www.davide.es/gl/), unha bodega para a que se creou un código gráfico minimalista, delicado e onírico. Un proxecto complexo que ademais do desenvolvemento gráfico e web, inclúe contido audiovisual, fotografía de produto e ilustracións CGI.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/davide.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Os compañeiros de desescribir, recoñecidos en numerosas ocasións nos Laus, foron galardoados nesta nova edición polo cartel para o filme Ons, de Maruxiña Films, e o catálogo [«Cabrita. WORK (always) IN PROGRESS»](https://libraria.xunta.gal/gl/cabrita-work-always-in-progress), para o Centro Galego de Arte Contemporánea.
 
       O catálogo da exposición retrospectiva do artista Pedro Cabrita Reis é un deseño «silencioso» que reflicte a mirada dun artista obsesionado co arquivo e documentación da súa obra.
 
       O cartel para a película «Ons», premiado tamén con un bronce, é unha proposta que busca suxerir, interpelando a quen mira. Un deseño que prescinde do innecesario para transmitir unha atmósfera concreta a través da tipografía, a cor, e a fotografía.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/ons-peq.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: 'Celebramos os premios dos nosos socios polo merecido recoñecemento ao seu traballo e trasladamos os nosos parabéns a todos e todas as gañadoras.'
+  - text: "Celebramos os premios dos nosos socios polo merecido recoñecemento ao seu traballo e trasladamos os nosos parabéns a todos e todas as gañadoras."
     type: text
-  -
-    list: ''
-    url: 'https://www.adg-fad.org/es/laus/premiados'
-    text: 'Premios Laus 2021'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premiados"
+    text: "Premios Laus 2021"
     type: button
-intro: 'A edición anual dos premios Laus revelou os nomes dos proxectos gañadores na gala celebrada o pasado xoves 10 de xuño. Un ano máis, atopamos na lista de premios o traballo de varios socios: [Roberto Núñez](https://robertonunez.com/), co seu estudio ubicado en Barcelona, e Suso Vázquez e Cibrán Rico, do estudio galego [desescribir](http://www.desescribir.com/).'
+intro: "A edición anual dos premios Laus revelou os nomes dos proxectos gañadores na gala celebrada o pasado xoves 10 de xuño. Un ano máis, atopamos na lista de premios o traballo de varios socios: [Roberto Núñez](https://robertonunez.com/), co seu estudio ubicado en Barcelona, e Suso Vázquez e Cibrán Rico, do estudio galego [desescribir](http://www.desescribir.com/)."
 slug: laus-2021-premian-o-traballo-de-desescribir-e-robertonunez
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2021-06-14T12:01:25+00:00

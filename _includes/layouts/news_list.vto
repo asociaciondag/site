@@ -1,0 +1,60 @@
+---
+layout: layouts/base.vto
+---
+<div class="wrapper">
+  <nav class="buttons-tabs">
+    {{ set p = search.page("id=news lang=" + lang) }}
+    <a class="button is-selected" href="{{ p.url }}">{{ t.news.news }}</a>
+    {{ set p = search.page("id=articles lang=" + lang) }}
+    <a class="button" href="{{ p.url }}">{{ t.news.articles }}</a>
+  </nav>
+
+  <ul class="buttons-tags page-content-bar">
+    <li {{ if !tag }} class="is-selected"{{ /if }}>
+      {{ set p = search.page("id=news lang=" + lang) }}
+      <a href="{{ p.url }}">{{ t.news.all_tags }}</a>
+    </li>
+
+    {{ for page of search.pages("type=news_tag lang=" + lang) }}
+      <li {{ if page.url == url }} class="is-selected"{{ /if }}>
+        <a href="{{ page.url }}">{{ page.tag }}</a>
+      </li>
+    {{ /for }}
+  </ul>
+
+  <div class="ui-autoload-container">
+    {{ if tag }}
+      {{
+        set news = search.pages(
+          "type=news lang=" + lang + " '" + tag + "'",
+          "date=desc",
+        )
+      }}
+    {{ else }}
+      {{ set news = search.pages("type=news lang=" + lang, "date=desc") }}
+    {{ /if }}
+
+    {{ for page of news }}
+      <article class="new new-list">
+        <header class="new-header">
+          <nav>
+            {{ for tag of page.tags }}
+              <a href="/tags/{{ tag }}">{{ tag }}</a>
+            {{ /for }}
+          </nav>
+
+          <time datetime='{{ page.date |> date("DATETIME") }}'>{{
+            page.date
+            |> date("HUMAN_DATE")
+          }}</time>
+
+          <h1>
+            <a href="{{ page.url }}">
+              {{ page.title }}
+            </a>
+          </h1>
+        </header>
+      </article>
+    {{ /for }}
+  </div>
+</div>

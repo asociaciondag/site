@@ -1,18 +1,16 @@
 id: 833
-title: 'Mañá comeza Transferencias.Design Málaga 2018'
+title: "Mañá comeza Transferencias.Design Málaga 2018"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/transferenciasdesign-2018.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Transferencias.Design Málaga2018 é un encontro multidisciplinar no que empresas, institucións e profesionais debaten sobre as relacións entre deseño e sociedade contemporánea. A procura de relacións ten por obxecto a transferencia de coñecementos e experiencias en procesos e dinámicas horizontais de traballo.
 
-      Nesta edición contan con cinco áreas temáticas:  
-         
+      Nesta edición contan con cinco áreas temáticas:
+
        1) **A investigación en Deseño** e a necesidade dunha área de coñecemento específica que facilite a acreditación e o recoñecemento do estatus científico-académico do deseño alén do artístico, cultural ou económico. Ocupará a mañá do venres 19 de outubro nunha sesión plenaria aberta ao público en xeral na sala de concertos Unicaja María Cristina.
 
       2\) **A relación e transferencia de coñecemento entre empresas e centros educativos**
@@ -27,12 +25,11 @@ body:
 
       En sesión plenaria só para inscritos na mañá do sábado 20 de outubro.
     type: text
-  -
-    list: ''
-    url: 'http://www.transferencias.design/'
-    text: 'Web de Transferencias design'
+  - list: ""
+    url: "http://www.transferencias.design/"
+    text: "Web de Transferencias design"
     type: button
-intro: 'Transferencias.Design Málaga2018 desenvolverase durante os días 19 e 20 de outubro de 2018 en dúas sedes malagueñas: a sala Unicaja María Cristina e o Museo do Patrimonio Municipal de Málaga (MUPAM).'
+intro: "Transferencias.Design Málaga2018 desenvolverase durante os días 19 e 20 de outubro de 2018 en dúas sedes malagueñas: a sala Unicaja María Cristina e o Museo do Patrimonio Municipal de Málaga (MUPAM)."
 slug: mana-comeza-transferencias-design-malaga-2018
 tags: []
 lang: gl

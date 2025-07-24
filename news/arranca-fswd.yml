@@ -1,14 +1,12 @@
 id: 1011
-title: 'Arranca el proyecto FSWD con el objetivo de promover el diseño español a nivel internacional'
+title: "Arranca el proyecto FSWD con el objetivo de promover el diseño español a nivel internacional"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/libro-fswd.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       FSWD es un ambicioso proyecto impulsado por la [Red Española de Asociaciones de Diseño](http://www.designread.es), de la que la DAG es miembro, y concebido de manera colaborativa en anteriores ediciones del ENAD. Es una iniciativa que cuenta además con el apoyo del Ministerio de Educación, Cultura y Deporte.
 
       El corazón del proyecto incluye 3 vías principales: una plataforma web, una exposición y un documental. Entre sus objetivos están la necesidad de dar visibilidad al diseño español, favorecer el trabajo colaborativo, y reivindicar el valor de la creatividad y del diseño en los procesos de crecimiento y mejora.
@@ -23,17 +21,15 @@ body:
 
       _From Spain With Design_ nace con la idea de ser un proyecto vivo y dinámico, abierto a la colaboración de empresas e instituciones para conseguir que nuestro diseño expanda sus fronteras y llegue a un mayor número de personas.
     type: text
-  -
-    list: ''
-    url: 'https://fswd.es'
-    text: 'Web FSWD'
+  - list: ""
+    url: "https://fswd.es"
+    text: "Web FSWD"
     type: button
-  -
-    list: ''
-    url: 'http://www.experimenta.es/tienda/producto/from-spain-with-design-refleja-la-imagen-de-espana-lo-que-disenamos/'
-    text: 'Libro FSWD ¿Refleja la imagen de España lo que diseñamos?'
+  - list: ""
+    url: "http://www.experimenta.es/tienda/producto/from-spain-with-design-refleja-la-imagen-de-espana-lo-que-disenamos/"
+    text: "Libro FSWD ¿Refleja la imagen de España lo que diseñamos?"
     type: button
-intro: 'El 8º Encuentro Nacional de Asociaciones de Diseño, organizado por DIP Murcia y READ, acogió la presentación oficial de un proyecto que busca la proyección internacional de nuestro diseño: _From Spain With Design_.'
+intro: "El 8º Encuentro Nacional de Asociaciones de Diseño, organizado por DIP Murcia y READ, acogió la presentación oficial de un proyecto que busca la proyección internacional de nuestro diseño: _From Spain With Design_."
 slug: arranca-fswd
 tags: []
 lang: es

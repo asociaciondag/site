@@ -23,65 +23,65 @@
  */
 
 .ly-grid[data-columns] {
-	display: flex;
-	justify-content: center;
+  display: flex;
+  justify-content: center;
 
-	& > :not(.column) {
-		visibility: hidden;
-	}
+  & > :not(.column) {
+    visibility: hidden;
+  }
 
-	& > .column {
-		width: 100%;
-		max-width: 530px;
-		box-sizing: border-box;
-	}
+  & > .column {
+    width: 100%;
+    max-width: 530px;
+    box-sizing: border-box;
+  }
 
-	&::before {
-		color: transparent;
-		position: absolute;
-	}
+  &::before {
+    color: transparent;
+    position: absolute;
+  }
 
-	/* 1 columna */
-	@media (max-width: 899px) {
-		&::before {
-			content: "1 .column";
-		}
-	}
+  /* 1 columna */
+  @media (max-width: 899px) {
+    &::before {
+      content: "1 .column";
+    }
+  }
 
-	/* 2 columnas */
-	@media (min-width: 900px) {
-		& > .column {
-			width: 50%;
-			padding: 1em 0;
+  /* 2 columnas */
+  @media (min-width: 900px) {
+    & > .column {
+      width: 50%;
+      padding: 1em 0;
 
-			& > * {
-				padding: 0 2em;
-			}
+      & > * {
+        padding: 0 2em;
+      }
 
-			&:nth-child(1) {
-				border-right: solid 8px rgba(0, 0, 0, 0.05);
-			}
-		}
-	}
+      &:nth-child(1) {
+        border-right: solid 8px rgba(0, 0, 0, 0.05);
+      }
+    }
+  }
 
-	@media (min-width: 900px) AND (max-width: 1499px) {
-		&::before {
-			content: "2 .column";
-		}
-	}
+  @media (min-width: 900px) and (max-width: 1499px) {
+    &::before {
+      content: "2 .column";
+    }
+  }
 
-	/* 3 columnas */
-	@media (min-width: 1500px) {
-		&::before {
-			content: "3 .column";
-		}
+  /* 3 columnas */
+  @media (min-width: 1500px) {
+    &::before {
+      content: "3 .column";
+    }
 
-		& > .column {
-			width: 33.33%;
+    & > .column {
+      width: 33.33%;
 
-			&:nth-child(2) {
-				border-right: solid 8px rgba(0, 0, 0, 0.05);
-			}
-		}
-	}
+      &:nth-child(2) {
+        border-right: solid 8px rgba(0, 0, 0, 0.05);
+      }
+    }
+  }
 }

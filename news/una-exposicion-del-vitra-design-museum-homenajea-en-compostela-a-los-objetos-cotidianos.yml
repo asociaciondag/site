@@ -1,14 +1,11 @@
 id: 387
-title: 'Una exposición del Vitra Design Museum homenajea en Compostela a los objetos cotidianos'
+title: "Una exposición del Vitra Design Museum homenajea en Compostela a los objetos cotidianos"
 body:
-  -
-    type: text
-    text: 'Del 6 de julio al 29 de agosto de 2012 puede visitarse en el Colegio de Fonseca en Santiago de Compostela una exposición que le rinde homenaje a los objetos cotidianos y que nos desvela las historias que se esconden detrás de ellos. Los protagonistas de esta muestra que lleva por título **Héroes ocultos. Inventos geniales. Objectos cotidianos** son objetos como el lápiz, la lata, la cremallera, el clip, la tirita, el velcro, la pinza de tender la ropa, el abanico o el tetrabrik, elementos todos que forman parte de nuestro día a día y en los que ya no reparamos, pero a los que está exposición nos enseñará a mirar con otros ojos, descubriéndonos aspectos como la fascinante historia de su invención, las condiciones técnicas en que se fabrican, su evolucióno qué inspiró a los artistas y diseñadores a la hora de crearlos. Los conservadores del Vitra Design JochenEisenbrand y Laura Hompesch son los comisarios de esta exposición que nos acerca a esas acertadas estrategias creativas y empresariales que consiguieron el éxito, pero que también nos descubre que muchas veces es el azar quien se halla detrás de productos masivos que, en realidad, habían sido concebidos como algo completamente distinto. Lugar: Colexio de Fonseca Praza de Fonseca, s/n Santiago de Compostela Horario de la exposición: De lunes a sábado, de 11 a 14 h y de 17 a 20.30 h Domingos y festivos, de 11 a 14 h Visitas guiadas para grupos, cita previa en el teléfono 981 554 400'
-  -
-    type: image
+  - type: text
+    text: "Del 6 de julio al 29 de agosto de 2012 puede visitarse en el Colegio de Fonseca en Santiago de Compostela una exposición que le rinde homenaje a los objetos cotidianos y que nos desvela las historias que se esconden detrás de ellos. Los protagonistas de esta muestra que lleva por título **Héroes ocultos. Inventos geniales. Objectos cotidianos** son objetos como el lápiz, la lata, la cremallera, el clip, la tirita, el velcro, la pinza de tender la ropa, el abanico o el tetrabrik, elementos todos que forman parte de nuestro día a día y en los que ya no reparamos, pero a los que está exposición nos enseñará a mirar con otros ojos, descubriéndonos aspectos como la fascinante historia de su invención, las condiciones técnicas en que se fabrican, su evolucióno qué inspiró a los artistas y diseñadores a la hora de crearlos. Los conservadores del Vitra Design JochenEisenbrand y Laura Hompesch son los comisarios de esta exposición que nos acerca a esas acertadas estrategias creativas y empresariales que consiguieron el éxito, pero que también nos descubre que muchas veces es el azar quien se halla detrás de productos masivos que, en realidad, habían sido concebidos como algo completamente distinto. Lugar: Colexio de Fonseca Praza de Fonseca, s/n Santiago de Compostela Horario de la exposición: De lunes a sábado, de 11 a 14 h y de 17 a 20.30 h Domingos y festivos, de 11 a 14 h Visitas guiadas para grupos, cita previa en el teléfono 981 554 400"
+  - type: image
     image: /img/news/images/553e7aa1e409a-inventos-xeniais.jpg
-  -
-    type: file
+  - type: file
     text: Descargar
     file: /files/553e7aa1e409a-dosier-inventos-xeniais.pdf
 intro: null

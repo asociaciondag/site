@@ -1,20 +1,17 @@
 id: 782
-title: 'O deseño español no século XXI: desafíos e estratexias'
+title: "O deseño español no século XXI: desafíos e estratexias"
 body:
-  -
-    text: 'O programa inclúe dúas mesas redondas moderadas por Marcelo Leslabay (director de Experimenta) e Vicente Gallega (presidente da READ) e dous coloquios que teñen como obxectivo informar sobre a situación actual do deseño español, sobre os desafíos aos que se enfronta na actual conxuntura económica internacional, analizar fortalezas e debilidades para a competitividade das empresas e profesionais do deseño, e formular as medidas que, desde a Administración xeral do Estado, se poden implantar para reforzar este sector a través dunha estratexia nacional de deseño.'
+  - text: "O programa inclúe dúas mesas redondas moderadas por Marcelo Leslabay (director de Experimenta) e Vicente Gallega (presidente da READ) e dous coloquios que teñen como obxectivo informar sobre a situación actual do deseño español, sobre os desafíos aos que se enfronta na actual conxuntura económica internacional, analizar fortalezas e debilidades para a competitividade das empresas e profesionais do deseño, e formular as medidas que, desde a Administración xeral do Estado, se poden implantar para reforzar este sector a través dunha estratexia nacional de deseño."
     type: text
-  -
-    list: ''
+  - list: ""
     file: /files/programa-da-xornada.pdf
-    text: 'Programa da xornada'
+    text: "Programa da xornada"
     type: file
-  -
-    list: ''
+  - list: ""
     file: /files/171114-pnl-desarrollo-de-una-estrategia-nacional-de-disen-o-2.pdf
-    text: 'Iniciativa lexislativa da deputada socialista por Valencia, Ana Botella'
+    text: "Iniciativa lexislativa da deputada socialista por Valencia, Ana Botella"
     type: file
-intro: 'O próximo 12 de xaneiro terá lugar no Congreso dos Deputados a xornada parlamentaria O deseño español no século XXI: desafíos e estratexias.'
+intro: "O próximo 12 de xaneiro terá lugar no Congreso dos Deputados a xornada parlamentaria O deseño español no século XXI: desafíos e estratexias."
 slug: o-deseno-espanol-no-seculo-xxi-desafios-e-estratexias
 tags: []
 lang: gl

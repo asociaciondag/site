@@ -4,19 +4,16 @@ contact: |-
 
   <angel@angelcorral.com>
 links:
-  -
-    text: Web
-    url: 'https://www.angelcorral.com/'
+  - text: Web
+    url: "https://www.angelcorral.com/"
     type: link
-  -
-    text: Behance
-    url: 'https://www.behance.net/angelcorral'
+  - text: Behance
+    url: "https://www.behance.net/angelcorral"
     type: link
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/elnhote'
+  - text: Instagram
+    url: "https://www.instagram.com/elnhote"
     type: link
-name: 'Ángel Corral'
+name: "Ángel Corral"
 slug: angel-corral
 avatarBig: null
 avatar: /img/avatars/foto-lnk.jpg
@@ -24,9 +21,9 @@ tags:
   - Editorial
   - Embalaxe
   - Tipografía
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 draft: false
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico e dirección de arte'
-job.es: 'Diseñador gráfico y dirección de arte'
+job.gl: "Deseñador gráfico e dirección de arte"
+job.es: "Diseñador gráfico y dirección de arte"

@@ -1,20 +1,18 @@
 id: 835
-title: 'III Premios de la Comunicación y del Marketing de Galicia'
+title: "III Premios de la Comunicación y del Marketing de Galicia"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/screenshot-2018-10-29-premios-paraugas.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       La categoría de Diseño estará patrocinada por GAIN - Agencia Gallega de Innovación y contará con tres premios específicos:
 
       1. **Premio Paraguas al Mejor Diseño Gráfico:** Proyectos profesionales de identidad corporativa, embalajes (en el aspecto visual), editorial, tipografía, cartelería o cualquier otra aplicación que emplee el lenguaje visual gráfico como fundamento en la transmisión de mensajes o ideas
       2. **Premio Paraguas al Mejor Diseño Industrial:** Proyectos profesionales de productos, elementos de iluminación, mobiliario, sinalética, embalaje (en el aspecto estructural), maquinaria, soluciones de escenografías, exposiciones, stands, punto de venta o cualquier otro objeto o espacio físico que busque mejorar su funcionalidad conjugando los procesos de fabricación o construción con las necesidades formales o comunicativas
       3. **Premio Paraguas al Mejor Diseño Digital:** Proyectos profesionales de aplicacións para móbiles, páginas web, interfaces de software o cualquier otra aplicación digital que empleen el lenguaje visual gráfica como herramientas para facilitar la interacción y la usabilidad con ellas
-       
+
       Los trabajos serán valorado por un jurado conformado por tres profesionales del sector de experiencia contrastada y de completa independencia:
 
       ## Xurado
@@ -41,26 +39,25 @@ body:
 
       - Las dos primeras inscripciones: gratuitas
       - 3ª inscripción y siguientes: 30€+ IVA por cada inscripción
-       
+
       ### Empresas o profesionales socios de Creatividade Galega, Dircom, Markea o Ejecutivas de Galicia:
 
       - 1ª inscripción: 45€ +IVA
       - 2ª inscripción: 45€+ IVA
       - 3ª inscrpición y siguientes: gratis
-       
+
       ### Empresas o profesionales NO socios de ninguna de las entidades nomeadas anteriormente:
 
       - 1ª inscripción: 90€+IVA
       - 2ª inscripción: 90€+IVA
       - 3ª inscripción y siguientes: gratis
-       
+
     type: text
-  -
-    list: ''
-    url: 'http://premios.clustercomunicacion.gal/'
-    text: 'III Premios Paraugas'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/"
+    text: "III Premios Paraugas"
     type: button
-intro: 'El Clúster de la Comunicación Gráfica ha convocado recientemente la tercera edición de los Premios de la Comunicación y del Marketing de Galicia.'
+intro: "El Clúster de la Comunicación Gráfica ha convocado recientemente la tercera edición de los Premios de la Comunicación y del Marketing de Galicia."
 slug: iii-premios-de-la-comunicacion-y-del-marketing-de-galicia
 tags: []
 lang: es

@@ -1,8 +1,7 @@
 id: 728
-title: 'Publícase a convocatoria dos Premios Nacionais de Innovación e Deseño'
+title: "Publícase a convocatoria dos Premios Nacionais de Innovación e Deseño"
 body:
-  -
-    text: |-
+  - text: |-
       Nesta edición os Premios Nacionais de Innovación incorporan as modalidades Traxectoria Innovadora, Compra Pública Innovadora e Internacionalización e os Premios Nacionais de Deseño, as modalidades: Profesionais e Empresas
 
       Os Premios Nacionais de Innovación e de Deseño son o máis alto galardón que se outorga en España como recoñecemento ás empresas e profesionais que destacaron pola súa traxectoria excelente e exemplar nuns casos no campo do deseño e noutros no da innovación. Estes premios recoñecen a innovación e o deseño como factores esenciais para aumentar a competitividade e o rendemento económico así como para fornecer calidade de vida aos cidadáns. Con eles trátase así mesmo de fomentar a cultura do deseño e a da innovación en España, tanto no ámbito empresarial como no conxunto da sociedade en xeral.
@@ -11,7 +10,7 @@ body:
 
       Para accederes a toda a información sobre a convocatoria: <http://www.idi.mineco.gob.es/portal/site/MICINN/PNID>
     type: text
-intro: 'Con data 6 de maio de 2017, foi publicada no Boletín Oficial do Estado a Resolución do 5 de maio de 2017, da Secretaría Xeral de Ciencia e Innovación, pola que se convocan os Premios Nacionais de Innovación e de Deseño 2017, nalgunha das súas modalidades.'
+intro: "Con data 6 de maio de 2017, foi publicada no Boletín Oficial do Estado a Resolución do 5 de maio de 2017, da Secretaría Xeral de Ciencia e Innovación, pola que se convocan os Premios Nacionais de Innovación e de Deseño 2017, nalgunha das súas modalidades."
 slug: publicase-a-convocatoria-dos-premios-nacionais-de-innovacion-e-deseno
 tags: []
 lang: gl

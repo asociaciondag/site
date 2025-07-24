@@ -1,27 +1,24 @@
 id: 788
-title: 'Casos de éxito do deseño galego'
+title: "Casos de éxito do deseño galego"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/cismadeira-deseno.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       A iniciativa insírese dentro do proxecto europeo [Design4innovation](https://www.interregeurope.eu/design4innovation/) e pretende:
 
       - Identificar os **dous mellores proxectos** industrializados por empresas galegas e presentalos, con cobertura de gastos de aloxamento e desprazamento, na **exposición de deseño europeo** que terá lugar en abril 2018 na Valetta, capital europea da cultura 2018.
       - Editar unha **publicación** que recompile todos aqueles **casos** que reúnan as características solicitadas e que axude a difundir as **mellores prácticas do deseño galego**, demostrando que o deseño pode ser chave para conseguir obxectivos específicos da empresa, tan pragmáticos como alcanzar certas cuotas de mercado, abrir mercados novos, diversificar a oferta de produtos, conseguir que unha innovación tecnolóxica sexa asimilada facilmente polo usuario.
-       
+
       Todos os detalles sobre o proceso de inscrición e selección están contidos no seguinte documento:
     type: text
-  -
-    list: ''
-    url: 'http://www.cismadeira.es/Galego/downloads/design4innovation_bases_deseno.pdf'
-    text: 'Convocatoria dos casos de éxito do deseño galego'
+  - list: ""
+    url: "http://www.cismadeira.es/Galego/downloads/design4innovation_bases_deseno.pdf"
+    text: "Convocatoria dos casos de éxito do deseño galego"
     type: button
-intro: 'Co obxectivo de pór en valor o deseño como factor de innovación, a Axencia Galega de Innovación ([GAIN](http://gain.xunta.gal/)) a través dos Centros de Centros de Innovación e Servizos Tecnolóxicos da Madeira ([CIS-Madeira](http://www.cismadeira.com/galego/inicial.html)) e do Deseño e a Tecnoloxía ([CIS-Galicia](http://www.cisgalicia.org/gallego/index.html)) está a promover unha iniciativa para identificar casos de éxito do deseño en Galicia, co fin de visibilizar e promocionar o potencial galego neste ámbito.'
+intro: "Co obxectivo de pór en valor o deseño como factor de innovación, a Axencia Galega de Innovación ([GAIN](http://gain.xunta.gal/)) a través dos Centros de Centros de Innovación e Servizos Tecnolóxicos da Madeira ([CIS-Madeira](http://www.cismadeira.com/galego/inicial.html)) e do Deseño e a Tecnoloxía ([CIS-Galicia](http://www.cisgalicia.org/gallego/index.html)) está a promover unha iniciativa para identificar casos de éxito do deseño en Galicia, co fin de visibilizar e promocionar o potencial galego neste ámbito."
 slug: casos-de-exito-do-deseno-galego
 tags: []
 lang: gl

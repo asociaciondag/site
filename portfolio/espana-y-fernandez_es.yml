@@ -1,22 +1,19 @@
 id: 253
-title: 'España y Fernández'
+title: "España y Fernández"
 slug: espana-y-fernandez
 body:
-  -
-    image: /img/portfolio/images/espana-y-fernandez-2019-rebranding.jpg
-    text: ''
+  - image: /img/portfolio/images/espana-y-fernandez-2019-rebranding.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/espana-y-fernandez-2019-rebranding.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 67
 lang: es
 info:
-  -
-    name: Proyecto
-    value: 'España y Fernández'
-  -
-    name: Año
-    value: '2019'
+  - name: Proyecto
+    value: "España y Fernández"
+  - name: Año
+    value: "2019"
 draft: false

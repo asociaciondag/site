@@ -1,33 +1,30 @@
 id: 1386
-title: 'Novos códigos​ CNAE para o deseño'
+title: "Novos códigos​ CNAE para o deseño"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/cnae-2025-gal-2.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       O código para o «deseño especializado» que estaba vixente desde o 2009, recollía actividades de deseño sen especificar. Os novos códigos​​ para identificar as actividades de deseño quedan así, repartidas en catro novos epígrafes dentro do CNAE 7410​:
 
       - 74.11 Actividades de deseño de produtos industriais e moda. Engloba o deseño de produtos industriais, desde mobiliario ata dispositivos tecnolóxicos; a creación de prendas de vestir, calzado e accesorios de moda; e inclúe procesos de deseño funcional, ergonómico e estético de produtos manufacturados.
       - 74.12 Actividades de deseño gráfico e de comunicación visual. Comprende a creación de logotipos, identidade visual e branding; inclú​e o deseño de publicacións, cartelería, embalaxe e soportes dixitais; e abarca a dirección de arte e deseño publicitario.
       - ​74.13 Actividades de deseño de interiores. Céntras​e na planificación e decoración de espazos interiores; abarca tanto entornos residenciais como comerciais e de oficinas; e inclúe selección de mobiliario, materiais e elementos decorativos.
       - 74.14 Outras actividades de deseño especializado. Recolle todas aquelas actividades de deseño que non encaixan nas categorías anteriores; e permite dar cabida a disciplinas emerxentes ou novas formas de deseño aínda non definidas.​​
-       
+
       O deseño dixital e de experiencia de persoas usuarias recóllese no CNAE 6201. Ademais, hai que ter en conta outros códigos relacionados directamente coas actividades de deseño, como o 7111, servizos técnicos de arquitectura que inclúe o deseño de edificios e espazos urbanos; o 7112, servizos técnicos de enxeñaría​ que inclúe o deseño de maquinaria e equipos e procesos industriais​​​​; ou o 7311, servizos de axencias de publicidade, que inclúe o deseño de campañas, conceptos visuais e gráficos para promocionar produtos e servizos.
 
       Estes cambios no CNAE 7410 favorecen a representación das distintas disciplinas do deseño e consolidan o seu recoñecemento na actividade económica e no ecosistema empresarial. Ademais, facilitan trámites administrativos, permiten unha maior precisión nos estudios sobre o sector e con elo, un maior entendemento da profesión.
 
       Recordamos que a nosa actividade económica pode ter varios CNAE, mais soamente o que poñamos como primeiro ou preferente será tido en conta para todo o que mencionamos. ​En todo caso, recomendamos consultar as modificacións desta nova clasificación e actualizarse segundo a maior adecuación da actividade que realizamos, para beneficiarmos a título persoal e tamén ao conxunto do sector.
     type: text
-  -
-    list: ''
-    url: 'https://portal.mineco.gob.es/RecursosArticulo/mineco/ministerio/participacion_publica/audiencia/ficheros/propone-Consejo-Ministros-aprobacion-siguiente-proyecto-disposicion.pdf'
-    text: 'Mais info'
+  - list: ""
+    url: "https://portal.mineco.gob.es/RecursosArticulo/mineco/ministerio/participacion_publica/audiencia/ficheros/propone-Consejo-Ministros-aprobacion-siguiente-proyecto-disposicion.pdf"
+    text: "Mais info"
     type: button
-intro: 'Empezamos o 2025 coa actualización do​​s códigos CNAE que resumen e presentan información sobre a actividade económica das empresas en operacións estatísticas. O deseño recolle novas especificacións.​'
+intro: "Empezamos o 2025 coa actualización do​​s códigos CNAE que resumen e presentan información sobre a actividade económica das empresas en operacións estatísticas. O deseño recolle novas especificacións.​"
 slug: novos-codigos-cnae-para-o-deseno
 tags: []
 lang: gl

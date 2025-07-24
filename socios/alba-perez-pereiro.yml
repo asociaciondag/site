@@ -1,11 +1,10 @@
 id: 47
-contact: 'E-mail: albaperezpereiro@gmail.com'
+contact: "E-mail: albaperezpereiro@gmail.com"
 links:
-  -
-    text: Behance
-    url: 'https://www.behance.net/ratonaperez'
+  - text: Behance
+    url: "https://www.behance.net/ratonaperez"
     type: link
-name: 'Alba Pérez Pereiro'
+name: "Alba Pérez Pereiro"
 slug: alba-perez-pereiro
 avatarBig: null
 avatar: /img/avatars/56bb75966a07b-alba-perez-pereiro.jpg
@@ -13,5 +12,5 @@ tags: []
 draft: true
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñadora gráfica'
-job.es: 'Diseñadora gráfica'
+job.gl: "Deseñadora gráfica"
+job.es: "Diseñadora gráfica"

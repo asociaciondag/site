@@ -1,14 +1,12 @@
 id: 1232
-title: 'Novagarda, Desoños e Marcos Dopico premiados na 53 edición dos​​ Laus'
+title: "Novagarda, Desoños e Marcos Dopico premiados na 53 edición dos​​ Laus"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/imaxe-premios-laus23-02.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Deses 313 proxectos presentados, 4 foron Grand Laus, 1 Young Talent, 42 Laus de Ouro, 89 Laus de Prata e 177 Laus de Bronce. Cruz Novillo foi premiado co Laus de Honra pola súa traxectoria profesional e o Centre de Cultura Contemporània de Barcelona, CCCB, recibiu o Laus Empresas e Entidades pola súa aposta continuada no uso do deseñ​o.
 
       As seis categorías que se premian son Deseño Gráfico, Deseño Dixital, Publicidade, Audiovisual, Estudantes e Aporta.​ O traballo de [Desoños](https://estudio.desonhos.gal/es), representado por Noelia Estévez, Carlos Álvarez e Susana Rodríguez, encadrábase na categoría de deseño gráfico. Presentaron a tipografía creada en colaboración con [Marcos Dopico](https://dag.gal/es/marcos-dopico-castro/), para o proxecto gastronómico do cociñeiro galego Pepe Vieira. Pola súa banda, Iago Barreiro e Alberto Carballido de [Novagarda](https://novagarda.gal/), recibiron o galardón polo traballo web realizado para a IGFAE Labs, Instituto Galego de Física de Altas Enerxías​.
@@ -17,15 +15,14 @@ body:
 
       No xurado desta edición, formado por profesionais de prestixio do sector, participaba o tamén o socio Cibrán Rico, do estudio Desescribir​. Os premios, que este ano celebran a súa 53 edición​, teñen unha longa traxectoria e remarcan o prestixio acadado no sector, ademais de converterse nunha das esperadas cit​as anuais do deseño.
     type: text
-  -
-    list: ''
-    url: 'https://www.adg-fad.org/es/laus/premiados'
-    text: 'Web dos premios'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premiados"
+    text: "Web dos premios"
     type: button
-intro: 'A Asociación de Diseñadores Gráficos y Directores de Arte do FAD, ADG-FAD, celebrou o pasado 8 de xuño en Barcelona a gala de entrega dos Premios Laus 2023. Un total de 313 traballos premiados entre os que se atopan dos Laus de Bronce para os socios de Novagarda e Desoños xunto con Marcos Dopico.'
+intro: "A Asociación de Diseñadores Gráficos y Directores de Arte do FAD, ADG-FAD, celebrou o pasado 8 de xuño en Barcelona a gala de entrega dos Premios Laus 2023. Un total de 313 traballos premiados entre os que se atopan dos Laus de Bronce para os socios de Novagarda e Desoños xunto con Marcos Dopico."
 slug: novagarda-desonos-e-marcos-dopico-premiados-na-53-edicion-dos-laus
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2023-06-12T10:08:00+00:00

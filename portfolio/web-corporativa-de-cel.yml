@@ -1,9 +1,8 @@
 id: 17
-title: 'Web corporativa de CEL'
+title: "Web corporativa de CEL"
 slug: web-corporativa-de-cel
 body:
-  -
-    text: |-
+  - text: |-
       A Confederación de Empresarios de Lugo encárganos este proxecto a fináis de 2012. A esencia da web está baseada nos contidos, ofertando información útil para os empresarios, xerarquizada nos apartados de documentación, actividades, novas, cursos…
 
       Partindo da imaxe previa que tiñan e tras analizar o uso que facía o usuario da web, observamos que gran parte das visitas viñan dende tablets e dispositivos móbiles, polo que optamos desenvolvela para que sexa o máis accesible posible, independentemente do dispositivo empregado. Outra pauta importante son as búsquedas e categorización de contidos, que axilicen o máximo posible o acceso a información.
@@ -16,21 +15,17 @@ body:
 
       <http://www.cel.es/>
     type: text
-  -
-    image: /img/portfolio/images/5585a158a5c73-00.jpg
-    text: ''
+  - image: /img/portfolio/images/5585a158a5c73-00.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585a158a65b1-01.png
-    text: ''
+  - image: /img/portfolio/images/5585a158a65b1-01.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585a158a8057-02.png
-    text: ''
+  - image: /img/portfolio/images/5585a158a8057-02.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5585a158a8ad7-03.png
-    text: ''
+  - image: /img/portfolio/images/5585a158a8ad7-03.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585a158a52f7-00.jpg
 tags:
@@ -42,13 +37,10 @@ lang:
   - gl
   - es
 info:
-  -
-    name: Estudio
+  - name: Estudio
     value: Sond3
-  -
-    name: Cliente
-    value: 'Confederación de empresarios de Lugo'
-  -
-    name: Ano
+  - name: Cliente
+    value: "Confederación de empresarios de Lugo"
+  - name: Ano
     value: 2012-2013
 draft: true

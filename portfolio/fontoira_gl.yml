@@ -2,44 +2,34 @@ id: 429
 title: Fontoira
 slug: fontoira
 body:
-  -
-    text: 'En 2020 saíu á luz Fontoira, unha tipografía realizada xunto con Lino Prieto como coautor. A fonte está inspirada no estilo tradicional de foliar os barcos nos portos d’O Grove e Meloxo, concretamente da man de Raúl Fontoira, un mariñeiro xubilado e afeccionado ao lettering desde grande parte da súa vida. O señor Fontoira rotulou a man ducias de barcos cun estilo moi chamativo e característico que xa é algo que forma parte da paisaxe e o imaxinario colectivo da vila. O propósito desta tipografía non só era para rendirlle homenaxe ao noso viciño senon tamén para dar a coñecer e perpetuar a súa obra, así como animar a que novas embarcacións se sigan rotulando co seu estilo.'
+  - text: "En 2020 saíu á luz Fontoira, unha tipografía realizada xunto con Lino Prieto como coautor. A fonte está inspirada no estilo tradicional de foliar os barcos nos portos d’O Grove e Meloxo, concretamente da man de Raúl Fontoira, un mariñeiro xubilado e afeccionado ao lettering desde grande parte da súa vida. O señor Fontoira rotulou a man ducias de barcos cun estilo moi chamativo e característico que xa é algo que forma parte da paisaxe e o imaxinario colectivo da vila. O propósito desta tipografía non só era para rendirlle homenaxe ao noso viciño senon tamén para dar a coñecer e perpetuar a súa obra, así como animar a que novas embarcacións se sigan rotulando co seu estilo."
     type: text
-  -
-    image: /img/portfolio/images/1-fontoira.png
-    text: ''
+  - image: /img/portfolio/images/1-fontoira.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/2-fontoira.png
-    text: ''
+  - image: /img/portfolio/images/2-fontoira.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/3-fontoira.png
-    text: ''
+  - image: /img/portfolio/images/3-fontoira.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/7.png
-    text: ''
+  - image: /img/portfolio/images/7.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/8.jpg
-    text: ''
+  - image: /img/portfolio/images/8.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/9.jpg
-    text: ''
+  - image: /img/portfolio/images/9.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/10.jpg
-    text: ''
+  - image: /img/portfolio/images/10.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/11.jpg
-    text: ''
+  - image: /img/portfolio/images/11.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/15.jpg
-    text: ''
+  - image: /img/portfolio/images/15.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/1-fontoira.png
 tags:

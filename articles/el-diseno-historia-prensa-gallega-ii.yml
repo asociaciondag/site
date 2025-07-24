@@ -1,9 +1,8 @@
 id: 30
-title: 'El diseño en la historia de la prensa gallega (II)'
-author: 'Ana Boquete'
+title: "El diseño en la historia de la prensa gallega (II)"
+author: "Ana Boquete"
 body:
-  -
-    text: |-
+  - text: |-
       ## La llegada de la imprenta a Galicia
 
       La llegada de la imprenta se sitúa a finales del siglo XV, llega a Galicia un poco más tarde que a otras áreas de la Península de la mano de impresores extranjeros que trabajaban con imprentas portátiles y bajo el requerimiento de la Iglesia y la nobleza.
@@ -26,37 +25,29 @@ body:
 
       En algunas ocasiones también se utilizaban filetes con algún tipo de ornamento para separar las secciones o el encabezado o pié de página, a menudo incluían numeración. También se utilizaban para separar el colofón de la última página, donde se reflejaba el nombre y el establecimiento del impresor/a en muchos periódicos.
     type: text
-  -
-    image: /img/articles/images/fig1losguerrilleroscorreo.jpg
-    text: 'Fig. 1. A la izquierda, _Los Guerrilleros por la Religión, La Patria y El Rey_ (1813). En este caso, vemos los datos del impresor y establecimiento en la primera página. A la derecha_, Correo de la Comisión Provincial de Santiago_ (1812)'
+  - image: /img/articles/images/fig1losguerrilleroscorreo.jpg
+    text: "Fig. 1. A la izquierda, _Los Guerrilleros por la Religión, La Patria y El Rey_ (1813). En este caso, vemos los datos del impresor y establecimiento en la primera página. A la derecha_, Correo de la Comisión Provincial de Santiago_ (1812)"
     mode: normal
     type: image
-  -
-    text: 'A pesar de que no existió una gran variedad en los estilos compositivos y tipográficos utilizados en los diferentes periódicos, podemos registrar el uso de diferentes letras capitulares para destacar la primera página, los inicios o títulos de sección.'
+  - text: "A pesar de que no existió una gran variedad en los estilos compositivos y tipográficos utilizados en los diferentes periódicos, podemos registrar el uso de diferentes letras capitulares para destacar la primera página, los inicios o títulos de sección."
     type: text
-  -
-    image: /img/articles/images/fig-2-xornal-elsensato-num1-1811.png
-    text: 'Fig.2. _El Sensato_ (1811)'
+  - image: /img/articles/images/fig-2-xornal-elsensato-num1-1811.png
+    text: "Fig.2. _El Sensato_ (1811)"
     mode: normal
     type: image
-  -
-    text: 'El primer periódico gallego fue _El Catón Compostelano_ (1800), impreso por Heredera de Frayz en octava. Debido a la invasión francesa, tendrán que pasar ocho años hasta que se publique otro periódico.'
+  - text: "El primer periódico gallego fue _El Catón Compostelano_ (1800), impreso por Heredera de Frayz en octava. Debido a la invasión francesa, tendrán que pasar ocho años hasta que se publique otro periódico."
     type: text
-  -
-    image: /img/articles/images/fig-3-el-caton-compostelano.jpg
-    text: 'Fig. 3. _El Catón Compostelano_ (1800)'
+  - image: /img/articles/images/fig-3-el-caton-compostelano.jpg
+    text: "Fig. 3. _El Catón Compostelano_ (1800)"
     mode: normal
     type: image
-  -
-    text: 'En junio de 1808 aparecen en A Coruña los primeros periódicos publicados en la ciudad, _Diario de La Coruña_ y _La Gazeta de La Coruña_.'
+  - text: "En junio de 1808 aparecen en A Coruña los primeros periódicos publicados en la ciudad, _Diario de La Coruña_ y _La Gazeta de La Coruña_."
     type: text
-  -
-    image: /img/articles/images/fig-4-xornais-decada-1810.jpg
-    text: 'Fig. 4. _Diario de La Coruña, Diario de Santiago_ e _Telégrafo Político y literario de La Coruña_. Periódicos de la década de 1810'
+  - image: /img/articles/images/fig-4-xornais-decada-1810.jpg
+    text: "Fig. 4. _Diario de La Coruña, Diario de Santiago_ e _Telégrafo Político y literario de La Coruña_. Periódicos de la década de 1810"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       _Diario de La Coruña_ será un periódico activo hasta 1815. Nace como respuesta a la invasión francesa, se publicaba a diario y el formato era de medio pliego en marca española (19x15.5cm). En el momento en que los franceses llegan a A Coruña, el director se ve obligado a huir y suspender la publicación. Meses más tarde, reaparece bajo el nombre de _Diario del Gobierno de La Coruña_ con un novo director.
 
       En agosto de 1809 el periódico recupera su nombre original Diario de La Coruña, pero vuelve a cambiarlo en 1814 por Diario Antiguo de La Coruña. En 1815 dejará de publicarse.
@@ -65,42 +56,35 @@ body:
 
       _Exacto Correo de España en La Coruña_ aparece el 22 de diciembre de 1810. Se publicaba a diario y tenía ocho páginas impresas en cuarta. La cabecera estaba compuesta por el título y una ilustración de la Torre de Hércules, acompañada del lema y la fecha.
     type: text
-  -
-    image: /img/articles/images/fig-5-exacto-correo-de-espan-a-en-la-coruna.jpg
-    text: 'Fig. 5. Evolución _Exacto Correo de España en La Coruña_'
+  - image: /img/articles/images/fig-5-exacto-correo-de-espan-a-en-la-coruna.jpg
+    text: "Fig. 5. Evolución _Exacto Correo de España en La Coruña_"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       En 1812 cambia de nombre por _El Exacto Diario_ y volverá a cambiar de nombre en 1820 por _El Exacto Diario en La Coruña._
 
       Durante las primeras décadas de la prensa gallega, el estilo de los periódicos continuará en la misma línea, comenzaremos a ver diseños más trabajados y composiciones a dos columnas en algunos periódicos, como _El ciudadano por la Constitución_ (1813) o _El Conciso Correo de Galicia_ (1837).
     type: text
-  -
-    image: /img/articles/images/fig-6-xornal-elciudadanoporlaconstiucion-num1-1813.png
-    text: 'Fig. 6. _El ciudadano por la Constitución_ (1813)'
+  - image: /img/articles/images/fig-6-xornal-elciudadanoporlaconstiucion-num1-1813.png
+    text: "Fig. 6. _El ciudadano por la Constitución_ (1813)"
     mode: normal
     type: image
-  -
-    image: /img/articles/images/fig7elconciso.jpg
-    text: 'Fig. 7. A la izquierda, _El Conciso Correo de Galicia_ (1837). A la derecha, _El Conciso Correo de Galicia_, detalle en una de las páginas interiores. Tabla sobre las Audiencias.'
+  - image: /img/articles/images/fig7elconciso.jpg
+    text: "Fig. 7. A la izquierda, _El Conciso Correo de Galicia_ (1837). A la derecha, _El Conciso Correo de Galicia_, detalle en una de las páginas interiores. Tabla sobre las Audiencias."
     mode: normal
     type: image
-  -
-    text: 'En 1838 vemos las primeras ilustraciones incluídas en prensa, dentro de _Semanario Instructivo. Periódico de Agricultura, Ciencias Naturales y Artes_.'
+  - text: "En 1838 vemos las primeras ilustraciones incluídas en prensa, dentro de _Semanario Instructivo. Periódico de Agricultura, Ciencias Naturales y Artes_."
     type: text
-  -
-    image: /img/articles/images/fig-8-semanario-instructivo-prospecto-n1.jpg
-    text: 'Fig. 8 _Semanario Instructivo. Periódico de Agricultura, Ciencias Naturales y Artes_. En el prospecto, destaca “y artes” utilizando la misma tipografía que para el nombre, _Semanario Instructivo_. Fue una publicación de temática diversa, en ella podemos ver ilustraciones policromadas y litografías de Ramón Gil Rey.'
+  - image: /img/articles/images/fig-8-semanario-instructivo-prospecto-n1.jpg
+    text: "Fig. 8 _Semanario Instructivo. Periódico de Agricultura, Ciencias Naturales y Artes_. En el prospecto, destaca “y artes” utilizando la misma tipografía que para el nombre, _Semanario Instructivo_. Fue una publicación de temática diversa, en ella podemos ver ilustraciones policromadas y litografías de Ramón Gil Rey."
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       **Referencias bibliográficas**
 
       - Gayoso, E. S. (1990). Historia de la prensa gallega, 1800-1986. Sada, España: Ediciós do Castro.
       - Odriozola, A., &amp; Fernández, J. R. B. (1992). Historia de la imprenta en Galicia. Santiago de Compostela, España: Biblioteca Gallega.
-       
+
       © Las imágenes contenidas en el artículo pertenecen a [Galiciana-Biblioteca Dixital de Galicia](http://www.galiciana.bibliotecadegalicia.xunta.es/gl/inicio/inicio.do).
     type: text
 position: null

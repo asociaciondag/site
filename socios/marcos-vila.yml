@@ -1,7 +1,7 @@
 id: 50
 contact: null
 links: []
-name: 'Marcos Vila'
+name: "Marcos Vila"
 slug: marcos-vila
 avatarBig: null
 avatar: /img/avatars/dag.jpg
@@ -9,5 +9,5 @@ tags: []
 draft: true
 bio.gl: null
 bio.es: null
-job.gl: 'Deseñador gráfico'
-job.es: 'Diseñador gráfico'
+job.gl: "Deseñador gráfico"
+job.es: "Diseñador gráfico"

@@ -1,14 +1,12 @@
 id: 1395
-title: 'Participamos en el Festival Creativa, Vigo'
+title: "Participamos en el Festival Creativa, Vigo"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/creativa-horiz.jpg
-    text: 'Imagen del Festival Creativa 2025'
+    text: "Imagen del Festival Creativa 2025"
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El Cine Vigo, Galería Maraca y la plaza del Pobo Galego son algunas de las sedes del festival que reúne destacados nombres de la escena creativa local y nacional entre su programación. Figuras de, ámbito de la ilustración como Genie Espinosa, María Gómez, el estudio Brosmind, Cristina Sardá, Javirrollo… o diseñadores de la talla de Mario Esquenazi, Javier Jaén, Diego Feijóo ou la arquitecta Le Petite Patito, junto con autoras como Raquel Peláez presentarán sus proyectos, participarán en coloquios o impartirán talleres.
 
       Como en cada edición, se celebrarán las «Charlas Maraca» que tendrán por invitados/as a la ceramista Lili Algo, al podcast Desfacendo Galicia, al proyecto Rural Hackers o a nuestros asociados Pablo Álvarez del estudio Casa Pransa y Lago Monroy… entre otros.
@@ -21,15 +19,14 @@ body:
 
       Todo esto y mucho más en la tercera edición del festival organizado por Maraca, Dot y ChaChaChá que se hizo con el premio de “Mejor evento cultural de Galicia” en los Premios Paraugas de 2024. Acceso libre y gratuíto.
     type: text
-  -
-    list: ''
-    url: 'https://dotgalicia.com/creativa/'
-    text: 'Programa completo'
+  - list: ""
+    url: "https://dotgalicia.com/creativa/"
+    text: "Programa completo"
     type: button
-intro: 'La ciudad olívica acogerá los próximos 25 e 26 de abril una nueva edición de este espacio de encuentro para profesionales y amantes de la cultura contemporánea.'
+intro: "La ciudad olívica acogerá los próximos 25 e 26 de abril una nueva edición de este espacio de encuentro para profesionales y amantes de la cultura contemporánea."
 slug: festival-creativa-vigo-25
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2025-04-24T11:54:00+00:00

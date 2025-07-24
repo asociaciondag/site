@@ -1,10 +1,9 @@
 id: 332
-title: 'Zara Home'
+title: "Zara Home"
 slug: zara-home
 body:
-  -
-    image: /img/portfolio/images/zara-home.jpg
-    text: ''
+  - image: /img/portfolio/images/zara-home.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/zara-home.jpg
 tags:

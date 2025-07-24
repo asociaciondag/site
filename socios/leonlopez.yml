@@ -2,14 +2,13 @@ id: 112
 contact: |-
   Estudio López de la Osa
 
-  leonlog@coag.es  
+  leonlog@coag.es
    616 453 737
 links:
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/leon_lopez_de_la_osa/'
+  - text: Instagram
+    url: "https://www.instagram.com/leon_lopez_de_la_osa/"
     type: link
-name: 'León López de la Osa González'
+name: "León López de la Osa González"
 slug: leonlopez
 avatarBig: null
 avatar: /img/avatars/avatar.jpeg
@@ -41,5 +40,5 @@ bio.es: |-
   Participé del Madrid Design Festival 2019 con la exposición «La esencia del objeto», también en las exposiciones colectivas «Formas do deseño. Galicia XXI» en el Auditorio de Galicia (2019), en la de «Empezar la casa por la ventana» en el Espacio de Arte Sirvent en 2021 y, en 2023, en la de «Galicia, procesos y formas» de la Bienal de Diseño de Porto.
 
   Además, puedes leer el artículo «Son ramas del mismo árbol» dentro del tema (Re)diseñar el diseño en la revista Experimenta nº 86.
-job.gl: 'Arquitecto e deseñador de produto'
-job.es: 'Arquitecto y diseñador de producto'
+job.gl: "Arquitecto e deseñador de produto"
+job.es: "Arquitecto y diseñador de producto"

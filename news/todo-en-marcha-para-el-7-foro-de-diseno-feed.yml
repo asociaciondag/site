@@ -1,14 +1,12 @@
 id: 1241
-title: 'Todo en marcha para el 7º Foro de Diseño FEED '
+title: "Todo en marcha para el 7º Foro de Diseño FEED "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/feed-noticia-dag-mesa-de-trabajo-1-copia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       El FEED es un evento bianual que organiza la DAG desde el 2013 en diferentes ciudades de Galicia. El punto de partida de estos encuentros fue el [FEET](https://dag.gal/es/feet-2010/), un congreso orientado a la edición y a la tipografía que tuvo lugar en Pontevedra en el 2010 y que puso sobre la mesa la importancia de las reuniones de profesionales del diseño en Galicia, creando el ambiente propicio para la puesta en común de proyectos, investigaciones y avances en diseño dentro de nuestra comunidad, teniendo repercusión a nivel nacional e internacional.
 
       El objetivo principal del FEED es el de establecer un espacio para profesionales y estudiantes de diseño donde compartir experiencias y propiciar la reflexión y el debate dentro de nuestra profesión, así como satisfacer la demanda de formación continua. Hoy, es ya un evento de referencia en el noroeste de la península para todas las personas y agentes económicos y culturales interesados en los valores innovadores del diseño.
@@ -25,10 +23,10 @@ body:
 
       La imagen gráfica del Foro es de [Paula Cantero](https://www.instagram.com/origamiestudioscq/), socia de DAG, que resultó seleccionada tras una llamada a proyecto interna. La venta de entradas se lanzará en septiembre así que estad atentas a nuestros canales y anotad desde ya las fechas en la agenda.
     type: text
-intro: 'Los días 3 y 4 de noviembre la DAG organiza en Santiago de Compostela la 7º Edición del FEED. El Foro de Diseño que viene celebrándose desde el 2010, es una cita ya imprescindible para profesionales y estudiantes de diseño en nuestra comunidad.'
+intro: "Los días 3 y 4 de noviembre la DAG organiza en Santiago de Compostela la 7º Edición del FEED. El Foro de Diseño que viene celebrándose desde el 2010, es una cita ya imprescindible para profesionales y estudiantes de diseño en nuestra comunidad."
 slug: todo-en-marcha-para-el-7-foro-de-diseno-feed
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2023-07-07T09:27:20+00:00

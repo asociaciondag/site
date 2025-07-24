@@ -1,9 +1,8 @@
 id: 25
-title: '104 cubes'
+title: "104 cubes"
 slug: 104-cubes
 body:
-  -
-    text: |-
+  - text: |-
       O deseño da identidade de 104 CUBES formou parte dun proxecto que consistiu en naming e deseño de logo, co obxectivo de situar e diferenciar á empresa como proveedora de servizos de deseño e programación de aplicacións no mercado internacional.
 
       As 104 teclas do teclado estándar universal servíronnos como eixe do enfoque creativo para desenvolver o naming.
@@ -12,35 +11,29 @@ body:
 
       O deseño do logo é o reflexo real do naming, para o cal creouse unha colección de teclas alfabéticas en tipo Helvética Condensed que posteriormente se lle entregaron á empresa para aplicar nas súas diferentes comunicacións.
     type: text
-  -
-    image: /img/portfolio/images/555cdc7a177fb-r-caccamo-1a.jpg
-    text: ''
+  - image: /img/portfolio/images/555cdc7a177fb-r-caccamo-1a.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cdc7a17c85-r-caccamo-1b.jpg
-    text: ''
+  - image: /img/portfolio/images/555cdc7a17c85-r-caccamo-1b.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cdc7a17f78-r-caccamo-1c.jpg
-    text: ''
+  - image: /img/portfolio/images/555cdc7a17f78-r-caccamo-1c.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/555cdc7a18334-r-caccamo-1d.jpg
-    text: ''
+  - image: /img/portfolio/images/555cdc7a18334-r-caccamo-1d.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/55855fa4bb0f6-555cdc7a177fb-r-caccamo-1a.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 7
 lang:
   - gl
   - es
 info:
-  -
-    name: Cliente
-    value: '104 cubes'
-  -
-    name: Ano
-    value: '2012'
+  - name: Cliente
+    value: "104 cubes"
+  - name: Ano
+    value: "2012"
 draft: false

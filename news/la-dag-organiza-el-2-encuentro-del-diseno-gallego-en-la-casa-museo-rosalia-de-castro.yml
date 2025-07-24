@@ -1,14 +1,12 @@
 id: 1225
-title: 'La DAG organiza el 2º Encuentro del diseño gallego en la Casa-Museo Rosalía de Castro'
+title: "La DAG organiza el 2º Encuentro del diseño gallego en la Casa-Museo Rosalía de Castro"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/facebook-cover.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Los encuentros buscan el intercambio de ideas y la reflexión sobre la profesión en un ambiente cercano, distendido, amigable y​ abierto a la comunidad de profesionales. Después de la primera y magnífica experiencia en Rianxo, el Museo Casa Rosalía de Castro sirve de sede para conocer además dos intervenciones realizadas en el espacio: la rehabilitación interna del auditorio donde desarrollaremos la jornada, hecha por el estudio de arquitectura [Gil Pita-Nieto Peñamaría](https://gilpitanietopenamariaarquitectos.com/reforma-interior-do-edificio-auditorio-da-fundacion-rosalia-de-castro/), y la renovación museográfic​a realizada por el socio [Pepe Barro](https://dag.gal/es/pepe-barro/).
 
       Durante la jornada tendremos la oportunidad de conocer un poco mejor el [proyecto AR\\DE](https://arde.gal/) con María Ramos, Óscar Otero y el estudio Desoños​, hablaremos de los pasos siguientes para la creación de ese archivo del diseño gallego, debatiremos sobre las relaciones profesionales y la creación de redes para generar comunidad, y disfrutaremos de una presentación de proyectos con Luis Gil y Cristina Nieto, Iago Barreiro y Alberto Carballido del estudio [Novagarda](https://novagarda.gal/), [Paula Cantero](https://dag.gal/es/paula-cantero-rey/) de Origami, Ana Besada de [Slab](https://www.slab.es/) y Fernando Ponte de [Abisal](http://abisalstudio.com/). Acabaremos la jornada con una visita guiada al museo de la mano de Pepe Barro.
@@ -19,15 +17,14 @@ body:
 
       Contamos con todas y todos vosotros para poner en común ideas, opiniones, experiencias y conocimientos.
     type: text
-  -
-    list: ''
-    url: 'https://dag.gal/2-encontro/'
-    text: 'Web del Encuentro'
+  - list: ""
+    url: "https://dag.gal/2-encontro/"
+    text: "Web del Encuentro"
     type: button
-intro: 'Después de varios intentos, por fin podemos «encontrarnos» y retomar este proyecto iniciado en Rianxo en 2015 con intención de compartir entre nosotros la experiencia de la profesión. Será el sábado 27 de mayo, en la Casa-Museo Rosalía​ en Padrón.​​'
+intro: "Después de varios intentos, por fin podemos «encontrarnos» y retomar este proyecto iniciado en Rianxo en 2015 con intención de compartir entre nosotros la experiencia de la profesión. Será el sábado 27 de mayo, en la Casa-Museo Rosalía​ en Padrón.​​"
 slug: la-dag-organiza-el-2-encuentro-del-diseno-gallego-en-la-casa-museo-rosalia-de-castro
 tags:
-  - 'actividades dag'
+  - "actividades dag"
 lang: es
 draft: false
 date: 2023-04-27T10:08:00+00:00

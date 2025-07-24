@@ -1,8 +1,7 @@
 id: 365
-title: 'Nani Marquina hablará sobre la artesanía como factor innovador del diseño en Sirvent'
+title: "Nani Marquina hablará sobre la artesanía como factor innovador del diseño en Sirvent"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       La artesanía como factor innovador del diseño será el tema de la conferencia que la diseñadora industrial [Nani Marquina](http://www.nanimarquina.com/) dará el próximo jueves 31 de mayo en el Espazo Sirvent de Vigo.
 
@@ -13,8 +12,7 @@ body:
       Hora: 20.00 h Lugar: [Espazo Sirvent](http://www.sirventvigo.com/sirvent/es)
 
       Gran Vía 129 36204 Vigo España
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa159c68-nanimarquina.jpg
 intro: null
 slug: nani-marquina-hablara-sobre-la-artesania-como-factor-innovador-del-diseno-en-sirvent

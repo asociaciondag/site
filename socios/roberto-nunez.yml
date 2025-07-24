@@ -1,30 +1,27 @@
 id: 62
 contact: |-
-  **Roberto Núñez Studio**  
+  **Roberto Núñez Studio**
    T. 655 213 261
 
   <robertonunez@robertonunez.com>
 links:
-  -
-    text: 'Roberto Núñez Studio'
-    url: 'https://robertonunez.com/'
+  - text: "Roberto Núñez Studio"
+    url: "https://robertonunez.com/"
     type: link
-  -
-    text: Facebook
-    url: 'https://www.facebook.com/robertonunezbrandstudio/'
+  - text: Facebook
+    url: "https://www.facebook.com/robertonunezbrandstudio/"
     type: facebook
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/robertonunezstudio/'
+  - text: Instagram
+    url: "https://www.instagram.com/robertonunezstudio/"
     type: link
-name: 'Roberto Núñez'
+name: "Roberto Núñez"
 slug: roberto-nunez
 avatarBig: null
 avatar: /img/avatars/roberto-nun-ez-perfil-dag.jpg
 tags:
   - Gráfico
   - Embalaxe
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
   - Audiovisual
   - Editorial
   - Espazos
@@ -38,8 +35,8 @@ draft: false
 bio.gl: |-
   Estratexia e comunicación publicitaria, innovación, _branding_, _packaging_, web e marketing dixital.
 
-  O seu traballo foi merecedor de diferentes recoñecementos nos últimos anos: D&amp;AD Awards, Pentawards, Communication Arts, ADG-LAUS, GRAPHIS Awards, El Sol–Festival Iberoamericano de Comunicación Publicitaria, Premios nacionales Anuaria de Diseño gráfico, etc.  
-     
+  O seu traballo foi merecedor de diferentes recoñecementos nos últimos anos: D&amp;AD Awards, Pentawards, Communication Arts, ADG-LAUS, GRAPHIS Awards, El Sol–Festival Iberoamericano de Comunicación Publicitaria, Premios nacionales Anuaria de Diseño gráfico, etc.
+
    No seu _portfolio_ de traballo conta con proxectos realizados para marcas como: Carolina Herrera, Volkswagen, McDonald’s, Bodegas Davide, Umbro, Inditex, Turismo de Catalunya, La Caixa, Cola Cao, D.O. Rías Baixas, Bayer, Aguas Mondariz, Universitat Oberta de Catalunya, Cepsa, Gadis, Larsa, Pascual, Abertis, Rodman, Yamaha, Bodegas San Ero, Xunta de Galicia, Ajuntament de Barcelona, etc.
 bio.es: |-
   Estrategia y comunicación publicitaria, innovación, _branding_, _packaging_, web y marketing digital.
@@ -47,5 +44,5 @@ bio.es: |-
   Su trabajo ha sido merecedor de diferentes reconocimientos en los últimos años: D&amp; AD Awards, Pentawards, Communication Arts, ADG- LAUS, GRAPHIS Awards, El Sol–Festival Iberoamericano de Comunicación Publicitaria, Premios nacionales Anuaria de Diseño gráfico, etc.
 
   En su portfolio de trabajo cuenta con proyectos realizados para marcas como: Carolina Herrera, Volkswagen, McDonald’s, Bodegas Davide, Umbro, Inditex, Turismo de Catalunya, La Caixa, Cola Cao, D.O. Rías Baixas, Bayer, Aguas Mondariz, Universitat Oberta de Catalunya, Cepsa, Gadis, Larsa, Pascual, Abertis, Rodman, Yamaha, Bodegas San Ero, Xunta de Galicia, Ajuntament de Barcelona, etc.
-job.gl: 'Estratexia e Dirección creativa en Roberto Núñez Studio'
-job.es: 'Estrategia y Dirección creativa en Roberto Núñez Studio'
+job.gl: "Estratexia e Dirección creativa en Roberto Núñez Studio"
+job.es: "Estrategia y Dirección creativa en Roberto Núñez Studio"

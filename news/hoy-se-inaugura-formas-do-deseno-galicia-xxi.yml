@@ -1,29 +1,26 @@
 id: 875
-title: 'Hoy se inaugura Formas do Deseño. Galicia XXI'
+title: "Hoy se inaugura Formas do Deseño. Galicia XXI"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/formas-do-deseno.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Formas del Diseño. Galicia XXI se divide en dos partes: una introducción a las tres décadas de despertar y modernización, desde los primeros setenta, tomando como punto de partida simbólico la publicación del Manifiesto del Laboratorio de Formas, a los últimos noventa, cuando surgen en Galicia una serie de profesionales del diseño que comienzan a trabajar con una conciencia de ser diseñadores y diseñadoras; y un cuerpo principal que coincide con el cambio de milenio y que supone un cambio generacional con la incorporación al mercado laboral de una generación de diseñadores y diseñadoras gallegos ya formados en Galicia.
 
       Como complemento y punto de partida de la exposición, que se desarrolla en gran medida en las salas del Auditorio de Galicia, en la Fundación [DIDAC](http://www.didac.gal/didac/gl) se exhiben los tapices y cartones diseñados por Luis Seoane y Mª Elena Montero, cuarenta años después de que estos fueran presentados en la galería Citania de Santiago de Compostela, y nunca mostrados en conjunto desde 1979. Precisamente, es uno de esos tapices, así como otros trabajos de Isaac Díaz Pardo y Luis Seoane y sus logros en el renacimiento de la fábrica de Sargadelos, los que abren la muestra en las salas del Auditorio de Galicia.
 
       La exposición permanecerá abierta en el Auditorio de Galicia hasta el 23 de junio de 2019 en el siguiente horario: 10.00 a 14.00 y de 16.00 a 20.00 h. La entrada es gratuita.
     type: text
-  -
-    list: ''
-    url: 'https://www.compostelacultura.gal/espectaculos/evento/inauguraci%C3%B3n-formas-do-dese%C3%B1o-galicia-xxi'
-    text: 'FORMAS DO DESEÑO. GALICIA XXI'
+  - list: ""
+    url: "https://www.compostelacultura.gal/espectaculos/evento/inauguraci%C3%B3n-formas-do-dese%C3%B1o-galicia-xxi"
+    text: "FORMAS DO DESEÑO. GALICIA XXI"
     type: button
-intro: 'La muestra, que está organizada por el Auditorio y la Fundación DIDAC, es una oportunidad para acercarse al trabajo que llevan desarrollando los diseñadores y las diseñadoras gallegos desde la década de los 70.'
+intro: "La muestra, que está organizada por el Auditorio y la Fundación DIDAC, es una oportunidad para acercarse al trabajo que llevan desarrollando los diseñadores y las diseñadoras gallegos desde la década de los 70."
 slug: hoy-se-inaugura-formas-do-deseno-galicia-xxi
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2019-02-20T12:06:38+00:00

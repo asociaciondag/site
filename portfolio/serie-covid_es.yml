@@ -1,9 +1,8 @@
 id: 362
-title: 'SERIE COVID'
+title: "SERIE COVID"
 slug: serie-covid
 body:
-  -
-    text: |-
+  - text: |-
       Esta serie ha nacido a raíz de la pandemia COVID.
 
       Supongo que a todos este momento nos ha marcado. A mí por lo menos sí.
@@ -16,29 +15,23 @@ body:
 
       Obra a la venta en [galería Monty4](https://latienda.monty4.com/collections/begona-pastoriza).
     type: text
-  -
-    image: /img/portfolio/images/covid-confinamiento1-1.jpg
-    text: ''
+  - image: /img/portfolio/images/covid-confinamiento1-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/covid-confinamiento2.jpg
-    text: ''
+  - image: /img/portfolio/images/covid-confinamiento2.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/covid-explosion.jpg
-    text: ''
+  - image: /img/portfolio/images/covid-explosion.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/covid-luna-1.jpg
-    text: ''
+  - image: /img/portfolio/images/covid-luna-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/postcovid-matildamoisant-1.jpg
-    text: ''
+  - image: /img/portfolio/images/postcovid-matildamoisant-1.jpg
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/postcovid-salto.jpg
-    text: ''
+  - image: /img/portfolio/images/postcovid-salto.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/covid-explosion.jpg
 tags:

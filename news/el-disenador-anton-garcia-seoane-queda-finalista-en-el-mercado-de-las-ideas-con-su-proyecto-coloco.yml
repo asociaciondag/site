@@ -1,8 +1,7 @@
 id: 465
-title: 'El diseñador Antón García Seoane queda finalista en el Mercado de las Ideas con su proyecto Coloco'
+title: "El diseñador Antón García Seoane queda finalista en el Mercado de las Ideas con su proyecto Coloco"
 body:
-  -
-    text: |-
+  - text: |-
       Entre los productos más destacados de la edición de este año se encuentra Coloco, el proyecto desarrollado por nuestro socio [Antón García Seoane](http://www.rokdesign.es/) bajo la tutorización de Diego Slemenson durante el Máster en Diseño de Mobiliario que dirige Ricard Ferrer en la escuela Elisava. Coloco es un sistema modular de asientos destinados al público infantil de 4 a 6 años. Cada una de sus piezas permite la realización de actividades deportivas y para su desarrollo se han estudiado dinámicas de educación física infantil. Además, se trata de un puzle que se puede emplear para uso lúdico y para la mejora de la psicomotricidad. Coloco propone un avance en el ámbito educativo infantil, ya que en la actualidad no se dipone de un sistema especificamente diseñado para las actividades de educación física infantil. Se trata de una reintepretación de la arcaica colchoneta basándose en los juegos modulares y de construcción y cubre una necesidad real existente en centros educativos, deportivos y de ocio. El proyecto, que ya fue presentado por su creador el martes de la semana pasada ante empresas potencialmente interesadas del ámbito infantil, deportivo y del hábitat para propiciar oportunidades de negocio y ayudar a acercar el proyecto al mercado, puede visitarse junto con los otros proyectos finalistas en el Centro de Arts Santa Mónica situado en las Ramblas, en una exposición que lleva por título De la idea al negocio.
 
       Más información sobre el MID en
@@ -11,20 +10,18 @@ body:
 
       y sobre Coloco en <http://vimeo.com/80633184>
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa4e9b0d-coloco.jpg
-    text: ''
+    text: ""
     type: image
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa4e9b0d-coloco-escena-habitat.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'El pasado 26 de noviembre, en el centro Arts Santa Mónica, se dieron a conocer los finalistas del Mercado de las Ideas (MID). El MID se trata de un programa organizado por Barcelona Centro de Diseño (BCD) que fomenta la creación de oportunidades de negocio y ayuda a encontrar financiación a todos aquellos creadores que tengan un proyecto innovador con un fuerte componente de diseño.'
+intro: "El pasado 26 de noviembre, en el centro Arts Santa Mónica, se dieron a conocer los finalistas del Mercado de las Ideas (MID). El MID se trata de un programa organizado por Barcelona Centro de Diseño (BCD) que fomenta la creación de oportunidades de negocio y ayuda a encontrar financiación a todos aquellos creadores que tengan un proyecto innovador con un fuerte componente de diseño."
 slug: el-disenador-anton-garcia-seoane-queda-finalista-en-el-mercado-de-las-ideas-con-su-proyecto-coloco
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2013-12-05T13:41:07+00:00

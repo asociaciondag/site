@@ -1,8 +1,7 @@
 id: 70
-title: 'Aberto o prazo de recepción de comunicacións para o IV Congreso Internacional de Tipografía'
+title: "Aberto o prazo de recepción de comunicacións para o IV Congreso Internacional de Tipografía"
 body:
-  -
-    text: |-
+  - text: |-
       Bases para a presentación de comunicacións para o 4º Congreso Internacional de Tipografía
 
       A convocatoria está aberta a deseñadores, estudantes, investigadores e académicos que poden presentar os seus traballos, xa sexan de aplicación práctica ou artigos de investigación, de acordo ás áreas temáticas do Congreso.
@@ -10,7 +9,7 @@ body:
       Data límite: 28 de febreiro 2010
 
       - info: <http://www.congresotipografia.com/>
-       
+
       O artista Richard Serra afirmou que o debuxo é outra linguaxe. Unha linguaxe universal que serviu para documentar, plasmar ideas, servir de soporte da arte ou ser arte en si mesmo.
 
       O seu papel foi cambiante e estivo moi ligado ás transformacións sufridas pola sensibilidade estética ao longo do tempo pero, en todo caso e como dixo Elizabeth Finch é: "O elemento básico da creatividade, desde aquela man que trazou o contorno dunha sombra".
@@ -29,10 +28,9 @@ body:
 
       Estas e outras moitas cuestións abordaranse no IV Congreso Internacional de Tipografía, dedicado nesta convocatoria ao debuxo e a súa relación coa letra.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9833cdb-cabecera.gif
-    text: ''
+    text: ""
     type: image
 intro: 'En marcha o 4º Congreso de Tipografía baixo o título "La letra dibujada" Valencia. Xuño 2010.'
 slug: aberto-o-prazo-de-recepcion-de-comunicacions-para-o-iv-congreso-internacional-de-tipografia

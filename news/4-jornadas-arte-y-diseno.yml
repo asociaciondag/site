@@ -1,14 +1,12 @@
 id: 1035
-title: 'Vuelven las «Xornadas de Arte e Deseño» de la EASD Pablo Picasso'
+title: "Vuelven las «Xornadas de Arte e Deseño» de la EASD Pablo Picasso"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/entrada-100x500.png
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Por cuarto año consecutivo la Escola de Arte e Superior de Deseño Pablo Picasso de A Coruña organiza una nueva edición de las Xornadas de Arte e Deseño. Adaptándose a la situación actual causada por el COVID-19, todas las ponencias serán en _streaming_ y no será necesario realizar una inscripción previa ya que se retransmitirán en directo en el [canal de Youtube de la Escuela](https://www.youtube.com/channel/UCc2hlmi6Mn3WUAPxexW6p-Q).
 
       Este año 2020 las jornadas se estructuran en dos días con un total de cuatro ponencias diarias, dos por la mañana y dos por la tarde, que contarán con la presencia de reconocidos profesionales de diferentes especialidades ligadas al diseño. Las temáticas que se tratarán van desde el diseño de interiores, diseño web y diseño gráfico hasta la fotografía, pasando por la escultura, arte mural, dorado y cerámica.
@@ -17,7 +15,7 @@ body:
 
       A continuación, se pueden consultar el programa y los enlaces para ver cada ponencia:
 
-      ## **Martes 15** 
+      ## **Martes 15**
 
       **10:00h** [«La importancia del color en la composición»](https://youtu.be/kJqhPLaKHUY) con Jesús M. García Flores
 
@@ -27,7 +25,7 @@ body:
 
       **18:00h** [«A arte esquecida»](https://youtu.be/iA9Ey8eEiHA) con David Muñiz Boquete
 
-      ## **Mércores 16** 
+      ## **Mércores 16**
 
       **10:00h** [«Nos queda el presente»](https://youtu.be/-Ps2WUAlgtw) con Castroferro Arquitectos
 
@@ -37,12 +35,11 @@ body:
 
       **18:00h** [«Curar espazos»](https://youtu.be/aZY9k2XKF9M) con Mutante creativo
     type: text
-  -
-    list: ''
-    url: 'https://www.eapicasso.com/iv-xornadas-arte-deseno/'
-    text: 'Más información'
+  - list: ""
+    url: "https://www.eapicasso.com/iv-xornadas-arte-deseno/"
+    text: "Más información"
     type: button
-intro: 'Las jornadas empezarán el martes, día 15, a las 10:00 horas y finalizarán el miércoles a las 18:00 horas con la celebración de la última ponencia. Todas las charlas serán en abierto y se retransmitirán a través del canal de Youtube de la EASD.'
+intro: "Las jornadas empezarán el martes, día 15, a las 10:00 horas y finalizarán el miércoles a las 18:00 horas con la celebración de la última ponencia. Todas las charlas serán en abierto y se retransmitirán a través del canal de Youtube de la EASD."
 slug: 4-jornadas-arte-y-diseno
 tags: []
 lang: es

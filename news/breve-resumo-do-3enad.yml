@@ -1,8 +1,7 @@
 id: 569
-title: 'Breve resumo do 3ENAD'
+title: "Breve resumo do 3ENAD"
 body:
-  -
-    text: |-
+  - text: |-
       Na mesa de políticas públicas participaron tres expertos vinculados a Design for Europe, proxecto auspiciado polo Design Council británico, con catorce entidades europeas asociadas. Con eles abordouse a xestión de políticas públicas do deseño, xunto a responsables do Ministerio de Industria e Economía, de Surgenia, CADI, CDTI e BiDC que, co proxecto da cidade de Bilbao, exemplificou como é posible reactivar social e economicamente unha cidade cando hai consenso político e se utiliza o deseño de maneira integral e estratéxica.
 
       O traballo previo e a numerosa presenza de docentes en 3ENAD propiciou confirmar e chegar a un acordo coa CEA (Confederación de Escolas de Arte) para convocar un encontro entre asociacións de profesionais do deseño e centros de formación do deseño para a próxima primavera, no que participarán empresas, administracións e institucións que, entre outros asuntos, abordarán a renovación de perfís profesionais nos novos contextos e escenarios abertos no século XXI.
@@ -17,13 +16,12 @@ body:
 
       [Accede ás conclusións completas do 3ENAD](http://designread.es/3enad/#documentos)
     type: text
-  -
-    list: after
+  - list: after
     info:
       code: '<iframe src="https://www.flickr.com/photos/131156302@N04/sets/72157654371646890/player" frameborder="0" allowTransparency="true" style="border:none;overflow:hidden;width:640px;height:425px;"></iframe>'
-      ratio: '66.6'
+      ratio: "66.6"
     type: embed
-intro: 'Acollidos pola AAD, Asociación Andaluza de Deseñadores, o pasado xoves 11 de xuño déronse cita na Térmica de Málaga un centenar de deseñadores, docentes, empresarios e responsables técnicos e políticos da administración pública dispostos a pensar e traballar unidos a prol do deseño.'
+intro: "Acollidos pola AAD, Asociación Andaluza de Deseñadores, o pasado xoves 11 de xuño déronse cita na Térmica de Málaga un centenar de deseñadores, docentes, empresarios e responsables técnicos e políticos da administración pública dispostos a pensar e traballar unidos a prol do deseño."
 slug: breve-resumo-do-3enad
 tags: []
 lang: gl

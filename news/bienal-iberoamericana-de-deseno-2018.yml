@@ -1,31 +1,27 @@
 id: 808
-title: 'Bienal Iberoamericana de Deseño 2018 '
+title: "Bienal Iberoamericana de Deseño 2018 "
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/gifsociedadcreativaangosta.gif
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Esta sexta edición da Bienal decorrerá entre o 26 e 30 de novembro de 2018 en Matadero Madrid. Na mostra poderanse ver aqueles proxectos seleccionados polo Comité Organizador, o Comité Asesor e os Equipos BID, e posteriormente ratificados por un Xurado Internacional, de entre todos os inscritos nas sete categorías existentes: Deseño de espazos e interiorismo, Deseño industrial/produto, Deseño gráfico e comunicación visual, Deseño de moda, téxtil e complementos, Deseño Dixital, Deseño de Servizos, e Deseños Integrais/Transversais.
 
       Arestora xa está aberto o prazo de inscrición e permanecerá aberto até o 15 de xuño de 2018.
 
       Aínda que o prezo da inscrición xeral son 60 euros, existen descontos do 15% para socios da DAG.
     type: text
-  -
-    list: ''
-    url: 'http://www.bid-dimad.org/convocatoria-bid18/'
-    text: 'Web da BID 18'
+  - list: ""
+    url: "http://www.bid-dimad.org/convocatoria-bid18/"
+    text: "Web da BID 18"
     type: button
-  -
-    list: ''
-    url: 'http://www.bid-dimad.org/wp-content/uploads/2018/05/Bases-de-la-convocatoria-BID18.pdf'
-    text: 'Bases da convocatoria BID 18'
+  - list: ""
+    url: "http://www.bid-dimad.org/wp-content/uploads/2018/05/Bases-de-la-convocatoria-BID18.pdf"
+    text: "Bases da convocatoria BID 18"
     type: button
-intro: 'A Bienal de Deseño Iberoamericana (BID 18) é unha exposición que organiza a [Fundación Diseño Madrid](https://dimad.org/) cada dous anos e que reúne os mellores proxectos de todas as áreas do deseño de América Latina, España e Portugal.'
+intro: "A Bienal de Deseño Iberoamericana (BID 18) é unha exposición que organiza a [Fundación Diseño Madrid](https://dimad.org/) cada dous anos e que reúne os mellores proxectos de todas as áreas do deseño de América Latina, España e Portugal."
 slug: bienal-iberoamericana-de-deseno-2018
 tags: []
 lang: gl

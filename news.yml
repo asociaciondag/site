@@ -2,4 +2,4 @@ id: news
 main_menu: news
 url.es: /es/noticias/
 url.gl: /gl/novas/
-layout: layouts/news_list.njk
+layout: layouts/news_list.vto

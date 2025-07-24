@@ -1,8 +1,7 @@
 id: 612
-title: 'El coste del coste cero'
+title: "El coste del coste cero"
 body:
-  -
-    text: |-
+  - text: |-
       Desde la DAG queremos advertir de los muchos errores de concepto que se encuentran detrás de este presunto "coste cero":
 
       El hecho de que el trabajo de diseño se desarrolle a nivel interno no quiere decir que no nos cueste dinero. Estas personas que trabajaron en el nuevo logotipo tendrían que dejar temporalmente su actividad habitual para dedicarse a esta tarea, obligando -deducimos- a contratar personal de refuerzo o a desatender sus tareas habituales. Una cosa y a otra suponen, por tanto, un coste para la diputación.
@@ -17,7 +16,7 @@ body:
 
       La DAG quiere hacer público una vez más su compromiso de colaboración con cualquier institución y organismo, tanto público como privado, para ayudarles a entender que el buen diseño nunca puede ser una actividad de coste cero, pero que el mal diseño sale mucho más caro.
     type: text
-intro: 'El pasado 21 de octubre la Diputación de Pontevedra les presentaba a los medios su nueva imagen corporativa. Tal y como se recoge en la [nota de prensa](http://www.depo.es/web/edepo/-/noticia-a-deputacion-de-pontevedra-presenta-a-sua-nova-imaxe-acorde-co-actual-goberno-provincial) de la entidad, esta nueva imagen -presentada poco antes de cumplirse los primeros 100 días de gobierno- supuso un coste cero para la institución, puesto que fue desarrollada “por los propios trabajadores de la Diputación”.'
+intro: "El pasado 21 de octubre la Diputación de Pontevedra les presentaba a los medios su nueva imagen corporativa. Tal y como se recoge en la [nota de prensa](http://www.depo.es/web/edepo/-/noticia-a-deputacion-de-pontevedra-presenta-a-sua-nova-imaxe-acorde-co-actual-goberno-provincial) de la entidad, esta nueva imagen -presentada poco antes de cumplirse los primeros 100 días de gobierno- supuso un coste cero para la institución, puesto que fue desarrollada “por los propios trabajadores de la Diputación”."
 slug: el-coste-del-coste-cero
 tags: []
 lang: es

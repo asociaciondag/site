@@ -1,29 +1,26 @@
 id: 1304
-title: 'Sixten, a tipografía creada por NM type, ADC Award 2024'
+title: "Sixten, a tipografía creada por NM type, ADC Award 2024"
 body:
-  -
-    list: before
+  - list: before
     image: /img/news/images/sixten-01.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Sixteen é un tipo de letra inspirado nas formas intuitivas das letras que crea un neno de catro anos, libre de regras e sen limitacións. Durante o proceso, os creadores déronse de conta das conexións que existían entre o alfabeto fenicio e o grego primitivo. Crearon patróns tipográficos escribindo letras ao revés, de tal xeito que as letras reflictidas forman parte de Sixten. O resultado é un tipo de letra variable, con alternativas convencionais e rebeldes, que amosan a escritura temperá dun neno sen que resulte infantil. A familia completa cambia de rasgos, de Narrow a Wide, o que afecta tanto a anchura das letras como ao esquelete das mesmas.
 
       O traballo desenvolvido por María e Noel xa levou premios a nivel mundial e ten aparecido en publicacións de deseño e conferencias internacionais. Com [NM type](https://nmtype.com/) crean e distribúen familias tipográficas ao por menor, ademais de deseñar tipos experimentais e fontes personalizadas para entidades e marcas.
 
       Os premios anuais da ADC son os galardóns do sector máis antigos do mundo, contando xa con 102 edicións. Premian o mellor da publicidade, dos medios dixitais, do deseño gráfico e de publicacións, do deseño de embalaxes e produtos, do deseño en movemento, experiencial e espacial, da fotografía, da ilustración e do deseño de moda, centrado na arte e na artesanía.
     type: text
-  -
-    list: ''
-    url: 'https://www.oneclub.org/awards/adcawards/-award/51719/sixten-typeface'
-    text: 'Web dos Premios ADC Awards'
+  - list: ""
+    url: "https://www.oneclub.org/awards/adcawards/-award/51719/sixten-typeface"
+    text: "Web dos Premios ADC Awards"
     type: button
-intro: 'A tipografía Sixten, creada pola socia María Ramos e o seu compañeiro en NM type, Noel Pretorius, levou unha Mención de Honra nos ADC Awards 2024, os máis antigos do sector da comunicación visual.'
+intro: "A tipografía Sixten, creada pola socia María Ramos e o seu compañeiro en NM type, Noel Pretorius, levou unha Mención de Honra nos ADC Awards 2024, os máis antigos do sector da comunicación visual."
 slug: sixten-a-tipografia-creada-por-nm-type-adc-award-2024
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2024-05-24T09:12:35+00:00

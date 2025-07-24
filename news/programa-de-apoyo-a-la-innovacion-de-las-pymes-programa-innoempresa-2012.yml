@@ -1,16 +1,14 @@
 id: 357
-title: 'Programa de apoyo a la innovación de las pymes (Programa Innoempresa 2012)'
+title: "Programa de apoyo a la innovación de las pymes (Programa Innoempresa 2012)"
 body:
-  -
-    type: text
+  - type: text
     text: |-
       La Consellaría de Economía e Industria acaba de hacer pública, a través del Igape, la [convocatoria](http://www.xunta.es/dog/Publicados/2012/20120423/AnuncioO92-130412-0001_gl.html) de seis de las líneas de ayuda contempladas dentro del Programa Innoempresa 2012 de apoyo a la innovación de las pymes. El plazo de presentación de las solicitudes finaliza el 23 de mayo de 2012 y todas las personas interesadas pueden consultar las bases de cada una de las ayudas en los siguientes enlaces: [IG127 – INNOEMPRESA: NUEVOS MODELOS EMPRESARIALES INNOVADORES MEDIANTE LA IMPLANTACIÓN DE HERRAMIENTAS DE GESTIÓN AVANZADA (2012)](http://app.igape.es/.axudas/ficha.asp?cod=IGAP184) para proyectos que impliquen la adopción de nuevos modelos empresariales innovadores mediante la implantación de herramientas de gestión avanzada. [IG129 – INNOEMPRESA: DISEÑO DE NUEVO PRODUCTO (2012)](http://app.igape.es/.axudas/ficha.asp?cod=IGAP192) para proyectos de diseño de nuevo producto, que pueden incluir elementos de identidad gráfica, envase, embalaje y comunicación siempre que estén asociados al nuevo producto en el mismo proyecto. [IG131 – INNOEMPRESA: PROYECTOS DE DESARROLLO TECNOLÓGICO APLICADO (2012)](http://app.igape.es/.axudas/ficha.asp?cod=IGAP190) para proyectos de desarrollo tecnológico aplicado desarrollados por pymes que impliquen la creación o la mejora sustancial de un producto, proceso productivo o servicio de mayor nivel tecnológico para adecuar su oferta a las exigencias de los mercados. [IG132 – INNOEMPRESA: IMPLANTACIÓN Y CERTIFICACIÓN DE LAS NORMAS UNE 166.001 Y UNE 166.002 (2012)](http://app.igape.es/.axudas/ficha.asp?cod=IGAP189) para la implantación y certificación de acuerdo con las normas UNE 166.001 (proyectos de I+D+i) y UNE 166.002 (sistemas de gestión de la I+D+i). [IG134 – INNOEMPRESA: PROYECTOS PRESENTADOS POR GRUPOS DE EMPRESAS CUYA ACTIVIDAD FORME PARTE DE LA CADENA DE VALOR GLOBAL DE UN PRODUCTO (2012)](http://app.igape.es/.axudas/ficha.asp?cod=IGAP187) para proyectos presentados por grupos de empresas cuya actividad forme parte de la cadena de valor global de un producto, a través de proyectos integrados de gestión logística, medioambiental o energética y otros proyectos innovadores de implantación conjunta, como ingeniería concurrente o diseño distribuido, destinados a mejorar procesos y productos de empresas relacionadas por la cadena de valor.
 
       [IG135 – INNOEMPRESA. IDENTIFICACIÓN DE NECESIDADES TECNOLÓGICAS, DESARRROLLO DE SOLUCIONES TÉCNIVAS Y ORGANIZATIVAS COMUNES Y UTILIZACIÓN DE SERVICIOS AVANZADOS (2012)](http://app.igape.es/.axudas/ficha.asp?cod=IGAP186) para proyectos de identificación de necesidades tecnológicas, desarrollo de soluciones técnicas y organizativas comunes y utilización de servicios avanzados compartidos por grupos de pymes.
 
       Más información en la página del [Igape](http://www.igape.es/)
-  -
-    type: image
+  - type: image
     image: /img/news/images/553e7aa13a9da-logoigape.gif
 intro: null
 slug: programa-de-apoyo-a-la-innovacion-de-las-pymes-programa-innoempresa-2012

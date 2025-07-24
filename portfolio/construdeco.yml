@@ -2,13 +2,12 @@ id: 329
 title: Construdeco
 slug: construdeco
 body:
-  -
-    image: /img/portfolio/images/construdeco.jpg
-    text: ''
+  - image: /img/portfolio/images/construdeco.jpg
+    text: ""
     type: image
 cover: /img/portfolio/covers/construdeco.jpg
 tags:
-  - 'Identidade corporativa'
+  - "Identidade corporativa"
 members_id:
   - 29
   - 6

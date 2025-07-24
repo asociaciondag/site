@@ -1,66 +1,52 @@
 id: 168
-title: 'Carlos López - Mandala'
+title: "Carlos López - Mandala"
 slug: carlos-lopez-mandala
 body:
-  -
-    text: |-
+  - text: |-
       Carlos López é un batería de jazz da Coruña. Graduado superior en música moderna e jazz pola ESMUC (Barcelona) e bolseiro na Berklee College of Music. _Mandala_ (Jazz Activist, 2016) é o seu cuarto álbum como líder e compositor.
 
       O disco foi concibido durante a súa experiencia no prestixioso European Jazz Master e gravado en dous dos seus destinos: o Conservatorium Van Amsterdam e o Jazz Institut de Berlín.
 
       Carlos falounos do _mandala_ como nexo de unión entre estas dúas cidades, entre elementos diferentes que forman un só ente. Afrontamos o _artwork_ cun deseño de mínimos, tentando emular o sistema de notación experimental utilizado na composición de varios temas do disco, baseado este nunha gráfica circular en lugar da tradicional partitura.
     type: text
-  -
-    image: /img/portfolio/images/5745e96939eec-carlos-mandala-1.png
-    text: ''
+  - image: /img/portfolio/images/5745e96939eec-carlos-mandala-1.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745eba3e1a6b-carlos-mandala-2.png
-    text: ''
+  - image: /img/portfolio/images/5745eba3e1a6b-carlos-mandala-2.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745eba3e1d27-carlos-mandala-3.png
-    text: ''
+  - image: /img/portfolio/images/5745eba3e1d27-carlos-mandala-3.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745eba3e1de3-carlos-mandala-4.png
-    text: ''
+  - image: /img/portfolio/images/5745eba3e1de3-carlos-mandala-4.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745eba3e1e9b-carlos-mandala-5.png
-    text: ''
+  - image: /img/portfolio/images/5745eba3e1e9b-carlos-mandala-5.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745ec3b50169-carlos-mandala-6.png
-    text: ''
+  - image: /img/portfolio/images/5745ec3b50169-carlos-mandala-6.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745ec3b503b8-carlos-mandala-7.png
-    text: ''
+  - image: /img/portfolio/images/5745ec3b503b8-carlos-mandala-7.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745ec9ce4da1-carlos-mandala-8.png
-    text: ''
+  - image: /img/portfolio/images/5745ec9ce4da1-carlos-mandala-8.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745ec9ce4ffe-carlos-mandala-9.png
-    text: ''
+  - image: /img/portfolio/images/5745ec9ce4ffe-carlos-mandala-9.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745eced83ea0-carlos-mandala-10.png
-    text: ''
+  - image: /img/portfolio/images/5745eced83ea0-carlos-mandala-10.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745eced84045-carlos-mandala-11.png
-    text: ''
+  - image: /img/portfolio/images/5745eced84045-carlos-mandala-11.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745ed4d668d5-carlos-mandala-12.png
-    text: ''
+  - image: /img/portfolio/images/5745ed4d668d5-carlos-mandala-12.png
+    text: ""
     type: image
-  -
-    image: /img/portfolio/images/5745ed4d66a5b-carlos-mandala-13.png
-    text: ''
+  - image: /img/portfolio/images/5745ed4d66a5b-carlos-mandala-13.png
+    text: ""
     type: image
 cover: /img/portfolio/covers/5745e969396fd-carlos-mandala-1.png
 tags: []

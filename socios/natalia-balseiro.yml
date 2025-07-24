@@ -4,19 +4,16 @@ contact: |-
 
   <natalia.balseiro@gmail.com>
 links:
-  -
-    text: Linkedin
-    url: 'https://www.linkedin.com/in/natalia-balseiro-rodriguez-9b5014222/'
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/natalia-balseiro-rodriguez-9b5014222/"
     type: linkedin
-  -
-    text: Instagram
-    url: 'https://www.instagram.com/balseironatalia/'
+  - text: Instagram
+    url: "https://www.instagram.com/balseironatalia/"
     type: facebook
-  -
-    text: Twitter
-    url: 'https://twitter.com/nataliabalseiro'
+  - text: Twitter
+    url: "https://twitter.com/nataliabalseiro"
     type: twitter
-name: 'Natalia Balseiro'
+name: "Natalia Balseiro"
 slug: natalia-balseiro
 avatarBig: null
 avatar: /img/avatars/230223-natalia-0162.jpg
@@ -37,5 +34,5 @@ bio.es: |-
   Mi trabajo se caracteriza por el diseño colaborativo, de carácter estratégico, con las comunidades locales y/o sectoriales, de forma situada en los territorios, pensando siempre en la sostenibilidad futura y en su conceptualización transversal e intersectorial.
 
   El diseño balanceado entre las necesidades de las comunidades interpeladas y los mandatos de las políticas estratégicas europeas es un eje que caracteriza mi trabajo.
-job.gl: 'Deseño Participativo de Procesos e Proxectos Culturais'
-job.es: 'Diseño Participativo de Procesos y Proyectos Culturales'
+job.gl: "Deseño Participativo de Procesos e Proxectos Culturais"
+job.es: "Diseño Participativo de Procesos y Proyectos Culturales"

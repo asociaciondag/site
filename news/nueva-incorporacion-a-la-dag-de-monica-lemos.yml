@@ -1,14 +1,12 @@
 id: 1200
-title: 'Nueva incorporación a la DAG de Mónica Lemos'
+title: "Nueva incorporación a la DAG de Mónica Lemos"
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/mo-nica-lemos-agarimo-estudio-2-recortada.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ¡Qué bonito es ser gallega! Bueno, depende, porque los inviernos son fríos y húmedos. Aún así no lo cambiaría por nada. Pues lo mismo me ocurre con el mundo creativo, un entorno profesional lleno de pensamiento crítico, diversidad de tareas, diversión y muchos retos.
 
       En mi adolescencia empecé a desarrollar mi parte más artística escribiendo poesía y pintando cuadros al óleo pero nunca me planteé estudiar nada relacionado con bellas artes o diseño gráfico.
@@ -26,13 +24,13 @@ body:
       - Youtube: Agarimo Estudio
       - Podcast: Fuera del estudio
       - Web:[ agarimoestudio.com](http://agarimoestudio.com/)
-       
+
       Gracias a DAG por toda su labor y muy orgullosa y contenta de formar parte de la asociación.
     type: text
-intro: 'Comenzamos el año con nuevas incorporaciones, entre ellas Mónica Lemos que desde Agarimo Estudio y Consultoría de Branding apuesta por estrategia y diseño para definir quienes somos, transmitirlo con fidelidad y así pertenecer a la sociedad y al mundo. Encantados de tenerte en la DAG, ¡bienvenida Mónica!'
+intro: "Comenzamos el año con nuevas incorporaciones, entre ellas Mónica Lemos que desde Agarimo Estudio y Consultoría de Branding apuesta por estrategia y diseño para definir quienes somos, transmitirlo con fidelidad y así pertenecer a la sociedad y al mundo. Encantados de tenerte en la DAG, ¡bienvenida Mónica!"
 slug: nueva-incorporacion-a-la-dag-de-monica-lemos
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2023-01-26T12:00:00+00:00

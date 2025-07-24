@@ -1,14 +1,12 @@
 id: 847
-title: 'E os premiados son...'
+title: "E os premiados son..."
 body:
-  -
-    list: after
+  - list: after
     image: /img/news/images/desonos-1.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       Entre todos os galardoados, como non podía ser doutro xeito, temos que destacar a presenza de socios da DAG nas distintas categorías, algúns deles premiados por segundo ano consecutivo: [desoños](http://www.desonhos.gal/), [desescribir](http://www.desescribir.com/) e por terceiro, no caso de [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/).
 
       A seguir, reproducimos a nómina completa dos proxectos distinguidos cun premio:
@@ -17,26 +15,22 @@ body:
 
       [Desoños](http://www.desonhos.gal/) foi o estudio encargado do deseño e maquetación tanto do sitio web como das cartas do [restaurante de Pepe Vieira](https://pepevieira.com/). En palabras dos deseñadores, o punto de partida para desenvolver a web e mais as cartas do restaurante foi a cociña do propio Pepe, que é auténtica, racial e chea de significado. Vai máis alá do culinario e conta unha historia con cada prato. Trátase dunha experiencia única que permite descubrir Galicia e as súas orixes a través da súa proposta gastronómica creativa. O seu traballo tratou simplemente de ser fiel e transmitir ese espírito.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/pepe-vieira-web-01.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Premio ao mellor deseño gráfico: identidade gráfica da Fundación Arquitectura y Sociedad
 
       Neste caso, trátase dun traballo de [desescribir](http://www.desescribir.com/). Os dous deseñadores [Suso Vázquez](https://dag.gal/gl/suso-vazquez-gomez/) e [Cibrán Rico](https://dag.gal/gl/cibran-rico-lopez/) explican que a [Fundación Arquitectura y Sociedad](https://arquitecturaysociedad.org/) é unha entidade con sede en Pamplona e Madrid que ten como obxectivo principal a difusión da cultura arquitectónica como un ámbito intimamente ligado á vida en sociedade. A día de hoxe é unha das principais promotoras de debate e reflexión arquitectónica a nivel estatal e internacional. O seu traballo consistiu en renovar a súa identidade gráfica e en propor sistemas gráficos para as múltiplas actividades que organizan en paralelo: talleres e workshops, Máster universitario, congresos internacionais, etc. Un detalle a salientar é que para esta identidade da Fundación e os sistemas gráficos para as diferentes actividades que promove, empregaron a tipografía Mais Grotesk de [Marcos Dopico](https://dag.gal/gl/marcos-dopico-castro/).
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/2-cartel-campus.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Premio ao mellor deseño industrial: Natur Hall, espazo expositivo para rechapados de madeira natural
 
       O deseño deste espazo foi realizado por [cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/) para [Finsa](https://www.finsa.com/). [Ricardo Tubío](https://dag.gal/gl/ricardo-tubio-pazos/) e [Xabier Rilo](https://dag.gal/gl/xabier-rilo/) contan que a sección de rechapados con lámina de madeira natural de Finsa se encontra na factoría de Padrón, a máis antiga en funcionamento. [Natur Hall](https://vimeo.com/277609863) naceu como un espazo ao servizo da chapa de madeira natural e do proceso de rechapado que ten como finalidade conectar todos os axentes implicados para aproveitar así as posíbeis sinerxías. Construíuse aproveitando unha estrutura metálica en desuso sobre a que se pendura un teito que á súa vez suxeita o cerramento de vidro. O obxectivo era crear unha pel o máis leve e neutra posíbel, que lles permitise acondicionar un espazo sen perder o contacto co que está a pasar fóra.
@@ -45,14 +39,12 @@ body:
 
       No perímetro disponse unha celosía de lamas verticais penduradas do teito que teñen unha dobre función: por un lado controlar a visión e a entrada de luz do exterior e por outro servir de soporte de exposición do propio produto.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/cenlitrosmetrocadrado-naturhall.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  -
-    text: |-
+  - text: |-
       ## Premio ao mellor libro: Drift Miradas cruzadas entre diseño y arte contemporáneo
 
       A obra, con deseño de Cristina Moralejo ([DARDO](http://dardo.gal/dardo/)) e impresa por [Gráficas Anduriña](http://www.andurina.com/), editouse con motivo da exposición homónima celebrada no [Museo de Arte Contemporánea Naturgy](http://www.fundacionnaturgy.org/mac/) da Coruña.
@@ -61,16 +53,15 @@ body:
 
       O resultado é un volume que garda un ton uniforme a pesar da diversidade de fontes das que proceden as imaxes. A gráfica da portada expándese desde o “D” e marca o propio formato do libro que, cuns cortes a 45º, convértese así mesmo nun “D”.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/drift-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'O pasado venres 23 de novembro, nunha gala que tivo lugar en Expourense, facíase pública a lista de profesionais premiados na terceira edición dos Premios da Comunicación e do Marketing de Galicia que organiza o Clúster da Comunicación Gráfica de Galicia.'
+intro: "O pasado venres 23 de novembro, nunha gala que tivo lugar en Expourense, facíase pública a lista de profesionais premiados na terceira edición dos Premios da Comunicación e do Marketing de Galicia que organiza o Clúster da Comunicación Gráfica de Galicia."
 slug: e-os-premiados-son
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: gl
 draft: false
 date: 2018-11-27T11:13:01+00:00

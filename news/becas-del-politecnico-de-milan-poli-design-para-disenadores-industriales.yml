@@ -1,8 +1,7 @@
 id: 267
-title: 'Becas del Politécnico de Milán, POLI.design, para diseñadores industriales'
+title: "Becas del Politécnico de Milán, POLI.design, para diseñadores industriales"
 body:
-  -
-    text: |-
+  - text: |-
       La relación completa de másteres consta de:
 
       **1. Máster en ingeniería de diseño industrial e innovación (5ª edición)** El máster forma diseñadores expertos, capaces de gestionar el desarrollo de un nuevo producto desde la idea hasta la producción, con particular atención a aspectos tecnológicos, productivos y de costos. Fecha de inicio: noviembre de 2011 Duración: 12 meses Idioma de las clases: italiano n.º de becas: 5 becas, 4 del 25 % y 1 del 50 % Enlace al programa: [http://www.polidesign.net/mdspi](http://www.polidesign.net/mdspi/)
@@ -17,12 +16,11 @@ body:
 
       Más información en el sitio [www.polidesign.net/master](http://www.polidesign.net/master/) o llamando al número +39 02 23995911.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7a9e4179a-master-in-industrial-design-engineering-and-innovation.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'El Consorcio del Politécnico de Milán, POLI.design convoca 20 becas destinadas a diseñadores industriales para la realización de másteres en Italia.'
+intro: "El Consorcio del Politécnico de Milán, POLI.design convoca 20 becas destinadas a diseñadores industriales para la realización de másteres en Italia."
 slug: becas-del-politecnico-de-milan-poli-design-para-disenadores-industriales
 tags: []
 lang: es

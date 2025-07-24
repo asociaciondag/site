@@ -1,8 +1,7 @@
 id: 467
-title: 'Tenemos una nueva socia en la DAG. Bienvenida!'
+title: "Tenemos una nueva socia en la DAG. Bienvenida!"
 body:
-  -
-    text: |-
+  - text: |-
       Hola a todos. Me llamo Iria Fernández, tengo 22 años y vivo en Pontevedra. Nací en el interior de Galicia, en una aldea llamada Puxallos. Terminé la carrera de Grado en Ingeniería en Diseño Industrial y Desarrollo de Producto (Universidad de A Coruña) en julio de 2013, habiendo colaborado en proyectos con Seat Centro-Técnico, con GOAT Longboards y con el Colegio Oficial de Joyería de Galicia.
 
       Mi intención a medio plazo es, tanto a nivel personal como profesional, ir fuera a aprender para tener una visión perimetral de lo que sucede en el mundo del diseño, con el objetivo de encaminar mi carrera. Sin embargo, no quiero tirarme al río sin saber nadar, por eso pretendo a través de la DAG conocer a gente del gremio, así como la situación del sector en el momento actual desde una óptica profesional, y comenzar a formar parte del mismo.
@@ -13,15 +12,14 @@ body:
 
       Y espero que podamos vernos pronto en alguna actividad. Un placer formar parte de la asociación.
     type: text
-  -
-    list: ''
+  - list: ""
     image: /img/news/images/553e7aa510dbd-iria.jpg
-    text: ''
+    text: ""
     type: image
-intro: 'Como ya viene siendo habitual, aquí está la presentación de la nueva socia de la DAG.'
+intro: "Como ya viene siendo habitual, aquí está la presentación de la nueva socia de la DAG."
 slug: tenemos-una-nueva-socia-en-la-dag-bienvenida
 tags:
-  - 'noticias socios/socias'
+  - "noticias socios/socias"
 lang: es
 draft: false
 date: 2013-12-11T12:18:11+00:00
