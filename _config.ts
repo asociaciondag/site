@@ -8,6 +8,7 @@ import date from "lume/plugins/date.ts";
 import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import postcssExtendRule from "npm:postcss-extend-rule@4.0.0";
 import postcssCustomMedia from "npm:postcss-custom-media@9.1.2";
+import basePath from "lume/plugins/base_path.ts";
 import gl from "npm:date-fns/locale/gl/index.js";
 import es from "npm:date-fns/locale/es/index.js";
 
@@ -30,6 +31,7 @@ site.add("fonts")
   }))
   .use(slugifyUrls())
   .use(inline())
+  .use(basePath())
   .use(multilanguage({
     languages: ["gl", "es"],
     defaultLanguage: "gl",
