@@ -1,0 +1,40 @@
+id: 1315
+title: 'Premios Nacionales de Innovación​ y Diseño'
+body:
+  -
+    list: before
+    image: /img/news/images/premios-ministerio2024.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Los premios distinguen a persoas y entidades que hacen de la innovación un elemento indispensable en el desarrollo de su estrategia profesional y de su crecimiento​​ empresarial. También galardonan a profesionales y empresas que contribuyen significativamente al incremento del prestigio del diseño español y a las entidades que, incorporándolo a su estrategia empresarial, demuestran que el diseño es una potente palanca de inovación y de competitividad. ​​
+
+      Recordamos las categorías de los premios:
+
+      Premios Nacionales de Innovación:
+
+      - Modalidad Trayectoria Innovadora: personas físicas con una trayectoria de al menos quince años en la que la innovación ha sido una de las características relevantes.
+      - Modalidad Gran Empresa Innovadora: grandes empresas con una actividad innovadora de al menos quince años.
+      - Modalidad Pequeña y Mediana Empresa Innovadora: pequeñas y medianas empresas con demostrada actividad innovadora de al menos cinco años.
+      - Modalidad Nuevo Talento Innovador: dirigidos a aquellas personas con un demostrado potencial innovador, cuya edad no sobrepase los treinta y cinco años en el día de la presentación de la candidatura.
+       
+      Premios Nacionales de Diseño:
+
+      - Modalidad Trayectoria en Diseño: profesionales del diseño (personas físicas o equipos de profesionales) con una trayectoria de al menos quince años de reconocido prestigio en el sector.
+      - Modalidad Diseño y Empresa: empresas que hayan incorporado el diseño a su estrateg​ia empresarial durante al menos diez años.
+      - Modalidad Nuevos Profesionales del Diseño: dirigido a personas físicas (diseñadores y diseñadoras), con una edad que no sobrepase los treinta y cinco años el día de la presentación de la candidatura.
+       
+    type: text
+  -
+    list: ''
+    url: 'https://www.ciencia.gob.es/Convocatorias/2024/PNID2024.html'
+    text: 'Presentación de candidatura'
+    type: button
+intro: 'Hasta el próximo 4 de julio está abierta la convocatoria para presentar candidaturas a los Premios Nacionales de Innovación y Diseño 2024. Animamos a profesionales del diseño y a las empresas de nuestra comunidad a que se presenten.'
+slug: premios-nacionales-de-innovacion-y-diseno
+tags: []
+lang: es
+draft: false
+date: 2024-06-21T12:38:56+00:00

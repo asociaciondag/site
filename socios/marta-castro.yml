@@ -11,15 +11,15 @@ links:
     type: facebook
 name: 'Marta Castro'
 slug: marta-castro
-avatar: /img/avatars/cuadrada-marta-castro.jpg
 avatarBig: null
+avatar: /img/avatars/cuadrada-marta-castro.jpg
 tags:
   - Sinalética
   - Editorial
   - 'Identidade corporativa'
   - Gráfico
   - Infografía
-draft: false
+draft: true
 bio.gl: |-
   O meu nome é Marta Castro, e traballo como deseñadora gráfica no meu propio estudio, chamado Hei Castro.
 

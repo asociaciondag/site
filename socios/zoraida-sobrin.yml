@@ -22,13 +22,13 @@ links:
     type: facebook
 name: 'Zoraida Sobrín'
 slug: zoraida-sobrin
-avatar: /img/avatars/zoraidasobrin.jpg
 avatarBig: null
+avatar: /img/avatars/zoraidasobrin.jpg
 tags:
   - Gráfico
   - 'Identidade corporativa'
   - Embalaxe
-draft: false
+draft: true
 bio.gl: |-
   Zoraida Sobrín é un estudio de deseño gráfico e ilustración, especializado na identidade de marcas sinxelas para pequenos proxectos con valores sociais, locais, culturais e ambientais. O proceso de traballo baséase en escoitar á marca, deseñar unha estratexia visual coherente, crear un deseño para as persoas, tendo en conta aspectos ambientais e sociais, e darlle gran importancia á emoción e a historia que hai detrás de cada proxecto.
 

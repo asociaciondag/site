@@ -1,0 +1,35 @@
+id: 1394
+title: 'Participamos no Festival Creativa, Vigo'
+body:
+  -
+    list: before
+    image: /img/news/images/creativa-horiz.jpg
+    text: 'Imaxe do Festival Creativa 2025'
+    mode: normal
+    type: image
+  -
+    text: |-
+      O Cine Vigo, a Galería Maraca e a Praza do Pobo Galego son algunhas das sedes do festival que reúne destacados nomes da escena creativa local e nacional entre a súa programación. Figuras do ámbito da ilustración como Genie Espinosa, María Gómez, o estudio Brosmind, Cristina Sardá, Javirrollo… ou deseñadores da talla de Mario Eskenazi, Javier Jaén, Diego Feijóo ou a arquitecta Le Petite Patito, xunto con autoras como Raquel Peláez presentarán os seu proxectos, participarán en coloquios ou impartirán obradoiros.
+
+      Como en cada edición, celebraranse as «Charlas Maraca» que terán por convidados/as a ceramista Lili Algo, o podcast Desfacendo Galicia, o proxecto Rural Hackers ou os nosos asociados Pablo Álvarez, do estudio Casa Pransa e Lago Monroy… entre outros.
+
+      Tamén haberá tempo para propostas visuais como as de IseeFaces Studio que acompañarán a actuación de música electrónica de Belish ou escénicas como a de Marinita y sus Maromas, ademais dos concertos das bandas Nutrias ou Visera e a presentación do novo traballo de Manu G. Sanz.
+
+      Como novidade, o festival non só contará co seu Mercado Gráfico na praza do Pobo Galego, coa participación de 50 artistas, senón que ademais levará aos escaparates das rúas Doutor Cadaval e Eduardo Iglesias sesións de en ilustración en vivo da man de Roberto Argüelles, Sandra Lodi, Agustina Shuan e Nivi&amp;Éxfico.
+
+      O festival será unha oportunidade para afondar en proxectos como Up&amp;Up, da madrileña Lucía Zapata, unha iniciativa que conecta persoas e lugares a través da creatividade e a exploración, unindo a 100 artistas de 14 países do mundo. E tamén do noso proxecto AR\\DE, que ten por obxectivo reunir os materiais divulgativos en materia de deseño galego para facilitar o estudo do ámbito e converterse no futuro nun arquivo dixital, que será presentado por Óscar Otero e Raquel Boo o sábado 26 ás 18.00 h.
+
+      Todo isto e moito máis na terceira edición do festival organizado por Maraca, Dot e ChaChaChá que se fixo co premio de «Mellor evento cultural de Galicia» nos Premios Paraugas no 2024. Acceso libre e de balde.
+    type: text
+  -
+    list: ''
+    url: 'https://dotgalicia.com/creativa/'
+    text: 'Programa completo'
+    type: button
+intro: 'A cidade olívica acollerá os vindeiros 25 e 26 de abril unha nova edición deste espazo de encontro para profesionais e amadores/as da cultura contemporánea.'
+slug: festival-creativa-vigo-2025
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2025-04-24T11:49:00+00:00

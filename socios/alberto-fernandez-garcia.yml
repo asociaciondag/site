@@ -18,12 +18,12 @@ links:
     type: link
 name: 'Alberto Fernández García'
 slug: alberto-fernandez-garcia
-avatar: /img/avatars/alberto-fernandez-garcia-avatar.jpg
 avatarBig: null
+avatar: /img/avatars/alberto-fernandez-garcia-avatar.jpg
 tags:
   - Web
   - UX/UI
-draft: false
+draft: true
 bio.gl: 'Son deseñador UX / UI que actualmente traballa como responsable de deseño de produtos dixitais en Tecalis. Ultimamente, estou centrado no deseño e actualización de Signature (un software de firma electrónica) que foi incluído na lista de [Top Picks](https://www.elespanol.com/quincemil/articulos/economia/una-de-las-mejores-soluciones-de-firma-electronica-a-nivel-mundial-es-gallega-tecalis) das mellores empresas de solucións de firma electrónica a nivel internacional.'
 bio.es: 'Soy diseñador UX / UI que actualmente trabaja como responsable de diseño de productos digitales en Tecalis. Últimamente, estoy centrado en el diseño y actualización de Signature (un software de firma electrónica) que ha sido incluido en la lista de [Top Picks](https://www.elespanol.com/quincemil/articulos/economia/una-de-las-mejores-soluciones-de-firma-electronica-a-nivel-mundial-es-gallega-tecalis) de las mejores empresas de soluciones de firma electrónica a nivel internacional.'
 job.gl: 'Deseñador UX/UI/Web'

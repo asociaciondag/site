@@ -18,19 +18,19 @@ links:
     type: facebook
   -
     text: Instagram
-    url: 'https://www.facebook.com/veronicavieiragonzalez'
+    url: 'https://www.instagram.com/porlasramas_estudio/?hl=es'
     type: link
 name: 'Verónica Vieira González'
 slug: veronica-vieira-gonzalez
-avatar: /img/avatars/veronicavieira.jpeg
 avatarBig: /img/avatars/veronicavieira.jpeg
+avatar: /img/avatars/veronicavieira.jpeg
 tags:
   - Gráfico
   - 'Identidade corporativa'
   - Embalaxe
   - Editorial
   - Audiovisual
-draft: false
+draft: true
 bio.gl: null
 bio.es: null
 job.gl: 'Deseñadora gráfica '

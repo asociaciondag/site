@@ -19,7 +19,8 @@ body:
     type: text
 intro: 'La exposición​ ​_A Galicia deseñada, símbolos, marcas e identidades gráficas_,​ comisariada por Marcos Dopico, Cibrán Rico y Suso Vázquez,​ nace con el objetivo de contribuir a establecer una historiografía sobre el diseño gallego, a partir de un catálog​o​ de trabajos realizados en Galicia que pueda funcionar como documentación de referencia y consulta para las diseñadoras y diseñadores actuales y futuros. Será expuesta en la Sala Normal de la Universidade da Coruña desde el próximo 14 de octubre hasta el 13 de enero de 2023.'
 slug: a-galicia-desenada-una-exposicion-sobre-el-diseno-gallego
-tags: []
+tags:
+  - 'noticias socios/socias'
 lang: es
 draft: false
 date: 2022-10-11T12:00:00+00:00

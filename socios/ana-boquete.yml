@@ -7,11 +7,11 @@ links:
     type: linkedin
 name: 'Ana Boquete'
 slug: ana-boquete
-avatar: /img/avatars/foto-ana.jpg
 avatarBig: null
+avatar: /img/avatars/foto-ana.jpg
 tags:
   - UX/UI
-draft: false
+draft: true
 bio.gl: null
 bio.es: null
 job.gl: 'Deseñadora UX'

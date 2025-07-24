@@ -19,13 +19,13 @@ links:
     type: linkedin
 name: 'Begoña Pastoriza'
 slug: begona-pastoriza
-avatar: /img/avatars/portrait-begopastoriza-dag.png
 avatarBig: null
+avatar: /img/avatars/portrait-begopastoriza-dag.png
 tags:
   - UX/UI
   - Web
   - Gráfico
-draft: false
+draft: true
 bio.gl: |-
   Deseño webs e apps accesibles e usables, para diferentes clientes de carácter nacional e internacional, principalmente de carácter institucional, destacando entre eles as Nacións Unidas ou o Concello de Dinamarca.
 

@@ -1,0 +1,28 @@
+id: 1344
+title: 'Nova edición dos Premios Anuaria de Deseño Gráfico'
+body:
+  -
+    list: before
+    image: /img/news/images/anuaria-2024.jpeg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Os socios e socias de DAG, ademais das promocións que ofrece a organización por inscrición temperá ou pola presentación de múltiples proxectos, gozarán dun 10% de desconto acumulable a outras ofertas destinado ao Programa de Apoio a Organizacións da Fundación Veredictas Internacional, que pode repercutir en DAG se así se marca no formulario.
+
+      Os Anuaria establecen 21 premios repartidos en 4 categorías: _branding_ e aplicación de marca, publicidade e comunicación, editorial e recursos gráficos.
+
+      Como vén sendo habitual, a DAG colabora coa organización na difusión dos premios e no xurado que seleccionará os mellores traballos, cun Anuaria de Ouro en cada categoría e ata 10 Seleccións Anuaria por categoría. Este ano contan co socio e membro da Xunta Directiva, Carlos El Rojo.
+    type: text
+  -
+    list: ''
+    url: 'https://www.veredictas.com/es/premios/premios-anuaria/bases-fechas.html'
+    text: 'Bases e inscricións'
+    type: button
+intro: 'Xa está en marcha a convocatoria para participar nos Premios Anuaria 2024, con traballos realizados nos anos 2023 e 2024. A inscrición está aberta ata o 15 de novembro. Estes premios recoñecen a excelencia do deseño gráfico de España desde hai 31 anos.'
+slug: nova-edicion-dos-premios-anuaria-de-deseno-grafico
+tags: []
+lang: gl
+draft: false
+date: 2024-10-21T13:57:07+00:00

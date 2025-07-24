@@ -1,0 +1,29 @@
+id: 1309
+title: 'Premios Arcapack para Uqui Permui y BeDo Creativos'
+body:
+  -
+    list: before
+    image: /img/news/images/premios-arckapack.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Dentro de la categoría de mejor _packaging_ de bebidas, diseño de botella y/o de etiqueta encontramos los tres proyectos de[ BeDo Creativos](https://wearebedo.com/): La Pócima elaborado para destilerías Miño, el vermut Diovio y los licores Abadía do Crego, ambos creados para la destilería Xestal. En el caso de Diovio, el trabajo partió de cero, creando el nombre, el concepto de marca y el _packaging_.
+
+      Por otro lado, el _packaging_ de Sementares, proyecto diseñado por [Uqui Permui](https://uqui.net/index.php/gl/proxectos/sementares) para la productora Sementares, llevó el premio dentro de la categoría de mejor _packaging_ «ecofriendly», que tiene en cuenta la reducción de materiales, que sea reciclable, de producción sostenible y que respete al medio ambiente. Recordamos que este proyecto fue Premio Nort 2024, llevó también un Oro en los Premios Latampack y una Selección en los Premios Clap 2023.
+
+      Los premios Arcapack reconocen y difunden la excelencia del diseño y las soluciones de los mejores envases y embalajes diseñados o fabricados, total o parcialmente, en España y Portugal, durante los años 2023 y 2024.
+    type: text
+  -
+    list: ''
+    url: 'https://www.veredictas.com/es/premios/premios-arca/ganadores.html'
+    text: 'Web de los premios'
+    type: button
+intro: 'La sexta edición de los Premios Arcapack España acaban de comunicar los ganadores de este año 2024. Entre las Selecciones Especiales econtramos tres trabajos del compañero Pablo Álvarez, de BeDo, y uno de Uqui Permui. ¡Felicidades!'
+slug: premios-arcapack-para-uqui-permui-y-bedo-creativos
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2024-05-28T09:03:45+00:00

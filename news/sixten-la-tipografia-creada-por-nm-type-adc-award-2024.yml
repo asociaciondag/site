@@ -1,0 +1,29 @@
+id: 1305
+title: 'Sixten, la tipografía creada por NM type, ADC Award 2024'
+body:
+  -
+    list: before
+    image: /img/news/images/sixten-01.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Sixteen es un tipo de letra inspirado en las formas intuitivas de las letras que crea un niño de cuatro años, libre de reglas y sin limitaciones. Durante el proceso, los creadores se dieron cuenta de las conexiones que existían entre el alfabeto fenicio y el griego primitivo. Crearon patrones tipográficos escribiendo letras al revés, de tal manera que las letras reflejadas forman parte de Sixten. El resultado es un tipo de letra variable, con alternativas convencionales y rebeldes, que muestran la escritura temprana de un niño sin que resulte infantil. La familia completa cambia de rasgos, de Narrow a Wide, lo que afecta tanto a la anchura de las letras como al esqueleto de las mismas.
+
+      El trabajo realizado por María y Noel ya ha llevado premios a nivel mundial y ha aparecido en publicaciones de diseño y conferencias internacionales. Con [NM type](https://nmtype.com/) crean y distribuyen familias tipográficas al por menor, además de diseñar tipos experimentales y fuentes personalizadas para entidades y marcas.
+
+      Los premios anuales de la ADC son los galardones del sector más antiguos del mundo, contando ya con 102 ediciones. Premian lo mejor de la publicidad, de los medios digitales, del diseño gráfico y de publicaciones, del diseño de envases y productos, del diseño en movimiento, experiencial y espacial, de la fotografía, de la ilustración y del diseño de moda, centrado en el arte y en la artesanía.
+    type: text
+  -
+    list: ''
+    url: 'https://www.oneclub.org/awards/adcawards/-award/51719/sixten-typeface'
+    text: 'Web de los Premios ADC Awards'
+    type: button
+intro: 'La tipografía Sixten, creada por la socia María Ramos y su compañero en NM type, Noel Pretorius, ha llevado una Mención de Honor en los ADC Awards 2024, los más antiguos del sector de la comunicación visual.'
+slug: sixten-la-tipografia-creada-por-nm-type-adc-award-2024
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2024-05-24T09:15:38+00:00

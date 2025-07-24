@@ -1,0 +1,19 @@
+id: 427
+title: 'Serie finísimas'
+slug: serie-finisimas
+body:
+  -
+    image: /img/portfolio/images/serie-finiiiisima.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/serie-finiiiisima.jpg
+tags:
+  - Produto
+  - Mobiliario
+members_id:
+  - 112
+lang:
+  - gl
+  - es
+info: []
+draft: false

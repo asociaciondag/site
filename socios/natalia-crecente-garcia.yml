@@ -1,13 +1,17 @@
 id: 11
-contact: |-
-  Rúa da Raíña 12, 2ºA  
-   27001 Lugo  
-   T. 982 981 101  
-   M. 665 660 814
+contact: null
 links:
   -
     text: Sond3
     url: 'https://www.sond3.com'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/sond3estudio/'
+    type: link
+  -
+    text: nataliacrecente
+    url: 'http://nataliacrecente.com/'
     type: link
   -
     text: Twitter
@@ -15,14 +19,28 @@ links:
     type: twitter
 name: 'Natalia Crecente García'
 slug: natalia-crecente-garcia
-avatar: /img/avatars/554cf73aafb81-natalia-crecente-garcia.jpeg
 avatarBig: null
+avatar: /img/avatars/554cf73aafb81-natalia-crecente-garcia.jpeg
 tags:
   - Gráfico
   - 'Identidade corporativa'
   - Editorial
 draft: false
-bio.gl: null
-bio.es: null
+bio.gl: |-
+  Sond3 é un estudio de deseño e desenvolvemento web creado en Lugo no ano 2006 por Natalia Crecente, Segundo Fdez e Diego Vilariño. Formados en diferentes campos como o deseño, arte ou tecnoloxía, combinan estas disciplinas para levar a cabo proxectos de comunicación gráfica e dixital, centrándose en identidade corporativa, deseño editorial ou deseño e desenvolvemento web.
+
+  Son socios da Asociación Galega de Deseño (DAG) dende a súa creación e avogan por unha cultura do proxecto levada a cabo de forma autónoma ou colaborativa con outros profesionais, defendendo un deseño honesto, ético e responsable.
+
+  De forma paralela aos encargos do estudio, traballan en proxectos propios cun caracter máis experimental, permitindo investigar, probar e seguir desfrutando do traballo. Por outra banda Natalia Crecente combina a sua labor coa docencia na Escola de Arte e Superior de Deseño Ramón Falcón de Lugo.
+
+  O estudio foi premiado na II bienal de deseño iberoamericano Bid 2010 na categoría de deseño dixital ou foi finalista nos Premios Paraugas na categoría de mellor deseño gráfico galego (2019).
+bio.es: |-
+  Sond3 es un estudio de diseño y desarrollo web creado en Lugo en el año 2006 por Natalia Crecente, Segundo Fdez y Diego Vilariño. Formados en diferentes campos como el diseño, arte o tecnología, combinan estas disciplinas para llevar a cabo proyectos de comunicación gráfica y digital, centrándose en identidad corporativa, diseño editorial o diseño y desarrollo web.
+
+  Son socios de la Asociación Galega de Deseño (DAG) desde su creación y avogan por una cultura del proyecto llevada a cabo de forma autónoma o colaborativa con otros profesionales, defendiendo un diseño honesto, ético y responsable.
+
+  De forma paralela a los encargos del estudio, trabajan en proyectos propios con un carácter más experimental, permitiendo investigar, probar y seguir disfrutando del trabajo. Por otro lado Natalia Crecente combina su labor con la docencia en la Escola de Arte e Superior de Deseño Ramón Falcón de Lugo.
+
+  El estudio fue premiado en la II bienal de diseño iberoamericano Bid 2010 en la categoría de diseño digital y fue finalista en los Premios Paraugas en la categoría de mejor diseño gráfico gallego (2019).
 job.gl: 'Profesora da Escola de Arte de Lugo e deseñadora gráfica en Sond3'
 job.es: 'Profesora de la Escuela de Arte de Lugo y diseñadora gráfica en Sond3'

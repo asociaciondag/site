@@ -1,0 +1,44 @@
+id: 1336
+title: 'Cuenca acolle por segundo ano o 12 ENAD'
+body:
+  -
+    list: before
+    image: /img/news/images/12enad-image.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Como pode o deseño contribuír a sociedades má​i​s inclusivas? Como pode o deseño contribuír a entidades máis coidadoras? Como podemos coidar os proxectos de e desde o deseño? Estas e outras cuestións relacionadas serán abordadas durante o 12ENAD mediante a acción e a reflexión común con idea de plantexar futuros desde o deseño e os coidados.​ Traballarase pola innovación social a través do deseño para combatir as vulnerabilidades e fomentar a produción de novas visóns e novos modelos de transformación social.​​​
+
+      O groso do encontro céntrase os días 18 e 19 de outubro, cun programa completo de obradoiros, relatorios, conversas, mesas de traballo e presentacións de proxectos​ nos que participan activamente as 13 asociacións que formamos READ e moitas outras entidades do sector público e privado, social ​e académico, co fin de estableceren relacións paralelas e novas iniciativa​s de grupo​.
+
+      As mesas de traballo son un elemento fundamental nos ENAD. Este ano, ademais de tres proxectos de continuidade, cóntase cunha mesa sobre deseño inclusivo cuxos resultados serán aplicados ao reto 3 do proxecto de inclusión Div​ers+s Lab.
+
+      - Mesa 1: Boas Prácticas. Reflexións​ sobre o uso da IA.  
+           Coordinada por Ana Rodríguez (DICA)
+      - Mesa 2: GEN. Taller de co-creación con enfoque feminista.  
+           Coordinada por Myriam Cea
+      - Mesa 3: Deseño inclusivo. Unha mesa taller en colaboración con DIVERS+S  
+           Coordinada por 3dLan
+      - Mesa 4: Educación e Deseño. Impacto na educación e o deseño.  
+           Coordinada por Juana Valcarcel (DIP) e Daniel Hervás (DIP)
+       
+      A participación das persoas representantes de DAG este ano é posible gracias ao apoio da Xunta de Galicia a través do Programa de[ Deseño para a Innovación e a Sustentabilidade 2024 – DIFERENZA](http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+sustentabilidade+2024+diferenza). Este programa será presentado no propio ENAD xunto con outras iniciativas que a DAG está levando a cabo na nosa comunidade para​ difundir e impulsar o deseño galego.
+    type: text
+  -
+    list: ''
+    url: 'https://12enad.designread.es/'
+    text: 'Web 12 ENAD'
+    type: button
+  -
+    list: ''
+    url: 'https://12enad.designread.es/inscripcion'
+    text: 'Inscricións 12 ENAD'
+    type: button
+intro: 'Do 18 ao 20 de outubro terá lugar en Cuenca o 12 ENAD baixo o título _Diseño de los cuidados, cuidados del diseño_​​. O evento que está organizado por READ e Cuenca Diseño centra o tema no deseño como ferramenta para o coidado do mundo, da contorna, das cidades, das persoas… para crear futuros desexables.'
+slug: cuenca-acolle-por-segundo-ano-o-12-enad
+tags: []
+lang: gl
+draft: false
+date: 2024-10-01T10:46:00+00:00

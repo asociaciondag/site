@@ -15,13 +15,13 @@ links:
     type: linkedin
 name: 'Anaís Fernández'
 slug: anais-fernandez
-avatar: /img/avatars/anais-fernandez.jpg
 avatarBig: null
+avatar: /img/avatars/anais-fernandez.jpg
 tags:
   - 'Identidade corporativa'
   - Gráfico
   - Web
-draft: false
+draft: true
 bio.gl: null
 bio.es: null
 job.gl: 'Deseñadora gráfica e web'

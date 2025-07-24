@@ -28,7 +28,8 @@ body:
     type: button
 intro: 'Entre o 21 e o 25 de novembro celebrarase a semana inaugural en La Central de Diseño, centro cultural Matadero Madrid onde, entre os proxectos seleccionados, poderemos ver os dos nosos socios Roberto Núñez, Ricardo Tubío e Xabier Rilo​.'
 slug: roberto-nunez-e-cenlitrosmetrocadrado-seleccionados-na-8-bienal-iberoamericana-de-diseno
-tags: []
+tags:
+  - 'noticias socios/socias'
 lang: gl
 draft: false
 date: 2022-11-08T12:00:00+00:00

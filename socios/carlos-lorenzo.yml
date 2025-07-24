@@ -2,7 +2,7 @@ id: 58
 contact: |-
   T. 620 942 777
 
-  <carlos@elrojo.eu>
+  <holabuenas@carloselrojo.com>
 links:
   -
     text: Coma
@@ -10,7 +10,7 @@ links:
     type: link
   -
     text: elrojo
-    url: 'http://www.elrojo.eu/'
+    url: 'https://www.carloselrojo.com/'
     type: link
   -
     text: Linkedin
@@ -18,8 +18,8 @@ links:
     type: linkedin
 name: 'Carlos el Rojo'
 slug: carlos-lorenzo
-avatar: /img/avatars/foto-presentacion-carlos-el-rojo.jpg
 avatarBig: null
+avatar: /img/avatars/foto-presentacion-carlos-el-rojo.jpg
 tags:
   - Gráfico
   - Web

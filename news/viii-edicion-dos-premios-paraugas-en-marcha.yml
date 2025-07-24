@@ -1,0 +1,34 @@
+id: 1256
+title: 'VIII Edición dos Premios Paraugas en marcha'
+body:
+  -
+    list: before
+    image: /img/news/images/premios-paraugas-2023.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      O próximo 17 de novembro terá lugar no teatro Jofre de Ferrol a gala de entrega dos Premios Paraugas que se distribúen este ano en seis categorías ordinarias e dúas novidades: impresión, deseño, creatividade, _marketing_, comunicación, eventos, máis a categoría Paraugas de Ouro, que será para o mellor traballo presentado de entre todas as categorías anteriores, e a categoría Novos Talentos, dirixido a promocionar ás novas xeracións.
+
+      Dentro da categoría de Deseño temos:
+
+      ​​- **Premio Paraugas ó Mellor Deseño Gráfico.** Proxectos profesionais de identidade corporativa, embalaxes (no aspecto visual), editorial, tipografía, cartelería ou calquera outra aplicación que empregue a linguaxe visual gráfica como fundamento na transmisión de mensaxes ou ideas.
+
+      **- Premio Paraugas ó Mellor Deseño Industrial ou de Produto.** Proxectos profesionais de produtos, elementos de iluminación, mobiliario, sinalética, embalaxe (no aspecto estrutural), maquinaria, solucións de escenografías, exposicións, _stands_, punto de venda ou calquera outro obxecto ou espazo físico que busque mellorar a súa funcionalidade conxugando os procesos de fabricación ou construción coas necesidades formais ou comunicativas.
+
+      **- Premio Paraugas ó Mellor Deseño Dixital.** Proxectos profesionais de aplicacións para móbiles, páxinas web, interfaces de _software_ ou calquera outra aplicación dixital que empregue a linguaxe visual gráfica como ferramenta para facilitar a interacción e a usabilidade con ela.
+
+      Os premios foron creados polo Clúster da Comunicación en 2016 con idea de poñer en valor o traballo que se fai en Galicia nas categorías que representa a entidade. Tedes toda a información da convocatoria deste ano na súa web.
+    type: text
+  -
+    list: ''
+    url: 'https://premios.clustercomunicacion.gal/abrese-inscripcion-2023'
+    text: 'Bases e inscricións'
+    type: button
+intro: 'O Clúster da Comunicación organiza os VIII Premios Paraugas con cambio de sede e dúas categorías novas de premios: Paraugas de Ouro e Novos Talentos. O prazo de presentación de proxectos remata o 31 de outubro.'
+slug: viii-edicion-dos-premios-paraugas-en-marcha
+tags: []
+lang: gl
+draft: false
+date: 2023-10-24T10:33:32+00:00

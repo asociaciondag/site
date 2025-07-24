@@ -1,0 +1,32 @@
+id: 123
+contact: null
+links:
+  -
+    text: Web
+    url: 'https://www.mercedesbarazal.com/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/mercedes_barazal/'
+    type: link
+name: 'Mercedes Barazal'
+slug: mercedes-barazal
+avatarBig: /img/avatars/mercedes-barazal.jpg
+avatar: /img/avatars/mercedes-barazal.jpg
+tags:
+  - Produto
+draft: false
+bio.gl: |-
+  Amo e aprezo os obxectos desde que era pequena. Medrei fascinada coas formas e o tacto das cousas, cos pequenos detalles que os facían especiais e inesquecibles.
+
+  Traballo no ámbito das artes decorativas, deseñando pezas únicas ou de edición limitada, producidas en colaboración con mestres artesáns. As miñas creacións fan hincapié no detalle, ás veces sutil ou lixeiramente agochado, xerando un xogo de percepción co espectador.
+
+  A obra do ser humano ao longo do tempo, desde a ferramenta máis rudimentaria até a máis conmovedora expresión artística —arquitectura, música, pintura, escultura, danza— é a miña principal fonte de inspiración e un recordatorio constante do poder enriquecedor e transformador das artes nas nosas vidas.
+bio.es: |-
+  Desde pequeña he apreciado y amado los objetos. Crecí fascinada con las formas y el tacto de las cosas, con los pequeños detalles que los hacían especiales e inolvidables.
+
+  Trabajo en el ámbito de las artes decorativas, diseñando piezas únicas o de edición limitada, producidas en colaboración con maestros artesanos. Mis creaciones hacen hincapié en el detalle, a veces sutil o ligeramente escondido, generando un juego de percepción con el espectador.
+
+  La obra del ser humano a lo largo del tiempo, desde la herramienta más rudimentaria hasta la más conmovedora expresión artística —arquitectura, música, pintura, escultura, danza— es mi principal fuente de inspiración y un recordatorio constante del poder enriquecedor y transformador de las artes en nuestras vidas.
+job.gl: 'Deseño de obxectos'
+job.es: 'Diseño de objetos'

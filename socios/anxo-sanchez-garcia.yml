@@ -1,0 +1,33 @@
+id: 115
+contact: info@anxosanchez.com
+links:
+  -
+    text: Web
+    url: 'https://www.anxosanchez.com/'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/anxo-sanchez-garcia/'
+    type: link
+  -
+    text: X
+    url: 'https://twitter.com/SanchezAnxo'
+    type: link
+name: 'Anxo Sánchez García'
+slug: anxo-sanchez-garcia
+avatarBig: null
+avatar: /img/avatars/anxo-sanchez-02.jpg
+tags:
+  - Web
+  - UX/UI
+draft: false
+bio.gl: |-
+  Son deseñador web. Acompaño a emprendedores e a empresas a construír unha páxina web optimizada, que teña visibilidade e consiga clientes a través de Internet.
+
+  Ademais diso, e no que poido, boto unha man coa creación de contido en galego sobre Deseño Web e eCommerce, moi centrado na comunidade de WordPress.
+bio.es: |-
+  Soy diseñador web. Acompaño a emprendedores y a empresas a construir una página web optimizada, que tenga visibilidad y consiga clientes a través de Internet.
+
+  Además de eso, y en lo que puedo, echo una mano con la creación de contenido en gallego sobre Diseño Web y eCommerce, muy centrado en la comunidad de WordPress.
+job.gl: 'Deseñador web'
+job.es: 'Diseñador web'

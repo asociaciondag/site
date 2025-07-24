@@ -15,7 +15,8 @@ body:
     type: text
 intro: 'El pasado 16 de junio, nuestros compañeros Ricardo Tubío y Xabier Rilo recibieron un Delta de bronce por el diseño de la mesa Lusi. Los premios, editados por ADI FAD, la Asociación de Diseño Industrial,​ valoran la excelencia del diseño y pone de relieve su importancia como herramienta para generar riqueza en la economía industrial.'
 slug: delta-de-bronce-para-la-mesa-lusi-de-cenlitrosmetrocadrado
-tags: []
+tags:
+  - 'noticias socios/socias'
 lang: es
 draft: false
 date: 2022-07-04T12:00:00+00:00

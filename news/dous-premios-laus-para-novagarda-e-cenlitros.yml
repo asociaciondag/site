@@ -1,0 +1,31 @@
+id: 1312
+title: 'Dous premios Laus para Novagarda e Cenlitros'
+body:
+  -
+    list: before
+    image: /img/news/images/laus-2024-02.jpg
+    text: 'Fotografías: @Roi\_Alonso e @Novagarda'
+    mode: normal
+    type: image
+  -
+    text: |-
+      Os compañeiros de [Cenlitros](https://www.cenlitros.com/alto-residencial) recolleron un Laus Prata polo traballo de sinaliación elaborado para o Alto Residencial, unha cooperativa de vivendas situada en Santiago de Compostela, onde, a partires da arquitectura propia do edificio, idearon un sistema de identificación de espazos de fácil implementación.
+
+      Pola súa banda, [Novagarda](https://novagarda.gal/), levou un Laus Bronce polo deseño da web da investigadora, creadora e xestora cultural Sabela Mendoza. Inspirándose no papel e no analóxico, crearon unha gráfica limpa e asimétrica máis cercana á estética contemporánea na que sobresae a artista.
+
+      A gala de entrega de premios tivo lugar no DHub de Barcelona o pasado 12 de xuño onde se premiaron un total de 336 proxectos. O Laus de Honra[ ](https://www.adg-fad.org/es/news/enric-satue-premio-adg-laus-de-honor-2024)foi para o deseñador Enric Satué, e o Laus Empresas para Vila Viniteca.
+
+      Os Premios ADG Laus de deseño gráfico e comunicación visual recoñecen os mellores proxectos en máis de 50 apartados de once categorías, ademais dos Aporta e Estudantes. Nesta 54 edición, ​os premios consolídanse como uns galardóns e unha cita profesional claves no sector.​
+    type: text
+  -
+    list: ''
+    url: 'https://www.adg-fad.org/es/laus/premiados'
+    text: 'Web dos premios'
+    type: button
+intro: 'A nova edición dos Premios Laus organizados por ADG FAD premiou o traballo dos nosos socios Xabier Rilo de Cenlitros, e Iago Barreiro e Alberto Carballido de Novagarda, cunha prata e un bronce respectivamente.'
+slug: dous-premios-laus-para-novagarda-e-cenlitros
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2024-06-19T09:52:01+00:00

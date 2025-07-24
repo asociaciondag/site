@@ -19,8 +19,8 @@ links:
     type: link
 name: 'Cibrán Rico López'
 slug: cibran-rico-lopez
-avatar: /img/avatars/cibran.jpg
 avatarBig: /img/avatars/desescribir.jpg
+avatar: /img/avatars/cibran.jpg
 tags:
   - Editorial
   - Gráfico
@@ -30,7 +30,7 @@ tags:
   - Sinalética
   - Exposicións
   - Estratexia
-draft: false
+draft: true
 bio.gl: |-
   Fundado no ano 2008, Desescribir está formado por Cibrán Rico López (A Coruña, 1978) e Suso Vázquez Gómez (Vigo, 1978), ambos licenciados en Arquitectura pola Escola Técnica Superior de Arquitectura da Universidade da Coruña.
 

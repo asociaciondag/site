@@ -1,0 +1,33 @@
+id: 1338
+title: 'As luminarias Parga de Cenlitros seleccionadas na BID 24'
+body:
+  -
+    list: before
+    image: /img/news/images/parga-x-cenlitroscstudio-aranda-santos.jpg
+    text: 'Fotografía de Studio Aranda Santos e A Emotional Light / Deseño para A Emotional Light'
+    mode: normal
+    type: image
+  -
+    text: |-
+      **[Parga](https://www.cenlitros.com/parga) é unha colección que recupera a aplicación do granito para obxectos funcionais e decorativos en espazos interiores, aproveitando a neutralidade cromática e a súa textura natural. Un conxunto formado por tres pezas de diferentes diámetros e alturas, que empregan unha linguaxe formal que remite á talla lítica máis primixenia e rudimentaria.**
+
+      **Recordemos que este traballo dos compañeiros de Cenlitros levou xa un Honoree Interior no Design Best of Year Awards 2023 e un Delta de Bronce 2024 nos Premios ADI FAD.**
+
+      **A [Bienal Iberoamericana de Deseño BID](https://bid-dimad.com/), organizada por[ Fundación Diseño Madrid](https://dimad.org/), ten lugar cada dous anos na Central de Diseño de Matadero Madrid, centro de creación contemporánea promovido pola Área de Goberno de Cultura e Deportes do Ayuntamiento de Madrid, e é unha das citas máis importante do deseño contemporáneo iberoamericano.**
+
+      **A BID é unha iniciativa que permite ao público achegarse ata a disciplina do deseño e a súa contorna, ademais de seren un punto de encontro para a reflexión e o pensamiento crítico e para establecer relacións entre profesionais, con empresas do sector e o ámbito académico. O nivel de actividades organizadas para a semana inaugural dan boa conta da súa repercusión a nivel internacional.**
+
+      **Felicitamos tamén a asociación ADCV, compañeira de READ, por resultar premiada co Premio BID Cultura do Deseño «Frank Memelsdorff» pola ferramenta dixital [D-ToolBox.](https://www.adcv.com/proyecto/d-tool/)**
+    type: text
+  -
+    list: ''
+    url: 'https://bid-dimad.com'
+    text: 'Web da BID'
+    type: button
+intro: 'O conxunto de luminarias Parga deseñadas polo socio Xabier Rilo e o seu compañeiro en Cenlitros Ricardo Tubío, foron seleccionadas para participar na exposición da Bienal Iberoamericana de Diseño 2024 organizada por Dimad. A exposición poderá visitarse ata o 6 de xaneiro de 2025 en Matadero Madrid.'
+slug: luminarias-deseno-cenlitros-bid24
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2024-10-10T09:35:00+00:00

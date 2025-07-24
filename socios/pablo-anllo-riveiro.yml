@@ -7,12 +7,12 @@ links:
     type: link
 name: 'Pablo Anllo Riveiro'
 slug: pablo-anllo-riveiro
-avatar: /img/avatars/554cefcd9bad7-pablo-anllo-riveiro.jpg
 avatarBig: null
+avatar: /img/avatars/554cefcd9bad7-pablo-anllo-riveiro.jpg
 tags:
   - Gráfico
   - Audiovisual
-draft: false
+draft: true
 bio.gl: null
 bio.es: null
 job.gl: 'Socio fundador e director de produción en Tony Le Brand'

@@ -7,14 +7,14 @@ links:
     type: link
 name: 'Javier Pérez López'
 slug: javier-perez-lopez
-avatar: /img/avatars/554d04b333365-javier-perez-lopez.jpg
 avatarBig: null
+avatar: /img/avatars/554d04b333365-javier-perez-lopez.jpg
 tags:
   - Editorial
   - Exposicións
   - 'Identidade corporativa'
   - Gráfico
-draft: false
+draft: true
 bio.gl: null
 bio.es: null
 job.gl: 'Deseñador gráfico'

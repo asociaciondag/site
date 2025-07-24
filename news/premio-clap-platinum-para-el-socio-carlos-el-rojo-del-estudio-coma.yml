@@ -17,7 +17,8 @@ body:
     type: text
 intro: 'El trabajo realizado por el socio [Carlos el Rojo](https://dag.gal/es/carlos-lorenzo/) del estudio coruñés [Coma](https://coma.gal/es/), para las Fiestas de la Ascensión 2022 de Santiago de Compostela, acaba de recibir un Clap Platinum en la categoría de _Marketing_ y Publicidad, mejor anuncio o campaña en vía pública.'
 slug: premio-clap-platinum-para-el-socio-carlos-el-rojo-del-estudio-coma
-tags: []
+tags:
+  - 'noticias socios/socias'
 lang: es
 draft: false
 date: 2022-12-14T09:46:00+00:00

@@ -24,15 +24,15 @@ links:
     type: linkedin
 name: 'Fran Martínez'
 slug: fran-martinez
-avatar: /img/avatars/5788fc7f953ca-fran-martinez.png
 avatarBig: null
+avatar: /img/avatars/5788fc7f953ca-fran-martinez.png
 tags:
   - 'Identidade corporativa'
   - Web
   - Editorial
   - Gráfico
   - Embalaxe
-draft: false
+draft: true
 bio.gl: |-
   O meu traballo diario consiste en facilitar as “solucións pedidas” buscando sempre incluír unha evolución/detalle/novo enfoque.
 

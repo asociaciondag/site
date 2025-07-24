@@ -15,14 +15,14 @@ links:
     type: link
 name: 'Marcos Dopico Castro'
 slug: marcos-dopico-castro
-avatar: /img/avatars/554cf9af99972-marcos-dopico-castro.jpeg
 avatarBig: null
+avatar: /img/avatars/554cf9af99972-marcos-dopico-castro.jpeg
 tags:
   - Tipografía
   - Gráfico
   - Editorial
   - 'Identidade corporativa'
-draft: false
+draft: true
 bio.gl: null
 bio.es: null
 job.gl: 'Deseñador gráfico, tipógrafo e profesor da Universidade de Vigo'

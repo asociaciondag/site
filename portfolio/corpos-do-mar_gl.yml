@@ -1,0 +1,22 @@
+id: 435
+title: 'Corpos no mar'
+slug: corpos-do-mar
+body:
+  -
+    text: |-
+      Deseño, maquetaxe e impresión da novela de Héctor Pose. Ilustracións de Alba Pose.
+
+      Fotografía de Javier Fernández
+    type: text
+  -
+    image: /img/portfolio/images/corpos-no-mar-2.png
+    text: ''
+    type: image
+cover: /img/portfolio/covers/corpos-no-mar-2.png
+tags:
+  - Editorial
+members_id:
+  - 119
+lang: gl
+info: []
+draft: false

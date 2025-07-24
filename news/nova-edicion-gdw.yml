@@ -1,0 +1,39 @@
+id: 1356
+title: 'Chega unha nova edición da Galicia Design Weekend '
+body:
+  -
+    list: before
+    image: /img/news/images/gdw24.jpg
+    text: 'Detalle da gráfica da #GDW24'
+    mode: normal
+    type: image
+  -
+    text: |-
+      Durante as xornadas do 29 e 30 de novembro, as persoas que asistan á #GDW24 poderán gozar dun completo programa de conferencias, exposicións, obradoiros, música e gastronomía no espazo creativo [Studio Follow](https://follow.gal/), fundado polo noso asociado Álex Rico. O acceso será con entrada libre ata completar a súa capacidade.
+
+      O evento artéllase arredor de tres eixos:
+
+      - PRO, formado por trece conferencias e tres obradoiros. Food design, intelixencia artificial, produto ilustrado, customización, interiorismo, origami…
+      - SHOW, con dúas exposicións, unha dedicada ao deseño galego do último ano, e outra ao talento emerxente, ademais dun espazo físico de venda de pezas das persoas que protagonizan esta edición.
+      - SESSIONS, coa participación de doce artistas entre os/as que destacan DJ María ou El Solitario.
+       
+      Na primeira xornada, en sesión de tarde,​ o festival conta ademais coa presenza do estudio de deseño coruñés [Costa](http://costa.io/), fundado polo socio Dani Bembibre e o seu compañeiro David Silvosa.
+
+      A #GDW24 ten como obxectivo promocionar o deseño como sector profesional e cultural de
+
+      importancia social e empresarial, creando comunidade, fomentando colaboracións, xerando novos proxectos, formando novas xeracións e abrindo o deseño galego ao exterior.
+
+      O festival está organizado por Galicia Design e Follow, co apoio da Xunta de Galicia e outras entidades.
+    type: text
+  -
+    list: ''
+    url: 'https://www.gdw.gal'
+    text: 'Consulta a programación'
+    type: button
+intro: 'O festival de deseño que forma parte da rede internacional de World Design Weeks volve á cidade da Coruña para ofrecer o último en deseño galego e tamén mostras de referentes internacionais.'
+slug: nova-edicion-gdw
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2024-11-21T12:16:00+00:00

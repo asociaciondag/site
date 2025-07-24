@@ -15,8 +15,8 @@ links:
     type: link
 name: 'María Peinado'
 slug: maria-peinado-florido
-avatar: /img/avatars/bio-maria-peinado.jpg
 avatarBig: null
+avatar: /img/avatars/bio-maria-peinado.jpg
 tags:
   - Editorial
 draft: false

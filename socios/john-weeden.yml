@@ -7,8 +7,8 @@ links:
     type: link
 name: 'John Weeden'
 slug: john-weeden
-avatar: /img/avatars/john-weeden.jpg
 avatarBig: null
+avatar: /img/avatars/john-weeden.jpg
 tags:
   - Gráfico
   - Web

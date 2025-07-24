@@ -22,8 +22,8 @@ links:
     type: link
 name: 'Héctor Lorenzo'
 slug: hector-lorenzo
-avatar: /img/avatars/avatar-hector.jpg
 avatarBig: null
+avatar: /img/avatars/avatar-hector.jpg
 tags:
   - Gráfico
 draft: true

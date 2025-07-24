@@ -1,0 +1,19 @@
+id: 442
+title: 'Vaivéns meteorolóxicos da vila da Guarda'
+slug: vaivens-esp
+body:
+  -
+    text: 'Cartel para la película "Vaivéns meteorolóxicos da vila da Guarda" realizada en colaboración con Proxecto Socheo'
+    type: text
+  -
+    image: /img/portfolio/images/vaivens.png
+    text: ''
+    type: image
+cover: /img/portfolio/covers/vaivens.png
+tags:
+  - Gráfico
+members_id:
+  - 119
+lang: es
+info: []
+draft: false

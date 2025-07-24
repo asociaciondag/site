@@ -1,0 +1,30 @@
+id: 1234
+title: 'A Universidade de Vigo inicia o Grao en Deseño no Campus de Pontevedra'
+body:
+  -
+    list: after
+    image: /img/news/images/img-0491.jpeg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Este novo Grao en Deseño busca formar a deseñadores e deseñadoras integrais capaces de xerar proxectos que teñan en conta os procesos e soportes comunicativos actuais (gráfico, moda, audiovisual e dixital interactivo),​ facendo especial énfase nas metodoloxías, tecnoloxías e entornos de traballo innovadores e actuais, que permitan a experimentación e unha mellor adaptación ao futuro mercado laboral.
+
+      Os contidos do Grao estructúranse en catro cursos académicos: dous primeiros cursos comúns, profundando na formación sobre as bases e os fundamentos do deseño; e dous cursos finais con optativas que orientan a carreira do alumnado cara a súa especialización en Deseño gráfico/dixital ou Deseño de moda. Un total de 240 créditos ECTS, 12 créditos do Traballo Fin de Grao e 18 créditos de Prácticas en empresas.​
+
+      A Facultade de Deseño é o novo centr​o universitario da Universidade de Vigo que impartirá o Grao en Deseño no Campus de Pontevedra, ademais de continuar co Mestrado de Deseño e Dirección Creativa de Moda que inicia este curso a súa sétima edició​n​.​​
+
+      A oferta formativa superior en deseño na nosa comunidade amplíase con es​te novo Grao e súmase á que ofrecen as catro Escolas de Arte Superior de Deseño​ sitas en A Coruña, Lugo, Ourense e Santiago de Compostela. ​
+    type: text
+  -
+    list: ''
+    url: 'https://deseno.uvigo.gal/'
+    text: 'Web do Grao en deseño'
+    type: button
+intro: 'O próximo curso 2023-24 a Universidade de Vigo comeza o Grao en Deseño no Campus Crea situado na cidade de Pontevedra, con 45 prazas e dúas mencións: Grao en Deseño gráfico/dixital e Grao en Deseño de moda​.'
+slug: a-universidade-de-vigo-inicia-o-grao-en-deseno-no-campus-de-pontevedra
+tags: []
+lang: gl
+draft: false
+date: 2023-06-15T10:08:00+00:00

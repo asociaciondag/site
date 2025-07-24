@@ -1,0 +1,37 @@
+id: 1357
+title: 'Llega una nueva edición de la Galicia Design Weekend '
+body:
+  -
+    list: before
+    image: /img/news/images/gdw24.jpg
+    text: 'Detalle de la gráfica de la #GDW24'
+    mode: normal
+    type: image
+  -
+    text: |-
+      Durante las jornadas del 29 y del 30 de noviembre, las personas que asistan a la #GDW24 podrán gozar de un completo programa de conferencias, exposiciones, talleres, música y gastronomía en el espacio creativo [Studio Follow](https://follow.gal/), fundado por nuestro asociado Álex Rico. El acceso será con entrada libre hasta completar su capacidad.
+
+      El evento se desarrolla alrededor de tres ejes:
+
+      - PRO, formado por trece conferencias y tres talleres. Food design, inteligencia artificial, producto ilustrado, customización, interiorismo, origami…
+      - SHOW, con dos exposiciones, una dedicada al diseño gallego del último año, y otra al talento emergente, además de​ un espacio físico de venta de piezas de las personas que protagonizan esta edición.
+      - SESSIONS, con la participación de doce artistas entre los/as que destacan DJ María o El Solitario.
+       
+      En la primera jornada, en sesión de tarde,​ el festival cuenta además con la presencia del estudio de diseño coruñés [Costa](http://costa.io/), fundado por el socio Dani Bembibre y su compañero David Silvosa.
+
+      La #GDW24 tiene como objetivo promocionar el diseño como sector profesional y cultural de importancia social y empresarial, creando comunidad, fomentando colaboraciones, generando nuevos proyectos, formando nuevas generacones y abriendo el diseño gallego al exterior.
+
+      El festival está organizado por Galicia Design y Follow, con el apoyo de la Xunta de Galicia y otras entidades.
+    type: text
+  -
+    list: ''
+    url: 'https://www.gdw.gal'
+    text: 'Consulta la programación'
+    type: button
+intro: 'El festival de diseño que forma parte de la red internacional de World Design Weeks vuelve a la ciudad de A Coruña para ofrecer lo último en diseño gallego y también muestras de referentes internacionales.'
+slug: nueva-edicion-gdw
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2024-11-21T12:24:58+00:00

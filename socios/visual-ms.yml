@@ -1,0 +1,39 @@
+id: 125
+contact: '<info@visualms.com>'
+links:
+  -
+    text: Web
+    url: 'https://visualms.com/'
+    type: link
+name: 'Visual MS'
+slug: visual-ms
+avatarBig: /img/avatars/visual-ms-logo-negro-rgb.jpg
+avatar: /img/avatars/visual-ms-logo-negro-rgb.jpg
+tags: []
+draft: false
+bio.gl: |-
+  **Visual é unha entidade socia protectora de DAG. A súa achega económica está destinada a accións de formación, investigación ou divulgación en materia de deseño. Agradecemos o seu apoio. Coñécea:**
+
+  Visual é unha empresa que crea software, entendendo a tecnoloxía como un motor que convirte soños e enxeño en servizos e progreso. Creemos nela. E por iso estudamos e traballamos maneiras de que o deseño a faga humana, bela e harmónica.
+
+  O noso día a día ven determinado polo que facemos, por iso concibimos o benestar de cada persoa de Visual como algo prioritario. O familiar, o emocional, o creativo e o intelectual son tan importantes como o laboral. Todo empeza e termina nas persoas.
+
+  A rendibilidade é o noso aire e a nosa auga, estamos comprometidos a preservala. Entendémola non como lucro, que é beneficio de poucos, senón como prosperidade, que é a mellora do conxunto.   
+     
+   Todo o importante na vida require tempo, acontece amodo, fórxase con dedicación e constancia: a cultura, a tecnoloxía, a empresa e, especialmente, as relacións. Esa é a nosa ollada e a nosa forma de facer.   
+     
+   Por iso queremos durar cen anos.
+bio.es: |-
+  **Visual es una entidad socia protectora de DAG. Su aportación económica está destinada a acciones de formación, investigación o divulgación en materia de diseño. Agradecemos su apoyo. Conócela:**
+
+  Visual es una empresa que crea software, entendiendo la tecnología como un motor que convierte sueños e ingenio en servicios y progreso. Creemos en ella. Y por eso estudiamos y trabajamos maneras de que el diseño la haga humana, bella y armónica.
+
+  Nuestro día a día está determinado por lo que hacemos, por eso concebimos el bienestar de cada persona de Visual como algo prioritario. Lo familiar, lo emocional, lo creativo o lo intelectual son tan importantes como lo laboral. Todo empieza y termina en las personas.  
+     
+   La rentabilidad es nuestro aire y nuestra agua, estamos comprometidos a preservarla. La entendemos no como el lucro, que es el beneficio de pocos, sino como la prosperidad, que es la mejora del conjunto.  
+     
+   Todo lo importante en la vida requiere tiempo, ocurre despacio, se forja con dedicación y constancia: la cultura, la tecnología, la empresa y, especialmente, las relaciones. Esa es nuestra mirada y nuestra forma de hacer.  
+     
+   Por eso queremos durar cien años.
+job.gl: 'ENTIDADE SOCIA PROTECTORA'
+job.es: 'ENTIDAD SOCIA PROTECTORA'

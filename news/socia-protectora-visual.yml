@@ -1,0 +1,39 @@
+id: 1392
+title: 'Presentamos a primeira socia protectora de DAG, Visual MS'
+body:
+  -
+    list: before
+    image: /img/news/images/socia-protectora-visual-web.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Ás existentes categorías, ordinaria, novel e estudante, súmase agora a de socia protectora, destinada a empresas, entidades ou institucións que, sen ofrecer directamente servizos de deseño, están relacionadas co eido e desexan apoiar e promover o deseño galego a través da súa colaboración con DAG.
+
+      As socias protectoras, entre os seus dereitos e deberes, terán voz na Asemblea, mais non voto, e contarán cos beneficios e vantaxes de pertencer a DAG como as demais categorías. A súa cota trimestral é de 180 euros, que se destinarán especificamente a accións de formación ou proxectos de investigación e divulgación en materia de deseño. Unha colaboración que se fará expresa nas distintas accións que se programen a través de mención ou da inclusión da súa marca gráfica nos soportes de comunicación.
+
+      [Visual](https://visualms.com/), a nosa primeira empresa protectora, dedícase á creación de software, entendendo a tecnoloxía como un motor que convirte soños e enxeño en servizos e progreso. Cren na tecnoloxía e traballan maneiras de facela humana, bela e harmónica a través do deseño.
+
+      Basean a súa filosofía de traballo na máxima de que todo o importante na vida require tempo, acontece amodo, fórxase con dedicación e constancia: a cultura, a tecnoloxía, a empresa e, especialmente, as relacións.
+
+      Afirman que o seu día a día ven determinado polo que fan, e por iso conciben o benestar de cada persoa de Visual como algo prioritario. O familiar, o emocional, o creativo e o intelectual son tan importantes como o laboral. Todo empeza e termina nas persoas.
+
+      En Visual entenden a rendibilidade non como lucro, beneficio de poucos, senón como prosperidade, que é a mellora do conxunto, unha visión que encaixa cos valores asociativos de DAG.
+
+      Dámoslles a benvida e destacamos o valor desta nova figura para DAG porque, ademais de sumar o seu apoio aos obxectivos comúns con este vínculo, a súa achega permítenos desenvolver unha parte da nosa actividade que consideramos fundamental, a de ampliar e compartir coñecemento sobre o deseño galego.
+
+      Se tedes interese en apoiar a nosa Asociación como socia protectora podedes solicitar máis información contactándonos a través de <info@dag.gal>
+    type: text
+  -
+    list: ''
+    url: 'https://dag.gal/gl/acerca-de/modalidades-de-socios-dag/'
+    text: 'Máis información'
+    type: button
+intro: 'Incorporamos a categoría de socia protectora ás distintas modalidades da nosa Asociación para fortalecer o proxecto desde o apoio ao deseño de empresas, entidades e organizacións con obxectivos afíns.'
+slug: socia-protectora-visual
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2025-04-23T11:23:00+00:00

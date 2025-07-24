@@ -22,7 +22,8 @@ body:
     type: button
 intro: 'A Cubertería DIVO deseñada por Xosé García de [Piedrapapeltijera](https://www.piedrapapeltijera.com/) acaba de ser premiada cunha Official Selection e un Ouro na categoría de deseño de produto nos IDA International Design Awards na súa 16ª edición celebrada en Los Ángeles e que contou con traballos de deseñadores duns 80 países.'
 slug: cuberteria-divo-deseno-galego-premiado-nos-ida-2022
-tags: []
+tags:
+  - 'noticias socios/socias'
 lang: gl
 draft: false
 date: 2023-01-12T12:00:00+00:00

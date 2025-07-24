@@ -1,0 +1,24 @@
+id: 424
+title: Manilla
+slug: manilla
+body:
+  -
+    image: /img/portfolio/images/manilla-triangulo-1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/manilla-triangulo-2.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/manilla-triangulo-2.jpg
+tags:
+  - Mobiliario
+  - Produto
+  - Industrial
+members_id:
+  - 112
+lang:
+  - gl
+  - es
+info: []
+draft: false

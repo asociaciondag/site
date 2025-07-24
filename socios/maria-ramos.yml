@@ -10,13 +10,13 @@ links:
     url: 'http://www.nmtype.com/'
     type: link
   -
-    text: Twitter
-    url: 'https://twitter.com/marsidesino'
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/mariaramossilva/'
     type: twitter
 name: 'María Ramos'
 slug: maria-ramos
-avatar: /img/avatars/m-sastre-perfil.png
 avatarBig: null
+avatar: /img/avatars/m-sastre-perfil.png
 tags:
   - Gráfico
   - 'Identidade corporativa'

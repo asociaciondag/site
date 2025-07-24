@@ -1,0 +1,31 @@
+id: 1255
+title: 'Cenlitros y Pepe Barro, nominados a los Premios Gràffica 2023'
+body:
+  -
+    list: before
+    image: /img/news/images/premios-graffica-02-2023.jpg
+    text: 'Imágenes de graffica.info'
+    mode: normal
+    type: image
+  -
+    text: |-
+      Las nominaciones de este año configuran un grupo ecléctico de profesionales, colectivos e instituciones de diferentes zonas geográficas, que son referencia del mundo de la cultura visual dentro de diferentes disciplinas y campos creativos: diseño gráfico y todo lo que implica (tipografía, editorial, packaging…), diseño de producto, _urban art_, moda, diseño expositivo, programas de radio y Tv, puntos de venta de diseño…
+
+      En el medio de todo el grupo, encontramos las nominaciones de [Pepe Barro](https://graffica.info/premiosgraffica/pepe-barro/), que precisamente está celebrando sus 50 años en la profesión con la exposición _A cociña de Barro_, y de [Cenlitros](https://graffica.info/premiosgraffica/cenlitros/), el estudio formado por nuestro socio Xabier Rilo y su compañero Ricardo Tubío. En la lista se cuelan también proyectos gallegos como Sargadelos o Xerion.
+
+      Los Premios Gràffica se celebran desde el año 2009 y reconocen proyectos y profesionales que mejoran la cultura visual realizada en España. A diferencia de otros premios, el jurado elige candidaturas de forma directa, sin que previamente exista una fase de inscripción de proyectos. Esta vez, también tenemos representación gallega en el[ jurado](https://graffica.info/premiosgraffica/conoce-el-jurado-de-los-premios-graffica-2023/): los compañeros de Desescribir, Cibrán Rico y Suso Vázquez, y Alex Rico.
+
+      Los diez proyectos premiados se darán a conocer próximamente. ¡Estaremos atentas!
+    type: text
+  -
+    list: ''
+    url: 'https://graffica.info/premiosgraffica/descubre-los-nominados-a-los-premios-graffica-2023/'
+    text: 'Más información'
+    type: button
+intro: 'En esta 14 edición de los Premios Gráffica, la revista dirigida por la agencia de comunicación y editorial PalauGea, se cuelan varias referencias gallegas, entre ellas, los socios de DAG, Pepe Barro y Xabier Rilo de Cenlitros.'
+slug: cenlitros-y-pepe-barro-nominados-a-los-premios-graffica-2023
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2023-10-17T09:51:06+00:00

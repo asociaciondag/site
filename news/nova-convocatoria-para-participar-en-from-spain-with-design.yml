@@ -1,0 +1,30 @@
+id: 1374
+title: 'Nova convocatoria para participar en From Spain With Design'
+body:
+  -
+    list: before
+    image: /img/news/images/abrimos-convocatoria-fswd-25.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      O pasado 1 de febreiro, READ abriu unha nova convocatoria para o proxecto FSWD para a promoción e a visibilidade do deseño español no mundo. Está aberta a todos e todas as profesionais que desenvolven o seu traballo en España e tamén para aqueles que o fan fóra das nosas fronteiras.
+
+      A convocatoria aberta a calquera campo do deseño estrutúrase en seis bloques: deseño gráfico e comunicación, deseño industrial e de produto, deseño de espazos e interiorismo, deseño de servizos, deseño multimedia e interseccións; esta última para aqueles proxectos disruptivos que se vinculan con varios sectores.
+
+      Valorarase a traxectoria, coherencia e consistencia dos estudos e profesionais independentes, mais tamén proxectos emerxentes e novos deseñadores que destaquen pola calidade dos seus traballos. Teranse en conta soamente traballos desenvolvidos nos dous últimos anos (2023-2024).
+
+      O 7 de febreiro os responsables do proxecto, entre os que se atopa a nosa socia Uqui Permui, explicaron a través dun webinario o proceso de presentación de candidaturas, así como o posterior proceso de selección, os prazos para as distintas fases e os obxectivos do proxecto. Podes acceder ao webinario [desde aquí](https://www.youtube.com/live/WNnuPOxgTNU?feature=shared).
+    type: text
+  -
+    list: ''
+    url: 'https://fswd.es/'
+    text: 'Mais info'
+    type: button
+intro: 'O proxecto interno de READ que busca a internacionalización do deseño español lanza unha nova convocatoria para actualizar a plataforma e incluír novos traballos de profesionais do deseño. O 24 de febreiro é o​ prazo máximo para presentar candidaturas.'
+slug: nova-convocatoria-para-participar-en-from-spain-with-design
+tags: []
+lang: gl
+draft: false
+date: 2025-02-12T08:53:31+00:00

@@ -15,7 +15,8 @@ body:
     type: text
 intro: 'Recientemente se desveló el palmarés de los históricos premios de diseño Graphis Design Annual y nuestro socio [Roberto Núñez](https://dag.gal/gl/roberto-nunez/) fue premiado con dos Graphis de Plata por el branding y la web realizada para la bodega gallega [Viña Almirante](http://vinaalmirante.com/).'
 slug: roberto-nunez-premiado-en-los-graphis-de-nova-york
-tags: []
+tags:
+  - 'noticias socios/socias'
 lang: es
 draft: false
 date: 2022-09-26T12:00:00+00:00

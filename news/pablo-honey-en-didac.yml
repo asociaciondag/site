@@ -1,0 +1,31 @@
+id: 1411
+title: 'Pablo Honey en Compostela '
+body:
+  -
+    list: before
+    image: /img/news/images/pablohoney.jpg
+    text: 'Imagen del evento / Fundación DIDAC'
+    mode: normal
+    type: image
+  -
+    text: |-
+      El jueves 26 de junio a las 19.00 h, Pablo Honey dará una conferencia en la [Fundación DIDAC](https://didac.gal/didac/gl), dirigida por nuestra asociada Conchi Mayo, que contará con una introducción de Pepe Barro. Nacido en Galicia, pero criado en Suiza, Honey trabajó en Barcelona y vive desde hace 12 años en Nueva York desde donde dirige un equipo de 70 profesionales del diseño de todo el mundo para Automattic (Wordpress), el mayor proyecto de código abierto que impulsa el 43% de la web.
+
+      Durante más de dos décadas de trayectoria diseñó para una gran diversidad de empresas y startups, trabajando entornos web, iniciativas de comercio electrónico, aplicaciones para móviles y dispositivos portátiles, inteligencia artificial, realidad virtual y una variedad de experiencias avanzadas para clientes como Nike, Camper, Volvo, Samsung, Fossil y otros.
+
+      Sus proyectos fueron reconocidos en diferentes festivales y premios internacionales y formó también parte del Consejo de Dirección de IxDA (Interaction Design Association), además de ejercer la docencia en el Instituto Europeo di Design, Parsons The New School y School of Visual Arts.
+
+      La entrada será gratuita con inscripción previa.
+    type: text
+  -
+    list: ''
+    url: 'https://docs.google.com/forms/d/e/1FAIpQLSdNlRx0bwuh1R09fdOR320Wkv7xU-_b1g12tpDD5ui0WM5Xkg/viewform'
+    text: 'FORMULARIO DE INSCRIPCIÓN'
+    type: button
+intro: 'El diseñador, director creativo y educador relatará su experiencia con distintas marcas, medios, culturas y disciplinas.'
+slug: pablo-honey-en-didac
+tags:
+  - 'Difusión eventos'
+lang: es
+draft: false
+date: 2025-06-24T20:08:00+00:00

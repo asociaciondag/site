@@ -1,0 +1,28 @@
+id: 127
+contact: '<bernardo@pazcodesido.com>'
+links:
+  -
+    text: Web
+    url: 'http://www.pazcodesido.com'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/bernardo-paz-codesido'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/brnrd.pzcd/'
+    type: link
+name: 'Bernardo Paz Codesido'
+slug: bernardo-paz-codesido
+avatarBig: /img/avatars/bernardo-paz.jpg
+avatar: /img/avatars/bernardo-paz.jpg
+tags:
+  - Gráfico
+  - Editorial
+  - 'Identidade corporativa'
+draft: false
+bio.gl: 'Deseñador con base en Galicia, especializado en proxectos de deseño gráfico, ilustración, editorial, branding, impresión ...'
+bio.es: 'Diseñador con base en Galicia, especializado en proyectos de diseño gráfico, ilustración, editorial, branding, impresión ...'
+job.gl: 'Deseñador gráfico'
+job.es: 'Diseñador Gráfico'

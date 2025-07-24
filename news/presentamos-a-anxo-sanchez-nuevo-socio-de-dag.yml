@@ -1,0 +1,36 @@
+id: 1297
+title: 'Presentamos a Anxo Sánchez, nuevo socio de DAG'
+body:
+  -
+    list: before
+    image: /img/news/images/foto-anxo.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      ¡Hola!
+
+      Soy diseñador web y desde 2018 me dedico a esto por cuenta propia. Actualmente non lo cambiaría por nada. Non sé si es bueno o malo, pero es.
+
+      Nací en A Coruña. Crecí, estudié, trabajé y viví allí (casi) toda mi vida. Por cosas del destino finalmente acabé en Lugo y aquí resido actualmente.
+
+      En este preciso instante me está mirando un gato, y por la finca hay 4 más. De vez en cuando pienso que estoy en un capítulo de los Simpson.
+
+      Participo activamente en la amplia comunidad de WordPress, en concreto organizando _Meetups_, desenvolviendo soluciones de código abierto y en las traducciones de temas y _plugins_ al gallego.
+
+      Pienso que, a pesar de las críticas que se hagan por parte de colegas del sector, WordPress supuso una democratización masiva de la web para las personas que no tienen conocimientos técnicos.
+
+      Me gusta enseñar y compartir. Por eso participé en diferentes eventos y charlas donde hablo de WordPress y diseño web. También en aulas de diferentes cursos o másters.
+
+      Tengo un blog donde escribo contenidos relacionados con todo esto. En este sentido soy muy clásico y me gusta más escribir que grabar vídeos para redes sociales.
+
+      Pienso que ya era hora de apoyar una asociación como DAG y, animado por personas que ya son socias actualmente, me animé a participar. Espero aprender mucho, ¡seguro que sí!
+    type: text
+intro: 'Anxo es diseñador web y animado por otros integrantes de DAG se suma a la asociación para aportar desde su perspectiva de diseño digital y creador de contenidos en gallego. Aquí os dejamos con su presentación. ¡Bienvenido Anxo!'
+slug: presentamos-a-anxo-sanchez-nuevo-socio-de-dag
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2024-04-24T09:50:14+00:00

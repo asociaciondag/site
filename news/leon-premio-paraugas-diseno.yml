@@ -1,0 +1,29 @@
+id: 1359
+title: 'León López de la Osa se hace con el Premio Paraugas de Diseño de Producto'
+body:
+  -
+    list: before
+    image: /img/news/images/leon-premio.jpeg
+    text: 'Fotografía ©Clúster da Comunicación'
+    mode: normal
+    type: image
+  -
+    text: |-
+      El trabajo realizado por [León](https://dag.gal/es/leonlopez/) busca ante todo la funcionalidad del objeto y la ligereza en el uso de los materiales. Con una geometría clara, las mesas están elaboradas a partir de dos discos con un soporte central que permite un fácil agarre y desplazamiento. Las ranuras que tienen los discos, alineadas en partes opuestas, hacen que sean acoplables dando unidad a la pieza.
+
+      León tiene una amplia experiencia como diseñador de producto, con especial afinidad por el diseño de piezas de iluminación y mobiliario del hogar que lo llevó a ser colaborador de la empresa Lledó o a participar en la exposición "La esencia del objeto" en el Madrid Design Festival de 2019.
+
+      No queremos dejar de felicitar también a nuestra asociada [Ana Besada](https://www.slab.es/), que resultó finalista en la misma categoría con su mecedora Carlei, así como a los galardonados en los apartados de Mejor Diseño Gráfico y Mejor Diseño Digital, que en esta edición recayó en Tío Phill por el _branding_ y la web de A Taquilla.
+    type: text
+  -
+    list: ''
+    url: 'https://premios.clustercomunicacion.gal/os-ix-premios-paraugas-festexan-en-ferrol-a-calidade-e-impacto-da-industria-galega-da-comunicacion-e-creatividade/'
+    text: 'Más información'
+    type: button
+intro: 'El pasado 22 de noviembre tuvo lugar en el Teatro Jofre de Ferrol la entrega de los Premios Paraugas organizados por el Clúster de la Comunicación en los que nuestro socio León López de la Osa obtuvo el premio a mejor diseño de producto por las Mesas trillizas.'
+slug: leon-premio-paraugas-diseno
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2024-11-27T11:54:00+00:00

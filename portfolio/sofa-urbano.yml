@@ -1,0 +1,28 @@
+id: 428
+title: 'Sofá urbano'
+slug: sofa-urbano
+body:
+  -
+    image: /img/portfolio/images/sofa-urbano-1.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/sofa-urbano-2.jpg
+    text: ''
+    type: image
+  -
+    image: /img/portfolio/images/sofa-urbano-3.jpg
+    text: ''
+    type: image
+cover: /img/portfolio/covers/sofa-urbano-1.jpg
+tags:
+  - Produto
+  - Mobiliario
+  - Industrial
+members_id:
+  - 112
+lang:
+  - gl
+  - es
+info: []
+draft: false

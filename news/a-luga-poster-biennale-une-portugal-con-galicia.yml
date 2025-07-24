@@ -1,0 +1,34 @@
+id: 1300
+title: 'A LUGA Poster Biennale une Portugal con Galicia'
+body:
+  -
+    list: before
+    image: /img/news/images/luga-posterbiennale-2024.png
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      O fin último do proxecto LUGA é a creación dunha Bienal do Cartel Luso-Galaica e establecer un evento internacional dedicado á promoción e á celebración do cartel como forma de expresión artística e comunicativa.
+
+      A bienal ten como obxectivo reunir a deseñadores, artistas e profesionais do ámbito do deseño gráfico e da comunicación visual (entre outras áreas), máis directamente entre Portugal e Galicia, para compartir as súas creacións, explorar tendencias e estimular o diálogo e a colaboración entre comunidades.
+
+      Os puntos fortes deste proxecto radican na posta en valor do cartel como medio de comunicación visual, ofrecendo unha plataforma para que artistas e deseñadores expoñan as súas obras e promovan o intercambio cultural e creativo entre Portugal, Galicia e a comunidade internacional. Ademais, a bienal pode fomentar a experimentación e a innovación no campo do deseño de carteis, estimulando a busca de novos enfoques estéticos e conceptuais.
+
+      Existen catro categorías nas que participar: cultural, político-social, experimental e animación-motion. Aquelas e aqueles estudantes e profesionais que queiran participar poden presentar un máximo de 5 pezas ata o 30 de xuño de 2024. Como requirimento, os carteis deberan estar feitos entre xaneiro de 2022 e xuño de 2024.
+
+      O xurado está composto por un panel de deseñadores e deseñadoras internacionais que determinarán os carteis gañadores durante a fase de selección. O anuncio oficial realizarase o 31 de xullo. A exposición de carteis celebrarase no mes de setembro e será na inauguración onde se dean a coñecer os carteis gañadores en cada categoría.
+
+      Animamos a estudantes e deseñadores e deseñadoras galegas a presentar as súas creacións e fomentar ese intercambio cultural co país veciño, para coñecer as achegas e as diferencias que podemos atopar entre as distintas formas de creación visual.
+    type: text
+  -
+    list: ''
+    url: 'https://lugaposterbiennale.org/GL/'
+    text: 'Web LUGA Poster Biennale'
+    type: button
+intro: 'A Luga Poster Biennale é un proxecto da Escola Superior de Media Artes e Design, do Instituto Politécnico do Porto e do Instituto de Investigación en Deseño, Medios e Cultura, que pretende explorar o cartel como elemento fundamental da investigación. A DAG colabora na difusión deste evento en Galicia.'
+slug: a-luga-poster-biennale-une-portugal-con-galicia
+tags: []
+lang: gl
+draft: false
+date: 2024-05-15T14:35:00+00:00

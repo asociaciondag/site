@@ -1,0 +1,32 @@
+id: 128
+contact: '<info@estudiognomo.com>'
+links:
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/estudiognomo'
+    type: link
+  -
+    text: Web
+    url: 'https://estudiognomo.com/'
+    type: link
+name: 'Iria Iglesias Álvarez'
+slug: iria-iglesias-alvarez
+avatarBig: /img/avatars/avatar-iria-iglesias.jpg
+avatar: /img/avatars/avatar-iria-iglesias.jpg
+tags:
+  - UX/UI
+  - Web
+  - Editorial
+  - 'Identidade corporativa'
+  - Gráfico
+draft: false
+bio.gl: |-
+  Estudou gráfica publicitaria en Vigo. Os seus comezos profesionais foron nunha empresa de comunicación e deseño facendo traballos para a Universidade de Vigo principalmente, logo entrou como deseñadora gráfica en Bimba y Lola, levando a cabo proxectos creativos coma o deseño de estampados ou máis rutinarios coma a elaboración de fichas técnicas.
+
+  Posteriormente decidiu cambiar a súa traxectoria laboral e cofundou estudio GNOMO, especializado en deseño gráfico e ilustración situado nunha pequena aldea do sur de Lugo. Traballa en identidades corporativas, deseño web, deseño editorial, ilustración e tamén imparte formación relacionada con programas de deseño de software libre e con procesos creativos.
+bio.es: |-
+  Estudió gráfica publicitaria en Vigo. Sus comiezos profesionales tuvieron lugar en una empresa de comunicación y diseño desarrollando trabajos para la Universidad de Vigo principalmente, después entró a trabajar como diseñadora gráfica en Bimba y Lola, llevando a cabo proyectos creativos como el diseño de estampados o más rutinarios coma la elaboración de fichas técnicas.
+
+  Posteriormente cambió su trayectoria laboral y cofundó estudio GNOMO, especializado en diseño gráfico e ilustración, situado en una pequeña aldea del sur de Lugo. Trabaja en identidades corporativas, diseño web, diseño editorial, ilustración y también imparte formación relacionada con programas de diseño de software libre y con procesos creativos.
+job.gl: 'Deseñadora gráfica e ilustradora en estudio GNOMO.'
+job.es: 'Diseñadora gráfica e ilustradora en estudio GNOMO.'

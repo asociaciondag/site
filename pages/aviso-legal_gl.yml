@@ -10,7 +10,7 @@ body:
 
       En cumprimento co deber de información recollido no artigo 10 da Lei 34/2002, de 11 de xullo, de servizos da sociedade da información e do comercio electrónico, fanse constar as seguintes circunstancias:
 
-      Nome do titular deste _website_ (en diante, o sitio web) é o ente privado DAG, Asociación Galega de Deseño (en diante, DAG), entidade cuxo domicilio se encontra situado no CS A Trisca (2º andar), Corredoira das Fraguas, 92, 15703, Santiago de Compostela e cuxo CIF é G-70062278.
+      Nome do titular deste _website_ (en diante, o sitio web) é o ente privado DAG, Asociación Galega de Deseño (en diante, DAG), entidade cuxo domicilio se encontra situado no CS A Trisca (2º andar), Corredoira das Fraguas, 92, 15703, Santiago de Compostela e cuxo CIF é G-70062278. Inscrita no Rexistro de Asociacións da Comunidade Autónoma de Galicia con no 2008/011311-1.
 
       O teléfono de contacto é o 691 230 421.
 
@@ -30,13 +30,15 @@ body:
 
       DAG adoptou as medidas técnicas e organizativas necesarias para manter o nivel de seguridade requirido polas circunstancias do tratamento, co obxecto de evitar, na medida do posible e sempre segundo o estado da técnica, a súa alteración, perda, tratamento ou acceso non autorizado.
 
+      Os datos persoais proporcionados conservaranse durante o tempo necesario para cumprir coa finalidade para a que se solicitan
+
       Para a realización da xestión antes mencionada pode ser necesario que se cedan os datos a encargados de tratamento, empresas colaboradoras e administracións públicas.
 
       Informámolo da posibilidade de enviarlle información, incluída a vía electrónica, sobre actividades e servizos de interese da DAG, aos que vostede presta o seu consentimento neste formulario.
 
       Para que a información que conteñen os nosos tratamentos estea sempre actualizada e non conteña erros pedímoslles a clientes e persoas usuarias que nos comuniquen, á maior brevidade posible, as modificacións e rectificacións dos seus datos de carácter persoal, en cumprimento do principio de calidade dos datos.
 
-      Para exercitar os seus dereitos de acceso, rectificación, supresión, oposición, limitación ao tratamento ou portabilidade sobre os datos, deberá remitir un email co asunto “RXPD” a [info@dag.gal](mailto:info@dag.es)
+      Para exercitar os seus dereitos de acceso, rectificación, supresión, oposición, limitación ao tratamento ou portabilidade, así coma o dereito a non ser obxecto de decisións individuais automatizadas sobre os datos, deberá remitir un email co asunto “RXPD” a [info@dag.gal](mailto:info@dag.es)
 
       ## 4. Exención de responsabilidade polo funcionamento do sitio web
 
@@ -84,4 +86,4 @@ footer: true
 order: 0
 lang: gl
 draft: false
-url: /gl/acerca-de/aviso-legal/
+url: /acerca-de/aviso-legal/

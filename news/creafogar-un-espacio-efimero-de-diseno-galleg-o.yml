@@ -1,0 +1,28 @@
+id: 1333
+title: 'Creafogar, un espacio efímero de diseño galleg​o'
+body:
+  -
+    list: before
+    image: /img/news/images/crea-fogar-dag.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Durante veinte días una vivienda situada en la rúa Nova de Santiago de Compostela permanecerá abierta al público, tanto profesional como general, para ofrecer y mostrar el trabajo de diseñadores y diseñadoras​​ gallegas, entre ellas [Ana Besada](https://www.slab.es/), [Idoia Cuesta](https://idoiacuesta.com/) o [Luis Lago](http://monroyproyectos.blogspot.com/p/planetario.html), compañeras de la DAG. La lista de participantes es muy amplia y busca dar a conocer tanto a las personas que hay detrás de proyectos singulares como piezas de interiorismo hechas en Galicia.
+
+      Todo gira al rededor de un tema común: el hogar. ​​Las promotoras de este proyecto, las interioristas Almudena Fernández y​​ Bea Barril, revalorizan con esta acció​n un​ inmueble en desuso dentro del casco histórico de Santiago respetando la arquitectura original de la vivienda y crean un proyecto de interiorismo sostenible, poniendo en valor los recursos naturales y materiale de Galicia.
+
+      Además de las visitas guiadas que se pueden concertar hasta el 9 de octubre, hay programados charlas, conferencias, mesas redondas, presentaciones​ de proyectos ​y talleres para que a experiencia con el público sea lo más amplia posible.​
+    type: text
+  -
+    list: ''
+    url: 'https://creafogar.gal/'
+    text: 'Web Creafogar'
+    type: button
+intro: 'Este viernes 20 de septiembre se inaugura Creafogar, un evento de diseño donde una vivenda con una larga historia de vida es sometida a una renovación de imagen​ con propuestas de diseño de creadores y creadoras gallegas, con participación de socios y socias DAG.'
+slug: creafogar-un-espacio-efimero-de-diseno-galleg-o
+tags: []
+lang: es
+draft: false
+date: 2024-09-17T14:19:56+00:00

@@ -1,0 +1,29 @@
+id: 1415
+title: 'Nigrán acoge la primera edición de PROYECTAR '
+body:
+  -
+    list: before
+    image: /img/news/images/imaxe-proxectar-2025.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      La localidad pontevedresa acogerá durante los días 18 y 19 de julio un espacio para que profesionales del diseño puedan compartir lo que hay detrás de sus proyectos, ofreciendo de primera mano sus experiencias, metodologías y su conocimiento.
+
+      Esta primera edición contará con figuras como el reconocido diseñador británico Jon Marshall, socio de la agencia internacional Pentagram; el gallego Tomás Alonso, colaborador de ﬁrmas como Hermès o Camper; la ceramista y diseñadora Paula Ojea, Premio Nacional de Artesanía; y el estudio compostelano Estar, especializado en arquitectura y paisaje.
+
+      Con un formato reducido, de 60 plazas por sesión, el evento busca ser un encuentro cercano e inspirador orientado tanto a profesionales y estudiantado de diseño industrial, arquitectura y artesanía, como a público interesado en los procesos creativos. Tendrá lugar en el gimnasio del Colegio Público Humberto Juanes de Nigrán, entre las 20.00 - 22.00 h los dos días. El viernes, Andrés Fraga, fotógrafo y director de la iniciativa, conducirá la sesión con Jon Marshall y Paula Ojea, y el sábado, Marcos Dopico, decano de la Facultad de Diseño de la UVigo, tomará su relevo en la sesión de Tomás Alonso y Estar Arquitectos.
+    type: text
+  -
+    list: ''
+    url: 'https://proxectar.gal/'
+    text: 'Más info y entradas'
+    type: button
+intro: 'Nace un ciclo de conversaciones sobre diseño industrial y de producto'
+slug: nigran-acoge-la-primera-edicion-de-proyectar
+tags:
+  - 'Difusión eventos'
+lang: es
+draft: false
+date: 2025-07-02T13:29:47+00:00

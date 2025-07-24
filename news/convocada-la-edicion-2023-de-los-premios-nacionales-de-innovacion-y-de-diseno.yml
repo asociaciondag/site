@@ -1,0 +1,35 @@
+id: 1229
+title: 'Convocada la edición 2023 de los Premios Nacionales de Innovación y de Diseño'
+body:
+  -
+    list: before
+    image: /img/news/images/img-0477.jpeg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Estos galardones son el reconocimiento más importante de España en los ámbitos de la innovación y el diseño y distinguen a personas y entidades que han hecho de la innovación un elemento indispensable en el desarrollo de su estrategia profesional y de su crecimiento empresarial. Asimismo, distinguen a los profesionales y empresas que han contribuido significativamente al incremento del prestigio del diseño español y a las entidades que, incorporándolo a su estrategia empresarial, han demostrado que el diseño es una potente palanca de innovación y competitividad.
+
+      Las categorías de diseño son:
+
+      - **Premio Nacional de Diseño en la modalidad «Trayectoria en Diseño»**, dirigido a profesionales del diseño con una trayectoria de al menos quince años de reconocido prestigio en el sector. Está dotado con 50.000 €
+      - **Premio Nacional de Diseño en la modalidad «Diseño y Empresa»**, dirigido a empresas que hayan incorporado el diseño a su estrategia empresarial durante al menos diez años.
+      - **Premio Nacional de Diseño en la modalidad «Jóvenes Profesionales del Diseño»**, dirigido a diseñadores y diseñadoras menores de 35 años, dotado con 30.000 €
+       
+      El plazo de presentación de candidaturas permanecerá abierto hasta el próximo 15 de junio a las 15:00 h (hora peninsular).
+
+      Los premios, organizados por el Ministerio de Ciencia e Innovación del Gobierno de España, tienen un carácter honorífico, salvo la modalidad de «Pequeña y Mediana Empresa Innovadora», dotada con 50.000 €; la de «Joven Talento Innovador», con 30.000 €; la de «Trayectoria en Diseño», con 50.000 €; y la de «Jóvenes Profesionales del Diseño», con 30.000 €.
+    type: text
+  -
+    list: ''
+    url: 'https://www.ciencia.gob.es/Convocatorias/2023/PNID2023.html'
+    text: 'Más información'
+    type: button
+intro: 'Desde el pasado 11 de mayo está abierta la convocatoria de una nueva edición de los Premios que asume un presupuesto mayor, ​cambios en la nomenclatura de algunas categorías y añade ademá​s​ una nueva categoría, la de «Nuevo Talento Innovador». ​​'
+slug: convocada-la-edicion-2023-de-los-premios-nacionales-de-innovacion-y-de-diseno
+tags:
+  - concursos
+lang: es
+draft: false
+date: 2023-05-19T10:08:00+00:00

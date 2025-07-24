@@ -1,0 +1,31 @@
+id: 113
+contact: '<rubenprol@gmail.com>'
+links:
+  -
+    text: Web
+    url: 'https://www.rubenprol.gal'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/rubenprol/?hl=es'
+    type: link
+  -
+    text: X
+    url: 'https://twitter.com/zezinho'
+    type: link
+  -
+    text: Spotify
+    url: 'https://open.spotify.com/user/oochy_woochy?si=5156c20e74654ca1&nd=1&dlsi=9df96a4eb3b8472b'
+    type: link
+name: 'Rubén Prol'
+slug: ruben-prol
+avatarBig: null
+avatar: /img/avatars/avatar.png
+tags:
+  - Web
+  - Tipografía
+draft: false
+bio.gl: 'Ogrobe, 1983. Residente n''A Coruña onde desenrolei a maior parte da miña carreira como deseñador UX/UI e maquetador web. Son autodidacta, e aínda que me encante traballar picando código, a miña principal paixón son as letras. Deseño tipografía e case sempre acabo tendendo a formas de letra ornamentais e decorativas. Tamén me autoformei en caligrafía, especialmente no tipo de letra Copperplate, e agora de cando en vez imparto obradoiros.'
+bio.es: 'O Grobe, 1983. Residente en A Coruña donde desarrollé la mayor parte de mi carrera como diseñador UX/UI y maquetador web. Soy autodidacta, y aunque me encante trabajar picando código, mi principal pasión son las letras. Diseño tipografía y casi siempre acabo tendiendo a formas de letra ornamentales y decorativas. También me autoformé en caligrafía, especialmente en el tipo de letra Copperplate, y ahora de vez en cuando imparto talleres.'
+job.gl: 'Deseñador web e de tipografía'
+job.es: 'Diseñador web y de tipografía'

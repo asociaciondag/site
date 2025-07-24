@@ -7,13 +7,13 @@ links:
     type: twitter
 name: 'Rebeca Ces'
 slug: rebeca-ces
-avatar: /img/avatars/554cf6982fffb-rebeca-ces.jpeg
 avatarBig: null
+avatar: /img/avatars/554cf6982fffb-rebeca-ces.jpeg
 tags:
   - 'Identidade corporativa'
   - Editorial
   - Gráfico
-draft: false
+draft: true
 bio.gl: null
 bio.es: null
 job.gl: 'Deseñadora gráfica'

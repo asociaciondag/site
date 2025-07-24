@@ -15,10 +15,16 @@ body:
       ## Categoría estudante
 
       Persoas físicas, menores de 30 anos, que demostren documentalmente a súa condición mediante certificación de estudos nalgunha disciplina relacionada coas actividades propias do deseño. Despois de finalizaren os seus estudos pasarán automaticamente á categoría novel ou ordinaria segundo cal sexa a súa situación. A cota de estudante é un 15% da cota ordinaria, isto é, 9 euros por trimestre.
+
+      ## Categoría de socia protectora
+
+      Empresas, entidades ou institucións que, sen ofrecer directamente servizos de deseño, están relacionadas co eido e desexan apoiar e promover o deseño galego a través da súa colaboración con DAG. As socias protectoras, entre os seus dereitos e deberes, teñen voz na Asemblea, pero non voto, e contan cos beneficios e vantaxes de pertenecer a DAG como as demais categorías. A súa cota trimestral é de 180 euros, que se destinarán especificamente a accións de formación, investigación e divulgación en materia de deseño. Esta colaboración farase expresa nas distintas accións que se programen a través de mención ou da inclusión da súa marca gráfica.
+
+      Destacamos o valor desta figura para DAG porque, ademais de sumar su o seu apoio aos obxectivos comúns con este vínculo, a súa achega permítenos desenvolver unha parte da nosa actividade que consideramos fundamental, a de ampliar e compartir coñecemento sobre o deseño en Galicia. Se desexas más información sobre esta categoría ponte en contacto con nós a través de info@dag.gal
     type: text
 menu: true
 footer: false
 order: 4
 lang: gl
 draft: false
-url: /gl/acerca-de/modalidades-de-socios-dag/
+url: /acerca-de/modalidades-de-socios-dag/

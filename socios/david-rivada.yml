@@ -18,14 +18,14 @@ links:
     type: linkedin
 name: 'David Rivada'
 slug: david-rivada
-avatar: /img/avatars/foto-david-rivada.jpg
 avatarBig: null
+avatar: /img/avatars/foto-david-rivada.jpg
 tags:
   - Tipografía
   - 'Identidade corporativa'
   - Gráfico
   - Estratexia
-draft: false
+draft: true
 bio.gl: |-
   Deseñar creatividade é coma contar un chiste malo: se o tes que explicar perde toda a gracia.
 

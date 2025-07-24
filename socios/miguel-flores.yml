@@ -1,0 +1,34 @@
+id: 119
+contact: '<miguel@donauta.com>'
+links:
+  -
+    text: Web
+    url: 'https://donauta.com/'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/flordeinterior/'
+    type: link
+name: 'Miguel Flores da Costa'
+slug: miguel-flores
+avatarBig: /img/avatars/foto-miguelfloresdacosta.jpeg
+avatar: /img/avatars/foto-miguelfloresdacosta.jpeg
+tags:
+  - Gráfico
+  - Audiovisual
+  - 'Identidade corporativa'
+  - Editorial
+  - Sinalética
+  - Produto
+  - Embalaxe
+draft: false
+bio.gl: |-
+  Son Miguel, da Guarda e do 2000.
+
+  A miña familia ten unha imprenta, polo que desde cativo me fascinou o asunto das tintas, a mancha e a composición. Con 13 anos comecei a actuar como mago, malia que iso quedou desprazado polo cine e o deseño. Estudei Comunicación en Compostela e despois un mestrado de investigación en deseño na Elisava de Barcelona. Conseguín facer un par de curtametraxes que se colaron en festivais internacionais de cine. Penso que depenicar entre disciplinas é o mellor xeito de atopar novas linguaxes coas que traballar.
+bio.es: |-
+  Soy Miguel, de A Guarda y del 2000.
+
+  Mi familia tiene una imprenta, por lo que desde pequeño me fascinó el asunto de las tintas, la mancha y la composición. Con 13 años comencé a actuar como mago, aunque eso quedó desplazado por el cine y el diseño. Estudié Comunicación en Compostela y después un máster de investigación en diseño en la Elisava de Barcelona. Conseguí hacer un par de cortometrajes que se colaron en festivales internacionales de cine. Pienso que picotear entre disciplinas es la mejor forma de encontrar nuevos lenguajes con los que trabajar.
+job.gl: 'Deseñador, imprenteiro e cineasta en donauta'
+job.es: 'Diseñador, impresor y cineasta en donauta'

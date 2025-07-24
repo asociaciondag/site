@@ -1,0 +1,29 @@
+id: 1352
+title: '«Movendo marcos» un espazo para o deseño na CRTVG'
+body:
+  -
+    list: before
+    image: /img/news/images/movendo-marcos-horizontal.jpg
+    text: 'Fotografía: CTRVG'
+    mode: normal
+    type: image
+  -
+    text: |-
+      A Radio Galega estreou a semana pasada un videopodcast sobre deseño e creatividade. Esta iniciativa dará voz a grandes nomes do deseño galego para compartir as súas experiencias e procesos de traballo nun formato ameno e accesible, orientado a todo tipo de públicos.
+
+      «Movendo Marcos», conducido polo deseñador Daniel Portela e a xornalista Clara Rial, ofrece conversas en profundidade sobre as distintas disciplinas do deseño abordadas desde a perspectiva profesional, analizando proxectos concretos e explorando as metodoloxías nas que se fundamentan. As tres primeiras entregas están protagonizadas por [Dani Bembibre](https://www.costa.io/), que tratará o redeseño de marcas desde a súa especialización en identidades corporativas; a deseñadora [Uqui Permui](https://uqui.net/es), que conversará sobre deseño social; e o deseñador e docente Marcos Dopico, que se centrará no eido da formación académica e a tipografía.
+
+      O primeiro capítulo xa está dispoñible, tanto en formato de vídeo como de son, nas plataformas AGalega.gal e AGalega Audio e con el dáselle a benvida a un novo recurso para a divulgación sobre deseño feito en Galicia.
+    type: text
+  -
+    list: ''
+    url: 'https://www.agalega.gal/videos/category/22507-movendo-marcos'
+    text: 'Acceder ao videopodcast'
+    type: button
+intro: 'O noso socio Dani Bembibre, do estudio Costa, é o primeiro entrevistado nesta iniciativa que busca recoñecer a importancia do deseño galego e o seu valor social, económico e cultural.'
+slug: movendo-marcos-espazo-deseno
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2024-11-11T20:43:00+00:00

@@ -1,0 +1,48 @@
+id: 1388
+title: 'Nace un novo premio para o deseño galego'
+body:
+  -
+    list: before
+    image: /img/news/images/premio-luis-seoane.jpg
+    text: 'Imaxe da presentación do Premio Luís Seoane'
+    mode: normal
+    type: image
+  -
+    text: |-
+      Este certame, comisariado polo noso socio Pepe Barro, busca recoñecer a traxectoria de persoas, colectivos ou entidades cuxo traballo sexa relevante nas disciplinas do deseño gráfico e comunicación visual, deseño dixital, deseño de procesos de organización, deseño industrial e de produto, deseño de espazos e deseño de moda.
+
+      A deputada de cultura, Natividade González, presidirá o xurado que estará formado por unha persoa do ámbito da docencia en deseño, tres profesionais en exercicio de diferentes especialidades e unha persoa do ámbito empresarial ou cultural, especialmente relacionada cos eidos do deseño, a arte e a comunicación.
+
+      Ademais das persoas do xurado, que elaborarán as súas propostas, tamén poderán presentar candidaturas argumentadas para a concesión do premio, por vía telemática, todas as persoas físicas maiores de idade ou persoas xurídicas, interesadas na promoción do deseño. O prazo para facelo vai do 9 de abril ao 19 de maio e deberán cumplir os seguintes requisitos:
+
+      - As persoas candidatas deberán ter como mínimo unha traxectoria de dez anos de dedicación profesional ao ámbito do deseño.
+      - Deberán ter exercido a súa profesión en Galicia ou ser persoas galegas que, residindo fóra da Comunidade autónoma, presenten na súa traxectoria unha serie de obras relevantes realizadas para clientela gallega.
+      - Só se admitirá unha candidatura por persoa física ou xurídica e non se admitirán autocandidaturas.
+       
+    type: text
+  -
+    list: ''
+    image: /img/news/images/gala-imaxe.png
+    text: 'Imaxe da presentación da IV Gala da Cultura da Deputación da Coruña'
+    mode: normal
+    type: image
+  -
+    text: |-
+      O novo galardón contará cunha dotación de 6.500 euros e súmase ás iniciativas da Deputación da Coruña para premiar o talento galego, neste caso nun sector clave para a cultura, a industria e a comunicación.
+
+      Precisamente este xoves, 10 de abril, terá lugar a cuarta edición da Gala da Cultura no Teatro Colón da Coruña, para a entrega dos premios cos que se recoñece o labor creativo noutros ámbitos como a banda deseñada, a narrativa, a poesía, a fotografía, a música, a artesanía, a arte gráfica ou a acción cultural pola igualdade de xénero.
+
+      A programación do evento comezará ás 17.00 h co podcast A todas Luzes, onde se entrevistará ás persoas premiadas. A continuación, ás 18.00 h, poderase visitar unha mostra de encaixe de Camariñas, e finalmente a gala, que conta coa dirección artística da nosa socia Thais Suárez, dará comezo ás 19.00 h. Conducida por Susana Pedreira, con vestiario de José Matteos, incluirá actuacións de Fran Sieira e Alana, vestidos por La mapache, acompañadas dunha videocreación da cineasta Nela Fraga con imaxes do Arquivo do Patrimonio Oral da Identidade do Museo do Pobo Galego. A gala está aberta ao público até completar a capacidade do teatro.
+    type: text
+  -
+    list: ''
+    url: 'https://www.dacoruna.gal/cultura/premios/i-premio-luis-seoane-deseno-ano-2025/'
+    text: 'Bases do premio'
+    type: button
+intro: 'O departamento de cultura de Deputación da Coruña ven de presentar a primeira edición do Premio Luís Seoane de Deseño, ampliando o reprertorio de recoñecementos ao talento galego nos distintos ámbitos da creación.'
+slug: premio-deseno-luis-seoane
+tags:
+  - 'noticias socios/socias'
+lang: gl
+draft: false
+date: 2025-04-09T11:34:41+00:00

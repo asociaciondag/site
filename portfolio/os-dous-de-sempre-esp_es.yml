@@ -1,0 +1,19 @@
+id: 444
+title: 'Os dous de sempre'
+slug: os-dous-de-sempre-esp
+body:
+  -
+    text: 'Imagen para el podcast Os dous de sempre'
+    type: text
+  -
+    image: /img/portfolio/images/podcast-dousdesempre.png
+    text: ''
+    type: image
+cover: /img/portfolio/covers/podcast-dousdesempre.png
+tags:
+  - Gráfico
+members_id:
+  - 119
+lang: es
+info: []
+draft: false

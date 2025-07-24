@@ -21,7 +21,8 @@ body:
     type: text
 intro: 'El pasado viernes 18 de noviembre se conocieron los proyectos ganadores de los VII Premios Paraugas en una gala presencial celebrada en Expourense. Los Premios, que estrenaron imagen gráfica, respaldaron la calidad del trabajo que se está desarrollando en Galicia en los últimos años.'
 slug: daniel-pino-cenlitrosmetrocadrado-y-tony-le-brand-premiados-en-los-vii-premios-paraugas
-tags: []
+tags:
+  - 'noticias socios/socias'
 lang: es
 draft: false
 date: 2022-11-21T11:11:21+00:00

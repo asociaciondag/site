@@ -1,0 +1,32 @@
+id: 126
+contact: '<jv.marmon@gmail.com>'
+links:
+  -
+    text: Web
+    url: 'https://jmarmon.carrd.co/'
+    type: link
+  -
+    text: Artstation
+    url: 'https://www.artstation.com/javi_marmon'
+    type: link
+  -
+    text: Instagram
+    url: 'https://www.instagram.com/j._marmon'
+    type: link
+  -
+    text: Linkedin
+    url: 'https://www.linkedin.com/in/javier-marmon'
+    type: link
+name: 'Javier Martínez Monzoncillo'
+slug: javier-martinez-monzoncillo
+avatarBig: /img/avatars/avatarperfil-javiermarmon.PNG
+avatar: /img/avatars/avatarperfil-javiermarmon.PNG
+tags:
+  - 3D/CGI
+  - Gráfico
+  - Audiovisual
+draft: false
+bio.gl: 'Apaixonado e creativo, son artista 3D e tecedor de historias, buscando aplicar o meu entusiasmo e habilidades na creación de personaxes e mundos. Amante do deseño de personaxes e da escultura 3D, son un profesional comprometido e organizado, con experiencia en todo o _pipeline_ de animación e videoxogos, traballando en equipos de artistas e coordinando con outros departamentos.'
+bio.es: 'Apasionado y creativo, soy artista 3D y tejedor de historias, buscando aplicar mi entusiasmo y habilidades en la creación de personajes y mundos. Amante del diseño de personajes y de la escultura 3D, soy un profesional comprometido y organizado, con experiencia en todo el _pipeline_ de animación y videojuegos, trabajando en equipos de artistas y coordinando con otros departamentos.'
+job.gl: 'Deseño 3D / gráfico'
+job.es: 'Diseño 3D / gráfico'

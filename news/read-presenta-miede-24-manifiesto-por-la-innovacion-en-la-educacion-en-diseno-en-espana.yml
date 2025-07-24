@@ -1,0 +1,35 @@
+id: 1289
+title: 'READ presenta MIEDE´24: Manifiesto por la Innovación en la Educación en Diseño en España'
+body:
+  -
+    list: before
+    image: /img/news/images/miede-24.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      El manifiesto es fruto del trabajo desarrollado por el [grupo de trabajo Educación y Diseño de READ](https://designread.es/grupo_trabajo/educacion/), y fue presentado por sus coordinadores: Juana Valcárcel, de DIP Murcia, y Daniel Hervás, de DIEX. Su objetivo principal es el de crear un documento marco de la innovación en la formación en diseño que, desde la perspectiva da READ, pueda ser de utilidad para todos los agentes de la educación en diseño de España: alumnado, centros educativos y ecosistema del diseño (administraciones, empresas y sociedad en general).
+
+      El MIEDE propone unas líneas generales de mejora y modernización para conseguir la transformación del entorno, la innovación educativa y la consecuente mejora de la sociedad, a través de un equilibrio entre la libertad experimental, el rigor en las competencias y la ética profesional. Desde esta perspectiva, potencia un modelo postdisciplinar, centrado en el alumnado, en favor de una mayor transversalidad y flexibilidad, fomentando un estilo de diseño integral que de solución a problemáticas y necesidades de la sociedad.
+
+      Apuesta pues por estimular un perfil profesional común que permita formar a profesionales que puedan afrontar contextos de máxima incertidumbre de una forma integral. Para ello, sin renunciar al conocimiento de las herramientas y procesos necesarios para su desempeño, pone el acento en su capacidad de investigación, creatividad, experimentación e innovación dentro de equipos multidisciplinares.
+
+      En la realización de este manifiesto han contribuido profesionales independientes y miembros de la comunidad educativa del diseño, incluyendo estudiantes y personal educador, así como representantes de la administración y empresas de este ámbito. El documento está en continua evolución.
+    type: text
+  -
+    list: ''
+    url: 'https://mailchi.mp/e7cc952dd343/presentacion-del-manifiesto-por-la-innovacion-en-la-educacion-en-diseno-en-espana-6363131?e=f86a414e38'
+    text: 'Más info'
+    type: button
+  -
+    list: ''
+    url: 'https://designread.es/wp-content/uploads/2024/04/MIEDE-24-Manifiesto-por-la-Innovacio%CC%81n-en-la-Educacio%CC%81n-en-Disen%CC%83o-en-Espan%CC%83a.pdf'
+    text: 'Descargar MIEDE´24'
+    type: button
+intro: 'El pasado 5 de abril, se presentó en Matadero Madrid MIEDE´24, el Manifiesto por la Innovación en la Educación en Diseño en España, dentro de las actividades paralelas de la exposición FSWD organizada por READ en colaboración con Dimad y el patrocinio de UDIT.'
+slug: read-presenta-miede-24-manifiesto-por-la-innovacion-en-la-educacion-en-diseno-en-espana
+tags: []
+lang: es
+draft: false
+date: 2024-04-10T09:30:26+00:00

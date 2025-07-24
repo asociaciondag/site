@@ -1,0 +1,30 @@
+id: 1270
+title: 'Aberta a convocatoria dos Premios ADG Laus 2024'
+body:
+  -
+    list: before
+    image: /img/news/images/premios-laus-2024.jpg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Os proxectos deben inscribirse a través da plataforma online ata o 14 de febreiro e deberán ser enviados antes do 1 de marzo. Poden ser traballos impresos, publicados, emitidos ou editados desde xaneiro de 2023 e ata o peche das inscricións.​
+
+      Este ano desaparecen as divisións clásicas e os proxectos poderán inscribirse​ en 40 apartados especializados en dirección de arte, deseño editorial, comunicación gráfica e publicitaria, gráfica de contorna, embalaxe, deseño dixital e comunicación audiovisual e a distinción Aporta ao impacto social.​ Ademais, aparecen os apartados de redeseño de identidade visual, o de tipografía corporativa e o de gráfica para exposicións.
+
+      Os e as estudantes de escolas de deseño poden presentar proxectos aos ADG Laus Estudantes, nos apartados de traballo libre, proxecto final e mestrados e posgraos. ​
+
+      O xurado desta edición ​está formado por profesionais nacionais e internacionais de prestixio, entre eles, Nieves Berenguer (Hermanos Berenguer), Fraser Muggeridge (Fraser Muggeridge studio), Nick Ace (socio e director creativo en COLLINS), Beatriz Suárez (Maba), Borja Garmendia (Pensando en blanco), Gustav Nordebrink (ID—C), Paco Badia (VML) ou Ana Delgado (unadebravas).
+    type: text
+  -
+    list: ''
+    url: 'https://www.adg-fad.org/es/laus/premios'
+    text: 'Inscricións e máis información'
+    type: button
+intro: 'A 54ª edición dos premios ADG Laus de deseño gráfico e comunicación visual xa está en marcha. Estudantes e profesionais do sector poderán inscribir os seus mellores traballos nas diferentes categorías,​ ​e as asociadas a DAG contan cun 15% de desconto.'
+slug: aberta-a-convocatoria-dos-premios-adg-laus-2024
+tags: []
+lang: gl
+draft: false
+date: 2024-01-19T10:27:44+00:00

@@ -26,15 +26,15 @@ links:
     type: link
 name: 'Alejandro Araujo'
 slug: alejandro-araujo
-avatar: /img/avatars/aaraujo.jpg
 avatarBig: null
+avatar: /img/avatars/aaraujo.jpg
 tags:
   - Espazos
   - Iluminación
   - Industrial
   - Mobiliario
   - Produto
-draft: false
+draft: true
 bio.gl: |-
   Interiorista en Ados Proyectos. Técnico Superior de Proxectos e Dirección de obras de decoración, Deseño de Interiores pola Escola de Artes e Deseño Ramón Falcón (Lugo).
 

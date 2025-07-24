@@ -1,0 +1,20 @@
+id: 440
+title: 'Miscelánea de logotipos'
+slug: logotipos-miguel-dacosta-esp
+body:
+  -
+    text: 'Marcas gráficas creadas para distintos proyectos de identidad corporativa'
+    type: text
+  -
+    image: /img/portfolio/images/logotipos.png
+    text: ''
+    type: image
+cover: /img/portfolio/covers/logotipos.png
+tags:
+  - Gráfico
+  - 'Identidade corporativa'
+members_id:
+  - 119
+lang: es
+info: []
+draft: false

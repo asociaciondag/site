@@ -15,14 +15,14 @@ links:
     type: facebook
 name: 'Mónica Lemos'
 slug: monica-lemos
-avatar: /img/avatars/mo-nica-lemos-gira-ldez-1.png
 avatarBig: null
+avatar: /img/avatars/mo-nica-lemos-gira-ldez-1.png
 tags:
   - 'Identidade corporativa'
   - Gráfico
   - Estratexia
   - Web
-draft: false
+draft: true
 bio.gl: |-
   Consultora de Branding, neurodiverxente especializada en identidade e Marca persoal.  
    CEO de Agarimo Estudio.  

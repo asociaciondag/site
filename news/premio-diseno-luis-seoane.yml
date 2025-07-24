@@ -1,0 +1,51 @@
+id: 1389
+title: 'Nace un nuevo premio para el diseño galego'
+body:
+  -
+    list: before
+    image: /img/news/images/premio-luis-seoane.jpg
+    text: 'Imagen de la presentación del Premio Luís Seoane'
+    mode: normal
+    type: image
+  -
+    text: |-
+      El departamento de cultura de la Diputación de A Coruña acaba de presentar la primera edición del Premio Luís Seoane de Diseño, ampliando su repertorio de reconocimientos al talento gallego en los distintos ámbitos de la creación.
+
+      Este certamen, comisariado por nuestro socio Pepe Barro, busca reconocer la trayectoria de personas, colectivos o entidades cuyo trabajo sea relevante en las disciplinas del diseño gráfico y comunicación visual, diseño digital, diseño de procesos de organización, diseño industrial y de producto, diseño de espacios y diseño de moda.
+
+      La diputada de cultura, Natividade González, presidirá el jurado que estará formado por una persona del ámbito de la docencia en diseño, tres profesionales en ejercicio de diferentes especialidades y una persona del ámbito empresarial o cultural, especialmente relacionada con los campos del diseño, el arte y la comunicación.
+
+      Además de las personas del jurado, que elaborarán sus propuestas, también podrán presentar candidaturas argumentadas para la concesión del premio, por vía telemática, todas las personas físicas mayores de edad o personas jurídicas, interesadas en la promoción del diseño. El plazo para hacerlo va del 9 de abril al 19 de mayo y deberán cumplir los siguientes requisitos:
+
+      - Las personas candidatas deberán tener como mínimo una trayectoria de diez años de dedicación profesional al ámbito del diseño.
+      - Deberán haber ejercido su profesión en Galicia ou ser personas gallegas que, residindo fuera de la Comunidad autónoma, presenten en su trayectoria una serie de obras relevantes realizadas para clientela gallega.
+      - Sólo se admitirá una candidatura por persona física o jurídica y no se admitirán autocandidaturas.
+       
+      El nuevo galardón contará con una dotación de 6.500 euros y se suma a las iniciativas de la Diputación de A Coruña para premiar el talento gallego, en este caso en un sector clave para la cultura, la industria y la comunicación.
+    type: text
+  -
+    list: ''
+    image: /img/news/images/gala-imaxe.png
+    text: 'Imagen de la presentación de la IV Gala da Cultura de la Diputación de A Coruña'
+    mode: normal
+    type: image
+  -
+    text: |-
+      Precisamente este jueves, 10 de abril, tendrá lugar la cuarta edición de la Gala da Cultura en el Teatro Colón de A Coruña, para la entrega de los premios con los que se reconoce la labor creativa en ámbitos como la banda diseñada, la narrativa, la poesía,l a fotografía, la música, la artesanía, las artes gráficas ou la acción cultural por la igualdad de género.
+
+      La programación del evento comenzará a las 17.00 h con el podcast A todas Luzes, donde se entrevistará a las personas premiadas. A continuación, a las 18.00 h, se podrá visitar una muestra de encaje de Camariñas, y finalmente la gala, que cuenta con la dirección artística de nuestra socia Thais Suárez, dará comienzo a las 19.00 h. Conducida por Susana Pedreira, con vestuario de José Matteos, incluirá actuaciones de Fran Sieira y Alana, vestidos por La mapache, acompañadas de una videocreación de la cineasta Nela Fraga con imágenes del Arquivo do Patrimonio Oral da Identidade del Museo do Pobo Galego.
+
+      La gala está abierta al público hasta completar la capacidad del teatro.
+    type: text
+  -
+    list: ''
+    url: 'https://www.dacoruna.gal/cultura/premios/i-premio-luis-seoane-deseno-ano-2025/'
+    text: 'Bases del premio'
+    type: button
+intro: 'El departamento de cultura de la Diputación de A Coruña acaba de presentar la primera edición del Premio Luís Seoane de Diseño, ampliando su repertorio de reconocimientos al talento gallego en los distintos ámbitos de la creación.'
+slug: premio-diseno-luis-seoane
+tags:
+  - 'noticias socios/socias'
+lang: es
+draft: false
+date: 2025-04-09T11:38:51+00:00

@@ -1,0 +1,32 @@
+id: 1249
+title: 'Nueva convocatoria de los Premios Anuaria'
+body:
+  -
+    list: after
+    image: /img/news/images/img-0564.jpeg
+    text: ''
+    mode: normal
+    type: image
+  -
+    text: |-
+      Los Premios Anuaria establecen 24 categorías que abarcan los diferentes ámbitos del diseño gráfico impreso y dixital.​ Hay premios, por ejemplo, al mejor cartel, al mejor catálogo, ​al mejor diseño de una publicación periódica,​ a la mejor tipografía, al mejor diseño de packaging,​ ​al mejor programa de identidad corporativa, al​ mejor diseño de un sitio web, al mejor diseño de una app…
+
+      Además de los premios a profesionales, la organización permite la​​ presentación de trabajos y proyectos de estudiantes de último curso de diseño, que serán galardonados con el premio Anuaria-Pro.
+
+      El jurado de los Anuaria está formado por miembros de las principales organizaciones profesionales y centros de diseño de España.​ La DAG colabora con el certamen desde hace muchos años. En las últimas ocasións, María Agra ejercía de representante en el jurado.​​ Esta vez, será Thais Suárez, vocal de la Junta Directiva, quién haga esa representación.​
+
+      Todos los socios y socias de DAG tienen un descuento del 30% en la inscripción de los proyectos y trabajos que es acumulable a otros descuentos que ofrece la organizació​n.
+
+      El veredicto se hará público en enero de 2024. ¡Mucha suerte a todos y todas!
+    type: text
+  -
+    list: ''
+    url: 'https://www.veredictas.com/es/premios/premios-anuaria/los-premios-anuaria.html'
+    text: 'Más información e inscripciones'
+    type: button
+intro: 'La XXX Edición de los Premios Anuaria ya está en marcha y aquellas personas y estudios de diseño que quieran presentar proyectos tienen hasta el 15 de noviembre para poder hacerlo. Los socios y socias de DAG, además, tienen un descuento especial en la inscripción.'
+slug: nueva-convocatoria-de-los-premios-anuaria
+tags: []
+lang: es
+draft: false
+date: 2023-10-02T08:17:24+00:00
