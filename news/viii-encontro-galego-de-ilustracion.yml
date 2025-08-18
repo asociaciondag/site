@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "Este sábado 29 de outubro os ilustradores galegos reúnense en Santiago de Compostela no Encontro Galego de Ilustración que, como cada ano, organiza a [AGPI](http://www.agpi.es/)."
-slug: viii-encontro-galego-de-ilustracion
+basename: viii-encontro-galego-de-ilustracion
 tags: []
 lang: gl
 draft: false

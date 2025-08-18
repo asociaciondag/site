@@ -11,7 +11,7 @@ links:
     url: "https://www.instagram.com/laboratorio_numax/"
     type: link
 name: "Antonio Doñate"
-slug: antonio-donate
+basename: antonio-donate
 avatarBig: null
 avatar: /img/avatars/toni-avatar.jpg
 tags:

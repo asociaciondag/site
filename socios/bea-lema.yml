@@ -13,7 +13,7 @@ links:
     url: "https://www.instagram.com/bea.lema/"
     type: link
 name: "Bea Lema"
-slug: bea-lema
+basename: bea-lema
 avatarBig: null
 avatar: /img/avatars/587f97abb1320-bea-lema.jpg
 tags: []

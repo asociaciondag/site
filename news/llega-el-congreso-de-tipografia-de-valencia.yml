@@ -18,7 +18,7 @@ body:
     text: "Web del Congreso de Tipografía de Valencia"
     type: button
 intro: "La cita será este fin de semana, del 1 al 3 de julio. En la edición de este año, que lleva por título Tipografía pública, la organización propone una reflexión acerca del papel de la tipografía en todos aquellos aspectos relacionados con el sentido de lo público."
-slug: llega-el-congreso-de-tipografia-de-valencia
+basename: llega-el-congreso-de-tipografia-de-valencia
 tags:
   - "noticias socios/socias"
 lang: es

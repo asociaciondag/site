@@ -35,7 +35,7 @@ body:
     text: "Chamada a proxecto para anteproxecto expositivo"
     type: file
 intro: "Un anteproxecto expositivo e un documental interactivo son dúas das tres partes de que consta o proxecto From Desing with Design, que pretende dar visibilidade internacional ao deseño español."
-slug: chamadas-a-proxecto-para-profesionais-do-deseno
+basename: chamadas-a-proxecto-para-profesionais-do-deseno
 tags:
   - concursos
 lang: gl

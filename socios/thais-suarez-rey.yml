@@ -14,7 +14,7 @@ links:
     url: "http://www.instagram.com/sismicacreativa"
     type: link
 name: "Thais Suárez Rey"
-slug: thais-suarez-rey
+basename: thais-suarez-rey
 avatarBig: null
 avatar: /img/avatars/sismica-thais-suarez-avatar-ydray-0x0a3003.jpg
 tags:

@@ -22,7 +22,7 @@ body:
     text: "Más info"
     type: button
 intro: "El CESUGA acaba de premiar el trabajo de Cenlitros en la categoría de Diseño de Producto y Pequeña Escala en la III Edición del Premio Arquitectura en Madera Cesuga-Pino de Galicia."
-slug: la-escenografia-de-cenlitros-para-los-premios-coag-2025-premiada
+basename: la-escenografia-de-cenlitros-para-los-premios-coag-2025-premiada
 tags:
   - "noticias socios/socias"
 lang: es

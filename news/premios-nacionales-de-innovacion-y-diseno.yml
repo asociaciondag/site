@@ -30,7 +30,7 @@ body:
     text: "Presentación de candidatura"
     type: button
 intro: "Hasta el próximo 4 de julio está abierta la convocatoria para presentar candidaturas a los Premios Nacionales de Innovación y Diseño 2024. Animamos a profesionales del diseño y a las empresas de nuestra comunidad a que se presenten."
-slug: premios-nacionales-de-innovacion-y-diseno
+basename: premios-nacionales-de-innovacion-y-diseno
 tags: []
 lang: es
 draft: false

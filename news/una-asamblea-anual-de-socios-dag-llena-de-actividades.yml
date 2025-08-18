@@ -13,7 +13,7 @@ body:
     text: Descargar
     type: file
 intro: "La DAG, Asociación Gallega de Diseñadores, celebra este sábado 7 de febrero su reunión anual de socios en el estudio [Costa](http://www.costa.io/) de A Coruña (calle Real, 55, 1º izquierda)."
-slug: una-asamblea-anual-de-socios-dag-llena-de-actividades
+basename: una-asamblea-anual-de-socios-dag-llena-de-actividades
 tags: []
 lang: es
 draft: false

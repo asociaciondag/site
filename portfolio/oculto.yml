@@ -1,6 +1,6 @@
 id: 118
 title: Oculto
-slug: oculto
+basename: oculto
 body:
   - image: /img/portfolio/images/56bb71a6438d2-oculto-2.jpg
     text: ""

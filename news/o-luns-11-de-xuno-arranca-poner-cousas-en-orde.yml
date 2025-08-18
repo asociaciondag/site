@@ -11,7 +11,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa1c1ba3-poner-as-cousas-en-orde.gif
 intro: null
-slug: o-luns-11-de-xuno-arranca-poner-cousas-en-orde
+basename: o-luns-11-de-xuno-arranca-poner-cousas-en-orde
 tags: []
 lang: gl
 draft: false

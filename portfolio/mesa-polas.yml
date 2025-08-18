@@ -1,6 +1,6 @@
 id: 426
 title: "Mesa Polas"
-slug: mesa-polas
+basename: mesa-polas
 body:
   - image: /img/portfolio/images/mesa-polas-1.jpg
     text: ""

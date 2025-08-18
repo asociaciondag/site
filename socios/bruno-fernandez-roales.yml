@@ -8,7 +8,7 @@ links:
     url: ""
     type: link
 name: "Bruno Fernández Roales"
-slug: bruno-fernandez-roales
+basename: bruno-fernandez-roales
 avatarBig: /img/avatars/bruno-fernandez.png
 avatar: /img/avatars/bruno-fernandez.png
 tags:

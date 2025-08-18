@@ -12,7 +12,7 @@ body:
     mode: normal
     type: image
 intro: "A DAG está a organizar unha visita á Guarda o próximo sábado 18 de outubro. O obxectivo é realizar un encontro coa asociación ANABAM (Asociación Naturista Baixo Miño) para coñecer de preto o singular sistema de marcas gráficas que utilizaban os mariñeiros da Guarda para identificar embarcacións, aparellos... etc."
-slug: a-dag-organiza-unha-visita-a-guarda-para-conecer-as-marcas-graficas-dos-marineiros
+basename: a-dag-organiza-unha-visita-a-guarda-para-conecer-as-marcas-graficas-dos-marineiros
 tags:
   - "actividades dag"
 lang: gl

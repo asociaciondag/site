@@ -16,7 +16,7 @@ links:
     url: "https://www.linkedin.com/in/danibembibre"
     type: linkedin
 name: "Dani Bembibre"
-slug: dani-bembibre
+basename: dani-bembibre
 avatarBig: null
 avatar: /img/avatars/retrato-2018.jpg
 tags:

@@ -29,7 +29,7 @@ body:
       Galicia, 5 de enero de 2012
     type: text
 intro: 'En una de sus últimas apariciones públicas, con ocasión del reconocimiento como Doctor Honoris Causa por la Universidad de A Coruña, la presentadora del acto le preguntó a Isaac por las razones de su conocida renuncia a la pintura y la consiguiente apuesta personal por la dimensión social del diseño. Su respuesta fue: "Porque me dió la gana". En esa contestación se encierra sin duda parte de su inmensa contribución a nuestro país.'
-slug: porque-me-dio-la-gana-tributo-a-isaac-diaz-pardo
+basename: porque-me-dio-la-gana-tributo-a-isaac-diaz-pardo
 tags: []
 lang: es
 draft: false

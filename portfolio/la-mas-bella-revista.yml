@@ -1,6 +1,6 @@
 id: 79
 title: "La Más Bella Revista"
-slug: la-mas-bella-revista
+basename: la-mas-bella-revista
 body:
   - text: |-
       Para o seu 20 aniversario, a editorial decide facer unha revista que se entregará por fascículos, da colaboración con eles forma parte o deseño desta portada. A cabeceira foi creada a partir da tipografía Orator de John Scheppler.

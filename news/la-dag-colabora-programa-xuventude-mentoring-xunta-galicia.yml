@@ -18,7 +18,7 @@ body:
     text: "Más información"
     type: button
 intro: "Xuventude Mentoring es un programa integral de formación y mentoría destinado a personas jóvenes tituladas e inscritas en el Sistema Nacional de Garantía Juvenil en la Comunidad Autónoma de Galicia. La DAG colabora difundiendo información sobre el proyecto y sirviendo de canal para la incorporación de personas asociadas como mentoras. En esta edición se contó con la colaboración del diseñador industrial [Javier Ferrín](https://dag.gal/gl/javier-ferrin/) y la diseñadora editorial [Paula Cantero](https://dag.gal/gl/paula-cantero-rey/) de Origami Estudio."
-slug: la-dag-colabora-programa-xuventude-mentoring-xunta-galicia
+basename: la-dag-colabora-programa-xuventude-mentoring-xunta-galicia
 tags: []
 lang: es
 draft: false

@@ -18,7 +18,7 @@ body:
     text: "Web Creafogar"
     type: button
 intro: "Este viernes 20 de septiembre se inaugura Creafogar, un evento de diseño donde una vivenda con una larga historia de vida es sometida a una renovación de imagen​ con propuestas de diseño de creadores y creadoras gallegas, con participación de socios y socias DAG."
-slug: creafogar-un-espacio-efimero-de-diseno-galleg-o
+basename: creafogar-un-espacio-efimero-de-diseno-galleg-o
 tags: []
 lang: es
 draft: false

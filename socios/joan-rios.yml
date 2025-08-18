@@ -8,7 +8,7 @@ links:
     url: "https://www.behance.net/joanrios"
     type: link
 name: "Joan Ríos"
-slug: joan-rios
+basename: joan-rios
 avatarBig: null
 avatar: /img/avatars/561ce203b252e-joan-rios-dominguez.png
 tags: []

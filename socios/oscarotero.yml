@@ -14,7 +14,7 @@ links:
     url: "https://github.com/oscarotero"
     type: link
 name: "Óscar Otero"
-slug: oscarotero
+basename: oscarotero
 avatarBig: null
 avatar: /img/avatars/56005234b85c5-oscarotero.jpg
 tags:

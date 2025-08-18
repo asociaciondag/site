@@ -24,7 +24,7 @@ body:
       Podéis consultar las bases e inscripciones, que contemplan un 15% de descuento para los socios de la DAG, en <http://www.adg-fad.org/es/laus/premios>
     type: text
 intro: "La Asociación de Diseñadores Gráficos y Directores de Arte del FAD (ADG-FAD) acaba de abrir la convocatoria de inscripciones para participar en la 47ª edición de los Premios ADG Laus de Diseño Gráfico y Comunicación Visual."
-slug: abierto-el-plazo-de-inscripcion-de-trabajos-en-los-premios-laus
+basename: abierto-el-plazo-de-inscripcion-de-trabajos-en-los-premios-laus
 tags: []
 lang: es
 draft: false

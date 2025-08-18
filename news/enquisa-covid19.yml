@@ -18,7 +18,7 @@ body:
     text: "Acceso á enquisa"
     type: button
 intro: "[READ](https://www.designread.es), a Rede Española de Asociacións de Deseño, en colaboración co [BCD](https://www.bcd.es), Barcelona Centro de Deseño, está a recompilar datos para valorar as consecuencias que a situación provocada pola propagación do COVID-19 está a causar no sector do deseño."
-slug: enquisa-covid19
+basename: enquisa-covid19
 tags: []
 lang: gl
 draft: false

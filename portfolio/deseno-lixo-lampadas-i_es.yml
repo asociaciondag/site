@@ -1,6 +1,6 @@
 id: 194
 title: "Deseño&Lixo // Lámpadas I"
-slug: deseno-lixo-lampadas-i
+basename: deseno-lixo-lampadas-i
 body:
   - text: "100% Lixo (plástico - madeira)"
     type: text

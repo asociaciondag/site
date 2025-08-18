@@ -28,7 +28,7 @@ body:
     mode: normal
     type: image
 intro: "Esta nueva edición del [Festival de Publicidad de Lujo y Marcas Premium](http://luxuryawards.es/) ha premiado al estudio vigués [Desoños](http://www.desonhos.gal/es/) con catro galardones: tres premios concedidos a proyectos desarrollados por el estudio y un **Premio Especial al Estudio con Mejor Diseño Premium 2017**. Los premios se entregan hoy por la tarde en una gala que tendrá lugar en Marbella."
-slug: el-estudio-desonos-obtiene-cuatro-premios-de-diseno-en-la-5a-edicion-de-los-luxury-advertising-awards
+basename: el-estudio-desonos-obtiene-cuatro-premios-de-diseno-en-la-5a-edicion-de-los-luxury-advertising-awards
 tags:
   - "noticias socios/socias"
 lang: es

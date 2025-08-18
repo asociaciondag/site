@@ -1,6 +1,6 @@
 id: 21
 title: "Leive Reliquia"
-slug: leive-reliquia
+basename: leive-reliquia
 body:
   - text: "Reliquia é un viño branco do Ribeiro envellecido en barrica de carballo galego. Ten unha produción moi limitada e preséntase como unha Reliquia."
     type: text

@@ -18,7 +18,7 @@ body:
     text: "Enlaces a contenidos de interés"
     type: file
 intro: "A lo largo de estos meses de aislamiento social derivado de la crisis sanitaria y económica provocada por la COVID-19, Internet y las diferentes plataformas _online_ han sido la mejor compañía para todos y todas."
-slug: diseno-confinamiento
+basename: diseno-confinamiento
 tags: []
 lang: es
 draft: false

@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: 'Esta nova publicación de DARDO comparte cabeceira coa súa xa coñecida revista de arte contemporánea, _Dardo magazine,_ que a partir de agora se desdobra en dúas: _Dardo magazine\_contemporary art_ e _Dardo magazine\_architecture+design,_ con temáticas diferentes.'
-slug: a-editorial-dardo-presenta-unha-nova-revista-dedicada-a-arquitectura-e-o-deseno-dardo-magazine-architecture-design
+basename: a-editorial-dardo-presenta-unha-nova-revista-dedicada-a-arquitectura-e-o-deseno-dardo-magazine-architecture-design
 tags: []
 lang: gl
 draft: false

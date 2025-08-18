@@ -29,7 +29,7 @@ body:
     text: 'FEED''17'
     type: button
 intro: "Francesco Furno e Pablo Galeano cren que calquera proceso de traballo ten que ser, sobre todo, divertido. Con esta filosofía fundaron en 2008 relajaelcoco e levan desde entón demostrando como se fai bo deseño nun ambiente relaxado e descontraído, e cunha metodoloxía coa que todos os implicados (membros do estudio e clientes) gozan da experiencia."
-slug: estamos-desexando-que-chegue-o-feed-17-para-escoitar-a-francesco-e-pablo-de-relajaelcoco
+basename: estamos-desexando-que-chegue-o-feed-17-para-escoitar-a-francesco-e-pablo-de-relajaelcoco
 tags:
   - "actividades dag"
 lang: gl

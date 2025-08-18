@@ -20,7 +20,7 @@ body:
     text: "Web Premios Laus"
     type: button
 intro: "La 52 edición de los Premios Laus acaba de celebrar la gala de entrega de los premios 2022 donde resultaron galardonados trabajos de nuestros compañeros Cibrán Rico y Suso Vázquez de Desescribir, y Iago Barreiro y Alberto Carballido de Novagarda."
-slug: premios-laus-para-socios-dag
+basename: premios-laus-para-socios-dag
 tags: []
 lang: es
 draft: false

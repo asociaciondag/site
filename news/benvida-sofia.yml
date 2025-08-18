@@ -26,7 +26,7 @@ body:
       Sofía.
     type: text
 intro: "A DAG suma unha nova asociada, [Sofía F de Ana](https://dag.gal/es/sofia-f-de-ana/), que despois de percorrer medio mundo, volveu a Galicia e traballa desde Pontevedra. Estamos moi contentas de contar con ela."
-slug: benvida-sofia
+basename: benvida-sofia
 tags:
   - "noticias socios/socias"
 lang: gl

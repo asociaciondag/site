@@ -1,6 +1,6 @@
 id: 192
 title: "Deseño&Lixo // Xoias"
-slug: deseno-lixo-xoias
+basename: deseno-lixo-xoias
 body:
   - text: "100% Lixo (plástico)"
     type: text

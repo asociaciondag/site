@@ -28,7 +28,7 @@ body:
     text: "Web Memoria viva"
     type: button
 intro: "Esta iniciativa se suma a los homenajes que se están llevando a cabo este 2020 con motivo del centenario del nacimiento del autor. El proyecto ha sido dirigido por María América y ha contado con la colaboración de los socios de la DAG Dani Bembibre y David Silvosa, para el que usaron la tipografía de Marcos Dopico."
-slug: memoria-viva-web-diaz-pardo-es
+basename: memoria-viva-web-diaz-pardo-es
 tags: []
 lang: es
 draft: false

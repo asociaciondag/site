@@ -24,7 +24,7 @@ body:
     text: "Bases e inscricións"
     type: button
 intro: "O Clúster da Comunicación organiza os VIII Premios Paraugas con cambio de sede e dúas categorías novas de premios: Paraugas de Ouro e Novos Talentos. O prazo de presentación de proxectos remata o 31 de outubro."
-slug: viii-edicion-dos-premios-paraugas-en-marcha
+basename: viii-edicion-dos-premios-paraugas-en-marcha
 tags: []
 lang: gl
 draft: false

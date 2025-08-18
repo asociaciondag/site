@@ -51,7 +51,7 @@ body:
 
     type: text
 position: "1"
-slug: pode-o-deseno-axudar-a-erradicar-as-violencias-de-xenero
+basename: pode-o-deseno-axudar-a-erradicar-as-violencias-de-xenero
 cover: /img/articles/covers/graficasennegro.jpg
 lang: gl
 draft: true

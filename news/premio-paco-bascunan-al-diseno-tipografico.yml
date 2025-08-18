@@ -15,7 +15,7 @@ body:
     text: Descargar
     type: file
 intro: "El 4 CIT convoca por primera vez el premio destinado a jóvenes tipógrafos."
-slug: premio-paco-bascunan-al-diseno-tipografico
+basename: premio-paco-bascunan-al-diseno-tipografico
 tags: []
 lang: es
 draft: false

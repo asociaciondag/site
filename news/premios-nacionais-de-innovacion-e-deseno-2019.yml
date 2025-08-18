@@ -29,7 +29,7 @@ body:
       A cerimonia de entrega dos Premios será en Valencia, como Capital Mundial do Deseño en 2022.
     type: text
 intro: "O pasado mes de novembro coñecemos os gañadores e gañadoras dos Premios Nacionais de Innovación e Deseño 2019, onde cabe destacar a representación feminina e a extraordinaria calidade de todas as candidaturas, segundo afirmaron os membros do xurado."
-slug: premios-nacionais-de-innovacion-e-deseno-2019
+basename: premios-nacionais-de-innovacion-e-deseno-2019
 tags: []
 lang: gl
 draft: false

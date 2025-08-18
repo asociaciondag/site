@@ -24,7 +24,7 @@ body:
     text: "Bases da convocatoria"
     type: button
 intro: "A Xunta de Galicia, a través da Axencia Galega de Innovación​,​ v​​én de convocar os IV Premios Galicia de Innovación e Deseño para recoñecer o labor das persoas e empresas que contribúen ao desenvolvemento económico de Galicia a través da innovación e do deseño. ​O prazo para presentar as candidaturas péchase o 30 de setembro.​"
-slug: gain-convoca-os-iv-premios-galicia-de-innovacion-e-deseno
+basename: gain-convoca-os-iv-premios-galicia-de-innovacion-e-deseno
 tags: []
 lang: gl
 draft: false

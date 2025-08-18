@@ -1,6 +1,6 @@
 id: 77
 title: "Homenaxe a Luís Seoane"
-slug: homenaxe-a-luis-seoane
+basename: homenaxe-a-luis-seoane
 body:
   - text: "A imaxe constrúese cunha serie de fotografías dos nomes de diferentes galegos ilustres, nas súas tumbas no cemiterio de San Amaro da Coruña, lugar onde se realiza a homenaxe."
     type: text

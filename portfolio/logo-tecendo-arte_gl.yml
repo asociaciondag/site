@@ -1,6 +1,6 @@
 id: 262
 title: "Logo Tecendo Arte"
-slug: logo-tecendo-arte
+basename: logo-tecendo-arte
 body:
   - text: "Deseño de logotipo para escola de arte. Baséase na idea da creatividade asociada ao lado dereito do cerebro."
     type: text

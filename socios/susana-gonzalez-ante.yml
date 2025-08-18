@@ -23,7 +23,7 @@ links:
     url: "https://twitter.com/_desonhos"
     type: twitter
 name: "Susana González Ante"
-slug: susana-gonzalez-ante
+basename: susana-gonzalez-ante
 avatarBig: null
 avatar: /img/avatars/56fb8d566b14e-susana-gonzalez-ante.jpg
 tags:

@@ -40,7 +40,7 @@ body:
     mode: normal
     type: image
 intro: "Cuatro han sido los trabajos de nuestros socios [Dani Bembibre](http://www.costa.io/) e [David Silvosa](http://www.costa.io/) reconocidos por un jurado constituido por representantes de las asociaciones y centros de diseño:"
-slug: el-estudio-costa-comunicacion-visual-premiado-en-los-anuaria-2015
+basename: el-estudio-costa-comunicacion-visual-premiado-en-los-anuaria-2015
 tags: []
 lang: es
 draft: false

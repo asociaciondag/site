@@ -14,7 +14,7 @@ links:
     url: "http://fabulatorio.org/"
     type: link
 name: "Cibrán Rico López"
-slug: cibran-rico-lopez
+basename: cibran-rico-lopez
 avatarBig: /img/avatars/desescribir.jpg
 avatar: /img/avatars/cibran.jpg
 tags:

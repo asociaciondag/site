@@ -24,7 +24,7 @@ body:
     text: "Más información en Unitaria"
     type: button
 intro: "Para conocer los estilos más importantes, las plumillas usadas para cada uno y probar alguno de ellos, claro, primero trazos básicos y luego el alfabeto de cada estilo, dividido por familias. Para apreciar las diferencias entre los distintos papeles, tintas y acuarelas, y aprender a elegir los materiales adecuados para el estilo de caligrafía que se vaya a practicar."
-slug: un-taller-para-iniciarse-en-la-caligrafia
+basename: un-taller-para-iniciarse-en-la-caligrafia
 tags: []
 lang: es
 draft: false

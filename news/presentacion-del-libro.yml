@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Se presenta un nuevo número de la revista _Creatividade Galega_"
-slug: presentacion-del-libro
+basename: presentacion-del-libro
 tags: []
 lang: es
 draft: false

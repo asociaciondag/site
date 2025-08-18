@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Os socios da Asociación Galega de Deseñadores reúnense en Asemblea Xeral o venres, 14 de xaneiro, en Santiago de Compostela."
-slug: asemblea-xeral-da-dag
+basename: asemblea-xeral-da-dag
 tags: []
 lang: gl
 draft: false

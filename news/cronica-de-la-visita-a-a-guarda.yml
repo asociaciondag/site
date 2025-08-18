@@ -23,7 +23,7 @@ body:
       ratio: ""
     type: embed
 intro: "El diseñador Pepe Barro ha elaborado una crónica de la visita a A Guarda realizada el pasado 18 de octubre para conocer las marcas gráficas de los marineros"
-slug: cronica-de-la-visita-a-a-guarda
+basename: cronica-de-la-visita-a-a-guarda
 tags:
   - "actividades dag"
 lang: es

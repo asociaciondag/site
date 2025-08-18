@@ -1,6 +1,6 @@
 id: 314
 title: Russula
-slug: russula
+basename: russula
 body:
   - image: /img/portfolio/images/russula.jpg
     text: ""

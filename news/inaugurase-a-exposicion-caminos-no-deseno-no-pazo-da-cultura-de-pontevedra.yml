@@ -6,7 +6,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa2c1f13-caminos-no-deseno.jpg
 intro: null
-slug: inaugurase-a-exposicion-caminos-no-deseno-no-pazo-da-cultura-de-pontevedra
+basename: inaugurase-a-exposicion-caminos-no-deseno-no-pazo-da-cultura-de-pontevedra
 tags: []
 lang: gl
 draft: false

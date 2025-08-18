@@ -26,7 +26,7 @@ body:
     text: "Web del 8ENAD"
     type: button
 intro: "Los días 17 y 18 de septiembre el diseño tiene una cita en Murcia. Este año, el encuentro será accesible a un mayor número de persoas, puesto que las actividades y las charlas del encuentro serán principalmente _online_. La inscripción es gratuita y ya se puede reservar plaza para asistir."
-slug: 8-enad-es
+basename: 8-enad-es
 tags: []
 lang: es
 draft: false

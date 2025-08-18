@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Só quedan dez días para que se presente Acción DAG, o último proxecto da Asociación Galega de Deseñadores e que ben se podería cualificar como o evento do deseño galego do ano."
-slug: a-gran-cita-co-deseno-galego
+basename: a-gran-cita-co-deseno-galego
 tags: []
 lang: gl
 draft: false

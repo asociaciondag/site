@@ -20,7 +20,7 @@ body:
     text: "Web dos premios"
     type: button
 intro: "A nova edición dos Premios Laus organizados por ADG FAD premiou o traballo dos nosos socios Xabier Rilo de Cenlitros, e Iago Barreiro e Alberto Carballido de Novagarda, cunha prata e un bronce respectivamente."
-slug: dous-premios-laus-para-novagarda-e-cenlitros
+basename: dous-premios-laus-para-novagarda-e-cenlitros
 tags:
   - "noticias socios/socias"
 lang: gl

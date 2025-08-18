@@ -16,7 +16,7 @@ body:
     text: "Perfil de socio DAG"
     type: button
 intro: "Bienvenido, Enrique!"
-slug: puede-haber-mejor-forma-de-empezar-la-semana-que-recibiendo-a-un-nuevo-socio
+basename: puede-haber-mejor-forma-de-empezar-la-semana-que-recibiendo-a-un-nuevo-socio
 tags: []
 lang: es
 draft: false

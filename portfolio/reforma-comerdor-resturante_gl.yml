@@ -1,6 +1,6 @@
 id: 357
 title: "Reforma de comedor de restaurante"
-slug: reforma-comerdor-resturante
+basename: reforma-comerdor-resturante
 body:
   - text: |-
       Proxecto de reforma da zona de comedor dun restaurante no que, ademais de actualizalo estéticamente, era necesario mellorar a iluminación e a acústica. Para isto propúxose un falso teito metálico acústico e un _trasdosado_ con “coxíns” tapizados que melloraban a reverberación.

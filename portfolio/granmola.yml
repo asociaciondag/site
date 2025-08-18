@@ -1,6 +1,6 @@
 id: 60
 title: Granmola
-slug: granmola
+basename: granmola
 body:
   - text: |-
       Granmola xorde como proxecto interno do estudio, coa idea de desenvolver un obxecto que actúe de elemento promocional e á vez que sirva de presente para potenciais clientes.

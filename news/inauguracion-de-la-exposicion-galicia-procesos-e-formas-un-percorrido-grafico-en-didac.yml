@@ -18,7 +18,7 @@ body:
     text: "Más info"
     type: button
 intro: "Hoy 10 de septiembre a las 18 horas tendrá lugar en la Fundación Didac de Santiago de Compostela la inauguración de la exposición _Galicia, Procesos e Formas. Un percorrido gráfico_, en la que participan socios y socias de DAG junto con otros diseñadores y diseñadoras gallegas."
-slug: inauguracion-de-la-exposicion-galicia-procesos-e-formas-un-percorrido-grafico-en-didac
+basename: inauguracion-de-la-exposicion-galicia-procesos-e-formas-un-percorrido-grafico-en-didac
 tags: []
 lang: es
 draft: false

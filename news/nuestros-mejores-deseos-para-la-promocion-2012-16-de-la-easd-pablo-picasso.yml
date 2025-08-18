@@ -12,7 +12,7 @@ body:
       El acto finalizará con la entrega de diplomas y bandas a los graduados y graduadas.
     type: text
 intro: "Hoy, 1 de julio, se gradúa la promoción 2012/16 de titulados superiores en Diseño Gráfico y Diseño de Interiores de la EASD Pablo Picasso. Para la DAG es un honor acompañarlos en el acto de graduación que ha organizado el alumnado, y les damos las gracias tanto a ellos como al equipo docente por su amable invitación."
-slug: nuestros-mejores-deseos-para-la-promocion-2012-16-de-la-easd-pablo-picasso
+basename: nuestros-mejores-deseos-para-la-promocion-2012-16-de-la-easd-pablo-picasso
 tags: []
 lang: es
 draft: false

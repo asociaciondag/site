@@ -18,7 +18,7 @@ body:
     text: "1º Congreso de Diseño de Donostia"
     type: button
 intro: "Tendrá lugar entre el 18 y el 20 de julio, a comienzos de la semana que viene, dentro del marco del Programa de los Cursos de Verano de la UPV/EHU - UPV/EHUko Uda Ikastaroak, y esta primera edición estará dedicada a las marcas gráficas de identidad corporativa."
-slug: el-primer-congreso-de-diseno-de-donostia
+basename: el-primer-congreso-de-diseno-de-donostia
 tags:
   - "noticias socios/socias"
 lang: es

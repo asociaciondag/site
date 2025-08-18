@@ -18,7 +18,7 @@ body:
       Na DAG aplaudimos este tipo de iniciativas que avogan por unha valoración máis xusta da nosa profesión. Lamentablemente, e non nos cansaremos de insistir, en moitas ocasións o deseño é unha profesión prexudicada polos [concursos especulativos](https://dag.gal/gl/novas/tag/concursos/).
     type: text
 intro: "O pasado mes de febreiro a Deputación de Pontevedra facía unha chamada a proxecto para renovar a identidade gráfica do Museo de Pontevedra. De entre as 37 candidaturas presentadas o Consello Asesor do Museo seleccionou 4 finalistas: Uqui Permui, Costa Comunicación Visual, Cenlitrosmetrocadrado e Tamara Baz."
-slug: identidade-museo-pontevedra
+basename: identidade-museo-pontevedra
 tags:
   - concursos
 lang: gl

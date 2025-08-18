@@ -18,7 +18,7 @@ body:
     text: "Web de los premios"
     type: button
 intro: "Nuestra socia [Uqui Permui](https://uqui.net/) acaba de recibir el Premio Latampack de Oro al mejor envase eco amigable por Sementares, proyecto que también obtuvo una Selección Clap en el apartado de Branding &amp; Packaging, al mejor sistema de identidad corporativa."
-slug: uqui-permui-latampack-de-oro-2023-para-el-envase-de-sementares
+basename: uqui-permui-latampack-de-oro-2023-para-el-envase-de-sementares
 tags:
   - "noticias socios/socias"
 lang: es

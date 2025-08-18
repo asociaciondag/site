@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "El Ministerio de Ciencia e Innovación convoca los Premios Nacionales de Diseño 2010."
-slug: premios-nacionales-de-diseno-2010
+basename: premios-nacionales-de-diseno-2010
 tags: []
 lang: es
 draft: false

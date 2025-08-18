@@ -34,7 +34,7 @@ body:
       Otros temas de interés para las asociaciones.
     type: text
 intro: "La asamblea tendrá lugar el próximo 16 de febrero en la Central de Diseño en Matadero (Madrid) y en ella se abordarán asuntos como el desarrollo de los proyectos en curso, la hoja de ruta para el 2017-2018 o la presentación del código deontológico para la práctica del diseño en el que lleva trabajando un grupo de profesionales del diseño desde el último 4ENAD (Encuentro Nacional de Asociaciones de Diseño) organizado por la [READ](http://www.designread.es/)."
-slug: la-dag-participa-en-la-asamblea-anual-de-la-read
+basename: la-dag-participa-en-la-asamblea-anual-de-la-read
 tags: []
 lang: es
 draft: false

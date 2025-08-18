@@ -22,7 +22,7 @@ body:
     text: "Página del evento con toda la información"
     type: button
 intro: "La DAG, Asociación Gallega de Diseñadores, organiza el 1º Encuentro de diseñadoras y diseñadores gallegos para analizar la situación de la profesión en el contexto más próximo."
-slug: primer-encuentro-de-disenadoras-y-disenadores-gallegos
+basename: primer-encuentro-de-disenadoras-y-disenadores-gallegos
 tags:
   - "actividades dag"
 lang: es

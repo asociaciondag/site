@@ -11,7 +11,7 @@ links:
     url: "https://www.linkedin.com/in/mariaramossilva/"
     type: twitter
 name: "María Ramos"
-slug: maria-ramos
+basename: maria-ramos
 avatarBig: null
 avatar: /img/avatars/m-sastre-perfil.png
 tags:

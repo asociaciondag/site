@@ -17,7 +17,7 @@ body:
     mode: normal
     type: image
 intro: "El director de [Agadic](http://www.agadic.info/), Juan Carlos Fasero, y representantes da DAG inauguraron oficialmente el feet en una rueda de prensa que tuvo lugar a las 11 de la mañana en la Casa das Campás."
-slug: comienza-el-feet
+basename: comienza-el-feet
 tags:
   - "actividades dag"
 lang: es

@@ -78,7 +78,7 @@ body:
     mode: normal
     type: image
 position: null
-slug: bailar-co-mais-feo
+basename: bailar-co-mais-feo
 cover: /img/articles/covers/55c3cd585e285-wide-5586f1d6806a2-omaisfeo2.jpg
 lang:
   - gl

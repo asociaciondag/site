@@ -17,7 +17,7 @@ body:
     mode: normal
     type: image
 intro: "El pasado 30 de junio la Asociación de Diseñadores Gráficos y Directores de Arte del FAD, ADG-FAD, entregaba en Barcelona los Premios Laus de Diseño Gráfico y Comunicación Visual."
-slug: los-laus-reconocen-el-trabajo-de-desescribir-un-ano-mas
+basename: los-laus-reconocen-el-trabajo-de-desescribir-un-ano-mas
 tags: []
 lang: es
 draft: false

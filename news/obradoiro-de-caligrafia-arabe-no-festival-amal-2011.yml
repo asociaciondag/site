@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "O [Festival Internacional de Cine EuroÁrabe Amal](http://www.festivalamal.es/) que organiza a Fundación Araguaney-Puente de Culturas, nesta novena edición, incorpora como novidade entre as súas actividades paralelas, un obradoiro de iniciación á caligrafía árabe."
-slug: obradoiro-de-caligrafia-arabe-no-festival-amal-2011
+basename: obradoiro-de-caligrafia-arabe-no-festival-amal-2011
 tags: []
 lang: gl
 draft: false

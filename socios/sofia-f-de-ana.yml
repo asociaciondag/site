@@ -8,7 +8,7 @@ links:
     url: "https://www.instagram.com/sofia4design/"
     type: facebook
 name: "Sofía F de Ana"
-slug: sofia-f-de-ana
+basename: sofia-f-de-ana
 avatarBig: null
 avatar: /img/avatars/sofia-fdeana.jpg
 tags:

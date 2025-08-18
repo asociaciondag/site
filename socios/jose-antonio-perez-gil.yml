@@ -15,7 +15,7 @@ links:
     url: "https://twitter.com/peregil23"
     type: twitter
 name: "José Antonio Pérez Gil "
-slug: jose-antonio-perez-gil
+basename: jose-antonio-perez-gil
 avatarBig: null
 avatar: /img/avatars/jose-antonio-perez-gil-foto.jpg
 tags:

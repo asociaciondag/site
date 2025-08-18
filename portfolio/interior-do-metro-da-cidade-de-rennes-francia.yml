@@ -1,6 +1,6 @@
 id: 227
 title: "Interior do metro da cidade de Rennes (Francia)"
-slug: interior-do-metro-da-cidade-de-rennes-francia
+basename: interior-do-metro-da-cidade-de-rennes-francia
 body:
   - image: /img/portfolio/images/rennes-int.jpg
     text: ""

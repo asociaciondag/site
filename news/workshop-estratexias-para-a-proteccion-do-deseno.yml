@@ -22,7 +22,7 @@ body:
     text: "Páxina do evento na web de Gain"
     type: button
 intro: "A Consellería de Economía, Emprego e Industria, a través da Axencia Galega de innovación (GAIN), organiza o vindeiro 25 de outubro o workshop Estratexias para a protección do deseño."
-slug: workshop-estratexias-para-a-proteccion-do-deseno
+basename: workshop-estratexias-para-a-proteccion-do-deseno
 tags: []
 lang: gl
 draft: false

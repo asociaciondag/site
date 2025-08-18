@@ -18,7 +18,7 @@ body:
     text: "Información sobre a contratación do deseño"
     type: button
 intro: "En xuño deste ano 2021 abríase a convocatoria para presentar candidaturas profesionais para deseñar a nova imaxe corporativa do Concello de Pontevedra, coa idea clara de apostar por un cambio formal que ligase coa perspectiva humana que prioriza a cidade e que fose cos tempos actuais. O proceso dividiuse en dúas fases e, finalmente, o estudio Cenlitrosmetrocadrado resultou seleccionado."
-slug: o-estudio-cenlitrosmetrocadrado-seleccionado-para-desenar-a-imaxe-corporativa-do-concello-de-pontevedra
+basename: o-estudio-cenlitrosmetrocadrado-seleccionado-para-desenar-a-imaxe-corporativa-do-concello-de-pontevedra
 tags:
   - concursos
 lang: gl

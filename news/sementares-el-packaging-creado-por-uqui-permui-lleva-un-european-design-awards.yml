@@ -18,7 +18,7 @@ body:
     text: "Web de los premios"
     type: button
 intro: "El proyecto Sementares no para de recoger premios. El diseño realizado por nuestra compañera Uqui Permui acaba de llevarse una Plata en los European Design Awards, el primero de esta categoría que recibe un _packaging_ de producto gallego. La gala de entrega de los premios se celebró en Nápoles."
-slug: sementares-el-packaging-creado-por-uqui-permui-lleva-un-european-design-awards
+basename: sementares-el-packaging-creado-por-uqui-permui-lleva-un-european-design-awards
 tags:
   - "noticias socios/socias"
 lang: es

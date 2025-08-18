@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "A Escola de Arte e Superior de Deseño Pablo Picasso da Coruña presenta mañá xoves, día 24 de novembro, unha conferencia sobre vídeo mapping e mais un obradoiro que se desenvolverá os días 24 e 25, e que contará coa presenza de Mario Jiménez, colaborador na exitosa proxección do 800 centenario da Catedral de Santiago."
-slug: video-mapping-na-easd-pablo-picasso
+basename: video-mapping-na-easd-pablo-picasso
 tags: []
 lang: gl
 draft: false

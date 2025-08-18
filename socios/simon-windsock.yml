@@ -14,7 +14,7 @@ links:
     url: "https://twitter.com/windsock"
     type: twitter
 name: "Simón Windsock "
-slug: simon-windsock
+basename: simon-windsock
 avatarBig: null
 avatar: /img/avatars/554d0d3f9b5a8-simon-windsock.jpg
 tags:

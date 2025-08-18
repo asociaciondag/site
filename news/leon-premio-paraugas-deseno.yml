@@ -18,7 +18,7 @@ body:
     text: "Máis información"
     type: button
 intro: "O pasado 22 de novembro tivo lugar no Teatro Jofre de Ferrol a entrega dos Premios Paraugas organizados polo Clúster da Comunicación nos que o noso socio León López de la Osa acadou o premio ao mellor deseño de produto polas Mesas trillizas."
-slug: leon-premio-paraugas-deseno
+basename: leon-premio-paraugas-deseno
 tags:
   - "noticias socios/socias"
 lang: gl

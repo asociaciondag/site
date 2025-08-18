@@ -24,7 +24,7 @@ body:
       Enhorabuena a los/as profesionales y empresas finalistas en esta edición por sus trayectorias, en especial a nuestros socios David Silvosa y Daniel Bembibre de [Costa comunicación visual](http://costa.io/), y a [Sofía de Ana](https://dag.gal/es/sofia-f-de-ana/) como integrante del equipo de Hifas da Terra.
     type: text
 intro: "El 20 de diciembre se celebró en el Hotel Monumento San Francisco de Santiago de Compostela la gala de entrega de los III Premios Galicia Innovación y Diseño que promueve la Xunta de Galicia a través de la Axencia Galega de Innovación, con tres premios en las categorías de Innovación y otros tres en las categorías de Diseño."
-slug: iii-edicion-de-los-premios-galicia-innovacion-y-deseno
+basename: iii-edicion-de-los-premios-galicia-innovacion-y-deseno
 tags: []
 lang: es
 draft: false

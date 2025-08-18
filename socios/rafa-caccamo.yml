@@ -16,7 +16,7 @@ links:
     url: "https://www.facebook.com/pages/Estudio-Rafa-C%C3%A1ccamo/345288782236839"
     type: facebook
 name: "Rafa Cáccamo"
-slug: rafa-caccamo
+basename: rafa-caccamo
 avatarBig: null
 avatar: /img/avatars/58ee5d4215a76-rafa-caccamo.png
 tags:

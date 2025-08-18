@@ -20,7 +20,7 @@ body:
     text: "Bases dos premios"
     type: button
 intro: "A segunda edición dos Premios Galicia de Innovación e Deseño convocados pola Xunta de Galicia a través da Axencia Galega de Innovación, englóbanse dentro do marco do Programa Diferenza 2024."
-slug: premios-galicia-innovacion-deseno-2021
+basename: premios-galicia-innovacion-deseno-2021
 tags: []
 lang: gl
 draft: false

@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Desde hai uns días xa se pode visitar no café bar O Trece de Santiago de Compostela unha retrospectiva da obra do deseñador e artista gráfico Pancho Lapeña."
-slug: retrospectiva-da-obra-do-desenador-e-artista-grafico-pancho-lapena-no-trece-de-santiago-de-compostela
+basename: retrospectiva-da-obra-do-desenador-e-artista-grafico-pancho-lapena-no-trece-de-santiago-de-compostela
 tags:
   - "noticias socios/socias"
 lang: gl

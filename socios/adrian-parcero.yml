@@ -17,7 +17,7 @@ links:
     url: "https://www.instagram.com/guillotinaestudio/"
     type: link
 name: "Adrián Parcero"
-slug: adrian-parcero
+basename: adrian-parcero
 avatarBig: null
 avatar: /img/avatars/5748875ee255f-adrian-parcero.jpg
 tags:

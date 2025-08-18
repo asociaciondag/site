@@ -20,7 +20,7 @@ body:
     text: "Perfil en la web de la DAG"
     type: button
 intro: "Qué alegría saber que, como en el caso de Paula Cantero, hay diseñadores gallegos que tienen entre sus propósitos de año nuevo hacerse de la DAG. Bienvenida, compañera!"
-slug: proposito-para-el-2019-ser-de-la-dag
+basename: proposito-para-el-2019-ser-de-la-dag
 tags:
   - "noticias socios/socias"
 lang: es

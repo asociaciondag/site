@@ -21,7 +21,7 @@ body:
     text: ""
     type: image
 intro: "Editores, ilustradores, diseñadores, escritores, bibliófilos, gestores culturales y expertos en nuevas tecnologías debatirán en Compostela sobre la situación del libro y de la edición en la era de Internet en el marco del congreso Editando para las minorías en la era digital que se celebrará del 3 al 6 de abril."
-slug: congreso-editando-para-las-minorias-en-la-era-digital
+basename: congreso-editando-para-las-minorias-en-la-era-digital
 tags: []
 lang: es
 draft: false

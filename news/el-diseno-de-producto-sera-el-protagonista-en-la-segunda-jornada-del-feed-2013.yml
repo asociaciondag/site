@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "La jornada se inaugurará a las 09.15 h con un seminario impartido por [Héctor Serrano](http://www.hectorserrano.com/), de título Cada loco con su tema. Un objeto y una manía, y que se desarrollará ao lo largo de la mañana."
-slug: el-diseno-de-producto-sera-el-protagonista-en-la-segunda-jornada-del-feed-2013
+basename: el-diseno-de-producto-sera-el-protagonista-en-la-segunda-jornada-del-feed-2013
 tags:
   - "actividades dag"
 lang: es

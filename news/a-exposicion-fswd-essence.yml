@@ -18,7 +18,7 @@ body:
       A exposición poderá visitarse até maio e no acto de inauguración estivo presente o noso asociado Artur Galocha representando á comunidade de profesionais do deseño de READ.
     type: text
 intro: "Inaugúrase no Centro Cultural de España en Washington, D.C. a exposición _From Spain With Design - Essence_, organizada por READ, con ampla representación de deseño galego."
-slug: a-exposicion-fswd-essence
+basename: a-exposicion-fswd-essence
 tags:
   - "noticias socios/socias"
 lang: gl

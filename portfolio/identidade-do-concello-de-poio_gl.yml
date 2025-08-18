@@ -1,6 +1,6 @@
 id: 277
 title: "Identidade do concello de Poio"
-slug: identidade-do-concello-de-poio
+basename: identidade-do-concello-de-poio
 body:
   - image: /img/portfolio/images/simbolo-marca-poio.jpg
     text: ""

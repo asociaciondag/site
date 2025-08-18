@@ -24,7 +24,7 @@ body:
     text: "Programa completo"
     type: button
 intro: "A cidade olívica acollerá os vindeiros 25 e 26 de abril unha nova edición deste espazo de encontro para profesionais e amadores/as da cultura contemporánea."
-slug: festival-creativa-vigo-2025
+basename: festival-creativa-vigo-2025
 tags:
   - "noticias socios/socias"
 lang: gl

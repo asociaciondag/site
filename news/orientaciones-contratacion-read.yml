@@ -16,7 +16,7 @@ body:
     text: "Documento de orientaciones"
     type: button
 intro: "READ, la Red Española de Asociaciones de Diseño, publica un nuevo documento que sirve para promover las buenas prácticas en la contratación de una deseñadora o un diseñador."
-slug: orientaciones-contratacion-read
+basename: orientaciones-contratacion-read
 tags: []
 lang: es
 draft: false

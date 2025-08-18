@@ -15,7 +15,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa0b3f08-logoartesaniagalicia.jpg
 intro: null
-slug: oferta-formativa-de-la-fundacion-centro-gallego-de-la-artesania-y-del-diseno-para-el-primer-cuatrimestre-del-ano
+basename: oferta-formativa-de-la-fundacion-centro-gallego-de-la-artesania-y-del-diseno-para-el-primer-cuatrimestre-del-ano
 tags: []
 lang: es
 draft: false

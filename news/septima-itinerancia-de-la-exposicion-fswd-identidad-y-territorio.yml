@@ -18,7 +18,7 @@ body:
     text: "Web FSWD"
     type: button
 intro: "«From Spain With Design», el proyecto expositivo de la Red Española de Asociaciones de Diseño llega a Madrid tras inaugurarse en Santiago de Compostela en 2021 e itinerar por Aveiro, Valencia, Murcia, Badajoz y Asturias. Estará ubicada en la Central del Diseño Matadero desde el 1 de febrero hasta el 17 de marzo."
-slug: septima-itinerancia-de-la-exposicion-fswd-identidad-y-territorio
+basename: septima-itinerancia-de-la-exposicion-fswd-identidad-y-territorio
 tags: []
 lang: es
 draft: false

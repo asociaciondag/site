@@ -1,6 +1,6 @@
 id: 165
 title: "Yakarta 2024"
-slug: yakarta-2024
+basename: yakarta-2024
 body:
   - image: /img/portfolio/images/573f3a0870d60-desarrollo-yakarta.jpg
     text: ""

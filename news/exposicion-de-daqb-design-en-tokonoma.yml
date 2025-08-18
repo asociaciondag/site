@@ -9,7 +9,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa149c68-expo-tokonoma.jpg
 intro: null
-slug: exposicion-de-daqb-design-en-tokonoma
+basename: exposicion-de-daqb-design-en-tokonoma
 tags: []
 lang: gl
 draft: false

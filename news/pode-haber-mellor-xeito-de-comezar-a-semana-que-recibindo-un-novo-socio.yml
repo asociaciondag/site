@@ -16,7 +16,7 @@ body:
     text: "Perfil de socio DAG"
     type: button
 intro: "Benvindo, Enrique!"
-slug: pode-haber-mellor-xeito-de-comezar-a-semana-que-recibindo-un-novo-socio
+basename: pode-haber-mellor-xeito-de-comezar-a-semana-que-recibindo-un-novo-socio
 tags: []
 lang: gl
 draft: false

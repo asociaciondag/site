@@ -1,6 +1,6 @@
 id: 230
 title: DROP
-slug: drop
+basename: drop
 body:
   - image: /img/portfolio/images/drop-v1-presentation-203.jpg
     text: ""

@@ -14,7 +14,7 @@ links:
     url: "https://www.instagram.com/fitobalduezaestudio/"
     type: link
 name: "Fito Baldueza"
-slug: fito-baldueza
+basename: fito-baldueza
 avatarBig: null
 avatar: /img/avatars/imaxe-perfil.png
 tags:

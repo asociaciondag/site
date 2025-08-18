@@ -14,7 +14,7 @@ body:
       ratio: ""
     type: embed
 intro: "Esperámosvos a todos no stand 51, un lugar de obrigada visita para todos aqueles que queirades saber un pouco máis do deseño galego"
-slug: a-dag-xa-esta-no-culturgal
+basename: a-dag-xa-esta-no-culturgal
 tags:
   - "actividades dag"
 lang: gl

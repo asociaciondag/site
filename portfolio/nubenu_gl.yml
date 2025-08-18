@@ -1,6 +1,6 @@
 id: 248
 title: NUBENU
-slug: nubenu
+basename: nubenu
 body:
   - image: /img/portfolio/images/nubenu.jpg
     text: ""

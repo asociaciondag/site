@@ -28,7 +28,7 @@ body:
       Esperamos que esta sea la primera de muchas otras ediciones de unos premios en los que el trabajo de los y las profesionales del diseño recibe el reconocimiento de la administración pública de Galicia.
     type: text
 intro: "El pasado vienres, 26 de febrero, se celebró la entrega de premios de la primeira edición de los [Premios Galicia de Innovación e Deseño](http://gain.xunta.gal/artigos/437/premios+galicia+innovacion+deseno+2020), promovidos por la Xunta de Galicia a través de la Axencia Galega de Innovación."
-slug: premios-galicia-innovacion-diseno-2020
+basename: premios-galicia-innovacion-diseno-2020
 tags:
   - "noticias socios/socias"
 lang: es

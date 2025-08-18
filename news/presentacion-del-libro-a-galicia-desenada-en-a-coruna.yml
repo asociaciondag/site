@@ -16,7 +16,7 @@ body:
       La entrada a la Sala Normal es libre hasta completar su capacidad. Habrá libros a la venta, aunque también pueden adquirirse en la web de la editora [Fabulatorio](https://fabulatorio.com/es).​ ​
     type: text
 intro: "Hoy jueves 12 de diciembre a las 20.00 ​h​ tendrá​ lugar en la Sala Cubo de Normal, en A Coruña, la presentación del volumen A Galicia deseñada, con autoría​ ​de Marcos Dopico, Cibrán Rico y Suso Vázquez, y coeditado entre Fabulatorio y la Universidade da Coruña."
-slug: presentacion-del-libro-a-galicia-desenada-en-a-coruna
+basename: presentacion-del-libro-a-galicia-desenada-en-a-coruna
 tags: []
 lang: es
 draft: false

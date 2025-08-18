@@ -1,6 +1,6 @@
 id: 207
 title: Kinetic
-slug: kinetic
+basename: kinetic
 body:
   - text: "Diseño de una familia tipográfica sin remates, de inspiración geométrica e influenciada en sus formas por el arte de Alexander Calder. Este proyecto incluye además el diseño de todo el material promocional: el móbil inspirado por las esculturas cinéticas de Calder, el muestrario tipográfico impreso, la [página web](http://www.kinetictypeface.com/), la [aplicación para móviles](https://itunes.apple.com/es/app/kinetic-notes/id1169177801?l=en&mt=8) gratuita, y un [cortometraje documental](https://vimeo.com/199140896) sobre el proyecto."
     type: text

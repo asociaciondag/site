@@ -9,7 +9,7 @@ body:
     mode: normal
     type: image
 intro: "Como sucede siempre que un nuevo socio llega a la DAG, le pedimos que se presente para que todos podamos ponerle cara y conocerlo un poquito mejor."
-slug: se-llama-angel-ramos-y-acaba-de-llegar-a-la-dag-bienvenido
+basename: se-llama-angel-ramos-y-acaba-de-llegar-a-la-dag-bienvenido
 tags: []
 lang: es
 draft: false

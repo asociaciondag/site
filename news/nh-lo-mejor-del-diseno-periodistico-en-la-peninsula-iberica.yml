@@ -14,7 +14,7 @@ body:
     text: ""
     type: image
 intro: "Lo Mejor del Diseño Periodístico de España y Portugal se conoce por dos letras: ñ y h. Este juego entre la ñ española y la ñ portuguesa (nh) se ha consolidado como referencia del diseño, no sólo en la Península Ibérica, sino en todo el mundo."
-slug: nh-lo-mejor-del-diseno-periodistico-en-la-peninsula-iberica
+basename: nh-lo-mejor-del-diseno-periodistico-en-la-peninsula-iberica
 tags: []
 lang: es
 draft: false

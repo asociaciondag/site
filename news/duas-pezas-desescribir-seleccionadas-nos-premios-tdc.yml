@@ -23,7 +23,7 @@ body:
     text: "Web Tokyo TDC"
     type: button
 intro: "Os socios Suso Vázquez e Cibrán Rico, do estudio [Desescribir](http://desescribir.com/), están de noraboa pola recente nominación do libro «Iremos al Sol/Towards the sun» de Regina Giménez e do cartel deseñado para a película ONS, como finalistas dos Premios Tokyo Type Directors Club."
-slug: duas-pezas-desescribir-seleccionadas-nos-premios-tdc
+basename: duas-pezas-desescribir-seleccionadas-nos-premios-tdc
 tags: []
 lang: gl
 draft: false

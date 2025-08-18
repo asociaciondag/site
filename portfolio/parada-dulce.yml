@@ -1,6 +1,6 @@
 id: 416
 title: "Parada Dulce"
-slug: parada-dulce
+basename: parada-dulce
 body:
   - image: /img/portfolio/images/parada-dulce-concepto-de-tienda.jpg
     text: ""

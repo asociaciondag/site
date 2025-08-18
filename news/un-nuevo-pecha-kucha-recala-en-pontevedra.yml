@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Queda abierta la convocatoria para recirbir vuestras propuestas si quereis participar en el segundo Pecha Kucha Night de Pontevedra, que tendrá lugar en la sala Karma el día 11 de diciembre."
-slug: un-nuevo-pecha-kucha-recala-en-pontevedra
+basename: un-nuevo-pecha-kucha-recala-en-pontevedra
 tags: []
 lang: es
 draft: false

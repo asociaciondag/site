@@ -11,7 +11,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa1be8a9-poner-as-cousas-en-orde.gif
 intro: null
-slug: el-lunes-11-de-junio-arranca-poner-cousas-en-orde
+basename: el-lunes-11-de-junio-arranca-poner-cousas-en-orde
 tags: []
 lang: es
 draft: false

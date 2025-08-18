@@ -1,6 +1,6 @@
 id: 286
 title: "María Victoria Moreno"
-slug: maria-victoria-moreno
+basename: maria-victoria-moreno
 body:
   - image: /img/portfolio/images/cartel-maria-victoria-moreno.jpg
     text: ""

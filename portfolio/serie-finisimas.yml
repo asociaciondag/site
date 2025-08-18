@@ -1,6 +1,6 @@
 id: 427
 title: "Serie finísimas"
-slug: serie-finisimas
+basename: serie-finisimas
 body:
   - image: /img/portfolio/images/serie-finiiiisima.jpg
     text: ""

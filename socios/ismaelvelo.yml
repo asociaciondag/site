@@ -11,7 +11,7 @@ links:
     url: "https://www.linkedin.com/in/ismaelvelofeijoo/"
     type: link
 name: "Ismael Velo"
-slug: ismaelvelo
+basename: ismaelvelo
 avatarBig: null
 avatar: /img/avatars/dsc-1210-square.jpg
 tags:

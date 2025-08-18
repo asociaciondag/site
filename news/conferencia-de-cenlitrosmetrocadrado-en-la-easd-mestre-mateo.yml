@@ -12,7 +12,7 @@ body:
       La entrada es libre hasta completar el aforo del salón de actos de la EASD Mestre Mateo (calle Virxe da Cerca, 32, 15706 Santiago de Compostela)
     type: text
 intro: "Este martes 12 de enero a las 12.30 h los diseñadores de Cenlitrometrocadrado se acercarán a la EASD Mestre Mateo para hablar de su trabajo."
-slug: conferencia-de-cenlitrosmetrocadrado-en-la-easd-mestre-mateo
+basename: conferencia-de-cenlitrosmetrocadrado-en-la-easd-mestre-mateo
 tags:
   - "noticias socios/socias"
 lang: es

@@ -30,7 +30,7 @@ body:
     text: "Web de Transferencias design"
     type: button
 intro: "Transferencias.Design Málaga2018 desenvolverase durante os días 19 e 20 de outubro de 2018 en dúas sedes malagueñas: a sala Unicaja María Cristina e o Museo do Patrimonio Municipal de Málaga (MUPAM)."
-slug: mana-comeza-transferencias-design-malaga-2018
+basename: mana-comeza-transferencias-design-malaga-2018
 tags: []
 lang: gl
 draft: false

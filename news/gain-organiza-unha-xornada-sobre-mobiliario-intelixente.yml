@@ -25,7 +25,7 @@ body:
     text: "Mobiliario intelixente"
     type: file
 intro: "A Axencia Galega de Innovación (Gain) a través do Centro de Innovación e Servizos Tecnolóxicos da Madeira (CIS-Madeira) organiza a xornada **Mobiliario Intelixente: Identificación de Oportunidades**. Nela expoñeranse distintas posibilidades tecnolóxicas e desenvolvementos específicos para o sector do moble, á vez que se presentan casos de éxito."
-slug: gain-organiza-unha-xornada-sobre-mobiliario-intelixente
+basename: gain-organiza-unha-xornada-sobre-mobiliario-intelixente
 tags: []
 lang: gl
 draft: false

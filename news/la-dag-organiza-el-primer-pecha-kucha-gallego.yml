@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Pontevedra acogerá la primera edición de un PECHA KUCHA NIGHT en Galicia"
-slug: la-dag-organiza-el-primer-pecha-kucha-gallego
+basename: la-dag-organiza-el-primer-pecha-kucha-gallego
 tags: []
 lang: es
 draft: false

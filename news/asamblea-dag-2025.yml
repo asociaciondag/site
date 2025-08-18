@@ -20,7 +20,7 @@ body:
       Comienza la singladura al 20 aniversario de DAG!
     type: text
 intro: "El singular centro sociocultural O Vello Cárcere acogió la asamblea anual de la DAG el pasado sábado 7 de junio."
-slug: asamblea-dag-2025
+basename: asamblea-dag-2025
 tags:
   - "actividades dag"
 lang: es

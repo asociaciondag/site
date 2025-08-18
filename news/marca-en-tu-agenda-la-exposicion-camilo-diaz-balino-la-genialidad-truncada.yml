@@ -16,7 +16,7 @@ body:
     text: "Camilo Díaz Baliño en el site del Día de la Ilustración"
     type: button
 intro: "Desde hace dos años y, por iniciativa de la AGPI, el Día de la Ilustración viene homenajeando a un gran ilustrador gallego que merece ser redescubierto por las nuevas generaciones. Este año, la figura elegida ha sido Camilo Díaz Baliño, quien, además de pintor, ilustrador, escenógrafo, ha sido también uno de los pioneros del diseño en Galicia."
-slug: marca-en-tu-agenda-la-exposicion-camilo-diaz-balino-la-genialidad-truncada
+basename: marca-en-tu-agenda-la-exposicion-camilo-diaz-balino-la-genialidad-truncada
 tags: []
 lang: es
 draft: false

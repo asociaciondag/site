@@ -18,7 +18,7 @@ body:
     text: "Ecosistema del diseño"
     type: button
 intro: "La finalización de la fase de estudio del Ecosistema del Diseño Español da paso a la publicación de los datos obtenidos en la plataforma web de consulta abierta, gracias a la colaboración de los y las profesionales del diseño de toda España."
-slug: datos-del-ecosistema-del-diseno
+basename: datos-del-ecosistema-del-diseno
 tags: []
 lang: es
 draft: false

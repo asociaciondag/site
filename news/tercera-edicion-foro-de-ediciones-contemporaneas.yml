@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "A edición independente será a protagonista do próximo foro de edicións contempóraneas que se celebrará en México no mes de decembro."
-slug: tercera-edicion-foro-de-ediciones-contemporaneas
+basename: tercera-edicion-foro-de-ediciones-contemporaneas
 tags: []
 lang: gl
 draft: false

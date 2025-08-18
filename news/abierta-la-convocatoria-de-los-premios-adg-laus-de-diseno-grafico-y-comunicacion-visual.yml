@@ -18,7 +18,7 @@ body:
     text: "Bases de los Premios Laus"
     type: button
 intro: "Arranca la 52ª edición de los premios ADG Laus donde los y las profesionales del diseño gráfico, la publicidad y la comunicación visual podrán inscribir sus mejores proyectos hasta el 14 de febrero de 2022."
-slug: abierta-la-convocatoria-de-los-premios-adg-laus-de-diseno-grafico-y-comunicacion-visual
+basename: abierta-la-convocatoria-de-los-premios-adg-laus-de-diseno-grafico-y-comunicacion-visual
 tags: []
 lang: es
 draft: false

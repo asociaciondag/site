@@ -11,7 +11,7 @@ links:
     url: "https://youtube.com/@AgarimoEstudio"
     type: facebook
 name: "Mónica Lemos"
-slug: monica-lemos
+basename: monica-lemos
 avatarBig: null
 avatar: /img/avatars/mo-nica-lemos-gira-ldez-1.png
 tags:

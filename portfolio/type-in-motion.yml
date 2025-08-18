@@ -1,6 +1,6 @@
 id: 30
 title: "Type in motion"
-slug: type-in-motion
+basename: type-in-motion
 body:
   - text: "O obxectivo do proxecto era presentar esta exposición do Museo de Deseño de Zúric cun ton didáctico e colorido, contraposta á imaxe sobria e fría con que foi presentada en Zúric."
     type: text

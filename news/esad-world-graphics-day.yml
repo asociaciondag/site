@@ -19,7 +19,7 @@ body:
     text: ""
     type: image
 intro: "[A Escola Superior de Artes e Deseño de Matosiños](http://www.esad.pt/pt/) conmemora o próximo 27 de abril o Día Mundial do Deseño Gráfico."
-slug: esad-world-graphics-day
+basename: esad-world-graphics-day
 tags: []
 lang: gl
 draft: false

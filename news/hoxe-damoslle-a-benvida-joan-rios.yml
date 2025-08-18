@@ -24,7 +24,7 @@ body:
     text: "Ficha de socio"
     type: button
 intro: "Un novo socio que se suma á DAG para traballar en prol do recoñecemento do deseño galego"
-slug: hoxe-damoslle-a-benvida-joan-rios
+basename: hoxe-damoslle-a-benvida-joan-rios
 tags:
   - "noticias socios/socias"
 lang: gl

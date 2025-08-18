@@ -1,6 +1,6 @@
 id: 397
 title: "Galería efímera, gráfica integral"
-slug: galeria-efimera-grafica-integral
+basename: galeria-efimera-grafica-integral
 body:
   - image: /img/portfolio/images/uv.jpg
     text: ""

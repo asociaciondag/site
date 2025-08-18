@@ -20,7 +20,7 @@ body:
     text: "Facebook do proxecto"
     type: button
 intro: "ORIGINAL Cruz Novillo é un estudo realizado por Vicent Almiñana e Irene Serrano (Conjunto) que ten como obxectivo achegar a obra de José María Cruz Novillo no campo da identidade visual a deseñadores e profesionais de calquera ámbito."
-slug: a-dag-xa-e-punto-de-copia-do-original-cruz-novillo
+basename: a-dag-xa-e-punto-de-copia-do-original-cruz-novillo
 tags: []
 lang: gl
 draft: false

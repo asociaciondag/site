@@ -24,7 +24,7 @@ body:
     mode: normal
     type: image
 intro: "Hace unos días se hacía pública la lista de seleccionados y ganadores en el Premio PhotoESPAÑA, el galardón que distingue a los libros de fotografía más destacados del año en tres categorías: nacional, internacional y libro autoeditado."
-slug: o-libro-de-vari-carames-lugares-entre-los-finalistas-de-photoespana
+basename: o-libro-de-vari-carames-lugares-entre-los-finalistas-de-photoespana
 tags:
   - "noticias socios/socias"
 lang: es

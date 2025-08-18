@@ -22,7 +22,7 @@ body:
     text: "Perfil de Carlos Hidalgo"
     type: button
 intro: "En esta ocasión damos la bienvenida a dos nuevos socios. Toni y Carlos son los nombres detrás del alma gráfica de Numax, un proyecto ampliamente conocido por su espíritu pionero e innovador. Esta cooperativa, contenedor de varias disciplinas del sector cultural, es un auténtico hervidero de ideas y proyectos a los que dan forma desde su laboratorio creativo."
-slug: antonio-donate-carlos-hidalgo-socios
+basename: antonio-donate-carlos-hidalgo-socios
 tags:
   - "noticias socios/socias"
 lang: es

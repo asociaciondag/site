@@ -1,6 +1,6 @@
 id: 12
 title: "Aviso legal"
-slug: aviso-legal
+basename: aviso-legal
 body:
   - text: |-
       La finalidad del presente aviso legal es regular los principios de acceso y las condiciones generales de uso de la web [dag.gal](http://dag.gal), así como establecer la política en materia de protección de datos de carácter personal (política de privacidad).

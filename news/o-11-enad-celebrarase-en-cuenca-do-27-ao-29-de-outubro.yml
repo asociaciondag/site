@@ -42,7 +42,7 @@ body:
     text: "Máis información e inscricións "
     type: button
 intro: "Do 27 ao 29 de outubro terá lugar en Cuenca o 11ENAD, o Encontro Nacional de Deseño que reúne ás trece asociacións READ e demais asistentes arredor dun programa amplo que pon en valor o deseño desde a ruralidade e desde a innovación socia​l​."
-slug: o-11-enad-celebrarase-en-cuenca-do-27-ao-29-de-outubro
+basename: o-11-enad-celebrarase-en-cuenca-do-27-ao-29-de-outubro
 tags: []
 lang: gl
 draft: false

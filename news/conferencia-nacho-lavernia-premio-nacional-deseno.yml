@@ -23,7 +23,7 @@ body:
     text: Inscricións
     type: button
 intro: "O vindeiro xoves 13 de xaneiro ás 18:00 h. no [CGAC,](https://cgac.xunta.gal/gl) Nacho Lavernia ofrecerá a conferencia «Exportar deseño e deseño para exportar» no marco da exposición «[FSWD: Identidade e territorio](https://fswd.es/expo/)»"
-slug: conferencia-nacho-lavernia-premio-nacional-deseno
+basename: conferencia-nacho-lavernia-premio-nacional-deseno
 tags: []
 lang: gl
 draft: false

@@ -24,7 +24,7 @@ body:
     text: "Web da Cociña Gráfica"
     type: button
 intro: "Será la próxima semana y la principal novedad de esta edición es que la jornada viaja a tres ciudades gallegas para facilitar la asistencia de todos los profesionales interesados."
-slug: ya-tenemos-fecha-para-la-v-jornada-de-la-cocina-grafica
+basename: ya-tenemos-fecha-para-la-v-jornada-de-la-cocina-grafica
 tags: []
 lang: es
 draft: false

@@ -28,7 +28,7 @@ body:
       Gracias a DAG por toda su labor y muy orgullosa y contenta de formar parte de la asociación.
     type: text
 intro: "Comenzamos el año con nuevas incorporaciones, entre ellas Mónica Lemos que desde Agarimo Estudio y Consultoría de Branding apuesta por estrategia y diseño para definir quienes somos, transmitirlo con fidelidad y así pertenecer a la sociedad y al mundo. Encantados de tenerte en la DAG, ¡bienvenida Mónica!"
-slug: nueva-incorporacion-a-la-dag-de-monica-lemos
+basename: nueva-incorporacion-a-la-dag-de-monica-lemos
 tags:
   - "noticias socios/socias"
 lang: es

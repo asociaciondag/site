@@ -20,7 +20,7 @@ body:
     text: "Web de OFFF Sevilla"
     type: button
 intro: "OFFF, o acontecemento internacional de referencia para a creatividade, chega por primeira vez a Sevilla, do 6 ao 9 de decembro no Teatro Lope de Vega e no Casino da Exposición."
-slug: offf-o-punto-de-encontro-para-mentes-creativas
+basename: offf-o-punto-de-encontro-para-mentes-creativas
 tags: []
 lang: gl
 draft: false

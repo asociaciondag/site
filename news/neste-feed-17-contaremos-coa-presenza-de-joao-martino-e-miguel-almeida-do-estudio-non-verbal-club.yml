@@ -21,7 +21,7 @@ body:
     text: 'FEED''17'
     type: button
 intro: "Ao João e ao Miguel gústalles definir os proxectos como un acto de equilibrio entre arte e tecnoloxía, entre racionalidade e poesía, entre expectación e sorpresa."
-slug: neste-feed-17-contaremos-coa-presenza-de-joao-martino-e-miguel-almeida-do-estudio-non-verbal-club
+basename: neste-feed-17-contaremos-coa-presenza-de-joao-martino-e-miguel-almeida-do-estudio-non-verbal-club
 tags:
   - "actividades dag"
 lang: gl

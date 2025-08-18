@@ -20,7 +20,7 @@ body:
     text: "Formulario de inscripción"
     type: button
 intro: "La Consellería de Economía, Emprego e Industria a través de la Axencia Galega para a Innovación, GAIN, organiza el próximo 28 de junio este segundo encuentro en el CIS Ferrol, conmemorando el día internacional del diseño industrial. Se presentará, además, la publicación _O deseño como motor. Casos de éxito en Galicia._"
-slug: ii-encuentro-de-diseno-para-la-innovacion-empresarial-en-galicia
+basename: ii-encuentro-de-diseno-para-la-innovacion-empresarial-en-galicia
 tags: []
 lang: es
 draft: false

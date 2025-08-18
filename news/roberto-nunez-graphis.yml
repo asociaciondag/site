@@ -23,7 +23,7 @@ body:
       Os Graphis, que levan máis de 75 anos valorando o deseño e comunicación visual, publican para cada edición un anuario. Nesta ocasión o traballo de Roberto Nuñez compartirá páxinas con proxectos para grandes marcas internacionáis como PepsiCo, Diageo, Xiaomi, Sogrape, ou Virgin, entre outras.
     type: text
 intro: "O palmarés dos históricos premios [Graphis Design Annual](https://www.graphis.com) inclúen este ano o nome do noso socio [Roberto Núñez](https://robertonunez.com/), que foi premiado con dous ouros e unha prata polos traballos realizados para dúas adegas galegas."
-slug: roberto-nunez-graphis
+basename: roberto-nunez-graphis
 tags:
   - "noticias socios/socias"
 lang: gl

@@ -24,7 +24,7 @@ body:
     text: "Más info"
     type: button
 intro: "Del 1 al 3 de abril la EASD Antonio Faílde organiza las IV Jornadas Crea de Arte y Diseño con un amplio programa de charlas y presentaciones de proyectos, con la participación de nuestro socio Ismael Velo.​​​"
-slug: iv-jornadas-de-arte-y-diseno-de-la-easd-antonio-failde
+basename: iv-jornadas-de-arte-y-diseno-de-la-easd-antonio-failde
 tags:
   - "Difusión eventos"
 lang: es

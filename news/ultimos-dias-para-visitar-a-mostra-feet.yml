@@ -19,7 +19,7 @@ body:
     text: ""
     type: image
 intro: "A exposición do feet que entra na súa recta final estará aberta ao público ata o vindeiro sábado 18 de decembro en horario de mañá e tarde."
-slug: ultimos-dias-para-visitar-a-mostra-feet
+basename: ultimos-dias-para-visitar-a-mostra-feet
 tags:
   - "actividades dag"
 lang: gl

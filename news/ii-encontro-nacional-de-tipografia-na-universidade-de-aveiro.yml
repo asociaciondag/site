@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "O próximo 30 de setembro terá lugar a segunda edición do Encontro Nacional de Tipografía que organiza o Departamento de Comunicación e Arte da [Universidade de Aveiro](http://www.ua.pt/) (DECA) a través do Centro de Estudos das Tecnoloxías e Ciencias da Comunicación (CETAC.MEDIA) e do Instituto de Investigación en Deseño Media e Cultura (ID+)."
-slug: ii-encontro-nacional-de-tipografia-na-universidade-de-aveiro
+basename: ii-encontro-nacional-de-tipografia-na-universidade-de-aveiro
 tags: []
 lang: gl
 draft: false

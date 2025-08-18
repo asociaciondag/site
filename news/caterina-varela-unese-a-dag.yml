@@ -16,7 +16,7 @@ body:
       Unha aperta e grazas pola acollida.
     type: text
 intro: "Presentamos a Caterina Varela, unha das recentes incorporacións á DAG, que traballa dentro do sector das artes vivas como deseñadora, artista e comisaria de proxectos. Aquí vos deixamos con ela. Benvida!"
-slug: caterina-varela-unese-a-dag
+basename: caterina-varela-unese-a-dag
 tags:
   - "noticias socios/socias"
 lang: gl

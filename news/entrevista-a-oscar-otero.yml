@@ -36,7 +36,7 @@ body:
     text: "Ir á páxina do FEED 2015"
     type: button
 intro: "Óscar Otero es un diseñador con más de doce anos de experiencia en el campo de la web. A nivel experimental ha realizado numerosos proyectos como la web tipográfica [letrag.com](http://letrag.com/)."
-slug: entrevista-a-oscar-otero
+basename: entrevista-a-oscar-otero
 tags:
   - "actividades dag"
 lang: es

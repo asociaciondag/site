@@ -29,7 +29,7 @@ body:
     text: Descargar
     type: file
 intro: "La relación entre el Diseño y la Gastronomía será la protagonista del Taller internacional de tendencias cerámicas que en esta cuarenta edición traerá a Cervo a diseñadores de todo el mundo para que intercambien y compartan sus experiencias."
-slug: los-encuentros-de-sargadelos-2011-analizaran-la-relacion-entre-el-diseno-y-la-gastronomia
+basename: los-encuentros-de-sargadelos-2011-analizaran-la-relacion-entre-el-diseno-y-la-gastronomia
 tags: []
 lang: es
 draft: false

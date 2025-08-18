@@ -21,7 +21,7 @@ body:
     text: Descargar
     type: file
 intro: "40ª edición dos premios internacionais Laus de deseño gráfico e a comunicación visual."
-slug: premios-laus-2010
+basename: premios-laus-2010
 tags: []
 lang: gl
 draft: false

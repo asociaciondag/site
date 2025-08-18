@@ -16,7 +16,7 @@ body:
     text: "Finalistas II Premios Paraugas"
     type: button
 intro: "A V edición deste foro decorrerá este venres 11 de novembro en Ourense. A nós fíxonos especial ilusión ver que entre os relatores deste ano figura o deseñador Pepe Barro, quen tamén será un dos homenaxeados na entrega dos Premios Paraugas que terá lugar ao acabar a xornada."
-slug: v-foro-da-comunicacion-de-galicia
+basename: v-foro-da-comunicacion-de-galicia
 tags: []
 lang: gl
 draft: false

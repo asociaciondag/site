@@ -20,7 +20,7 @@ body:
     text: "Más información"
     type: button
 intro: "Los próximos días 13, 14 y 15 de febrero la comunidad del diseño se traslada a Málaga, donde tendrá lugar la IV edición de Transferencias.design, un encuentro profesional que nace en 2016 y que este año se centra en las estrategias y la innovación en diseño y Administración Pública."
-slug: transferenciasdesign-2020
+basename: transferenciasdesign-2020
 tags: []
 lang: es
 draft: false

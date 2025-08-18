@@ -1,6 +1,6 @@
 id: 325
 title: "Clube Ciclista Velouzas"
-slug: velouzas
+basename: velouzas
 body:
   - image: /img/portfolio/images/velouzas.jpg
     text: ""

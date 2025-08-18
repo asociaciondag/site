@@ -35,7 +35,7 @@ body:
     mode: normal
     type: image
 intro: "En efecto, el nuevo libro de Pepe Barro _Máis que ver. Cen historias do deseño na Galiza_ está ya en la calle."
-slug: empieza-la-ronda-de-presentaciones-de-mais-que-ver
+basename: empieza-la-ronda-de-presentaciones-de-mais-que-ver
 tags:
   - "noticias socios/socias"
 lang: es

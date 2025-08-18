@@ -14,7 +14,7 @@ body:
       El nuevo acuerdo firmado con la Librería NUMAX permitirá a las personas asociadas a la DAG beneficiarse de un descuento del 5% en todas sus compras y el envío gratuito peninsular a partir de los 49€. Esta nueva colaboración establece además las bases para posibles actividades conjuntas, como presentaciones editoriales o exposiciones especializadas. Damos la bienvenida a la Librería NUMAX y a sus libreras como colaboradoras de la DAG.
     type: text
 intro: "La Asociación Gallega de Diseño sigue sumando colaboraciones con entidades y profesionales vinculados a la actividad profesional de diseñadoras y diseñadores. En esta ocasión anunciamos la firma de un acuerdo con la Librería NUMAX que, a pesar de tener tan solo 5 años de vida, ya es referencia en Santiago de Compostela."
-slug: libreria-numax-colaboracion
+basename: libreria-numax-colaboracion
 tags: []
 lang: es
 draft: false

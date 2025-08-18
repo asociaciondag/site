@@ -18,7 +18,7 @@ body:
       <https://www.ecosistemadeldiseño.es/>
     type: text
 intro: "La Secretaría de Estado de Universidades, Investigación, Desarrollo e Innovación promueve un estudio para caracterizar el sector del Diseño en España. De la dirección y coordinación se encarga el Barcelona Centre de Disseny, y también colabora la READ."
-slug: participa-en-la-recopilacion-de-datos-del-ecosistema-del-diseno-espanol
+basename: participa-en-la-recopilacion-de-datos-del-ecosistema-del-diseno-espanol
 tags: []
 lang: es
 draft: false

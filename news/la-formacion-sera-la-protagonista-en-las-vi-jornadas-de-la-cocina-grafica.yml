@@ -76,7 +76,7 @@ body:
     text: "La Cociña Gráfica"
     type: button
 intro: "En esta sexta edición, que se desarrollará entre el 11 y el 14 de febrero en Vigo, el programa de la Cociña Gráfica incluye varios talleres prácticos orientados a la adquisición de conocimientos en nuevas tecnologías y materiales y una jornada de puertas abiertas."
-slug: la-formacion-sera-la-protagonista-en-las-vi-jornadas-de-la-cocina-grafica
+basename: la-formacion-sera-la-protagonista-en-las-vi-jornadas-de-la-cocina-grafica
 tags: []
 lang: es
 draft: false

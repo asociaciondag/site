@@ -20,7 +20,7 @@ body:
     text: "Facebook del proyecto"
     type: button
 intro: "ORIGINAL Cruz Novillo es un estudio realizado por Vicent Almiñana e Irene Serrano (Conjunto) que tiene como objetivo acercar la obra de José María Cruz Novillo en el campo de la identidad visual a diseñadores y profesionales de cualquier ámbito."
-slug: la-dag-ya-es-punto-de-copia-del-original-cruz-novillo
+basename: la-dag-ya-es-punto-de-copia-del-original-cruz-novillo
 tags:
   - "actividades dag"
 lang: es

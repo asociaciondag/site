@@ -1,6 +1,6 @@
 id: 305
 title: "A Porta Aberta"
-slug: a-porta-aberta
+basename: a-porta-aberta
 body:
   - image: /img/portfolio/images/aportaaberta.jpg
     text: ""

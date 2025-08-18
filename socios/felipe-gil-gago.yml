@@ -15,7 +15,7 @@ links:
     url: "https://www.linkedin.com/pub/felipe-gil-gago/62/725/210"
     type: linkedin
 name: "Felipe Gil Gago"
-slug: felipe-gil-gago
+basename: felipe-gil-gago
 avatarBig: null
 avatar: /img/avatars/554cff513de9c-felipe-gil-gago.jpg
 tags:

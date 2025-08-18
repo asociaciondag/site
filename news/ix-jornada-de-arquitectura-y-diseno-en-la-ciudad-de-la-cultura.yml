@@ -27,7 +27,7 @@ body:
     text: "Inscripciones e información en la página del CMD"
     type: button
 intro: "El [Clúster de la Madera y el Diseño](http://clustermadeira.com/) (CMD) de Galicia organiza la IX Jornada de Arquitectura y Diseño."
-slug: ix-jornada-de-arquitectura-y-diseno-en-la-ciudad-de-la-cultura
+basename: ix-jornada-de-arquitectura-y-diseno-en-la-ciudad-de-la-cultura
 tags: []
 lang: es
 draft: false

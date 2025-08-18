@@ -17,7 +17,7 @@ body:
       O proxecto cucuducho, creado en 2015, aposta por unha filosofía de traballo na que o deseño, a cultura e os valores se unen para promover o consumo responsable e a fabricación local. A marca, especializada na creación e venda de produtos infantís (mobiliario e obxectos decorativos), pon o foco nun deseño coidado e nunha exhaustiva selección de materiais, fomentando a sostibilidade dos recursos.
     type: text
 intro: "A marca galega [cucuducho](https://cucuducho.com/cms/gl/) acaba de recibir o recoñecemento do xurado internacional nos prestixiosos A’ Design Award polo deseño do seu escritorio dobre _maijom_."
-slug: deseno-cucuducho-premio
+basename: deseno-cucuducho-premio
 tags:
   - "noticias socios/socias"
 lang: gl

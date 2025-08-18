@@ -32,7 +32,7 @@ body:
     mode: normal
     type: image
 intro: "El pasado martes 21 de julio una representación de la directiva de la DAG acudió a la Coruña para reunirse con José Manuel Sande, concejal de servicios sociales, cultura, educación y deporte del Ayuntamiento de A Coruña."
-slug: la-dag-se-ha-reunido-con-el-ayuntamiento-de-a-coruna-para-hablar-sobre-los-concursos-y-la-contratacion-del-diseno
+basename: la-dag-se-ha-reunido-con-el-ayuntamiento-de-a-coruna-para-hablar-sobre-los-concursos-y-la-contratacion-del-diseno
 tags:
   - concursos
 lang: es

@@ -9,7 +9,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa25bd7a-xurado-anuaria.jpg
 intro: null
-slug: la-dag-participa-por-primera-vez-como-jurado-en-la-v-edicion-de-los-premios-anuaria
+basename: la-dag-participa-por-primera-vez-como-jurado-en-la-v-edicion-de-los-premios-anuaria
 tags: []
 lang: es
 draft: false

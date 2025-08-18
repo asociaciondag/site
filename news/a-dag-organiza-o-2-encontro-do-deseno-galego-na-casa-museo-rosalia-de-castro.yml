@@ -22,7 +22,7 @@ body:
     text: "Web do Encontro"
     type: button
 intro: "Despois de varios intentos, por fin podemos «encontrarnos» e retomar este proxecto iniciado en Rianxo en 2015 con intención de compartir entre nós a experiencia da profesión. Será o sábado 27 de maio, na Casa-Museo Rosalía​ en Padrón.​​"
-slug: a-dag-organiza-o-2-encontro-do-deseno-galego-na-casa-museo-rosalia-de-castro
+basename: a-dag-organiza-o-2-encontro-do-deseno-galego-na-casa-museo-rosalia-de-castro
 tags:
   - "actividades dag"
 lang: gl

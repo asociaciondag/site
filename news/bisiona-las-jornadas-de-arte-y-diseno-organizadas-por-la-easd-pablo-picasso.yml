@@ -36,7 +36,7 @@ body:
     text: "Más información"
     type: button
 intro: "La 7ª edición de las Jornadas de Arte y Diseño que organiza la EASD Pablo Picasso de A Coruña, tendrá lugar en la propia escuela los días 24, 25 y 26 de enero. Este año cuentan con la presencia de los compañeros de Novagarda."
-slug: bisiona-las-jornadas-de-arte-y-diseno-organizadas-por-la-easd-pablo-picasso
+basename: bisiona-las-jornadas-de-arte-y-diseno-organizadas-por-la-easd-pablo-picasso
 tags: []
 lang: es
 draft: false

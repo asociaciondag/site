@@ -12,7 +12,7 @@ body:
       ratio: "66.406"
     type: embed
 intro: "El catálogo _Günther Förg_ diseñado por [desescribir](http://www.desescribir.com/) para la Fundación Luis Seoane acaba de ser reconocido con un Pencil en la categoría de Book Design/Entire Books."
-slug: pencil-en-los-d-ad-awards-para-desescribir-por-segundo-ano-consecutivo
+basename: pencil-en-los-d-ad-awards-para-desescribir-por-segundo-ano-consecutivo
 tags:
   - "noticias socios/socias"
 lang: es

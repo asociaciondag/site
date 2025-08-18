@@ -19,7 +19,7 @@ body:
     text: "Convocatoria de casos de éxito del diseño gallego"
     type: button
 intro: "Con el objetivo de poner en valor el diseño como factor de innovación, la Agencia Gallega de Innovación ([GAIN](http://gain.xunta.gal/)) a través de los Centros de Centros de Innovación y Servicios Tecnológicos de la Madera ([CIS-Madera](http://www.cismadeira.com/galego/inicial.html)) y del Diseño y la Tecnología ([CIS-Galicia](http://www.cisgalicia.org/gallego/index.html)) está promoviendo una iniciativa para identificar casos de éxito del diseño en Galicia con el fin de visibilizar y promocionar el potencial gallego en este ámbito."
-slug: casos-de-exito-del-diseno-gallego
+basename: casos-de-exito-del-diseno-gallego
 tags: []
 lang: es
 draft: false

@@ -8,7 +8,7 @@ links:
     url: "https://www.linkedin.com/in/xoseteiga/"
     type: link
 name: "Xosé Teiga"
-slug: xose-teiga
+basename: xose-teiga
 avatarBig: /img/avatars/xose-teiga-2023.jpg
 avatar: /img/avatars/xose-teiga-2023.jpg
 tags:

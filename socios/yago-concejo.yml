@@ -14,7 +14,7 @@ links:
     url: "https://www.linkedin.com/in/yagoconcejo/?originalSubdomain=es"
     type: linkedin
 name: "Yago Concejo"
-slug: yago-concejo
+basename: yago-concejo
 avatarBig: null
 avatar: /img/avatars/perfil-dag.jpg
 tags:

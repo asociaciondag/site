@@ -16,7 +16,7 @@ body:
       Este es mi resumen. Espero conoceros personalmente en alguno de los eventos de la DAG y tener la oportunidad de intercambiar opiniones. El potencial de diseño en Galicia es inmenso y estoy feliz de formar parte de él.
     type: text
 intro: "Estamos muy contentos de contar entre nuestras asociadas con [Mariola López](https://dag.gal/gl/mariola-lopez/), que desde Ámsterdam y su estudio [Lopezlab](https://www.lopezlab.com/en/) se incorpora a la DAG traspasando fronteras y sumando asociadas. ¡Bienvenida Mariola!"
-slug: desde-amsterdam-mariola-lopez-se-incorpora-a-la-dag
+basename: desde-amsterdam-mariola-lopez-se-incorpora-a-la-dag
 tags:
   - "noticias socios/socias"
 lang: es

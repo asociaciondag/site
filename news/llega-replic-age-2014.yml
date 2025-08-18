@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: 'Entre el día 23 y el 25 de mayo en la Central del Diseño de Matadero de Madrid tendrá lugar REPLIC\_AGE 2014, un multievento organizado por [DIMAD](http://www.dimad.org/) y Makespace Madrid cuyas inquietudes principales son la interacción entre diseñadores, comunidades de makers, fab labs y productores de maquinaria, software y servicios de manufactura digital.'
-slug: llega-replic-age-2014
+basename: llega-replic-age-2014
 tags: []
 lang: es
 draft: false

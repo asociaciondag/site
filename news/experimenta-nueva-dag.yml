@@ -14,7 +14,7 @@ body:
       Gracias a este nuevo acuerdo, las persoas asociadas a la DAG podrán beneficiarse de un descuento del 15% en la suscripción anual de la revista Experimenta y de un 5% en todas las obras de su fondo editorial. Esta línea de actuación, de colaboración con distintos agentes, permitirá avanzar en la divulgación del diseño, para fortalecer el sector y promover el conocimiento y estudio de la disciplina.
     type: text
 intro: "La Editorial Experimenta y la Asociación Galega de Deseño acaban de firmar un acuerdo de colaboración que tiene como objetivo común difundir la obra, reflexión e investigación de diseño."
-slug: experimenta-nueva-dag
+basename: experimenta-nueva-dag
 tags: []
 lang: es
 draft: false

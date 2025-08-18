@@ -1,6 +1,6 @@
 id: 392
 title: "Modelo UFO"
-slug: modelo-ufo
+basename: modelo-ufo
 body:
   - image: /img/portfolio/images/000-ufodsk.jpg
     text: ""

@@ -11,7 +11,7 @@ links:
     url: "https://twitter.com/miguelsabel"
     type: twitter
 name: "Miguel Sabel"
-slug: miguel-sabel
+basename: miguel-sabel
 avatarBig: null
 avatar: /img/avatars/566b05e43793b-miguel-sabel.jpeg
 tags:

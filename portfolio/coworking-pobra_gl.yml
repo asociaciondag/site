@@ -1,6 +1,6 @@
 id: 238
 title: "Coworking Pobra"
-slug: coworking-pobra
+basename: coworking-pobra
 body:
   - image: /img/portfolio/images/coworking-pobra-2016-branding-y-comunicacion-visual.jpg
     text: ""

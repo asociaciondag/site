@@ -26,7 +26,7 @@ body:
     text: "Web FEED 2021"
     type: button
 intro: "O FEED, o Foro de Deseño de carácter bianual que organiza a DAG, chega a súa sexta edición despois dun ano complicado, sen perder o espírito co que naceu: servir de punto de encontro para compartir experiencias entre estudantes e profesionais do deseño, tanto galegos como de ámbito nacional e internacional. Nesta edición conta co patrocinio oficial da Xunta de Galicia a través de AGADIC, e a colaboración do CGAC e do Museo do Pobo Galego."
-slug: chega-nova-edicion-feed-2021
+basename: chega-nova-edicion-feed-2021
 tags:
   - "actividades dag"
 lang: gl

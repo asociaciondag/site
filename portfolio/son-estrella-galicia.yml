@@ -1,6 +1,6 @@
 id: 338
 title: "SON Estrella Galicia"
-slug: son-estrella-galicia
+basename: son-estrella-galicia
 body:
   - image: /img/portfolio/images/son-estrella-galicia.jpg
     text: ""

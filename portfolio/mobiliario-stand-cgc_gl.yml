@@ -1,6 +1,6 @@
 id: 190
 title: "Mobiliario stand CGC"
-slug: mobiliario-stand-cgc
+basename: mobiliario-stand-cgc
 body:
   - text: "Deseño do mobiliario para a caseta do Consello Galego de Cooperativas, no Culturgal 2016. Proxecto xestionado e desenvolvido por 7H Coop."
     type: text

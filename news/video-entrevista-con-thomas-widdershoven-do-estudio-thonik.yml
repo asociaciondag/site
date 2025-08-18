@@ -11,7 +11,7 @@ body:
       [www.vimeo.com/etapesmag](http://www.vimeo.com/etapesmag)
     type: text
 intro: "**Thomas Widderhoven**, fundador xunto con **Nikki Gonnissen** do estudio holandés **Thonik**, explicanos o proceso de creación de varias das identidades visuais desenvolvidas por este estudio con sede en Amsterdam."
-slug: video-entrevista-con-thomas-widdershoven-do-estudio-thonik
+basename: video-entrevista-con-thomas-widdershoven-do-estudio-thonik
 tags: []
 lang: gl
 draft: false

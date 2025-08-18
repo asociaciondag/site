@@ -18,7 +18,7 @@ body:
       Un saludo y muchas gracias!
     type: text
 intro: "Llega la primavera y comenzamos la semana dándole la bienvenida a [Marta Castro](https://dag.gal/gl/marta-castro/) que desde su estudio [Hei Castro](https://www.heicastro.com/) en Lugo, ayuda a seguir sumando asociadas a la Asociación Galega de Deseño. Nos alegra mucho contar con ella. ¡Bienvenida!"
-slug: nueva-socia-llega-a-la-dag-desde-lugo-marta-castro
+basename: nueva-socia-llega-a-la-dag-desde-lugo-marta-castro
 tags:
   - "noticias socios/socias"
 lang: es

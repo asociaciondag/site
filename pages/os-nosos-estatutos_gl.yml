@@ -1,6 +1,6 @@
 id: 9
 title: "Os nosos Estatutos"
-slug: os-nosos-estatutos
+basename: os-nosos-estatutos
 body:
   - text: |-
       ## Título I. Denominación, fins e domicilio

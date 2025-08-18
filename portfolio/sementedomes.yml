@@ -1,6 +1,6 @@
 id: 119
 title: Sementedomes
-slug: sementedomes
+basename: sementedomes
 body:
   - text: "Sementedomes é un proxecto ecolóxico de carácter lúdico, conformado nun pack que ofrece información e material para levar a cabo unha horta urbana en Galicia. Está composto por un calendario, unha guía de horticultura, dous bolsos de pano e unha caixa de ovos que servirán de sementeiras. Os seus obxectivos son atraer todo tipo de público, dada a súa natureza desenfadada, ofrecer un deseño respectuoso co medio e difundir a cultura das hortas urbanas. O deseño baséase no movemento DIY, caracterízase pola súa limpeza e sinxeleza e utiliza como ferramentas alternativas a ilustración e o _hand lettering._"
     type: text

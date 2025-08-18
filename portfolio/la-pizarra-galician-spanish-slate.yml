@@ -1,6 +1,6 @@
 id: 11
 title: "La pizarra. Galician & Spanish Slate"
-slug: la-pizarra-galician-spanish-slate
+basename: la-pizarra-galician-spanish-slate
 body:
   - text: |-
       A principios do 2010, o arquitecto Carlos Quintáns encargounos darlle forma definitiva a un proxecto de libro, da súa autoría, que editaría o Cluster da Pizarra de Galicia.

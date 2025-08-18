@@ -20,7 +20,7 @@ body:
     text: "Web deseños minúsculos, valores maiúsculos"
     type: button
 intro: "Esta es la propuesta de la Ciudad de la Cultura para este mes de julio: cada martes un taller distinto con el que estimular la creatividad de los más pequeños de la mano de destacados profesionales del diseño, la ilustración, la artesanía y la moda."
-slug: un-programa-de-actividades-para-potenciar-la-curiosidad-de-los-ninos-por-el-diseno
+basename: un-programa-de-actividades-para-potenciar-la-curiosidad-de-los-ninos-por-el-diseno
 tags:
   - "noticias socios/socias"
 lang: es

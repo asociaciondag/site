@@ -26,7 +26,7 @@ body:
     text: "Flickr de la Asamblea READ 2022"
     type: button
 intro: "El pasado 11 de marzo las delegaciones de las diferentes asociaciones que conforman READ viajaron hasta Soria para​ celebrar su asamblea anual, dentro dunha programación más amplia organizada por [Dis Soria](http://disoria.com/), entidad anfitriona, y organismos colaboradores"
-slug: read-celebra-su-asamblea-anual-en-soria-con-la-aprobacion-del-codigo-deontologico
+basename: read-celebra-su-asamblea-anual-en-soria-con-la-aprobacion-del-codigo-deontologico
 tags: []
 lang: es
 draft: false

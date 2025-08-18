@@ -24,7 +24,7 @@ body:
     text: "Máis información"
     type: button
 intro: "Desde o pasado 11 de maio está aberta a convocatoria dunha nova edición dos Premios que asume un orzamento maior, ​cambios na nomenclatura dalgunhas categorías e engade ademais unha nova categoría, a de «Novo Talento Innovador». ​​"
-slug: convocada-a-edicion-2023-dos-premios-nacionais-de-innovacion-e-de-deseno
+basename: convocada-a-edicion-2023-dos-premios-nacionais-de-innovacion-e-de-deseno
 tags:
   - concursos
 lang: gl

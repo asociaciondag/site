@@ -14,7 +14,7 @@ body:
     text: ""
     type: image
 intro: "Tres empresas de diseño: [Cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/es/), [Ekinocio](http://www.ekinocio.com/) y [A navalla suíza](http://anavallasuiza.com/) suman sus fuerzas parasacar adelante Probeta, un programa de formación para diseñadores nada convencional."
-slug: probeta-un-programa-piloto-de-formacion-para-disenadores-que-combina-deseno-industrial-grafico-e-web
+basename: probeta-un-programa-piloto-de-formacion-para-disenadores-que-combina-deseno-industrial-grafico-e-web
 tags: []
 lang: es
 draft: false

@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "La AFEGA (Asociación para el Fomento de la Encuadernación de Arte), en colaboración con el Museo de las Peregrinaciones de Santiago y con la financiación de la Consellería de Cultura y Turismo de la Xunta de Galicia convoca un Concurso Internacional de Diseño y Encuadernación para un libro del peregrino en el que los diseñadores tienen que pagar por participar."
-slug: si-no-quieres-caldo
+basename: si-no-quieres-caldo
 tags: []
 lang: es
 draft: false

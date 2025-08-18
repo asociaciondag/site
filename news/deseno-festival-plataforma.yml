@@ -22,7 +22,7 @@ body:
     text: "Web Festival Plataforma"
     type: button
 intro: "Santiago de Compostela será o escenario dun festival de artes performativas que bota a andar esta semana: Plataforma. O seu programa inclúe accións, conversas, exposicións e concertos en distintos espazos da cidade."
-slug: deseno-festival-plataforma
+basename: deseno-festival-plataforma
 tags:
   - "noticias socios/socias"
 lang: gl

@@ -30,7 +30,7 @@ body:
     text: "Presentación de candidatura"
     type: button
 intro: "Ata o próximo 4 de xullo está aberta a convocatoria para presentar candidaturas aos Premios Nacionais de Innovación e Deseño 2024. Animamos a profesionais do deseño e á​s​ empresas da nosa comunidade a que se presenten."
-slug: premios-nacionais-de-innovacion-e-deseno
+basename: premios-nacionais-de-innovacion-e-deseno
 tags: []
 lang: gl
 draft: false

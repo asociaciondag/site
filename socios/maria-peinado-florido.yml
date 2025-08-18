@@ -11,7 +11,7 @@ links:
     url: "https://www.instagram.com/mariapeinadoflorido/"
     type: link
 name: "María Peinado"
-slug: maria-peinado-florido
+basename: maria-peinado-florido
 avatarBig: null
 avatar: /img/avatars/bio-maria-peinado.jpg
 tags:

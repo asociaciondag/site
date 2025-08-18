@@ -18,7 +18,7 @@ body:
     text: "Más info"
     type: button
 intro: "La Asociación Galega de Editoras celebrará a Isaac Díaz Pardo, en el año en el que se le dedica el Día de las Artes Gallegas, con una jornada centrada en su papel al frente de Ediciós do Castro."
-slug: jornada-isaac-editor
+basename: jornada-isaac-editor
 tags:
   - "noticias socios/socias"
 lang: es

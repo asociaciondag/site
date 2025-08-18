@@ -22,7 +22,7 @@ body:
     text: "Formulario de inscripción"
     type: button
 intro: "El próximo 28 de noviembre, tendrá lugar en el CIS Ferrol, una jornada de mañana dedicada a los diseñadores y diseñadoras que trabajan directamente con empresas con la finalidad de alcanzar el éxito empresarial promoviendo y potenciando el uso del diseño."
-slug: los-disenadores-como-factor-de-exito
+basename: los-disenadores-como-factor-de-exito
 tags: []
 lang: es
 draft: false

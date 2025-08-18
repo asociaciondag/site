@@ -13,7 +13,7 @@ body:
     text: Descargar
     type: file
 intro: "Se publica en el Diario Oficial de Galicia la convocatoria de las subvenciones para la financiación de proyectos de innovación tecnológica relacionados con el Xacobeo 2010."
-slug: subvencion-conselleria-de-economia-y-industria
+basename: subvencion-conselleria-de-economia-y-industria
 tags: []
 lang: es
 draft: false

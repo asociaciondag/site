@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Desde finales de enero y hasta el próximo 31 de mayo de 2015 puede visitarse en el MARCO de Vigo **Francisco Mantecón. Pasión y cálculo.**"
-slug: francisco-mantecon-pasion-y-calculo-en-el-marco-de-vigo
+basename: francisco-mantecon-pasion-y-calculo-en-el-marco-de-vigo
 tags: []
 lang: es
 draft: false

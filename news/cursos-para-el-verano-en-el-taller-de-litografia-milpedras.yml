@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "El [Taller de Litografía Milpedras](http://www.milpedras.com/es/) acaba de abrir el plazo de inscripción en sus cursos para el mes de agosto y septiembre. La programación didáctica del taller se inaugura con las Jornadas de autoedición gráfica para artistas que [Alberto Carballido](http://www.albertocarballido.com/) impartirá del 22 al 27 de agosto en horario de 16.00 a 20.30 h."
-slug: cursos-para-el-verano-en-el-taller-de-litografia-milpedras
+basename: cursos-para-el-verano-en-el-taller-de-litografia-milpedras
 tags: []
 lang: es
 draft: false

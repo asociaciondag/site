@@ -1,6 +1,6 @@
 id: 298
 title: "Sony PSP"
-slug: sony-psp
+basename: sony-psp
 body:
   - text: "Ilustración de una consola Sony PSP totalmente vectorial creada en Adobe Illustrator."
     type: text

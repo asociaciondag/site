@@ -1,6 +1,6 @@
 id: 97
 title: "Premios Auditorio de Galicia"
-slug: premios-auditorio-de-galicia
+basename: premios-auditorio-de-galicia
 body:
   - text: |-
       Sexta edición do Premio Auditorio de Galicia para Novos Artistas, este proxecto é xa un referente para os creadores emerxentes galegos.

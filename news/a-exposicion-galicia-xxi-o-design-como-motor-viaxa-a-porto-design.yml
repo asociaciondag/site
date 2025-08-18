@@ -25,7 +25,7 @@ body:
     mode: normal
     type: image
 intro: "O deseño galego contará cun espazo propio na [Porto Design Biennale](https://portodesignbiennale.pt/) a iniciativa da Consellería de Economía, Emprego e Industria, a través do Programa de Deseño para a Innovación 2020 da Axencia Galega de Innovación (GAIN) e coa colaboración do Grupo Finsa."
-slug: a-exposicion-galicia-xxi-o-design-como-motor-viaxa-a-porto-design
+basename: a-exposicion-galicia-xxi-o-design-como-motor-viaxa-a-porto-design
 tags:
   - "noticias socios/socias"
 lang: gl

@@ -17,7 +17,7 @@ body:
     text: Descargar
     type: file
 intro: "Del 23 al 26 de junio, Albarracín acoge la IV edición del Curso internacional de ilustración y diseño gráfico dirigido por Grassa Toro e Isidro Ferrer."
-slug: iv-curso-internacional-de-ilustracion-e-deseno-grafico-cheo-baleiro-e-a-medias
+basename: iv-curso-internacional-de-ilustracion-e-deseno-grafico-cheo-baleiro-e-a-medias
 tags: []
 lang: gl
 draft: false

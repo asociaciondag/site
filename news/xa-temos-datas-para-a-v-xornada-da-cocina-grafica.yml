@@ -24,7 +24,7 @@ body:
     text: "Web da Cociña Gráfica"
     type: button
 intro: "Será a próxima semana e a principal novidade desta edición é que a xornada viaxa a tres cidades galegas para facilitar a asistencia de todos os profesionais interesados."
-slug: xa-temos-datas-para-a-v-xornada-da-cocina-grafica
+basename: xa-temos-datas-para-a-v-xornada-da-cocina-grafica
 tags: []
 lang: gl
 draft: false

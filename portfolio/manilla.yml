@@ -1,6 +1,6 @@
 id: 424
 title: Manilla
-slug: manilla
+basename: manilla
 body:
   - image: /img/portfolio/images/manilla-triangulo-1.jpg
     text: ""

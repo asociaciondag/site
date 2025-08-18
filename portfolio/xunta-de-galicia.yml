@@ -1,6 +1,6 @@
 id: 343
 title: "Xunta de Galicia"
-slug: xunta-de-galicia
+basename: xunta-de-galicia
 body:
   - image: /img/portfolio/images/xunta-de-galicia.jpg
     text: ""

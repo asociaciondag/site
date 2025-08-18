@@ -17,7 +17,7 @@ links:
     url: "https://www.linkedin.com/in/manueldelrioregos"
     type: linkedin
 name: "Manuel del Río Regos"
-slug: manuel-del-rio-regos
+basename: manuel-del-rio-regos
 avatarBig: null
 avatar: /img/avatars/554cf8c81eae6-manuel-del-rio-regos.jpg
 tags:

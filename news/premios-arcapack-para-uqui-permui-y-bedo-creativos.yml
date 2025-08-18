@@ -18,7 +18,7 @@ body:
     text: "Web de los premios"
     type: button
 intro: "La sexta edición de los Premios Arcapack España acaban de comunicar los ganadores de este año 2024. Entre las Selecciones Especiales econtramos tres trabajos del compañero Pablo Álvarez, de BeDo, y uno de Uqui Permui. ¡Felicidades!"
-slug: premios-arcapack-para-uqui-permui-y-bedo-creativos
+basename: premios-arcapack-para-uqui-permui-y-bedo-creativos
 tags:
   - "noticias socios/socias"
 lang: es

@@ -105,7 +105,7 @@ body:
     text: "Conecta 2019"
     type: button
 intro: "Febrero será el mes del arte y del diseño gracias a las jornadas Conecta que organiza la EASD Ramón Falcón, y que se desarrollarán entre el 11 y el 28 en la propia escuela de Diseño de Lugo y en el espacio Novo Cárcere."
-slug: empieza-la-segunda-edicion-de-conecta-de-la-easd-ramon-falcon
+basename: empieza-la-segunda-edicion-de-conecta-de-la-easd-ramon-falcon
 tags: []
 lang: es
 draft: false

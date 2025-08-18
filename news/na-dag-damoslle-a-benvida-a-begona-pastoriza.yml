@@ -28,7 +28,7 @@ body:
       Bikiños!
     type: text
 intro: "[Begoña Pastoriza](https://dag.gal/es/begona-pastoriza/) é socia da DAG desde o ano 2020. Hoxe, fai a súa presentación oficial e comparte con nós a súa experiencia e as súas inquietudes nesta nova etapa. Estamos encantadas de darche a benvida, Begoña!"
-slug: na-dag-damoslle-a-benvida-a-begona-pastoriza
+basename: na-dag-damoslle-a-benvida-a-begona-pastoriza
 tags:
   - "noticias socios/socias"
 lang: gl

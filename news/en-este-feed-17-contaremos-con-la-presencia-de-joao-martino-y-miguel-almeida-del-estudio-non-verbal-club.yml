@@ -21,7 +21,7 @@ body:
     text: 'FEED''17'
     type: button
 intro: "A João y a Miguel les gusta definir los proyectos como un acto de equilibrio entre arte y tecnología, entre racionalidad y poesía, entre expectación y sorpresa."
-slug: en-este-feed-17-contaremos-con-la-presencia-de-joao-martino-y-miguel-almeida-del-estudio-non-verbal-club
+basename: en-este-feed-17-contaremos-con-la-presencia-de-joao-martino-y-miguel-almeida-del-estudio-non-verbal-club
 tags:
   - "actividades dag"
 lang: es

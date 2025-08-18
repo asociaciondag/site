@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "La Junta Directiva de READ, asociación a la que pertenece DAG, escribe una carta abierta al Ministro de Economía y Competitividad del Gobierno de España criticando la medida y exigiendo una Política Nacional del Diseño."
-slug: los-premios-nacionales-de-diseno-2014-no-seran-convocados
+basename: los-premios-nacionales-de-diseno-2014-no-seran-convocados
 tags: []
 lang: es
 draft: false

@@ -9,7 +9,7 @@ body:
       Desde aquí, a Asociación Galega de Deseñadores ponse a disposición destas institucións, e de todas as que o precisen, co obxectivo de contribuír a acadar unha axeitada e proveitosa relación cos profesionais do deseño, xa que sería beneficioso para todas as partes que se creen pontes e dinámicas transversais entre distintos profesionais e entre estes e as institucións.
     type: text
 intro: "Non é a primeira vez, nin será a última, que temos que posicionarnos ante unha práctica, por desgraza bastante habitual, como é a dos concursos."
-slug: a-voltas-cos-concursos
+basename: a-voltas-cos-concursos
 tags:
   - concursos
 lang: gl

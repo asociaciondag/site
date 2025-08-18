@@ -8,7 +8,7 @@ links:
     url: "https://www.instagram.com/levedar_estudio/"
     type: facebook
 name: "Paula Cristino"
-slug: paula-cristino
+basename: paula-cristino
 avatarBig: null
 avatar: /img/avatars/paula-cristino.jpeg
 tags:

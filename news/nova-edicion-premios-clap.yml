@@ -24,7 +24,7 @@ body:
     text: "Formulario de inscrición"
     type: button
 intro: "Os Premios Internacionais de Deseño Gráfico e Industrial CLAP lanzan unha nova convocatoria para inscribir traballos realizados entre os anos 2019 e 2020."
-slug: nova-edicion-premios-clap
+basename: nova-edicion-premios-clap
 tags: []
 lang: gl
 draft: false

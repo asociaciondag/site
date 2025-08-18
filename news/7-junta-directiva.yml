@@ -12,7 +12,7 @@ body:
       La Asamblea General de la DAG, que habitualmente organiza alguna actividad paralela a la reunión anual, tuvo en esta ocasión una dinámica diferente. Si bien la distancia no permitió un encuentro persoal, la celebración _online_ facilitó la conexión de socios y socias que de otra manera non hubiesen podido asistir. La asistencia y participación fue amplia y la experiencia igualmente positiva. Esta asamblea, poco ordinaria para la Asociación, establece un punto de partida para dinámicas de interacción que más que nuevas ya empiezan a convertirse en habituales.
     type: text
 intro: "El pasado sábado, 27 de junio, la Asociación Gallega de Diseño celebró su Asamblea General anual. En esta ocasión, con el objetivo de minimizar riesgos innecesarios y facilitar la presencia de socios y socias que residen y trabajan fuera de Galicia, la reunión fue _online_."
-slug: 7-junta-directiva
+basename: 7-junta-directiva
 tags:
   - "actividades dag"
 lang: es

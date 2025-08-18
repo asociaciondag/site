@@ -29,7 +29,7 @@ body:
     text: Logaliza
     type: button
 intro: "Dentro del programa de actividades paralelas a la exposición «A Galicia deseñada», y después de la primera charla ofrecida por Pepe Barro el pasado martes en Normal (UDC), el 17 de noviembre a las 19:30 h se organiza la mesa redonda «Círculos y cuadrados, diseñar también es una cuestión de género» con la presencia de las diseñadoras Lía Santana, Uqui Permui, Nuria Carballo, Raquel Boo y Thais Suárez."
-slug: mesa-redonda-circulos-y-cuadrados-disenar-tambien-es-una-cuestion-de-genero
+basename: mesa-redonda-circulos-y-cuadrados-disenar-tambien-es-una-cuestion-de-genero
 tags: []
 lang: es
 draft: false

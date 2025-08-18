@@ -1,6 +1,6 @@
 id: 260
 title: "Cartel para El acorazado Potemkin"
-slug: cartel-para-el-acorazado-potemkin
+basename: cartel-para-el-acorazado-potemkin
 body:
   - text: "Swiss Style Design es un proyecto sin ánimo de lucro con un objetivo claro: conformar un escaparate del diseño suízo a través de carteles de películas. Mi propuesta para tal convocatoria fue este cartel de _El acorazado Potemkin._ A raíz de este trabajo han ido saliendo otras propuestas que conforman un proyecto personal propio."
     type: text

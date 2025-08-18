@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Esta mañana en Santiago dió comienzo la primera jornada dol seminario (R) evolution design. Design thinking."
-slug: comienza-el-seminario-r-evolution-design
+basename: comienza-el-seminario-r-evolution-design
 tags: []
 lang: es
 draft: false

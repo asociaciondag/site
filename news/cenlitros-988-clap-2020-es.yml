@@ -23,7 +23,7 @@ body:
     text: "Lista de premiados"
     type: button
 intro: "Los Premios Internacionales de Diseño Clap acaban de anunciar su lista de ganadores para la edición 2020, en ella encontramos los trabajos de tres socios y compañeros de la DAG: Xabier Rilo y Ricardo Tubío del estudio [Cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/?lang=gl) y Daniel Vila del estudio [988](https://www.988.gal/)."
-slug: cenlitros-988-clap-2020-es
+basename: cenlitros-988-clap-2020-es
 tags:
   - "noticias socios/socias"
 lang: es

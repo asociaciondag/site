@@ -2,7 +2,7 @@ id: 50
 contact: null
 links: []
 name: "Marcos Vila"
-slug: marcos-vila
+basename: marcos-vila
 avatarBig: null
 avatar: /img/avatars/dag.jpg
 tags: []

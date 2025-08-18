@@ -18,7 +18,7 @@ body:
       Todos los socios de la DAG tienen un 15% de descuento en su inscripción
     type: text
 intro: "La Asociación de Diseñadores Gráficos y Directores de Arte del FAD (ADG-FAD) abrió esta semana la convocatoria para inscribirse en la 46ª edición de los Premios Laus de Diseño Gráfico y Comunicación Visual. A ella se pueden presentar todos los trabajos impresos, publicados, emitidos, visionados online o editados durante el año 2015 en las siguientes categorías: Diseño Gráfico, Digital, Publicidad, Audiovisuales y Estudiantes."
-slug: se-abre-la-convocatoria-para-participar-en-la-46-edicion-de-los-premios-laus
+basename: se-abre-la-convocatoria-para-participar-en-la-46-edicion-de-los-premios-laus
 tags: []
 lang: es
 draft: false

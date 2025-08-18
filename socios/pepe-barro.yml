@@ -8,7 +8,7 @@ links:
     url: "https://twitter.com/BarroDesign"
     type: twitter
 name: "Pepe Barro"
-slug: pepe-barro
+basename: pepe-barro
 avatarBig: null
 avatar: /img/avatars/554cf137e5271-pepe-barro.jpg
 tags:

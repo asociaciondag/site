@@ -17,7 +17,7 @@ body:
     text: ""
     type: image
 intro: "Xa está aberta a convocatoria para o primeiro Creative Review Type Annual. Organizada pola publicación Creative Review, busca os mellores deseños tipográficos realizados nos últimos 12 meses. O Type Annual espera reunir os mellores deseños tipográficos, os máis innovadores e excitantes dende outubro de 2009 a outubro de 2010."
-slug: creative-review-type-annual
+basename: creative-review-type-annual
 tags: []
 lang: gl
 draft: false

@@ -1,6 +1,6 @@
 id: 330
 title: "Oficina Municipal de Rehabilitación e Vivenda do Concello da Coruña"
-slug: oficina-vivenda-coruna
+basename: oficina-vivenda-coruna
 body:
   - image: /img/portfolio/images/concello-acoruna.jpg
     text: ""

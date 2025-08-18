@@ -23,7 +23,7 @@ body:
     text: ""
     type: image
 intro: "O deseño galego esperta interese, ou cando menos iso parece, a teor do numeroso público que o venres pola tarde ateigaba o Auditorio do CGAC en Compostela na presentación de Acción DAG."
-slug: desmontando-topicos-sobre-o-deseno-galego
+basename: desmontando-topicos-sobre-o-deseno-galego
 tags: []
 lang: gl
 draft: false

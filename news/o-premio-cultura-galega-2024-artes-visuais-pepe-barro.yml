@@ -22,7 +22,7 @@ body:
     text: "Máis información"
     type: button
 intro: "Na comunidade do deseño celebramos o recoñecemento ao compañeiro Pepe Barro nestes galardóns cos que anualmente a Xunta de Galicia distingue proxectos, traxectorias e iniciativas que enriquecen a realidade e identidade cultural galega."
-slug: o-premio-cultura-galega-2024-artes-visuais-pepe-barro
+basename: o-premio-cultura-galega-2024-artes-visuais-pepe-barro
 tags:
   - "noticias socios/socias"
 lang: gl

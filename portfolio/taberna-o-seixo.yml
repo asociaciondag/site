@@ -1,6 +1,6 @@
 id: 163
 title: "Taberna O Seixo"
-slug: taberna-o-seixo
+basename: taberna-o-seixo
 body:
   - image: /img/portfolio/images/573f376f122ae-presentacion-seixo-bh.jpg
     text: ""

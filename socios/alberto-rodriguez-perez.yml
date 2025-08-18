@@ -11,7 +11,7 @@ links:
     url: "https://www.facebook.com/albertorrp"
     type: facebook
 name: "Alberto Rodriguez Pérez"
-slug: alberto-rodriguez-perez
+basename: alberto-rodriguez-perez
 avatarBig: null
 avatar: /img/avatars/alberto-rodriguez-perez-perfil.jpg
 tags:

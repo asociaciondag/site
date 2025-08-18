@@ -20,7 +20,7 @@ body:
     text: "Finalistas Premios Room 2025"
     type: button
 intro: "Rematamos o mes de xuño con asociados premiados en diferentes certames. Novagarda coseguiu o Laus de Ouro na categoría de deseño de _website_ transaccional, e Idoia Cuesta o Premio Room na categoría de artesanía _art design_."
-slug: idoia-cuesta-e-novagarda-premiados
+basename: idoia-cuesta-e-novagarda-premiados
 tags:
   - "noticias socios/socias"
 lang: gl

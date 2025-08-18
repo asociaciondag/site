@@ -5,7 +5,7 @@ links:
     url: "http://jweeden.com"
     type: link
 name: "John Weeden"
-slug: john-weeden
+basename: john-weeden
 avatarBig: null
 avatar: /img/avatars/john-weeden.jpg
 tags:

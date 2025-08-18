@@ -88,7 +88,7 @@ body:
       © Las imágenes contenidas en el artículo pertenecen a [Galiciana-Biblioteca Dixital de Galicia](http://www.galiciana.bibliotecadegalicia.xunta.es/gl/inicio/inicio.do).
     type: text
 position: null
-slug: el-diseno-historia-prensa-gallega-ii
+basename: el-diseno-historia-prensa-gallega-ii
 cover: /img/articles/covers/0-cabeceira.jpg
 lang: es
 draft: false

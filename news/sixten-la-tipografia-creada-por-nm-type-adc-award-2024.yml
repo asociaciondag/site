@@ -18,7 +18,7 @@ body:
     text: "Web de los Premios ADC Awards"
     type: button
 intro: "La tipografía Sixten, creada por la socia María Ramos y su compañero en NM type, Noel Pretorius, ha llevado una Mención de Honor en los ADC Awards 2024, los más antiguos del sector de la comunicación visual."
-slug: sixten-la-tipografia-creada-por-nm-type-adc-award-2024
+basename: sixten-la-tipografia-creada-por-nm-type-adc-award-2024
 tags:
   - "noticias socios/socias"
 lang: es

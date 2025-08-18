@@ -14,7 +14,7 @@ body:
       El Premio Nacional de Diseño en la modalidad «Jóvenes Creadores» ha sido para las hermanas Eva y Marta del estudio [Yarza Twins](https://yarzatwins.com/), valoradas por el jurado «por su habilidad para conseguir soluciones diferenciadas y sorprendentes, trascendiendo al ámbito internacional».
     type: text
 intro: "El Ministerio de Ciencia e Innovación ha anunciado los ganadores de los [Premios Nacionales de Innovación y de Diseño](https://www.ciencia.gob.es/portal/site/MICINN/menuitem.8ce192e94ba842bea3bc811001432ea0/?vgnextoid=30b05b23f3083710VgnVCM1000001d04140aRCRD&vgnextrefresh=1), tres en la categoría de innovación y tres en la categoría de diseño, donde además ha habido dos menciones especiales."
-slug: premios-nacionales-diseno-2020
+basename: premios-nacionales-diseno-2020
 tags:
   - "noticias socios/socias"
 lang: es

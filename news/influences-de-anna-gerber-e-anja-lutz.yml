@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Baixo a forma dun léxico, este dicionario das influencias e referencias do Deseño Gráfico constitúe un valioso instrumento de investigación e unha rica fonte de inspiración para todos os deseñadores."
-slug: influences-de-anna-gerber-e-anja-lutz
+basename: influences-de-anna-gerber-e-anja-lutz
 tags: []
 lang: gl
 draft: false

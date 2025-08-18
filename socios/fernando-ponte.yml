@@ -14,7 +14,7 @@ links:
     url: "https://www.linkedin.com/in/fplens/?originalSubdomain=es"
     type: linkedin
 name: "Fernando Ponte"
-slug: fernando-ponte
+basename: fernando-ponte
 avatarBig: null
 avatar: /img/avatars/fernando-ponte.jpg
 tags:

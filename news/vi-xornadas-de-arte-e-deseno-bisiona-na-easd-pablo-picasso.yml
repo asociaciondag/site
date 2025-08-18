@@ -35,7 +35,7 @@ body:
     text: "Máis información"
     type: button
 intro: "Do 14 ao 16 de decembro, a EASD Pablo Picasso organiza as VI Xornadas de Arte e Deseño «Bisiona», que reúne a profesionais de diversos ámbitos da arte, da artesanía e do deseño, co obxectivo de achegar a experiencia dos e das profesionais de cada un dos sectores ao alumnado e ao público xeral. Nesta ocasión, participan os compañeiros de [Desoños](https://www.desonhos.gal/)."
-slug: vi-xornadas-de-arte-e-deseno-bisiona-na-easd-pablo-picasso
+basename: vi-xornadas-de-arte-e-deseno-bisiona-na-easd-pablo-picasso
 tags:
   - "actividades dag"
 lang: gl

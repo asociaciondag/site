@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Hoy se cumplen cinco años de la constitución de la Asociación Gallega de Diseñadores y de aquella primera asamblea, un 30 de junio de 2006, en el Auditorio de Galicia en Santiago de Compostela."
-slug: cinco-anos-de-asociacion-gallega-de-disenadores
+basename: cinco-anos-de-asociacion-gallega-de-disenadores
 tags: []
 lang: es
 draft: false

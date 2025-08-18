@@ -139,7 +139,7 @@ body:
       \* Este artigo foi traducido ao galego por Jorge Vicente Díaz.
     type: text
 position: null
-slug: volva-vostede-mana
+basename: volva-vostede-mana
 cover: /img/articles/covers/inmigracion.jpg
 lang: gl
 draft: false

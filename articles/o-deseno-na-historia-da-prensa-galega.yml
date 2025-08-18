@@ -58,7 +58,7 @@ body:
       © Imaxes contidas no artigo: [Galiciana-Biblioteca Dixital de Galicia](http://www.galiciana.bibliotecadegalicia.xunta.es/gl/inicio/inicio.do).
     type: text
 position: null
-slug: o-deseno-na-historia-da-prensa-galega
+basename: o-deseno-na-historia-da-prensa-galega
 cover: /img/articles/covers/cabeceira.jpg
 lang: gl
 draft: false

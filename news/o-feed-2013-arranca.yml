@@ -41,7 +41,7 @@ body:
     text: ""
     type: image
 intro: "Mañá venres, día 18 de outubro, darán comezo as actividades do foro de edición e deseño, feed 2013."
-slug: o-feed-2013-arranca
+basename: o-feed-2013-arranca
 tags:
   - "actividades dag"
 lang: gl

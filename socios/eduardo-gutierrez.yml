@@ -5,7 +5,7 @@ links:
     url: "http://www.egutierrez.es/portfolio/"
     type: link
 name: "Eduardo Gutiérrez"
-slug: eduardo-gutierrez
+basename: eduardo-gutierrez
 avatarBig: null
 avatar: /img/avatars/foto-eduardo-gutierrez.jpg
 tags:

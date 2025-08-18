@@ -29,7 +29,7 @@ body:
       A nova imaxe, que fai referencia a formas que se repiten na arquitectura e na ourivaría, atopou o seu fío condutor nun peite do Tesouro de Caldas. Un «M» que xoga coas formas e as contraformas convértese así na nova imaxe do Museo, sintetizando a idea da institución nunha marca adaptada a un novo tempo.
     type: text
 intro: "O pasado xoves, 16 de xullo, presentouse en Pontevedra a nova identidade do Museo. Un acto no que se descubriu a peza escultórica coa forma do novo símbolo, que xa preside a praza de acceso ao Sexto Edificio."
-slug: museo-pontevedra-renova-imaxe
+basename: museo-pontevedra-renova-imaxe
 tags:
   - concursos
 lang: gl

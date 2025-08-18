@@ -18,7 +18,7 @@ body:
     text: "Web dos Premios"
     type: button
 intro: "Xa se coñecen os proxectos finalistas dos IX Premios Paraugas onde temos que destacar a nominación ​dos socios Ana Besada e León López na categoría de Deseño de Produto."
-slug: a-ix-edicion-dos-premios-paraugas-xa-tenen-finalistas
+basename: a-ix-edicion-dos-premios-paraugas-xa-tenen-finalistas
 tags:
   - "noticias socios/socias"
 lang: gl

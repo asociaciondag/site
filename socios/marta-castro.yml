@@ -8,7 +8,7 @@ links:
     url: "https://www.instagram.com/heicastrostudio/"
     type: facebook
 name: "Marta Castro"
-slug: marta-castro
+basename: marta-castro
 avatarBig: null
 avatar: /img/avatars/cuadrada-marta-castro.jpg
 tags:

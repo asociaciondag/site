@@ -19,7 +19,7 @@ body:
     text: Descargar
     type: file
 intro: "Durante cuatro días, los profesores invitados, que como en ediciones anteriores serán grandes nombres del panorama internacional, junto con los directores del Curso presentarán en ponencias magistrales, talleres y exposiciones de obra propia, su bagaje profesional, la reflexión teórica que lo sustenta y las estrategias para llevar a cabo nuevas creaciones."
-slug: la-fundacion-santa-maria-de-albarracin-organiza-el-iii-curso-internacional-de-ilustracion-y-diseno-grafico
+basename: la-fundacion-santa-maria-de-albarracin-organiza-el-iii-curso-internacional-de-ilustracion-y-diseno-grafico
 tags: []
 lang: es
 draft: false

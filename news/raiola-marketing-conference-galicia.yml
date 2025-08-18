@@ -14,7 +14,7 @@ body:
       Todos los socios y socias de la DAG tienen un descuento del 50%.
     type: text
 intro: "Se trata de una jornada de marketing digital que tendrá lugar el próximo 8 de julio en la sala Obradoiro del Palacio de Congresos y Exposiciones de Galicia en Santiago de Compostela."
-slug: raiola-marketing-conference-galicia
+basename: raiola-marketing-conference-galicia
 tags: []
 lang: es
 draft: false

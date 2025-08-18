@@ -17,7 +17,7 @@ links:
     url: "https://read.cv/teteerck"
     type: link
 name: "Ricardo Rey"
-slug: ricardorey
+basename: ricardorey
 avatarBig: null
 avatar: /img/avatars/1.jpg
 tags:

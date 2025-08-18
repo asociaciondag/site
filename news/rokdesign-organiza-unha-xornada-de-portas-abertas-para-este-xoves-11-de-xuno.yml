@@ -15,7 +15,7 @@ body:
     mode: normal
     type: image
 intro: "Con motivo da semana internacional do deseño en Barcelona, o estudio [ROKdesign](http://www.rokdesign.es/) do noso socio Antón García Seoane organiza este xoves 11 de xuño unha xornada de portas abertas. Ese día todos os estudios creativos de Sant Agustí 5 abrirán as súas portas ao público ás 10 da mañá e ofrecerán unha actividade ou exposición preparada en exclusiva para a ocasión."
-slug: rokdesign-organiza-unha-xornada-de-portas-abertas-para-este-xoves-11-de-xuno
+basename: rokdesign-organiza-unha-xornada-de-portas-abertas-para-este-xoves-11-de-xuno
 tags: []
 lang: gl
 draft: false

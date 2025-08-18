@@ -18,7 +18,7 @@ body:
       ANUARIA: <https://www.veredictas.com/pt/veredictas.html>
     type: text
 intro: "30 de setembro de 2019 é a data límite en que se pecha o prazo de inscrición de traballos para os Premios Nacionais de Deseño Gráfico ANUARIA e para os Premios Internacionais de Deseño CLAP."
-slug: deadline-para-participardes-nos-anuaria-e-nos-clap
+basename: deadline-para-participardes-nos-anuaria-e-nos-clap
 tags: []
 lang: gl
 draft: false

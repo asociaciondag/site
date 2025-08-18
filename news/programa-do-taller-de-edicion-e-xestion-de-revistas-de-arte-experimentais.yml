@@ -10,7 +10,7 @@ body:
 
     type: text
 intro: "O taller de edición e xestión de revistas de arte experimentais impartido por Pepe Murciego (La Más Bella) combinará teoría e práctica."
-slug: programa-do-taller-de-edicion-e-xestion-de-revistas-de-arte-experimentais
+basename: programa-do-taller-de-edicion-e-xestion-de-revistas-de-arte-experimentais
 tags:
   - "actividades dag"
 lang: gl

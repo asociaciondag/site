@@ -18,7 +18,7 @@ body:
     text: "Bases e inscripciones Premios Laus"
     type: button
 intro: "La Asociación de Directores de Arte y Diseñadores Gráficos del FAD convocan un año más los premios Laus. Estos premios, que buscan reconocer la excelencia en la comunicación gráfica, son ciertamente un referente en el sector del diseño."
-slug: premios-laus-50
+basename: premios-laus-50
 tags: []
 lang: es
 draft: false

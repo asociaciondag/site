@@ -19,7 +19,7 @@ body:
       Grupo de trabajo de código deontológico de READ
     type: text
 intro: "Desde la DAG, nos hacemos eco del escrito elaborado por el grupo de Código Deontológico que forma parte de READ, Red de Asociaciones Españolas de Diseño, con la finalidad de que las empresas, instituciones y la propia administración sean responsables y no promuevan concursos abiertos de diseño que precarizan la profesión y no ponen en valor la figura del diseñador. En este caso, además, es necesario hacer hincapié en la creación de un concurso “restringido” dentro de otro concurso. Doble error. Por eso, ponemos toda nuestra disposición para trabajar en aras de eliminar cualquier práctica abusiva de este estilo y nos ofrecemos como interlocutores con las empresas, instituciones y la administración, para plantear otras formas de contratación como ejemplo de buenas prácticas."
-slug: concursos-especulativos-de-diseno-una-practica-que-no-beneficia-al-sector
+basename: concursos-especulativos-de-diseno-una-practica-que-no-beneficia-al-sector
 tags:
   - concursos
 lang: es

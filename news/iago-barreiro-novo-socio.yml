@@ -18,7 +18,7 @@ body:
     text: "Perfil na web da DAG"
     type: button
 intro: "Na DAG sabemos da importancia de contar con profesionais que traballen en distintas disciplinas do deseño, para ter unha perspectiva ampla e traballar por representar a nosa profesión da mellor maneira posible. Iago Barreiro é deseñador especializado en entornos dixitais e interactivos, que despois dunha longa tempada en Barcelona decide volver a Galicia para traballar desde aquí. Aledámonos moito da túa volta Iago."
-slug: iago-barreiro-novo-socio
+basename: iago-barreiro-novo-socio
 tags:
   - "noticias socios/socias"
 lang: gl

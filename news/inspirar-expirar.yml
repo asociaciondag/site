@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "Ve a luz o primeiro número de 032, a revista colector de textos e reportaxes sobre deseño e tipografía promovida pola DAG."
-slug: inspirar-expirar
+basename: inspirar-expirar
 tags:
   - "actividades dag"
 lang: gl

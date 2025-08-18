@@ -18,7 +18,7 @@ body:
       Puedes consultar todos los proyectos seleccionados en esta edición 2020 [aquí](https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html).
     type: text
 intro: "La XXVII edición de los Premios Anuaria acaba de publicar las 124 obras seleccionadas, de las cuales cinco fueron creadas por socios y socias de DAG."
-slug: premio-anuaria-ganadores-2020
+basename: premio-anuaria-ganadores-2020
 tags:
   - "noticias socios/socias"
 lang: es

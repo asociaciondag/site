@@ -1,6 +1,6 @@
 id: 83
 title: "Exlibris Gallaeciae, os libros de Galicia"
-slug: exlibris-gallaeciae-os-libros-de-galicia
+basename: exlibris-gallaeciae-os-libros-de-galicia
 body:
   - text: "Creación, deseño e dirección da montaxe da exposición inaugural da Cidade da Cultura de Galicia. Deseñáronse e construíronse diferentes pavillóns no interior do Arquivo de Galicia, que albergan diferentes capítulos da mostra. Realizáronse pezas audiovisuais que ilustran e sitúan as diferentes temáticas."
     type: text

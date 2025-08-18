@@ -24,7 +24,7 @@ body:
     text: "Perfil de Alberto Fernández en la DAG"
     type: button
 intro: "Las actividades que organiza la DAG, como el FEED, suponen para muchos diseñadores el primer contacto con la Asociación Gallega de Diseño. Este ha sido el caso de este nuevo socio al que hoy vamos a conocer un poco mejor."
-slug: bienvenido-alberto
+basename: bienvenido-alberto
 tags:
   - "noticias socios/socias"
 lang: es

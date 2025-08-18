@@ -46,7 +46,7 @@ body:
       \* Fotografía de la cabecera: Luis Díaz Díaz, [Modular Multiespazo](https://somosmodular.com)
     type: text
 position: null
-slug: trabajo-en-remoto
+basename: trabajo-en-remoto
 cover: /img/articles/covers/modular-multiespazo-oficina-compartida-coworking.jpeg
 lang: es
 draft: false

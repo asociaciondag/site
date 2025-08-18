@@ -78,7 +78,7 @@ body:
       Sé realista, tu idea a veces funcionará sin problemas o solo en algún caso. Otras veces simplemente no funcionará. En la mayoría de las ocasiones, de hecho, se trata de puro I+D combinado con diseño sensorial, así que estarás explorando algo nuevo. Mi recomendación es que des un paso atrás y analices la situación. Tal vez la idea es buena, pero el estado actual de la tecnología hace que no sea realizable. En momentos como este, debes olvidarte de tu ego y ser pragmático. ¿Existe una alternativa, una realmente viable? ¡A por ella! ¿No hay alternativa? Para. Cuando trabajas en proyectos de investigación de CMF, hay muchos fallos y problemas que pueden bloquear el proyecto y no permiten seguir adelante. Esa es la dura realidad.
     type: text
 position: null
-slug: que-es-cmf
+basename: que-es-cmf
 cover: /img/articles/covers/67513fc77b4138e93303e0b218cdf.jpg
 lang: es
 draft: false

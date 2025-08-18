@@ -32,7 +32,7 @@ body:
     text: "Premiados Anuaria 2016"
     type: button
 intro: "Esta semana se hacía pública la lista completa de los premiados con estos importantes galardones que otorgan representantes de las asociaciones profesionales y centros de diseño nacionales. Una edición más nos alegra comprobar como, en esta también, los nombres de nuestros socios se encuentran entre los premiados. Nuestra enhorabuena a Conchi Mayo y al estudio DARDO, a Era comunicación y a Álvaro Justo."
-slug: los-premios-nacionales-de-diseno-anuaria-2016
+basename: los-premios-nacionales-de-diseno-anuaria-2016
 tags: []
 lang: es
 draft: false

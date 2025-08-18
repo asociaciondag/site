@@ -20,7 +20,7 @@ body:
     text: "FORMULARIO DE INSCRIPCIÓN"
     type: button
 intro: "El diseñador, director creativo y educador relatará su experiencia con distintas marcas, medios, culturas y disciplinas."
-slug: pablo-honey-en-didac
+basename: pablo-honey-en-didac
 tags:
   - "Difusión eventos"
 lang: es

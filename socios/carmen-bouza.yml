@@ -14,7 +14,7 @@ links:
     url: "https://medium.com/@bouza.carmen"
     type: linkedin
 name: "Carmen Bouza"
-slug: carmen-bouza
+basename: carmen-bouza
 avatarBig: null
 avatar: /img/avatars/carmen-bouza.JPG
 tags:

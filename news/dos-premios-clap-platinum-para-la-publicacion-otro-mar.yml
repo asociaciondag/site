@@ -18,7 +18,7 @@ body:
     text: "Web de los premios"
     type: button
 intro: "Nuestro socio Carlos el Rojo firma el diseño del libro y de la cubierta que acaba de llevarse las dos máximas distinciones en la última edición de los Premios Clap."
-slug: dos-premios-clap-platinum-para-la-publicacion-otro-mar
+basename: dos-premios-clap-platinum-para-la-publicacion-otro-mar
 tags: []
 lang: es
 draft: false

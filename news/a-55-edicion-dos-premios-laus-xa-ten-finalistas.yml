@@ -20,7 +20,7 @@ body:
     text: "Máis info"
     type: button
 intro: "A gala terá lugar nos Cines Aribau de Barcelona o próximo 19 de xuño e entre todos os proxectos seleccionados atopamos o traballo dos compañeiros Alberto Carballido e Iago Barreiro, do estudio Novagarda."
-slug: a-55-edicion-dos-premios-laus-xa-ten-finalistas
+basename: a-55-edicion-dos-premios-laus-xa-ten-finalistas
 tags:
   - "noticias socios/socias"
 lang: gl

@@ -19,7 +19,7 @@ body:
   - text: "A cerimonia de entrega de premios, onde se darán a coñecer os diferentes galardóns, celebrarase o día 26 de novembro, dentro do programa da [Barcelona Design Week](https://www.barcelonadesignweek.com/en/)."
     type: text
 intro: "As obras recoñecidas son o catálogo da exposición «Pensar coas mans. Cestería, cerámica e xoiería de Galicia», editado polo Museo Gaiás da Cidade de Cultura de Galicia, e o libro «Approach 2018-2019», deseñado para a Washington University."
-slug: desescribir-laus-50
+basename: desescribir-laus-50
 tags:
   - "noticias socios/socias"
 lang: gl

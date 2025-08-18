@@ -16,7 +16,7 @@ body:
     text: "Bases Premios Anuaria"
     type: button
 intro: "Os Premios Anuaria recoñecen obras de deseño gráfico e dixital. Os proxectos están agrupados en 25 categorías diferentes, cunha categoría especial para proxectos de estudos e un premio especial á traxectoria profesional."
-slug: ultimas-premios-anuaria-2020
+basename: ultimas-premios-anuaria-2020
 tags: []
 lang: gl
 draft: false

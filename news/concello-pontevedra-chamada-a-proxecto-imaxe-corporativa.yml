@@ -20,7 +20,7 @@ body:
     text: "Máis información"
     type: button
 intro: "A convocatoria está dirixida a profesionais e empresas de deseño, que poderán presentar a súa candidatura ata o día 2 de xullo. A Asociación Galega de Deseño, co obxectivo claro de tentar establecer un procedemento que valore e considere de maneira xusta as candidaturas e o seu traballo, colaborou co concello e asesorou ao equipo encargado de definir as bases reguladoras desta convocatoria."
-slug: concello-pontevedra-chamada-a-proxecto-imaxe-corporativa
+basename: concello-pontevedra-chamada-a-proxecto-imaxe-corporativa
 tags:
   - concursos
 lang: gl

@@ -16,7 +16,7 @@ body:
     text: 'FEED''17'
     type: button
 intro: "Trátase dun proxecto innovador para introducir os máis pequenos nos procesos reais que rodean o deseño."
-slug: lois-guillan-presentara-no-feed-o-proxecto-educativo-de-cucuducho-para-nenos
+basename: lois-guillan-presentara-no-feed-o-proxecto-educativo-de-cucuducho-para-nenos
 tags:
   - "actividades dag"
 lang: gl

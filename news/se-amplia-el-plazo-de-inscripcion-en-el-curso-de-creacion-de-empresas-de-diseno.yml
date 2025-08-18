@@ -27,7 +27,7 @@ body:
     text: Descargar
     type: file
 intro: "Hasta el miércoles, 8 de febrero, estará abierto el plazo de inscripción en el curso de creación de empresas de diseño impartido por la [Escuela de Organización Industrial (EOI)](http://www.eoi.es)."
-slug: se-amplia-el-plazo-de-inscripcion-en-el-curso-de-creacion-de-empresas-de-diseno
+basename: se-amplia-el-plazo-de-inscripcion-en-el-curso-de-creacion-de-empresas-de-diseno
 tags: []
 lang: es
 draft: false

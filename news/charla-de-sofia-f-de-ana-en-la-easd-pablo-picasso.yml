@@ -20,7 +20,7 @@ body:
     text: "Más info sobre las jornadas"
     type: button
 intro: "La diseñadora visitará la Escuela de Arte Superior y Diseño de A Coruña el martes 11 de marzo, en el marco de las actividades programadas por el centro para conmemorar el 8M."
-slug: charla-de-sofia-f-de-ana-en-la-easd-pablo-picasso
+basename: charla-de-sofia-f-de-ana-en-la-easd-pablo-picasso
 tags:
   - "noticias socios/socias"
 lang: es

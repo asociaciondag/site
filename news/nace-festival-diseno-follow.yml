@@ -18,7 +18,7 @@ body:
     text: "Web do #follow20"
     type: button
 intro: "Hoy empieza el #follow20, un festival que tiene como objetivo poner en valor el diseño gallego conectándolo con el exterior y el gran público, y que servirá de antesala del lanzamiento de la _Galicia Design Week_ en junio de 2021."
-slug: nace-festival-diseno-follow
+basename: nace-festival-diseno-follow
 tags:
   - "noticias socios/socias"
 lang: es

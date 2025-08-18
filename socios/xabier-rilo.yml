@@ -14,7 +14,7 @@ links:
     url: "https://www.instagram.com/cenlitros/"
     type: facebook
 name: "Xabier Rilo"
-slug: xabier-rilo
+basename: xabier-rilo
 avatarBig: null
 avatar: /img/avatars/554d075825cba-xabier-rilo.jpeg
 tags:

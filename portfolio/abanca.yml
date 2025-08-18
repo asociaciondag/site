@@ -1,6 +1,6 @@
 id: 181
 title: Abanca
-slug: abanca
+basename: abanca
 body:
   - text: |-
       O deseño e desenvolvemento [da web de ABANCA](http://abanca.com) coincidiu co cambio de nome e de indentidade corporativa do banco.

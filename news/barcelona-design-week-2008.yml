@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "La tercera edición de la Barcelona Design Week abrirá sus puertas del 10 al 14 de noviembre convertida en uno de los acontecimientos de promoción y debate en torno al diseño ineludibles en la agenda internacional."
-slug: barcelona-design-week-2008
+basename: barcelona-design-week-2008
 tags: []
 lang: gl
 draft: false

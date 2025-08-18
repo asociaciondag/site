@@ -11,7 +11,7 @@ body:
       Para acceder a toda la información sobre la convocatoria: <http://www.idi.mineco.gob.es/portal/site/MICINN/PNID>
     type: text
 intro: "Con fecha 6 de mayo de 2017, ha sido publicado en el Boletín Oficial del Estado la “Resolución de 5 de mayo de 2017, de la Secretaría General de Ciencia e Innovación, por la que se convocan los Premios Nacionales de Innovación y de Diseño 2017, en alguna de sus modalidades."
-slug: se-publica-la-convocatoria-de-los-premios-nacionales-de-innovacion-y-diseno
+basename: se-publica-la-convocatoria-de-los-premios-nacionales-de-innovacion-y-diseno
 tags: []
 lang: es
 draft: false

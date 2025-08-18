@@ -1,6 +1,6 @@
 id: 12
 title: Nauha
-slug: nauha
+basename: nauha
 body:
   - text: |-
       Nauha es un mueble modular que cumple las funciones de silla y mesa. Permite al usuario 2 posiciones diferentes.

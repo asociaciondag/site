@@ -24,7 +24,7 @@ body:
     text: "Bases dos Premios Paraugas"
     type: button
 intro: "O Cluster da Comunicación Gráfica de Galicia anuncia un novo prazo de presentación de candidaturas para os V Premios Paraugas. As empresas e profesionais interesados en inscribir os seus proxectos poderán facelo ata o próximo 15 de decembro."
-slug: novas-datas-premios-paraugas-2020
+basename: novas-datas-premios-paraugas-2020
 tags: []
 lang: gl
 draft: false

@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "El [Mercado de Diseño](http://www.mercadocentraldediseno.es/) vuelve a abrir sus puertas el próximo 7 de febrero en Matadero, Madrid."
-slug: una-nueva-edicion-del-mercado-de-diseno
+basename: una-nueva-edicion-del-mercado-de-diseno
 tags: []
 lang: es
 draft: false

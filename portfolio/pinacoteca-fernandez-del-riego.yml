@@ -1,6 +1,6 @@
 id: 41
 title: "Pinacoteca Fernández del Riego"
-slug: pinacoteca-fernandez-del-riego
+basename: pinacoteca-fernandez-del-riego
 body:
   - text: |-
       A Pinacoteca Fernández del Riego de Vigo alberga a colección de arte máis dilatada e completa da tradición pictórica galega dos séculos XIX e XX.

@@ -16,7 +16,7 @@ body:
     text: "Web dos premios"
     type: button
 intro: "A XXXI Edición dos Premios Anuaria acaba de publicar os proxectos premiados e entre eles atopamos aos socios José A. Pérez Gil de Era Comunicación e Yago Concejo de Sr. Concejo, con traballos en diferentes categorías."
-slug: era-comunicacion-e-sr-concejo-premiados-nos-anuaria
+basename: era-comunicacion-e-sr-concejo-premiados-nos-anuaria
 tags:
   - "noticias socios/socias"
 lang: gl

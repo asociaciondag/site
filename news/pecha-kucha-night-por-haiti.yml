@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "O sábado día 20 de febreiro, en máis de 150 cidades, terá lugar unha noite Pecha Kucha por Haití que será retransmitida en directo, vía Internet, durante 24 horas."
-slug: pecha-kucha-night-por-haiti
+basename: pecha-kucha-night-por-haiti
 tags: []
 lang: gl
 draft: false

@@ -26,7 +26,7 @@ body:
     text: "Perfil de socio na DAG"
     type: button
 intro: "Chámase Roberto Núñez e, como sempre facemos con cada nova incorporación á DAG, pedímoslle que nos falase un pouco del e da súa experiencia. Isto é o que nos contou."
-slug: temos-un-novo-socio
+basename: temos-un-novo-socio
 tags:
   - "noticias socios/socias"
 lang: gl

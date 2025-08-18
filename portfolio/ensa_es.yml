@@ -1,6 +1,6 @@
 id: 220
 title: ENSA
-slug: ensa
+basename: ensa
 body:
   - text: "Supuesto ficticio para la creación de la identidad visual de la Estación Nacional de Servicios Aeroespaciales"
     type: text

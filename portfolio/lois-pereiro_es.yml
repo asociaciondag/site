@@ -1,6 +1,6 @@
 id: 141
 title: "Lois Pereiro"
-slug: lois-pereiro
+basename: lois-pereiro
 body:
   - text: "Diseño de proyecto expositivo. Casa de la Cultura. Concello de Monforte de Lemos"
     type: text

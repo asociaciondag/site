@@ -26,7 +26,7 @@ body:
       Javi MarMon
     type: text
 intro: "Hoxe presentamos a Javier Martínez, Javi MarMon, ourensán apaixoado e creativo, artista 3D e tecedor de historias que busca aplicar o seu entusiasmo e habilidades ao deseño de personaxes e mundos. Benvido!"
-slug: javier-martinez-novo-socio-de-dag
+basename: javier-martinez-novo-socio-de-dag
 tags:
   - "noticias socios/socias"
 lang: gl

@@ -13,7 +13,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa288902-charla-united-fakes.jpg
 intro: null
-slug: conferencia-sobre-la-actividad-multidisciplinar-de-un-estudio-de-diseno-en-la-easd-pablo-picasso-de-a-coruna
+basename: conferencia-sobre-la-actividad-multidisciplinar-de-un-estudio-de-diseno-en-la-easd-pablo-picasso-de-a-coruna
 tags: []
 lang: es
 draft: false

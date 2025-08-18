@@ -25,7 +25,7 @@ body:
        <http://www.cisgalicia.org/contactos/campan/inscribir/18>
     type: text
 intro: "GAIN organiza un novo obradoiro sobre novos materiais no CIS Ferrol o vindeiro 14 de novembro, dirixido a profesionais do deseño, persoal investigador do campo dos novos materiais, estudantes de deseño e empresas."
-slug: obradoiro-de-novos-materiais-para-packaging-sustentable-no-cis-ferrol
+basename: obradoiro-de-novos-materiais-para-packaging-sustentable-no-cis-ferrol
 tags: []
 lang: gl
 draft: false

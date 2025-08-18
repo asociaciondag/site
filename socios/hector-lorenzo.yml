@@ -17,7 +17,7 @@ links:
     url: "https://www.behance.net/hectorlore4207"
     type: link
 name: "Héctor Lorenzo"
-slug: hector-lorenzo
+basename: hector-lorenzo
 avatarBig: null
 avatar: /img/avatars/avatar-hector.jpg
 tags:

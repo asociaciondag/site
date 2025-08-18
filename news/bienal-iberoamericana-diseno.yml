@@ -26,7 +26,7 @@ body:
     text: "Bases de la convocatoria"
     type: button
 intro: "Ya está aquí la 7ª Edición de la Bienal Iberoamericana de Diseño que tendrá lugar del 23 al 27 de noviembre en la Central de Diseño Matadero Madrid."
-slug: bienal-iberoamericana-diseno
+basename: bienal-iberoamericana-diseno
 tags: []
 lang: es
 draft: false

@@ -16,7 +16,7 @@ body:
     text: "Finalistas II Premios Paraugas"
     type: button
 intro: "La V edición del Foro de la Comunicación de Galicia se celebrará este viernes 11 de noviembre en Ourense. A nosotros nos ha hecho especial ilusión ver que entre los ponentes de este año figura el diseñador Pepe Barro, quien también será uno de los homenajeados en la entrega de los Premios Paraugas que tendrá lugar al finalizar la jornada."
-slug: v-foro-de-la-comunicacion-de-galicia
+basename: v-foro-de-la-comunicacion-de-galicia
 tags: []
 lang: es
 draft: false

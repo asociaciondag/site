@@ -17,7 +17,7 @@ body:
     text: "Perfil de socia na DAG"
     type: button
 intro: "Esta semana dámoslle a benvinda á deseñadora gráfica Patrica Núñez."
-slug: continuamos-sumando-socios
+basename: continuamos-sumando-socios
 tags:
   - "noticias socios/socias"
 lang: gl

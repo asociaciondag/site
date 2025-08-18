@@ -16,7 +16,7 @@ body:
     text: "Ficha de socio DAG"
     type: button
 intro: "Pois si! Témolo de volta! Tan lonxe e á vez tan cerca :)"
-slug: alvaro-valino-outra-vez-connosco
+basename: alvaro-valino-outra-vez-connosco
 tags:
   - "noticias socios/socias"
 lang: gl

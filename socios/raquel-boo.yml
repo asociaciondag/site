@@ -14,7 +14,7 @@ links:
     url: "https://www.linkedin.com/pub/raquel-boo-anderson/22/238/809"
     type: linkedin
 name: "Raquel Boo Anderson"
-slug: raquel-boo
+basename: raquel-boo
 avatarBig: null
 avatar: /img/avatars/foto-dag-rba.jpg
 tags:

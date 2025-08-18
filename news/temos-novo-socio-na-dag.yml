@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "[Hello World!](http://es.wikipedia.org/wiki/Hola_mundo) Coma nun xogo de nenos. O deseño constitúe o meu primeiro recordo, o meu primeiro xogo, e tamén o máis recente. É algo que vai nas veas. Dende cativo, sempre fun inquedo, curioso e creativo. A miña afección por inventar obxectos e plasmalos en debuxos e maquetas foi a miña preferida, ata que descubrín que podía vivir dela, facendo do Deseño, a miña carreira."
-slug: temos-novo-socio-na-dag
+basename: temos-novo-socio-na-dag
 tags:
   - "noticias socios/socias"
 lang: gl

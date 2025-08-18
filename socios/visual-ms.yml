@@ -5,7 +5,7 @@ links:
     url: "https://visualms.com/"
     type: link
 name: "Visual MS"
-slug: visual-ms
+basename: visual-ms
 avatarBig: /img/avatars/visual-ms-logo-negro-rgb.jpg
 avatar: /img/avatars/visual-ms-logo-negro-rgb.jpg
 tags: []

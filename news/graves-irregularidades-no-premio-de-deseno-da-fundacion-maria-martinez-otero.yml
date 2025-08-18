@@ -20,7 +20,7 @@ body:
     text: Descargar
     type: file
 intro: "Preséntase escrito de reclamación ante as irregularidades detectadas no fallo do Premio de Deseño da Fundación María Martínez Otero."
-slug: graves-irregularidades-no-premio-de-deseno-da-fundacion-maria-martinez-otero
+basename: graves-irregularidades-no-premio-de-deseno-da-fundacion-maria-martinez-otero
 tags: []
 lang: gl
 draft: false

@@ -39,7 +39,7 @@ body:
     text: "Ir á páxina do FEED 2015"
     type: button
 intro: "Javier Cañada lleva practicando el diseño de interacción de forma exclusiva desde 2000. Ha formado parte del primer equipo de HCI de España (IconMedialab). Tras su paso por The Cocktail, Indra u [11870.com](http://www.11870.com), funda Vostok Studio, desde el que ayuda a corporaciones y _startups_ (Filmin, Minube, Ducksboard, BBVA, Movistar, Chicisimo) en su estrategia de diseño y experiencia digital."
-slug: entrevista-a-javier-canada
+basename: entrevista-a-javier-canada
 tags:
   - "actividades dag"
 lang: es

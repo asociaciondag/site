@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Álvaro Justo é o novo socio estudante que se acaba de incorporar á DAG"
-slug: benvido-a-dag-alvaro
+basename: benvido-a-dag-alvaro
 tags:
   - "noticias socios/socias"
 lang: gl

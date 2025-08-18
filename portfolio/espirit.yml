@@ -1,6 +1,6 @@
 id: 333
 title: Espirit
-slug: espirit
+basename: espirit
 body:
   - image: /img/portfolio/images/esprit.jpg
     text: ""

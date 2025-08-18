@@ -14,7 +14,7 @@ links:
     url: "https://www.linkedin.com/in/PortelaPatricia/"
     type: linkedin
 name: "Patricia Portela Vaamonde"
-slug: patricia-portela-vaamonde
+basename: patricia-portela-vaamonde
 avatarBig: null
 avatar: /img/avatars/patriciaportela.jpg
 tags:

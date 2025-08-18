@@ -89,7 +89,7 @@ body:
   - text: "Penso que a maior vantaxe competitiva que temos os creativos do país no mundo globalizado é a lingua galega, cun amplísimo abano de recursos que non foron nunca explotados comercialmente e como mellor transmisor de identidade para contribuír ao legado patrimonial que son as nosas marcas."
     type: text
 position: null
-slug: en-galego-o-que-ti-queiras
+basename: en-galego-o-que-ti-queiras
 cover: /img/articles/covers/imaxe-cabeceria.JPG
 lang: gl
 draft: false

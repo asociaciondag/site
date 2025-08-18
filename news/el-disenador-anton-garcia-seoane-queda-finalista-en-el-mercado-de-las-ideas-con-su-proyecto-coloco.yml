@@ -19,7 +19,7 @@ body:
     text: ""
     type: image
 intro: "El pasado 26 de noviembre, en el centro Arts Santa Mónica, se dieron a conocer los finalistas del Mercado de las Ideas (MID). El MID se trata de un programa organizado por Barcelona Centro de Diseño (BCD) que fomenta la creación de oportunidades de negocio y ayuda a encontrar financiación a todos aquellos creadores que tengan un proyecto innovador con un fuerte componente de diseño."
-slug: el-disenador-anton-garcia-seoane-queda-finalista-en-el-mercado-de-las-ideas-con-su-proyecto-coloco
+basename: el-disenador-anton-garcia-seoane-queda-finalista-en-el-mercado-de-las-ideas-con-su-proyecto-coloco
 tags:
   - "noticias socios/socias"
 lang: es

@@ -22,7 +22,7 @@ body:
     text: "Web de la BID"
     type: button
 intro: "El conjunto de luminarias Parga diseñadas por el socio Xabier Rilo y su compañero en Cenlitros Ricardo Tubío, fueron seleccionadas para participar en la exposición de la Bienal Iberoamericana de Diseño 2024 organizada por Dimad. La exposición podrá visitarse hasta el 6 de enero de 2025 en Matadero Madrid."
-slug: luminarias-diseno-cenlitros-bid24
+basename: luminarias-diseno-cenlitros-bid24
 tags:
   - "noticias socios/socias"
 lang: es

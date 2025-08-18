@@ -20,7 +20,7 @@ body:
     text: "Información de la jornada e inscripciones"
     type: button
 intro: "El ciclo «Diseño y emprendimiento» organizado por la Axencia Gelega de Innovación dentro del Programa Diferenza, presenta una primera jornada el próximo jueves 1​6 de junio dirigida a la comunidad​ emprendedora con el objetivo de explicar y visibilizar la utilidad del diseño como herramienta de innovación y competitividad empresarial."
-slug: la-dag-participa-en-la-jornada-crecer-con-el-diseno-organizada-por-gain
+basename: la-dag-participa-en-la-jornada-crecer-con-el-diseno-organizada-por-gain
 tags: []
 lang: es
 draft: false

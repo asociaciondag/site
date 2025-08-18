@@ -35,7 +35,7 @@ body:
     text: "Bases do premio"
     type: button
 intro: "O departamento de cultura de Deputación da Coruña ven de presentar a primeira edición do Premio Luís Seoane de Deseño, ampliando o reprertorio de recoñecementos ao talento galego nos distintos ámbitos da creación."
-slug: premio-deseno-luis-seoane
+basename: premio-deseno-luis-seoane
 tags:
   - "noticias socios/socias"
 lang: gl

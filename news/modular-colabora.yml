@@ -20,7 +20,7 @@ body:
     text: "Web de Modular"
     type: button
 intro: "Moitos foron os proxectos que apenas arrincaban e tiveron que facer fronte ás numerosas dificultades provocadas pola crise sanitaria da Covid-19. Alédanos ver como algunhas destas iniciativas seguen adiante con ánimos renovados. Modular é un destes casos, un lugar de traballo acondicionado para adaptarse ás medidas sanitarias actuais, que acolle a profesionais de distintas disciplinas."
-slug: modular-colabora
+basename: modular-colabora
 tags: []
 lang: gl
 draft: false

@@ -19,7 +19,7 @@ body:
     text: ""
     type: image
 intro: "Utilizámolos todolos días. Inflúen nas nosas vidas. Son milleiros. Son tan comúns que incluso rara vez pensamos neles: obxectos ocultos da vida cotiá. Xa sexa un tornillo, unha bolsa de té, un sacacorchos, un clip ou unha cremalleira, estos obxetos son clásicos."
-slug: obxectos-da-vida-cotia
+basename: obxectos-da-vida-cotia
 tags: []
 lang: gl
 draft: false

@@ -1,6 +1,6 @@
 id: 342
 title: "Cervezas 1906"
-slug: cervezas1906
+basename: cervezas1906
 body:
   - image: /img/portfolio/images/cervezas-1906.png
     text: ""

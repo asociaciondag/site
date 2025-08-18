@@ -16,7 +16,7 @@ body:
     text: 'FEED''17'
     type: button
 intro: "Cuestionalo todo, repensar as cousas, procurar diferentes perspectivas forma parte do día a día de calquera deseñador. Nesta ocasión, quixemos darlle unha volta ao formato da mesa de debate para mostrar un nuevo punto de vista."
-slug: unha-mesa-de-debate-cos-futuros-desenadores-galegos
+basename: unha-mesa-de-debate-cos-futuros-desenadores-galegos
 tags:
   - "actividades dag"
 lang: gl

@@ -14,7 +14,7 @@ body:
       El evento en Galicia está organizado por los socios de DAG María Ramos y Daniel Pino, junto con Bernardo Paz, Yolanda González y Carla Bautís. La entrada es gratuita hasta completar el aforo.
     type: text
 intro: "El evento tipográfico que empezó en Valencia en el año 2013 ha ido creando nuevas sedes, como Madrid y Mallorca y ahora, desde el año pasado se suma Galicia. La próxima quedada será el 18 de mayo en la Asociación Cultural Kentada de Pontevedra."
-slug: el-tercero-canas-y-tipos-gallego-se-celebrara-en-pontevedra
+basename: el-tercero-canas-y-tipos-gallego-se-celebrara-en-pontevedra
 tags: []
 lang: es
 draft: false

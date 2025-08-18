@@ -13,7 +13,7 @@ links:
     url: "https://cuvitt.talentkey.io/professional/andrescampuzano/"
     type: link
 name: "Andrés Campuzano Afonso"
-slug: andres-campuzano-afonso
+basename: andres-campuzano-afonso
 avatarBig: null
 avatar: /img/avatars/554cf58cc1286-andres-campuzano-afonso.jpg
 tags: []

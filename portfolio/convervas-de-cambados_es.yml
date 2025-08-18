@@ -1,6 +1,6 @@
 id: 294
 title: "Conservas de Cambados"
-slug: convervas-de-cambados
+basename: convervas-de-cambados
 body:
   - text: "Diseño de nuevo _packaging_ y cartel promocional."
     type: text

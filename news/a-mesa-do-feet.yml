@@ -31,7 +31,7 @@ body:
     mode: normal
     type: image
 intro: "A edición como campo aberto de expresión **Día**: sábado, 4 de decembro **Hora**: 11.00 h **Lugar**: A Casa das Campás **Entrada libre**"
-slug: a-mesa-do-feet
+basename: a-mesa-do-feet
 tags:
   - "actividades dag"
 lang:

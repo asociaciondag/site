@@ -26,7 +26,7 @@ body:
     text: "Programa completo"
     type: button
 intro: "Cinco días de actividades centradas nas principais liñas do proxecto de especialización do Campus Crea, abertas para toda a cidadanía, abordarán a creatividade nun sentido transversal e interdisciplinario."
-slug: semana-creatividade-pontevedra-2025
+basename: semana-creatividade-pontevedra-2025
 tags:
   - "noticias socios/socias"
 lang: gl

@@ -20,7 +20,7 @@ body:
     text: "Web dos premios"
     type: button
 intro: "A Asociación de Diseñadores Gráficos y Directores de Arte do FAD, ADG-FAD, celebrou o pasado 8 de xuño en Barcelona a gala de entrega dos Premios Laus 2023. Un total de 313 traballos premiados entre os que se atopan dos Laus de Bronce para os socios de Novagarda e Desoños xunto con Marcos Dopico."
-slug: novagarda-desonos-e-marcos-dopico-premiados-na-53-edicion-dos-laus
+basename: novagarda-desonos-e-marcos-dopico-premiados-na-53-edicion-dos-laus
 tags:
   - "noticias socios/socias"
 lang: gl

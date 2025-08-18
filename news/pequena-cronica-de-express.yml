@@ -35,7 +35,7 @@ body:
       ratio: ""
     type: embed
 intro: "El pasado 26 de abril se celebró en el espacio de intervención cultural de la Universidad de A Coruña, NORMAL, la jornada sobre impresión tradicional organizada por la DAG."
-slug: pequena-cronica-de-express
+basename: pequena-cronica-de-express
 tags:
   - "actividades dag"
 lang: es

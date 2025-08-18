@@ -30,7 +30,7 @@ body:
     text: "Inscricións á GD​W"
     type: button
 intro: "Durante os meses de xuño e xullo A Coruña será a sede da [GDW22](https://www.gdw.gal/gdw22-pro), un evento que ofrece conferencias, presentacións de proxectos​,​ exposicións, roteiros, gastronomí​a​​,​ obradoiros e revisións de portafolios, nun formato híbrido con clara intención de achegar o deseño ao público xeral da man de profesionais do sector."
-slug: a-coruna-enchese-de-deseno-coa-galicia-design-week-2022
+basename: a-coruna-enchese-de-deseno-coa-galicia-design-week-2022
 tags: []
 lang: gl
 draft: false

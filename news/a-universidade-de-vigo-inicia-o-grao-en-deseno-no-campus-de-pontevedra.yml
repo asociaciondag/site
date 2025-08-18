@@ -20,7 +20,7 @@ body:
     text: "Web do Grao en deseño"
     type: button
 intro: "O próximo curso 2023-24 a Universidade de Vigo comeza o Grao en Deseño no Campus Crea situado na cidade de Pontevedra, con 45 prazas e dúas mencións: Grao en Deseño gráfico/dixital e Grao en Deseño de moda​."
-slug: a-universidade-de-vigo-inicia-o-grao-en-deseno-no-campus-de-pontevedra
+basename: a-universidade-de-vigo-inicia-o-grao-en-deseno-no-campus-de-pontevedra
 tags: []
 lang: gl
 draft: false

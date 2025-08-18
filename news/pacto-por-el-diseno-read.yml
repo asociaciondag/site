@@ -22,7 +22,7 @@ body:
     text: "Pacto por el Diseño"
     type: button
 intro: "La DAG Asociación Gallega de Diseño se suma al pacto impulsado por seis organizaciones de referencia en el sector. El documento tiene como principal objetivo conectar a particulares, empresas y organizaciones interesadas en el uso del diseño como herramienta de transformación económica, social y medioambiental."
-slug: pacto-por-el-diseno-read
+basename: pacto-por-el-diseno-read
 tags: []
 lang: es
 draft: false

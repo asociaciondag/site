@@ -9,7 +9,7 @@ body:
       Desde la DAG queremos aprovechar además para ofrecer nuestra colaboración a todos los agentes públicos y administraciones que compartan nuestra preocupación por promover prácticas laborales justas y éticas en nuestro oficio, y que, además, conciban el diseño como un herramienta fundamental en el presente y futuro de nuestro país.
     type: text
 intro: "A lo largo de los últimos años la DAG viene manifestando la necesidad de que las administraciones públicas pongan en práctica [métodos de contratación de servicios de diseño](http://dag.gal/es/la-dag-se-ha-reunido-con-el-ayuntamiento-de-a-coruna-para-hablar-sobre-los-concursos-y-la-contratacion-del-diseno) más justos y sostenibles, siempre dentro de los límites que propone la Ley de contratos del sector público (LCSP)."
-slug: diseno-y-buenas-practicas
+basename: diseno-y-buenas-practicas
 tags:
   - "actividades dag"
   - concursos

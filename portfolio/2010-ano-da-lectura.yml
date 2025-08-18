@@ -1,6 +1,6 @@
 id: 56
 title: "2010 Ano da lectura"
-slug: 2010-ano-da-lectura
+basename: 2010-ano-da-lectura
 body:
   - text: "A Xunta de Galicia elixe o ano 2010 para adicarllo á promoción da lectura. Creamos unha serie de carteis con personaxes de diferentes idades e apoiados por un texto, que convida a descubrir as emocións que agochan os libros."
     type: text

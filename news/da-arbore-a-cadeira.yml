@@ -30,7 +30,7 @@ body:
     text: "Da árbore á cadeira"
     type: button
 intro: "Desde hoy y hasta el 5 de noviembre puede visitarse en el Museo Centro Gaiás Da árbore á cadeira, una exposición que nos propone un viaje emocional de la materia al producto, de la madera al mobiliario doméstico."
-slug: da-arbore-a-cadeira
+basename: da-arbore-a-cadeira
 tags: []
 lang: es
 draft: false

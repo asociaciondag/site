@@ -28,7 +28,7 @@ body:
     text: Selected
     type: button
 intro: "Os días 15 e 16 de novembro terá lugar en Bilbao o Selected 2019, un evento dedicado ao deseño e á creatividade onde profesionais e empresas ofrecerán conferencias e palestras para un público multidisciplinar."
-slug: deseno-galego-no-selected-2019-de-bilbao
+basename: deseno-galego-no-selected-2019-de-bilbao
 tags:
   - "noticias socios/socias"
 lang: gl

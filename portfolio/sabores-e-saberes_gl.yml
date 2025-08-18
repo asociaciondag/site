@@ -1,6 +1,6 @@
 id: 92
 title: "Sabores e saberes"
-slug: sabores-e-saberes
+basename: sabores-e-saberes
 body:
   - text: "Imaxe aplicada a carteis, papelaría, serigrafía de copos, programación do evento e sinalética."
     type: text

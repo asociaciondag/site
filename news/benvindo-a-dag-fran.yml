@@ -20,7 +20,7 @@ body:
     text: "Perfil de socio DAG"
     type: button
 intro: "Pois si, temos un novo socio e, como sempre, pedímoslle que se presente para que todos poidades coñecelo un pouco mellor."
-slug: benvindo-a-dag-fran
+basename: benvindo-a-dag-fran
 tags:
   - "noticias socios/socias"
 lang: gl

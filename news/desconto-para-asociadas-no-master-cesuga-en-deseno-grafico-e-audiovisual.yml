@@ -20,7 +20,7 @@ body:
     text: "Máis Información"
     type: button
 intro: "O Centro Superior de Estudos Universitarios de Galicia ([CESUGA](https://cesuga.com/)) incorpora á súa oferta docente para o curso 2022-23 o Máster en Deseño Gráfico e Audiovisual, que se desenvolverá entre outubro de 2022 e maio de 2023. As persoas asociadas a DAG, teñen un 20% de desconto na matrícula."
-slug: desconto-para-asociadas-no-master-cesuga-en-deseno-grafico-e-audiovisual
+basename: desconto-para-asociadas-no-master-cesuga-en-deseno-grafico-e-audiovisual
 tags: []
 lang: gl
 draft: false

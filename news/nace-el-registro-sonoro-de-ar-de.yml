@@ -16,7 +16,7 @@ body:
       La [página web de AR\\DE](https://arde.gal/) cuenta con una nueva sección en la que poder escuchar todos los capítulos del Registro Sonoro, que también estarán disponibles en la plataforma [Spotify](https://open.spotify.com/show/1w4yOIiyksdlTizYpzVNnE?si=3XRJrFbgQVi6ETyMx4llCg). La nueva gráfica y el desarrollo de la web es obra del estudio vigués Desoños.
     type: text
 intro: 'La plataforma AR\\DE, el Archivo del Diseño Gallego, presenta una nueva iniciativa para la documentación de la historia del diseño gallego. El Registro Sonoro se presenta en formato podcast para dar voz y conservar las reflexiones de profesionales del diseño gallego.'
-slug: nace-el-registro-sonoro-de-ar-de
+basename: nace-el-registro-sonoro-de-ar-de
 tags: []
 lang: es
 draft: false

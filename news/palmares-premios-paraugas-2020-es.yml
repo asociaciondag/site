@@ -22,7 +22,7 @@ body:
       Un año más, celebramos el reconocimiento al diseño hecho en Galicia y damos nuesta enhorabuena a finalistas y ganadores de esta edición.
     type: text
 intro: "El pasado viernres, 12 de febrero, se hicieron públicos los nombres de los proyectos ganadores de los [Premios Paraugas](https://premios.clustercomunicacion.gal/). Estos premios organizados por el Cluster de la Comunicación de Galicia, que ya van por su quinta edición, buscan reconocer el trabajo hecho en Galicia en el campo del diseño, la impresión y la edición, la creatividad, la comunicación, el márketing y la organización de eventos."
-slug: palmares-premios-paraugas-2020-es
+basename: palmares-premios-paraugas-2020-es
 tags: []
 lang: es
 draft: false

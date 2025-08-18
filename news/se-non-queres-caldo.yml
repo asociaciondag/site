@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "A AFEDA (Asociación para o Fomento da Encadernación de Arte), en colaboración co Museo das Peregrinacións de Santiago e co financiamento da Consellería de Cultura e Turismo da Xunta de Galicia convoca un Concurso Internacional de Deseño e Encadernación para un libro do peregrino no que os deseñadores teñen que pagar por participar."
-slug: se-non-queres-caldo
+basename: se-non-queres-caldo
 tags: []
 lang: gl
 draft: false

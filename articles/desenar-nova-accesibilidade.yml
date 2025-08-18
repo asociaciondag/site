@@ -66,7 +66,7 @@ body:
   - text: "Pero como a nosa imaxinación busca sempre o “problema” e non a solución, diremos que en tal caso ou tal outro é imposible. Así é, pero seguro que teremos solucionado o 80% dos casos. Pois ben, adiquemos o noso tempo ao 20% restante, con creatividade. Eso si, sempre seguindo as fases de calquera proceso de deseño, cooperando con expertos doutras disciplinas, e cumprindo cos principios básicos dunha boa accesibilidade, buscando un uso sinxelo e intuitivo, adaptado a unha ampla variedade de preferencias e capacidades individuais, evitando complexidades innecesarias ou informacións confusas, minimizando a necesidade de forzas pouco razoables, e proporcionando un tamaño e un espazo axeitados para acercarse, alcanzar, manipular e usar, sen que importe o tamaño corporal da persona usuaria, a súa postura ou a súa mobilidade. En definitiva, sen complicar máis as cousas."
     type: text
 position: null
-slug: desenar-nova-accesibilidade
+basename: desenar-nova-accesibilidade
 cover: /img/articles/covers/accesible.jpg
 lang: gl
 draft: false

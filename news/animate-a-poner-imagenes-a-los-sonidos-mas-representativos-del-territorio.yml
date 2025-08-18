@@ -15,7 +15,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa1e0ea1-paisaxe-sonora.jpg
 intro: null
-slug: animate-a-poner-imagenes-a-los-sonidos-mas-representativos-del-territorio
+basename: animate-a-poner-imagenes-a-los-sonidos-mas-representativos-del-territorio
 tags: []
 lang: es
 draft: false

@@ -51,7 +51,7 @@ body:
 
     type: text
 position: "1"
-slug: puede-el-diseno-ayudar-a-erradicar-las-violencias-de-genero
+basename: puede-el-diseno-ayudar-a-erradicar-las-violencias-de-genero
 cover: /img/articles/covers/graficasennegro.jpg
 lang: es
 draft: true

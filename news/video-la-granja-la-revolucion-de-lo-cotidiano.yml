@@ -9,7 +9,7 @@ body:
       [www.belloch.eu](http://www.belloch.eu)
     type: text
 intro: "**Gerard Sanmartí** y **Gabriele Schiavon**, los dos líderes del estudio multidisciplinar La Granja fundado en Barcelona en 2002, hablan de su forma de entender el diseño y de cómo se enfrentan al desarrollo de los proyectos que les encargan."
-slug: video-la-granja-la-revolucion-de-lo-cotidiano
+basename: video-la-granja-la-revolucion-de-lo-cotidiano
 tags: []
 lang: es
 draft: false

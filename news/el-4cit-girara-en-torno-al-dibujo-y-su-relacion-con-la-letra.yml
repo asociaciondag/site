@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: 'El IV Congreso Internacional de tipografía (4CIT) cuyo título es "La letra dibujada" tendrá lugar en Valencia los días 18, 19 y 20 de junio.'
-slug: el-4cit-girara-en-torno-al-dibujo-y-su-relacion-con-la-letra
+basename: el-4cit-girara-en-torno-al-dibujo-y-su-relacion-con-la-letra
 tags: []
 lang: es
 draft: false

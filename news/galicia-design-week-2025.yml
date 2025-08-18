@@ -22,7 +22,7 @@ body:
     text: "Web GDW 2025"
     type: button
 intro: "Del 16 al 24 de mayo tendrá lugar en A Coruña una nueva edición de la Galicia Design Week, un evento​ que se encuadra dentro de la asociación internacional World Design Week y que este año divide su contenido en Pro, Show, Sessions y Off.​"
-slug: galicia-design-week-2025
+basename: galicia-design-week-2025
 tags:
   - "Difusión eventos"
   - "noticias socios/socias"

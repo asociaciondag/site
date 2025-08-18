@@ -15,7 +15,7 @@ body:
     text: PRO-DAG
     type: button
 intro: "A DAG, Asociación Galega de Deseño, acaba de facer pública PRO-DAG, unha base de datos onde consultar provedores de produtos ou servizos relacionados coas tarefas de deseño."
-slug: pro-dag-a-base-de-provedores-para-desenadores-as
+basename: pro-dag-a-base-de-provedores-para-desenadores-as
 tags:
   - "actividades dag"
 lang: gl

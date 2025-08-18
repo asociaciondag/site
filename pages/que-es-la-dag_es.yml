@@ -1,6 +1,6 @@
 id: about
 title: "¿Qué es la DAG?"
-slug: que-es-la-dag
+basename: que-es-la-dag
 body:
   - text: |-
       DAG es una asociación sin ánimo de lucro que se fundó en 2006 y que agrupa a profesionales del diseño de toda Galicia. Abarca múltiples disciplinas, tales como el diseño gráfico y web, el diseño UX/UI, el diseño industrial, el diseño editorial, el diseño estratégico o el diseño de servicios.

@@ -17,7 +17,7 @@ body:
     text: Descargar
     type: file
 intro: "A [Escola Superior de Deseño](http://www.esdi.es/) (ESDi) acaba de lanzar unha convocatoria de participación para que todas as persoas interesadas en presentar un relatorio no 2º Congreso Internacional de Deseño e Innovación de Cataluña envíen as súas propostas."
-slug: convocatoria-de-participacion-no-2o-congreso-internacional-de-deseno-e-innovacion-de-cataluna
+basename: convocatoria-de-participacion-no-2o-congreso-internacional-de-deseno-e-innovacion-de-cataluna
 tags: []
 lang: gl
 draft: false

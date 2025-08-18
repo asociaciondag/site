@@ -19,7 +19,7 @@ body:
     text: Descargar
     type: file
 intro: "La DAG, Asociación Gallega de Diseñadores, hace público el documento con las conclusiones del foro Propuestas de avance para el diseño celebrado el 9 de febrero de 2013 en el Centro Gallego de Arte Contemporáneo."
-slug: conclusiones-del-foro-dag-propuestas-de-avance-para-el-diseno
+basename: conclusiones-del-foro-dag-propuestas-de-avance-para-el-diseno
 tags: []
 lang: es
 draft: false

@@ -18,7 +18,7 @@ body:
     text: "Vajilla Ferrádica"
     type: button
 intro: "Esta semana hemos sabido que el diseño que cenlitrosmetrocadrado realizó para Sargadelos en colaboración con Abastos 2.0 formará parte de la colección del museo. ¡Enhorabuena Manuel, Ricardo y Xabier!"
-slug: la-vajilla-ferradica-de-cenlitrosmetrocadrado-en-el-museo-del-disseny-de-barcelona
+basename: la-vajilla-ferradica-de-cenlitrosmetrocadrado-en-el-museo-del-disseny-de-barcelona
 tags:
   - "noticias socios/socias"
 lang: es

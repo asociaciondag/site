@@ -12,7 +12,7 @@ body:
     text: ""
     type: image
 intro: "La Más Bella é un proxecto de acción e experimentación editorial, que impulsa e realiza proxectos artísticos especificamente pensados para seren editados por canles e métodos alternativos ao mundo editorial convencional."
-slug: la-mas-bella
+basename: la-mas-bella
 tags: []
 lang: gl
 draft: false

@@ -36,7 +36,7 @@ body:
     text: "Bases e inscricións"
     type: button
 intro: "A Asociación de Deseñadores Gráficos e Directores de Arte do FAD (ADG-FAD) abre a convocatoria de inscricións para participar na 48ª edición dos premios ADG Laus para os profesionais do grafismo, a publicidade e a comunicación visual, que poderán inscribir os seus mellores traballos desde o 8 de xaneiro até o 4 de febreiro de 2018."
-slug: laus-2018
+basename: laus-2018
 tags: []
 lang: gl
 draft: false

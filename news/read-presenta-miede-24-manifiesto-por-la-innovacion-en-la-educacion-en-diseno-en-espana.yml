@@ -24,7 +24,7 @@ body:
     text: "Descargar MIEDE´24"
     type: button
 intro: "El pasado 5 de abril, se presentó en Matadero Madrid MIEDE´24, el Manifiesto por la Innovación en la Educación en Diseño en España, dentro de las actividades paralelas de la exposición FSWD organizada por READ en colaboración con Dimad y el patrocinio de UDIT."
-slug: read-presenta-miede-24-manifiesto-por-la-innovacion-en-la-educacion-en-diseno-en-espana
+basename: read-presenta-miede-24-manifiesto-por-la-innovacion-en-la-educacion-en-diseno-en-espana
 tags: []
 lang: es
 draft: false

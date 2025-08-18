@@ -1,6 +1,6 @@
 id: 367
 title: "Año Sabatini"
-slug: ano-sabatini-es
+basename: ano-sabatini-es
 body:
   - text: "Imagen gráfica para las actividades del _Año Sabatini 2021._"
     type: text

@@ -1,6 +1,6 @@
 id: 396
 title: "Naos, proxecto editorial"
-slug: naos-proxecto-editorial
+basename: naos-proxecto-editorial
 body:
   - image: /img/portfolio/images/revista.jpg
     text: ""

@@ -19,7 +19,7 @@ body:
     text: ""
     type: image
 intro: "Los utilizamos todos los días. Influyen en nuestras vidas. Son miles de millones. Son tan comunes que incluso rara vez pensamos en ellos: objetos ocultos de la vida cotidiana. Ya sea un tornillo, una bolsa de té, un sacacorchos, un clip o una cremallera, estos objetos son clásicos."
-slug: objetos-de-la-vida-cotidiana
+basename: objetos-de-la-vida-cotidiana
 tags: []
 lang: es
 draft: false

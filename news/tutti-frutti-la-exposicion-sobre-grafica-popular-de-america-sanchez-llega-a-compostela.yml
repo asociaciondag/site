@@ -16,7 +16,7 @@ body:
     text: "La noticia de la exposición en la web de la USC"
     type: button
 intro: "Este jueves 15 de octubre se inaugura en el Colegio Fonseca **Tutti Frutti. Gráfica popular y diversidad cultural**, una exposición que reúne una antología del proyecto fotográfico desarrollado por el diseñador gráfico [América Sánchez](http://graffica.info/america-sanchez/) para documentar expresiones de gráfica popular de todo el mundo."
-slug: tutti-frutti-la-exposicion-sobre-grafica-popular-de-america-sanchez-llega-a-compostela
+basename: tutti-frutti-la-exposicion-sobre-grafica-popular-de-america-sanchez-llega-a-compostela
 tags: []
 lang: es
 draft: false

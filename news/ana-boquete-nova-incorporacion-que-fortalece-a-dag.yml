@@ -26,7 +26,7 @@ body:
     text: "Perfil de Ana Boquete"
     type: button
 intro: "Iniciamos a semana con boas novas, sumamos unha nova socia. Ana Boquete incorpórase á Asociación Galega de Deseño para aportar e colaborar no avance e mellora do deseño galego, como colectivo, como profesión, e tamén como parte importante do sistema educativo e da nosa historia. Nos vindeiros meses compartirá con nós parte da información recompilada na súa investigación sobre a historia da prensa galega. Xa podedes ler o [primeiro artigo introdutorio](https://dag.gal/gl/o-deseno-na-historia-da-prensa-galega/)."
-slug: ana-boquete-nova-incorporacion-que-fortalece-a-dag
+basename: ana-boquete-nova-incorporacion-que-fortalece-a-dag
 tags:
   - "noticias socios/socias"
 lang: gl

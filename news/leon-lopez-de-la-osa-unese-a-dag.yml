@@ -14,7 +14,7 @@ body:
       Creo que en Galicia somos uns cantos os que nos adicamos a elo e eu so coñezo a uns poucos. Creo que temos moitas cousas que amosar.
     type: text
 intro: "León López de la Osa é a nova incorporación que temos en DAG. Unha persoa con moita experiencia ás costas e con moito interese na funcionalidade dos obxectos dentro dos espazos que habitamos. Benvido!"
-slug: leon-lopez-de-la-osa-unese-a-dag
+basename: leon-lopez-de-la-osa-unese-a-dag
 tags:
   - "noticias socios/socias"
 lang: gl

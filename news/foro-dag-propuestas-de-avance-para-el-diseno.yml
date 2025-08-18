@@ -12,7 +12,7 @@ body:
     text: Descargar
     file: /files/553e7aa2d898c-programa-foro-dag.pdf
 intro: null
-slug: foro-dag-propuestas-de-avance-para-el-diseno
+basename: foro-dag-propuestas-de-avance-para-el-diseno
 tags: []
 lang: es
 draft: false

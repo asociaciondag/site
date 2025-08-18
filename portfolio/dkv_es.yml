@@ -1,6 +1,6 @@
 id: 247
 title: DKV
-slug: dkv
+basename: dkv
 body:
   - image: /img/portfolio/images/dkv-2018-rebranding.jpg
     text: ""

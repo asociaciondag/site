@@ -18,7 +18,7 @@ body:
       Dos días, al final, de conversaciones, experiencias compartidas y nuevas ideas en torno al diseño que, agardeesperamos, tomen forma en lo que resta de año.
     type: text
 intro: "El pasado fin de semana, Uqui Permui y Laura Alonso, como representantes de DAG, acudieron a la Asemblea General de READ en Granada. Com​o siempre, sirvió para poner en común el trabajo realizado y para conocer el ecosistema del diseño en Andalucía."
-slug: dag-participa-de-la-asamblea-anual-de-read-en-granada
+basename: dag-participa-de-la-asamblea-anual-de-read-en-granada
 tags: []
 lang: es
 draft: false

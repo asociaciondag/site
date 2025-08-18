@@ -58,7 +58,7 @@ body:
       © Imágenes contenidas en el artículo: [Galiciana-Biblioteca Dixital de Galicia](http://www.galiciana.bibliotecadegalicia.xunta.es/es/inicio/inicio.do).
     type: text
 position: null
-slug: el-diseno-en-la-historia-de-la-prensa-gallega
+basename: el-diseno-en-la-historia-de-la-prensa-gallega
 cover: /img/articles/covers/cabeceira.jpg
 lang: es
 draft: false

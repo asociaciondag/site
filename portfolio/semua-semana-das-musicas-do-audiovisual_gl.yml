@@ -1,6 +1,6 @@
 id: 380
 title: "SEMUA: Semana das músicas do audiovisual"
-slug: semua-semana-das-musicas-do-audiovisual
+basename: semua-semana-das-musicas-do-audiovisual
 body:
   - text: "Deseño campaña I–III edicións."
     type: text

@@ -18,7 +18,7 @@ body:
     text: "Web Cañas y Tipos"
     type: button
 intro: "El próximo 22 de febrero tenemos nueva cita con el diseño tipográfico en el espacio Movidas Coworking de Carballo. Esta primera edición del 2025 contará con la presencia de Maite Canet y Manuel Griñó​n. La entrada es libre hasta completar la capacidad del local."
-slug: carballo-acoge-la-primera-edicion-de-canas-y-tipos-de-2025
+basename: carballo-acoge-la-primera-edicion-de-canas-y-tipos-de-2025
 tags:
   - "Difusión eventos"
 lang: es

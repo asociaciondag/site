@@ -16,7 +16,7 @@ body:
     text: "Perfil de socia DAG"
     type: button
 intro: "Lleva diez años vinculada al mundo del diseño, los mismos años que tiene la DAG, y cree que ha llegado el momento de trabajar desde lo colectivo por la dignificación del diseño gallego. Bienvenida!"
-slug: una-nueva-socia
+basename: una-nueva-socia
 tags: []
 lang: es
 draft: false

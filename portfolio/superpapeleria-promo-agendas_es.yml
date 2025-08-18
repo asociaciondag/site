@@ -1,6 +1,6 @@
 id: 411
 title: "Superpapeleria Promo agendas"
-slug: superpapeleria-promo-agendas
+basename: superpapeleria-promo-agendas
 body:
   - image: /img/portfolio/images/superpapeleria-promo-agendas.jpg
     text: ""

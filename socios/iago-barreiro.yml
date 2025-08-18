@@ -8,7 +8,7 @@ links:
     url: "https://www.instagram.com/iacus/"
     type: link
 name: "Iago Barreiro"
-slug: iago-barreiro
+basename: iago-barreiro
 avatarBig: null
 avatar: /img/avatars/iago-barreiro.jpg
 tags:

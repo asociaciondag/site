@@ -26,7 +26,7 @@ body:
     text: "Proxecto Universo Reich"
     type: button
 intro: "La segunda edición de los​​ Premios Josep Albert Mestre a la Investigación para la Mejora de la Calidad Educativa para trabajos o experiencias pedagógicas de docentes concedieron el segundo premio a nuestra socia Natalia Crecente y a su compañera en la EASD Ramón Falcón,​ Eva Valle, por el proyecto [Universo Reich](https://escoladeartelugo.com/universo-reich/). ​"
-slug: premio-josep-albert-mestre-para-natalia-crecente-y-eva-valle-con-el-proyecto-universo-reich
+basename: premio-josep-albert-mestre-para-natalia-crecente-y-eva-valle-con-el-proyecto-universo-reich
 tags:
   - "noticias socios/socias"
 lang: es

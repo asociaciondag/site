@@ -18,7 +18,7 @@ body:
       ¡Nos vemos pronto en persona!
     type: text
 intro: "Pablo es diseñador gráfico y está afincado en Ourense. Lleva poco tiempo en la DAG pero ya tiene ganas de participar y ver lo que se cuece por aquí. Esta es su presentación. ¡Bienvenido!"
-slug: pablo-alvarez-se-suma-a-la-dag
+basename: pablo-alvarez-se-suma-a-la-dag
 tags:
   - "noticias socios/socias"
 lang: es

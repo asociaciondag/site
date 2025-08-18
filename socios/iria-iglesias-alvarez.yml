@@ -8,7 +8,7 @@ links:
     url: "https://estudiognomo.com/"
     type: link
 name: "Iria Iglesias Álvarez"
-slug: iria-iglesias-alvarez
+basename: iria-iglesias-alvarez
 avatarBig: /img/avatars/avatar-iria-iglesias.jpg
 avatar: /img/avatars/avatar-iria-iglesias.jpg
 tags:

@@ -6,7 +6,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa0a6a13-logoigape.gif
 intro: null
-slug: ayudas-del-igape-a-las-empresas-gallegas-para-la-internacionalizacion
+basename: ayudas-del-igape-a-las-empresas-gallegas-para-la-internacionalizacion
 tags: []
 lang: es
 draft: false

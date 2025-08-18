@@ -1,6 +1,6 @@
 id: 150
 title: "Castelo Rock"
-slug: castelo-rock
+basename: castelo-rock
 body:
   - text: "Creación de la imagen de un festival de rock y de su _merchandising_. Imagen aplicada a los carteles, papelería, _merchandising_, programación del evento y señalética."
     type: text

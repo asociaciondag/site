@@ -31,7 +31,7 @@ body:
     text: ""
     type: image
 intro: 'O vindeiro día 8 de xaneiro preséntase no CGAC as 20:00 horas a exposición "En torno da Baskerville".'
-slug: en-torno-da-baskerville
+basename: en-torno-da-baskerville
 tags:
   - "actividades dag"
 lang: gl

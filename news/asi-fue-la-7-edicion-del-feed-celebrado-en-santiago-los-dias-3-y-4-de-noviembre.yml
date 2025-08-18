@@ -30,7 +30,7 @@ body:
     text: "Flickr del FEED 2023"
     type: button
 intro: "El pasado 3 e 4 de noviembre la DAG citaba a profesionales, empresas y estudiantes de diseño​​ a participar de los talleres, de las conferencias y de las presentaciones de proyectos que se ofrecieron en esta 7ª edición del Foro FEED en Santiago de Compostela."
-slug: asi-fue-la-7-edicion-del-feed-celebrado-en-santiago-los-dias-3-y-4-de-noviembre
+basename: asi-fue-la-7-edicion-del-feed-celebrado-en-santiago-los-dias-3-y-4-de-noviembre
 tags:
   - "actividades dag"
 lang: es

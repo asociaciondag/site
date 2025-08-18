@@ -138,7 +138,7 @@ body:
 
     type: text
 position: null
-slug: vuelva-usted-manana
+basename: vuelva-usted-manana
 cover: /img/articles/covers/inmigracion.jpg
 lang: es
 draft: false

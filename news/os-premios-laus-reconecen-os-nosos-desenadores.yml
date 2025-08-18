@@ -40,7 +40,7 @@ body:
     mode: normal
     type: image
 intro: "O pasado venres, no transcurso da Nit Laus, desvelábase por fin a lista completa dos premiados cun Laus."
-slug: os-premios-laus-reconecen-os-nosos-desenadores
+basename: os-premios-laus-reconecen-os-nosos-desenadores
 tags:
   - "noticias socios/socias"
 lang: gl

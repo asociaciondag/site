@@ -1,6 +1,6 @@
 id: 409
 title: "Diseño packaging Frixia"
-slug: diseno-packaging-frixia
+basename: diseno-packaging-frixia
 body:
   - image: /img/portfolio/images/diseno-de-packaging-frixia.jpg
     text: ""

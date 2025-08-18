@@ -25,7 +25,7 @@ body:
       A imaxe corporativa foi deseñada polo socio de DAG Samuel Baltar, do [estudio Orixe](https://orixecreativa.com/), e en breve presentaremos a páxina web na que ademais de coñecer todos os detalles do encontro poderedes inscribirvos e participar nas mesas de traballo programadas, ​das mesas redondas, conferencias e debates.
     type: text
 intro: "Os próximos 21 e 22 de outubro celebrarase,​ no edificio Castelao do Museo Pontevedra, o 10ENAD. A décima edición dos Encontros Nacionais de Deseño que organiza READ e DAG, como asociación que ocupa a actual presidencia, desenvolverase baixo o lema «Cidades imaxinadas, cidades deseñadas» coa intención de responder á cuestión: «en que tipo de cidades queremos vivir?»"
-slug: caminando-cara-ao-10-enad
+basename: caminando-cara-ao-10-enad
 tags:
   - "actividades dag"
 lang: gl

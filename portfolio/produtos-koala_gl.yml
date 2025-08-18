@@ -1,6 +1,6 @@
 id: 295
 title: "Produtos Koala-Grupo ECI"
-slug: produtos-koala
+basename: produtos-koala
 body:
   - text: "Ilustracións vectoriais para _packaging_."
     type: text

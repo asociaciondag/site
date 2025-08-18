@@ -11,7 +11,7 @@ links:
     url: "http://www.maistypes.com/"
     type: link
 name: "Marcos Dopico Castro"
-slug: marcos-dopico-castro
+basename: marcos-dopico-castro
 avatarBig: null
 avatar: /img/avatars/554cf9af99972-marcos-dopico-castro.jpeg
 tags:

@@ -1,6 +1,6 @@
 id: 189
 title: V(b)ello
-slug: v-b-ello
+basename: v-b-ello
 body:
   - text: "Pieza en cerámica para Lelédacuca"
     type: text

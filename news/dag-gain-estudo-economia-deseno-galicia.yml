@@ -22,7 +22,7 @@ body:
     text: "Quero recibir máis información"
     type: button
 intro: "O estudo de investigación sobre o impacto e o retorno do deseño na economía galega é unha iniciativa da Axencia Galega de Innovación, que se enmarca no [Programa Deseño Galego para a Innovación 2020](http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+2020)."
-slug: dag-gain-estudo-economia-deseno-galicia
+basename: dag-gain-estudo-economia-deseno-galicia
 tags: []
 lang: gl
 draft: false

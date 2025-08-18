@@ -46,7 +46,7 @@ body:
       > A Xunta Directiva da DAG
     type: text
 intro: "El pasado 28 de diciembre de 2017 el ayuntamiento de A Coruña presentaba la imagen turística de la ciudad que ha resultado ganadora del concurso de ideas convocado por el Consorcio de Turismo y Congresos de A Coruña a principios de noviembre."
-slug: concursos-un-paso-adelante-y-otro-atras
+basename: concursos-un-paso-adelante-y-otro-atras
 tags:
   - concursos
 lang: es

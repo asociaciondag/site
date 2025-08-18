@@ -40,7 +40,7 @@ body:
       Xunta directiva de ADG-FAD, Asociación de Diseñadores Gráficos y Directores de Arte
     type: text
 intro: "Este documento manifesta a posición da Asociación de Directores de Arte y Diseñadores Gráficos ADG/FAD respecto á convocatoria de concursos entre deseñadores. Calquera que estea dacordo pode citalo ou difundilo citando a súa procedencia."
-slug: concursos-entre-desenadores
+basename: concursos-entre-desenadores
 tags:
   - concursos
 lang: gl

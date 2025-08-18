@@ -22,7 +22,7 @@ body:
     text: "Perfil de socia DAG"
     type: button
 intro: "Teníamos a dos, [Carlos](https://dag.gal/gl/carlos-alvarez/) y [Noelia](https://dag.gal/gl/noelia-fernandez-estevez/), y hoy recibimos a Susana, la tercera. Muchos de vosotros pudisteis conocerla en persona en la [asamblea general](https://dag.gal/es/no-solo-una-asamblea-general/) de la DAG de este año, cuando los tres nos abrieron las puertas de su estudio y nos trataron tan maravillosamente bien. El resto tenéis ahora una magnífica ocasión."
-slug: una-desonadora-mas-en-la-dag
+basename: una-desonadora-mas-en-la-dag
 tags: []
 lang: es
 draft: false

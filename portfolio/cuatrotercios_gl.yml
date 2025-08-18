@@ -1,6 +1,6 @@
 id: 279
 title: Cuatrotercios
-slug: cuatrotercios
+basename: cuatrotercios
 body:
   - image: /img/portfolio/images/logotipo-cuatrotercios.jpg
     text: ""

@@ -1,6 +1,6 @@
 id: 121
 title: "The Goote Project, la moneda distópica"
-slug: the-goote-project-la-moneda-distopica
+basename: the-goote-project-la-moneda-distopica
 body:
   - text: |-
       Este proyecto define el concepto, diseño gráfico y funcionalidad de una moneda nacida de la lectura de dos novelas de ficción distópica: _We_ (Yevgueni Zamyatin, 1921) y _1984_ (George Orwell, 1948).

@@ -1,6 +1,6 @@
 id: 328
 title: VANENBIKKE
-slug: vanenbikke
+basename: vanenbikke
 body:
   - image: /img/portfolio/images/vanenbikke.jpg
     text: ""

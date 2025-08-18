@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Dous anos despois de gañar o Premio Mestre Mateo á Mellor Obra Interactiva con Flocos.tv, [A navalla suíza](http://anavallasuiza.com/) repite nominación."
-slug: a-navalla-suiza-nominada-aos-premios-mestre-mateo-por-eufalo-tv
+basename: a-navalla-suiza-nominada-aos-premios-mestre-mateo-por-eufalo-tv
 tags: []
 lang: gl
 draft: false

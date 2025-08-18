@@ -8,7 +8,7 @@ links:
     url: "https://www.linkedin.com/in/mariaagra"
     type: linkedin
 name: "María Agra"
-slug: maria-agra
+basename: maria-agra
 avatarBig: null
 avatar: /img/avatars/sin-arruga-sin-fondo.jpg
 tags:

@@ -24,7 +24,7 @@ body:
     text: "Consulta las bases en la web del Clúster"
     type: button
 intro: "Unos premios que nacen para poner en valor la calidad del trabajo realizado por los profesionales gallegos en ámbitos como la publicidad, el diseño, la edición, la impresión, el marketing y la comunicación."
-slug: el-cluster-de-la-comunicacion-grafica-convoca-los-primeros-premios-de-la-comunicacion-y-del-marketing-gallego
+basename: el-cluster-de-la-comunicacion-grafica-convoca-los-primeros-premios-de-la-comunicacion-y-del-marketing-gallego
 tags: []
 lang: es
 draft: false

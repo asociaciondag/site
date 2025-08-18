@@ -25,7 +25,7 @@ body:
   - text: "A Asemblea extendeuse de xeito informal nun xantar común onde continuaron as conversas e o bo ambiente, recuperando a práctica xa case olvidada de xuntarnos e intercambiar inquedanzas, opinións, ideas e reflexións sobre a propia DAG e o sector en xeral."
     type: text
 intro: "O pasado 18 de xuño celebrouse a Asemblea Xeral na que se deu conta de todo o traballo desenvolvido neste último ano e se procedeu á renovación d​a Xunta Directiva. Así, Irene García, despois de catro anos, deixaba a presidencia e Xóse M. Augusto a asumía para exercer como tal os próximos dous anos."
-slug: a-dag-renova-a-sua-xunta-directiva-na-asemblea-xeral
+basename: a-dag-renova-a-sua-xunta-directiva-na-asemblea-xeral
 tags:
   - "actividades dag"
 lang: gl

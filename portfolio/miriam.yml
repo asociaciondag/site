@@ -1,6 +1,6 @@
 id: 160
 title: Miriam
-slug: miriam
+basename: miriam
 body:
   - image: /img/portfolio/images/573f2e3935070-miriam-digital-art-1-bh.jpg
     text: ""

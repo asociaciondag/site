@@ -64,7 +64,7 @@ body:
     text: "ADCE Festival"
     type: button
 intro: "Rewiring the Creative Machine es el concepto que articula el programa de conferencias, talleres y actividades de _networking_ que ofrece el Festival."
-slug: la-v-edicion-del-adce-european-creativity-festival-aborda-la-ineludible-y-necesaria-transformacion-del-proceso-creativo
+basename: la-v-edicion-del-adce-european-creativity-festival-aborda-la-ineludible-y-necesaria-transformacion-del-proceso-creativo
 tags: []
 lang: es
 draft: false

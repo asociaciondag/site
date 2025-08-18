@@ -35,7 +35,7 @@ body:
     text: ""
     type: image
 intro: "Han pasado ocho años desde su creación y la DAG renueva su identidad corporativa"
-slug: nueva-identidad-corporativa-para-la-dag
+basename: nueva-identidad-corporativa-para-la-dag
 tags: []
 lang: es
 draft: false

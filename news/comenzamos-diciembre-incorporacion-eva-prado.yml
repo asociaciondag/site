@@ -28,7 +28,7 @@ body:
       Saludos y ¡gracias por acogerme!
     type: text
 intro: "A punto de finalizar el año, seguimos sumando asociadas. [Eva Prado](https://dag.gal/es/eva-prado/) es la última incorporación y se acerca al diseño después de una larga trayectoria profesional en el ámbito de los museos. Seguro que aporta nuevas y refrescantes visiones. Nos alegra mucho que formes parte de la DAG, Eva, ¡bienvenida!"
-slug: comenzamos-diciembre-incorporacion-eva-prado
+basename: comenzamos-diciembre-incorporacion-eva-prado
 tags:
   - "noticias socios/socias"
 lang: es

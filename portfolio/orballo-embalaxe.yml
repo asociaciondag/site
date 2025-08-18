@@ -1,6 +1,6 @@
 id: 336
 title: Orballo
-slug: orballo-embalaxe
+basename: orballo-embalaxe
 body:
   - image: /img/portfolio/images/orballo-embalaxe.jpg
     text: ""

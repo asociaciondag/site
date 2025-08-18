@@ -25,7 +25,7 @@ body:
       Durante a gala tamén se entregou o Premio Paraugas Honorífico a Cruz Novillo, homenaxe que recolleu o seu fillo e socio en [Cruz Más Cruz](https://www.cruznovillo.com/), para recoñecer a figura dun profesional coñecido pola súa obra pero moi descoñecido pola sociedade despois de moitos anos traballando en silencio para deseñar España.
     type: text
 intro: "Os Premios de Comunicación e Marketing de Galicia ([Premios Paraugas](http://premios.clustercomunicacion.gal/)) naceron en 2016 para pór en valor o traballo das empresas e dos creativos e das creativas de Galicia. A gala de entrega da cuarta edición celebrouse o pasado 29 de novembro en Expourense."
-slug: os-premios-paraugas-de-deseno-son-para
+basename: os-premios-paraugas-de-deseno-son-para
 tags:
   - "noticias socios/socias"
 lang: gl

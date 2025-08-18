@@ -14,7 +14,7 @@ links:
     url: "https://www.behance.net"
     type: link
 name: "Alberto Fernández García"
-slug: alberto-fernandez-garcia
+basename: alberto-fernandez-garcia
 avatarBig: null
 avatar: /img/avatars/alberto-fernandez-garcia-avatar.jpg
 tags:

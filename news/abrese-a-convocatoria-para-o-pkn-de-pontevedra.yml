@@ -17,7 +17,7 @@ body:
     text: Descargar
     type: file
 intro: "Xa é posible inscribirse para participar na noite PECHA KUCHA de Pontevedra, un encontro informal de creativos no que cada participante dispón de 20 segundos e 20 imaxes para expor o seu proxecto ante o público."
-slug: abrese-a-convocatoria-para-o-pkn-de-pontevedra
+basename: abrese-a-convocatoria-para-o-pkn-de-pontevedra
 tags: []
 lang: gl
 draft: false

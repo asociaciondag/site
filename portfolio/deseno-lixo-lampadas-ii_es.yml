@@ -1,6 +1,6 @@
 id: 197
 title: "Deseño&Lixo // Lámpadas II"
-slug: deseno-lixo-lampadas-ii
+basename: deseno-lixo-lampadas-ii
 body:
   - text: "100% Basura (pasta de papel)"
     type: text

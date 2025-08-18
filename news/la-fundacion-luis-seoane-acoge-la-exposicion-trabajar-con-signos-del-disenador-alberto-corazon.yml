@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "Se inauguró en noviembre, pero aun estáis a tiempo de visitarla porque permanecerá abierta hasta el 23 de febrero en la [Fundación Luís Seoane](http://www.luisseoanefund.org/fundacionls/) de A Coruña."
-slug: la-fundacion-luis-seoane-acoge-la-exposicion-trabajar-con-signos-del-disenador-alberto-corazon
+basename: la-fundacion-luis-seoane-acoge-la-exposicion-trabajar-con-signos-del-disenador-alberto-corazon
 tags: []
 lang: es
 draft: false

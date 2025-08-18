@@ -27,7 +27,7 @@ body:
     text: "Inscricións e información na páxina do CMD"
     type: button
 intro: "O [Clúster da Madeira e o Deseño](http://clustermadeira.com/) de Galicia organiza a IX Xornada de Arquitectura e Deseño."
-slug: ix-xornada-de-arquitectura-e-deseno-na-cidade-da-cultura
+basename: ix-xornada-de-arquitectura-e-deseno-na-cidade-da-cultura
 tags: []
 lang: gl
 draft: false

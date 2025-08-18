@@ -20,7 +20,7 @@ body:
     text: "Información da xornada e inscrición​s"
     type: button
 intro: "O ciclo «Deseño e emprendemento» organizado pola Axencia Galega de Innovación dentro do Programa Diferenza, presenta unha primeira xornada o próximo xoves 1​6 de xuño dirixida á comunidade​ emprendedora co obxectivo de explicar e visibilizar a utilidade do deseño como ferramenta de innovación e competitividade empresarial."
-slug: a-dag-participa-na-xornada-crecer-co-deseno-organizada-por-gain
+basename: a-dag-participa-na-xornada-crecer-co-deseno-organizada-por-gain
 tags: []
 lang: gl
 draft: false

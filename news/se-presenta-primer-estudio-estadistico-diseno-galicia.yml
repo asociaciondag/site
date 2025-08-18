@@ -45,7 +45,7 @@ body:
     text: "Web del estudio"
     type: button
 intro: "El pasado 15 de octubre, en el seno del 9º Encuentro Nacional de Asociaciones de Diseño, organizado por la Red Española de Asociaciones de Diseño (READ) y la Asociación Galega de Deseño (DAG) en Santiago de Compostela, [se presentó el «Estudio de la Economía​ ​del Diseño en Galicia»](https://youtu.be/3VbJuMxALGA?t=3358), un proyecto promovido por la Xunta de Galicia y la Axencia Galega de Innovación, GAIN, y desarrollado por la DAG a través de un equipo de personas pertenecientes a diferentes disciplinas y profesiones."
-slug: se-presenta-primer-estudio-estadistico-diseno-galicia
+basename: se-presenta-primer-estudio-estadistico-diseno-galicia
 tags:
   - "actividades dag"
 lang: es

@@ -31,7 +31,7 @@ body:
     text: "X Encuentro de Tipografía do Porto"
     type: button
 intro: "Este tercer warm up del X Encuentro de Tipografía se desarrollará entre el 17 y el 18 de octubre, y forma parte de los eventos satélite de la Porto Design Biennale que está teniendo lugar en diferentes lugares de O Porto y Matosiños."
-slug: maria-ramos-estara-en-el-3o-warm-up-del-10o-encuentro-de-tipografia
+basename: maria-ramos-estara-en-el-3o-warm-up-del-10o-encuentro-de-tipografia
 tags:
   - "noticias socios/socias"
 lang: es

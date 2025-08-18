@@ -24,7 +24,7 @@ body:
     text: "Perfil de Fito Baldueza"
     type: button
 intro: "Empezamos la semana presentando a Fito Baldueza, una de las últimas incorporaciones a la Asociación Galega de Deseño. En este otoño con tanta actividad seguimos sumando buenos profesionales del diseño como Fito, especializado en creación de marca y tipografía, que hace tiempo regresó a Galicia para trabajar desde aquí. ¡Bienvenido!"
-slug: fito-baldueza-se-incorpora-dag
+basename: fito-baldueza-se-incorpora-dag
 tags:
   - "noticias socios/socias"
 lang: es

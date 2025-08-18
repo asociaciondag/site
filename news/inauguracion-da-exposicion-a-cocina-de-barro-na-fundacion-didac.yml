@@ -24,7 +24,7 @@ body:
     text: "A lume manso, Pepe Barro"
     type: file
 intro: "O próximo 28 de setembro ás 19 h​ ​inaugúrase na Fundación Didac a exposición «A cociña de Barro. Os cadernos de deseño», unha viaxe de 50 anos no deseño protagonizada polo noso socio Pepe Barro a través de 66 cadernos de debuxo, proxeccións e varias pezas penduradas. Poderase visitar ata o 22 de decembro de 2023."
-slug: inauguracion-da-exposicion-a-cocina-de-barro-na-fundacion-didac
+basename: inauguracion-da-exposicion-a-cocina-de-barro-na-fundacion-didac
 tags:
   - "noticias socios/socias"
 lang: gl

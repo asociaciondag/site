@@ -40,7 +40,7 @@ body:
     text: "Web do 12 ENAD"
     type: button
 intro: "O 12 ENAD tivo lugar en Cuenca, sede da presidencia de READ, baixo o lema «Deseño dos coidados, coidados do deseño». A delegación galega de DAG, formada por cinco persoas, participou de manera activa de todas as actividades grazas ao apoio de Gain."
-slug: 2-dias-para-coidar-o-deseno-en-cuenca
+basename: 2-dias-para-coidar-o-deseno-en-cuenca
 tags: []
 lang: gl
 draft: false

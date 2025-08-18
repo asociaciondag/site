@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "Por segundo año consecutivo y en el marco del acuerdo de colaboración suscrito entre la [Escuela Universitaria de Diseño Industrial](http://www.eudi.udc.es/) de la UDC y Seat, los alumnos de la EUDI les presentaron la semana pasada a los responsables de la empresa de automoción sus propuestas para un nuevo modelo de coche."
-slug: alumnos-de-la-ingenieria-tecnica-de-la-eudi-disenan-como-proyecto-fin-de-carrera-un-modelo-de-coche-sin-conductor-para-seat
+basename: alumnos-de-la-ingenieria-tecnica-de-la-eudi-disenan-como-proyecto-fin-de-carrera-un-modelo-de-coche-sin-conductor-para-seat
 tags: []
 lang: es
 draft: false

@@ -14,7 +14,7 @@ body:
       Máis información na [web das I Xornadas Internacionais Madeira 2020](http://feiradegalicia.com/jornadas_internacionales_madera/index.php/gl/).
     type: text
 intro: "A Axencia Galega da Industria Forestal (XERA), en colaboración coa Escola de Arquitectura de CESUGA, propón un completo programa para falar da madeira desde múltiples perspectivas: a tecnoloxía, a arquitectura, a xestión forestal e o deseño."
-slug: xornadasmadeira2020
+basename: xornadasmadeira2020
 tags: []
 lang: gl
 draft: false

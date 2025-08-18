@@ -13,7 +13,7 @@ body:
        Ao finalizar o acto farase entrega de exemplares aos asistentes.
     type: text
 intro: "Será o próximo martes, 6 de outubro, ás 20.00 h cando a Escola de Arte e Superior de Deseño Antonio Faílde presente Lab, o seu anuario 2015, no Centro Cultural Marcos Valcárcel."
-slug: presentase-lab-o-anuario-da-easd-de-ourense
+basename: presentase-lab-o-anuario-da-easd-de-ourense
 tags: []
 lang: gl
 draft: false

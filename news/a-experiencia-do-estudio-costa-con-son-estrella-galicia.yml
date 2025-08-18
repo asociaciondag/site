@@ -17,7 +17,7 @@ body:
       Lugar: Salón de Actos da [EASD Pablo Picasso](http://www.eapicasso.com/) (rúa Pelamios, 2, 15001, A Coruña)
     type: text
 intro: "Este 22 de novembro Dani Bembibre e David Silvosa, do estudio coruñés Costa, estarán na EASD Pablo Picasso para falar da traxectoria de SON Estrella Galicia, unha marca independente de música independente que axudaron a crear e a desenvolver ao longo dos dez anos de vida do proxecto."
-slug: a-experiencia-do-estudio-costa-con-son-estrella-galicia
+basename: a-experiencia-do-estudio-costa-con-son-estrella-galicia
 tags:
   - "noticias socios/socias"
 lang: gl

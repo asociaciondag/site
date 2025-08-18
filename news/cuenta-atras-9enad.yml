@@ -22,7 +22,7 @@ body:
     text: "Web 9ENAD"
     type: button
 intro: "El 9º Encuentro Nacional de Asociaciones de Diseño, que tendrá lugar en Santiago de Compostela del 15 al 17 de octubre, acaba de activar su web para recibir las inscripciones en las mesas de trabajo y ofrecer toda la información sobre el programa y las personas participantes del evento. Las restricciones actuales de los aforos se tendrán en cuenta a la hora de recibir las solicitudes."
-slug: cuenta-atras-9enad
+basename: cuenta-atras-9enad
 tags:
   - "actividades dag"
 lang: es

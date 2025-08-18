@@ -17,7 +17,7 @@ body:
     text: ""
     type: image
 intro: "A [Oficina do Cego](http://oficinadocego.blogspot.com/) é unha asociación sen ánimo de lucro que desenvolve o seu traballo no dominio das artes gráficas. Fundada en Lisboa, en 2009, dedícase a desenvolver e promover todo un conxunto de prácticas de impresión e autoedición."
-slug: isilda-ou-a-mudez-dos-codigos-de-barras
+basename: isilda-ou-a-mudez-dos-codigos-de-barras
 tags: []
 lang: gl
 draft: false

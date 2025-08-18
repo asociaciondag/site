@@ -18,7 +18,7 @@ body:
     text: "FORMAS DO DESEÑO. GALICIA XXI"
     type: button
 intro: "A mostra, que está organizada polo Auditorio e a Fundación DIDAC, é unha oportunidade para achegarse ao traballo que levan desenvolvendo os deseñadores e as deseñadoras galegos desde a década dos 70."
-slug: hoxe-inaugurase-formas-do-deseno-galicia-xxi
+basename: hoxe-inaugurase-formas-do-deseno-galicia-xxi
 tags:
   - "noticias socios/socias"
 lang: gl

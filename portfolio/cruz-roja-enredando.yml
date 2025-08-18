@@ -1,6 +1,6 @@
 id: 405
 title: "Cruz Roja Enredando"
-slug: cruz-roja-enredando
+basename: cruz-roja-enredando
 body:
   - image: /img/portfolio/images/cruz-roja-enredando.jpg
     text: ""

@@ -18,7 +18,7 @@ body:
     text: "Perfil na DAG"
     type: button
 intro: "Se llama Bea Lema y es diseñadora de producto. Gracias por unirte a la DAG y bienvenida!"
-slug: ano-nuevo-socia-nueva
+basename: ano-nuevo-socia-nueva
 tags: []
 lang: es
 draft: false

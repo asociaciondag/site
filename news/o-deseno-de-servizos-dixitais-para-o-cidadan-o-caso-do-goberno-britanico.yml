@@ -18,7 +18,7 @@ body:
     text: 'FEED''17'
     type: button
 intro: "Este será o tema da conferencia de Coca Rivas, unha deseñadora de servizos galega que leva máis de quince anos traballando en tecnoloxías dixitais, definindo experiencias de cliente (internet, extranet, intranet, produtos e aplicacións) montando equipos, estabelecendo e aplicando estratexias dixitais."
-slug: o-deseno-de-servizos-dixitais-para-o-cidadan-o-caso-do-goberno-britanico
+basename: o-deseno-de-servizos-dixitais-para-o-cidadan-o-caso-do-goberno-britanico
 tags:
   - "actividades dag"
 lang: gl

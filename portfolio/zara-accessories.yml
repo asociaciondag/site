@@ -1,6 +1,6 @@
 id: 383
 title: "Zara accessories"
-slug: zara-accessories
+basename: zara-accessories
 body:
   - text: ""
     type: text

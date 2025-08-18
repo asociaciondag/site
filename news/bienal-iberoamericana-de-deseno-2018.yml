@@ -22,7 +22,7 @@ body:
     text: "Bases da convocatoria BID 18"
     type: button
 intro: "A Bienal de Deseño Iberoamericana (BID 18) é unha exposición que organiza a [Fundación Diseño Madrid](https://dimad.org/) cada dous anos e que reúne os mellores proxectos de todas as áreas do deseño de América Latina, España e Portugal."
-slug: bienal-iberoamericana-de-deseno-2018
+basename: bienal-iberoamericana-de-deseno-2018
 tags: []
 lang: gl
 draft: false

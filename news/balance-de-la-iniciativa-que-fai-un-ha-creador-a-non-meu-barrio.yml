@@ -110,7 +110,7 @@ body:
     text: "Que fai un creador no teu barrio?"
     type: button
 intro: "Hace unos días finalizaba en Compostela el segundo de los talleres del proyecto participativo y colaborativo _Que fai un/ha creador/a no meu barrio?_ promovido por DARDO."
-slug: balance-de-la-iniciativa-que-fai-un-ha-creador-a-non-meu-barrio
+basename: balance-de-la-iniciativa-que-fai-un-ha-creador-a-non-meu-barrio
 tags:
   - "noticias socios/socias"
 lang: es

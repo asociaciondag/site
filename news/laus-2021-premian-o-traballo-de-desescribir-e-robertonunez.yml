@@ -37,7 +37,7 @@ body:
     text: "Premios Laus 2021"
     type: button
 intro: "A edición anual dos premios Laus revelou os nomes dos proxectos gañadores na gala celebrada o pasado xoves 10 de xuño. Un ano máis, atopamos na lista de premios o traballo de varios socios: [Roberto Núñez](https://robertonunez.com/), co seu estudio ubicado en Barcelona, e Suso Vázquez e Cibrán Rico, do estudio galego [desescribir](http://www.desescribir.com/)."
-slug: laus-2021-premian-o-traballo-de-desescribir-e-robertonunez
+basename: laus-2021-premian-o-traballo-de-desescribir-e-robertonunez
 tags:
   - "noticias socios/socias"
 lang: gl

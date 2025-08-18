@@ -27,7 +27,7 @@ body:
     text: ""
     type: image
 intro: 'Tradicionalmente, el entorno sociocultural holandés incluye peculiaridades como una cierta "anarquía oficial" existente favorecida por el apoyo y la libertad de las instituciones oficiales hacia los diseñadores y su trabajo, una apuesta decidida por el diseño que continua una larga tradición de subvenciones culturales que, lejos de encauzar los resultados hacia una línea oficialista, permite la adopción de enfoques poco convencionales.'
-slug: una-recomendacion-bibliografica-the-style-of-the-state-the-visual-identity-of-the-dutch-government
+basename: una-recomendacion-bibliografica-the-style-of-the-state-the-visual-identity-of-the-dutch-government
 tags: []
 lang: es
 draft: false

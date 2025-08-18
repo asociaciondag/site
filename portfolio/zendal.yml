@@ -1,6 +1,6 @@
 id: 339
 title: Zendal
-slug: zendal
+basename: zendal
 body:
   - image: /img/portfolio/images/zendal-awards.jpg
     text: ""

@@ -1,6 +1,6 @@
 id: 310
 title: "Fundación Barrié"
-slug: fundacion-barrie
+basename: fundacion-barrie
 body:
   - image: /img/portfolio/images/fundacion-barrie.jpg
     text: ""

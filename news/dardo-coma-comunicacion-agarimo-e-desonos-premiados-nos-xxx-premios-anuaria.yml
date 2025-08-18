@@ -16,7 +16,7 @@ body:
     text: "Web dos premios"
     type: button
 intro: 'Dardo levou dous Ouros en diferentes categorías co catálogo realizado para o artista Markus Linnenbrink, ademais de tres Seleccións con outros proxectos. Coma comunicación levou unha Selección polo logotipo creado para o Tribunal Superior de Xustiza de Galicia, Desoños outra polo deseño da web AR\\DE e Agarimo polo _naming_ Zoireo.'
-slug: dardo-coma-comunicacion-agarimo-e-desonos-premiados-nos-xxx-premios-anuaria
+basename: dardo-coma-comunicacion-agarimo-e-desonos-premiados-nos-xxx-premios-anuaria
 tags:
   - "noticias socios/socias"
 lang: gl

@@ -18,7 +18,7 @@ body:
     text: "Máis información"
     type: button
 intro: "O vindeiro 17 de outubro, a DAG estará presente nunha mesa redonda dentro do XXV Encontro para a Normalización Lingü​ística que organiza o Consello da Cultura Galega. O noso presidente Xóse García será quen nos represente​​​ como entidade na xornada de mañá. ​"
-slug: a-dag-participa-no-xxv-encontro-para-a-normalizacion-lingueistica-do-consello-da-cultura-galega
+basename: a-dag-participa-no-xxv-encontro-para-a-normalizacion-lingueistica-do-consello-da-cultura-galega
 tags: []
 lang: gl
 draft: false

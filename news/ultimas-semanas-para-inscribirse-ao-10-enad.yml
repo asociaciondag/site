@@ -31,7 +31,7 @@ body:
     text: "Web 10º ENAD e inscricións"
     type: button
 intro: "As inscricións ao 10º Encontro Nacional de Deseño están abertas desde agosto a través da web [www.designread.es/10enad](http://www.designread.es/10enad), e máis da metade de prazas xa están cubertas; polo que cómpre que aquelas persoas que aínda non estean inscritas o fagan para poder participar das mesas de traballo e de todas as actividades que temos organizadas. ​​​​"
-slug: ultimas-semanas-para-inscribirse-ao-10-enad
+basename: ultimas-semanas-para-inscribirse-ao-10-enad
 tags:
   - "actividades dag"
 lang: gl

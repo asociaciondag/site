@@ -7,7 +7,7 @@ body:
       +info: <http://www.asociaciondag.org/accion-dag-18.html>
     type: text
 intro: "Péchase o prazo de recepción de traballos para a exposición Diálogos que se exhibirá no Pazo de Cultura de Pontevedra."
-slug: logotipos-marcas-identidade-grafica
+basename: logotipos-marcas-identidade-grafica
 tags:
   - "actividades dag"
 lang: gl

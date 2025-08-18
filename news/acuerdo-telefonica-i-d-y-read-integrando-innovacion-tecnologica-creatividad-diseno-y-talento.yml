@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "[Telefónica I+D](http://www.tid.es/es), la empresa especializada en I+D+I del Grupo Telefónica, y [READ](http://www.designread.es/) (Red Española de Asociaciones de Diseño a la que pertenece la DAG) han firmado un acuerdo marco de colaboración para cooperar en proyectos e iniciativas conjuntas e intercambiar conocimientos e investigación en el campo del diseño, tanto digital como de productos y servicios."
-slug: acuerdo-telefonica-i-d-y-read-integrando-innovacion-tecnologica-creatividad-diseno-y-talento
+basename: acuerdo-telefonica-i-d-y-read-integrando-innovacion-tecnologica-creatividad-diseno-y-talento
 tags: []
 lang: es
 draft: false

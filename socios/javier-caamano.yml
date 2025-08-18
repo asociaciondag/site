@@ -11,7 +11,7 @@ links:
     url: "https://www.facebook.com/pages/Mascolor-Comunicacion/1965421447028009"
     type: facebook
 name: "Javier Caamaño"
-slug: javier-caamano
+basename: javier-caamano
 avatarBig: null
 avatar: /img/avatars/avatar-mascolor.jpg
 tags:

@@ -25,7 +25,7 @@ body:
   - text: "La Asamblea se extendió de forma informal en una comida común donde continuaron las conversaciones y el buen ambiente, recuperando la práctica ya casi olvidada de juntarnos e intercambiar inquietudes, opiniones, ideas y reflexiones sobre la propia DAG y el sector en general."
     type: text
 intro: "El pasado 18 de junio se celebró l​a Asamblea General en la que se explicó todo el trabajo realizado en este último año y se procedió​ a la renovación d​e la Junta Directiva. Así, Irene García, después de cuatro años, dejaba la presidencia y Xóse M. Augusto la asumía para ejercer como tal los próximos dos años."
-slug: la-dag-renueva-su-junta-directiva-en-la-asamblea-general
+basename: la-dag-renueva-su-junta-directiva-en-la-asamblea-general
 tags:
   - "actividades dag"
 lang: es

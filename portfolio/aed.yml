@@ -1,6 +1,6 @@
 id: 331
 title: "AED Asociación Española de Directivos"
-slug: aed
+basename: aed
 body:
   - image: /img/portfolio/images/aed-asociacion-espanola-directivos.jpg
     text: ""

@@ -14,7 +14,7 @@ links:
     url: "https://www.linkedin.com/in/javier-marmon"
     type: link
 name: "Javier Martínez Monzoncillo"
-slug: javier-martinez-monzoncillo
+basename: javier-martinez-monzoncillo
 avatarBig: /img/avatars/avatarperfil-javiermarmon.PNG
 avatar: /img/avatars/avatarperfil-javiermarmon.PNG
 tags:

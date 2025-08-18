@@ -89,7 +89,7 @@ body:
     mode: normal
     type: image
 intro: "Art Directors Club of Europe, a asociación europea sen ánimo de lucro que ten como obxectivo promocionar a excelencia no deseño gráfico e a comunicación visual organiza o 3rd European Creativity Festival do 13 ao 15 de outubro en Barcelona."
-slug: o-3rd-european-creativity-festival-volve-a-barcelona-en-outubro
+basename: o-3rd-european-creativity-festival-volve-a-barcelona-en-outubro
 tags: []
 lang: gl
 draft: false

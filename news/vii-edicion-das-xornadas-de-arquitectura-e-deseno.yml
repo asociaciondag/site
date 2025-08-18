@@ -16,7 +16,7 @@ body:
     text: Descargar
     file: /files/553e7aa325724-xornadas-arquitectura-deseno.pdf
 intro: null
-slug: vii-edicion-das-xornadas-de-arquitectura-e-deseno
+basename: vii-edicion-das-xornadas-de-arquitectura-e-deseno
 tags: []
 lang: gl
 draft: false

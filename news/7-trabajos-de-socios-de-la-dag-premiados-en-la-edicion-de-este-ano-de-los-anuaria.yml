@@ -52,7 +52,7 @@ body:
     text: "Premiados Anuaria 2017"
     type: button
 intro: "Efectivamente, entre premios y selecciones anuaria, han sido 7 los trabajos de diseñadores de la DAG que han conseguido un Premio Anuaria o más de uno. Este es el caso de Guillotina Estudio y de Dardo, premiados ambos con tres galardones."
-slug: 7-trabajos-de-socios-de-la-dag-premiados-en-la-edicion-de-este-ano-de-los-anuaria
+basename: 7-trabajos-de-socios-de-la-dag-premiados-en-la-edicion-de-este-ano-de-los-anuaria
 tags: []
 lang: es
 draft: false

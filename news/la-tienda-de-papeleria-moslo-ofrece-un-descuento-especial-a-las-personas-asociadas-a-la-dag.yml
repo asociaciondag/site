@@ -12,7 +12,7 @@ body:
       Están en Santiago de Compostela, en la calle Virxe da Cerca nº 10, en horario de 10:00 a 15:00h y de 17:45 a 21:00 de lunes a viernes y sábados de 10:00 a 14:00 h. Aquellas personas asociadas que estén interesadas en acogerse al descuento online pueden solicitar el código correspondiente enviando un email a info@dag.gal. En la tienda física, con mostrar el carné de asociada o indicar el nombre y apellidos es suficiente.
     type: text
 intro: "[MOSLO](https://moslo.es/es/) la tienda de papelería de diseño y accesorios ubicada en Santiago de Compostela ofrece un descuento del 10% a todas las socias y socios tanto en la tienda física como en la tienda _online_."
-slug: la-tienda-de-papeleria-moslo-ofrece-un-descuento-especial-a-las-personas-asociadas-a-la-dag
+basename: la-tienda-de-papeleria-moslo-ofrece-un-descuento-especial-a-las-personas-asociadas-a-la-dag
 tags: []
 lang: es
 draft: false

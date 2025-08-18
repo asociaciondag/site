@@ -1,6 +1,6 @@
 id: 59
 title: "XXX Congreso Máxico Nacional"
-slug: xxx-congreso-maxico-nacional
+basename: xxx-congreso-maxico-nacional
 body:
   - text: "Cartel xeral do XXX Congreso e variacións para outras actividades relacionadas."
     type: text

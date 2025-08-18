@@ -9,7 +9,7 @@ body:
     text: Descargar
     file: /files/553e7aa1c7445-bid12-bases.pdf
 intro: null
-slug: ultimos-dias-para-inscribirse-en-la-bid12
+basename: ultimos-dias-para-inscribirse-en-la-bid12
 tags: []
 lang: es
 draft: false

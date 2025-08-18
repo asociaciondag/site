@@ -6,7 +6,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa277d72-clausura-crea.jpg
 intro: null
-slug: clausurase-a-1a-edicion-do-curso-de-creacion-de-empresas-de-deseno-crea
+basename: clausurase-a-1a-edicion-do-curso-de-creacion-de-empresas-de-deseno-crea
 tags: []
 lang: gl
 draft: false

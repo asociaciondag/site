@@ -1,6 +1,6 @@
 id: 255
 title: Matadero
-slug: matadero
+basename: matadero
 body:
   - image: /img/portfolio/images/matadero-2019-branding-y-comunicacion-visual.jpg
     text: ""

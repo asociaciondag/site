@@ -17,7 +17,7 @@ links:
     url: "https://www.instagram.com/nuria_carballo/"
     type: link
 name: "Nuria Carballo"
-slug: nuria-carballo
+basename: nuria-carballo
 avatarBig: null
 avatar: /img/avatars/1516541524300.jpg
 tags:

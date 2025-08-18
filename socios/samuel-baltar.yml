@@ -17,7 +17,7 @@ links:
     url: "https://www.instagram.com/orixecreativa"
     type: link
 name: "Samuel Baltar"
-slug: samuel-baltar
+basename: samuel-baltar
 avatarBig: null
 avatar: /img/avatars/img-4525-jpg-2.JPG
 tags:

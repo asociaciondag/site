@@ -23,7 +23,7 @@ links:
     url: "https://www.facebook.com/lopezlab1"
     type: facebook
 name: "Mariola López"
-slug: mariola-lopez
+basename: mariola-lopez
 avatarBig: null
 avatar: /img/avatars/mariola-2.jpg
 tags:

@@ -17,7 +17,7 @@ body:
     text: ""
     type: image
 intro: "Como xa vén sendo habitual, velaquí a presentación da nova deseñadora da DAG."
-slug: temos-unha-nova-socia-na-dag-benvida
+basename: temos-unha-nova-socia-na-dag-benvida
 tags:
   - "noticias socios/socias"
 lang: gl

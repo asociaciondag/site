@@ -39,7 +39,7 @@ body:
     text: ""
     type: image
 intro: "Mañana viernes, día 18 de octubre, darán comienzo las actividades del foro de edición y diseño, feed 2013. El programa para la primera jornada dedicada al deseño gráfico y editorial viene cargado de propuestas: con un seminario impartido por César Ávila, charlas y una mesa redonda que al final de la tarde servirá para cerrar la sesión."
-slug: el-feed-2013-arranca
+basename: el-feed-2013-arranca
 tags:
   - "actividades dag"
 lang: es

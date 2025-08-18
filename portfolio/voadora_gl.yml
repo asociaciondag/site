@@ -1,6 +1,6 @@
 id: 376
 title: Voadora
-slug: voadora
+basename: voadora
 body:
   - text: "Deseño da imaxe gráfica da compañía Voadora."
     type: text

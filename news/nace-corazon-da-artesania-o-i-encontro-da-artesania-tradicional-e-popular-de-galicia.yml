@@ -11,7 +11,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa1c5835-corazon-da-artesania.jpg
 intro: null
-slug: nace-corazon-da-artesania-o-i-encontro-da-artesania-tradicional-e-popular-de-galicia
+basename: nace-corazon-da-artesania-o-i-encontro-da-artesania-tradicional-e-popular-de-galicia
 tags: []
 lang: gl
 draft: false

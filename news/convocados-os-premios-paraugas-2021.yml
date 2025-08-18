@@ -18,7 +18,7 @@ body:
     text: "Bases dos Premios Paraugas"
     type: button
 intro: "O Cluster da Comunicación Gráfica de Galicia convoca unha nova edición para os VI Premios Paraugas. As empresas e profesionais interesados en inscribir os seus proxectos poderán facelo ata o próximo 25 de outubro."
-slug: convocados-os-premios-paraugas-2021
+basename: convocados-os-premios-paraugas-2021
 tags: []
 lang: gl
 draft: false

@@ -16,7 +16,7 @@ body:
     text: "Perfil na páxina da DAG"
     type: button
 intro: "Chámase María Ramos e, aínda que esta deseñadora de tipografías e gráfica xa levaba un tempo participando nas actividades da DAG, deu o paso de asociarse agora porque quere involucrarse máis activamente. Benvinda!"
-slug: presentamosvos-a-nova-socia-da-dag
+basename: presentamosvos-a-nova-socia-da-dag
 tags: []
 lang: gl
 draft: false

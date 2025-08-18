@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "Este xoves 15 de maio celébrase ás 19.30 h na galería Sargadelos da Coruña a mesa redonda A vixencia das formas. Unha ollada ao pasado, un pé no futuro."
-slug: a-vixencia-das-formas-unha-ollada-ao-pasado-un-pe-no-futuro
+basename: a-vixencia-das-formas-unha-ollada-ao-pasado-un-pe-no-futuro
 tags: []
 lang: gl
 draft: false

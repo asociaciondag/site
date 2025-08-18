@@ -1,6 +1,6 @@
 id: 423
 title: "Burmet Burger & Grill"
-slug: burmet-burger-grill
+basename: burmet-burger-grill
 body:
   - image: /img/portfolio/images/burmet-burger-grill.jpg
     text: ""

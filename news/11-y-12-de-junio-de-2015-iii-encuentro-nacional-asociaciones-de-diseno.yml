@@ -26,7 +26,7 @@ body:
     mode: normal
     type: image
 intro: "Desde finales del año pasado la DAG, Asociación Gallega de Diseñadores, forma parte de la Red Española de asociaciones de Diseño (READ) constituida en el 2011 para la coordinación e integración de la comunidad nacional de diseñadores, junto a las asociaciones de Andalucía, Valencia, Asturias, Cuenca, Extremadura, Madrid, Murcia, Soria y Euskadi. Se trata de unir fuerzas para conseguir el objetivo común de difundir la cultura del diseño, promover y hacer más visible nuestra actividad, fortaleciendo así nuestra profesión."
-slug: 11-y-12-de-junio-de-2015-iii-encuentro-nacional-asociaciones-de-diseno
+basename: 11-y-12-de-junio-de-2015-iii-encuentro-nacional-asociaciones-de-diseno
 tags: []
 lang: es
 draft: false

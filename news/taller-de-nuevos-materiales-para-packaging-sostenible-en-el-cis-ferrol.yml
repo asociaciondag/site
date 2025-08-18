@@ -25,7 +25,7 @@ body:
        <http://www.cisgalicia.org/contactos/campan/inscribir/18>
     type: text
 intro: "GAIN organiza un nuevo taller sobre nuevos materiales en el CIS Ferrol el próximo 14 de noviembre, dirigido a profesionales del diseño, personal investigador del campo de los nuevos materiales, estudiantes de diseño y empresas."
-slug: taller-de-nuevos-materiales-para-packaging-sostenible-en-el-cis-ferrol
+basename: taller-de-nuevos-materiales-para-packaging-sostenible-en-el-cis-ferrol
 tags: []
 lang: es
 draft: false

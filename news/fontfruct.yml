@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Creación de fontes tipográficas FontFruct presenta unha nova creación de fontes tipográficas de maneira online."
-slug: fontfruct
+basename: fontfruct
 tags: []
 lang: gl
 draft: false

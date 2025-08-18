@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "A nova directiva da DAG, Asociación Galega de Deseñadores, para os próximos dous anos estará constituída por Jesús Vázquez (presidente), Manuel del Río (vicepresidente), Segundo Fdez (tesoureiro) e Óscar Otero, quen repite como secretario. Como vogais da asociación actuarán Raquel Boo, María Agra, Cibrán Rico, Rebeca Ces, Noelia Fernández e Marcos Dopico."
-slug: a-dag-elixe-xunta-directiva-para-os-proximos-dous-anos
+basename: a-dag-elixe-xunta-directiva-para-os-proximos-dous-anos
 tags: []
 lang: gl
 draft: false

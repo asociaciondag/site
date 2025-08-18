@@ -18,7 +18,7 @@ body:
   - text: "La infomación actualizada relativa a todo el proceso puede seguirse en la web de [EMVSA](http://www.emvsa.es/index.php?option=com_content&view=article&id=58%3Aconvocatoria-de-bolsas-profesionais&catid=5%3Aperfil-del-contratante&Itemid=12&lang=en)"
     type: text
 intro: "EMVSA, la empresa municipal de la vivienda del ayuntamiento de A Coruña que asume las funciones que tienen que ver con la facilitación de viviendas para los colectivos en riesgo y actúa como oficina de mediación y asesoramiento en temas de habitabilidad, acaba de abrir una convocatoria para elaborar una lista de profesionales para contratar."
-slug: emvsa-abre-una-lista-de-profesionales-para-contratar
+basename: emvsa-abre-una-lista-de-profesionales-para-contratar
 tags: []
 lang: es
 draft: false

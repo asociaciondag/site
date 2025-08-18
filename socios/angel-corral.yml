@@ -14,7 +14,7 @@ links:
     url: "https://www.instagram.com/elnhote"
     type: link
 name: "Ángel Corral"
-slug: angel-corral
+basename: angel-corral
 avatarBig: null
 avatar: /img/avatars/foto-lnk.jpg
 tags:

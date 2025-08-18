@@ -1,6 +1,6 @@
 id: 390
 title: "Chilam Balam"
-slug: chilam-balam
+basename: chilam-balam
 body:
   - image: /img/portfolio/images/chilambalamvigo.jpg
     text: ""

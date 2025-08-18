@@ -9,7 +9,7 @@ body:
     mode: normal
     type: image
 intro: "El próximo jueves 16 de febrero se inaugura a las 20 h en la iglesia de la Universidad TECIDO CRU II. INSECTOS, CATEDRAIS, DOBRAS E TRENZAS. Exercicio e didáctica no deseño."
-slug: tecido-cru-ii-la-exposicion-de-esdemga-viaja-compostela
+basename: tecido-cru-ii-la-exposicion-de-esdemga-viaja-compostela
 tags: []
 lang: es
 draft: false

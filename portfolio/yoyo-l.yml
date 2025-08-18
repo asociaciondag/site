@@ -1,6 +1,6 @@
 id: 393
 title: "Yoyó L"
-slug: yoyo-l
+basename: yoyo-l
 body:
   - image: /img/portfolio/images/yoyo.jpg
     text: ""

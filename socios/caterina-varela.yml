@@ -10,7 +10,7 @@ links:
     url: "https://www.instagram.com/caterinavarelagarea/"
     type: link
 name: "Caterina Varela"
-slug: caterina-varela
+basename: caterina-varela
 avatarBig: null
 avatar: /img/avatars/whatsapp-image-2024-01-25-at-19-20-50.jpeg
 tags:

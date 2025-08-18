@@ -14,7 +14,7 @@ links:
     url: "https://www.linkedin.com/in/irene-garc%C3%ADa-42528820/"
     type: linkedin
 name: "Irene García Reyes"
-slug: irene-garcia-reyes
+basename: irene-garcia-reyes
 avatarBig: null
 avatar: /img/avatars/irene01.jpg
 tags:

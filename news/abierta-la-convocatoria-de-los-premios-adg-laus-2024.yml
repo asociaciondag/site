@@ -20,7 +20,7 @@ body:
     text: "Inscripciones y más información"
     type: button
 intro: "La 54ª edición de los premios ADG Laus de diseño gráfico y comunicación visual ya está en marcha.​ Estudiantes y profesionales del sector podrán inscribir sus mejores trabajos en las diferentes categorías, y las asociadas a DAG cuentan con un 15% de descuento."
-slug: abierta-la-convocatoria-de-los-premios-adg-laus-2024
+basename: abierta-la-convocatoria-de-los-premios-adg-laus-2024
 tags: []
 lang: es
 draft: false

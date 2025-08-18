@@ -1,6 +1,6 @@
 id: 187
 title: "Camiseta Metallica"
-slug: camiseta-metallica
+basename: camiseta-metallica
 body:
   - image: /img/portfolio/images/5810c701d911c-bullitt-camiseta-diseno-one.jpg
     text: ""

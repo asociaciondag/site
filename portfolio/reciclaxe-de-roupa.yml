@@ -1,6 +1,6 @@
 id: 229
 title: "Reciclaxe de roupa"
-slug: reciclaxe-de-roupa
+basename: reciclaxe-de-roupa
 body:
   - image: /img/portfolio/images/photo-2021-11-15-12-14-36.jpg
     text: ""

@@ -16,7 +16,7 @@ body:
       A DAG colabora como xurado con asociacións e entidades promotoras de premios que valoran o sector do deseño, e tamén en convocatorias de xurados profesionais para chamadas a proxecto como boa práctica na contratación de servizos de deseño.
     type: text
 intro: "A asociación DI-CA, compañeira de READ, rescata os Premios Canarias de Deseño para traballos producidos, impresos, publicados, emitidos, visionados _online_ e editados dende o 16 de abril de 2019 ata o 23 de decembro de 2022, e entre as persoas membros do xurado atopamos a Alberto Carballido, Samuel Baltar e Ana Besada, socios e socia de DAG."
-slug: asociadas-dag-no-xurado-dos-premios-canarias-de-deseno
+basename: asociadas-dag-no-xurado-dos-premios-canarias-de-deseno
 tags:
   - "noticias socios/socias"
 lang: gl

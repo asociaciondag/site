@@ -22,7 +22,7 @@ body:
     text: "Código deontológico del diseño de READ"
     type: button
 intro: "Tras su aprobación en la última Asamblea General de READ, celebrada el pasado 11 de marzo en Soria, acaba de publicarse el [_Código deontológico del diseño READ_](https://www.designread.es/wp-content/uploads/2022/03/2022_CodigoDeontologico_READ.pdf) con el objetivo de ayudar a consolidar la cultura ética del diseño a través de 6 valores inspiradores y 52 artículos."
-slug: el-codigo-deontologico-del-diseno-read-ya-esta-disponible-para-su-consulta
+basename: el-codigo-deontologico-del-diseno-read-ya-esta-disponible-para-su-consulta
 tags: []
 lang: es
 draft: false

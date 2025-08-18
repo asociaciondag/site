@@ -1,6 +1,6 @@
 id: 85
 title: LAPA
-slug: lapa
+basename: lapa
 body:
   - text: "O Laboratorio de Arqueoloxía da Paisaxe do Centro Superior de Investigacións Científicas encargounos a realización do identificativo para o seu Laboratorio de Patrimonio (LAPA). Utilizamos como referencia visual as formas creadas por un dolmen."
     type: text

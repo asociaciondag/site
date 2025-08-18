@@ -24,7 +24,7 @@ body:
       A imaxe gráfica do Foro é de [Paula Cantero](https://www.instagram.com/origamiestudioscq/), socia de DAG, que resultou seleccionada tras unha chamada a proxecto interna. A venda de entradas lanzarase en setembro así que estade atentas ás nosas canles e anotade desde xa as datas na axenda.
     type: text
 intro: "Os días 3 e 4 de novembro a DAG organiza en Santiago de Compostela a 7º Edición do FEED. O Foro de Deseño que vén celebrándose desde o 2010, é unha cita xa imprescindible para profesionais e estudantes de deseño na nosa comunidade."
-slug: todo-en-marcha-cara-o-7-foro-de-deseno-feed
+basename: todo-en-marcha-cara-o-7-foro-de-deseno-feed
 tags:
   - "actividades dag"
 lang: gl

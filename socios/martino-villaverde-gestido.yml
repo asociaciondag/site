@@ -14,7 +14,7 @@ links:
     url: "https://www.behance.net/martinovillaverde"
     type: link
 name: "Martiño Villaverde Gestido"
-slug: martino-villaverde-gestido
+basename: martino-villaverde-gestido
 avatarBig: null
 avatar: /img/avatars/554d0c65e4752-martino-villaverde-gestido.jpeg
 tags: []

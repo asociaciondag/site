@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "O pasado martes, 5 de abril, tivo lugar a gala de entrega dos Premios Visual de Deseño de Libros que convoca anualmente a revista [Visual](http://visual.gi/) e cos que pretende destacar os deseños das mellores publicacións editadas en español, galego, catalán, éuscaro e portugués."
-slug: o-libro-do-iv-premio-enor-na-final-dos-premios-visual
+basename: o-libro-do-iv-premio-enor-na-final-dos-premios-visual
 tags: []
 lang: gl
 draft: false

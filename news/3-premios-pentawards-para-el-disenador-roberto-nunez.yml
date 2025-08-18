@@ -18,7 +18,7 @@ body:
     text: "Web de los premios"
     type: button
 intro: "El trabajo de rebr​anding realizado para las bodegas Ramón do Casar fue galardonado con 3 Premios en la categoría de bebidas. En concreto, 2 Pentawards de bronce y una nominació​n​ para el vino Varietal."
-slug: 3-premios-pentawards-para-el-disenador-roberto-nunez
+basename: 3-premios-pentawards-para-el-disenador-roberto-nunez
 tags:
   - "noticias socios/socias"
 lang: es

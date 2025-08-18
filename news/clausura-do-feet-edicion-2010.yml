@@ -9,7 +9,7 @@ body:
     mode: normal
     type: image
 intro: "Clausúrase a primeira parte do feet 2010 dedicada á edición. Aquí podedes ver unha pequena mostra de todo o que deu de si: [flickr do feet 2010](http://www.flickr.com/groups/1553357@N20/), pero lembrade que a partir do xoves 16 de decembro volvemos á Casa das Campás co [feet tipográfico](http://feet.asociaciondag.org/programa/)."
-slug: clausura-do-feet-edicion-2010
+basename: clausura-do-feet-edicion-2010
 tags:
   - "actividades dag"
 lang: gl

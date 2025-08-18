@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Os nosos socios Cibrán Rico e Suso Vázquez, ou o que é o mesmo, [Desescribir ](http://www.desescribir.com/)estarán o vindeiro mércores 16 de maio, ás 20.00 h, na librería Formatos da Coruña para presentar [Fabulatorio](http://fabulatorio.org/),o seu novo proxecto editorial, dentro do marco do programa intemción."
-slug: desescribir-presenta-fabulatorio-no-marco-do-programa-intemcion
+basename: desescribir-presenta-fabulatorio-no-marco-do-programa-intemcion
 tags:
   - "noticias socios/socias"
 lang: gl

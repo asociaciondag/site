@@ -15,7 +15,7 @@ body:
     text: Descargar
     type: file
 intro: "O vindeiro 25 de setembro ás 20.00 inaugúrase no espazo [Sirvent](http://www.sirventvigo.com/sirvent/es/espacio-sirvent) a exposición de Obxectos-Icona TRANS-FORMA, unha exposición de 17 pezas históricas, obxectos de culto da Colección Zanotta e reinterpretadas de forma contemporánea por deseñadores novos de FABRICA."
-slug: exposicion-de-obxectos-icona-trans-forma-no-espazo-sirvent
+basename: exposicion-de-obxectos-icona-trans-forma-no-espazo-sirvent
 tags: []
 lang: gl
 draft: false

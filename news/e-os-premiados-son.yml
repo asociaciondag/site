@@ -59,7 +59,7 @@ body:
     mode: normal
     type: image
 intro: "O pasado venres 23 de novembro, nunha gala que tivo lugar en Expourense, facíase pública a lista de profesionais premiados na terceira edición dos Premios da Comunicación e do Marketing de Galicia que organiza o Clúster da Comunicación Gráfica de Galicia."
-slug: e-os-premiados-son
+basename: e-os-premiados-son
 tags:
   - "noticias socios/socias"
 lang: gl

@@ -24,7 +24,7 @@ body:
     text: "Descargar MIEDE´24"
     type: button
 intro: "O pasado 5 de abril, presentouse en Matadero Madrid MIEDE´24, o Manifesto pola Innovación na Educación en Deseño en España, dentro das actividades paralelas da exposición FSWD organizada por READ en colaboración con Dimad e o patrocinio de UDIT."
-slug: read-presenta-miede-24-manifesto-pola-innovacion-na-educacion-en-deseno-en-espana
+basename: read-presenta-miede-24-manifesto-pola-innovacion-na-educacion-en-deseno-en-espana
 tags: []
 lang: gl
 draft: false

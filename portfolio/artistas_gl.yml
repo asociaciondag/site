@@ -1,6 +1,6 @@
 id: 271
 title: Artistas
-slug: artistas
+basename: artistas
 body:
   - image: /img/portfolio/images/artistas.jpg
     text: ""

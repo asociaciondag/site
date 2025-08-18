@@ -23,7 +23,7 @@ body:
     text: ""
     type: image
 intro: "La cuarta edición del [Culturgal](http://www.culturgal.com/), la gran fiesta de la cultura gallega en la que el año pasado participaron más de 14.000 personas vuelve al recinto ferial del [Palacio de la Cultura de Pontevedra](http://www.pazodacultura.org/) los días 2, 3 y 4 de diciembre."
-slug: el-domingo-acaba-el-plazo-para-presentar-propuestas-para-el-culturgal-2011
+basename: el-domingo-acaba-el-plazo-para-presentar-propuestas-para-el-culturgal-2011
 tags: []
 lang: es
 draft: false

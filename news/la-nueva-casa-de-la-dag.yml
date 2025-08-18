@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "La Asociación Gallega de Diseñadores abandona su antiguo [hogar](http://www.uquicebra.com/) y estrena casa en Compostela."
-slug: la-nueva-casa-de-la-dag
+basename: la-nueva-casa-de-la-dag
 tags: []
 lang: es
 draft: false

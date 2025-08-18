@@ -1,6 +1,6 @@
 id: 273
 title: "BEN VEÑAS MAIO"
-slug: ben-venas-maio
+basename: ben-venas-maio
 body:
   - image: /img/portfolio/images/ben-venas-maio-aplicacions.jpg
     text: ""

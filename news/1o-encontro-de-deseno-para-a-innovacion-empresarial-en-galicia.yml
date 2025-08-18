@@ -20,7 +20,7 @@ body:
     text: "Formulario de inscrición"
     type: button
 intro: "Con motivo do Día Mundial do Deseño Industrial, a Consellería de Economía, Emprego e Industria, a través da Axencia Galega de innovación (GAIN) organiza o próximo 28 de xuño de 2018 o I Encontro de Deseño para a Innovación Empresarial no CIS Galicia de Ferrol."
-slug: 1o-encontro-de-deseno-para-a-innovacion-empresarial-en-galicia
+basename: 1o-encontro-de-deseno-para-a-innovacion-empresarial-en-galicia
 tags: []
 lang: gl
 draft: false

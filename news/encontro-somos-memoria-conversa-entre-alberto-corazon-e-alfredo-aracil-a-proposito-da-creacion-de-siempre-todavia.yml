@@ -12,7 +12,7 @@ body:
       Entrada libre ata completar a capacidade da sala
     type: text
 intro: "Como preámbulo e presentación da estrea este venres en Compostela da ópera sen voces Siempre/Todavía, o CGAC acolle hoxe mércores 21 de outubro ás 20.30 h un encontro cos seus creadores Alberto Corazón (deseñador) e Alfredo Aracil (compositor)."
-slug: encontro-somos-memoria-conversa-entre-alberto-corazon-e-alfredo-aracil-a-proposito-da-creacion-de-siempre-todavia
+basename: encontro-somos-memoria-conversa-entre-alberto-corazon-e-alfredo-aracil-a-proposito-da-creacion-de-siempre-todavia
 tags: []
 lang: gl
 draft: false

@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "A [Nit Laus](http://www.laus.cat/es/nit-laus) de onte veu cargada de moi boas novas para o deseño galego e para a DAG en especial. A razón non é outra que eses dous Laus de bronce na categoríade deseño gráfico que foron parar ás mans dos nosos socios Suso Vázquez e Cibrán Rico."
-slug: dous-novos-laus-para-desescribir
+basename: dous-novos-laus-para-desescribir
 tags:
   - "noticias socios/socias"
 lang: gl

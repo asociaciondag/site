@@ -18,7 +18,7 @@ body:
     mode: normal
     type: image
 intro: "[A Asociación Galega de Deseñadores](http://www.asociaciondag.org/?p=1) acode este ano á Feira das Industrias Culturais para promocionar o feet, o foro de edición e tipografía, 2010 que arranca este xoves, día 2, na Casa das Campás en Pontevedra."
-slug: o-feet-no-culturgal
+basename: o-feet-no-culturgal
 tags: []
 lang: gl
 draft: false

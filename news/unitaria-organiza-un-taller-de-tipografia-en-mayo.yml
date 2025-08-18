@@ -28,7 +28,7 @@ body:
     text: "Inscripción en Unitaria"
     type: button
 intro: "El objetivo de la actividad es acercarse a las nociones básicas en el diseño de tipografías. A partir del dibujo de un grupo de letras, los participantes aprenderán a trabajar sus formas para que funcionen como conjunto en sus diseños."
-slug: unitaria-organiza-un-taller-de-tipografia-en-mayo
+basename: unitaria-organiza-un-taller-de-tipografia-en-mayo
 tags: []
 lang: es
 draft: false

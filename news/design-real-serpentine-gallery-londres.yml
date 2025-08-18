@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Design Real é unha chamada de atención cara o deseño industrial fronte a todo o que ten que ver co design art ou coa arte."
-slug: design-real-serpentine-gallery-londres
+basename: design-real-serpentine-gallery-londres
 tags: []
 lang: gl
 draft: false

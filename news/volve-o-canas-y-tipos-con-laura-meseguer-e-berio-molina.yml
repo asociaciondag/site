@@ -26,7 +26,7 @@ body:
     text: "Máis sobre Cañas y Tipos"
     type: button
 intro: "O próximo 21 de setembro celébrase en Santiago unha nova edición do Cañas e Tipos, desta volta con Laura Meseguer e Berio Molina de protagonistas. Previamente, na Unitaria, haberá un obradoiro de tipografía stencil impartido pola propia Laura e a nosa socia María Ramos. As persoas asociadas a DAG beneficiaranse dun desconto do 15% na inscrición ao taller."
-slug: volve-o-canas-y-tipos-con-laura-meseguer-e-berio-molina
+basename: volve-o-canas-y-tipos-con-laura-meseguer-e-berio-molina
 tags: []
 lang: gl
 draft: false

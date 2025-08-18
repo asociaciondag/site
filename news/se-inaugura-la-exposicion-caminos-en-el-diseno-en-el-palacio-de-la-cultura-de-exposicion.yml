@@ -6,7 +6,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa296219-caminos-no-deseno.jpg
 intro: null
-slug: se-inaugura-la-exposicion-caminos-en-el-diseno-en-el-palacio-de-la-cultura-de-exposicion
+basename: se-inaugura-la-exposicion-caminos-en-el-diseno-en-el-palacio-de-la-cultura-de-exposicion
 tags: []
 lang: es
 draft: false

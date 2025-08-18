@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "A Vicerreitoría do Campus de Pontevedra da Universidade de Vigo organiza un ciclo de conferencias no que participarán algúns dos mellores creativos publicitarios de España."
-slug: falame-do-teu
+basename: falame-do-teu
 tags: []
 lang: gl
 draft: false

@@ -47,7 +47,7 @@ body:
     text: Descargar
     type: file
 intro: "A Asociación Galega de Deseñadores (DAG) organiza un Programa de Formación impartido pola [Escola de Organización Industrial](http://www.eoi.es/portal/guest/inicio) (EOI) dirixido a todas as persoas interesadas en crear actividade en calquera ámbito do deseño e a creatividade."
-slug: r-evolution-design-seminario-para-a-implementacion-de-produtos-e-servizos-innovadores
+basename: r-evolution-design-seminario-para-a-implementacion-de-produtos-e-servizos-innovadores
 tags: []
 lang: gl
 draft: false

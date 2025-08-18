@@ -22,7 +22,7 @@ body:
       Todas las aportaciones que deseéis formular las podéis enviar a <uquipermui@designread.es> Asunto: Código Deontológico. Gracias
     type: text
 intro: "Con este decálogo la READ pretende establecer un marco de fundamentos éticos para la práctica del diseño, teniendo en cuenta las recomendaciones realizadas por organismos internacionales como Ico-D, ICSID e IFI."
-slug: la-read-promueve-el-decalogo-etico-para-la-practica-del-diseno
+basename: la-read-promueve-el-decalogo-etico-para-la-practica-del-diseno
 tags: []
 lang: es
 draft: false

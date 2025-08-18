@@ -1,6 +1,6 @@
 id: 68
 title: "XVIII Festival Internacional de Jazz Blues"
-slug: xviii-festival-internacional-de-jazz-blues
+basename: xviii-festival-internacional-de-jazz-blues
 body:
   - text: "Festival de Jazz e Blues"
     type: text

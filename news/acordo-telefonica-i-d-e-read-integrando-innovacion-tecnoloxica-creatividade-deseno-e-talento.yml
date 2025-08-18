@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Telefónica I+D, a empresa especializada en I+D+I do Grupo Telefónica, e a READ (Red Española de Asociaciones de Diseño á que pertence a DAG) asinaron un acordo marco de colaboración para cooperar en proxectos e iniciativas conxuntas e intercambiar coñecementos e investigación no campo do deseño, tanto dixital como de produtos e servizos."
-slug: acordo-telefonica-i-d-e-read-integrando-innovacion-tecnoloxica-creatividade-deseno-e-talento
+basename: acordo-telefonica-i-d-e-read-integrando-innovacion-tecnoloxica-creatividade-deseno-e-talento
 tags: []
 lang: gl
 draft: false

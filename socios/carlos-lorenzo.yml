@@ -14,7 +14,7 @@ links:
     url: "https://www.linkedin.com/in/carloselrojo/"
     type: linkedin
 name: "Carlos el Rojo"
-slug: carlos-lorenzo
+basename: carlos-lorenzo
 avatarBig: null
 avatar: /img/avatars/foto-presentacion-carlos-el-rojo.jpg
 tags:

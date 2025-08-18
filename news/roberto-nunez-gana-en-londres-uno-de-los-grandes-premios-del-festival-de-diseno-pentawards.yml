@@ -33,7 +33,7 @@ body:
     mode: normal
     type: image
 intro: "Recientemente Roberto Núñez fue premiado en Londres con un **Platinum Pentawards** por el diseño de packaging realizado para el vino Perfeccionista, de Bodega Davide (D.O. Rías Baixas)."
-slug: roberto-nunez-gana-en-londres-uno-de-los-grandes-premios-del-festival-de-diseno-pentawards
+basename: roberto-nunez-gana-en-londres-uno-de-los-grandes-premios-del-festival-de-diseno-pentawards
 tags:
   - "noticias socios/socias"
 lang: es

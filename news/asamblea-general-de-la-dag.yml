@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Los socios de la Asociación Gallega de Diseñadores se reúnen en Asamblea General el viernes, 14 de enero, en Santiago de Compostela."
-slug: asamblea-general-de-la-dag
+basename: asamblea-general-de-la-dag
 tags: []
 lang: es
 draft: false

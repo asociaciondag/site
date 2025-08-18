@@ -21,7 +21,7 @@ body:
     text: "Bases Premios Anuaria"
     type: button
 intro: "Los Premios Anuaria reconocen obras de diseño gráfico y digital. Los galardones están agrupados en 25 categorías diferentes, en las que se incluyen un premio para proyectos de estudios y un premio especial a la trayectoria profesional."
-slug: ultimas-premios-anuaria-2020-es
+basename: ultimas-premios-anuaria-2020-es
 tags: []
 lang: es
 draft: false

@@ -20,7 +20,7 @@ body:
     text: "Más información"
     type: button
 intro: "El sábado 8 de febrero, a las 12:30 de la mañana, tenemos una cita con el arte y el diseño. La Fundación DIDAC presenta parte de los fondos de su colección en una exposición que estará abierta al público hasta el día 12 de abril."
-slug: expo-coleccion-didac
+basename: expo-coleccion-didac
 tags: []
 lang: es
 draft: false

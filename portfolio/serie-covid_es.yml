@@ -1,6 +1,6 @@
 id: 362
 title: "SERIE COVID"
-slug: serie-covid
+basename: serie-covid
 body:
   - text: |-
       Esta serie ha nacido a raíz de la pandemia COVID.

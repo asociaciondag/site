@@ -36,7 +36,7 @@ body:
       Saúdos a todos.
     type: text
 intro: "O pasado ano a DAG medrou máis que nunca, e entre as novas persoas asociadas temos o pracer de contar con [Azur González](https://dag.gal/gl/azur-gonzalez/), que despois dunha longa traxectoria en deseño gráfico en case todas as súas vertentes, especializouse no deseño de produto dixital. Al​​édanos moito contar contigo Azur, benvido!"
-slug: na-dag-celebramos-a-chegada-de-azur-gonzalez
+basename: na-dag-celebramos-a-chegada-de-azur-gonzalez
 tags:
   - "noticias socios/socias"
 lang: gl

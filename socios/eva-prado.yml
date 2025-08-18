@@ -11,7 +11,7 @@ links:
     url: "https://www.linkedin.com/in/evaprado/"
     type: linkedin
 name: "Eva Prado"
-slug: eva-prado
+basename: eva-prado
 avatarBig: null
 avatar: /img/avatars/eva-perfil-dag-color.jpg
 tags:

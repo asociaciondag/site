@@ -1,6 +1,6 @@
 id: 415
 title: "Fan Square parque infantil"
-slug: fan-square-parque-infantil
+basename: fan-square-parque-infantil
 body:
   - image: /img/portfolio/images/fansquare-logo-forma-concepto.jpg
     text: ""

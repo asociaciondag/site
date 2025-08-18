@@ -46,7 +46,7 @@ body:
     text: "Toda la información"
     type: button
 intro: "Las ayudas están destinadas a la incorporación del diseño en pymes y microempresas gallegas como herramienta de innovación y sostenibilidad."
-slug: abierto-el-plazo-de-solicitud-de-las-ayudas-desenapeme-2022
+basename: abierto-el-plazo-de-solicitud-de-las-ayudas-desenapeme-2022
 tags: []
 lang: es
 draft: false

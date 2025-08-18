@@ -11,7 +11,7 @@ links:
     url: "https://www.linkedin.com/in/idoia-cuesta-68b0bb32/?originalSubdomain=es"
     type: linkedin
 name: "Idoia Cuesta"
-slug: idoia-cuesta
+basename: idoia-cuesta
 avatarBig: null
 avatar: /img/avatars/grandio-idoiacuesta-retratos-web14.jpg
 tags:

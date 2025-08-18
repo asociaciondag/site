@@ -27,7 +27,7 @@ body:
     text: Descargar
     type: file
 intro: "Tras las vacaciones, el [Centro Multimedia de Galicia](http://www.cmg.xunta.es/) reanuda su actividad en septiembre con tres nuevos cursos gratuitos que se enmarcan dentro de su programa de formación multimedia y audiovisual para el 2011."
-slug: cursos-de-creacion-de-videojuegos-creacion-de-webs-para-dispositivos-moviles-y-streaming-de-video-y-audio-en-el-centro-multimedia-de-galicia
+basename: cursos-de-creacion-de-videojuegos-creacion-de-webs-para-dispositivos-moviles-y-streaming-de-video-y-audio-en-el-centro-multimedia-de-galicia
 tags: []
 lang: es
 draft: false

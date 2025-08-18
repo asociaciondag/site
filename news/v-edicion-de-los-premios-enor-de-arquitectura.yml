@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "El próximo lunes, 14 de noviembre, tendrá lugar el acto de entrega de los [Premios Enor](http://www.enor.es/premio/) que en cada edición distinguen las mejores obras de arquitectura construidas en la Península Ibérica."
-slug: v-edicion-de-los-premios-enor-de-arquitectura
+basename: v-edicion-de-los-premios-enor-de-arquitectura
 tags: []
 lang: es
 draft: false

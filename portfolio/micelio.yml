@@ -1,6 +1,6 @@
 id: 117
 title: Micelio
-slug: micelio
+basename: micelio
 body:
   - text: "Micelio é un proxecto de deseño gráfico e investigación que quere dar unha volta de folla ás guías de cogumelos tradicionais. Divídese nunha guía impresa e unha App móbil e en ambas as partes se reúnen os coñecementos xerais sobre micoloxía: morfoloxía, taxonomía, organolepsia, reprodución e alimentación, hábitat, etc. Complétase con outras ferramentas de grande utilidade, como un glosario técnico e unha clave macroscópica."
     type: text

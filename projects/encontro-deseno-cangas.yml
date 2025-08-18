@@ -1,6 +1,6 @@
 id: 25
 title: "3º Encontro do Deseño Galego, Cangas"
-slug: encontro-deseno-cangas
+basename: encontro-deseno-cangas
 year: 2025
 yaml: null
 cover: /img/projects/cangas-encontro.jpg

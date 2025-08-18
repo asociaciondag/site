@@ -22,7 +22,7 @@ links:
     url: "https://www.linkedin.com/in/alexricocarames/"
     type: linkedin
 name: "Álex Rico"
-slug: alex-rico
+basename: alex-rico
 avatarBig: null
 avatar: /img/avatars/alexrico.jpeg
 tags:

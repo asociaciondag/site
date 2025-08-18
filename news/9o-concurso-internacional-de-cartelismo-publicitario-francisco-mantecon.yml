@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Ábrese o prazo para participar na novena edición do Concurso Internacional de Cartelismo Publicitario Francisco Mantecón."
-slug: 9o-concurso-internacional-de-cartelismo-publicitario-francisco-mantecon
+basename: 9o-concurso-internacional-de-cartelismo-publicitario-francisco-mantecon
 tags: []
 lang: gl
 draft: false

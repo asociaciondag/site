@@ -12,7 +12,7 @@ body:
     mode: normal
     type: image
 intro: "La DAG participa este fin de semana en la asamblea general de la Red Española de Asociaciones de Diseño (READ) de la que forma parte."
-slug: la-dag-en-la-asamblea-de-la-read
+basename: la-dag-en-la-asamblea-de-la-read
 tags: []
 lang: es
 draft: false

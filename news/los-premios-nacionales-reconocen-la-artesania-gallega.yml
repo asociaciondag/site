@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "La verdad es que era muy difícil que esta año la artesanía gallega no se llevase premio, sobre todo si tenemos en cuenta que había candidatos gallegos nominados en todas las categorías de los Premios Nacionales."
-slug: los-premios-nacionales-reconocen-la-artesania-gallega
+basename: los-premios-nacionales-reconocen-la-artesania-gallega
 tags: []
 lang: es
 draft: false

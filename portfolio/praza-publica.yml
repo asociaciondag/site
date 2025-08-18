@@ -1,6 +1,6 @@
 id: 35
 title: "Praza Pública"
-slug: praza-publica
+basename: praza-publica
 body:
   - text: |-
       [Praza Pública](http://praza.gal) é un xornal que naceu para tapar o oco deixado por unha sucesión de peches de xornais dixitais galegos durante o 2011. Dende o principio buscouse romper un pouco co que eran os xornais dixitais ata o momento, tanto na súa financiación (mediante doacións dos lectores, publicidade, etc) como tamén na forma de facer xornalismo, facendo poucas noticias pero máis traballadas e de máis calidade.

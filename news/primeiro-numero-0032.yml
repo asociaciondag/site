@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "A Asociación DAG presenta o primeiro número da revista 0032."
-slug: primeiro-numero-0032
+basename: primeiro-numero-0032
 tags:
   - "actividades dag"
 lang: gl

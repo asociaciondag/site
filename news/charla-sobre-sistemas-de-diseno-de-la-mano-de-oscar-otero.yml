@@ -12,7 +12,7 @@ body:
       La charla tendrá lugar a las 19.30 h., en el [CEI Nodus de Lugo](https://www.google.com/maps/search/?api=1&query=43.032356%2C-7.572449), situado en Avda. da Coruña 500. Las plazas son limitadas por lo que es necesario [inscripción previa](https://www.meetup.com/es-ES/WordPressLugo/events/266177226/).
     type: text
 intro: "Este viernes 22 de noviembre, nuestro socio Óscar Otero estará en Lugo hablando de sistemas de diseño, en un encuentro organizado por _WordPress_ Lugo."
-slug: charla-sobre-sistemas-de-diseno-de-la-mano-de-oscar-otero
+basename: charla-sobre-sistemas-de-diseno-de-la-mano-de-oscar-otero
 tags:
   - "noticias socios/socias"
 lang: es

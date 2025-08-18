@@ -20,7 +20,7 @@ body:
     text: "Web deseños minúsculos, valores maiúsculos"
     type: button
 intro: "Esta é a proposta da Cidade da Cultura para este mes de xullo: cada martes un obradoiro distinto co que estimular a creatividade dos máis pequenos da man de destacados profesionais do deseño, a ilustración, a artesanía e a moda."
-slug: un-programa-de-actividades-para-potenciar-a-curiosidade-dos-nenos-polo-deseno
+basename: un-programa-de-actividades-para-potenciar-a-curiosidade-dos-nenos-polo-deseno
 tags:
   - "noticias socios/socias"
 lang: gl

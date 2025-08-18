@@ -18,7 +18,7 @@ body:
     text: "7 ENAD"
     type: button
 intro: "Los ENAD son encuentros anuales que organiza la Red Española de Asociaciones de Diseño (READ) para debatir líneas de acción para el sector."
-slug: la-dag-estara-presente-en-el-7-enad
+basename: la-dag-estara-presente-en-el-7-enad
 tags: []
 lang: es
 draft: false

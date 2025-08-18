@@ -48,7 +48,7 @@ body:
     text: "Ir á páxina do FEED 2015"
     type: button
 intro: "Historiadora del diseño, Doctora por la Universidad de Barcelona, licenciada en Geografía e Historia, en Comunicación Audiovisual, en Publicidad y Relaciones Públicas. Desde marzo de 2006 es profesora de la Facultad de Bellas Artes de la Universidad de Barcelona y miembro del grupo de investigación consolidado GRACMON."
-slug: entrevista-a-raquel-pelta
+basename: entrevista-a-raquel-pelta
 tags:
   - "actividades dag"
 lang: es

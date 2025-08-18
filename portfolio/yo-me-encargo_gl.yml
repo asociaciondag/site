@@ -1,6 +1,6 @@
 id: 265
 title: "Yo me encargo"
-slug: yo-me-encargo
+basename: yo-me-encargo
 body:
   - text: "Deseño de identidade corporativa e aplicación para Social Media"
     type: text

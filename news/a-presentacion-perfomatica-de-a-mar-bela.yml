@@ -16,7 +16,7 @@ body:
     text: ""
     type: image
 intro: "Pepe Murciego presentou a edición da revista e os asistentes puideron ver por eles mesmos como se elaboraba cada un dos exemplares de A Mar Bela visitando a cadea de montaxe."
-slug: a-presentacion-perfomatica-de-a-mar-bela
+basename: a-presentacion-perfomatica-de-a-mar-bela
 tags:
   - "actividades dag"
 lang:

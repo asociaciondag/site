@@ -32,7 +32,7 @@ body:
     mode: normal
     type: image
 position: null
-slug: nada-negro-para-ventura-cores
+basename: nada-negro-para-ventura-cores
 cover: /img/articles/covers/55cb00ba6b60b-portada.jpg
 lang:
   - gl

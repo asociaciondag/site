@@ -8,7 +8,7 @@ links:
     url: "https://www.instagram.com/flordeinterior/"
     type: link
 name: "Miguel Flores da Costa"
-slug: miguel-flores
+basename: miguel-flores
 avatarBig: /img/avatars/foto-miguelfloresdacosta.jpeg
 avatar: /img/avatars/foto-miguelfloresdacosta.jpeg
 tags:

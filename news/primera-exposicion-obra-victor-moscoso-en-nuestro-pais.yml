@@ -22,7 +22,7 @@ body:
     text: "Más información"
     type: button
 intro: "La Fundación Luis Seoane inaugura hoy, miércoles 14 de abril, la muestra «Moscoso Cosmos». Se trata de la mayor retrospectiva del trabajo realizado por Victor Moscoso, uno de los diseñadores más influyentes del siglo XX."
-slug: primera-exposicion-obra-victor-moscoso-en-nuestro-pais
+basename: primera-exposicion-obra-victor-moscoso-en-nuestro-pais
 tags: []
 lang: es
 draft: false

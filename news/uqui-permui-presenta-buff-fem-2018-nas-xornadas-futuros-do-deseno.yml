@@ -32,7 +32,7 @@ body:
     text: "Confirmación de asistencia"
     type: button
 intro: "A nosa socia Uqui Permui participa como relatora nas Xornadas Futuros do Deseño. Novas prácticas e significados que organiza a ADG-FAG coa colaboración do Museo del Disseny de Barcelona."
-slug: uqui-permui-presenta-buff-fem-2018-nas-xornadas-futuros-do-deseno
+basename: uqui-permui-presenta-buff-fem-2018-nas-xornadas-futuros-do-deseno
 tags:
   - "noticias socios/socias"
 lang: gl

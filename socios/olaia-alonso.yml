@@ -8,7 +8,7 @@ links:
     url: "http://www.demostra.com/"
     type: link
 name: "Olaia Alonso"
-slug: olaia-alonso
+basename: olaia-alonso
 avatarBig: null
 avatar: /img/avatars/demostra.jpeg
 tags:

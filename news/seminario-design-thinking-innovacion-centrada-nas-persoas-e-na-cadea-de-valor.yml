@@ -51,7 +51,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa46acad-seminario-design-thinking.jpg
 intro: null
-slug: seminario-design-thinking-innovacion-centrada-nas-persoas-e-na-cadea-de-valor
+basename: seminario-design-thinking-innovacion-centrada-nas-persoas-e-na-cadea-de-valor
 tags: []
 lang: gl
 draft: false

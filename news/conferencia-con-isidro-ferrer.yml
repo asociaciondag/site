@@ -9,7 +9,7 @@ body:
   - text: "[Isidro Ferrer](http://www.isidroferrer.com/) es en la actualidad una de las figuras internacionales más relevantes en la gramática objetual y en la creación de universos cotidianos."
     type: text
 intro: "El diseñador, aprovechando que este fin de semana imparte un [taller](http://laplantacion.info/isidro-ferrer/) en Ourense organizado por la Plantación, se acerca antes a la escuela [Antonio Faílde](http://www.escolarte.com/) para hablar sobre su método de trabajo y sobre cómo consigue dotar de nuevas dimensiones y de vida propia a objetos cotidianos."
-slug: conferencia-con-isidro-ferrer
+basename: conferencia-con-isidro-ferrer
 tags: []
 lang: es
 draft: false

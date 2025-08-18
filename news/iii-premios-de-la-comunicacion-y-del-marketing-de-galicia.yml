@@ -58,7 +58,7 @@ body:
     text: "III Premios Paraugas"
     type: button
 intro: "El Clúster de la Comunicación Gráfica ha convocado recientemente la tercera edición de los Premios de la Comunicación y del Marketing de Galicia."
-slug: iii-premios-de-la-comunicacion-y-del-marketing-de-galicia
+basename: iii-premios-de-la-comunicacion-y-del-marketing-de-galicia
 tags: []
 lang: es
 draft: false

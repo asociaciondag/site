@@ -11,7 +11,7 @@ links:
     url: "https://www.linkedin.com/in/oliferrando/"
     type: link
 name: "Olaia Ferrando"
-slug: olaia-ferrando
+basename: olaia-ferrando
 avatarBig: null
 avatar: /img/avatars/olaiaferrando.png
 tags:

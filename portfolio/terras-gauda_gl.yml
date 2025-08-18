@@ -1,6 +1,6 @@
 id: 95
 title: "Terras Gauda"
-slug: terras-gauda
+basename: terras-gauda
 body:
   - text: "Para esta proposta de cartel empregamos unha botella real de albariño Terras Gauda como soporte directo da ilustración. Deste xeito, apropiámonos dun obxecto producido en serie, e que dotamos dun carácter único, a través da asociación entre a elaboración do viño e a arte."
     type: text

@@ -13,7 +13,7 @@ body:
     text: Descargar
     file: /files/553e7aa417931-encontro-torneiros-2013.pdf
 intro: null
-slug: martin-azua-impartira-un-taller-gratuito-para-disenadores-y-artesanos-en-el-xiii-encuentro-de-torneros
+basename: martin-azua-impartira-un-taller-gratuito-para-disenadores-y-artesanos-en-el-xiii-encuentro-de-torneros
 tags: []
 lang: es
 draft: false

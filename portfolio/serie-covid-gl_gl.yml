@@ -1,6 +1,6 @@
 id: 363
 title: "SERIE COVID"
-slug: serie-covid-gl
+basename: serie-covid-gl
 body:
   - text: |-
       Esta serie naceu a raíz da pandemia COVID.

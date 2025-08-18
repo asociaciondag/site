@@ -20,7 +20,7 @@ links:
     url: "https://es.linkedin.com/in/franmartinezinnovacionagil"
     type: linkedin
 name: "Fran Martínez"
-slug: fran-martinez
+basename: fran-martinez
 avatarBig: null
 avatar: /img/avatars/5788fc7f953ca-fran-martinez.png
 tags:

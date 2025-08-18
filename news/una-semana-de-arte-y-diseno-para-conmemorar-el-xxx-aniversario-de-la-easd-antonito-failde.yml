@@ -18,7 +18,7 @@ body:
     text: CREA
     type: button
 intro: "En el año de su XXX aniversario, la Escuela de Arte y Superior de Diseño Antonio Faílde organiza la primera edición de CREA, Jornadas de Arte y Diseño, que se desarrollará entre el lunes 3 y el viernes 7 de abril de 2017 en distintos espacios de la ciudad, principalmente en el Centro Cultural Marcos Valcárcel de Ourense."
-slug: una-semana-de-arte-y-diseno-para-conmemorar-el-xxx-aniversario-de-la-easd-antonito-failde
+basename: una-semana-de-arte-y-diseno-para-conmemorar-el-xxx-aniversario-de-la-easd-antonito-failde
 tags: []
 lang: es
 draft: false

@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: 'Tres trabajos de diseñadores gallegos han sido seleccionados para representar a España en la exposición de la bid\_10.'
-slug: presencia-gallega-en-la-bid-10
+basename: presencia-gallega-en-la-bid-10
 tags:
   - "noticias socios/socias"
 lang: es

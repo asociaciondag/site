@@ -20,7 +20,7 @@ links:
     url: "https://www.instagram.com/dardo.gal/"
     type: link
 name: "Conchi Mayo"
-slug: conchi-mayo
+basename: conchi-mayo
 avatarBig: null
 avatar: /img/avatars/56cddeb39ca7f-conchi-mayo.jpg
 tags:

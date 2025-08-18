@@ -14,7 +14,7 @@ body:
       Más información en [la web de las I Jornadas Internacionales Madera 2020](http://feiradegalicia.com/jornadas_internacionales_madera/).
     type: text
 intro: "La Agencia Gallega de la Industria Forestal (XERA), en colaboración con la Escuela de Arquitectura de CESUGA, propone un completo programa para hablar de madera desde múltiples perspectivas: la tecnología, la arquitectura, la gestión forestal y el diseño."
-slug: jornadasmadera2020
+basename: jornadasmadera2020
 tags: []
 lang: es
 draft: false

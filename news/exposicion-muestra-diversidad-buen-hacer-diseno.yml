@@ -42,7 +42,7 @@ body:
     text: "Más información"
     type: button
 intro: "El CGAC acoge desde el 15 de octubre la exposición _FSWD / Identidad y territorio_, una muestra que recoge el tejido creativo y productivo del diseño español y que cuenta con trabajos de diseño industrial, diseño gráfico, interiorismo y diseño de servicios, que destacan por su calidad, por su proyección en el mercado nacional e internacional y por ser un modelo de sinergia entre profesionales del diseño, empresa y editoras."
-slug: exposicion-muestra-diversidad-buen-hacer-diseno
+basename: exposicion-muestra-diversidad-buen-hacer-diseno
 tags:
   - "actividades dag"
 lang: es

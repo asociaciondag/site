@@ -1,6 +1,6 @@
 id: 303
 title: "One Team Report"
-slug: one-team-report
+basename: one-team-report
 body:
   - text: "[→ Visitar a web](https://oneteam.report)"
     type: text

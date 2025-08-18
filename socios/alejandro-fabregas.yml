@@ -16,7 +16,7 @@ links:
     url: "https://es.linkedin.com/in/alejandrofabregas"
     type: linkedin
 name: "Alejandro Fábregas"
-slug: alejandro-fabregas
+basename: alejandro-fabregas
 avatarBig: null
 avatar: /img/avatars/573f2ba96b6bd-alejandro-fabregas.jpg
 tags: []

@@ -16,7 +16,7 @@ body:
     text: "Transferencias Design 2017"
     type: button
 intro: "Transferencias.Design, el programa creado por la Red Española de Asociaciones de Diseño (READ) y la Confederación de Escuelas de Arte (CEA) reunirá el próximo 8 de 9 de junio en Málaga a empresas, instituciones, docentes y profesionales del Diseño para debatir sobre las relaciones entre el Diseño y la sociedade."
-slug: transferenciasdesign
+basename: transferenciasdesign
 tags: []
 lang: es
 draft: false

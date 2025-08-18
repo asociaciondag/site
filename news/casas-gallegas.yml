@@ -12,7 +12,7 @@ body:
     text: ""
     type: image
 intro: "O artista suspéndese no exterior de casas unifamiliares galegas. O itinerario, co que pretende abranguer a maior extensión posible de territorio galego, vaise creando a partir da invitación espontánea de cada propietario."
-slug: casas-gallegas
+basename: casas-gallegas
 tags: []
 lang: gl
 draft: false

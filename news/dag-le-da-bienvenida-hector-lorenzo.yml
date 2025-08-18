@@ -16,7 +16,7 @@ body:
       Disfruto de la colaboración en todo tipo de proyectos y siempre estoy abierto a emocionantes y nuevos desafíos para apoyarlos con mi aportación creativa y ayudarlos a comunicar su valor.
     type: text
 intro: "La DAG sigue creciendo en un otoño con muchas incorporaciones, lo que nos causa gran entusiasmo y nos anima a seguir trabajando. [Héctor Lorenzo](https://dag.gal/gl/hector-lorenzo/) es un nuevo socio en la categoría novel. Nos alegra ver que la gente joven también se ve reflejada en este proyecto asociativo. ¡Bienvenido Héctor!"
-slug: dag-le-da-bienvenida-hector-lorenzo
+basename: dag-le-da-bienvenida-hector-lorenzo
 tags:
   - "noticias socios/socias"
 lang: es

@@ -67,7 +67,7 @@ body:
       Por último apelamos á responsabilidade dos profesionais do deseño para que avalíen a conveniencia de participar ou non neste tipo de concursos, partindo da consideración de que as accións individuais teñen sempre consecuencias no conxunto da comunidade de deseñadores, da que todos, sen exclusións, formamos parte; e emprazámosvos ademais a que vos acheguedes á DAG para contribuír colectivamente a mellorar as condicións nas que exercemos a nosa profesión hoxe e no futuro.
     type: text
 intro: "Con motivo dos concursos de deseño que se fixeron públicos nos últimos días en Galicia, foron varias as deseñadoras e deseñadores galegos, asociadas á DAG ou non, que entraron en contacto coa asociación, ben para coñecer a nosa opinión ou ben demandando un posicionamento ao respecto."
-slug: a-posicion-da-dag-sobre-os-concursos-de-deseno
+basename: a-posicion-da-dag-sobre-os-concursos-de-deseno
 tags:
   - concursos
 lang: gl

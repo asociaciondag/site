@@ -5,7 +5,7 @@ links:
     url: "https://www.behance.net/ratonaperez"
     type: link
 name: "Alba Pérez Pereiro"
-slug: alba-perez-pereiro
+basename: alba-perez-pereiro
 avatarBig: null
 avatar: /img/avatars/56bb75966a07b-alba-perez-pereiro.jpg
 tags: []

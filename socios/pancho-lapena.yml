@@ -5,7 +5,7 @@ links:
     url: "http://cargocollective.com/panchez"
     type: link
 name: "Pancho Lapeña Otero"
-slug: pancho-lapena
+basename: pancho-lapena
 avatarBig: null
 avatar: /img/avatars/554d00b06359c-pancho-lapena.png
 tags:

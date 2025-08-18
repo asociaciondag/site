@@ -18,7 +18,7 @@ body:
     text: "Bases de los Premios"
     type: button
 intro: "La Agencia Gallega de Innovación convoca a empresas y profesionales vinculados al diseño y a la innovación en Galicia para que presenten sus candidaturas a los Premios Galicia de Innovación y Diseño."
-slug: primera-premios-galicia-innovacion-diseno
+basename: primera-premios-galicia-innovacion-diseno
 tags: []
 lang: es
 draft: false

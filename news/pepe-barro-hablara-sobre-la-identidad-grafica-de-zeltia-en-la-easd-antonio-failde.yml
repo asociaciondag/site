@@ -9,7 +9,7 @@ body:
   - text: "No dejéis pasar la oportunidad!"
     type: text
 intro: "Una empresa con un nombre, Zeltia, y un símbolo de identidad gráfica, el trisquel, que nos remiten al pasado mítico de Galicia. La explicación, profusamente ilustrada por Pepe Barro, es casi una novela de intriga en la que se mezcla historia, cultura, política, ciencia y la vida de los dos hermanos protagonistas: el autor del nombre y logotipo y el autor del símbolo."
-slug: pepe-barro-hablara-sobre-la-identidad-grafica-de-zeltia-en-la-easd-antonio-failde
+basename: pepe-barro-hablara-sobre-la-identidad-grafica-de-zeltia-en-la-easd-antonio-failde
 tags:
   - "noticias socios/socias"
 lang: es

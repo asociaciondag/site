@@ -18,7 +18,7 @@ body:
     text: "Acceso a la encuesta"
     type: button
 intro: "[READ](https://www.designread.es), la Red Española de Asociaciones de Diseño, en colaboración con el [BCD](https://www.bcd.es), Barcelona Centro de Diseño, está recopilando datos para valorar las consecuencias que la situación provocada por la propagación del COVID-19 está causando en el sector del diseño."
-slug: encuesta-covid19
+basename: encuesta-covid19
 tags: []
 lang: es
 draft: false

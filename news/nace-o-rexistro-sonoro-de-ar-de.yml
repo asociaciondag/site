@@ -16,7 +16,7 @@ body:
       A [páxina web de AR\\DE](https://arde.gal/) conta cunha nova sección na que poder escoitar todos os capítulos do Rexistro Sonoro, que tamén estarán dispoñibles na plataforma [Spotify](https://open.spotify.com/show/1w4yOIiyksdlTizYpzVNnE?si=3XRJrFbgQVi6ETyMx4llCg). A nova gráfica e desenvolvemento da web é obra do estudio vigués Desoños.
     type: text
 intro: 'A plataforma AR\\DE, o Arquivo do Deseño Galego, presenta unha nova iniciativa para a documentación da historia do deseño galego. O Rexistro Sonoro preséntase en formato podcast para dar voz e conservar as reflexións de profesionais do deseño galego.'
-slug: nace-o-rexistro-sonoro-de-ar-de
+basename: nace-o-rexistro-sonoro-de-ar-de
 tags: []
 lang: gl
 draft: false

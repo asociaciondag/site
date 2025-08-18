@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: 'Ya está abierto el plazo de inscripción en el Congreso de tipografía de Valencia. Se celebrará entre el 20 y el 22 de junio y bajo el lema "Con carácter. Diez años de tipografía en España (2004-2014)", puesto que en este 2014 el congreso cumple diez años de vida.'
-slug: ya-os-podeis-inscribir-en-el-vi-congreso-de-tipografia-de-valencia
+basename: ya-os-podeis-inscribir-en-el-vi-congreso-de-tipografia-de-valencia
 tags: []
 lang: es
 draft: false

@@ -16,7 +16,7 @@ body:
     mode: normal
     type: image
 intro: "A DAG organiza o feet 2010, un foro de edición e tipografía que durante os días 2, 3, 4, 16, 17 e 18 de decembro traerá a profesionais da talla de La Más Bella e de Andreu Balius a Pontevedra."
-slug: feet-2010-pontevedra
+basename: feet-2010-pontevedra
 tags:
   - "actividades dag"
 lang: gl

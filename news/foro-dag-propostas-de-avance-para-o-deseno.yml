@@ -14,7 +14,7 @@ body:
     text: Descargar
     file: /files/553e7aa2de05c-programa-foro-dag.pdf
 intro: null
-slug: foro-dag-propostas-de-avance-para-o-deseno
+basename: foro-dag-propostas-de-avance-para-o-deseno
 tags: []
 lang: gl
 draft: false

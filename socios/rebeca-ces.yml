@@ -5,7 +5,7 @@ links:
     url: "https://twitter.com/RebecaCes"
     type: twitter
 name: "Rebeca Ces"
-slug: rebeca-ces
+basename: rebeca-ces
 avatarBig: null
 avatar: /img/avatars/554cf6982fffb-rebeca-ces.jpeg
 tags:

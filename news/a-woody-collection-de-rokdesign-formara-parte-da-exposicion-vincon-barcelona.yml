@@ -37,7 +37,7 @@ body:
       provider_icon: "http://issuu.com/favicon.ico"
     type: embed
 intro: "O proxecto WOODY Collection do noso socio Antón García ([RoKdesign](http://www.rokdesign.es/)) acaba de ser seleccionado para a VINÇON Barcelona, unha exposición colectiva que reúne varias propostas de accesorios de cociña e que se inaugura este xoves día 15 ás 18.30 h."
-slug: a-woody-collection-de-rokdesign-formara-parte-da-exposicion-vincon-barcelona
+basename: a-woody-collection-de-rokdesign-formara-parte-da-exposicion-vincon-barcelona
 tags: []
 lang: gl
 draft: false

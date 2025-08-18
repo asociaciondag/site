@@ -18,7 +18,7 @@ body:
     text: "Más info y entradas"
     type: button
 intro: "Nace un ciclo de conversaciones sobre diseño industrial y de producto"
-slug: nigran-acoge-la-primera-edicion-de-proyectar
+basename: nigran-acoge-la-primera-edicion-de-proyectar
 tags:
   - "Difusión eventos"
 lang: es

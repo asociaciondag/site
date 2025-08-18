@@ -23,7 +23,7 @@ body:
     text: ""
     type: image
 intro: "A PECHA KUCHA NIGHT organizada por la DAG reúne en Pontevedra a media docena de creativos de ámbitos tan diversos como el diseño, la cocina, la literatura o la arquitectura."
-slug: gran-exito-del-pecha-kucha-en-pontevedra
+basename: gran-exito-del-pecha-kucha-en-pontevedra
 tags: []
 lang: es
 draft: false

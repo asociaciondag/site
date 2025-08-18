@@ -14,7 +14,7 @@ body:
       El lugar escogido por la organización para la Asamblea es un hotel rural situado a orillas del embalse de El Burguillo, frente a la Reserva Natural del Valle de Iruelas. Un lugar tranquilo ubicado a medio camiño para la mayoría de asociaciones, que buscar servir de espacio para la reflexión, la confrontación de ideas y la toma de decisiones.
     type: text
 intro: "Una veintena de delegados y delegadas de las asociaciones pertenecientes a la Red Española de Asociaciones de Diseño asistirán el próximo fin de semana a su Asamblea General, que este año tendrá lugar en la provincia de Ávila."
-slug: asamblea-general-read
+basename: asamblea-general-read
 tags: []
 lang: es
 draft: false

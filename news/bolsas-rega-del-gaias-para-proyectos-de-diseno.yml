@@ -20,7 +20,7 @@ body:
     text: "Más información"
     type: button
 intro: "La Xunta de Galicia, a través de la Fundación Cidade da Cultura, convoca una nueva edició​​n del programa de residencias artísticas del Gaiás en la búsqueda de proyectos artísticos y culturales relacionados con las artes visuales, escénicas, con la música y con el diseño."
-slug: bolsas-rega-del-gaias-para-proyectos-de-diseno
+basename: bolsas-rega-del-gaias-para-proyectos-de-diseno
 tags: []
 lang: es
 draft: false

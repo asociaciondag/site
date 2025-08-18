@@ -18,7 +18,7 @@ body:
     text: "Programa e inscricións"
     type: button
 intro: "La Consellería de Economía, Empleo e Industria, a través de la [Agencia Gallega de Innovación](http://gain.xunta.gal/) (GAIN), celebra el martes 13 de noviembre en Ferrol, en el CIS Galicia (A Cabana s/n) el Encuentro ecosistema del diseño para la innovación empresarial."
-slug: encuentro-sobre-diseno-e-innovacion-empresarial-este-martes-13-de-noviembre-en-ferrol
+basename: encuentro-sobre-diseno-e-innovacion-empresarial-este-martes-13-de-noviembre-en-ferrol
 tags: []
 lang: es
 draft: false

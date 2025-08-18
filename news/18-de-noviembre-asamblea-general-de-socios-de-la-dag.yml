@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Todos los socios de la DAG tienen una cita el próximo viernes, 18 de noviembre, en Santiago de Compostela."
-slug: 18-de-noviembre-asamblea-general-de-socios-de-la-dag
+basename: 18-de-noviembre-asamblea-general-de-socios-de-la-dag
 tags: []
 lang: es
 draft: false

@@ -12,7 +12,7 @@ body:
     text: Descargar
     type: file
 intro: "O libro achega un feixe de artigosde Pepe Barro sobre o deseño, a cultura e a imaxe da cultura."
-slug: o-como-e-o-que-conta
+basename: o-como-e-o-que-conta
 tags:
   - "noticias socios/socias"
 lang: gl

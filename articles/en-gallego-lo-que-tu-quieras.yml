@@ -89,7 +89,7 @@ body:
   - text: "Pienso que la mayor ventaja competitiva que tenemos los creativos de Galicia en el mundo globalizado es nuestra propia lengua, con un amplísimo abanico de recursos que no han sido nunca explotados comercialmente y como mejor transmisor de identidad para contribuir al legado patrimonial que suponen nuestras marcas."
     type: text
 position: null
-slug: en-gallego-lo-que-tu-quieras
+basename: en-gallego-lo-que-tu-quieras
 cover: /img/articles/covers/imaxe-cabeceria.JPG
 lang: es
 draft: false

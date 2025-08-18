@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "Creatividade Galega es un proyecto pionero en Galicia en el que se recogen los trabajos más creativos de 80 empresas de publicidad, diseño y comunicación de Galicia."
-slug: 1-000-trabajos-en-la-cuarta-edicion-de-creatividade-galega
+basename: 1-000-trabajos-en-la-cuarta-edicion-de-creatividade-galega
 tags: []
 lang: es
 draft: false

@@ -18,7 +18,7 @@ body:
     text: "Ficha de socia DAG"
     type: button
 intro: "E, como é habitual, traémola á portada para que ela mesma se presente"
-slug: sabedes-temos-unha-nova-socia
+basename: sabedes-temos-unha-nova-socia
 tags:
   - "noticias socios/socias"
 lang: gl

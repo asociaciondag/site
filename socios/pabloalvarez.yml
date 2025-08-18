@@ -14,7 +14,7 @@ links:
     url: "https://open.spotify.com/user/mallado?si=2b2edad34ea24626&nd=1&dlsi=81f4341aade6497d"
     type: link
 name: "Pablo Álvarez Estévez"
-slug: pabloalvarez
+basename: pabloalvarez
 avatarBig: null
 avatar: /img/avatars/avatar-pablo-alvarez.jpg
 tags:

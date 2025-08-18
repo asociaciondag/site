@@ -20,7 +20,7 @@ body:
     text: "Perfil de Pablo Villaverde"
     type: button
 intro: "Nuestra actividad no para, así como no para de crecer la lista de profesionales que ya son parte de la DAG. Hoy damos la bienvenida a Pablo Villaverde, un profesional con una extensa experiencia, que ha vivido en primera persoa el cambio de siglo como diseñador, adaptándose a nuevas herramientas y nuevas formas de trabajar; porque cada día es un día de aprendizaje y adaptación para adelantarnos a lo que está por venir y para seguir avanzando."
-slug: bienvenida-pablo-villaverde
+basename: bienvenida-pablo-villaverde
 tags:
   - "noticias socios/socias"
 lang: es

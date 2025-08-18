@@ -1,6 +1,6 @@
 id: 3
 title: "Cafés Sabora"
-slug: cafes-sabora
+basename: cafes-sabora
 body:
   - text: "Redeseño da imaxe e do _packaging_ da empresa de café compostelá."
     type: text

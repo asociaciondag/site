@@ -1,6 +1,6 @@
 id: 58
 title: "Feira Galega das Artes Escénicas"
-slug: feira-galega-das-artes-escenicas
+basename: feira-galega-das-artes-escenicas
 body:
   - text: |-
       A Feira Galega das Artes Escénicas, organizada por Agadic, é un proxecto que convoca os programadores e a xente das artes escénicas en xeral. Durante cinco días organízanse diferentes programas na cidade de Compostela. Cada ano un personaxe, ou unha acción guía a identidade da feira… nesta ocasión, escollemos unha figura que combina referencias mitolóxicas con outras máis propias do mundo do espectáculo, buscando representar o impulso que a feira supón para a creación escénica profesional.

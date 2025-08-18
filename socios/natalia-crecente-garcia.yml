@@ -14,7 +14,7 @@ links:
     url: "https://twitter.com/ncrecente"
     type: twitter
 name: "Natalia Crecente García"
-slug: natalia-crecente-garcia
+basename: natalia-crecente-garcia
 avatarBig: null
 avatar: /img/avatars/554cf73aafb81-natalia-crecente-garcia.jpeg
 tags:

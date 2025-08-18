@@ -50,7 +50,7 @@ body:
     text: "Premios Paraugas"
     type: button
 intro: "Estes premios foron creados no 2016 polo Clúster da Comunicación Gráfica de Galicia para distinguir aquelas pezas e/ou estratexias de creatividade, de deseño, de edición, de industria gráfica, de marketing e de comunicación que destacan pola súa innovación, pola súa funcionalidade, polas boas prácticas e pola obtención de resultados tanxíbeis."
-slug: chega-a-ii-edicion-dos-premios-paraugas-de-comunicacion-e-marketing-de-galicia
+basename: chega-a-ii-edicion-dos-premios-paraugas-de-comunicacion-e-marketing-de-galicia
 tags: []
 lang: gl
 draft: false

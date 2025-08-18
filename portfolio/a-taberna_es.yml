@@ -1,6 +1,6 @@
 id: 290
 title: "A taberna"
-slug: a-taberna
+basename: a-taberna
 body:
   - image: /img/portfolio/images/a-taberna-lugo.jpg
     text: ""

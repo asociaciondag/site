@@ -14,7 +14,7 @@ links:
     url: "https://www.linkedin.com/in/begonhapastorizavarela/"
     type: linkedin
 name: "Begoña Pastoriza"
-slug: begona-pastoriza
+basename: begona-pastoriza
 avatarBig: null
 avatar: /img/avatars/portrait-begopastoriza-dag.png
 tags:

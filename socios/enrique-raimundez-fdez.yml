@@ -14,7 +14,7 @@ links:
     url: "https://www.facebook.com/infinitocromia"
     type: facebook
 name: "Enrique Raimúndez Fdez."
-slug: enrique-raimundez-fdez
+basename: enrique-raimundez-fdez
 avatarBig: null
 avatar: /img/avatars/56c755745ad6e-enrique-raimundez-fernandez.png
 tags:

@@ -1,6 +1,6 @@
 id: 368
 title: "Festival Noroeste"
-slug: festival-noroeste
+basename: festival-noroeste
 body:
   - text: "Imaxe gráfica das edicións 29–33."
     type: text

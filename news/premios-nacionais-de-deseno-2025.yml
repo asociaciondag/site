@@ -22,7 +22,7 @@ body:
       Parabéns!
     type: text
 intro: "Estes galardóns distinguen a profesionais e entidades que integran o deseño na súa estratexia de crecemento e desenvolvemento empresarial. Nesta edición, Patricia Urquiola, Diego Areso, Miguel Leiro e a empresa Viccarbe Habitat foron as premiadas."
-slug: premios-nacionais-de-deseno-2025
+basename: premios-nacionais-de-deseno-2025
 tags: []
 lang: gl
 draft: false

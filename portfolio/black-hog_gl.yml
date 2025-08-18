@@ -1,6 +1,6 @@
 id: 291
 title: Black-Hog
-slug: black-hog
+basename: black-hog
 body:
   - text: "Identidade corporativa e ilustracións para _startup_ alemá para a promoción dun controlador de videoxogos orientados a simuladores de voo."
     type: text

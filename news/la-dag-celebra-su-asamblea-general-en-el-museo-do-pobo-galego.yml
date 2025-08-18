@@ -23,7 +23,7 @@ body:
     mode: normal
     type: image
 intro: "El sábado 17 de junio la DAG celebró su Asamblea General donde se dio cuenta de todo el trabajo realizado en este último año y cerró un ciclo importante con la entrega de la presidencia de la Red Española de Asociaciones de Diseño READ a Cuenca Diseño."
-slug: la-dag-celebra-su-asamblea-general-en-el-museo-do-pobo-galego
+basename: la-dag-celebra-su-asamblea-general-en-el-museo-do-pobo-galego
 tags:
   - "actividades dag"
 lang: es

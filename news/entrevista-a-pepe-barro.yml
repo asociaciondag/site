@@ -37,7 +37,7 @@ body:
     text: "Ir á páxina do FEED 2015"
     type: button
 intro: "Pepe Barro (Pontedeume, 1955) es un diseñador gráfico al que le gusta tocar todos los géneros e incluso mezclar unos con otros. En casi cuarenta años de actividad profesional, el conjunto de su trabajo se puede entender como una lectura de la Galicia que quiere renovar sus señas de identidad, incorporando el lenguaje del diseño internacional."
-slug: entrevista-a-pepe-barro
+basename: entrevista-a-pepe-barro
 tags:
   - "actividades dag"
 lang: es

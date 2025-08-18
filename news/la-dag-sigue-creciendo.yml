@@ -20,7 +20,7 @@ body:
     text: "Perfil de socio"
     type: button
 intro: "En la DAG estamos muy contentos, porque nada nos gusta más que anunciar la llegada de un nuevo socio. Se hace apenas unos días le dábamos la bienvenida a Laura Alonso, hoy toca recibir a un nuevo compañero. Su nombre es Manuel Moital Davila. Bienvenido!"
-slug: la-dag-sigue-creciendo
+basename: la-dag-sigue-creciendo
 tags:
   - "noticias socios/socias"
 lang: es

@@ -22,7 +22,7 @@ body:
       ratio: "66.6"
     type: embed
 intro: "Acogidos por la AAD, Asociación Andaluza de Diseñadores, el pasado jueves 11 de junio se dieron cita en la Térmica de Málaga un centenar de diseñadores, docentes, empresarios y responsables técnicos y políticos de la administración pública dispuestos a pensar y trabajar unidos en pro del diseño."
-slug: breve-resumen-del-3enad
+basename: breve-resumen-del-3enad
 tags: []
 lang: es
 draft: false

@@ -19,7 +19,7 @@ body:
     text: ""
     type: image
 intro: "La DAG, Asociación Gallega de Diseñadores, selecciona trabajos de diseñadores para su exposición de marcas, logotipos e identidades Diálogos."
-slug: se-abre-el-plazo-de-inscripcion-para-participar-en-dialogos
+basename: se-abre-el-plazo-de-inscripcion-para-participar-en-dialogos
 tags:
   - "actividades dag"
 lang: es

@@ -26,7 +26,7 @@ body:
     text: "Perfil de Javier Caamaño en la DAG"
     type: button
 intro: "Buena prueba de ello es que tan solo un par de días después de recibir al nuevo socio [Alberto Fernández](https://dag.gal/es/bienvenido-alberto/), hoy le damos la bienvenida a una nueva incorporación: Javier Caamaño, un diseñador gráfico que tras dar sus primeros pasos en el mundo de la impresión, decidió dar un giro profesional y apostar por lo que realmente le apasiona: la comunicación visual y el branding."
-slug: la-dag-crece
+basename: la-dag-crece
 tags:
   - "noticias socios/socias"
 lang: es

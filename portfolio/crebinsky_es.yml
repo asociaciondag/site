@@ -1,6 +1,6 @@
 id: 146
 title: Crebinsky
-slug: crebinsky
+basename: crebinsky
 body:
   - text: "Imagen aplicada a los carteles, _merchandising,_ _digipack_ de la banda sonora, y otros artículos promocionales."
     type: text

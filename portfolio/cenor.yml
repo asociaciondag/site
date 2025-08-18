@@ -1,6 +1,6 @@
 id: 340
 title: Cenor
-slug: cenor
+basename: cenor
 body:
   - image: /img/portfolio/images/cenor.jpg
     text: ""

@@ -86,7 +86,7 @@ body:
     text: Inscripción
     type: button
 intro: "La Consellaría de Economía, Empleo e Industria, a través de la Agencia Gallega de Innovación (GAIN) cierra el ciclo de actividades del Programa de Diseño para la Innovación para este año con un Encuentro de políticas públicas y buenas prácticas empresariales de diseño para la innovación."
-slug: encuentro-de-politicas-publicas-y-buenas-practicas-empresariales-de-diseno-para-la-innovacion
+basename: encuentro-de-politicas-publicas-y-buenas-practicas-empresariales-de-diseno-para-la-innovacion
 tags: []
 lang: es
 draft: false

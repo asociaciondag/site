@@ -26,7 +26,7 @@ body:
       READ comienza una etapa que pretende ser continuadora del trabajo desarrollado hasta el momento, pero también abierta a nuevas vías de actuación, con el objetivo claro de conseguir una mayor presencia y mejor consideración del diseño como actividad clave en el desarrollo social y económico.
     type: text
 intro: "Uqui Permui, representante actual de la DAG en READ, será la presidenta de la [Red Española de Asociaciones de Diseño](https://www.designread.es) los próximos dos años. La DAG contará además con un grupo de apoyo a todas las actividades y proyectos que se desarrollen en READ durante este tiempo."
-slug: dag-asume-la-presidencia-de-read
+basename: dag-asume-la-presidencia-de-read
 tags:
   - "actividades dag"
 lang: es

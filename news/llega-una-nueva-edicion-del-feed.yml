@@ -22,7 +22,7 @@ body:
     text: "FEED 2019"
     type: button
 intro: "El FEED, el foro de diseño de carácter bianual que organiza la DAG, Asociación Gallega de Diseño, con el patrocinio de AGADIC llega a su quinta edición sin perder el espíritu con el que nació: servir de punto de encuentro para compartir las experiencias de profesionales del diseño, tanto gallegos como de ámbito nacional."
-slug: llega-una-nueva-edicion-del-feed
+basename: llega-una-nueva-edicion-del-feed
 tags:
   - "actividades dag"
 lang: es

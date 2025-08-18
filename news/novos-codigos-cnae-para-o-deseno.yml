@@ -25,7 +25,7 @@ body:
     text: "Mais info"
     type: button
 intro: "Empezamos o 2025 coa actualización do​​s códigos CNAE que resumen e presentan información sobre a actividade económica das empresas en operacións estatísticas. O deseño recolle novas especificacións.​"
-slug: novos-codigos-cnae-para-o-deseno
+basename: novos-codigos-cnae-para-o-deseno
 tags: []
 lang: gl
 draft: false

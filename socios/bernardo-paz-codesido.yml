@@ -11,7 +11,7 @@ links:
     url: "https://www.instagram.com/brnrd.pzcd/"
     type: link
 name: "Bernardo Paz Codesido"
-slug: bernardo-paz-codesido
+basename: bernardo-paz-codesido
 avatarBig: /img/avatars/bernardo-paz.jpg
 avatar: /img/avatars/bernardo-paz.jpg
 tags:

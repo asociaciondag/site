@@ -22,7 +22,7 @@ body:
     text: "Feed 2017"
     type: button
 intro: "La encargada de conducir este workshop será Elena Urizar, una profesional con una gran experiencia en UX y facilitación visual."
-slug: un-taller-de-visual-thinking-abrira-el-feed-2017
+basename: un-taller-de-visual-thinking-abrira-el-feed-2017
 tags:
   - "actividades dag"
 lang: es

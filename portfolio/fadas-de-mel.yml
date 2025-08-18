@@ -1,6 +1,6 @@
 id: 162
 title: "Fadas de mel"
-slug: fadas-de-mel
+basename: fadas-de-mel
 body:
   - image: /img/portfolio/images/573f35ac25ab0-presentacion-fadas-def-bh.jpg
     text: ""

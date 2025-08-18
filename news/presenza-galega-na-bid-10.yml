@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: 'Tres traballos de deseñadores galegos seleccionados para representar a España na exposición da bid\_10.'
-slug: presenza-galega-na-bid-10
+basename: presenza-galega-na-bid-10
 tags: []
 lang: gl
 draft: false

@@ -1,6 +1,6 @@
 id: 88
 title: "Escénica 09"
-slug: escenica-09
+basename: escenica-09
 body:
   - text: "Ciclo Pontevedra Escénica 09"
     type: text

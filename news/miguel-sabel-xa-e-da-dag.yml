@@ -24,7 +24,7 @@ body:
     text: "Ficha de socio DAG"
     type: button
 intro: "Desde a asociación só podemos expresar o máis profundo agradecemento a Miguel Sabel, e aos outros socios que como el desenvolven as súas vidas profesionais fóra de Galicia, polo seu compromiso coa DAG. Benvido!"
-slug: miguel-sabel-xa-e-da-dag
+basename: miguel-sabel-xa-e-da-dag
 tags:
   - "noticias socios/socias"
 lang: gl

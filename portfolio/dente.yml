@@ -1,6 +1,6 @@
 id: 10
 title: Dente
-slug: dente
+basename: dente
 body:
   - text: |-
       Dente es una lámpara de escritorio inicialmente proyectada para equipar oficinas. Su minimalismo y elegancia la hacen apropiada también para su uso en el hogar. Dispone de un brazo con articulación esférica que le otorga gran libertad de movimientos. Esta construida en poliamida reforzada y equipada con una bombilla dicroica LED de 5W y 3500K.

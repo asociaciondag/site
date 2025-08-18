@@ -24,7 +24,7 @@ body:
     text: "Web del evento"
     type: button
 intro: "El próximo 19 de octubre se inaugura en la galería municipal d​e​ Matosinhos la exposición _Galicia, procesos e formas_, comisariada por David Barro y en la que podremos ver trabajos de socios y socias de DAG. La exposició​n podrá visitarse hasta el 3 de diciembre."
-slug: galicia-procesos-y-formas-la-exposicion-con-sello-gallego-en-la-porto-design-biennale
+basename: galicia-procesos-y-formas-la-exposicion-con-sello-gallego-en-la-porto-design-biennale
 tags: []
 lang: es
 draft: false

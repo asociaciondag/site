@@ -17,7 +17,7 @@ links:
     url: "https://www.instagram.com/lauraalonso.diseno/"
     type: link
 name: "Laura Alonso Carracedo"
-slug: laura-alonso-carracedo
+basename: laura-alonso-carracedo
 avatarBig: null
 avatar: /img/avatars/dsc-9410.jpg
 tags:

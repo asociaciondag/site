@@ -12,7 +12,7 @@ body:
     text: "Iniciativa lexislativa da deputada socialista por Valencia, Ana Botella"
     type: file
 intro: "O próximo 12 de xaneiro terá lugar no Congreso dos Deputados a xornada parlamentaria O deseño español no século XXI: desafíos e estratexias."
-slug: o-deseno-espanol-no-seculo-xxi-desafios-e-estratexias
+basename: o-deseno-espanol-no-seculo-xxi-desafios-e-estratexias
 tags: []
 lang: gl
 draft: false

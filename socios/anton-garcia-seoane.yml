@@ -14,7 +14,7 @@ links:
     url: "https://www.linkedin.com/pub/ant%C3%B3n-garc%C3%ADa-seoane/53/b73/a65"
     type: linkedin
 name: "Antón García Seoane"
-slug: anton-garcia-seoane
+basename: anton-garcia-seoane
 avatarBig: null
 avatar: /img/avatars/5835bbd34a83c-anton-garcia-seoane.jpg
 tags:

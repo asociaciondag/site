@@ -6,7 +6,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa15720b-carteis-50-anos-dlg.jpg
 intro: null
-slug: 50-carteis-para-celebrar-os-50-anos-do-dia-das-letras-galegas
+basename: 50-carteis-para-celebrar-os-50-anos-do-dia-das-letras-galegas
 tags: []
 lang: gl
 draft: false

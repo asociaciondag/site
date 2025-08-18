@@ -12,7 +12,7 @@ body:
     text: Descargar
     type: file
 intro: "El diseño será el protagonista en la jornada organizada por la DAG, Asociación Gallega de Diseñadores, para el próximo lunes 19 de mayo en la Ciudad de la Cultura de Santiago de Compostela."
-slug: enric-satue-e-alberto-corazon-conversaran-sobre-el-oficio-de-disenador-en-compostela-en-un-dialogo-abierto-a-la-participacion
+basename: enric-satue-e-alberto-corazon-conversaran-sobre-el-oficio-de-disenador-en-compostela-en-un-dialogo-abierto-a-la-participacion
 tags:
   - "actividades dag"
 lang: es

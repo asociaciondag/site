@@ -1,6 +1,6 @@
 id: 180
 title: "Lugar do real"
-slug: lugar-do-real
+basename: lugar-do-real
 body:
   - text: |-
       [Lugar do real](http://lugardoreal.com) é un proxecto creado en 2009 pola asociación [Ao Norte](http://ao-norte.pt) localizada en Viana do Castelo e funciona como un repositorio de documentais audiovisuais de Portugal. En 2015 decidiuse facer un redeseño e aproveitar tamén para facer unha actualización tecnolóxica (eliminar o reproductor flash e usar HTML5 para que os vídeos fosen visibles en calquera dispositivo).

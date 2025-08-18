@@ -17,7 +17,7 @@ body:
     text: ""
     type: image
 intro: "Moita vida é a que se agocha entre as paredes dos museos e para comprobalo só fai falta botarlle unha ollada á oferta formativa, tanto do [Marco](http://www.marcovigo.com/) coma do Macuf, para este outono."
-slug: a-vida-dos-museos
+basename: a-vida-dos-museos
 tags: []
 lang: gl
 draft: false

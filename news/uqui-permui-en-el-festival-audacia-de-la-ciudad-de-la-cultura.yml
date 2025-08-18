@@ -22,7 +22,7 @@ body:
     text: "Info relatores/as"
     type: button
 intro: "Hoy viernes 18 y mañana sábado 19 tendrá lugar el Festival de Artes y Emprendimiento Audacia en el Museo Centro Gaiás de la Ciudad da Cultura. Dos días con un programa muy completo dirigido a estudiantes, profesionales, emprendedores y público general. Se hablará de cine, artes escénicas, _stop motion_, fotografía, guionado de piezas audiovisuales… y también de diseño, de la mano de nuestra compañera [Uqui Permui](https://uqui.net/es), que participará de un encuentro con el alumnado esta tarde a las 17.30 h y mañana de la sección Audacia Inspira a las 19 h."
-slug: uqui-permui-en-el-festival-audacia-de-la-ciudad-de-la-cultura
+basename: uqui-permui-en-el-festival-audacia-de-la-ciudad-de-la-cultura
 tags:
   - "noticias socios/socias"
 lang: es

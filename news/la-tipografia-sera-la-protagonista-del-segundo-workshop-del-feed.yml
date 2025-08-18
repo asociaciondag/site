@@ -20,7 +20,7 @@ body:
     text: "FEED 2017"
     type: button
 intro: "Y no solo será la protagonista del taller Curvas suaves - del dibujo a la pantalla que Joana Correia impartirá en la segunda jornada del foro, la tipografía volverá a estar presente en la sesión de la tarde en la que Joana también participa con una conferencia sobre Variable Fonts."
-slug: la-tipografia-sera-la-protagonista-del-segundo-workshop-del-feed
+basename: la-tipografia-sera-la-protagonista-del-segundo-workshop-del-feed
 tags:
   - "actividades dag"
 lang: es

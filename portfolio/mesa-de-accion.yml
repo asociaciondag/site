@@ -1,6 +1,6 @@
 id: 6
 title: "Mesa de Acción"
-slug: mesa-de-accion
+basename: mesa-de-accion
 body:
   - text: "“Mesa de Acción: Radiografía do deseño galego”, organizada pola Asociación DAG, foi unha mesa de debate que analizou a situación do deseño en Galicia nas primeiras décadas dos século XXI. A partires da idea da sobreimpresión sobre papel como unha metáfora da conformación dos diferentes procesos do deseño, creouse unha gráfica de capas tipográficas superpostas aproveitando as posibilidades formais da tipogafía Replica do estudio suizo Norm. A xeometría dos glifos, posibilitou unha clara grella tipográfica sobre a que dispoñer todos os demais elementos."
     type: text

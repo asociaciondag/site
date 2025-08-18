@@ -70,7 +70,7 @@ body:
     text: "Bases de los Premios Paraguas"
     type: button
 intro: "Los Premios Paraguas, organizados por el Clúster de la Comunicación de Galicia, nacieron con la idea de poner en valor la calidad y el excelente trabajo de los y las profesionales gallegos. Su objetivo principal es ensalzar la función de la creatividad, el diseño, la edición, la impresión, el marketing y la comunicación en las empresas y en las instituciones, y como medio para conseguir aumentar la competitividad y la capacidad innovadora."
-slug: ultimos-dias-para-participar-en-los-premios-paraguas
+basename: ultimos-dias-para-participar-en-los-premios-paraguas
 tags: []
 lang: es
 draft: false

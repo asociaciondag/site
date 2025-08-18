@@ -12,7 +12,7 @@ body:
     text: Descargar
     file: /files/553e7aa321e87-xornadas-arquitectura-deseno.pdf
 intro: null
-slug: vii-edicion-de-las-jornadas-de-arquitectura-y-diseno
+basename: vii-edicion-de-las-jornadas-de-arquitectura-y-diseno
 tags: []
 lang: es
 draft: false

@@ -22,7 +22,7 @@ body:
     mode: normal
     type: image
 intro: "El diseño creado por [DARDO](http://dardo.gal/dardo/) para la muestra que reunió en el Auditorio de Galicia la obra de numerosos diseñadores y diseñadoras gallegas ha sido seleccionado por el jurado profesional de los premios Letra."
-slug: formas-do-deseno-premioletra
+basename: formas-do-deseno-premioletra
 tags:
   - "noticias socios/socias"
 lang: es

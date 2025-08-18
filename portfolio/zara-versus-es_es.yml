@@ -1,6 +1,6 @@
 id: 379
 title: "Zara: versus"
-slug: zara-versus-es
+basename: zara-versus-es
 body:
   - text: "Diseño campaña del juego «Versus»."
     type: text

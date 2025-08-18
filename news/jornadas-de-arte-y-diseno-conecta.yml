@@ -40,7 +40,7 @@ body:
     text: "Web de Conecta"
     type: button
 intro: "Desde mañana y hasta el 24 de abril se desarrollarán en Lugo las Jornadas de Arte y Diseño Conecta que organiza la [EASD Ramón Falcón](http://escoladeartelugo.com/)."
-slug: jornadas-de-arte-y-diseno-conecta
+basename: jornadas-de-arte-y-diseno-conecta
 tags: []
 lang: es
 draft: false

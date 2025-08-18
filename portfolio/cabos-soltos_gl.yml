@@ -1,6 +1,6 @@
 id: 275
 title: "Cabos soltos"
-slug: cabos-soltos
+basename: cabos-soltos
 body:
   - image: /img/portfolio/images/logotipo-cabos-soltos-negativo.jpg
     text: ""

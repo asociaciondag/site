@@ -28,7 +28,7 @@ body:
     text: "Centro Torrente Ballester"
     type: button
 intro: "Este viernes 22 de enero a las 20.00 h se inaugura en el Centro Torrente Ballester de Ferrol la exposición Arte, artesanía, diseño y sostenibilidad en Galicia en el siglo XXI, comisariada por Mónica Maneiro."
-slug: arte-artesania-diseno-y-sostenibilidad-en-galicia-en-el-siglo-xxi
+basename: arte-artesania-diseno-y-sostenibilidad-en-galicia-en-el-siglo-xxi
 tags:
   - "noticias socios/socias"
 lang: es

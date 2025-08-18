@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "O estudante de Deseño Gráfico da EASD Ramón Falcón de Lugo Bruno Pardo é a última incorporación á DAG"
-slug: temos-un-novo-socio-estudante-na-dag-benvido
+basename: temos-un-novo-socio-estudante-na-dag-benvido
 tags:
   - "noticias socios/socias"
 lang: gl

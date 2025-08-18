@@ -24,7 +24,7 @@ body:
     text: "Entradas GDW"
     type: button
 intro: "El 30 y 31 de julio tendrá lugar en A Coruña el Galicia Design Weekend, un festival de diseño que incluirá grandes proyectos y profesionales del momento en Galicia y a nivel internacional. El evento se desarrollará entre la Fundación Barrié, la Fundación Luis Seoane y la zona de Os Cantóns, pudiendo ser seguido también _online_."
-slug: la-proxima-semana-se-celebra-la-galicia-design-weekend
+basename: la-proxima-semana-se-celebra-la-galicia-design-weekend
 tags:
   - "actividades dag"
 lang: es

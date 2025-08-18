@@ -1,6 +1,6 @@
 id: 104
 title: "Hachedè Visual"
-slug: hachede-visual
+basename: hachede-visual
 body:
   - text: |-
       Deseño e desenvolvemento web para a produtora audiovisual lucense Hachedè visual.

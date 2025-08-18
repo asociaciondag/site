@@ -24,7 +24,7 @@ body:
     text: "Formulario de inscricpión"
     type: button
 intro: "El próximo 25 de abril tendrá lugar en el CIS Tecnología y Diseño de Ferrol el VII Encuentro de Diseño para la Innovación organizado por la Consellería de Economía, Industria e Innovación a través de la Axencia Galega de Innovación."
-slug: vii-encuentro-de-diseno-para-la-innovacion-en-ferrol
+basename: vii-encuentro-de-diseno-para-la-innovacion-en-ferrol
 tags: []
 lang: es
 draft: false

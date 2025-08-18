@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "A tendencia ó _revival_ ou _remake_ de tipografías lineales grotescas ó estilo de Helvetica ou Univers, non fai mais que medrar na última década."
-slug: tipografia-adeus-helvetica-hola-aktiv-grotesk
+basename: tipografia-adeus-helvetica-hola-aktiv-grotesk
 tags: []
 lang: gl
 draft: false

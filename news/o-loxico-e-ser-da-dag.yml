@@ -16,7 +16,7 @@ body:
     text: "Perfil de socio na DAG"
     type: button
 intro: "Que haxa profesionais como Carlos que pensen que asociarse á DAG é un dos pasos lóxicos na carreira de calquera deseñador énchenos de orgullo. Benvindo!"
-slug: o-loxico-e-ser-da-dag
+basename: o-loxico-e-ser-da-dag
 tags:
   - "noticias socios/socias"
 lang: gl

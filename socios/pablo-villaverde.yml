@@ -19,7 +19,7 @@ links:
     url: "https://www.behance.net/pablovillaverde"
     type: link
 name: "Pablo Villaverde"
-slug: pablo-villaverde
+basename: pablo-villaverde
 avatarBig: null
 avatar: /img/avatars/autoretrato-pablo-villaverde.jpg
 tags:

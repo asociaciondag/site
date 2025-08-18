@@ -11,7 +11,7 @@ links:
     url: "https://www.linkedin.com/in/laurentogel/"
     type: linkedin
 name: "Laurent Ogel"
-slug: laurent-ogel
+basename: laurent-ogel
 avatarBig: null
 avatar: /img/avatars/foto.jpg
 tags:

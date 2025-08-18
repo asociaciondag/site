@@ -14,7 +14,7 @@ links:
     url: "https://www.facebook.com/novagarda/"
     type: link
 name: "Al Carballido"
-slug: alberto-carballido
+basename: alberto-carballido
 avatarBig: null
 avatar: /img/avatars/1718708581511.jpg
 tags:

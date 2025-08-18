@@ -13,7 +13,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa152d51-carteis-50-anos-dlg.jpg
 intro: null
-slug: 50-carteles-para-celebrar-los-50-anos-del-dia-de-las-letras-gallegas
+basename: 50-carteles-para-celebrar-los-50-anos-del-dia-de-las-letras-gallegas
 tags: []
 lang: es
 draft: false

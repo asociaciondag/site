@@ -19,7 +19,7 @@ links:
     url: "https://www.linkedin.com/in/lois-guillan-santamaria-2a135071"
     type: linkedin
 name: "Lois Guillán"
-slug: lois-guillan
+basename: lois-guillan
 avatarBig: null
 avatar: /img/avatars/56e2fc53a54a7-lois-guillan.jpg
 tags:

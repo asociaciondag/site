@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "El próximo 15 de mayo a las 20.00 h, el diseñador industrial vigués afincado en Londrés [Tomás Alonso](http://www.tomas-alonso.com/) inaugura con una conferencia su exposición de mobiliario y objetos Sobre mesas &amp; otras cosas en el espacio Sirvent."
-slug: tomas-alonso-inaugura-sobre-mesas-otras-cosas-en-sirvent
+basename: tomas-alonso-inaugura-sobre-mesas-otras-cosas-en-sirvent
 tags: []
 lang: es
 draft: false

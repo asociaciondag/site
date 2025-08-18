@@ -14,7 +14,7 @@ links:
     url: "https://open.spotify.com/user/oochy_woochy?si=5156c20e74654ca1&nd=1&dlsi=9df96a4eb3b8472b"
     type: link
 name: "Rubén Prol"
-slug: ruben-prol
+basename: ruben-prol
 avatarBig: null
 avatar: /img/avatars/avatar.png
 tags:

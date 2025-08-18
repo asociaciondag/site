@@ -20,7 +20,7 @@ links:
     url: "https://www.pinterest.com/adosproyectos/"
     type: link
 name: "Alejandro Araujo"
-slug: alejandro-araujo
+basename: alejandro-araujo
 avatarBig: null
 avatar: /img/avatars/aaraujo.jpg
 tags:

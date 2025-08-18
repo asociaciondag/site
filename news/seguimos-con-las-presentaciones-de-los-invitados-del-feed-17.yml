@@ -18,7 +18,7 @@ body:
     text: 'FEED''17'
     type: button
 intro: "Si la semana pasada os presentábamos a [Elena Urizar](https://dag.gal/es/un-taller-de-visual-thinking-abrira-el-feed-2017/) y a [Joana Correia](https://dag.gal/es/la-tipografia-sera-la-protagonista-del-segundo-workshop-del-feed/), hoy es el turno de Bea Lema. La diseñadora gallega será una de las conferenciantes del sábado, con una intervención en la que partirá de su propia experiencia para hablar del carácter multidisciplinar de la profesión del diseño."
-slug: seguimos-con-las-presentaciones-de-los-invitados-del-feed-17
+basename: seguimos-con-las-presentaciones-de-los-invitados-del-feed-17
 tags:
   - "actividades dag"
 lang: es

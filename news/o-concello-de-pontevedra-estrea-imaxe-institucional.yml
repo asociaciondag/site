@@ -14,7 +14,7 @@ body:
       Desde a DAG queremos salientar tamén o proceso de contratación mediante a fórmula de «chamada a proxecto» como exemplo de boa práctica por parte dunha administración local, que conta co apoio e o asesoramento de entidades e profesionais relacionados coa materia, de principio a fin, amosando as boas sinerxías que se poden xerar entre os diferentes axentes implicados.
     type: text
 intro: "O pasado mes de febreiro o Concello de Pontevedra facía pública a nova imaxe corporativa deseñada polo estudio [Centlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/), logo dun proceso de selección baseado na «chamada a proxecto».​"
-slug: o-concello-de-pontevedra-estrea-imaxe-institucional
+basename: o-concello-de-pontevedra-estrea-imaxe-institucional
 tags:
   - "actividades dag"
 lang: gl

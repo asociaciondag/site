@@ -14,7 +14,7 @@ links:
     url: "https://www.facebook.com/SlabArquInt"
     type: facebook
 name: "Ana Besada"
-slug: ana-besada
+basename: ana-besada
 avatarBig: null
 avatar: /img/avatars/prueba-foto4.jpg
 tags:

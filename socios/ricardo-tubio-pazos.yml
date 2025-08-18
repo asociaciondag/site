@@ -8,7 +8,7 @@ links:
     url: "https://www.facebook.com/cenlitrosmetrocadrado"
     type: facebook
 name: "Ricardo Tubío Pazos"
-slug: ricardo-tubio-pazos
+basename: ricardo-tubio-pazos
 avatarBig: null
 avatar: /img/avatars/554d0a49261c4-ricardo-tubio-pazos.jpg
 tags:

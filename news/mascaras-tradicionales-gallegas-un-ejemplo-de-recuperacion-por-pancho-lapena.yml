@@ -13,7 +13,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa3169a2-mascaras.jpg
 intro: null
-slug: mascaras-tradicionales-gallegas-un-ejemplo-de-recuperacion-por-pancho-lapena
+basename: mascaras-tradicionales-gallegas-un-ejemplo-de-recuperacion-por-pancho-lapena
 tags: []
 lang: es
 draft: false

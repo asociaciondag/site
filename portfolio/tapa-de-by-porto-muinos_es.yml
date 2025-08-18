@@ -1,6 +1,6 @@
 id: 151
 title: "Tapa de by Porto Muíños"
-slug: tapa-de-by-porto-muinos
+basename: tapa-de-by-porto-muinos
 body:
   - text: "Diseño d_e packaging_  de tapas de algas y setas, en el que las ilustraciones vectoriales de trazo suelto con fuerte protagonismo cromático conviven con tipografías contundentes de la familia Helvética Neue."
     type: text

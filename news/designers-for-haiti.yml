@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: '**"Designers for Haití"** é a marca da iniciativa para facer aportacións, dende o mundo do deseño, para levar axuda a Haití.'
-slug: designers-for-haiti
+basename: designers-for-haiti
 tags: []
 lang: gl
 draft: false

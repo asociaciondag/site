@@ -18,7 +18,7 @@ body:
     text: "Web de la BID24"
     type: button
 intro: "Hasta el 16 de julio está abierta la convocatoria para que diseñadores y diseñadoras participen con sus piezas en la Bienal Iberoamericana de Diseño, BID 2024, organizada por Dimad. Los socios y socias de DAG tienen un descuento especial. ​​"
-slug: abierta-la-convocatoria-para-participar-en-la-bid-2024
+basename: abierta-la-convocatoria-para-participar-en-la-bid-2024
 tags: []
 lang: es
 draft: false

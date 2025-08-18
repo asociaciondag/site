@@ -35,7 +35,7 @@ body:
       Más sobre READ, en [http://www.designread.es](http://www.designread.es/)
     type: text
 intro: "Por segundo año consecutivo, Málaga será punto de encuentro en un foro que reunirá a un centenar de agentes del diseño, personalidades de relevancia nacional e internacional, en 4ENAD, los días 22 y 23 de septiembre de 2016 en La Térmica."
-slug: malaga-acoge-el-4o-encuentro-nacional-de-asociaciones-de-diseno
+basename: malaga-acoge-el-4o-encuentro-nacional-de-asociaciones-de-diseno
 tags: []
 lang: es
 draft: false

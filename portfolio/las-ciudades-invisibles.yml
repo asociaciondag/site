@@ -1,6 +1,6 @@
 id: 161
 title: "Las ciudades invisibles"
-slug: las-ciudades-invisibles
+basename: las-ciudades-invisibles
 body:
   - image: /img/portfolio/images/573f33c9bc88f-presentacion-ciudadesinvisibles-bh1.jpg
     text: ""

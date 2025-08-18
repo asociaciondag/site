@@ -22,7 +22,7 @@ body:
     text: "Máis información e inscricións"
     type: button
 intro: "A XXX Edición dos Premios Anuaria xa está en marcha e aquelas persoas e estudios de deseño que queiran presentar proxectos teñen ata o 15 de novembro para poder facelo. Os socios e socias de DAG, ademais, contan un desconto especial na inscrición."
-slug: nova-convocatoria-dos-premios-anuaria
+basename: nova-convocatoria-dos-premios-anuaria
 tags: []
 lang: gl
 draft: false

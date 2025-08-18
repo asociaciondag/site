@@ -12,7 +12,7 @@ body:
       O acordo entre a DAG e Formatos permitirá ás persoas asociadas beneficiarse dun desconto do 5% en toda a súa oferta literaria, ademáis de descontos adicionais en envíos a domicilio e o acceso a contidos seleccionados. Esta nova colaboración abre ademáis a porta a posibles actividades conxuntas e crea un vínculo necesario entre dúas disciplinas unidas en esencia, o deseño e a obra literaria.
     type: text
 intro: "A Asociación Galega de Deseño asina un acordo de colaboración coa libraría coruñesa, que ofrece vantaxes ás persoas asociadas e busca unir esforzos na divulgación do deseño."
-slug: libreria-formatos-colaboradora
+basename: libreria-formatos-colaboradora
 tags: []
 lang: gl
 draft: false

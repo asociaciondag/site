@@ -16,7 +16,7 @@ body:
       Un saludo y espero conoceros a todos pronto.
     type: text
 intro: "Ismael lleva muchos años viviendo fuera de Galicia aunque la relación con la tierra existe y busca estar más conectado con profesionales del diseño de aquí formando parte del colectivo DAG. Esta es su presentación. ¡¡¡Bienvenido!!!"
-slug: ismael-velo-nueva-conexion-amsterdam-galicia-via-dag
+basename: ismael-velo-nueva-conexion-amsterdam-galicia-via-dag
 tags:
   - "noticias socios/socias"
 lang: es

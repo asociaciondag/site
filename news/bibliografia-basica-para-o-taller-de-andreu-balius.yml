@@ -18,7 +18,7 @@ body:
     text: ""
     type: image
 intro: "As recomendacións de **Andreu Balius** para aqueles que xa queren ir quentando motores para o Taller de tipografía son:"
-slug: bibliografia-basica-para-o-taller-de-andreu-balius
+basename: bibliografia-basica-para-o-taller-de-andreu-balius
 tags:
   - "actividades dag"
 lang: gl

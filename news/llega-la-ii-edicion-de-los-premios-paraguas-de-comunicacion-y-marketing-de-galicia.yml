@@ -50,7 +50,7 @@ body:
     text: "Premios Paraguas"
     type: button
 intro: "Estos premios fueron creados en 2016 por el Clúster de la Comunicación Gráfica de Galicia para distinguir aquellas piezas y/o estrategias de creatividad, de diseño, de edición, de industria gráfica, de marketing y de comunicación que destacan por su innovación, por su funcionalidad, por las buenas prácticas y por la obtención de resultados tangibles."
-slug: llega-la-ii-edicion-de-los-premios-paraguas-de-comunicacion-y-marketing-de-galicia
+basename: llega-la-ii-edicion-de-los-premios-paraguas-de-comunicacion-y-marketing-de-galicia
 tags: []
 lang: es
 draft: false

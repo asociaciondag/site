@@ -1,6 +1,6 @@
 id: 428
 title: "Sofá urbano"
-slug: sofa-urbano
+basename: sofa-urbano
 body:
   - image: /img/portfolio/images/sofa-urbano-1.jpg
     text: ""

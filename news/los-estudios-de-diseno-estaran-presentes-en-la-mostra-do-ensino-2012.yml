@@ -25,7 +25,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa0c2719-mostra-do-ensino-2012.jpg
 intro: null
-slug: los-estudios-de-diseno-estaran-presentes-en-la-mostra-do-ensino-2012
+basename: los-estudios-de-diseno-estaran-presentes-en-la-mostra-do-ensino-2012
 tags: []
 lang: es
 draft: false

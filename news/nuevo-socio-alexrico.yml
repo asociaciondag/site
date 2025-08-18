@@ -20,7 +20,7 @@ body:
        Soy un gran defensor del asociacionismo y admiro a la DAG en su papel como instrumento básico para poner en valor el diseño y acercarlo a la sociedad, a las empresas y a las instituciones. Espero poder contribuir a lograr este objetivo conjunto con todxs vosotrxs. Ganas no van a faltar.
     type: text
 intro: "Estamos muy contentos de comunicar que la DAG sigue sumando socios. Hoy, más que nunca, somos más fuertes unidos, creando vínculos que ayudan a conseguir objetivos comunes. [Álex Rico](https://dag.gal/es/alex-rico/) es sin duda un profesional con iniciativa. Su incorporación a la Asociación Gallega de Diseño nos anima a seguir trabajando, con ganas y optimismo. ¡Bienvenido Álex!"
-slug: nuevo-socio-alexrico
+basename: nuevo-socio-alexrico
 tags:
   - "noticias socios/socias"
 lang: es

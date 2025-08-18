@@ -20,7 +20,7 @@ body:
     text: "Premios Anuaria"
     type: button
 intro: "A convocatoria para participar na XXIV edición dos Premios Nacionais de Deseño Gráfico Anuaria está aberta desde hai uns días."
-slug: xa-te-podes-inscribir-nos-anuaria
+basename: xa-te-podes-inscribir-nos-anuaria
 tags: []
 lang: gl
 draft: false

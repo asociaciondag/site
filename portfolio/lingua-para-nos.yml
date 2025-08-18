@@ -1,6 +1,6 @@
 id: 99
 title: "Lingua para Nós"
-slug: lingua-para-nos
+basename: lingua-para-nos
 body:
   - text: "O Servizo de Normalización Lingüística do Concello de Pontevedra, encargounos o deseño dunha publicación interna para poñer a disposición dos traballadores do Concello. Trátase dun manual de estilo que ten como obxectivo resolver as posibles dúbidas acerca do emprego do galego na administración. Desta maneira deseñamos unha imaxe amable, e de protección, para convidar ao coidado e ao correcto uso da lingua propia."
     type: text

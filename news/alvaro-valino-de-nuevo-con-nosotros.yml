@@ -16,7 +16,7 @@ body:
     text: "Ficha de socio DAG"
     type: button
 intro: "Pues sí! Ha vuelto! Tan lejos y a la vez tan cerca :)"
-slug: alvaro-valino-de-nuevo-con-nosotros
+basename: alvaro-valino-de-nuevo-con-nosotros
 tags:
   - "noticias socios/socias"
 lang: es

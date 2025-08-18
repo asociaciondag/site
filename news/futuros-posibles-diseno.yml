@@ -14,7 +14,7 @@ body:
       El libro incluye además un apéndice final en el que se hace referencia a la imagen creada por Alvaro Valiño para el Programa y al uso en la publicación de varias tipografías de autoría gallega: Isaac Sans, creada por Marcos Dopico, y Movement y Nomada Didone, con diseño de María Ramos.
     type: text
 intro: "El pasado 29 de junio se presentó una nueva publicación de diseño durante el III Encuentro de Diseño para la Innovación Empresarial, organizado por la Axencia Galega de Innovación (GAIN)."
-slug: futuros-posibles-diseno
+basename: futuros-posibles-diseno
 tags: []
 lang: es
 draft: false

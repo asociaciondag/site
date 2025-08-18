@@ -18,7 +18,7 @@ body:
       Todos los detalles sobre esta nueva edición de los Premios Paraugas están disponibles[ en su web](https://premios.clustercomunicacion.gal/), desde donde también se puede hacer la inscripción de proyectos.
     type: text
 intro: "El Cluster de la Comunicación de Galicia convoca una nueva edición de los Premios Paraugas. Las empresas y profesionales interesados en inscribir sus proyectos podrán hacerlo hasta el próximo 31 de octubre y​​ los socios y socias de DAG tienen descuento. ​"
-slug: convocada-la-vii-edicion-de-los-premios-paraugas
+basename: convocada-la-vii-edicion-de-los-premios-paraugas
 tags: []
 lang: es
 draft: false

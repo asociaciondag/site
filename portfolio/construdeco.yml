@@ -1,6 +1,6 @@
 id: 329
 title: Construdeco
-slug: construdeco
+basename: construdeco
 body:
   - image: /img/portfolio/images/construdeco.jpg
     text: ""

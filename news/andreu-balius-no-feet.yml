@@ -18,7 +18,7 @@ body:
     mode: normal
     type: image
 intro: "É un dos deseñadores de tipos máis recoñecidos do panorama nacional."
-slug: andreu-balius-no-feet
+basename: andreu-balius-no-feet
 tags:
   - "actividades dag"
 lang: gl

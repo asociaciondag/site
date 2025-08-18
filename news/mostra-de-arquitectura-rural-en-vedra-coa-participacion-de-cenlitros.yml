@@ -24,7 +24,7 @@ body:
     text: "Programa completo"
     type: button
 intro: "Do 9 ao 11 de maio terá lugar en Vedra a Mostra de Arquitectura Rural M.A.R.C.O organizada polo estudio Elo Arquitectura xunto co Concello de Vedra. Pon o foco na divulgación, na relación con outras artes e na posta en valor da contorna e a vida no rural."
-slug: mostra-de-arquitectura-rural-en-vedra-coa-participacion-de-cenlitros
+basename: mostra-de-arquitectura-rural-en-vedra-coa-participacion-de-cenlitros
 tags:
   - "noticias socios/socias"
 lang: gl

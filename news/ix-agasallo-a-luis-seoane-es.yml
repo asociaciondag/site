@@ -9,7 +9,7 @@ body:
     mode: normal
     type: image
 intro: "El próximo 1 de junio a las 19.30 h en la biblioteca pública de A Coruña Miguel González Garcés se inaugura **Picasso 73**, una muestra de libros de la biblioteca de arte de Luís Seoane. A continuación, se procederá a la plantación de tres rudas y un ajo verde frente al busto de la plaza de Luís Seoane."
-slug: ix-agasallo-a-luis-seoane-es
+basename: ix-agasallo-a-luis-seoane-es
 tags: []
 lang: es
 draft: false

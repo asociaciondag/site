@@ -20,7 +20,7 @@ body:
     text: "Perfil de socio DAG"
     type: button
 intro: "Como siempre, podéis conocerlo un poco mejor a través de esta breve presentación suya en la que nos habla de sus intereses e inquietudes."
-slug: tenemos-un-nuevo-socio
+basename: tenemos-un-nuevo-socio
 tags: []
 lang: es
 draft: false

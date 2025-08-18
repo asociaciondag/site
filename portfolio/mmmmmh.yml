@@ -1,6 +1,6 @@
 id: 18
 title: MMMMMH!
-slug: mmmmmh
+basename: mmmmmh
 body:
   - text: "Catálogo de exposición realizada na SALA X, recolle a obra de oito artistas seleccionados da Facultade de Belas Artes de Pontevedra."
     type: text

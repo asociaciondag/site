@@ -18,7 +18,7 @@ body:
       Desde DAG y READ ya estamos trabajando en la preparación y organización de los encuentros y seguiremos informando de novedades y avances en la programación.
     type: text
 intro: "La que será la 6ª edición del Foro de Edición y Diseño y la 9ª del Encuentro Nacional de Diseño ya tienen fecha. Los dos eventos tedrán este año una programación continua y se celebrarán entre el 14 y el 16 de octubre. Santiago de Compostela es la ciudad elegida para acoger las actividades incluidas en el programa."
-slug: preparativos-feed-enad-santiago-es
+basename: preparativos-feed-enad-santiago-es
 tags:
   - "actividades dag"
 lang: es

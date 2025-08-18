@@ -20,7 +20,7 @@ body:
       Gracias por acogerme.
     type: text
 intro: "Estamos muy felices porque la Asociación Gallega de Diseño sigue creciendo con la incorporación de [Thais Suárez,](https://dag.gal/gl/thais-suarez-rey/) y también porque seguimos sumando asociadas, consiguiendo mayor equilibrio de género y aportando talento. Con mucha ilusión, desde «sísmica», Thais aborda proyectos de dirección de arte, diseño y organización de eventos. ¡Bienvenida!"
-slug: estrenamos-otono-incorporacion-thais-suarez
+basename: estrenamos-otono-incorporacion-thais-suarez
 tags:
   - "noticias socios/socias"
 lang: es

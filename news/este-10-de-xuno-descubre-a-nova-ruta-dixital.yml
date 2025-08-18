@@ -15,7 +15,7 @@ body:
     text: "Descarga o programa"
     type: file
 intro: "Tórculo Comunicación Gráfica convida os deseñadores a participar na actividade **Descubre a nova ruta dixital** que terá lugar a tarde do próximo mércores 10 de xuño na súa sede do Polígono do Tambre, Vía Edison 33-35 Santiago de Compostela."
-slug: este-10-de-xuno-descubre-a-nova-ruta-dixital
+basename: este-10-de-xuno-descubre-a-nova-ruta-dixital
 tags: []
 lang: gl
 draft: false

@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "El ciclo de conferencias de creativos publicitarios que coordina [Creatividade Galega](http://creatividadegalega.org/) y la [Universidad de Vigo](http://www.uvigo.es/) vuelve este octubre y noviembre a la [Casa das Campás](http://casadascampas.uvigo.es/)."
-slug: vuelve-falame-do-teu
+basename: vuelve-falame-do-teu
 tags: []
 lang: es
 draft: false

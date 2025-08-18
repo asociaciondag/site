@@ -1,6 +1,6 @@
 id: 384
 title: "Fío de Martié"
-slug: fio-de-martie
+basename: fio-de-martie
 body:
   - text: ""
     type: text

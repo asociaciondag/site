@@ -1,6 +1,6 @@
 id: 123
 title: "Casa Regalado"
-slug: casa-regalado
+basename: casa-regalado
 body:
   - text: |-
       La empresa familiar Casa Regalado lleva años produciendo artesanalmente una miel de excelente calidad. Dar a conocer este producto único, y estrechamente vinculado a la tierra merece una piel que realce las virtudes de esta «joya real».

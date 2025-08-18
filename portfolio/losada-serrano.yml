@@ -1,6 +1,6 @@
 id: 341
 title: "Losada Serrano"
-slug: losada-serrano
+basename: losada-serrano
 body:
   - image: /img/portfolio/images/losada-serrano.jpg
     text: ""

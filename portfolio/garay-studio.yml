@@ -1,6 +1,6 @@
 id: 311
 title: "Garay Studio"
-slug: garay-studio
+basename: garay-studio
 body:
   - image: /img/portfolio/images/garaystudio.jpg
     text: ""

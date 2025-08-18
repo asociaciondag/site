@@ -1,6 +1,6 @@
 id: 63
 title: "Urbe Vecchia"
-slug: urbe-vecchia
+basename: urbe-vecchia
 body:
   - text: "Imaxe de empresa para Urbe Vecchia, promotora inmobiliaria que desenvolve a súa actividade en Bilbao. Utilizamos como referencia a foto aérea dunha parte da zona antiga desa cidade coas súas rúas e prazas."
     type: text

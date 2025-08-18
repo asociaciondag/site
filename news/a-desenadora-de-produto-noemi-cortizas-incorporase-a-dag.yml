@@ -22,7 +22,7 @@ body:
     text: "Perfil de Noemí Cortizas na DAG"
     type: button
 intro: "Se hai uns días coñeciamos o novo socio da DAG, Roberto Núñez, hoxe é a vez de Noemí, unha enxeñeira industrial establecida en Francia e que nos últimos tempos reorientou os seus pasos cara ao CMF design."
-slug: a-desenadora-de-produto-noemi-cortizas-incorporase-a-dag
+basename: a-desenadora-de-produto-noemi-cortizas-incorporase-a-dag
 tags:
   - "noticias socios/socias"
 lang: gl

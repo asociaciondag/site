@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: '**“Arròs covat"** é unha serie de animación sobre o conflicto de facerse maior e ter a sensación de que as oportunidades pasan por diante.'
-slug: series-arros-covat
+basename: series-arros-covat
 tags: []
 lang: gl
 draft: false

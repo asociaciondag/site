@@ -22,7 +22,7 @@ body:
     text: "Bases de la convocatoria"
     type: button
 intro: "La [**Agencia Gallega de Innovación (Gain)**](http://gain.xunta.gal/?locale=es_ES), convoca la tercera edición de los **Premios Galicia de Innovación y Diseño** para reconocer la labor de las personas y empresas que están contribuyendo significativamente al desarrollo económico y social en Galicia a través de la innovación y el diseño. El plazo de inscripción de candidaturas está abierto hasta el 4 de julio."
-slug: se-convocan-los-iii-premios-galicia-de-innovacion-y-diseno
+basename: se-convocan-los-iii-premios-galicia-de-innovacion-y-diseno
 tags: []
 lang: es
 draft: false

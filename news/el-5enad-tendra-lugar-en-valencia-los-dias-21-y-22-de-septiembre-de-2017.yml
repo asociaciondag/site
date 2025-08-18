@@ -27,7 +27,7 @@ body:
     text: 5enad
     type: button
 intro: 'Esta quinta edición está coordinada por la ADCV, la Asociación de Diseñadores de la Comunitat Valenciana, y contará con el apoyo de la Feria Hábitat Valencia, que abrirá sus puertas el martes 19, y también con el de Las Naves, Espai d''Innovación i Creaciò, las dos sedes que acogerán el encuentro. 5ENAD coincidirá también con la Valencia Disseny Week.'
-slug: el-5enad-tendra-lugar-en-valencia-los-dias-21-y-22-de-septiembre-de-2017
+basename: el-5enad-tendra-lugar-en-valencia-los-dias-21-y-22-de-septiembre-de-2017
 tags: []
 lang: es
 draft: false

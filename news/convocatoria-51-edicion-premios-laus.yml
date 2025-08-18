@@ -20,7 +20,7 @@ body:
     text: "Bases dos Premios Laus"
     type: button
 intro: "Un ano máis os Premios Laus, organizados por [ADG-FAD](https://www.adg-fad.org/es), abren a convocatoria para a presentación de proxectos de deseño. As candidaturas presentadas serán xulgadas por un xurado profesional, que seleccionará as obras gañadoras."
-slug: convocatoria-51-edicion-premios-laus
+basename: convocatoria-51-edicion-premios-laus
 tags: []
 lang: gl
 draft: false

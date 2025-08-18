@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Recentemente o SALON FÜR KUNSTBUCH abriu a convocatoria NON-ISBN para recopilar publicacións de arte."
-slug: no-isbn
+basename: no-isbn
 tags: []
 lang: gl
 draft: false

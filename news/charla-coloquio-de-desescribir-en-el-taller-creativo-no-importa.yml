@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Continúa en A Coruña el ciclo de sesiones-coloquio con una jornada dedicada al diseño gráfico."
-slug: charla-coloquio-de-desescribir-en-el-taller-creativo-no-importa
+basename: charla-coloquio-de-desescribir-en-el-taller-creativo-no-importa
 tags:
   - "noticias socios/socias"
 lang: es

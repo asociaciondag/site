@@ -18,7 +18,7 @@ body:
     text: "Bases e inscripciones"
     type: button
 intro: "Ya está en marcha la convocatoria para participar en los Premios Anuaria 2024, con trabajos realizados en los años 2023 y 2024. La inscripción está abierta hasta el 15 de noviembre. Estos premios reconocen la excelencia del diseño gráfico de España desde hace 31 años."
-slug: nueva-edicion-de-los-premios-anuaria-de-diseno-grafico
+basename: nueva-edicion-de-los-premios-anuaria-de-diseno-grafico
 tags: []
 lang: es
 draft: false

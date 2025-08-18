@@ -22,7 +22,7 @@ body:
     text: "Proxecto lugares"
     type: button
 intro: "Se desarrollará entre el 18 y el 22 de​ abril en las aldeas de Palas de Rei (Lugo) y Seadur (Ourense),​ sitas en el trazado del Camino Primitivo y el Camino de Invierno respectivamente, con la presencia de profesionales de diferentes ámbitos, incluido el diseño​​."
-slug: proxecto-lugares-la-transformacion-del-espacio-publico-del-camino-de-santiago
+basename: proxecto-lugares-la-transformacion-del-espacio-publico-del-camino-de-santiago
 tags: []
 lang: es
 draft: false

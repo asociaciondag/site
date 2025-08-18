@@ -20,7 +20,7 @@ body:
     text: "Inscripción en los Anuaria 2018"
     type: button
 intro: "Este mes ha tenido lugar la presentación de una nueva edición de los Anuaria 2018, los Premios Nacionales de Diseño Gráfico e Industrial."
-slug: los-premios-anuaria-cumplen-25-anos
+basename: los-premios-anuaria-cumplen-25-anos
 tags: []
 lang: es
 draft: false

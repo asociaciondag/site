@@ -16,7 +16,7 @@ body:
       Estas xornadas preséntanse como cita ineludible para profesionais, estudantes, emprendedores e para quen goza do deseño e da calidade dos produtos alimentarios que se crean en Galicia.
     type: text
 intro: "Os próximos 13 e 14 de xuño terán lugar na Fundación Luis Seoane as xornadas «Do deseño tamén se come e se bebe», organizadas pola Deputación da Coruña ao abeiro do Premio Luis Seoane de Deseño, que este ano convoca a súa primeira edición."
-slug: xornada-do-deseno-tamen-se-come-e-se-bebe
+basename: xornada-do-deseno-tamen-se-come-e-se-bebe
 tags:
   - "Difusión eventos"
   - "noticias socios/socias"

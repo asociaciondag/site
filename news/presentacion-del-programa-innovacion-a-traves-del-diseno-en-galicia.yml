@@ -16,7 +16,7 @@ body:
     text: "Formulario de inscripción"
     type: button
 intro: "El próximo 15 de febrero a las 13 h., se presentará en Galicia la segunda edición del programa formativo PID, organizado por Innova&amp;Acción y la World Design Capital Valencia 2022, con la colaboración de DAG en su difusión."
-slug: presentacion-del-programa-innovacion-a-traves-del-diseno-en-galicia
+basename: presentacion-del-programa-innovacion-a-traves-del-diseno-en-galicia
 tags: []
 lang: es
 draft: false

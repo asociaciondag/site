@@ -22,7 +22,7 @@ body:
     text: "FEED 2017"
     type: button
 intro: "E velaquí o está! Como cada dous anos desde aquel primeiro de 2010, temos aquí unha nova edición do FEED, o Foro de Edición e Deseño que organiza a DAG co patrocinio da [Agadic](http://www.agadic.gal/)."
-slug: estaba-facendo-falta-un-feed
+basename: estaba-facendo-falta-un-feed
 tags:
   - "actividades dag"
 lang: gl

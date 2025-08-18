@@ -20,7 +20,7 @@ body:
       Rematamos agradecendo ao Concello de Cangas a súa acollida e animándovos a facer desta outra celebración do deseño galego.
     type: text
 intro: "Comezamos o ano falando de deseño no 3º Encontro, que terá lugar en Cangas o vindeiro sábado 18 de xaneiro. Unha ocasión para compartir presentacións, intereses comúns e aprendizaxe conxunta."
-slug: encontro-cangas
+basename: encontro-cangas
 tags:
   - "actividades dag"
 lang: gl

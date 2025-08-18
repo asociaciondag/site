@@ -20,7 +20,7 @@ body:
       Un pracer coñecervos a todos e todas!
     type: text
 intro: "Aínda que xa leva un tempo con nós, estamos encantadas de presentar hoxe oficialmente como novo socio a [Antón Veríssimo](https://dag.gal/gl/anton-verissimo/), que desde o seu estudio [VRANDSS](https://vrandss.com/) traballa para crear marcas memorables. Benvido Antón!"
-slug: damos-a-benvida-a-anton-verissimo
+basename: damos-a-benvida-a-anton-verissimo
 tags:
   - "noticias socios/socias"
 lang: gl

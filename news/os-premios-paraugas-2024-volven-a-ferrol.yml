@@ -26,7 +26,7 @@ body:
     text: "Web Premios Paraugas"
     type: button
 intro: "O próximo 22 de novembro terá lugar no Teatro Jofre de Ferrol a gala de entrega dos Premios Paraugas 2024. Os e as profesionais interesadas poderán inscribir traballos ata o 15 de outubro."
-slug: os-premios-paraugas-2024-volven-a-ferrol
+basename: os-premios-paraugas-2024-volven-a-ferrol
 tags: []
 lang: gl
 draft: false

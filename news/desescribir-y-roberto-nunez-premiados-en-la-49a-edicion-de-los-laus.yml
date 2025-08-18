@@ -41,7 +41,7 @@ body:
     mode: normal
     type: image
 intro: "Los nombres de los galardonados se hicieron públicos la semana pasada en una gala celebrada en el Museo del Diseño de Barcelona."
-slug: desescribir-y-roberto-nunez-premiados-en-la-49a-edicion-de-los-laus
+basename: desescribir-y-roberto-nunez-premiados-en-la-49a-edicion-de-los-laus
 tags:
   - "noticias socios/socias"
 lang: es

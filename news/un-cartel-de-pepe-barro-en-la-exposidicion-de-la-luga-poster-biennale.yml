@@ -20,7 +20,7 @@ body:
     text: "Web Luga Poster Biennale"
     type: button
 intro: "El próximo 27 de septiembre se inaugura la exposición de la Luga Poster Biennale en la Escola Superior de Media Artes e Design​ sita en Vila do Conde. Entre los carteles seleccionados encontramos uno de nuestro socio Pepe Barro."
-slug: un-cartel-de-pepe-barro-en-la-exposidicion-de-la-luga-poster-biennale
+basename: un-cartel-de-pepe-barro-en-la-exposidicion-de-la-luga-poster-biennale
 tags:
   - "noticias socios/socias"
 lang: es

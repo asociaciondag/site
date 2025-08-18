@@ -23,7 +23,7 @@ links:
     url: "https://twitter.com/_desonhos"
     type: twitter
 name: "Carlos Álvarez"
-slug: carlos-alvarez
+basename: carlos-alvarez
 avatarBig: null
 avatar: /img/avatars/5544c790259e9-carlos-alvarez.jpg
 tags:

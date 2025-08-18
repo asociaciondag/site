@@ -6,7 +6,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa42ce3d-xornada-tendencias-do-habitat.jpg
 intro: null
-slug: xornada-sobre-tendencias-do-habitat-mobiliario-e-deseno-en-santiago-de-compostela
+basename: xornada-sobre-tendencias-do-habitat-mobiliario-e-deseno-en-santiago-de-compostela
 tags: []
 lang: gl
 draft: false

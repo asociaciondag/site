@@ -26,7 +26,7 @@ body:
     text: "Perfil de socio en la DAG"
     type: button
 intro: "Y, como a cada nuevo socio que llega a la asociación, le hemos pedido que se presente para que todos podáis conocerle un poco mejor. Esto es lo que nos ha contado."
-slug: daniel-vila-del-estudio-988-se-une-a-la-dag
+basename: daniel-vila-del-estudio-988-se-une-a-la-dag
 tags:
   - "noticias socios/socias"
 lang: es

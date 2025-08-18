@@ -1,6 +1,6 @@
 id: 264
 title: "Cartaz Implicadas"
-slug: cartaz-implicadas
+basename: cartaz-implicadas
 body:
   - text: "Cartel realizado para la ONG Implicadas no Desenvolvemento."
     type: text

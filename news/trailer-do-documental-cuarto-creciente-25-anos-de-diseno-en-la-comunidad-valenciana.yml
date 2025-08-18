@@ -4,7 +4,7 @@ body:
   - text: "Dirixido por Menta (www.mentagrafica.com) para a ADCV coa colaboración de Vixel (www.vixel.es), Cristina Gómez e música de Nacho Martín (www.musicaparalaimagen.es). Estreo en 2011."
     type: text
 intro: "Unha película documental sobre o deseño na Comunidade Valenciana con motivo do 25 aniversario da ADCV."
-slug: trailer-do-documental-cuarto-creciente-25-anos-de-diseno-en-la-comunidad-valenciana
+basename: trailer-do-documental-cuarto-creciente-25-anos-de-diseno-en-la-comunidad-valenciana
 tags: []
 lang: gl
 draft: false

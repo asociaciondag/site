@@ -1,6 +1,6 @@
 id: 17
 title: "FEED 2021"
-slug: feed2021
+basename: feed2021
 year: 2021
 yaml: null
 cover: /img/projects/proxectos-dag-feed-2021.jpg

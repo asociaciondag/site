@@ -1,6 +1,6 @@
 id: 284
 title: "Festival de Jazz y Blues Pontevedra"
-slug: festival-de-jazz-y-blues-pontevedra
+basename: festival-de-jazz-y-blues-pontevedra
 body:
   - image: /img/portfolio/images/cartel-festival-de-jazz-2016-detalle.jpg
     text: ""

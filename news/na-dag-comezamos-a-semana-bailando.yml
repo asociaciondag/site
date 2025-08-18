@@ -18,7 +18,7 @@ body:
     text: "Perfil de socio DAG"
     type: button
 intro: "Si, si, bailando, con Adrián, o noso novo socio ;)"
-slug: na-dag-comezamos-a-semana-bailando
+basename: na-dag-comezamos-a-semana-bailando
 tags:
   - "noticias socios/socias"
 lang: gl

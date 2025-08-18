@@ -1,6 +1,6 @@
 id: 179
 title: "Swing on School"
-slug: swing-on-school
+basename: swing-on-school
 body:
   - text: |-
       Swing on School es una escuela de bailes _swing_ con sede en Vigo, aunque también imparten clases por toda Galicia (Cangas, Bueu, Santiago, Vilagarcía…).

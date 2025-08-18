@@ -17,7 +17,7 @@ body:
     text: ""
     type: image
 intro: "Mucha vida es la que se esconde entre las paredes de los museos, y para comprobarlo sólo hace falta echarle un vistazo a la oferta formativa, tanto del [Marco](http://www.marcovigo.com/es) como del Macuf, para este otoño."
-slug: la-vida-de-los-museos
+basename: la-vida-de-los-museos
 tags: []
 lang: es
 draft: false

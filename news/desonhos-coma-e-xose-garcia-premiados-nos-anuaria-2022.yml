@@ -22,7 +22,7 @@ body:
     text: "Web dos Premios Anuaria"
     type: button
 intro: "A XXIX edición dos Premios Anuaria publica a súa selección e os premiados do ano 2022, con cinco creacións de socias e socios de DAG."
-slug: desonhos-coma-e-xose-garcia-premiados-nos-anuaria-2022
+basename: desonhos-coma-e-xose-garcia-premiados-nos-anuaria-2022
 tags:
   - "noticias socios/socias"
 lang: gl

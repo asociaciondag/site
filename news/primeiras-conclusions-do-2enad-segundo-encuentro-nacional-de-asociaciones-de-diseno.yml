@@ -25,7 +25,7 @@ body:
     text: ""
     type: image
 intro: "O[ Segundo Encuentro Nacional de Asociaciones de Diseño (2ENAD)](http://www.designread.es/2encuentro)convocou a 20 organizacións en torno a seis mesas de traballo de especial interese para o sector."
-slug: primeiras-conclusions-do-2enad-segundo-encuentro-nacional-de-asociaciones-de-diseno
+basename: primeiras-conclusions-do-2enad-segundo-encuentro-nacional-de-asociaciones-de-diseno
 tags: []
 lang: gl
 draft: false

@@ -20,7 +20,7 @@ body:
     text: "La muestra en la web de DIDAC"
     type: button
 intro: "La muestra _Olivetti, la unidad en la diversidad_ comisariada por la diseñadora de tipografías María Ramos se inaugura mañana 22 de noviembre a las 20.00 h en DIDAC."
-slug: olivetti-la-unidad-en-la-diversidad
+basename: olivetti-la-unidad-en-la-diversidad
 tags:
   - "noticias socios/socias"
 lang: es

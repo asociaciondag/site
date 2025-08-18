@@ -18,7 +18,7 @@ body:
     text: "Perfil de socio DAG"
     type: button
 intro: "El nuevo diseñador de la DAG se llama Lois Guillán y, aunque ha desarrollado diferentes facetas del diseño, su debilidad es el diseño de producto. Queréis saber más, verdad?"
-slug: seguimos-sumando
+basename: seguimos-sumando
 tags: []
 lang: es
 draft: false

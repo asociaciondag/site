@@ -28,7 +28,7 @@ body:
     text: ""
     type: image
 intro: "Se clausura el taller de tipografía El ojo en la calle con la presentación de las intervenciones tipográficas realizadas por los participantes."
-slug: termina-con-gran-exito-el-taller-de-tipografia
+basename: termina-con-gran-exito-el-taller-de-tipografia
 tags:
   - "actividades dag"
 lang: es

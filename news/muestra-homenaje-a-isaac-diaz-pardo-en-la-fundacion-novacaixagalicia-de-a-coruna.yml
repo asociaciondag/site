@@ -23,7 +23,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa0b7e8f-diazpardo.jpg
 intro: null
-slug: muestra-homenaje-a-isaac-diaz-pardo-en-la-fundacion-novacaixagalicia-de-a-coruna
+basename: muestra-homenaje-a-isaac-diaz-pardo-en-la-fundacion-novacaixagalicia-de-a-coruna
 tags: []
 lang: es
 draft: false

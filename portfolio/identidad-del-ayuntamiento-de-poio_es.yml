@@ -1,6 +1,6 @@
 id: 278
 title: "Identidad del ayuntamiento de Poio"
-slug: identidad-del-ayuntamiento-de-poio
+basename: identidad-del-ayuntamiento-de-poio
 body:
   - image: /img/portfolio/images/simbolo-marca-poio.jpg
     text: ""

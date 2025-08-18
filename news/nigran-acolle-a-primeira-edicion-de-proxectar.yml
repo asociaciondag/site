@@ -18,7 +18,7 @@ body:
     text: "Máis info e entradas"
     type: button
 intro: "Nace un ciclo de conversas sobre deseño industrial e de produto"
-slug: nigran-acolle-a-primeira-edicion-de-proxectar
+basename: nigran-acolle-a-primeira-edicion-de-proxectar
 tags:
   - "Difusión eventos"
 lang: gl

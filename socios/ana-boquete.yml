@@ -5,7 +5,7 @@ links:
     url: "https://www.linkedin.com/in/ana-boquete-11896bb0/"
     type: linkedin
 name: "Ana Boquete"
-slug: ana-boquete
+basename: ana-boquete
 avatarBig: null
 avatar: /img/avatars/foto-ana.jpg
 tags:

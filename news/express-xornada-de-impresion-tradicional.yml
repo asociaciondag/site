@@ -23,7 +23,7 @@ body:
     text: EXPRESS
     type: button
 intro: "A DAG, Asociación Galega de Deseño, en colaboración con NORMAL, organiza unha xornada para achegarse á impresión con tipos móbiles na era dixital e coñecer como os pequenos obradoiros que usan as técnicas tradicionais entenden o proceso e afrontan a impresión desde novas perspectivas."
-slug: express-xornada-de-impresion-tradicional
+basename: express-xornada-de-impresion-tradicional
 tags:
   - "actividades dag"
 lang: gl

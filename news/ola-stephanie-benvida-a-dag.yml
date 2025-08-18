@@ -16,7 +16,7 @@ body:
       Apunteime á DAG para formar parte do tecido do deseño en Galicia e poder conectar con outras deseñadoras.
     type: text
 intro: "Presentamos a Stephanie Wurm, deseñadora austríaca asentada no rural galego e especalizada no deseño de marcas e embalaxe. Ten ganas de participar da DAG e formar parte do tecido do deseño da nosa comunidade. Benvida!"
-slug: ola-stephanie-benvida-a-dag
+basename: ola-stephanie-benvida-a-dag
 tags:
   - "noticias socios/socias"
 lang: gl

@@ -22,7 +22,7 @@ body:
     text: "Máis información"
     type: button
 intro: "Xa coñecemos os proxectos gañadores da XXVIII edición dos Premios Anuaria. Dous premios de ouro ao mellor deseño dunha publicación editorial e á mellor cuberta dun libro para [DARDO](http://dardo.gal/dardo/gl), e catro proxectos mái​s​ seleccionados entre as 189 obras, dous de DARDO e dous de [Piedrapapeltijera](https://www.piedrapapeltijera.com/)."
-slug: os-estudios-dardo-e-piedrapapeltijera-premiados-nos-anuaria-2021
+basename: os-estudios-dardo-e-piedrapapeltijera-premiados-nos-anuaria-2021
 tags: []
 lang: gl
 draft: false

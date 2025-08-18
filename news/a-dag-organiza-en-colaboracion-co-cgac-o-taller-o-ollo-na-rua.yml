@@ -12,7 +12,7 @@ body:
     text: Descargar
     type: file
 intro: "O obradoiro experimental de tipografía e comunicación impartido por Enrique Longinotti e Hernán Ordoñez desenvolverase entre o 24 e 28 de febreiro no CGAC."
-slug: a-dag-organiza-en-colaboracion-co-cgac-o-taller-o-ollo-na-rua
+basename: a-dag-organiza-en-colaboracion-co-cgac-o-taller-o-ollo-na-rua
 tags:
   - "actividades dag"
 lang: gl

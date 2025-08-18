@@ -33,7 +33,7 @@ body:
     text: "Inscripción 12 ENAD"
     type: button
 intro: "Del 18 al 20 de outubre tendrá lugar en Cuenca el 12 ENAD bajo el título _Diseño de los cuidados, cuidados del diseño_​​. El evento que está organizado por READ y Cuenca Diseño centra el tema en el diseño como herramienta para el cuidado del mundo, del entorno, de las ciudades, de las personas… para crear futuros deseables."
-slug: cuenca-acoge-por-segundo-ano-el-12-enad
+basename: cuenca-acoge-por-segundo-ano-el-12-enad
 tags: []
 lang: es
 draft: false

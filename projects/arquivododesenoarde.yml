@@ -1,6 +1,6 @@
 id: 21
 title: "ARDE Arquivo do deseño"
-slug: arquivododesenoarde
+basename: arquivododesenoarde
 year: 2023
 yaml: null
 cover: /img/projects/arde-para-web.jpeg

@@ -1,6 +1,6 @@
 id: 420
 title: "Cartel XVII Festival Manicómicos"
-slug: cartel-xvii-festival-manicomicos
+basename: cartel-xvii-festival-manicomicos
 body:
   - image: /img/portfolio/images/xvii-carteleria-festival-manicomicos.jpg
     text: ""

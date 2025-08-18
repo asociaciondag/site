@@ -1,6 +1,6 @@
 id: 382
 title: "Con voz de mujer"
-slug: con-voz-de-mujer
+basename: con-voz-de-mujer
 body:
   - text: ""
     type: text

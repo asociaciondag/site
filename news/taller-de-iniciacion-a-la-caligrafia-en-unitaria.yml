@@ -30,7 +30,7 @@ body:
     text: "Infórmate en Unitaria"
     type: button
 intro: "Los asistentes podrán iniciarse en la técnica de la caligrafía con pincel. Empezarán practicando desde cero los trazos básicos de la caligrafía itálica para acabar el taller componiendo sus propios textos con soltura."
-slug: taller-de-iniciacion-a-la-caligrafia-en-unitaria
+basename: taller-de-iniciacion-a-la-caligrafia-en-unitaria
 tags: []
 lang: es
 draft: false

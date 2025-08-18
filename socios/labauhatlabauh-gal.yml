@@ -5,7 +5,7 @@ links:
     url: "https://labauh.gal/"
     type: link
 name: "José Ramón Montilla Cortizo"
-slug: labauhatlabauh-gal
+basename: labauhatlabauh-gal
 avatarBig: /img/avatars/grey.jpg
 avatar: /img/avatars/grey.jpg
 tags:

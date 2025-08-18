@@ -1,6 +1,6 @@
 id: 394
 title: "Modelo Planetario"
-slug: modelo-planetario
+basename: modelo-planetario
 body:
   - image: /img/portfolio/images/planetario.jpg
     text: ""

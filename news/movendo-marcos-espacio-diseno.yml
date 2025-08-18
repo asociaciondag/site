@@ -18,7 +18,7 @@ body:
     text: "Acceder al videopodcast"
     type: button
 intro: "Nuestro socio Dani Bembibre, del estudio Costa, es el primer entrevistado en esta iniciativa que busca reconocer la importancia del diseño gallego y su valor social, económico y cultural."
-slug: movendo-marcos-espacio-diseno
+basename: movendo-marcos-espacio-diseno
 tags:
   - "noticias socios/socias"
 lang: es

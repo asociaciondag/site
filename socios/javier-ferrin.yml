@@ -14,7 +14,7 @@ links:
     url: "https://www.instagram.com/javiferrinstudio/"
     type: link
 name: "Javier Ferrín Rey"
-slug: javier-ferrin
+basename: javier-ferrin
 avatarBig: /img/avatars/javi-ferrin.jpg
 avatar: /img/avatars/javi-ferrin.jpg
 tags:

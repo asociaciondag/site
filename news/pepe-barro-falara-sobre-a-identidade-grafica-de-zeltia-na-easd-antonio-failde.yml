@@ -9,7 +9,7 @@ body:
   - text: "Non o perdades!"
     type: text
 intro: "Unha empresa cun nome, Zeltia, e un símbolo de identidade gráfica, o tríscele, que nos remiten ao pasado mítico de Galicia. A explicación, profusamente ilustrada por Pepe Barro, é case unha novela de intriga na que se mestura historia, cultura, política, ciencia e a vida dos dous irmáns protagonistas: o autor do nome e logotipo e o autor do símbolo."
-slug: pepe-barro-falara-sobre-a-identidade-grafica-de-zeltia-na-easd-antonio-failde
+basename: pepe-barro-falara-sobre-a-identidade-grafica-de-zeltia-na-easd-antonio-failde
 tags:
   - "noticias socios/socias"
 lang: gl

@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "Entre o 8 e o 11 de abril A Coruña acollerá unha nova edición do FETSAC, Festival de Arquitectura."
-slug: aprendendo-a-desescribir
+basename: aprendendo-a-desescribir
 tags:
   - "noticias socios/socias"
 lang: gl

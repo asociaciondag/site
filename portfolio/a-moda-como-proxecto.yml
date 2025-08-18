@@ -1,6 +1,6 @@
 id: 91
 title: "A moda como proxecto"
-slug: a-moda-como-proxecto
+basename: a-moda-como-proxecto
 body:
   - text: "Desenvolvemento da identidade gráfica para a exposición de proxecto de moda e prenda gráfica dos alumnos de ESDEMGA, na Casa Galega da Cultura de Vigo. A moda como proxecto é unha exposición organizada polo Concello de Vigo e a Universidade de Vigo que amosa as sinerxías entre a gráfica e a moda a través das propostas dos estudantes dos Estudos Superiores en Deseño Téxtil e Moda de Galicia e dos alumnos de moda da Central Saint Martins de Londres."
     type: text

@@ -8,7 +8,7 @@ links:
     url: "https://x.com/basiclines"
     type: link
 name: "Ismael Canal"
-slug: ismael-canal
+basename: ismael-canal
 avatarBig: /img/avatars/ismael-canal.jpg
 avatar: /img/avatars/ismael-canal.jpg
 tags:

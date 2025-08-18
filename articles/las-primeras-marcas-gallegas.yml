@@ -180,7 +180,7 @@ body:
   - text: '\* Este artículo ha sido elaborado a partir de una conferencia celebrada por el autor el 18 de diciembre de 2018 en DIDAC, Santiago de Compostela.'
     type: text
 position: null
-slug: las-primeras-marcas-gallegas
+basename: las-primeras-marcas-gallegas
 cover: /img/articles/covers/fig-13-s-s.jpg
 lang: es
 draft: false

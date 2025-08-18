@@ -40,7 +40,7 @@ body:
     text: "Más información"
     type: button
 intro: "Las jornadas empezarán el martes, día 15, a las 10:00 horas y finalizarán el miércoles a las 18:00 horas con la celebración de la última ponencia. Todas las charlas serán en abierto y se retransmitirán a través del canal de Youtube de la EASD."
-slug: 4-jornadas-arte-y-diseno
+basename: 4-jornadas-arte-y-diseno
 tags: []
 lang: es
 draft: false

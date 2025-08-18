@@ -18,7 +18,7 @@ body:
       Si algo tengo claro después de todos estos años es que el diseño es una forma de pensar. Y yo sigo pensando (y diseñando) todos los días.
     type: text
 intro: "Hoy presentamos a Xose Teiga, creativo y diseñador gráfico con amplia experiencia en el sector y una trayectoria señalada. Aquí os dejamos con unas palabras suyas para que lo conozcáis mejor. Muy contentas de contar contigo dentro de la asociación. ¡Bienvenido Xose!"
-slug: xose-teiga-bienvenido-a-la-dag
+basename: xose-teiga-bienvenido-a-la-dag
 tags:
   - "noticias socios/socias"
 lang: es

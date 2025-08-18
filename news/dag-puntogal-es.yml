@@ -14,7 +14,7 @@ body:
       Según el acuerdo firmado, las socias y los socios de la DAG podrán beneficiarse de un precio reducido en la compra de dominios .gal, a través de una de las dos entidades colaboradoras ([Dinahosting](https://gl.dinahosting.com) y [Entorno Digital](https://www.entorno.es)). Se busca, así, ofrecer el dominio gallego a un precio más accesible y fomentar su uso desde el sector del diseño.
     type: text
 intro: "La Asociación Gallega de Diseño ha firmado un convenio con la asociación gestora del dominio .gal para promover su uso entre los y las profesionales del diseño."
-slug: dag-puntogal-es
+basename: dag-puntogal-es
 tags: []
 lang: es
 draft: false

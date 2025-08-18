@@ -24,7 +24,7 @@ body:
     text: "Más info"
     type: button
 intro: "Del 22 al 24 de enero la EASD Pablo Picasso de A Coruña organiza las VIII Jornadas Bisiona. Tres días par​a​ conocer la experiencia profesional de antiguos y antiguas estudiantes de la escuela como Lidia Cao, Luis Mosquera o Marta Lojo. La asistencia es abierta al público pero el alumnado tiene acceso prioritario.​"
-slug: bisiona-viii-jornadas-de-arte-y-diseno-de-la-easd-pablo-picasso
+basename: bisiona-viii-jornadas-de-arte-y-diseno-de-la-easd-pablo-picasso
 tags:
   - "Difusión eventos"
 lang: es

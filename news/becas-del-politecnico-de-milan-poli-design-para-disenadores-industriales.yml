@@ -21,7 +21,7 @@ body:
     text: ""
     type: image
 intro: "El Consorcio del Politécnico de Milán, POLI.design convoca 20 becas destinadas a diseñadores industriales para la realización de másteres en Italia."
-slug: becas-del-politecnico-de-milan-poli-design-para-disenadores-industriales
+basename: becas-del-politecnico-de-milan-poli-design-para-disenadores-industriales
 tags: []
 lang: es
 draft: false

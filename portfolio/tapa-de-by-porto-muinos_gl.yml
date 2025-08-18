@@ -1,6 +1,6 @@
 id: 69
 title: "Tapa de by Porto Muíños"
-slug: tapa-de-by-porto-muinos
+basename: tapa-de-by-porto-muinos
 body:
   - text: "Deseño do _packaging_  de tapas de algas e cogomelos en que as ilustracións vectoriais de trazo solto con forte protagonismo cromático conviven con tipografías contundentes da familia Helvética Neue."
     type: text

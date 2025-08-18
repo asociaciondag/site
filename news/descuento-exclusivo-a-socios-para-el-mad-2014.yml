@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "La asociación DAG, a través de READ y MAD Spain, ha llegado a un acuerdo para poder ofrecer un descuento exclusivo a los socios de DAG en la compra de entradas para la edición 2014 de uno de los eventos de diseño más relevantes e interesantes del país."
-slug: descuento-exclusivo-a-socios-para-el-mad-2014
+basename: descuento-exclusivo-a-socios-para-el-mad-2014
 tags: []
 lang: es
 draft: false

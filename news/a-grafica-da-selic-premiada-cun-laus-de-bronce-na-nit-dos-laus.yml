@@ -28,7 +28,7 @@ body:
     text: "SELIC na web dos Laus"
     type: button
 intro: "Efectivamente, o pasado venres entregáronse en Barcelona os Premios Laus e, como xa vén sendo habitual desde hai uns anos, entre os galardoados desta edición volve haber un traballo dos nosos compañeiros desescribir."
-slug: a-grafica-da-selic-premiada-cun-laus-de-bronce-na-nit-dos-laus
+basename: a-grafica-da-selic-premiada-cun-laus-de-bronce-na-nit-dos-laus
 tags:
   - "noticias socios/socias"
 lang: gl

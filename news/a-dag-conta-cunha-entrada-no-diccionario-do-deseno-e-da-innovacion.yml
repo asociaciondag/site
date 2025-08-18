@@ -12,7 +12,7 @@ body:
       A DAG forma parte da publicación como entidade representante dos e das profesionais do deseño en Galicia, e como colaboradora habitual do programa impulsado pola Xunta. Asemade, algunhas das asociadas á DAG tamén están presentes nesta primeira edición, como Álvaro Valiño, Cenlitrosmetrocadrado, Costa, Desescribir, Desoños, Idoia Cuesta, Pepe Barro e o Grupo Revisión, María Ramos, Marcos Dopico, Numax, Nuria Carballo, Roberto Núñez ou Uqui Permui. Moitas máis sumaranse nos próximos meses en posteriores edicións,​ pois é un proxecto que medrará​ co paso do tempo coa inclusión de máis fichas de referencia para consulta e interese do sector e da sociedade en xeral. ​ ​
     type: text
 intro: "_ABC Deseño_, o _Diccionario do deseño e da innovación_, editado pola Xunta de Galicia e Fundación DIDAC contén 100 fichas de profesionais, estudios e proxectos de deseño ordeados alfabeticamente para a súa fácil consult​a​. A DAG é unha delas."
-slug: a-dag-conta-cunha-entrada-no-diccionario-do-deseno-e-da-innovacion
+basename: a-dag-conta-cunha-entrada-no-diccionario-do-deseno-e-da-innovacion
 tags: []
 lang: gl
 draft: false

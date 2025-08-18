@@ -1,6 +1,6 @@
 id: 377
 title: Voadora
-slug: voadora-es
+basename: voadora-es
 body:
   - text: "Diseño de la imagen gráfica de la compañía Voadora."
     type: text

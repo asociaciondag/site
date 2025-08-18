@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "A DAG participa este martes 16 de novembro en Co-Creation, un encontro organizado por [Agadic](http://www.agadic.info/) (Axencia Galega das Industrias Culturais) e por [Addict](http://www.addict.pt/) (Agência para o Desenvolvimento das Indústrias Criativas de Portugal)."
-slug: a-dag-estara-en-co-creation
+basename: a-dag-estara-en-co-creation
 tags: []
 lang: gl
 draft: false

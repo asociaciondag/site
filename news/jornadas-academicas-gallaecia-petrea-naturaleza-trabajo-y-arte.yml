@@ -12,7 +12,7 @@ body:
     text: Descargar
     file: /files/553e7aa250113-gallaecia-jornadas-a3-digital.pdf
 intro: null
-slug: jornadas-academicas-gallaecia-petrea-naturaleza-trabajo-y-arte
+basename: jornadas-academicas-gallaecia-petrea-naturaleza-trabajo-y-arte
 tags: []
 lang: es
 draft: false

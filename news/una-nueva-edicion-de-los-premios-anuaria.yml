@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "La semana pasada se convocaba una nueva edición de los Premios Anuaria en los que la DAG, Asociación Gallega de Diseñadores, colabora formando parte del jurado y en la difusión"
-slug: una-nueva-edicion-de-los-premios-anuaria
+basename: una-nueva-edicion-de-los-premios-anuaria
 tags: []
 lang: es
 draft: false

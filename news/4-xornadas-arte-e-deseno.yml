@@ -40,7 +40,7 @@ body:
     text: "Máis información"
     type: button
 intro: "As xornadas comezarán o martes, día 15, ás 10:00 horas e rematarán o mércores ás 18:00 horas coa celebración do último relatorio. Todas as charlas este ano serán en _streaming_, retransmitiránse a través da canle de Youtube da escola."
-slug: 4-xornadas-arte-e-deseno
+basename: 4-xornadas-arte-e-deseno
 tags: []
 lang: gl
 draft: false

@@ -1,6 +1,6 @@
 id: 438
 title: "Expositor Pementa"
-slug: expositor-pementa-es
+basename: expositor-pementa-es
 body:
   - text: |-
       Expositor para la firma de gafas Pementa Eyewear

@@ -29,7 +29,7 @@ body:
     mode: normal
     type: image
 intro: "[Xabier Rilo](https://dag.gal/gl/xabier-rilo/) e [Ricardo Tubío](https://dag.gal/gl/ricardo-tubio-pazos/) serán os dous creadores convidados dentro do ciclo 12 miradas - riverside que organiza a galería Vilaseco da Coruña"
-slug: as-12-miradas-dos-cenlitrosmetrocadrado
+basename: as-12-miradas-dos-cenlitrosmetrocadrado
 tags:
   - "noticias socios/socias"
 lang: gl

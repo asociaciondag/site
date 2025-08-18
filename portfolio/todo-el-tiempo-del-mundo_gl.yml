@@ -1,6 +1,6 @@
 id: 302
 title: "Todo el tiempo del mundo"
-slug: todo-el-tiempo-del-mundo
+basename: todo-el-tiempo-del-mundo
 body:
   - text: |-
       _Todo el tiempo del mundo_ foi un encargo de Los Libros de Rocamadour, unha asociación cultural centrada na lectura e na edición de obras singulares. Neste empeño, buscan extraer de cada proxecto, os principios esenciais que potencien o conxunto, buscando obter un resultado, non só atractivo, senón tamén significativo.

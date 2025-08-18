@@ -16,7 +16,7 @@ body:
     text: "Seleccionados BID_20"
     type: button
 intro: "O deseño para a sinalización das [Cabanas de Albeida](http://cenlitrosmetrocadrado.com/cabanas-de-albeida/), creado polos nosos socios Xabier Rilo e Ricardo Tubío, foi seleccionado na categoría de deseño gráfico e comunicación visual da sétima edición da BID. Nesta mesma categoría atopamos tamén o deseño para a marca [Xacobeo 2021](https://uqui.net/gl/proxectos/xacobeo-2021), un proxecto creado pola nosa socia Uqui Permui para a identidade do próximo ano xacobeo."
-slug: cenlitros-uqui-bid20
+basename: cenlitros-uqui-bid20
 tags:
   - "noticias socios/socias"
 lang: gl

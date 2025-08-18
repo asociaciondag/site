@@ -17,7 +17,7 @@ body:
       Ademas Transferencias se enmarca en la Semana del Diseño de Málaga, y entre sus actividades se encuentra la exposición Gráfica publicitaria. Relaciones comerciales España-USA. Carteles de 1890 a 1961; la participación de Owen Foster y Xènia Viladàs, jefe del departamento de diseño industrial y profesora de diseño de servicios del Savannah College of Art and Design de Georgia (EEUU); de Jaime Moreno, Premio Nacional de Diseño 2015; Michael Thompson, director de experiencia de usuario de Telefónica I+D; Santiago Alfonso Rodríguez, director de marketing y comunicación de Cosentino; María José Jordá García, head of customer experience transformation at BBVA y Javier Fernández, coordinador de Transferencias Málaga 2016.
     type: text
 intro: "La DAG participa en la primera edición de Transferencias Málaga 2016, un programa creado por la Red Española de Asociaciones de Diseño (READ) y la Confederación de Escuelas de Arte (CEA), en colaboración con Telefónica I+D y La Térmica-Diputación de Málaga."
-slug: la-dag-en-transferencias
+basename: la-dag-en-transferencias
 tags: []
 lang: es
 draft: false

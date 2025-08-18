@@ -27,7 +27,7 @@ body:
 
     type: text
 intro: "El pasado 8 de julio la asamblea general de la DAG renovó su Junta Directiva que queda configurada de la siguiente manera:"
-slug: la-dag-renueva-su-junta-directiva
+basename: la-dag-renueva-su-junta-directiva
 tags:
   - "noticias socios/socias"
 lang: es

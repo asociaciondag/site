@@ -22,7 +22,7 @@ body:
     text: "FEED 2017"
     type: button
 intro: "Como cada dos años desde aquella primera edición de 2010, tenemos aquí el FEED 2017, el Foro de Edición y Diseño que organiza la Asociación Gallega de Diseño DAG, con el patrocinio de Agadic."
-slug: una-nueva-edicion-del-feed
+basename: una-nueva-edicion-del-feed
 tags:
   - "actividades dag"
 lang: es

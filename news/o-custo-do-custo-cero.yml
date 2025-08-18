@@ -17,7 +17,7 @@ body:
       A DAG quere facer público unha vez máis o seu compromiso de colaboración con calquera institución e organismo, tanto público coma privado, para axudarlles a entender que o bo deseño nunca pode ser unha actividade de custo cero, pero que o mal deseño sae moito máis caro.
     type: text
 intro: 'O pasado 21 de outubro a Deputación de Pontevedra presentaba aos medios a súa nova imaxe corporativa. Tal e como se recolle na [nota de prensa](http://www.depo.es/web/edepo/-/noticia-a-deputacion-de-pontevedra-presenta-a-sua-nova-imaxe-acorde-co-actual-goberno-provincial) da entidade, esta nova imaxe -presentada pouco antes de se cumprir os primeiros 100 días de goberno- supuxo un custo cero para a institución, posto que foi desenvolvida "polos propios traballadores da Deputación".'
-slug: o-custo-do-custo-cero
+basename: o-custo-do-custo-cero
 tags:
   - concursos
 lang: gl

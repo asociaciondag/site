@@ -30,7 +30,7 @@ body:
     text: "Libro FSWD ¿Refleja la imagen de España lo que diseñamos?"
     type: button
 intro: "O 8º Encontro Nacional de Asociacións de Deseño, organizado por DIP Murcia e READ, acolleu a presentación oficial dun proxecto que busca a proxección internacional do noso deseño: _From Spain With Design_."
-slug: bota-a-andar-fswd
+basename: bota-a-andar-fswd
 tags: []
 lang: gl
 draft: false

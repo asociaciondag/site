@@ -28,7 +28,7 @@ body:
     text: "Programa completo"
     type: file
 intro: "Os vindeiros 27, 28 e 29 de setembro terá lugar na cidade de Murcia o VII Encontro Nacional de Deseño organizado pola READ, asociación de ámbito nacional á que pertence a DAG."
-slug: vii-enad-somos-cultura-facemos-economia
+basename: vii-enad-somos-cultura-facemos-economia
 tags:
   - "actividades dag"
 lang: gl

@@ -1,6 +1,6 @@
 id: 250
 title: "Triple Alpha"
-slug: triple-alpha
+basename: triple-alpha
 body:
   - image: /img/portfolio/images/triple-alpha-2018-branding.jpg
     text: ""

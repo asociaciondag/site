@@ -58,7 +58,7 @@ body:
     text: "III Premios Paraguas"
     type: button
 intro: "O Clúster da Comunicación Gráfica convocou recentemente a terceira edición dos Premios da Comunicación e do Marketing de Galicia."
-slug: iii-premios-da-comunicacion-e-do-marketing-de-galicia
+basename: iii-premios-da-comunicacion-e-do-marketing-de-galicia
 tags: []
 lang: gl
 draft: false

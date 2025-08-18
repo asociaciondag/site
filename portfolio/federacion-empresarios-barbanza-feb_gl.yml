@@ -1,6 +1,6 @@
 id: 234
 title: "Federación Empresarios Barbanza. FEB"
-slug: federacion-empresarios-barbanza-feb
+basename: federacion-empresarios-barbanza-feb
 body:
   - image: /img/portfolio/images/feb-branding-2012.jpg
     text: ""

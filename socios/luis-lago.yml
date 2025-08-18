@@ -20,7 +20,7 @@ links:
     url: "https://www.facebook.com/monroyproyectos.iluminaciondisenorestauracion"
     type: facebook
 name: "Luis Lago"
-slug: luis-lago
+basename: luis-lago
 avatarBig: null
 avatar: /img/avatars/luis-lago.jpg
 tags:

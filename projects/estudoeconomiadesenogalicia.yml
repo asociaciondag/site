@@ -1,6 +1,6 @@
 id: 18
 title: "Estudo da Economía do Deseño en Galicia"
-slug: estudoeconomiadesenogalicia
+basename: estudoeconomiadesenogalicia
 year: 2021
 yaml: null
 cover: /img/projects/baner-estudo-02.png

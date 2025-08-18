@@ -14,7 +14,7 @@ links:
     url: "https://www.instagram.com/villaga.estudio/?hl=es"
     type: link
 name: "Tania Villamarín"
-slug: tania-villamarin
+basename: tania-villamarin
 avatarBig: null
 avatar: /img/avatars/villaga-logo.jpg
 tags:

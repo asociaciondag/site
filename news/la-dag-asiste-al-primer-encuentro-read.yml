@@ -9,7 +9,7 @@ body:
     text: Descargar
     file: /files/553e7aa3c420e-conclusions-encontro-read.pdf
 intro: null
-slug: la-dag-asiste-al-primer-encuentro-read
+basename: la-dag-asiste-al-primer-encuentro-read
 tags: []
 lang: es
 draft: false

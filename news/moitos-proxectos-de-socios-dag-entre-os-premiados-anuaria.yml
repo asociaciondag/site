@@ -74,7 +74,7 @@ body:
   - text: "Á alegría polos socios premiados da DAG aínda hai que sumar a dos numerosos profesionais, estudios ou axencias galegos cuxos traballos tamén foron merecentes dun galardón, nunha edición caracterizada por unha notable presenza galega. Moito parabéns, por tanto, a Amanita Estudio, Bombo Estudio, Coreti, Enpedra Wine Design Studio, quattro idcp, Roberto Núñez e Xosé Teiga Estudio."
     type: text
 intro: "Na edición 2018, os proxectos seleccionados pertencen aos estudios Guillotina da Coruña, Dardo de Santiago de Compostela e Desoños de Vigo."
-slug: moitos-proxectos-de-socios-dag-entre-os-premiados-anuaria
+basename: moitos-proxectos-de-socios-dag-entre-os-premiados-anuaria
 tags:
   - "noticias socios/socias"
 lang: gl

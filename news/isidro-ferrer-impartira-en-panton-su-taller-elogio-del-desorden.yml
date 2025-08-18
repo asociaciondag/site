@@ -22,7 +22,7 @@ body:
       El coste del taller, 290 euros, incluye taller + alojamiento + extras. A los miembros de la DAG se les hará un 10% de descuento sobre el precio. Para beneficiaros de esta oferta, lo único que tenéis que hacer es inscribiros a través de [laplantacion.info](http://laplantacion.info/) / <info@laplantacion.info> / t. 692 958 429**,** especificando que sois socios de la DAG.
     type: text
 intro: "Se trata de un taller de campo, una de las modalidades de formación ofertadas por La Plantación que se basa en el encuentro y convivencia con los autores."
-slug: isidro-ferrer-impartira-en-panton-su-taller-elogio-del-desorden
+basename: isidro-ferrer-impartira-en-panton-su-taller-elogio-del-desorden
 tags: []
 lang: es
 draft: false

@@ -20,7 +20,7 @@ body:
     text: "Más información"
     type: button
 intro: "La convocatoria está dirigida a profesionales y empresas de diseño, que podrán presentar su candidatura hasta el día 2 de julio. La Asociación Gallega de Diseño, con el objetivo claro de intentar establecer un procedimiento que valore y considere de manera justa las candidaturas y su trabajo, ha colaborado con el ayuntamiento y ha asesorado al equipo encargado de definir las bases reguladoras de esta convocatoria."
-slug: ayuntamiento-pontevedra-llamada-a-proyecto-imagen-corporativa
+basename: ayuntamiento-pontevedra-llamada-a-proyecto-imagen-corporativa
 tags:
   - concursos
 lang: es

@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "La semana pasada se abría el plazo de inscripción en la 44ª edición de los Premios Laus de Diseño Gráfico y Comunicación Visual de Barcelona que organiza la Asociación de Diseñadores Gráficos y Directores de Arte del FAD (ADG-FAD)."
-slug: abierto-el-plazo-de-inscripcion-en-la-44a-edicion-de-los-premios-laus
+basename: abierto-el-plazo-de-inscripcion-en-la-44a-edicion-de-los-premios-laus
 tags: []
 lang: es
 draft: false

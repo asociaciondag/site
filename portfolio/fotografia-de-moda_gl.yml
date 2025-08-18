@@ -1,6 +1,6 @@
 id: 222
 title: "Fotografía de moda"
-slug: fotografia-de-moda
+basename: fotografia-de-moda
 body:
   - text: "Fotografía de moda inspirada en retratistas da década dos anos 50. Un percorrido que abrangue desde a moda até o detalle do retrato."
     type: text

@@ -16,7 +16,7 @@ body:
     mode: normal
     type: image
 intro: "Queredes coñecela, verdade? Pois aquí está a súa presentación"
-slug: temos-unha-nova-companeira-na-dag
+basename: temos-unha-nova-companeira-na-dag
 tags:
   - "noticias socios/socias"
 lang: gl

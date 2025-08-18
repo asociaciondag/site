@@ -1,6 +1,6 @@
 id: 365
 title: "34 Cineropa"
-slug: 34-cineuropa-es
+basename: 34-cineuropa-es
 body:
   - text: "Imagen gráfica del 34 Festival Cineuropa."
     type: text

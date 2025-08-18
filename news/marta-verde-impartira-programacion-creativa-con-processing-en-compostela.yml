@@ -16,7 +16,7 @@ body:
     text: "Información e inscripciones"
     type: button
 intro: "[Marta Verde](http://www.martaverde.net/), nuestra ponente del pasado [FEED](https://dag.gal/gl/feed2015/) volverá a Galicia a principios de febrero para impartir un taller de programación creativa con processing."
-slug: marta-verde-impartira-programacion-creativa-con-processing-en-compostela
+basename: marta-verde-impartira-programacion-creativa-con-processing-en-compostela
 tags: []
 lang: es
 draft: false

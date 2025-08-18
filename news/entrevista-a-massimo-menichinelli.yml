@@ -36,7 +36,7 @@ body:
     text: "Ir a la página del FEED 2015"
     type: button
 intro: "Massimo Menichinelli será el encargado de inaugurar el FEED 2015 con el taller Diseñar un Fab Lab o otro laboratorio para una comunidade, empezando por los usuarios y acabando con el modelo de negocio."
-slug: entrevista-a-massimo-menichinelli
+basename: entrevista-a-massimo-menichinelli
 tags:
   - "actividades dag"
 lang: es

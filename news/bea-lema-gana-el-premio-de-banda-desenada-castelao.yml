@@ -32,7 +32,7 @@ body:
     mode: normal
     type: image
 intro: "Se convierte así en la primera mujer en recibir este galardón que concede la Diputación de A Coruña."
-slug: bea-lema-gana-el-premio-de-banda-desenada-castelao
+basename: bea-lema-gana-el-premio-de-banda-desenada-castelao
 tags: []
 lang: es
 draft: false

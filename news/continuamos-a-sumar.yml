@@ -18,7 +18,7 @@ body:
     text: "Perfil de socio DAG"
     type: button
 intro: "O novo socio da DAG chámase Lois Guillán e, aínda que ten experimentado diferentes facetas do deseño, a súa debilidade é o deseño de produto. Queredes saber máis, verdade?"
-slug: continuamos-a-sumar
+basename: continuamos-a-sumar
 tags: []
 lang: gl
 draft: false

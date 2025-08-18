@@ -24,7 +24,7 @@ body:
     text: "Inscripción aquí"
     type: button
 intro: "Desde el grupo de trabajo [From Spain with Design](https://fswd.es/) de READ, presentan este programa formativo _online_ para la internacionalización de profesionales y estudios de diseño de todo el territorio nacional, y es gratuito para los socios y socias de las asociaciones miembro como DAG"
-slug: abierto-el-plazo-de-inscripcion-para-el-programa-formativo-exportar-servicios-de-diseno
+basename: abierto-el-plazo-de-inscripcion-para-el-programa-formativo-exportar-servicios-de-diseno
 tags: []
 lang: es
 draft: false

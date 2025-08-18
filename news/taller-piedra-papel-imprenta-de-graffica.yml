@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "[Gráffica](http://graffica.info/) organiza el próximo 16 de junio en Santiago de Compostela el taller para diseñadores gráficos: Piedra, papel, imprenta."
-slug: taller-piedra-papel-imprenta-de-graffica
+basename: taller-piedra-papel-imprenta-de-graffica
 tags: []
 lang: es
 draft: false

@@ -14,7 +14,7 @@ body:
       Parabéns a todos!
     type: text
 intro: "E entre os premiados e finalistas temos moitas socias e socios da DAG :)"
-slug: esta-fin-de-semana-entregaronse-os-premios-da-comunicacion-e-marketing-de-galicia
+basename: esta-fin-de-semana-entregaronse-os-premios-da-comunicacion-e-marketing-de-galicia
 tags: []
 lang: gl
 draft: false

@@ -26,7 +26,7 @@ body:
     text: "Perfil en la web de la DAG"
     type: button
 intro: "Con su llegada, la asociación ensancha aún más el amplio abanico de perfiles profesionales existentes, pero en su caso hay una circunstancia que la hace aún más especial: su idea de asociarse es una cosa buena más de las muchas que nos ha dejado la última edición del FEED 19, en la que hemos tenido la suerte de contar con la presencia de conferenciantes tan estupendos como él. ¡Qué alegría que te hagas de la DAG, bienvenido!"
-slug: anxo-lopez-se-incorpora-a-la-dag
+basename: anxo-lopez-se-incorpora-a-la-dag
 tags:
   - "noticias socios/socias"
 lang: es

@@ -9,7 +9,7 @@ links:
     url: "https://www.instagram.com/leon_lopez_de_la_osa/"
     type: link
 name: "León López de la Osa González"
-slug: leonlopez
+basename: leonlopez
 avatarBig: null
 avatar: /img/avatars/avatar.jpeg
 tags:

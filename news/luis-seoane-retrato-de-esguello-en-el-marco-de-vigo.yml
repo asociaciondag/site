@@ -13,7 +13,7 @@ body:
     text: "Descarga el Dossier Luis Seoane de esguello"
     type: file
 intro: "Ya se puede visitar en el [Marco](http://www.marcovigo.com/es) de Vigo [Luis Seoane. Retrato de esguello](http://www.marcovigo.com/es/content/luis-seoane-retrato-de-esguello), una exposición que comprende los más de cincuenta años de trayectoria artística del intelectual gallego a través de unas 300 obras entre pinturas, dibujos, grabados, acuarelas, tapices, carteles publicitarios, bosquejos murales, diseños cerámicos y publicaciones."
-slug: luis-seoane-retrato-de-esguello-en-el-marco-de-vigo
+basename: luis-seoane-retrato-de-esguello-en-el-marco-de-vigo
 tags: []
 lang: es
 draft: false

@@ -21,7 +21,7 @@ body:
     text: ""
     type: image
 intro: "O Consorcio do Politécnico de Milán, POLI.design, convoca 20 bolsas destinadas a deseñadores industriais para a realización de másteres en Italia."
-slug: bolsas-do-politecnico-de-milan-poli-design-para-desenadores-industriais
+basename: bolsas-do-politecnico-de-milan-poli-design-para-desenadores-industriais
 tags: []
 lang: gl
 draft: false

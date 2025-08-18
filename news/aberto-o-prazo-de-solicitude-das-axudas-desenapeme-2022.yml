@@ -46,7 +46,7 @@ body:
     text: "Toda a información"
     type: button
 intro: "As axudas están destinadas á incorporación do deseño en pemes e microempresas galegas como ferramenta de innovación e sostibilidade."
-slug: aberto-o-prazo-de-solicitude-das-axudas-desenapeme-2022
+basename: aberto-o-prazo-de-solicitude-das-axudas-desenapeme-2022
 tags: []
 lang: gl
 draft: false

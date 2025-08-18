@@ -1,6 +1,6 @@
 id: 316
 title: Xera
-slug: xera
+basename: xera
 body:
   - image: /img/portfolio/images/xera.gif
     text: ""

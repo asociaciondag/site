@@ -19,7 +19,7 @@ body:
     text: ""
     type: image
 intro: "**Entrecruzar 1** Formou parte do Proxecto-Edición. Cada edición variou de formato e contido, aínda que o eixe central foi o territorio e os espazos públicos."
-slug: entrecruzar-1-2-e-3
+basename: entrecruzar-1-2-e-3
 tags: []
 lang: gl
 draft: false

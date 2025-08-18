@@ -34,7 +34,7 @@ body:
       Agradecemos a [DICA](https://di-ca.es/) su agradable acogida, fue un placer acercarnos a la cultura y el diseño canario; y a los compañeros y compañeras de [READ](https://designread.es/), la celebración de esta Asamblea para seguir trabajando por el bien común desde nuestras singularidades.
     type: text
 intro: "En esta ocasión fue DICA (Asociación de Profesionales y Empresas de Diseño de Canarias) la anfitriona que recibió a la​s personas que representan a cada una de las asociaciones de READ para su Asamblea anual en la que se procedió al nombramiento de la asociación que ejercerá la presidencia para los próximos dos años y su equipo. ​"
-slug: asamblea-read-2025
+basename: asamblea-read-2025
 tags:
   - "actividades dag"
 lang: es

@@ -29,7 +29,7 @@ links:
     url: "https://www.behance.net/988Design"
     type: link
 name: "Daniel Vila Prieto"
-slug: daniel-vila-prieto
+basename: daniel-vila-prieto
 avatarBig: null
 avatar: /img/avatars/thumbnailblack-hinted.jpg
 tags:

@@ -11,7 +11,7 @@ links:
     url: "https://twitter.com/SanchezAnxo"
     type: link
 name: "Anxo Sánchez García"
-slug: anxo-sanchez-garcia
+basename: anxo-sanchez-garcia
 avatarBig: null
 avatar: /img/avatars/anxo-sanchez-02.jpg
 tags:

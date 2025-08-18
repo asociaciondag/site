@@ -17,7 +17,7 @@ body:
   - type: image
     image: /img/news/images/553e7a9ba3a84-ama-de-casa-calentona-secuestrada.jpg
 intro: null
-slug: manual-de-supervivencia-para-los-dias-del-gran-desastre
+basename: manual-de-supervivencia-para-los-dias-del-gran-desastre
 tags: []
 lang: gl
 draft: false

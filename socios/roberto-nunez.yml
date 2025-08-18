@@ -15,7 +15,7 @@ links:
     url: "https://www.instagram.com/robertonunezstudio/"
     type: link
 name: "Roberto Núñez"
-slug: roberto-nunez
+basename: roberto-nunez
 avatarBig: null
 avatar: /img/avatars/roberto-nun-ez-perfil-dag.jpg
 tags:

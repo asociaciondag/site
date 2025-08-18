@@ -10,7 +10,7 @@ links:
     url: "https://twitter.com/fisplin"
     type: twitter
 name: "Óscar Canal"
-slug: oscar-canal
+basename: oscar-canal
 avatarBig: null
 avatar: /img/avatars/554cf623c09aa-oscar-canal.jpeg
 tags:

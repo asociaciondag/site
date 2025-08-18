@@ -1,6 +1,6 @@
 id: 24
 title: 'Rexistro Sonoro AR\DE'
-slug: rexistrosonoroarde
+basename: rexistrosonoroarde
 year: 2024
 yaml: null
 cover: /img/projects/rexistrsonoroarde.png

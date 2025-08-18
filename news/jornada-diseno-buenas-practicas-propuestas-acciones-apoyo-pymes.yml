@@ -17,7 +17,7 @@ body:
     text: "Formulario de inscripción"
     type: button
 intro: "La Consellería de Economía, Emprego e Industria, a través de la Axencia Galega de Innovación (GAIN), celebra el próximo 15 de mayo, en el CIS Tecnoloxía e Deseño de Ferrol, la jornada: **“El diseño – buenas prácticas, propuestas de acciones y apoyo a PYMEs”** en el marco del Programa Deseño para a Innovación que está activo hasta finales de 2020."
-slug: jornada-diseno-buenas-practicas-propuestas-acciones-apoyo-pymes
+basename: jornada-diseno-buenas-practicas-propuestas-acciones-apoyo-pymes
 tags:
   - concursos
 lang: es

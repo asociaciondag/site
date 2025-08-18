@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "Hai cinco anos, Gary Hustwit comenzou a traballar nun documental que analizaba o mundo do deseño gráfico e o impacto da cultura visual na sociedade a través da historia dunha tipografía lexendaria, a Helvetica. [**Helveticafilm**](http://www.helveticafilm.com) foi presentado no 2007, ó cal seguiulle"
-slug: documental-ubanized-a-documentary-film-by-gary-hustwit
+basename: documental-ubanized-a-documentary-film-by-gary-hustwit
 tags: []
 lang: gl
 draft: false

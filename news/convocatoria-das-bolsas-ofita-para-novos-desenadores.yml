@@ -15,7 +15,7 @@ body:
     text: Descargar
     type: file
 intro: "6 deseñadores serán seleccionados e recibirán unha bolsa de 1200€"
-slug: convocatoria-das-bolsas-ofita-para-novos-desenadores
+basename: convocatoria-das-bolsas-ofita-para-novos-desenadores
 tags: []
 lang: gl
 draft: false

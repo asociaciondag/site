@@ -1,6 +1,6 @@
 id: 253
 title: "España y Fernández"
-slug: espana-y-fernandez
+basename: espana-y-fernandez
 body:
   - image: /img/portfolio/images/espana-y-fernandez-2019-rebranding.jpg
     text: ""

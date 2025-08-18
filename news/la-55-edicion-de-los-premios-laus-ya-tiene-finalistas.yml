@@ -20,7 +20,7 @@ body:
     text: "Más info"
     type: button
 intro: "La gala tendrá lugar en los Cines Aribau de Barcelona el próximo 19 de junio y entre todos los proyectos seleccionados encontramos el trabajo de los compañeros Alberto Carballido e Iago Barreiro, del estudio Novagarda."
-slug: la-55-edicion-de-los-premios-laus-ya-tiene-finalistas
+basename: la-55-edicion-de-los-premios-laus-ya-tiene-finalistas
 tags:
   - "noticias socios/socias"
 lang: es

@@ -18,7 +18,7 @@ body:
       ANUARIA: <https://www.veredictas.com/es/>
     type: text
 intro: "30 de septiembre de 2019 es la fecha límite en la que se cierra el plazo de inscripción de trabajos para los Premios Nacionales de Diseño Gráfico ANUARIA y para los Premios Internacionales de Diseño CLAP."
-slug: deadline-para-participar-en-los-anuaria-y-en-los-clap
+basename: deadline-para-participar-en-los-anuaria-y-en-los-clap
 tags: []
 lang: es
 draft: false

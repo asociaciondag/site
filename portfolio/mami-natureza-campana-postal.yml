@@ -1,6 +1,6 @@
 id: 398
 title: "Mami natureza, campaña postal"
-slug: mami-natureza-campana-postal
+basename: mami-natureza-campana-postal
 body:
   - image: /img/portfolio/images/mahoma2.jpg
     text: ""

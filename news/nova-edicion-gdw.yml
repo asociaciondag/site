@@ -28,7 +28,7 @@ body:
     text: "Consulta a programación"
     type: button
 intro: "O festival de deseño que forma parte da rede internacional de World Design Weeks volve á cidade da Coruña para ofrecer o último en deseño galego e tamén mostras de referentes internacionais."
-slug: nova-edicion-gdw
+basename: nova-edicion-gdw
 tags:
   - "noticias socios/socias"
 lang: gl

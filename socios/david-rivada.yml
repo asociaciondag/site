@@ -14,7 +14,7 @@ links:
     url: "https://www.linkedin.com/in/david-rivada-7a1873131/?originalSubdomain=es"
     type: linkedin
 name: "David Rivada"
-slug: david-rivada
+basename: david-rivada
 avatarBig: null
 avatar: /img/avatars/foto-david-rivada.jpg
 tags:

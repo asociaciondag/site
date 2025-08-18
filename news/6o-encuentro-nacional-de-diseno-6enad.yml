@@ -42,7 +42,7 @@ body:
     text: 6ENAD
     type: button
 intro: "El sector del diseño nacional se reunirá en Valencia los días 20 y 21 de septiembre de 2018. En representación de la DAG acudirán sus socios Uqui Permui y Lois Guillán."
-slug: 6o-encuentro-nacional-de-diseno-6enad
+basename: 6o-encuentro-nacional-de-diseno-6enad
 tags: []
 lang: es
 draft: false

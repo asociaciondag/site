@@ -27,7 +27,7 @@ body:
 
     type: text
 intro: "O pasado 8 de xullo a asemblea xeral da DAG renovou a súa Xunta Directiva que queda configurada do seguinte xeito:"
-slug: a-dag-renova-a-sua-xunta-directiva
+basename: a-dag-renova-a-sua-xunta-directiva
 tags:
   - "noticias socios/socias"
 lang: gl

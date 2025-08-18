@@ -6,7 +6,7 @@ body:
   - type: image
     image: /img/news/images/553e7aa3ac60f-alfombra.jpg
 intro: null
-slug: a-asociacion-galega-de-desenadores-participa-nos-actos-conmemorativos-do-150-aniversario-de-cantares-gallegos
+basename: a-asociacion-galega-de-desenadores-participa-nos-actos-conmemorativos-do-150-aniversario-de-cantares-gallegos
 tags: []
 lang: gl
 draft: false

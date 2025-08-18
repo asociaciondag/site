@@ -1,6 +1,6 @@
 id: 240
 title: "New Loft"
-slug: new-loft
+basename: new-loft
 body:
   - image: /img/portfolio/images/new-loft-2016-branding-y-comunicacion-visual.jpg
     text: ""

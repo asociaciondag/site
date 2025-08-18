@@ -115,7 +115,7 @@ body:
       © Todas las imágenes pertenecen a [Keepthinking](https://www.keepthinking.it/), 2020
     type: text
 position: null
-slug: reflexiones-diseno-arquivos-digitales
+basename: reflexiones-diseno-arquivos-digitales
 cover: /img/articles/covers/00-banner.png
 lang: es
 draft: false

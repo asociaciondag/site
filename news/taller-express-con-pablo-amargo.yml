@@ -18,7 +18,7 @@ body:
     text: laplantacion.info
     type: button
 intro: "La Plantación organiza o próximo 29 e 30 de xaneiro un taller express con [Pablo Amargo](http://www.pabloamargo.com/)"
-slug: taller-express-con-pablo-amargo
+basename: taller-express-con-pablo-amargo
 tags: []
 lang: gl
 draft: false

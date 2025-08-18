@@ -20,7 +20,7 @@ body:
     text: "Web de la Asamblea 2019"
     type: button
 intro: "El próximo 29 de junio la DAG estará en Ourense, en el Centro Cívico A Ponte, para celebrar su asamblea general anual."
-slug: ourense-acoge-la-asamblea-general-de-la-dag-2019
+basename: ourense-acoge-la-asamblea-general-de-la-dag-2019
 tags:
   - "actividades dag"
 lang: es

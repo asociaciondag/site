@@ -38,7 +38,7 @@ body:
     text: "Ir á páxina do FEED 2015"
     type: button
 intro: "Licenciada en Bellas Artes por la Universidad de Vigo, Máster en Diseño de la Interacción y Posgrado en Tecnologías Digitales para la Escena por la Universidad Pompeu Fabra."
-slug: entrevista-a-marta-verde
+basename: entrevista-a-marta-verde
 tags:
   - "actividades dag"
 lang: es

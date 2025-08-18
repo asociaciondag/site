@@ -1,6 +1,6 @@
 id: 358
 title: "Reforma de vivienda"
-slug: reforma-vivienda
+basename: reforma-vivienda
 body:
   - text: "Reforma de un piso en un edificio de los años 70 que no había sufrido ninguna actualización. Se trataba de un piso demasiado compartimentado con buena luz natural pero que no llegaba a todos los rincones. Decidimos comunicar estancias aprovechando la luz natural, además de aplicar nuevos acabados, nuevas instalaciones y equipamiento."
     type: text

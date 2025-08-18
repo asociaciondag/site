@@ -20,7 +20,7 @@ body:
     text: "Fundación DIDAC"
     type: button
 intro: "El ciclo forma parte del Proyecto DIDAC Arteria Galicia que será complementado con un arquivodidac.gal, un cuerpo documental online en constante crecimiento donde conocer el trabajo y la trayectoria de creadores gallegos contemporáneos."
-slug: arranca-la-proxima-semana-en-la-fundacion-didac-el-ciclo-de-conferencias-galicia-un-siglo-de-creacion-1916-2016
+basename: arranca-la-proxima-semana-en-la-fundacion-didac-el-ciclo-de-conferencias-galicia-un-siglo-de-creacion-1916-2016
 tags: []
 lang: es
 draft: false

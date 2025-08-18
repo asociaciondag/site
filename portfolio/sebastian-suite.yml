@@ -1,6 +1,6 @@
 id: 421
 title: "Sebastian Suite"
-slug: sebastian-suite
+basename: sebastian-suite
 body:
   - image: /img/portfolio/images/sebastian-suite-diseno-web.jpg
     text: ""

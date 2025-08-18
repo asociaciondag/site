@@ -1,6 +1,6 @@
 id: 334
 title: "MEGA Mundo Estrella Galicia"
-slug: mega
+basename: mega
 body:
   - image: /img/portfolio/images/mega.jpg
     text: ""

@@ -26,7 +26,7 @@ body:
     text: "Presentación de candidatura"
     type: button
 intro: "Los Premios Nacionales de Innovación y de Diseño distinguen a profesionales del diseño que han contribuído a mejorar el prestigio y el alcance del diseño español, y también a entidades que hayan incorporado el diseño y la innovación como un elemento indispensable en el desarrollo de su estrategia empresarial, demostrando que el diseño mejora su competitividad."
-slug: convocatoria-premios-nacionales-innovacion-diseno-2021-es
+basename: convocatoria-premios-nacionales-innovacion-diseno-2021-es
 tags: []
 lang: es
 draft: false

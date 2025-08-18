@@ -25,7 +25,7 @@ body:
   - text: "O espazo é limitado, por tanto, se queres vir, avísanos antes no correo: [info@asociaciondag.org](mailto:info@asociaciondag.org?subject=Quero%20asistir%20%C3%A1s%20actividades%20abertas%20da%20DAG%20este%20s%C3%A1bado)"
     type: text
 intro: "Porque, como xa vén sendo habitual nas últimas edicións, a DAG amplía o formato da asemblea de socios para favorecer o encontro entre deseñadores."
-slug: non-so-unha-asemblea-xeral
+basename: non-so-unha-asemblea-xeral
 tags: []
 lang: gl
 draft: false

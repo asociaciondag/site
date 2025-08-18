@@ -65,7 +65,7 @@ body:
   - text: "Pero como nuestra imaginación busca siempre el “problema” y no la solución, diremos que en tal caso o tal otro es imposible. Así es, pero seguro que habremos solucionado el 80% de los casos. Pues bien, dediquémosnos al 20% restante, con creatividad. Eso sí, siempre siguiendo las fases de cualquier proceso de diseño, cooperando con expertos de otras disciplinas, y cumpliendo con los principios básicos de una buena accesibilidad, buscando un uso sencillo e intuitivo, adaptado a una amplia variedad de preferencias y capacidades individuales, evitando complejidades innecesarias o informaciones confusas, minimizando la necesidad de fuerzas poco razonables, y proporcionando un tamaño y un espacio adecuados para acercarse, alcanzar, manipular y usar, sin que importe el tamaño corporal de la persona usuaria, su postura o su movilidad. En definitiva, sin complicar más las cosas."
     type: text
 position: null
-slug: disenar-nueva-accesibilidad
+basename: disenar-nueva-accesibilidad
 cover: /img/articles/covers/accesible.jpg
 lang: es
 draft: false

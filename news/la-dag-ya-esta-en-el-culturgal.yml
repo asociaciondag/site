@@ -14,7 +14,7 @@ body:
       ratio: ""
     type: embed
 intro: "Os esperamos en el stand 51, un lugar de obligada visita para todos aquellos que quieran acercarse al diseño gallego"
-slug: la-dag-ya-esta-en-el-culturgal
+basename: la-dag-ya-esta-en-el-culturgal
 tags:
   - "actividades dag"
 lang: es

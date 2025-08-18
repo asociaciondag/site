@@ -11,7 +11,7 @@ links:
     url: "https://www.instagram.com/arturgalocha"
     type: link
 name: "Artur Galocha"
-slug: artur-galocha
+basename: artur-galocha
 avatarBig: null
 avatar: /img/avatars/artur-galocha.png
 tags:

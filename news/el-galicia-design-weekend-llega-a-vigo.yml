@@ -20,7 +20,7 @@ body:
     text: "Más Información"
     type: button
 intro: "El Galicia Design Weekend, festival de diseño que forma parte del circuito internacional de semanas del diseño, llega por primera vez a Vigo este sábado 1 de octubre con conferencias, exposiciones, un taller y un _showroom_ digital."
-slug: el-galicia-design-weekend-llega-a-vigo
+basename: el-galicia-design-weekend-llega-a-vigo
 tags: []
 lang: es
 draft: false

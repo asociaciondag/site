@@ -12,7 +12,7 @@ body:
     text: Descargar
     type: file
 intro: "O 4 CIT convoca por primeira vez o premio destinado a mozos e mozas tipógrafos/as."
-slug: premio-paco-bascunan-ao-deseno-tipografico
+basename: premio-paco-bascunan-ao-deseno-tipografico
 tags: []
 lang: gl
 draft: false

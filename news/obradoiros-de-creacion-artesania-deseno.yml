@@ -16,7 +16,7 @@ body:
     text: Descargar
     type: file
 intro: "Un deseñador de moda e un artesán serán os encargados de impartir conxuntamente cada un dos tres obradoiros de creación que se desenvolverán do 4 ao 6 de xullo na Facultade de Belas Artes de Pontevedra en horario de 10.00 a 14.00 da mañá e de 16.00 a 19.00 da tarde."
-slug: obradoiros-de-creacion-artesania-deseno
+basename: obradoiros-de-creacion-artesania-deseno
 tags: []
 lang: gl
 draft: false

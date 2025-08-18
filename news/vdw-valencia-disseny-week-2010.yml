@@ -12,7 +12,7 @@ body:
     text: ""
     type: image
 intro: "O próximo 27 de setembro darase o pistoletazo de saída para a segunda edición da Valencia Disseny Week (VDW)."
-slug: vdw-valencia-disseny-week-2010
+basename: vdw-valencia-disseny-week-2010
 tags: []
 lang: gl
 draft: false

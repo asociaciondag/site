@@ -17,7 +17,7 @@ links:
     url: "https://www.instagram.com/porlasramas_estudio/?hl=es"
     type: link
 name: "Verónica Vieira González"
-slug: veronica-vieira-gonzalez
+basename: veronica-vieira-gonzalez
 avatarBig: /img/avatars/veronicavieira.jpeg
 avatar: /img/avatars/veronicavieira.jpeg
 tags:

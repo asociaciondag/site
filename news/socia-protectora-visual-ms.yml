@@ -28,7 +28,7 @@ body:
     text: "Más información"
     type: button
 intro: "Incorporamos la categoría de socia protectora a las distintas modalidades de nuestra Asociación para fortalecer el proyecto desde el apoyo al diseño de empresas, entidades y organizaciones con objetivos afines."
-slug: socia-protectora-visual-ms
+basename: socia-protectora-visual-ms
 tags:
   - "noticias socios/socias"
 lang: es

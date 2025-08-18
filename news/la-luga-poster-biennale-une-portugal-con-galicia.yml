@@ -24,7 +24,7 @@ body:
     text: "Web LUGA Poster Biennale"
     type: button
 intro: "La Luga Poster Biennale es un proyecto de la Escola Superior de Media Artes e Design, del Instituto Politécnico de Porto y del Instituto de Investigación en Deseño, Medios e Cultura, que pretende explorar el cartel como elemento fundamental de la investigación. La DAG colabora en la difusión de este evento en Galicia."
-slug: la-luga-poster-biennale-une-portugal-con-galicia
+basename: la-luga-poster-biennale-une-portugal-con-galicia
 tags: []
 lang: es
 draft: false

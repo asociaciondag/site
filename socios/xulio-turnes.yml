@@ -27,7 +27,7 @@ links:
     url: "https://www.linkedin.com/in/xulio-turnes-vieito-5b67b954?trk=hp-identity-name"
     type: linkedin
 name: "Xulio Turnes"
-slug: xulio-turnes
+basename: xulio-turnes
 avatarBig: null
 avatar: /img/avatars/56e06a20dfb75-xulio-turnes.jpeg
 tags: []

@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "Este jueves 26 de marzo a las 12.00 en el salón de actos de la [EASD Antonio Faílde](http://www.escolarte.com/) de Ourense, el diseñador Pepe Barro dará una conferencia sobre Rosalía en la que analizará diversos iconos de la poetisa, con especial atención a tres visiones muy diferentes, incluso contradictorias, de la autora."
-slug: las-tres-rosalias-de-pepe-barro-en-la-easd-antonio-failde
+basename: las-tres-rosalias-de-pepe-barro-en-la-easd-antonio-failde
 tags:
   - "noticias socios/socias"
 lang: es

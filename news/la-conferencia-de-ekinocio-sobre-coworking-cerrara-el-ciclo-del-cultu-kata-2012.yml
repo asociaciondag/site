@@ -11,7 +11,7 @@ body:
     text: ""
     type: image
 intro: "Con motivo de la celebración de su patrona Santa Catalina de Siena, la Facultad de Ciencias Sociales y de laComunicación organiza cada año el [Cultu Kata](https://www.facebook.com/CultuKata), un ciclo de actividades que este año contará con la presencia de dos de nuestras socias, Raquel Boo e Irene García ([Ekinocio Comunicación](http://www.ekinocio.com/))."
-slug: la-conferencia-de-ekinocio-sobre-coworking-cerrara-el-ciclo-del-cultu-kata-2012
+basename: la-conferencia-de-ekinocio-sobre-coworking-cerrara-el-ciclo-del-cultu-kata-2012
 tags:
   - "noticias socios/socias"
 lang: es

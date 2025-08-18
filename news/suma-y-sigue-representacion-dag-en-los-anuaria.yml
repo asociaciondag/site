@@ -25,7 +25,7 @@ body:
       Podéis ver el resto de los premiados y premiadas [aquí](https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html?utm_source=newsletter_72_2019-12-11&utm_medium=newsletter&utm_campaign=veredicto_de_los_premios_anuaria_2019&fbclid=IwAR15qBmQkrQmRZ5YdTiE1Tf8w2I_OPfeyfmEXzWt8EL-s3wmIMbmbhIDacM).
     type: text
 intro: "No podemos estar más contentos, pues terminamos este año 2019 con más reconocimiento al diseño gallego en la XXVI Edición de los Premios Anuaria; donde Dardo, Era Comunicación y Roberto Núñez han recibido sendos premios y selecciones especiales."
-slug: suma-y-sigue-representacion-dag-en-los-anuaria
+basename: suma-y-sigue-representacion-dag-en-los-anuaria
 tags:
   - "noticias socios/socias"
 lang: es

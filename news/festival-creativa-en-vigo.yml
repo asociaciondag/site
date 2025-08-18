@@ -18,7 +18,7 @@ body:
     text: "Web Festival Creativa"
     type: button
 intro: "La segunda edición del Festival Creativa, organizado por Galería Maraca y Dot Galicia, ya está en marcha y podremos disfrutar de contenidos variados desde el viernes 19 hasta el domingo 21 de abril."
-slug: festival-creativa-en-vigo
+basename: festival-creativa-en-vigo
 tags: []
 lang: es
 draft: false

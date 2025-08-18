@@ -26,7 +26,7 @@ body:
     text: "Web #followSS21"
     type: button
 intro: "El festival #follow, una iniciativa de Álex Rico nacida en 2020, comienza el mes de abril publicando sus _stories_ de diseño y creatividad. Las protagonistas, en esta ocasión, son profesionales que trabajan desde las ciudades de Vigo y Santiago de Compostela. Del 1 al 4 de abril, la web del festival presentó los vídeos grabados en dos espacios de referencia para el diseño en Galicia, Sirvent y la Fundación DIDAC."
-slug: profesionales-vigo-y-santiago-capsula-primavera-festival-follow
+basename: profesionales-vigo-y-santiago-capsula-primavera-festival-follow
 tags:
   - "noticias socios/socias"
 lang: es

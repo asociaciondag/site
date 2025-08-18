@@ -23,7 +23,7 @@ body:
   - text: "O terceiro proxecto a salientar, que foi seleccionado entre as máis de 600 obras presentadas, é a Rexeneración do Conxunto da Casa da Cotona, plantexado tamén conxuntamente por Salgado e Liñares Arquitectos e Cenlitrosmetrocadrado."
     type: text
 intro: "A [XV Edición da Bienal Española de Arquitectura e Urbanismo](https://labienal.es/) fixo pública a lista de proxectos seleccionados e finalistas. Salientamos os tres que contan coa participación dos nosos compañeiros Ricardo Tubío e Xabier Rilo, do estudio [Cenlitrosmetrocadrado](http://cenlitrosmetrocadrado.com/)."
-slug: proxectos-galegos-xv-bienal-arquitectura-urbanismo-cenlitrosmetrocadrado
+basename: proxectos-galegos-xv-bienal-arquitectura-urbanismo-cenlitrosmetrocadrado
 tags:
   - "noticias socios/socias"
 lang: gl

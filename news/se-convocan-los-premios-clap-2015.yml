@@ -14,7 +14,7 @@ body:
     mode: normal
     type: image
 intro: "Los CLAP son unos Premios Internacionales de Diseño Industrial y Diseño Gráfico a los que pueden concurrir trabajos de diseño gráfico e industrial realizados en América Latina, Estados Unidos, Brasil, España y Portugal durante los años 2013, 2014 y 2015."
-slug: se-convocan-los-premios-clap-2015
+basename: se-convocan-los-premios-clap-2015
 tags: []
 lang: es
 draft: false

@@ -1,6 +1,6 @@
 id: 47
 title: "Galician Books"
-slug: galician-books
+basename: galician-books
 body:
   - text: "Distintivo para a promoción dos libros galegos no estranxeiro."
     type: text

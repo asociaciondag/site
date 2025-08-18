@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "La Universidad de la Coruña dedica esta IV edición del Curso de divulgación científica en la sociedad a la importancia de la imagen y del diseño en la configuración de los mensajes."
-slug: iv-curso-de-divulgacion-cientifica-en-la-sociedad-transmision-e-informacion-la-importancia-del-diseno-y-la-configuracion-del-mensaje
+basename: iv-curso-de-divulgacion-cientifica-en-la-sociedad-transmision-e-informacion-la-importancia-del-diseno-y-la-configuracion-del-mensaje
 tags: []
 lang: es
 draft: false

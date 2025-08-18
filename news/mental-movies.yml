@@ -18,7 +18,7 @@ body:
     text: ""
     type: image
 intro: "**Mental movies** é unha nova colección de relatos breves en formato de carteis cinematográficos. Trátase dun proxecto multidisciplinar que integra literatura, artes visuais, música e cine."
-slug: mental-movies
+basename: mental-movies
 tags: []
 lang: gl
 draft: false

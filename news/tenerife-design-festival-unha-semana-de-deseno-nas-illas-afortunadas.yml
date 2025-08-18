@@ -13,7 +13,7 @@ body:
     text: ""
     type: image
 intro: "Arranca o Tenerife Design Festival"
-slug: tenerife-design-festival-unha-semana-de-deseno-nas-illas-afortunadas
+basename: tenerife-design-festival-unha-semana-de-deseno-nas-illas-afortunadas
 tags: []
 lang: gl
 draft: false

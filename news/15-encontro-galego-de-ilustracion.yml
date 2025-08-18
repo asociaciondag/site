@@ -30,7 +30,7 @@ body:
     text: "15 Encontro Galego de Ilustración"
     type: button
 intro: "Este ano, o Encontro Galego de Ilustración que organiza anualmente a AGPI chega á súa edición número 15, e ofrece máis contidos e actividades de interese tanto para profesionais como para o público xeral. A maioría das actividades decorrerá na Unitaria (o venres 28) e no Auditorio de Galicia (o sábado 29)."
-slug: 15-encontro-galego-de-ilustracion
+basename: 15-encontro-galego-de-ilustracion
 tags: []
 lang: gl
 draft: false

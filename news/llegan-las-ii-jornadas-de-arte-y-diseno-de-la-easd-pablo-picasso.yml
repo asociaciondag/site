@@ -56,7 +56,7 @@ body:
     text: "Jornadas en el sitio web de la EASD Pablo Picasso"
     type: button
 intro: "Se desarrollarán entre el 17 y el 21 de diciembre en la escuela de A Coruña, y están abiertas a todas las personas interesadas en las temáticas que se tratarán."
-slug: llegan-las-ii-jornadas-de-arte-y-diseno-de-la-easd-pablo-picasso
+basename: llegan-las-ii-jornadas-de-arte-y-diseno-de-la-easd-pablo-picasso
 tags: []
 lang: es
 draft: false

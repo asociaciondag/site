@@ -24,7 +24,7 @@ body:
     text: ""
     type: image
 intro: "Bodegas Terras Gaudas organiza a oitava edición do seu Concurso Internacional de Cartelismo Publicitario Francisco Mantecón."
-slug: 8o-concurso-internacional-de-cartelismo-publicitario-francisco-mantecon
+basename: 8o-concurso-internacional-de-cartelismo-publicitario-francisco-mantecon
 tags: []
 lang: gl
 draft: false

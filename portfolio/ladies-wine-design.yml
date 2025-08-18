@@ -1,6 +1,6 @@
 id: 386
 title: "Ladies, Wine & Design"
-slug: ladies-wine-design
+basename: ladies-wine-design
 body:
   - text: ""
     type: text

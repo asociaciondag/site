@@ -1,6 +1,6 @@
 id: 337
 title: "Pinto & Chinto"
-slug: pinto-chinto
+basename: pinto-chinto
 body:
   - image: /img/portfolio/images/pinto-chinto.jpg
     text: ""

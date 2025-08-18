@@ -1,6 +1,6 @@
 id: 71
 title: "Casa museo Manuel Antonio"
-slug: casa-museo-manuel-antonio
+basename: casa-museo-manuel-antonio
 body:
   - text: "Proxecto museolóxico e museográfico da casa museo do poeta vangardista Manuel Antonio. Traballo realizado coa colaboración de Xosé Luís Axeitos."
     type: text

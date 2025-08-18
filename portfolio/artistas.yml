@@ -1,6 +1,6 @@
 id: 27
 title: Artistas
-slug: artistas
+basename: artistas
 body:
   - text: "Packaging onde se recollen as obras do 1º Proxecto de visibilización das obras artísticas das alumnas de Facultade de Belas Artes da Universidade de Vigo. Políptico con información e imaxes da exposición na universidade, láminas das obras en formato postal e estoxo reciclando as lonas da exposición."
     type: text

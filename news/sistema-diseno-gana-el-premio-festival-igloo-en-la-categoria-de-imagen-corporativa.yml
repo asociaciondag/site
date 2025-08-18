@@ -16,7 +16,7 @@ body:
     text: ""
     type: image
 intro: "A principios de este año se ha dado a conocer el fallo del jurado en el concurso de diseño Festival Igloo, organizado por el grupo papelero Torraspapel."
-slug: sistema-diseno-gana-el-premio-festival-igloo-en-la-categoria-de-imagen-corporativa
+basename: sistema-diseno-gana-el-premio-festival-igloo-en-la-categoria-de-imagen-corporativa
 tags: []
 lang: es
 draft: false

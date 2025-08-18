@@ -19,7 +19,7 @@ body:
     text: Descargar
     type: file
 intro: "Este mércores, 30 de novembro, volven as #charlasnaDAG á Trisca."
-slug: charlasnadag-sobre-reticulas-con-segundo-fdez
+basename: charlasnadag-sobre-reticulas-con-segundo-fdez
 tags: []
 lang: gl
 draft: false

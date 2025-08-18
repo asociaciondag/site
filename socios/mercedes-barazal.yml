@@ -8,7 +8,7 @@ links:
     url: "https://www.instagram.com/mercedes_barazal/"
     type: link
 name: "Mercedes Barazal"
-slug: mercedes-barazal
+basename: mercedes-barazal
 avatarBig: /img/avatars/mercedes-barazal.jpg
 avatar: /img/avatars/mercedes-barazal.jpg
 tags:

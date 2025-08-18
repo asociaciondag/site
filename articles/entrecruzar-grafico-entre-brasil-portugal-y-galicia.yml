@@ -47,7 +47,7 @@ body:
 
     type: text
 position: null
-slug: entrecruzar-grafico-entre-brasil-portugal-y-galicia
+basename: entrecruzar-grafico-entre-brasil-portugal-y-galicia
 cover: /img/articles/covers/55fa951458299-metro-lisboa-maria-keil.jpg
 lang: es
 draft: false

@@ -13,7 +13,7 @@ body:
   - type: image
     image: /img/news/images/553e7a9cdd19b-pechakucha-night-ferrol-iv.jpg
 intro: null
-slug: iv-pechakucha-night-ferrol
+basename: iv-pechakucha-night-ferrol
 tags: []
 lang: gl
 draft: false

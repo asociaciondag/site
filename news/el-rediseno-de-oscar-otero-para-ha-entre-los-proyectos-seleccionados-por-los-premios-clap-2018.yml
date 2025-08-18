@@ -27,7 +27,7 @@ body:
     mode: normal
     type: image
 intro: "Los Premios CLAP son unos premios internacionales que reconocen los mejores trabajos de diseño industrial y de diseño gráfico realizados en América Latina, Estados Unidos, Brasil, España y Portugal entre 2017 y 2018."
-slug: el-rediseno-de-oscar-otero-para-ha-entre-los-proyectos-seleccionados-por-los-premios-clap-2018
+basename: el-rediseno-de-oscar-otero-para-ha-entre-los-proyectos-seleccionados-por-los-premios-clap-2018
 tags:
   - "noticias socios/socias"
 lang: es

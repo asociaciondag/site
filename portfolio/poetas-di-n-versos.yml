@@ -1,6 +1,6 @@
 id: 57
 title: "Poetas Di(n)versos"
-slug: poetas-di-n-versos
+basename: poetas-di-n-versos
 body:
   - text: "Serie de carteis coa programación trimestral dun ciclo de recitais poéticos e gráfica aplicada no escenario."
     type: text

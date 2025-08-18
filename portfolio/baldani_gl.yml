@@ -1,6 +1,6 @@
 id: 237
 title: Baldani
-slug: baldani
+basename: baldani
 body:
   - image: /img/portfolio/images/baldani-2016-branding.jpg
     text: ""

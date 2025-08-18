@@ -1,6 +1,6 @@
 id: 282
 title: "Festa do mar"
-slug: festa-do-mar
+basename: festa-do-mar
 body:
   - image: /img/portfolio/images/festa-do-mar-2015.jpg
     text: ""

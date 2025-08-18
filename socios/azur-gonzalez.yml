@@ -14,7 +14,7 @@ links:
     url: "https://twitter.com/azurgonzalez"
     type: twitter
 name: "Azur González"
-slug: azur-gonzalez
+basename: azur-gonzalez
 avatarBig: null
 avatar: /img/avatars/avatar-azur.jpg
 tags:

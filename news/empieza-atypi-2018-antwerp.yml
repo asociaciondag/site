@@ -28,7 +28,7 @@ body:
     text: "ATypI 2018 Antwerp"
     type: button
 intro: "Hoy arranca en Amberes uno de los congresos más importantes para la comunidad tipográfica mundial, el congreso anual de la ATypI, Asociación Tipográfica Internacional."
-slug: empieza-atypi-2018-antwerp
+basename: empieza-atypi-2018-antwerp
 tags: []
 lang: es
 draft: false

@@ -34,7 +34,7 @@ body:
     text: "Ir á páxina do FEED 2015"
     type: button
 intro: "Formado como diseñador de producto en la EUDI y en la escuela Elisava, nunca ha ejercido como tal. Desde que comenzó a trabajar, siempre ha buscado la interacción entre la empresa y el diseño. Primero, desde la gestión del diseño, explorando marcos de gestión adaptados a la incerteza propia de la disciplina. Ahora, empleando el diseño como proceso y caja de herramientas con que afrontar retos propios del negocio, hasta no hace mucho ajenos a los diseñadores."
-slug: entrevista-a-miguel-sabel
+basename: entrevista-a-miguel-sabel
 tags:
   - "actividades dag"
 lang: es

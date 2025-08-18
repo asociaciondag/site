@@ -1,6 +1,6 @@
 id: 395
 title: "Modelo Bb"
-slug: modelo-bb
+basename: modelo-bb
 body:
   - image: /img/portfolio/images/0-bb.jpg
     text: ""

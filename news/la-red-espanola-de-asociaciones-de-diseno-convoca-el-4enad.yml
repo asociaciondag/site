@@ -20,7 +20,7 @@ body:
     text: 4ENAD
     type: button
 intro: "Con cada nueva edición, el Encuentro Nacional de Asociaciones de Diseño que organiza la Red de Asociaciones de Diseño (READ) se consolida como un espacio común de análisis y presentación de propuestas por parte de todos los actores relacionados con el ejercicio del diseño."
-slug: la-red-espanola-de-asociaciones-de-diseno-convoca-el-4enad
+basename: la-red-espanola-de-asociaciones-de-diseno-convoca-el-4enad
 tags:
   - "actividades dag"
 lang: es

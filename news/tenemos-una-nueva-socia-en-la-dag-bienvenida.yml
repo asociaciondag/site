@@ -17,7 +17,7 @@ body:
     text: ""
     type: image
 intro: "Como ya viene siendo habitual, aquí está la presentación de la nueva socia de la DAG."
-slug: tenemos-una-nueva-socia-en-la-dag-bienvenida
+basename: tenemos-una-nueva-socia-en-la-dag-bienvenida
 tags:
   - "noticias socios/socias"
 lang: es

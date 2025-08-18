@@ -21,7 +21,7 @@ body:
     text: ""
     type: image
 intro: "A DAG, Asociación Galega de Deseñadores, selecciona traballos de deseñadores para a súa exposición de marcas, logotipos e identidades Diálogos."
-slug: abrese-o-prazo-de-inscricion-para-participar-en-dialogos
+basename: abrese-o-prazo-de-inscricion-para-participar-en-dialogos
 tags:
   - "actividades dag"
 lang: gl

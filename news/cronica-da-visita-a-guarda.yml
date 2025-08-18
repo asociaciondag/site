@@ -22,7 +22,7 @@ body:
     text: Descargar
     type: file
 intro: "O deseñador Pepe Barro elaborou para a DAG unha crónica da visita á Guarda realizada o pasado 18 de outubro para coñecer as marcas gráficas dos mariñeiros"
-slug: cronica-da-visita-a-guarda
+basename: cronica-da-visita-a-guarda
 tags:
   - "actividades dag"
 lang: gl

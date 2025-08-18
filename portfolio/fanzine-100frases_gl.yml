@@ -1,6 +1,6 @@
 id: 164
 title: Fanzine_100frases
-slug: fanzine-100frases
+basename: fanzine-100frases
 body:
   - image: /img/portfolio/images/573f397eefa13-presentacion-fanzine.jpg
     text: ""

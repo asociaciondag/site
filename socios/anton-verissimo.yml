@@ -21,7 +21,7 @@ links:
     url: "https://www.linkedin.com/in/antonverissimo/"
     type: linkedin
 name: "Antón Veríssimo"
-slug: anton-verissimo
+basename: anton-verissimo
 avatarBig: null
 avatar: /img/avatars/antonverissimo-dag-perfil.jpg
 tags:

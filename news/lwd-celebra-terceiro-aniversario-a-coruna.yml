@@ -16,7 +16,7 @@ body:
     text: "Entrada online "
     type: button
 intro: "O vindeiro xoves, 10 de xuño, a Fundación Luis Seoane acollerá un novo encontro de [Ladies, Wine &amp; Design](https://ladieswinedesign.com/coruna/) na cidade. Esta será unha ocasión especial, xa que o evento cumpre 3 anos de actividade continuada."
-slug: lwd-celebra-terceiro-aniversario-a-coruna
+basename: lwd-celebra-terceiro-aniversario-a-coruna
 tags: []
 lang: gl
 draft: false

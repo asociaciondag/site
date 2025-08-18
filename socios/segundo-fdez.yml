@@ -17,7 +17,7 @@ links:
     url: "https://github.com/segundofdez"
     type: link
 name: "Segundo Fdez"
-slug: segundo-fdez
+basename: segundo-fdez
 avatarBig: null
 avatar: /img/avatars/554cfa899b042-segundo-fernandez.png
 tags:

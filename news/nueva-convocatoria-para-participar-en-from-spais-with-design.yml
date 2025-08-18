@@ -20,7 +20,7 @@ body:
     text: "Más info"
     type: button
 intro: "El proyecto interno de READ que busca la internacionalización del diseño español lanza una nueva convocatoria para actualizar la plataforma e incluir nuevos trabajos de profesionales del diseño. El 24 de febrero es el plazo máximo para presentar candidaturas."
-slug: nueva-convocatoria-para-participar-en-from-spais-with-design
+basename: nueva-convocatoria-para-participar-en-from-spais-with-design
 tags: []
 lang: es
 draft: false

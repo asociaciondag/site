@@ -18,7 +18,7 @@ body:
       Puedes saber más del proyecto visitando la web [ARDE.gal](http://www.arde.gal).
     type: text
 intro: "ARDE.gal es una nueva plataforma sobre la historia del diseño en Galicia. Nace con la creación de una base de datos; una lista de referencias para conocer el legado histórico que dejan las obras, entidades y personas que tratan el diseño gallego en sus distintas disciplinas."
-slug: dag-presenta-arde-el-archivo-del-diseno-gallego
+basename: dag-presenta-arde-el-archivo-del-diseno-gallego
 tags: []
 lang: es
 draft: false

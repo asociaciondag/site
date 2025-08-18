@@ -12,7 +12,7 @@ body:
     text: Descargar
     type: file
 intro: "O proxecto expositivo DIÁLOGOS inaugurarase o vindeiro mércores 1 de xullo de 2009, ás 20:00 horas na sala de exposicións do Pazo da Cultura de Pontevedra."
-slug: dialogos
+basename: dialogos
 tags:
   - "actividades dag"
 lang: gl

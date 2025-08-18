@@ -153,7 +153,7 @@ body:
       [\[12\]](#t12) O denominado _hinting_ é o uso de instrucións matemáticas co obxectivo de optimizar a visualización dunha fonte vectorial en soporte pantalla. Esencialmente consiste en axustar as súas formas á retícula de píxeles indicándolle ao software encargado da súa rasterización como debe mostrar as súas formas, especialmente en tamaños pequenos. A chegada das pantallas de alta resolución en dispositivos móbiles e tabletas fixeron que cada vez sexa menos necesario a atención ao _hinting_ e todo indica que nun futuro próximo non será un asunto crítico.
     type: text
 position: null
-slug: tipografia-territorio-identidade
+basename: tipografia-territorio-identidade
 cover: /img/articles/covers/portada2.png
 lang: gl
 draft: false

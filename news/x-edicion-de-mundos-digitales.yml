@@ -8,7 +8,7 @@ body:
     text: ""
     type: image
 intro: "Del 6 al 9 de julio se celebra en A Coruña Mundos Digitales, el Festival Internacional de Animación, Efectos Especiales, Videojuegos y Arquitectura Digital."
-slug: x-edicion-de-mundos-digitales
+basename: x-edicion-de-mundos-digitales
 tags: []
 lang: es
 draft: false

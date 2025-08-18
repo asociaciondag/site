@@ -12,7 +12,7 @@ body:
     text: Descargar
     type: file
 intro: "El taller experimental sobre tipografía y comunicación que impartirán Enrique Longinotti y Hernán Ordoñez se desarrollará entre el 24 y el 28 de febrero en el CGAC"
-slug: la-dag-organiza-en-colaboracion-con-el-cgac-el-taller-el-ojo-en-la-calle
+basename: la-dag-organiza-en-colaboracion-con-el-cgac-el-taller-el-ojo-en-la-calle
 tags:
   - "actividades dag"
 lang: es

@@ -11,7 +11,7 @@ links:
     url: "https://www.instagram.com/patinunez_design/"
     type: link
 name: "Patricia Núñez"
-slug: patricia-nunez
+basename: patricia-nunez
 avatarBig: null
 avatar: /img/avatars/imagen-perfil.jpg
 tags: []

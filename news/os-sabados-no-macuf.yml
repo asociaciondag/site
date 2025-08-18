@@ -15,7 +15,7 @@ body:
     text: ""
     type: image
 intro: "Unha variada programación de cursos e talleres é o que nos oferta o [Macuf](http://www.macuf.es/) para os sábados de outubro e novembro."
-slug: os-sabados-no-macuf
+basename: os-sabados-no-macuf
 tags: []
 lang: gl
 draft: false

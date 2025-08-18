@@ -28,7 +28,7 @@ body:
 
     type: text
 intro: "El pasado 15 y 16 de noviembre en el Palacio Euskaldune Bilbao y en el marco de la Bilbao Bizkaia Design Week ha tendio lugar el Selected Inspiration Europe."
-slug: la-experiencia-del-selected
+basename: la-experiencia-del-selected
 tags: []
 lang: es
 draft: false

@@ -8,7 +8,7 @@ links:
     url: "https://twitter.com/br1pardo"
     type: twitter
 name: "Bruno Pardo Pérez"
-slug: bruno-pardo-perez
+basename: bruno-pardo-perez
 avatarBig: null
 avatar: /img/avatars/554d0f43c62cc-bruno-pardo-perez.jpeg
 tags: []

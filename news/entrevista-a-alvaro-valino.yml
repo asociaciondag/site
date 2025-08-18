@@ -38,7 +38,7 @@ body:
     text: "Ir á páxina do FEED 2015"
     type: button
 intro: "Álvaro Valiño, nacido en A Coruña, és Master en Diseño Gráfico por la London College of Communication.Trabaja como infografista e ilustrador _freelance_ desde Washington DC y ha colaborado con _National Geographic Magazine,_ _Smithsonian Magazine,_ _Corriere della Sera,_ _Courrier International,_ y la revista _Mongolia,_ entre otros. Fue el jefe de infografía del desaparecido diario _Público_ y comenzó su actividad profesional en la sección de gráficos de _La Voz de Galicia._"
-slug: entrevista-a-alvaro-valino
+basename: entrevista-a-alvaro-valino
 tags:
   - "actividades dag"
 lang: es

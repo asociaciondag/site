@@ -5,7 +5,7 @@ links:
     url: "https://www.alvarojusto.com/"
     type: link
 name: "Álvaro Justo Fernández"
-slug: alvaro-justo-fernandez
+basename: alvaro-justo-fernandez
 avatarBig: null
 avatar: /img/avatars/554d0ec9b00fb-alvaro-justo-fernandez.jpg
 tags:
