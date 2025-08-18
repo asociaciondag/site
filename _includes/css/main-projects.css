@@ -96,14 +96,6 @@
 			}
 		}
 	}
-
-	& .share {
-		display: none;
-
-		@media (--tablet) {
-			display: block;
-		}
-	}
 }
 
 .aspect-ratio {

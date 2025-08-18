@@ -226,10 +226,6 @@
         letter-spacing: -0.03em;
       }
     }
-
-    & .share {
-      margin: 2rem 0;
-    }
   }
 
   & .article-body {
