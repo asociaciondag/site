@@ -48,7 +48,7 @@ layout: ./base.vto
 
   <div class="porfolio-body">
     {{ for block of body }}
-      {{ include "blocks/" + block.type + ".vto" { block } }}
+      {{ await comp[block.type](block) }}
     {{ /for }}
   </div>
 </article>

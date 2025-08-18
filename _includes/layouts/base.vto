@@ -51,15 +51,10 @@
           </li>
           <li><a href="http://foro.dag.gal">{{ t.menu.forum }}</a></li>
 
-          <li class="page-menu-lang ui-menu-lang">
-            <ul>
-              <li {{ if lang == "gl" }} class="is-active"{{ /if }}>
-                <a href="/gl/">GL</a>
-              </li>
-              <li {{ if lang == "es" }} class="is-active"{{ /if }}>
-                <a href="/es/">ES</a>
-              </li>
-            </ul>
+          <li>
+            {{ for alternate of alternates }}
+              <a href="{{ alternate.url }}">{{ alternate.lang }}</a>
+            {{ /for }}
           </li>
         </ul>
       </nav>

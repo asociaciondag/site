@@ -1,11 +1,11 @@
 <figure class="section section-image">
   <picture>
-    <img src="{{ block.image }}" alt="{{ block.alt }}">
+    <img src="{{ image }}" alt="{{ alt }}">
   </picture>
 
-  {{ if block.text }}
+  {{ if text }}
     <figcaption>
-      {{ block.text |> md }}
+      {{ text |> md }}
     </figcaption>
   {{ /if }}
 </figure>

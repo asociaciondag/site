@@ -10,7 +10,7 @@ layout: layouts/base.vto
 
     <div class="about-body">
       {{ for block of body }}
-        {{ include `blocks/${block.type}.vto` { block } }}
+        {{ await comp[block.type](block) }}
       {{ /for }}
     </div>
   </article>
