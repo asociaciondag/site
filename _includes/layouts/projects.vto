@@ -11,7 +11,7 @@ layout: ./base.vto
       <h1>{{ year }}</h1>
 
       <div>
-        {{ for project in projects }}
+        {{ for project of projects }}
           <article class="project project-list">
             <a href="{{ project.external_url }}">
               <figure class="project-image">

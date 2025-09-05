@@ -5,8 +5,8 @@
     "serve": "deno task lume -s"
   },
   "imports": {
-    "lume/": "https://deno.land/x/lume@v3.0.5/",
-    "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.11/jsx-runtime.ts"
+    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@df2b57231e472749ecdb2482c86d7ef20d897aa7/",
+    "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.12/jsx-runtime.ts"
   },
   "compilerOptions": {
     "types": [
@@ -21,7 +21,7 @@
   ],
   "lint": {
     "plugins": [
-      "https://deno.land/x/lume@v3.0.5/lint.ts"
+      "https://cdn.jsdelivr.net/gh/lumeland/lume@df2b57231e472749ecdb2482c86d7ef20d897aa7/lint.ts"
     ]
   }
 }
