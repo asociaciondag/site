@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/cover-1200px.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -26,9 +26,9 @@ body:
       de Música Contemporáea de Lugo MIHLSons, organizado pola Área de Cultura,
       Turismo e Promoción da Lingua do Concello de Lugo.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/imaxe-complemento-1200px.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -50,8 +50,8 @@ body:
       definitiva, ao reforzo das capacidades e actitudes requiridas para
       participar plenamente e de forma responsable na sociedade.
     type: text
-  - list: ''
-    url: 'https://escoladeartelugo.com/universo-reich/'
+  - list: ""
+    url: "https://escoladeartelugo.com/universo-reich/"
     text: Proxecto Universo Reich
     type: button
 intro: >-

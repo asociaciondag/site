@@ -27,9 +27,9 @@ body:
       Convocatoria del [Concurso
       peregrino](http://www.afeda.org/novedades_50.asp)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9bb1daf-concurso-peregrino.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   La AFEGA (Asociación para el Fomento de la Encuadernación de Arte), en

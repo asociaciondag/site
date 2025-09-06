@@ -1,9 +1,9 @@
 id: 665
-title: ' La ISLA, más que un taller de serigrafía y collage'
+title: " La ISLA, más que un taller de serigrafía y collage"
 body:
   - list: after
     image: /img/news/images/5735ab0e7d8c1-laisla.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -35,8 +35,8 @@ body:
 
       **Más información e inscripciones en** <info@laplatanera.com>
     type: text
-  - list: ''
-    url: 'https://www.facebook.com/events/1532444873729411/'
+  - list: ""
+    url: "https://www.facebook.com/events/1532444873729411/"
     text: Facebook de la ISLA
     type: button
 intro: >-

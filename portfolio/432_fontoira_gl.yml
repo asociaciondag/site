@@ -15,31 +15,31 @@ body:
       se sigan rotulando co seu estilo.
     type: text
   - image: /img/portfolio/images/1-fontoira.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/2-fontoira.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/3-fontoira.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/7.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/8.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/9.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/10.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/11.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/15.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/1-fontoira.png
 tags:

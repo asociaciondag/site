@@ -70,19 +70,19 @@ body:
 
       Descarga a folla de inscrición:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa02746f-publico.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7aa02746f-convocatoria-revolution-design.pdf
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     file: /files/553e7aa02746f-solicitud-de-inscripcion.doc
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     file: /files/553e7aa02746f-programa-seminario-revolution-design.doc
     text: Descargar
     type: file

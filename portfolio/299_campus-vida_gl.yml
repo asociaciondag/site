@@ -11,13 +11,13 @@ body:
        O Campus Vida foi recoñecido coa cualificación de Campus de Excelencia Internacional polos Ministerios de Educación e Innovación no año 2009.
     type: text
   - image: /img/portfolio/images/campusvida-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/campus-vida-mu.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/totem-campus-vida-01.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/campusvida-01.jpg
 tags:

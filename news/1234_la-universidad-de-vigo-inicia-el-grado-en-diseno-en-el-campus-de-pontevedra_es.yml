@@ -3,7 +3,7 @@ title: La Universidade de Vigo inicia el Grado en Diseño en el Campus de Pontev
 body:
   - list: after
     image: /img/news/images/img-0491.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -34,8 +34,8 @@ body:
       Arte Superior de Diseño​ sitas en A Coruña, Lugo, Ourense y Santiago de
       Compostela. ​
     type: text
-  - list: ''
-    url: 'https://deseno.uvigo.gal/'
+  - list: ""
+    url: "https://deseno.uvigo.gal/"
     text: Web del Grado en diseño
     type: button
 intro: >-

@@ -8,22 +8,22 @@ body:
       con que foi presentada en Zúric.
     type: text
   - image: /img/portfolio/images/56fb8df45763a-type-in-motion-miniatura.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cf3da1ba60-dag004-tim003.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cf3da1bef0-dag004-tim004.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cf3da1c41b-dag004-tim005.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cf3da1c94d-dag004-tim006.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cf3da1af1d-dag004-tim001.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/56fbdfa730b0d-type-in-motion-miniatura.jpg
 tags:

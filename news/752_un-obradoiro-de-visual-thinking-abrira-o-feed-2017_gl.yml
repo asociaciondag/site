@@ -3,7 +3,7 @@ title: Un obradoiro de Visual Thinking abrirá o FEED 2017
 body:
   - list: after
     image: /img/news/images/elena-we.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -37,8 +37,8 @@ body:
 
       Información sobre a incrición en:
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: Feed 2017
     type: button
 intro: >-

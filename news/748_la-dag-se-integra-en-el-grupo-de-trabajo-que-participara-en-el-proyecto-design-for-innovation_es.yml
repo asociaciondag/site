@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/design-for-innovation-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,8 +31,8 @@ body:
       sede de Gain en Santiago de Compostela. La DAG estará representada por
       [Lois Guillán](https://dag.gal/gl/lois-guillan/).
     type: text
-  - list: ''
-    url: 'https://www.interregeurope.eu/design4innovation/'
+  - list: ""
+    url: "https://www.interregeurope.eu/design4innovation/"
     text: Web do Design for Innovation
     type: button
 intro: >-

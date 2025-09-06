@@ -5,7 +5,7 @@ body:
   - text: Diseño de la imagen gráfica de la compañía Voadora.
     type: text
   - image: /img/portfolio/images/voadora-completo.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/portadavoadora.jpg
 tags:

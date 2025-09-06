@@ -34,11 +34,11 @@ body:
       **Fecha límite** El plazo para la presentación de candidaturas finaliza el
       16 de septiembre. Descarga la convocatoria del BOE en PDF:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9ded999-pnd2011.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9ded999-convocatoria-premios-nacionais-de-deseno-2011.pdf
     text: Descargar
     type: file

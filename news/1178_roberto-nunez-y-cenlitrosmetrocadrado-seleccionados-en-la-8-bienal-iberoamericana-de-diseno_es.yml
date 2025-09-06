@@ -1,11 +1,11 @@
 id: 1178
 title: >-
   Roberto Núñez y Cenlitrosmetrocadrado seleccionados en la 8ª Bienal
-  Iberoamericana de Diseño 
+  Iberoamericana de Diseño
 body:
   - list: after
     image: /img/news/images/foto-cenlitros-roberto-bid22.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -67,8 +67,8 @@ body:
       producidas con un único molde, lo que supone una considerable reducción de
       la inversión inicial necesaria.
     type: text
-  - list: ''
-    url: 'https://www.bid-dimad.org/'
+  - list: ""
+    url: "https://www.bid-dimad.org/"
     text: Más información
     type: button
 intro: >-

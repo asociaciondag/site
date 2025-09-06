@@ -38,9 +38,9 @@ body:
       DAG](http://acciondag.asociaciondag.org/) Entrada libre Día: viernes, 6 de
       mayo Hora: 18.00 h Lugar: Auditorio del CGAC
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9d351db-radiografia-do-deseno-galego.gif
-    text: ''
+    text: ""
     type: image
 intro: >-
   Solo quedan diez días para que se presente publicamente Acción DAG, el último

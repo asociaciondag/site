@@ -18,7 +18,7 @@ body:
       la mañana y de 17.00 a 21.00 de la tarde. La galería está situada en la
       calle Padre Feijoó 5-1º, 15004 A Coruña
     type: text
-  - list: ''
+  - list: ""
     file: /files/55ba2bd3247be-pepe-barro.pdf
     text: PDF del catálogo de la exposición
     type: file

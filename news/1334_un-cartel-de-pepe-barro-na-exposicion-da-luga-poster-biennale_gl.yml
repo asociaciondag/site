@@ -3,7 +3,7 @@ title: Un cartel de Pepe Barro na exposición da​ ​Luga Poster Biennale
 body:
   - list: before
     image: /img/news/images/image-luga-expo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,8 +33,8 @@ body:
       cartel como elemento fundamental de investigación e como forma de
       expresión artística e comunicativa.​
     type: text
-  - list: ''
-    url: 'https://lugaposterbiennale.org/ES/index.html'
+  - list: ""
+    url: "https://lugaposterbiennale.org/ES/index.html"
     text: Web da Luga Poster Biennale
     type: button
 intro: >-

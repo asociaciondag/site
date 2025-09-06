@@ -1,11 +1,11 @@
 id: 802
 title: >-
   A vaixela Ferrádica de cenlitrosmetrocadrado no Museu del Disseny de
-  Barcelona 
+  Barcelona
 body:
   - list: after
     image: /img/news/images/ferradica03.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -14,17 +14,17 @@ body:
       este vídeo elaborado polos autores en que falan do proceso de traballo ou
       consultar a información dispoñíbel sobre o proxecto na web do estudio.
     type: text
-  - list: ''
+  - list: ""
     info:
       code: >-
         <iframe src="https://player.vimeo.com/video/89599141?app_id=122963"
         width="640" height="360" frameborder="0" title="A vaixela
         Ferr&aacute;dica" webkitallowfullscreen mozallowfullscreen
         allowfullscreen></iframe>
-      ratio: '60'
+      ratio: "60"
     type: embed
-  - list: ''
-    url: 'http://cenlitrosmetrocadrado.com/ferradica/'
+  - list: ""
+    url: "http://cenlitrosmetrocadrado.com/ferradica/"
     text: Vaixela Ferrádica
     type: button
 intro: >-

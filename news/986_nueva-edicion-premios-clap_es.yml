@@ -1,9 +1,9 @@
 id: 986
 title: Nueva edición de los Premios CLAP
 body:
-  - list: ''
+  - list: ""
     image: /img/news/images/imaxe-clap2020-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -32,12 +32,12 @@ body:
       El 30 de agosto cierra la convocatoria, por lo que aquellas personas que
       quieran participar deberán presentar sus trabajos antes de esa fecha.
     type: text
-  - list: ''
-    url: 'https://premiosclap.org/'
+  - list: ""
+    url: "https://premiosclap.org/"
     text: Web de los Premios CLAP
     type: button
-  - list: ''
-    url: 'https://premiosclap.org/inscripcion'
+  - list: ""
+    url: "https://premiosclap.org/inscripcion"
     text: Formulario de inscripción
     type: button
 intro: >-

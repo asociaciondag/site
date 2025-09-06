@@ -10,7 +10,7 @@ body:
       participar na súa publicación recoñecidos personaxes da comarca.
     type: text
   - image: /img/portfolio/images/lethes.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/lethes-thumbnail.jpg
 tags:

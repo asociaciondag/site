@@ -67,22 +67,22 @@ body:
       expansión e crecemento cara aos seus límites.
     type: text
   - image: /img/portfolio/images/55576701b0720-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576701b0720-02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576701b0720-03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576701b0720-04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576701b0720-06.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576701b0720-08.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585676d8bc4b-55576701b0720-03.jpg
 tags:
@@ -99,5 +99,5 @@ info:
   - name: Cliente
     value: Editorial Gustavo Gili
   - name: Ano
-    value: '2010'
+    value: "2010"
 draft: true

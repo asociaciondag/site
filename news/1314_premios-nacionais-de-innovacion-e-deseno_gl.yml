@@ -3,7 +3,7 @@ title: Premios Nacionais de Innovación​ e Deseño
 body:
   - list: before
     image: /img/news/images/premios-ministerio2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -51,8 +51,8 @@ body:
       (deseñadores e deseñadoras), cunha idade que non sobrepase os trinta e
       cinco anos o día da presentación da candidatura.
     type: text
-  - list: ''
-    url: 'https://www.ciencia.gob.es/Convocatorias/2024/PNID2024.html'
+  - list: ""
+    url: "https://www.ciencia.gob.es/Convocatorias/2024/PNID2024.html"
     text: Presentación de candidatura
     type: button
 intro: >-

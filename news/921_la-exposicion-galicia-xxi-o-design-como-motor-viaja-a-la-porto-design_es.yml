@@ -1,9 +1,9 @@
 id: 921
-title: 'La exposición Galicia XXI. O design como motor viaja a la Porto Design '
+title: "La exposición Galicia XXI. O design como motor viaja a la Porto Design "
 body:
   - list: after
     image: /img/news/images/imaxe-noticia-expo-gain-porto.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -51,9 +51,9 @@ body:
       Confirmación de asistencia mediante correo electrónico a
       programadeseno.gain@xunta.gal ou chamando ao +34 881 999 120.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/imaxe-porto-design-bienalle-2019.png
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

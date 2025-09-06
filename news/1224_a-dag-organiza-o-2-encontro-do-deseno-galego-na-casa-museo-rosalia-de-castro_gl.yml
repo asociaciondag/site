@@ -3,7 +3,7 @@ title: A DAG organiza o 2º Encontro do deseño galego na Casa-Museo Rosalía de
 body:
   - list: before
     image: /img/news/images/facebook-cover.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -47,8 +47,8 @@ body:
       Contamos con todos e todas vós para poñer en común ideas, opinións,
       experiencias e coñecementos.
     type: text
-  - list: ''
-    url: 'https://dag.gal/2-encontro/'
+  - list: ""
+    url: "https://dag.gal/2-encontro/"
     text: Web do Encontro
     type: button
 intro: >-

@@ -3,13 +3,13 @@ title: Artistas
 basename: artistas
 body:
   - image: /img/portfolio/images/artistas.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/artistas-folleto-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/artistas-folleto-2.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/artistas.jpg
 tags:
@@ -21,6 +21,6 @@ info:
   - name: Cliente
     value: Universidade de Vigo
   - name: Ano
-    value: '2011'
+    value: "2011"
 draft: false
 oldUrl: /gl/portfolio/artistas/

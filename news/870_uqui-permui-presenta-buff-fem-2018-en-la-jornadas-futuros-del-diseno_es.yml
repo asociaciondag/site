@@ -1,9 +1,9 @@
 id: 870
-title: 'Uqui Permui presenta BUFF FEM, 2018 en la jornadas Futuros del Diseño'
+title: "Uqui Permui presenta BUFF FEM, 2018 en la jornadas Futuros del Diseño"
 body:
   - list: after
     image: /img/news/images/logo-app-buff-fem.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -69,7 +69,7 @@ body:
       Diseño](https://www.adg-fad.org/es/news/jornadas-futuros-del-diseno-nuevas-practicas-y-significados)
       es gratuita, pero hace falta confirmar asistencia en el siguiente enlace:
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://docs.google.com/forms/d/1dXzEj3_AobEfD0LTQVjyS29iDi_mSpKvXNwYNxca8oM/viewform?edit_requested=true
     text: Confirmación de asistencia

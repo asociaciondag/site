@@ -1,9 +1,9 @@
 id: 1230
-title: 'Bolsas REGA del Gaiá​s​ para proyectos de diseño '
+title: "Bolsas REGA del Gaiá​s​ para proyectos de diseño "
 body:
   - list: before
     image: /img/news/images/img-0479.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -40,7 +40,7 @@ body:
       de julio ambos inclusive. Y preferiblemente la solicitud se hará por
       medios electrónicos.​​
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.cidadedacultura.gal/gl/evento/axudas-rega-2023-residencias-artisticas-do-gaias
     text: Más información

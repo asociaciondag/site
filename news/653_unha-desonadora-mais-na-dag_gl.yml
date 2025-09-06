@@ -3,7 +3,7 @@ title: Unha desoñadora máis na DAG
 body:
   - list: after
     image: /img/news/images/56fba681856b1-susana-gonzalez-ante.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -32,8 +32,8 @@ body:
       profesionais como para pór en valor o deseño como disciplina necesaria
       para o desenvolvemento de Galicia.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/susana-gonzalez-ante/'
+  - list: ""
+    url: "https://dag.gal/gl/susana-gonzalez-ante/"
     text: Perfil de socia DAG
     type: button
 intro: >-

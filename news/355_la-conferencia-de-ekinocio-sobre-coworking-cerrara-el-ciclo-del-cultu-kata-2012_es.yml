@@ -31,9 +31,9 @@ body:
 
       **Día:** jueves, 26 de abril a las 12.00 h
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa115908-cafedturno.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   Con motivo de la celebración de su patrona Santa Catalina de Siena, la

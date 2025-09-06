@@ -6,7 +6,7 @@ body:
   - list: after
     image: >-
       /img/news/images/roberto-nunez-d-ad-awards-wood-pencil-packaging-design-luxury.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,16 +31,16 @@ body:
       Os traballos premiados formarán parte de _The annual D&amp;AD Awards
       2019_, o libro de cabeceira da industria creativa internacional.
     type: text
-  - list: ''
+  - list: ""
     image: >-
       /img/news/images/roberto-nun-ez-studio-d-ad-awards-2019-vino-davide-perfeccionista-packaging-design-luxury-bodegas-davide-wine-barcelona.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: >-
       /img/news/images/roberto-nun-ez-studio-d-ad-awards-2019-vino-davide-perfeccionista-packaging-design-luxury-wine-barcelona-02.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

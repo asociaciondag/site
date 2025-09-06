@@ -3,7 +3,7 @@ title: Chamadas a proxecto para profesionais do deseño
 body:
   - list: before
     image: /img/news/images/fromspainwithdesign-nova.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -45,11 +45,11 @@ body:
 
       Podedes consultar as convocatorias completas nestes documentos.
     type: text
-  - list: ''
+  - list: ""
     file: /files/llamada-a-proyecto-fswd-documental.pdf
     text: Chamada a proxecto para o documental
     type: file
-  - list: ''
+  - list: ""
     file: /files/llamada-a-proyecto-fswd-anteproyecto-expositivo.pdf
     text: Chamada a proxecto para anteproxecto expositivo
     type: file

@@ -3,7 +3,7 @@ title: A DAG celebra a súa Asemblea Xeral no Museo do Pobo Galego
 body:
   - list: before
     image: /img/news/images/imaxe-noticia-asemblea-2023.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -54,7 +54,7 @@ body:
       o 3º Encontro de Deseño Galego, o Nodo Galego do SNIC, AR\\DE, a Asemblea
       READ, o XI ENAD...
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/foto-asemblea-2023.jpg
     text: >-
       Parte do grupo que quedou ata o final do xantar que se organizou na

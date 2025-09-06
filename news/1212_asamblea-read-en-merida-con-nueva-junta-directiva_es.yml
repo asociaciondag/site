@@ -3,7 +3,7 @@ title: Asamblea READ en Mérida con nueva Junta Directiva
 body:
   - list: before
     image: /img/news/images/imagen-asamblea.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -52,7 +52,7 @@ body:
       de 2023 y para el que crearon un grupo de trabajo abierto con presencia de
       diferentes personas expertas.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/imagen02-asamblea.jpg
     text: Juan Lázaro y Uqui Permui
     mode: normal

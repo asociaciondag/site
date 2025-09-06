@@ -17,10 +17,10 @@ body:
       Inclue a posibilidade de aloxar un panel de abella _antideslumbrante_.
     type: text
   - image: /img/portfolio/images/proyector-ados-mini-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/proyector-ados-mini-2.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/proyector-ados-mini-1.jpg
 tags:
@@ -31,6 +31,6 @@ members_id:
 lang: gl
 info:
   - name: Ano
-    value: '2020'
+    value: "2020"
 draft: false
 oldUrl: /gl/portfolio/proxector-ados/

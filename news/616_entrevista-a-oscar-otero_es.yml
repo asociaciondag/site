@@ -25,7 +25,7 @@ body:
     type: text
   - list: after
     image: /img/news/images/5632028064bb6-4-oscar.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -67,7 +67,7 @@ body:
       instituciones públicas.
     type: text
   - list: after
-    url: 'http://dag.gal/gl/feed2015'
+    url: "http://dag.gal/gl/feed2015"
     text: Ir á páxina do FEED 2015
     type: button
 intro: >-

@@ -3,7 +3,7 @@ title: O Curral do Marqués
 basename: o-curral-do-marques
 body:
   - image: /img/portfolio/images/o-curral-do-marques-restaurante-2016-branding.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/o-curral-do-marques-restaurante-2016-branding.jpg
 tags:
@@ -15,6 +15,6 @@ info:
   - name: Proxecto
     value: Restaurante O Curral do Marqués
   - name: Ano
-    value: '2016'
+    value: "2016"
 draft: false
 oldUrl: /gl/portfolio/o-curral-do-marques/

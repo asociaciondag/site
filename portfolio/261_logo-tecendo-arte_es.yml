@@ -7,7 +7,7 @@ body:
       creatividad asociada al lado derecho del cerebro.
     type: text
   - image: /img/portfolio/images/tecendo-arte.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/tecendo-arte.jpg
 tags:

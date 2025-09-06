@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/uqui-europeandesigawards-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -34,8 +34,8 @@ body:
       presentados, teniendo en cuenta la originalidad, la calidad, la innovación
       y la efectividad.
     type: text
-  - list: ''
-    url: 'https://europeandesign.org/'
+  - list: ""
+    url: "https://europeandesign.org/"
     text: Web de los premios
     type: button
 intro: >-

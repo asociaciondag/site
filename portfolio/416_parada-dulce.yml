@@ -3,10 +3,10 @@ title: Parada Dulce
 basename: parada-dulce
 body:
   - image: /img/portfolio/images/parada-dulce-concepto-de-tienda.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/para-dulce-diseno-de-marca-y-concepto-de-tienda.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/parada-dulce-concepto-de-tienda.jpg
 tags:

@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/57d97a8b3c3c5-grafica-popular.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -18,8 +18,8 @@ body:
       La exposición permanecerá abierta hasta el 15 de octubre y podrá visitarse
       en horario de lunes a sábado de 11.00 a 14.00 y de 17.00 a 20.30 horas.
     type: text
-  - list: ''
-    url: 'http://xornal.usc.es/xornal/acontece/2016_09/noticia_0060.html'
+  - list: ""
+    url: "http://xornal.usc.es/xornal/acontece/2016_09/noticia_0060.html"
     text: La noticia de la exposición en la web de la USC
     type: button
 intro: >-

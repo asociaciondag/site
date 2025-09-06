@@ -11,9 +11,9 @@ body:
       polo boletín mensual da cultura galega, medio de expresión entre 1920 e
       1935 do grupo Nós.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a97a404c-0032-1-copia.gif
-    text: ''
+    text: ""
     type: image
 intro: A Asociación DAG presenta o primeiro número da revista 0032.
 basename: primeiro-numero-0032

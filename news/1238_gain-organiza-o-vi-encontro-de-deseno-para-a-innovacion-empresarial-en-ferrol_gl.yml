@@ -3,7 +3,7 @@ title: Gain organiza o VI Encontro de Deseño para a Innovación Empresarial en 
 body:
   - list: before
     image: /img/news/images/foto-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -30,7 +30,7 @@ body:
       DIDAC, falará das liñas xerais que seguirá como comisario do país invitado
       na Porto Design Biennale.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.cistecnoloxiaedeseno.gal/evento/vi-encontro-de-deseno-para-a-innovacion-empresarial-en-galicia/
     text: Programa e inscricións

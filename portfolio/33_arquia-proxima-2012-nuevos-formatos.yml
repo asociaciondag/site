@@ -39,7 +39,7 @@ body:
         height="720" frameborder="0" title="Nuevos Formatos &mdash;
         arquia/pr&oacute;xima 2012" webkitallowfullscreen mozallowfullscreen
         allowfullscreen></iframe>
-      ratio: '56.25'
+      ratio: "56.25"
     type: embed
   - text: >-
       ### Fanzines
@@ -109,25 +109,25 @@ body:
       cor amarela. O libro/trofeo funcionaba ao mesmo tempo como diploma.
     type: text
   - image: /img/portfolio/images/555763b170626-0114.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555763b170626-02.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555763b170626-031.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555763b170626-04.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555763b170626-05.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555763b170626-06.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555763b170626-07.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558600224f027-555763b170626-0114.jpg
 tags:
@@ -147,7 +147,7 @@ info:
   - name: Cliente
     value: Fundación Caja de Arquitectos
   - name: Ano
-    value: '2012'
+    value: "2012"
   - name: Colaboradores
     value: >-
       Rebeca Ces (maquetación), Pablo Golpe (redes sociais), Xiao Varela

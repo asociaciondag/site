@@ -20,16 +20,16 @@ body:
       tractoreñas”.
     type: text
   - image: /img/portfolio/images/570f55828290e-marela-composicion-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f558282be0-marela-composicion-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f63ac27f95-mar001-forntal.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f558282f16-marela-vista-posterior.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/570f6384e4778-marela-composicion-1.jpg
 tags: []

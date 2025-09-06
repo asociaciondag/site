@@ -26,7 +26,7 @@ body:
     type: text
   - list: after
     image: /img/news/images/58a6081be4682-dardo.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -36,9 +36,9 @@ body:
       valeu tamén unha mención dentro da categoría ao mellor traballo ou
       proxecto de estudos realizado por un estudante do último curso de deseño.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/58a6081be4ef9-verba-sans.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -47,12 +47,12 @@ body:
       mellor cartel, polo cartel deseñado para a Festa do Mar que se celebra en
       Poio.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/58a6081be59b5-cartel-festa-do-mar.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     url: >-
       http://www.veredictas.com/premios/premios-anuaria/galeria-premiados-anuaria/ganadores-2016.html
     text: Premiados Anuaria 2016

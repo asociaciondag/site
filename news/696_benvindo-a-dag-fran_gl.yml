@@ -1,9 +1,9 @@
 id: 696
-title: 'Benvindo á DAG, Fran'
+title: "Benvindo á DAG, Fran"
 body:
   - list: after
     image: /img/news/images/5807b2a589402-20161017-180409.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -24,8 +24,8 @@ body:
       máis de tres anos e estou a gozar moito traballando día a día, lado a
       lado, con persoas e en proxectos de diferente tipoloxía.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/fran-martinez/'
+  - list: ""
+    url: "https://dag.gal/gl/fran-martinez/"
     text: Perfil de socio DAG
     type: button
 intro: >-

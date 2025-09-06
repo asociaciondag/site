@@ -1,9 +1,9 @@
 id: 1380
-title: 'Jornada «Isaac, editor»'
+title: "Jornada «Isaac, editor»"
 body:
   - list: before
     image: /img/news/images/ccg-diazpardo.jpg
-    text: 'Fotografía: Isaac Díaz Pardo, 1987, ©Xurxo Lobato'
+    text: "Fotografía: Isaac Díaz Pardo, 1987, ©Xurxo Lobato"
     mode: normal
     type: image
   - text: >-
@@ -29,8 +29,8 @@ body:
       Consello da Cultura Galega y cuenta ocn el apoyo de la Diputación de A
       Coruña. El acceso estará abierto al público hasta completar aforo.
     type: text
-  - list: ''
-    url: 'https://consellodacultura.gal/evento.php?id=202114'
+  - list: ""
+    url: "https://consellodacultura.gal/evento.php?id=202114"
     text: Más info
     type: button
 intro: >-

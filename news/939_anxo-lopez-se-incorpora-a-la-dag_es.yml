@@ -3,7 +3,7 @@ title: Anxo López se incorpora a la DAG
 body:
   - list: after
     image: /img/news/images/2019-anxo-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -56,8 +56,8 @@ body:
       espero estar a la altura y poder contribuir desde Madrid a la
       consolidación del diseño gallego.
     type: text
-  - list: ''
-    url: 'https://dag.gal/es/anxo-lopez/'
+  - list: ""
+    url: "https://dag.gal/es/anxo-lopez/"
     text: Perfil en la web de la DAG
     type: button
 intro: >-

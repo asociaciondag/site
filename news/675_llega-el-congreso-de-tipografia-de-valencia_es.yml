@@ -3,7 +3,7 @@ title: Llega el Congreso de Tipografía de Valencia
 body:
   - list: after
     image: /img/news/images/5773f28d98d1c-uqui-7cit.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -41,8 +41,8 @@ body:
       siendo subversiva cuando es asumida por las instituciones y por la
       sociedad, o por el contrario, esto puede desactivarla.
     type: text
-  - list: ''
-    url: 'http://www.congresotipografia.com/'
+  - list: ""
+    url: "http://www.congresotipografia.com/"
     text: Web del Congreso de Tipografía de Valencia
     type: button
 intro: >-

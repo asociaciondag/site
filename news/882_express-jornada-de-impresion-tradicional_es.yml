@@ -1,9 +1,9 @@
 id: 882
-title: 'EXPRESS, jornada de impresión tradicional'
+title: "EXPRESS, jornada de impresión tradicional"
 body:
   - list: after
     image: /img/news/images/pic-endlessletterpress3credit-nicolas-rodriguez-fuchs.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -39,8 +39,8 @@ body:
       [EXPRESS](https://dag.gal/gl/express/). Entrad en ella para consultar toda
       la información y las inscripciones.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/express/'
+  - list: ""
+    url: "https://dag.gal/gl/express/"
     text: EXPRESS
     type: button
 intro: >-

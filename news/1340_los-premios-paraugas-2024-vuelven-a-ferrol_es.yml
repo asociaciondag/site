@@ -3,7 +3,7 @@ title: Los Premios Paraugas 2024 vuelven a Ferrol
 body:
   - list: before
     image: /img/news/images/premios-paraugas-ixedicion.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -44,13 +44,13 @@ body:
       Clúster de la Comunicación en 2016 con idea de poner en valor el trabajo
       que se hace en Galicia en las categorías que representa como entidad.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://premios.clustercomunicacion.gal/wp-content/uploads/2024/09/BASES-IX-PREMIOS-PARAUGAS.pdf
     text: Bases de los premios
     type: button
-  - list: ''
-    url: 'https://premios.clustercomunicacion.gal/'
+  - list: ""
+    url: "https://premios.clustercomunicacion.gal/"
     text: Web Premios Paraugas
     type: button
 intro: >-

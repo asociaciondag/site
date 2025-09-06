@@ -11,16 +11,16 @@ body:
       universitarios e un libriño de 24 páxinas.
     type: text
   - image: /img/portfolio/images/555cdf3e78eda-casacampas-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdf3e794fe-casacampas-02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdf3e799fd-casacampas-03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdf3e79f47-casacampas-04.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558564d3ac489-555cdf3e794fe-casacampas-02.jpg
 tags:
@@ -39,6 +39,6 @@ info:
       Casa das Campás, Vicerreitoría do Campus de Pontevedra da Universidade de
       Vigo.
   - name: Ano
-    value: '2012'
+    value: "2012"
 draft: true
 oldUrl: /gl/portfolio/programacion-2012-casa-das-campas/

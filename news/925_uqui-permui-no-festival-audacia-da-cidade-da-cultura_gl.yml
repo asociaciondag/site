@@ -3,7 +3,7 @@ title: Uqui Permui no Festival Audacia da Cidade da Cultura
 body:
   - list: after
     image: /img/news/images/audacia-fb.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,12 +33,12 @@ body:
 
       A entrada a todo o evento é de balde. Máis información:
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.cidadedacultura.gal/gl/system/files/downloads/2019/09/audacia_programacion_maquetada.pdf
     text: Programa completo
     type: button
-  - list: ''
+  - list: ""
     url: >-
       https://www.cidadedacultura.gal/es/system/files/downloads/2019/09/info_relatores.pdf
     text: Info relatores/as

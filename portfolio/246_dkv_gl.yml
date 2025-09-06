@@ -3,7 +3,7 @@ title: DKV
 basename: dkv
 body:
   - image: /img/portfolio/images/dkv-2018-rebranding.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/dkv-2018-rebranding.jpg
 tags:
@@ -15,6 +15,6 @@ info:
   - name: Proxecto
     value: DKV. Dekove Rehabilitaciones
   - name: Ano
-    value: '2018'
+    value: "2018"
 draft: false
 oldUrl: /gl/portfolio/dkv/

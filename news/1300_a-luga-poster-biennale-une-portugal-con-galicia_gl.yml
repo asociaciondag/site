@@ -3,7 +3,7 @@ title: A LUGA Poster Biennale une Portugal con Galicia
 body:
   - list: before
     image: /img/news/images/luga-posterbiennale-2024.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -46,8 +46,8 @@ body:
       coñecer as achegas e as diferencias que podemos atopar entre as distintas
       formas de creación visual.
     type: text
-  - list: ''
-    url: 'https://lugaposterbiennale.org/GL/'
+  - list: ""
+    url: "https://lugaposterbiennale.org/GL/"
     text: Web LUGA Poster Biennale
     type: button
 intro: >-

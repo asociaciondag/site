@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/1-kinetic.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -34,13 +34,13 @@ body:
       destina a una amplia gama de aplicaciones: publicidad, diseño editorial y
       cualquier proyecto corporativo o artístico.
     type: text
-  - list: ''
+  - list: ""
     info:
       code: >-
         <iframe src="https://player.vimeo.com/video/199140896" width="640"
         height="360" frameborder="0" title="Kinetic typeface"
         webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-      ratio: '60'
+      ratio: "60"
     type: embed
 intro: >-
   La organización internacional que vela por la excelencia tipográfica en todas

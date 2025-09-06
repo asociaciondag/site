@@ -4,7 +4,7 @@ body:
   - list: after
     image: >-
       /img/news/images/asesorarq-jornada-arquitectura-diseno-galicia-1024x554.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -45,7 +45,7 @@ body:
       previamente entre empresas, arquitectos y diseñadores que asisten a las
       jornadas. Cada entrevista tendrá una duración de 15 minutos.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://clustermadeira.com/cmd-celebrara-las-ix-jornadas-arquitectura-diseno-proximo-15-septiembre/
     text: Inscripciones e información en la página del CMD

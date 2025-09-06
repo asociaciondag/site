@@ -64,22 +64,22 @@ body:
       Imaxinamos un (deseño de) libro que non se esgote nunha primeira mirada.
     type: text
   - image: /img/portfolio/images/55576478e4376-0112.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576478e4376-0210.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576478e4376-039.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576478e4376-049.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576478e4376-056.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576478e4376-065.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55856622cae11-55576478e4376-049.jpg
 tags:
@@ -96,5 +96,5 @@ info:
   - name: Cliente
     value: Editorial Gustavo Gili
   - name: Ano
-    value: '2011'
+    value: "2011"
 draft: true

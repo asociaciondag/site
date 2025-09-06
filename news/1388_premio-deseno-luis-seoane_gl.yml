@@ -38,7 +38,7 @@ body:
       - Só se admitirá unha candidatura por persoa física ou xurídica e non se
       admitirán autocandidaturas.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/gala-imaxe.png
     text: Imaxe da presentación da IV Gala da Cultura da Deputación da Coruña
     mode: normal
@@ -66,7 +66,7 @@ body:
       Arquivo do Patrimonio Oral da Identidade do Museo do Pobo Galego. A gala
       está aberta ao público até completar a capacidade do teatro.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.dacoruna.gal/cultura/premios/i-premio-luis-seoane-deseno-ano-2025/
     text: Bases do premio

@@ -3,7 +3,7 @@ title: Primeira edición dos Premios Galicia de Innovación e Deseño
 body:
   - list: after
     image: /img/news/images/banners-facebook1.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,7 +31,7 @@ body:
       Galicia](https://sede.xunta.gal). As persoas e empresas interesadas en
       presentar a súa proposta teñen de prazo ata o día 9 de decembro.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.xunta.gal/dog/Publicados/2020/20201008/AnuncioG0198-300920-0001_gl.html
     text: Bases dos Premios

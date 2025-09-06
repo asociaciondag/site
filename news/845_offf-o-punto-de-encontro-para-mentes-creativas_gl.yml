@@ -1,9 +1,9 @@
 id: 845
-title: 'OFFF,  o punto de encontro para mentes creativas'
+title: "OFFF,  o punto de encontro para mentes creativas"
 body:
   - list: after
     image: /img/news/images/03.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -64,8 +64,8 @@ body:
       Até o 30 de novembro, todos os socios da DAG teñen un 20% de desconto no
       prezo das entradas. Para que se vos aplique, escribide a info@dag.gal.
     type: text
-  - list: ''
-    url: 'https://offfsevilla.com/'
+  - list: ""
+    url: "https://offfsevilla.com/"
     text: Web de OFFF Sevilla
     type: button
 intro: >-

@@ -3,7 +3,7 @@ title: Zara Home
 basename: zara-home
 body:
   - image: /img/portfolio/images/zara-home.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/zara-home.jpg
 tags:

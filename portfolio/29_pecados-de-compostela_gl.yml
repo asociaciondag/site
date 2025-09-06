@@ -10,16 +10,16 @@ body:
       felicitacións como o complemento ideal para un produto doce e variado.
     type: text
   - image: /img/portfolio/images/555cdee9c425e-pecados-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdee9c4b4d-pecados-02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdee9c5144-pecados-03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdee9c57b9-pecados-04.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558561544da65-555cdee9c4b4d-pecados-02.jpg
 tags:
@@ -38,6 +38,6 @@ info:
   - name: Cliente
     value: Pecados de Compostela
   - name: Ano
-    value: '2012'
+    value: "2012"
 draft: true
 oldUrl: /gl/portfolio/pecados-de-compostela/

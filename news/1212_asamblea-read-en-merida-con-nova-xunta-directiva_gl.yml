@@ -3,7 +3,7 @@ title: Asamblea READ en Mérida con nova Xunta Directiva
 body:
   - list: before
     image: /img/news/images/imagen-asamblea.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -52,7 +52,7 @@ body:
       que crearon un grupo de traballo aberto con presencia de diferentes
       persoas expertas.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/imagen02-asamblea.jpg
     text: Juan Lázaro e Uqui Permui
     mode: normal

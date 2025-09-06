@@ -20,9 +20,9 @@ lang:
   - es
 info:
   - name: Cliente
-    value: 'Noratrans, empresa de loxística'
+    value: "Noratrans, empresa de loxística"
   - name: Empresa
     value: The Quiz Project
   - name: Ano
-    value: '2014'
+    value: "2014"
 draft: true

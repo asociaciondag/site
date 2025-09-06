@@ -160,8 +160,8 @@ body:
 
       15.00 h Xantar
     type: text
-  - list: ''
-    url: 'http://www.cisgalicia.org/contactos/campan/inscribir/8'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/campan/inscribir/8"
     text: Inscrición
     type: button
 intro: >-

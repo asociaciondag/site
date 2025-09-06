@@ -3,7 +3,7 @@ title: "«Memoria viva», nova web\tsobre a vida e obra de Isaac Díaz Pardo"
 body:
   - list: after
     image: /img/news/images/webmemoriaviva.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -54,8 +54,8 @@ body:
       A páxina web «Memoria viva» está dispoñible actualmente en galego e
       castelán e próximamente tamén o estará en inglés.
     type: text
-  - list: ''
-    url: 'https://www.isaacdiazpardo.gal/gl'
+  - list: ""
+    url: "https://www.isaacdiazpardo.gal/gl"
     text: Web Memoria viva
     type: button
 intro: >-

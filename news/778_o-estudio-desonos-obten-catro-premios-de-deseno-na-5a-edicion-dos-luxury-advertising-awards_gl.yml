@@ -12,9 +12,9 @@ body:
         
        Entre os proxectos premiados encóntrase a exposición Emporium, Mil Anos de Comercio en Vigo, do **Concello de Vigo** que se puido visitar no museo Verbum de xullo de 2016 a maio de 2017. Para este proxecto museográfico de Liqe Arquitectura, [Desoños](http://www.desonhos.gal/) deseñou a gráfica expositiva, o catálogo e o material de difusión, traballo merecedor do Premio á Mellor Produción Gráfica de Exposición.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/desonos-emporium.jpg
-    text: 'Exposición Emporium, Mil Anos de Comercio en Vigo'
+    text: "Exposición Emporium, Mil Anos de Comercio en Vigo"
     mode: normal
     type: image
   - text: >-
@@ -22,7 +22,7 @@ body:
       dunha emprendedora galega, Araceli Hermelo, quen lanzou ao mercado
       **Ylé**, unha nova marca de cosméticos premium.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/desonos-yle.jpg
     text: Yle
     mode: normal
@@ -32,7 +32,7 @@ body:
       [Desoños](http://www.desonhos.gal/) para a empresa galega **Cocinas
       Santos** foi galardoado co Premio ao Mellor Deseño Web de Marca Premium.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/desonos-santos.jpg
     text: Web de Santos
     mode: normal

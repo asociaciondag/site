@@ -3,7 +3,7 @@ title: Ya te puedes inscribir en los Anuaria
 body:
   - list: after
     image: /img/news/images/58e3a46d9ce67-anuaria-logo-para-descargar.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -23,8 +23,8 @@ body:
       - Los miembros de la DAG tienen además **15% de descuento adicional** en
       cualquier período.
     type: text
-  - list: ''
-    url: 'http://www.veredictas.com/premios/premios-anuaria.html'
+  - list: ""
+    url: "http://www.veredictas.com/premios/premios-anuaria.html"
     text: Premios Anuaria
     type: button
 intro: >-

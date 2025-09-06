@@ -14,16 +14,16 @@ body:
       [http://www.revista.mundo-r.com](http://www.revista.mundo-r.com/)
     type: text
   - image: /img/portfolio/images/558595277b480-16.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558595277b9ee-24.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558595277be70-34.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558595277c2b5-43.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558595277ae0a-16.jpg
 tags:
@@ -40,7 +40,7 @@ info:
   - name: Cliente
     value: R
   - name: Ano
-    value: '2009'
+    value: "2009"
   - name: Programación
     value: Isenda
 draft: false

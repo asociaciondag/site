@@ -27,25 +27,25 @@ body:
       artesanal, sempre coa complicidade de Gráficas Brial.
     type: text
   - image: /img/portfolio/images/555768125afeb-017.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555768125afeb-026.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555768125afeb-035.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555768125afeb-045.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555768125afeb-052.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555768125afeb-061.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555768125afeb-01a.jpg
-    text: ''
+    text: ""
     type: image
   - info:
       code: >-
@@ -65,7 +65,7 @@ body:
         flashvars="intl_lang=en-us&amp;photo_secret=1955beb55b&amp;photo_id=5235860891"
         data="http://www.flickr.com/apps/video/stewart.swf?v=71377" height="760"
         width="950"></object>
-      ratio: '56.25'
+      ratio: "56.25"
     type: embed
 cover: /img/portfolio/covers/5586008853727-555768125afeb-017.jpg
 tags: []
@@ -81,5 +81,5 @@ info:
   - name: Cliente
     value: Grupo Ascensores Enor
   - name: Ano
-    value: '2010'
+    value: "2010"
 draft: true

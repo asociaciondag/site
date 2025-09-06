@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/cicloconferencias-didac.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -30,8 +30,8 @@ body:
       completar a capacidade da sala (45 persoas máximo). Podes reservar o teu
       lugar en <info@didac.gal>
     type: text
-  - list: ''
-    url: 'http://www.didac.gal/didac/'
+  - list: ""
+    url: "http://www.didac.gal/didac/"
     text: Fundación DIDAC
     type: button
 intro: >-

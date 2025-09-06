@@ -3,7 +3,7 @@ title: Chega a II edición dos Premios Paraugas de Comunicación e Marketing de 
 body:
   - list: after
     image: /img/news/images/premios-paraugas-2017.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -74,8 +74,8 @@ body:
 
       Información e inscrición en:
     type: text
-  - list: ''
-    url: 'http://premios.clustercomunicacion.gal/'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/"
     text: Premios Paraugas
     type: button
 intro: >-

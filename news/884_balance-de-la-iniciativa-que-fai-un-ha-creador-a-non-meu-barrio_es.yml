@@ -3,7 +3,7 @@ title: Balance de la iniciativa Que fai un/ha creador/a no meu barrio?
 body:
   - list: after
     image: /img/news/images/creadores2xok.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -167,14 +167,14 @@ body:
       contraste y actúa como elemento unificador sobre los diferentes fondos
       planos de color que marcan los contenidos.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/cartel-compostela-ok.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/cartel-ferrol.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -274,14 +274,14 @@ body:
       intercambiar productos de la huerta, semillas, herramientas...), todo
       sencillo de montar, desmontar y almacenar.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/mg-7707.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/mg-7698.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -297,8 +297,8 @@ body:
       co-creación y la implicación de los vecinos, sin duda, son los dos
       elementos más enriquecedores.
     type: text
-  - list: ''
-    url: 'http://dardo.gal/quefaiuncreador/'
+  - list: ""
+    url: "http://dardo.gal/quefaiuncreador/"
     text: Que fai un creador no teu barrio?
     type: button
 intro: >-

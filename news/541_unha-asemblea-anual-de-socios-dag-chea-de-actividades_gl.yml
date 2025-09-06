@@ -17,12 +17,12 @@ body:
       actividades se queren inscribir: conferencia, demostración, xantar
       presentación (prezo do menú): 15 euros.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa867c55-asemblea-dag-2015.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7aa867c55-asemblea-dag-2015.pdf
     text: Descargar
     type: file

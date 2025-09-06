@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/miede-24.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,12 +43,12 @@ body:
       educador, así como representantes da administración e empresas dese eido.
       O documento está en continua evolución.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://mailchi.mp/e7cc952dd343/presentacion-del-manifiesto-por-la-innovacion-en-la-educacion-en-diseno-en-espana-6363131?e=f86a414e38
     text: Máis info
     type: button
-  - list: ''
+  - list: ""
     url: >-
       https://designread.es/wp-content/uploads/2024/04/MIEDE-24-Manifiesto-por-la-Innovacio%CC%81n-en-la-Educacio%CC%81n-en-Disen%CC%83o-en-Espan%CC%83a.pdf
     text: Descargar MIEDE´24

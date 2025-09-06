@@ -10,22 +10,22 @@ body:
       deportivas, recepción de clientes y aseos.
     type: text
   - image: /img/portfolio/images/img-8559.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/bdm1688.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/bdm1712.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/img-8541.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/img-8548.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/img-8553.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/bdm1688.jpg
 tags:
@@ -36,7 +36,7 @@ members_id:
 lang: es
 info:
   - name: Año
-    value: '2016'
+    value: "2016"
   - name: Lugar
     value: Vigo
 draft: false

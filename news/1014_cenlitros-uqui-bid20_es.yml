@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/bid20.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,8 +29,8 @@ body:
       proyectos seleccionados serán publicados en el catálogo de la exposición y
       también en la propia página web de la BID 2020.
     type: text
-  - list: ''
-    url: 'https://www.bid-dimad.org/seleccionadosbid20/#1602145989722-bef406cb-073f'
+  - list: ""
+    url: "https://www.bid-dimad.org/seleccionadosbid20/#1602145989722-bef406cb-073f"
     text: Seleccionados BID_20
     type: button
 intro: >-

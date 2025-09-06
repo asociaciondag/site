@@ -1,9 +1,9 @@
 id: 931
-title: 'Bienvenido, Alberto!'
+title: "Bienvenido, Alberto!"
 body:
   - list: after
     image: /img/news/images/alberto-fernandez-garcia-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -39,8 +39,8 @@ body:
 
       Un saludo y muchas gracias por acogerme.
     type: text
-  - list: ''
-    url: 'https://dag.gal/es/alberto-fernandez-garcia/'
+  - list: ""
+    url: "https://dag.gal/es/alberto-fernandez-garcia/"
     text: Perfil de Alberto Fernández en la DAG
     type: button
 intro: >-

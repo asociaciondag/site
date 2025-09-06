@@ -1,5 +1,5 @@
 id: 318
-title: '#charlasnaDAG sobre retículas con Segundo Fdez'
+title: "#charlasnaDAG sobre retículas con Segundo Fdez"
 body:
   - text: >-
       Desta volta, o deseñador que nos acompañará será Segundo Fdez, quen falará
@@ -41,15 +41,15 @@ body:
 
       Descarga o programa completo de todas as #charlasnaDAG:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9fcb3ee-charlasdag.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9fcb3ee-charlasnadag.pdf
     text: Descargar
     type: file
-intro: 'Este mércores, 30 de novembro, volven as #charlasnaDAG á Trisca.'
+intro: "Este mércores, 30 de novembro, volven as #charlasnaDAG á Trisca."
 basename: charlasnadag-sobre-reticulas-con-segundo-fdez
 tags: []
 lang: gl

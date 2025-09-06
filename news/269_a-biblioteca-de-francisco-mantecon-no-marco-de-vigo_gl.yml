@@ -17,12 +17,12 @@ body:
       martes a venres en horario de 11.00 a 14.00 da mañá e de 16.00 a 20.00 da
       tarde. Dossier da mostra:
     type: text
-  - list: ''
+  - list: ""
     image: >-
       /img/news/images/553e7a9e50b7b-a-biblioteca-francisco-mantecon-no-marco-de-vigo.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9e50b7b-dossier-biblioteca-mantecon.pdf
     text: Descargar
     type: file

@@ -18,12 +18,12 @@ body:
       actividad o actividades se quieren inscribir: conferencia, demostración,
       almuerzo presentación (precio del menú: 15 euros).
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa85992c-asemblea-dag-2015.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7aa85992c-asemblea-dag-2015.pdf
     text: Descargar
     type: file

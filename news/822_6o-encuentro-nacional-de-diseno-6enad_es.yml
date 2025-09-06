@@ -3,7 +3,7 @@ title: 6º Encuentro Nacional de Diseño 6ENAD
 body:
   - list: after
     image: /img/news/images/promo-6enad-completo.gif
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -108,8 +108,8 @@ body:
       estudio de diseño **Creatias.** A su difusión contribuye el **GT
       Comunicación READ**.
     type: text
-  - list: ''
-    url: 'http://www.designread.es/6enad/'
+  - list: ""
+    url: "http://www.designread.es/6enad/"
     text: 6ENAD
     type: button
 intro: >-

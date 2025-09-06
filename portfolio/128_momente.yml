@@ -19,31 +19,31 @@ body:
       levamos a cabo para crear a nova personalidade do centro.
     type: text
   - image: /img/portfolio/images/56fb98c608429-momente-02-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb98c608775-momente-03-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb98c608a05-momente-04-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb98c608c8c-momente-05-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb98c608f30-momente-06-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb98c6091c7-momente-07-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb98c609487-momente-08-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb98c6096fc-momente-09-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb98c609971-momente-10-desonhos.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/56fb98c607be5-momente-01-desonhos.jpg
 tags: []

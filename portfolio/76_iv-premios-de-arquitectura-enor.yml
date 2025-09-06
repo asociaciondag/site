@@ -41,28 +41,28 @@ body:
       no vestíbulo do teatro García Barbón o día do evento.
     type: text
   - image: /img/portfolio/images/555a48f2ab4ee-019.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a48f2aba67-028.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a48f2abeac-037.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a48f2ac27c-047.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a48f2ac6d0-053.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a48f2acd3c-063.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a48f2ad25d-091.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a48f2ad712-101.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558597cd7eed1-555a48f2acd3c-063.jpg
 tags:
@@ -79,7 +79,7 @@ info:
   - name: Cliente
     value: Grupo Ascensores Aenor
   - name: Ano
-    value: '2009'
+    value: "2009"
   - name: Colaboradores
     value: Tono Mejuto na preparación da información e na premaquetación.
 draft: true

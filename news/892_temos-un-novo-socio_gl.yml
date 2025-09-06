@@ -3,7 +3,7 @@ title: Temos un novo socio!
 body:
   - list: after
     image: /img/news/images/roberto-nun-ez-perfil-dag.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -27,8 +27,8 @@ body:
 
        É un pracer formar parte da asociación.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/roberto-nunez/'
+  - list: ""
+    url: "https://dag.gal/gl/roberto-nunez/"
     text: Perfil de socio na DAG
     type: button
 intro: >-

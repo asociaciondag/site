@@ -3,7 +3,7 @@ title: El Primer Congreso de Diseño de Donostia
 body:
   - list: after
     image: /img/news/images/578689302204a-congreso-donosti-1.gif
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,8 +31,8 @@ body:
       del programa cultural Donostia/San Sebastián 2016 Capital Europea de la
       Cultura.
     type: text
-  - list: ''
-    url: 'http://congresodedisenografico.es/index.html'
+  - list: ""
+    url: "http://congresodedisenografico.es/index.html"
     text: 1º Congreso de Diseño de Donostia
     type: button
 intro: >-

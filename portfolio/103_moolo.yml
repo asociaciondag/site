@@ -20,22 +20,22 @@ body:
       aberta, sen prexuízos, como a mirada dos nenos.
     type: text
   - image: /img/portfolio/images/55571fa455cc8-moolo_01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571fa455cc8-moolo_02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571fa455cc8-moolo_03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571fa455cc8-moolo_04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571fa455cc8-moolo_05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571fa455cc8-moolo_06.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859dc8b4641-55571fa455cc8-moolo-01.jpg
 tags:
@@ -54,5 +54,5 @@ info:
   - name: Cliente
     value: Fundación María Martínez Otero
   - name: Ano
-    value: '2008'
+    value: "2008"
 draft: true

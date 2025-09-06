@@ -27,11 +27,11 @@ body:
 
       Máis información en:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa7262f8-trans-forma.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7aa7262f8-zanotta-trans-forma.pdf
     text: Descargar
     type: file

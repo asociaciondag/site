@@ -3,7 +3,7 @@ title: Cubertería DIVO. Deseño galego premiado nos IDA 2022
 body:
   - list: before
     image: /img/news/images/divo-cuberteria-premio-ida-xose-garcia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -28,8 +28,8 @@ body:
       presentáronse máis de mil proxectos de escolas, profesionais e estudios de
       todo o mundo.
     type: text
-  - list: ''
-    url: 'https://www.idesignawards.com/winners/zoom.php?eid=9-43843-22'
+  - list: ""
+    url: "https://www.idesignawards.com/winners/zoom.php?eid=9-43843-22"
     text: Ficha do premio
     type: button
 intro: >-

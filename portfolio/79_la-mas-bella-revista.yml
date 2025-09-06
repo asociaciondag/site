@@ -14,13 +14,13 @@ body:
       foi presentado coincidindo con Arco 2011, <http://www.lamasbella.org/>
     type: text
   - image: /img/portfolio/images/55859862bfcb0-lamasbella-cabeceira.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859862c0065-lamasbella-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859862c0652-lamasbella-2.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859862bf836-lamasbella-cabeceira.jpg
 tags:
@@ -37,7 +37,7 @@ info:
   - name: Cliente
     value: La más bella
   - name: Ano
-    value: '2011'
+    value: "2011"
   - name: Fotografía
     value: Marta Soul
   - name: Colaboración

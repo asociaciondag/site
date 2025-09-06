@@ -13,7 +13,7 @@ body:
     text: Diseño del cartel de la película _El acorazado Potemkin_
     type: image
   - image: /img/portfolio/images/1.jpg
-    text: 'Diseño del cartel de la película _El bueno, el feo y el malo_'
+    text: "Diseño del cartel de la película _El bueno, el feo y el malo_"
     type: image
   - image: /img/portfolio/images/3.jpg
     text: Diseño del cartel de la película _El resplandor_
@@ -48,6 +48,6 @@ info:
   - name: Cliente
     value: Swiss Style Design
   - name: Año
-    value: '2014'
+    value: "2014"
 draft: false
 oldUrl: /es/portfolio/cartel-para-el-acorazado-potemkin/

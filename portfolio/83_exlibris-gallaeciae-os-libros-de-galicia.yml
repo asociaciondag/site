@@ -1,5 +1,5 @@
 id: 83
-title: 'Exlibris Gallaeciae, os libros de Galicia'
+title: "Exlibris Gallaeciae, os libros de Galicia"
 basename: exlibris-gallaeciae-os-libros-de-galicia
 body:
   - text: >-
@@ -10,31 +10,31 @@ body:
       diferentes temáticas.
     type: text
   - image: /img/portfolio/images/55859d72a2c80-01ex.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859d72a3130-02ex.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859d72a34c9-03ex.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859d72a3894-04ex.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859d72a3c80-05ex.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859d72a400d-06ex.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859d72a43c8-07ex.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859d72a4806-08ex.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859d72a4bac-09ex.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859d72a26a7-01ex.jpg
 tags: []
@@ -49,5 +49,5 @@ info:
   - name: Cliente
     value: Fundación Cidade da Cultura de Galicia
   - name: Ano
-    value: '2010'
+    value: "2010"
 draft: false

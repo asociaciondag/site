@@ -3,7 +3,7 @@ title: En la DAG empezamos la semana bailando!
 body:
   - list: after
     image: /img/news/images/57493f6c7f0ef-adrian-parcero-dag-post.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -22,11 +22,11 @@ body:
 
       Gracias a todas y todos por vuestro trabajo.
     type: text
-  - list: ''
-    url: 'https://dag.gal/es/adrian-parcero/'
+  - list: ""
+    url: "https://dag.gal/es/adrian-parcero/"
     text: Perfil de socio DAG
     type: button
-intro: 'Sí, sí, bailando, con Adrián, nuestro nuevo socio ;)'
+intro: "Sí, sí, bailando, con Adrián, nuestro nuevo socio ;)"
 basename: en-la-dag-empezamos-la-semana-bailando
 tags:
   - noticias socios/socias

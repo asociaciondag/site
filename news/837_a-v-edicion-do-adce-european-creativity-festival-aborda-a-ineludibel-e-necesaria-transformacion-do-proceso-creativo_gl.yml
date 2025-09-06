@@ -1,11 +1,11 @@
 id: 837
 title: >-
   A V edición do ADCE European Creativity Festival aborda a ineludíbel e
-  necesaria transformación do proceso creativo 
+  necesaria transformación do proceso creativo
 body:
   - list: after
     image: /img/news/images/adce-festival18-logo.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -199,8 +199,8 @@ body:
       entradas ao Festival. Se escribes a info@dag.gal, informarémoste do que
       tes que facer para que cho apliquen.**
     type: text
-  - list: ''
-    url: 'https://www.adceurope.org/festival/whenwhere/'
+  - list: ""
+    url: "https://www.adceurope.org/festival/whenwhere/"
     text: ADCE Festival
     type: button
 intro: >-

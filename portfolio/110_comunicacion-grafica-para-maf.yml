@@ -26,7 +26,7 @@ lang:
   - es
 info:
   - name: Cliente
-    value: 'MAF, cuchillería artesanal'
+    value: "MAF, cuchillería artesanal"
   - name: Ano
-    value: '2012'
+    value: "2012"
 draft: true

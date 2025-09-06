@@ -6,9 +6,9 @@ body:
       Anuaria de Oro en la categoría al mejor diseño de una publicación
       periódica:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/56993415b6e2d-sonzine.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -18,37 +18,37 @@ body:
       con una Selección Anuaria en la categoría de mejor campaña de interés
       social.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/56993415b8f49-a-porta-aberta-1.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/56993415b9400-a-porta-aberta-2.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
       Por su parte, la identidad VALENTÍN obtuvo una Selección Anuaria al mejor
       programa de identidad corporativa.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/56993415b99b7-valentin.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
       Y una Selección Anuaria recibió también el catálogo realizado para la
       firma de iluminación Garay Estudio.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/56993415b9dc2-garay-studio.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: null
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

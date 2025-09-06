@@ -3,7 +3,7 @@ title: Abierta la convocatoria de los Premios ADG Laus 2024
 body:
   - list: before
     image: /img/news/images/premios-laus-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,8 +33,8 @@ body:
       en COLLINS), Beatriz Suárez (Maba), Borja Garmendia (Pensando en blanco),
       Gustav Nordebrink (ID—C), Paco Badia (VML) o Ana Delgado (unadebravas).
     type: text
-  - list: ''
-    url: 'https://www.adg-fad.org/es/laus/premios'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premios"
     text: Inscripciones y más información
     type: button
 intro: >-

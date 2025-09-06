@@ -1,11 +1,11 @@
 id: 790
 title: >-
   A Kinetic de María Ramos e Noel Pretorius entre as tipografías excelentes de
-  2017 para o Type Directors Club 
+  2017 para o Type Directors Club
 body:
   - list: after
     image: /img/news/images/1-kinetic.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,13 +33,13 @@ body:
       unha ampla gama de aplicacións: publicidade, deseño editorial e calquera
       proxecto corporativo ou artístico.
     type: text
-  - list: ''
+  - list: ""
     info:
       code: >-
         <iframe src="https://player.vimeo.com/video/199140896" width="640"
         height="360" frameborder="0" title="Kinetic typeface"
         webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-      ratio: '60'
+      ratio: "60"
     type: embed
 intro: >-
   A organización internacional que vela pola excelencia tipográfica en todas as

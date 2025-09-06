@@ -3,7 +3,7 @@ title: II Encontro de deseño para a innovación empresarial en Galicia
 body:
   - list: after
     image: /img/news/images/ii-encontro-gain-imaxe.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -26,12 +26,12 @@ body:
       de Deseño para a Innovación 2020 e inclúe un aperitivo networking para
       todos os asistentes. A inscrición é gratuíta.
     type: text
-  - list: ''
-    url: 'http://galiciainnovacion.es/repo/2-Programa28J.pdf.pdf'
+  - list: ""
+    url: "http://galiciainnovacion.es/repo/2-Programa28J.pdf.pdf"
     text: Programa do encontro
     type: button
-  - list: ''
-    url: 'http://www.cisgalicia.org/contactos/campan/inscribir/15'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/campan/inscribir/15"
     text: Formulario de inscrición
     type: button
 intro: >-

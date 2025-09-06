@@ -77,12 +77,12 @@ body:
       <http://markstudies.org/> Descargar artigo de Joam Evams Pim para re:marks
       (Journal of Signum): From Marks to Ogham: Rethinking Writing in Gallaecia:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa776a10-a-guarda-6.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7aa776a10-remarks1-art6.pdf
     text: Descargar
     type: file

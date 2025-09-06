@@ -3,7 +3,7 @@ title: Los estudios DARDO y Piedrapapeltijera premiados en los Anuaria 2021
 body:
   - list: after
     image: /img/news/images/anuaria2021-740.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,7 +43,7 @@ body:
 
       ¡Enhorabuena a todos!
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html
     text: Más información

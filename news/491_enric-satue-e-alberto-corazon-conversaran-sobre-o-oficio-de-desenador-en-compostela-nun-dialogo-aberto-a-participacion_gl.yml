@@ -30,11 +30,11 @@ body:
       que enviar un correo a info@asociaciondag.org e seguir as indicacións que
       se lles faciliten.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa5c9cdf-cartel-dag-satuecorazon-a4.png
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7aa5c9cdf-cartel-dag-satuecorazon.pdf
     text: Descargar
     type: file

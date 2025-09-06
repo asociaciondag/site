@@ -12,9 +12,9 @@ body:
       - info en
       [www.valenciadissenyweek.com](http://www.valenciadissenyweek.com)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9935d88-vdw.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   O próximo 27 de setembro darase o pistoletazo de saída para a segunda edición

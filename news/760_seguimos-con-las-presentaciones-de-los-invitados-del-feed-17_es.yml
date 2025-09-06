@@ -1,9 +1,9 @@
 id: 760
 title: Seguimos con las presentaciones de los invitados del FEED'17
 body:
-  - list: ''
+  - list: ""
     image: /img/news/images/bea-facebook.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -28,8 +28,8 @@ body:
       Castelao de Cómic por su primera novela gráfica _O corpo de Cristo,_ que
       será editada la próxima primavera.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: FEED'17
     type: button
 intro: >-

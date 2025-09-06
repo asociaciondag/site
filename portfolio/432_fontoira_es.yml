@@ -15,31 +15,31 @@ body:
       animar a que nuevas embarcaciones se sigan rotulando con su estilo.
     type: text
   - image: /img/portfolio/images/1-fontoira.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/2-fontoira.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/3-fontoira.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/7-fontoira.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/8-fontoira.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/9-fontoira.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/10-fontoira.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/11-fontoira.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/15-fontoira.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/1-fontoira.png
 tags:

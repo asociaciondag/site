@@ -3,7 +3,7 @@ title: La escenografía de Cenlitros para los Premios COAG 2025 premiada
 body:
   - list: before
     image: /img/news/images/imaxe-premiocesuga-cenlitros.jpg
-    text: 'Fotografía: COAG'
+    text: "Fotografía: COAG"
     mode: normal
     type: image
   - text: >-
@@ -40,8 +40,8 @@ body:
       Felicidades también, por la parte que les toca, a los compañeros de
       Novagarda, creadores de la identidad gráfica de los Premios COAG 2025.
     type: text
-  - list: ''
-    url: 'https://cesuga.com/premio-pino-de-galicia/'
+  - list: ""
+    url: "https://cesuga.com/premio-pino-de-galicia/"
     text: Más info
     type: button
 intro: >-

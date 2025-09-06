@@ -3,7 +3,7 @@ title: Temos un novo socio na DAG!
 body:
   - list: after
     image: /img/news/images/5745db84a90f8-alejandro.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -18,8 +18,8 @@ body:
 
        O meu perfil profesional oriéntase cara a disciplinas diversas como a creación de marca, o deseño editorial, a ilustración e a fotografía. Ademais, gústame estar en contacto coas novas tendencias, ferramentas e soportes.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/alejandro-fabregas/'
+  - list: ""
+    url: "https://dag.gal/gl/alejandro-fabregas/"
     text: Perfil de socio DAG
     type: button
 intro: >-

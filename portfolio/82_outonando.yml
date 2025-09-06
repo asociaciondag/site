@@ -9,19 +9,19 @@ body:
       xeito, vincúlase o nome cunha actitude positiva e activa.
     type: text
   - image: /img/portfolio/images/555ce3c9f386e-cartel-outonando.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce3c9f3fa4-diptico-outonando-detalle-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce3ca0032c-diptico-outonando-detalle.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce3ca008fe-diptico-outonando-exterior.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce3ca00df8-diptico-outonando-interior.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585996e60365-555ce3c9f386e-cartel-outonando.jpg
 tags:
@@ -37,5 +37,5 @@ info:
   - name: Cliente
     value: Concello de Pontevedra. Concellaría de Festas
   - name: Ano
-    value: '2010'
+    value: "2010"
 draft: true

@@ -3,7 +3,7 @@ title: VANENBIKKE
 basename: vanenbikke
 body:
   - image: /img/portfolio/images/vanenbikke.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/vanenbikke.jpg
 tags:

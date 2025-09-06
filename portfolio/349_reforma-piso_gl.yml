@@ -12,25 +12,25 @@ body:
       salón-cociña.
     type: text
   - image: /img/portfolio/images/lan4562.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/lan4587.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/lan4589.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/lan4601.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/lan4606.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/lan4621.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/lan4675.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/lan4601.jpg
 tags:
@@ -40,7 +40,7 @@ members_id:
 lang: gl
 info:
   - name: Ano
-    value: '2018'
+    value: "2018"
   - name: Lugar
     value: Vigo
 draft: false

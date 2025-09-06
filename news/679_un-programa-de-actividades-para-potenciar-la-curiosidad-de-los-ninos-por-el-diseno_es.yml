@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/577f90a8edb4a-desenhos-minusculos.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -35,10 +35,10 @@ body:
       que vertebre este taller en el que los más pequeños modelarán formas
       tridimensionales a partir de lana.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://www.cidadedacultura.gal/es/evento/desenos-minusculos-valores-maiusculos
-    text: 'Web deseños minúsculos, valores maiúsculos'
+    text: "Web deseños minúsculos, valores maiúsculos"
     type: button
 intro: >-
   Esta es la propuesta de la Ciudad de la Cultura para este mes de julio: cada

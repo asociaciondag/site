@@ -1,9 +1,9 @@
 id: 1262
-title: 'Uqui Permui, Latampack de Oro 2023 para el envase de Sementares'
+title: "Uqui Permui, Latampack de Oro 2023 para el envase de Sementares"
 body:
   - list: before
     image: /img/news/images/premio-latampack-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -32,7 +32,7 @@ body:
       casos; y es el primero en gestionar estándares de excelencia a nivel
       nacional e internacional.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.veredictas.com/es/trabajo/18211/conservando_el_futuro/106%E2%80%8B
     text: Web de los premios

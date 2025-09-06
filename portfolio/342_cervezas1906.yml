@@ -3,7 +3,7 @@ title: Cervezas 1906
 basename: cervezas1906
 body:
   - image: /img/portfolio/images/cervezas-1906.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/cervezas-1906.png
 tags:

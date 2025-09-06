@@ -3,7 +3,7 @@ title: Nuevas fechas para los Premios Paraugas 2020
 body:
   - list: after
     image: /img/news/images/premiosparaugas.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -50,7 +50,7 @@ body:
       disponibles [en su web](http://premios.clustercomunicacion.gal), desde
       donde también se puede hacer la inscripción de proyectos.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://premios.clustercomunicacion.gal/wp-content/uploads/2020/10/NOVAS-bases-V-Premios-Paraugas.pdf
     text: Bases de los Premios Paraugas

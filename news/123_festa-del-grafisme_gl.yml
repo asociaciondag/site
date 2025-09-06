@@ -19,13 +19,13 @@ body:
 
       +info [www.festadelgrafisme.org](http://www.festadelgrafisme.org)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a994154d-grafisme1.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a994154d-grafisme2.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   Un encontro aberto en torno á función comunicativa e social do deseño gráfico

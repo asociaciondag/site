@@ -1,5 +1,5 @@
 id: 50
-title: 'BLANC: Festival de Diseño Gráfico de Catalunya'
+title: "BLANC: Festival de Diseño Gráfico de Catalunya"
 body:
   - text: >-
       Un punto de encotro para avaliar a calidade do noso deseño a través de
@@ -16,9 +16,9 @@ body:
 
       +info: <http://blancfestival.com/website/>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a97853a8-blancc-copia.gif
-    text: ''
+    text: ""
     type: image
 intro: >-
   Blanc é unha idea de deseñadores gráficos dirixida a deseñadores gráficos: 2

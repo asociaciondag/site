@@ -3,13 +3,13 @@ title: Mesa Polas
 basename: mesa-polas
 body:
   - image: /img/portfolio/images/mesa-polas-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/mesa-polas-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/mesa-polas-3.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/mesa-polas-1.jpg
 tags:

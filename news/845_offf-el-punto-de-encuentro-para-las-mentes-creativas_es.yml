@@ -1,9 +1,9 @@
 id: 845
-title: 'OFFF,  el punto de encuentro para las mentes creativas '
+title: "OFFF,  el punto de encuentro para las mentes creativas "
 body:
   - list: after
     image: /img/news/images/03.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -65,8 +65,8 @@ body:
       descuento en el precio de las entradas. Para que se os aplique, escribid
       <info@dag.gal>
     type: text
-  - list: ''
-    url: 'https://offfsevilla.com/'
+  - list: ""
+    url: "https://offfsevilla.com/"
     text: Web de OFFF Sevilla
     type: button
 intro: >-

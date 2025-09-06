@@ -15,11 +15,11 @@ body:
       matricula. **PARA MAIS INFO:
       [web](http://elojoenlacalle.wordpress.com)****
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a948cb96-imagentaller.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a948cb96-o-ollo-na-rua.pdf
     text: Descargar
     type: file

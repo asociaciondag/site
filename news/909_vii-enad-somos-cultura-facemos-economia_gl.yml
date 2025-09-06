@@ -3,7 +3,7 @@ title: VII ENAD. “Somos Cultura. Facemos Economía”
 body:
   - list: after
     image: /img/news/images/imaxe-noticia-viienad.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -37,15 +37,15 @@ body:
       participativo. O domingo 29 está prevista unha visita cultural a Cartagena
       para aquelas persoas que dispoñan de tempo libre.
     type: text
-  - list: ''
-    url: 'https://www.designread.es/7enad/'
+  - list: ""
+    url: "https://www.designread.es/7enad/"
     text: Web VII ENAD
     type: button
-  - list: ''
-    url: 'https://www.designread.es/7enad/#inscripcion'
+  - list: ""
+    url: "https://www.designread.es/7enad/#inscripcion"
     text: Inscrición de balde
     type: button
-  - list: ''
+  - list: ""
     file: /files/programa-7enad-22-agosto.pdf
     text: Programa completo
     type: file

@@ -11,16 +11,16 @@ body:
       nota musical.
     type: text
   - image: /img/portfolio/images/555ce43a8efec-con-voz-propia-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce43a8f53a-con-voz-propia-082.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce43a8fa4b-vista-folleto-21.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce43a8ff02-vista-folleto1.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859cebe55a4-555ce43a8f53a-con-voz-propia-082.jpg
 tags:
@@ -37,5 +37,5 @@ info:
   - name: Cliente
     value: Concello de Pontevedra. Concellaría de Cultura.
   - name: Ano
-    value: '2009'
+    value: "2009"
 draft: false

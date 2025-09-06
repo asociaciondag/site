@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/adglaus-22.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -40,8 +40,8 @@ body:
       asociadas a la DAG, como entidad amiga, pueden beneficiarse de un
       descuento del 15%.
     type: text
-  - list: ''
-    url: 'https://www.adg-fad.org/es/laus/bases-y-categorias'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/bases-y-categorias"
     text: Bases de los Premios Laus
     type: button
 intro: >-

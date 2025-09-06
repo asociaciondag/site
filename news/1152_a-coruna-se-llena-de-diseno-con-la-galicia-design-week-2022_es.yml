@@ -3,7 +3,7 @@ title: A Coruña se llena de diseño con la Galicia Design Week 2022​
 body:
   - list: after
     image: /img/news/images/gdw22-imaxe.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -69,11 +69,11 @@ body:
       se podrá seguir vía _streaming_. ​Las entradas son gratuitas y es precisa
       inscripción previa a través de la plataforma DICE.
     type: text
-  - list: ''
-    url: 'https://www.gdw.gal'
+  - list: ""
+    url: "https://www.gdw.gal"
     text: Web GDW
     type: button
-  - list: ''
+  - list: ""
     url: >-
       https://dice.fm/event/ymmm2-galicia-design-week-22-24th-jun-studio-follow-a-corua-tickets
     text: Inscripciones a la GD​W

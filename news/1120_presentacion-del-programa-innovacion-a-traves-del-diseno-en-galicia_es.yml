@@ -1,9 +1,9 @@
 id: 1120
-title: 'Presentación del Programa Innovación a través del Diseño en Galicia '
+title: "Presentación del Programa Innovación a través del Diseño en Galicia "
 body:
   - list: after
     image: /img/news/images/pid-galicia-fondo-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -28,7 +28,7 @@ body:
       _online_ y, para organizar mejor la sesión informativa, se requiere de
       inscripción previa.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSetxLiICMzindRHrAUy1nY8WvggVO6GDv9NsaWU_olA9s-2vQ/viewform
     text: Formulario de inscripción

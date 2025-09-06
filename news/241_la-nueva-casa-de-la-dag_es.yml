@@ -19,9 +19,9 @@ body:
       será la programación de la DAG para los próximos meses. ¡Estád atentos,
       que habrá noticias!
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9d671f7-a-trisca.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   La Asociación Gallega de Diseñadores abandona su antiguo

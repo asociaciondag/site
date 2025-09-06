@@ -74,15 +74,15 @@ body:
 
       Consulta a ficha dos cursos:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9e829a3-curso-creacion-webmobil.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9e829a3-ficha-curso-videoxogos.pdf
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     file: /files/553e7a9e829a3-ficha-curso-webmobil.pdf
     text: Descargar
     type: file

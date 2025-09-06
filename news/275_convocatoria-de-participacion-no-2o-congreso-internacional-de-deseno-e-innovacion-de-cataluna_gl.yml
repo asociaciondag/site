@@ -29,12 +29,12 @@ body:
 
       Descarga a convocatoria de participación:
     type: text
-  - list: ''
+  - list: ""
     image: >-
       /img/news/images/553e7a9ea0283-2o-congreso-internacional-diseno-innovacion.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: >-
       /files/553e7a9ea0283-convocatoria-participacion-2o-congreso-internacional-diseno-e-innovacion.pdf
     text: Descargar

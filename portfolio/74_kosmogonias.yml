@@ -22,22 +22,22 @@ body:
       busca analoxías formais con este renovado logotipo.
     type: text
   - image: /img/portfolio/images/55571d674205d-berroguetto_01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571d674205d-berroguetto_02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571d674205d-berroguetto_03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571d674205d-berroguetto_04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571d674205d-berroguetto_05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571d674205d-berroguetto_06.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558597034c9d1-55571d674205d-berroguetto-02.jpg
 tags: []
@@ -54,5 +54,5 @@ info:
   - name: Cliente
     value: Berrogüetto
   - name: Ano
-    value: '2010'
+    value: "2010"
 draft: true

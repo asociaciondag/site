@@ -3,7 +3,7 @@ title: Pequena crónica da EXPRESS
 body:
   - list: after
     image: /img/news/images/imaxe-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -105,7 +105,7 @@ body:
       falar máis distendidamente e compartirmos opinións e intereses sobre a
       impresión tradicional.
     type: text
-  - list: ''
+  - list: ""
     info:
       code: >-
         <a data-flickr-embed="true"
@@ -115,7 +115,7 @@ body:
         width="1024" height="683" alt="IMG_9607"></a><script async
         src="https://embedr.flickr.com/assets/client-code.js"
         charset="utf-8"></script>
-      ratio: ''
+      ratio: ""
     type: embed
 intro: >-
   O pasado 26 de abril desenvolveuse no espazo de intervención cultural da

@@ -3,7 +3,7 @@ title: Mañá comeza Transferencias.Design Málaga 2018
 body:
   - list: after
     image: /img/news/images/transferenciasdesign-2018.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -41,8 +41,8 @@ body:
 
       En sesión plenaria só para inscritos na mañá do sábado 20 de outubro.
     type: text
-  - list: ''
-    url: 'http://www.transferencias.design/'
+  - list: ""
+    url: "http://www.transferencias.design/"
     text: Web de Transferencias design
     type: button
 intro: >-

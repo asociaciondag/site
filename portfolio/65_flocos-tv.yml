@@ -24,13 +24,13 @@ body:
       luz e ao proxector.
     type: text
   - image: /img/portfolio/images/55859ffbcc9d5-logo.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859ffbccce5-flocos-portada.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859ffbcd273-flocos-interior.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859ffbcbffb-flocos-interior.jpg
 tags:
@@ -47,5 +47,5 @@ info:
   - name: Cliente
     value: Axencia Audiovisual Galega
   - name: Ano
-    value: '2008'
+    value: "2008"
 draft: true

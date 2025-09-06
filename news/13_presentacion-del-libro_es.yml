@@ -20,9 +20,9 @@ body:
       Afectuosamente, CHECHU PÉREZ EVA QUINTAS ALBERTO DAFONTE Creatividad
       Gallega
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9420011-cg-08-portada.jpg
-    text: ''
+    text: ""
     type: image
 intro: Se presenta un nuevo número de la revista _Creatividade Galega_
 basename: presentacion-del-libro

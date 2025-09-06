@@ -7,19 +7,19 @@ body:
       artistas seleccionados da Facultade de Belas Artes de Pontevedra.
     type: text
   - image: /img/portfolio/images/555ce04cc01ff-mmmmmh-6.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce04cc0836-mmmmmh-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce04cc0c5b-mmmmmh-3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce04cc10d2-mmmmmh-4.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce04cc1601-mmmmmh-5.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55855b8409af3-555ce04cc01ff-mmmmmh-6.jpg
 tags:
@@ -35,5 +35,5 @@ info:
   - name: Cliente
     value: Universidade de Vigo. Vicerreitoría do Campus de Pontevedra
   - name: Ano
-    value: '2012'
+    value: "2012"
 draft: false

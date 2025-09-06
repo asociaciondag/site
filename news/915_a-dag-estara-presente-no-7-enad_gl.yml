@@ -3,7 +3,7 @@ title: A DAG estará presente no 7 ENAD
 body:
   - list: after
     image: /img/news/images/7-enad.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -24,8 +24,8 @@ body:
       Profesionais do Deseño e a Comunicación Publicitaria da Rexión de Murcia,
       a asociación que neste momento preside a READ.
     type: text
-  - list: ''
-    url: 'https://www.designread.es/7enad/'
+  - list: ""
+    url: "https://www.designread.es/7enad/"
     text: 7 ENAD
     type: button
 intro: >-

@@ -3,7 +3,7 @@ title: Construdeco
 basename: construdeco
 body:
   - image: /img/portfolio/images/construdeco.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/construdeco.jpg
 tags:

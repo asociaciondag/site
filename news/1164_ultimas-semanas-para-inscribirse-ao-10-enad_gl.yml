@@ -1,9 +1,9 @@
 id: 1164
-title: 'Últimas semanas para inscribirse ao 10º ENAD '
+title: "Últimas semanas para inscribirse ao 10º ENAD "
 body:
   - list: after
     image: /img/news/images/imagen-noticia-enad-setembro-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -64,8 +64,8 @@ body:
 
       Vémonos o 21 e 22 de outubro en Pontevedra!​​
     type: text
-  - list: ''
-    url: 'https://designread.es/10enad/'
+  - list: ""
+    url: "https://designread.es/10enad/"
     text: Web 10º ENAD e inscricións
     type: button
 intro: >-

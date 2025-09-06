@@ -23,9 +23,9 @@ body:
 
       <sirvent@sirventvigo.com>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9fb11d8-diez-diez.gif
-    text: ''
+    text: ""
     type: image
 intro: >-
   Tras a inauguración do espazo [Sirvent](http://www.sirventvigo.com/sirvent/es)

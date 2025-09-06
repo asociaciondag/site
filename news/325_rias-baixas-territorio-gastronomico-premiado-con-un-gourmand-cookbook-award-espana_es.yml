@@ -20,13 +20,13 @@ body:
       que cada año premia a las mejores publicaciones sobre gastronomía del
       mundo.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa04b38c-rias-baixas-1.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa04b38c-rias-baixas-2.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   La publicación **Rías Baixas. Territorio gastronómico** que coordina [Uqui

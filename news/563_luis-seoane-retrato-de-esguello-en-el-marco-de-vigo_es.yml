@@ -11,7 +11,7 @@ body:
 
       - **Domingos**, de 11.00 a 14.30.
     type: text
-  - list: ''
+  - list: ""
     file: /files/55a29c2e97991-dossier-luis-seoane-de-esguello.pdf
     text: Descarga el Dossier Luis Seoane de esguello
     type: file

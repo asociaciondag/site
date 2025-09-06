@@ -3,7 +3,7 @@ title: VIII Edición dos Premios Paraugas en marcha
 body:
   - list: before
     image: /img/news/images/premios-paraugas-2023.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -45,8 +45,8 @@ body:
       representa a entidade. Tedes toda a información da convocatoria deste ano
       na súa web.
     type: text
-  - list: ''
-    url: 'https://premios.clustercomunicacion.gal/abrese-inscripcion-2023'
+  - list: ""
+    url: "https://premios.clustercomunicacion.gal/abrese-inscripcion-2023"
     text: Bases e inscricións
     type: button
 intro: >-

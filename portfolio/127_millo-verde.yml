@@ -14,19 +14,19 @@ body:
       necesidades técnicas e empresariais.
     type: text
   - image: /img/portfolio/images/56fb96f524661-millo-verde-02-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb96f524966-millo-verde-03-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb96f524abd-millo-verde-04-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb96f524c04-millo-verde-05-desonhos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56fb96f524ded-millo-verde-06-desonhos.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/56fb96f5243d7-millo-verde-01-desonhos.jpg
 tags: []

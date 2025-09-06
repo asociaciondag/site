@@ -6,7 +6,7 @@ body:
       de las 16.00 h. Aquí os dejamos el enlace a la orden del día y al canal
       del directo:
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/ConDir?_piref73_2004041_73_1339038_1339038.next_page=/wc/listadoEmisiones&diaElegido=3
     text: CongresoTV

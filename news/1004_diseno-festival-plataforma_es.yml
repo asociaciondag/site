@@ -3,7 +3,7 @@ title: El diseño estará presente en la 1ª edición del Festival Plataforma
 body:
   - list: after
     image: /img/news/images/plataforma.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -37,13 +37,13 @@ body:
       recomendaciones sanitarias y la legalidad vigentes, tienen limitaciones de
       público. Es necesario el registro previo para asistir.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.eventbrite.es/e/entradas-plataforma-voces-deseno-performativo-con-cenlitros-e-maria-ramos-119396743875
     text: Reserva de plazas
     type: button
-  - list: ''
-    url: 'https://plataforma.gal/es/'
+  - list: ""
+    url: "https://plataforma.gal/es/"
     text: Web Festival Plataforma
     type: button
 intro: >-

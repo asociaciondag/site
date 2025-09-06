@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/imaxe-exportar-deseno.png
-    text: 'Esquerda, NM type; dereita, Zooco Estudio'
+    text: "Esquerda, NM type; dereita, Zooco Estudio"
     mode: normal
     type: image
   - text: >-
@@ -65,7 +65,7 @@ body:
       Asociacións de Deseño) e conta co soporte do Ministerio de Cultura e
       Deporte do Goberno de España.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.eventbrite.com/e/entradas-exportar-servicios-de-diseno-15-22-y-29-de-marzo-288132079807
     text: Inscrición aquí

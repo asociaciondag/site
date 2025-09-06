@@ -3,7 +3,7 @@ title: Continuamos sumando socios!
 body:
   - list: after
     image: /img/news/images/foto-presentacion-dag.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -20,8 +20,8 @@ body:
 
       >  —Michael Bierut
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/patricia-nunez/'
+  - list: ""
+    url: "https://dag.gal/gl/patricia-nunez/"
     text: Perfil de socia na DAG
     type: button
 intro: Esta semana dámoslle a benvinda á deseñadora gráfica Patrica Núñez.

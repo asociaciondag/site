@@ -15,19 +15,19 @@ body:
        O comedeiro está composto por dúas únicas partes, e cada unha cumpre unha dobre función: o cortante de polipropileno actúa tamén de envoltorio, e o listón de madeira serve tanto para que se apoie o paxaro no comedeiro como para pechar o _packaging._
     type: text
   - image: /img/portfolio/images/55571bf7e47e7-granmola_01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571bf7e47e7-granmola_02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571bf7e47e7-granmola_03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571bf7e47e7-granmola_04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571bf7e47e7-granmola_05.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558569a014fe0-55571bf7e47e7-granmola-02.jpg
 tags:
@@ -45,5 +45,5 @@ info:
   - name: Cliente
     value: Autopromoción
   - name: Ano
-    value: '2009'
+    value: "2009"
 draft: true

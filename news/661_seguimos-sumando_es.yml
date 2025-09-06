@@ -3,7 +3,7 @@ title: ¡Seguimos sumando!
 body:
   - list: after
     image: /img/news/images/570e75e127e0e-foto-presentacion-lois-guillan.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -21,8 +21,8 @@ body:
       Y desde siempre me ha gustado todo lo relacionado con la cultura. Y creo
       que ahora tengo la posibilidad de disfrutarla y compartirla desde dentro.
     type: text
-  - list: ''
-    url: 'https://dag.gal/es/lois-guillan/'
+  - list: ""
+    url: "https://dag.gal/es/lois-guillan/"
     text: Perfil de socio DAG
     type: button
 intro: >-

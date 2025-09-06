@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/twitter-facebook-post.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -70,8 +70,8 @@ body:
       DAG unha asociación amiga da ADG-FAD, todos os seus socios teñen un 15% de
       desconto no prezo da inscrición.**
     type: text
-  - list: ''
-    url: 'https://www.adg-fad.org/es/laus/premios'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premios"
     text: Bases e inscricións nos LAUS 2019
     type: button
 intro: >-

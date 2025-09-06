@@ -3,7 +3,7 @@ title: A deseñadora editorial María Peinado únese á DAG
 body:
   - list: after
     image: /img/news/images/presentacion-maria-peinado.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,8 +33,8 @@ body:
 
       Unha aperta e moitas grazas pola acollida.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/maria-peinado-florido/'
+  - list: ""
+    url: "https://dag.gal/gl/maria-peinado-florido/"
     text: Perfil de María Peinado
     type: button
 intro: >-

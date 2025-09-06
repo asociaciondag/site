@@ -3,7 +3,7 @@ title: Mostra de Arquitectura Rural en Vedra coa participación de Cenlitros
 body:
   - list: before
     image: /img/news/images/marco-vedra-2025.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -32,13 +32,13 @@ body:
       A participación nalgunha das actividades ten límite de prazas, polo que
       cómpre inscribirse previamente na web do concello de Vedra.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.concellodevedra.es/gl/content/mostra-de-arquitectura-rural-marco
     text: Inscricións
     type: button
-  - list: ''
-    url: 'https://www.concellodevedra.es/ficheiros/Programa%20Xeral%20%20MARCO.pdf'
+  - list: ""
+    url: "https://www.concellodevedra.es/ficheiros/Programa%20Xeral%20%20MARCO.pdf"
     text: Programa completo
     type: button
 intro: >-

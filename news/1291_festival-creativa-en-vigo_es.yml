@@ -3,7 +3,7 @@ title: Festival Creativa en Vigo
 body:
   - list: before
     image: /img/news/images/festival-creativa.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -26,8 +26,8 @@ body:
 
       La entrada es gratuita y el aforo limitado en algunas localizaciones.
     type: text
-  - list: ''
-    url: 'https://dotgalicia.com/artistas-y-proyectos/'
+  - list: ""
+    url: "https://dotgalicia.com/artistas-y-proyectos/"
     text: Web Festival Creativa
     type: button
 intro: >-

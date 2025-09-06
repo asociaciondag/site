@@ -15,11 +15,11 @@ body:
       socios de la DAG contarán con un descuento sobre el importe de la
       matricula. **PARA MAS INFO: [web](http://elojoenlacalle.wordpress.com)****
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9434243-imagentaller.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9434243-o-ollo-na-rua.pdf
     text: Descargar
     type: file

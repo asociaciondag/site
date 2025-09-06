@@ -5,9 +5,9 @@ body:
       Se pone en funcionamiento la organización del PECHA KUCHA NIGHT, el 10 de
       julio en Pontevedra, seguidle el rastro...
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a961e1e8-greetingsact.jpg
-    text: ''
+    text: ""
     type: image
 intro: Pontevedra acogerá la primera edición de un PECHA KUCHA NIGHT en Galicia
 basename: la-dag-organiza-el-primer-pecha-kucha-gallego

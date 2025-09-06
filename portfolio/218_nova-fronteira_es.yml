@@ -11,7 +11,7 @@ body:
       una de las épocas más innovadoras y esplendorosas de la cultura gallega.
     type: text
   - image: /img/portfolio/images/nova-fronteira.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/nova-fronteira-thumbnail.jpg
 tags:

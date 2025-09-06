@@ -1,9 +1,9 @@
 id: 812
-title: '1º Encontro de Deseño para a Innovación Empresarial en Galicia '
+title: "1º Encontro de Deseño para a Innovación Empresarial en Galicia "
 body:
   - list: after
     image: /img/news/images/i-encontro-deseno.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -18,12 +18,12 @@ body:
       O programa inclúe palestras, espazos expositivos e tamén reunións
       bilaterais entre deseñadores e empresas, e a inscrición é gratuíta.
     type: text
-  - list: ''
-    url: 'http://www.ris3galicia.es/wp-content/uploads/2018/06/Programa.pdf'
+  - list: ""
+    url: "http://www.ris3galicia.es/wp-content/uploads/2018/06/Programa.pdf"
     text: Programa do encontro
     type: button
-  - list: ''
-    url: 'http://web4.cisgalicia.net/enc_desenho.html'
+  - list: ""
+    url: "http://web4.cisgalicia.net/enc_desenho.html"
     text: Formulario de inscrición
     type: button
 intro: >-

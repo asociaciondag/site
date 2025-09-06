@@ -1,9 +1,9 @@
 id: 1390
-title: 'Pensarmos futuros sustentables, Semana da Creatividade en Pontevedra '
+title: "Pensarmos futuros sustentables, Semana da Creatividade en Pontevedra "
 body:
   - list: before
     image: /img/news/images/posemanacrea1.jpg
-    text: 'Imaxe da Semana Creativa do Campus Crea de Pontevedra, UVigo'
+    text: "Imaxe da Semana Creativa do Campus Crea de Pontevedra, UVigo"
     mode: normal
     type: image
   - text: >-
@@ -54,7 +54,7 @@ body:
       A Semana da Creatividade está promovida polo Campus Crea e conta co apoio
       da Deputación de Pontevedra para a súa realización.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.uvigo.gal/sites/uvigo.gal/files/contents/events/2025-04/Programa%20Semana%20Crea.pdf
     text: Programa completo

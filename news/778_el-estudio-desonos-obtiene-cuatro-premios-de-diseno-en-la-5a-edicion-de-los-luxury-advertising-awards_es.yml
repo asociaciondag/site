@@ -16,9 +16,9 @@ body:
       el catálogo y el material de difusión, trabajo que ha sido merecedor del
       Premio a la Mejor Producción Gráfica de Exposición.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/desonos-emporium.jpg
-    text: 'Exposición Emporium, Mil Anos de Comercio en Vigo'
+    text: "Exposición Emporium, Mil Anos de Comercio en Vigo"
     mode: normal
     type: image
   - text: >-
@@ -26,7 +26,7 @@ body:
       de una emprendedora gallega, Araceli Hermelo, que ha lanzado al mercado
       **Ylé**, una nueva marca de cosméticos premium.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/desonos-yle.jpg
     text: Yle
     mode: normal
@@ -37,7 +37,7 @@ body:
       Santos** ha sido galardonado con el Premio al Mejor Diseño Web de Marca
       Premium.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/desonos-santos.jpg
     text: Web de Santos
     mode: normal

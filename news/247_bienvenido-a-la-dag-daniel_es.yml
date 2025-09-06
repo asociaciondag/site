@@ -1,5 +1,5 @@
 id: 247
-title: 'Bienvenido a la DAG, Daniel'
+title: "Bienvenido a la DAG, Daniel"
 body:
   - text: >-
       En la actualidad trabajo en O Porriño, en una empresa del sector TIC, de
@@ -28,9 +28,9 @@ body:
       grande será esa fuerza que hará que el diseño, en Galicia, consiga el
       respeto y el reconocimiento que se merece.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9d78f62-daniel-costas-web.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   Me llamo [Daniel Costas](http://www.danivx.com/) y, aunque nací en 1978 en

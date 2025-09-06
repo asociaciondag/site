@@ -1,9 +1,9 @@
 id: 1286
-title: 'Ola Stephanie, benvida á DAG!'
+title: "Ola Stephanie, benvida á DAG!"
 body:
   - list: before
     image: /img/news/images/stephanie-wurm.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

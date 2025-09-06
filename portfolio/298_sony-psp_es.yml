@@ -7,10 +7,10 @@ body:
       Illustrator.
     type: text
   - image: /img/portfolio/images/detalle-ilustracion.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/ilustracion-vectorial.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/detalle-ilustracion.jpg
 tags: []

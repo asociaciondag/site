@@ -1,9 +1,9 @@
 id: 1346
-title: 'Dos Premios Clap Platinum para la publicación Otro mar '
+title: "Dos Premios Clap Platinum para la publicación Otro mar "
 body:
   - list: before
     image: /img/news/images/premio-clap-carloselrojo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -32,8 +32,8 @@ body:
       literarios, de ilustración o fotografía que tienen una especial relación
       con las aguas que bañan las costas gallegas.
     type: text
-  - list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-clap/ganadores-clap.html'
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-clap/ganadores-clap.html"
     text: Web de los premios
     type: button
 intro: >-

@@ -5,20 +5,20 @@ title: >-
 body:
   - list: after
     image: /img/news/images/relajaelcoco-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
       No os lo creéis? Pues echad un ojo al vídeo, así es un día de trabajo en
       relajaelcoco:
     type: text
-  - list: ''
+  - list: ""
     info:
       code: >-
         <iframe src="https://player.vimeo.com/video/109145814" width="640"
         height="360" frameborder="0" title="One day with relajaelcoco"
         webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-      ratio: ''
+      ratio: ""
     type: embed
   - text: >-
       Y ahora que ya sabéis como trabajan, cuatro apuntes rápidos sobre su
@@ -49,8 +49,8 @@ body:
       Men's Health, Fast Company, BBC UK, Wired, UK, BBVA, Line, Yorokobu
       magazine, Jot Down magazine o Mapping Residencies.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: FEED'17
     type: button
 intro: >-

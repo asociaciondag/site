@@ -5,19 +5,19 @@ body:
   - text: Distintivo para a promoción dos libros galegos no estranxeiro.
     type: text
   - image: /img/portfolio/images/55859bdeaf9cf-galiciabooks-03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859bdeafbbc-galiciabooks-04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859bdeafdae-galiciabooks-05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859bdeaff86-galiciabooks-06.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859bdeb014b-galiciabooks-07.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585b2ed0ba30-pepe.jpg
 tags:
@@ -31,7 +31,7 @@ info:
   - name: Estudio
     value: Grupo Revision Deseño
   - name: Cliente
-    value: 'Asociación de Editores Galegos / Consellaría de Cultura, Xunta de Galicia'
+    value: "Asociación de Editores Galegos / Consellaría de Cultura, Xunta de Galicia"
   - name: Ano
-    value: '2011'
+    value: "2011"
 draft: false

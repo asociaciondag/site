@@ -3,7 +3,7 @@ title: Así foi a 7ª Edición do FEED​ celebrado en Santiago os días 3 e 4 d
 body:
   - list: before
     image: /img/news/images/foto-feed2023.jpg
-    text: 'Foto: Rubén Vilanova'
+    text: "Foto: Rubén Vilanova"
     mode: normal
     type: image
   - text: >-
@@ -98,12 +98,12 @@ body:
 
       Vémonos no FEED 2025!
     type: text
-  - list: ''
-    url: 'https://dag.gal/feed2023/'
+  - list: ""
+    url: "https://dag.gal/feed2023/"
     text: Web do FEED
     type: button
-  - list: ''
-    url: 'https://www.flickr.com/photos/asociaciondag/albums/72177720312555030/page1'
+  - list: ""
+    url: "https://www.flickr.com/photos/asociaciondag/albums/72177720312555030/page1"
     text: Flickr do FEED 2023
     type: button
 intro: >-

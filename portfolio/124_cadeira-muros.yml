@@ -20,25 +20,25 @@ body:
       xurdida dunha visita a unha obra.
     type: text
   - image: /img/portfolio/images/56e06c2ed2ace-cadeira-muros-02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56e06c2ed3271-cadeira-muros-03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56e06c2ed378e-cadeira-muros-04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56e06c2ed3c85-cadeira-muros-05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56e06c2ed5326-cadeira-muros-06.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56e06c2ed5b08-cadeira-muros-07.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56e06c2ed5dbf-cadeira-muros-08.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/56e06c686ed0e-cadeira-muros-01.jpg
 tags: []

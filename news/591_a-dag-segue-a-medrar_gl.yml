@@ -3,7 +3,7 @@ title: A DAG segue a medrar
 body:
   - list: after
     image: /img/news/images/560a6a81490ed-manuel-moital.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -21,8 +21,8 @@ body:
 
       Un saúdo para todos/as dende Bueu
     type: text
-  - list: ''
-    url: 'http://dag.gal/gl/manuel-moital-davila'
+  - list: ""
+    url: "http://dag.gal/gl/manuel-moital-davila"
     text: Perfil de socio
     type: button
 intro: >-

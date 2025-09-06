@@ -3,7 +3,7 @@ title: O lóxico é ser da DAG ;)
 body:
   - list: after
     image: /img/news/images/foto-presentacion-carlos-el-rojo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -25,8 +25,8 @@ body:
       neste espazo somos xente creativa e ninguén pensa dese xeito, non si? NON
       SI?
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/carlos-lorenzo/'
+  - list: ""
+    url: "https://dag.gal/gl/carlos-lorenzo/"
     text: Perfil de socio na DAG
     type: button
 intro: >-

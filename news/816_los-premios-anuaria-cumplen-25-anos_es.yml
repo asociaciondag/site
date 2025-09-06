@@ -3,7 +3,7 @@ title: Los Premios Anuaria cumplen 25 años
 body:
   - list: after
     image: /img/news/images/imaxe-anuaria-2018.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -28,7 +28,7 @@ body:
       de los Anuaria. En diciembre tendrá lugar en Barcelona la gala y ceremonia
       de entrega. Las fechas y el lugar se anunciarán más adelante.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.veredictas.com/index.php?md=butlleti&accio=vista_previa&id=123&codi_seguretat=bee7d65a6efd060a1a0b4e759d7e818b
     text: Inscripción en los Anuaria 2018

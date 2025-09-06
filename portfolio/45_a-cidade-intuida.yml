@@ -34,46 +34,46 @@ body:
       \+ info [www.acidadeintuida.org](http://www.acidadeintuida.org)
     type: text
   - image: /img/portfolio/images/55576647e28a5-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-06.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-07.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-08.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-5500589393_429b0063c3_b.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-5500595675_b64649974e_b.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-5500601743_dd6e01046e_b.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-5501186924_0644db2205_b.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-5511287139_5f7ebc684c_b.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55576647e28a5-5539189507_8651895124_b.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558566a50f66f-55576647e28a5-02.jpg
 tags:
@@ -90,5 +90,5 @@ info:
   - name: Cliente
     value: Concello de Santiago
   - name: Ano
-    value: '2010'
+    value: "2010"
 draft: true

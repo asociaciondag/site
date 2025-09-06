@@ -3,7 +3,7 @@ title: Nova convocatoria dos Premios Anuaria
 body:
   - list: after
     image: /img/news/images/img-0564.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -35,7 +35,7 @@ body:
       O veredicto farase público en xaneiro de 2024. Moita sorte a todos e
       todas!
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.veredictas.com/es/premios/premios-anuaria/los-premios-anuaria.html
     text: Máis información e inscricións

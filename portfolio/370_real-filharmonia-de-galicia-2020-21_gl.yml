@@ -5,7 +5,7 @@ body:
   - text: Imaxe gráfica da tempada 2020–21 da Real Filharmonía de Galicia.
     type: text
   - image: /img/portfolio/images/publicacion-filharmonia.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/portada-filharmonia.jpg
 tags:

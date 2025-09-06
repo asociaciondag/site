@@ -1,9 +1,9 @@
 id: 625
-title: 'Álvaro Valiño, outra vez connosco'
+title: "Álvaro Valiño, outra vez connosco"
 body:
   - list: after
     image: /img/news/images/568fe46d95f9c-alvarovalin-o.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -17,11 +17,11 @@ body:
       > Son coruñés, mais resido en Washington DC desde onde traballo como
       infografista, deseñador e ilustrador freelance.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/alvaro-valino/'
+  - list: ""
+    url: "https://dag.gal/gl/alvaro-valino/"
     text: Ficha de socio DAG
     type: button
-intro: 'Pois si! Témolo de volta! Tan lonxe e á vez tan cerca :)'
+intro: "Pois si! Témolo de volta! Tan lonxe e á vez tan cerca :)"
 basename: alvaro-valino-outra-vez-connosco
 tags:
   - noticias socios/socias

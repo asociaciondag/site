@@ -12,9 +12,9 @@ body:
 
       <http://www.salon-fuer-kunstbuch.at/noisbn>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9751eb4-no-isbn.gif
-    text: ''
+    text: ""
     type: image
 intro: >-
   Recentemente o SALON FÜR KUNSTBUCH abriu a convocatoria NON-ISBN para

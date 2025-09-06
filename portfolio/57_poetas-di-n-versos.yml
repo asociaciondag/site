@@ -7,22 +7,22 @@ body:
       poéticos e gráfica aplicada no escenario.
     type: text
   - image: /img/portfolio/images/55859c35018ea-cartazpoesia-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859c3501f21-cartazpoesia-02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859c350248b-poesia-p1070907.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859c3502cb0-poesia-p1070917.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859c3503480-poesia-p1070922.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859c3503a85-poesia-p1070926.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859c35010ed-poesia-p1070922.jpg
 tags:

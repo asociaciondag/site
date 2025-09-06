@@ -3,7 +3,7 @@ title: Orientacións para a contratación de deseñadores e deseñadoras
 body:
   - list: after
     image: /img/news/images/ilustracion-horizontal.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -21,12 +21,12 @@ body:
       dispoñibles para consulta e libre descarga na [páxina web de
       READ](https://www.designread.es/categoria-documentos/buenas-practicas/).
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.designread.es/wp-content/uploads/2020/02/Anuncio-contratacion-READ-galego.pdf
     text: Documento de orientacións
     type: button
-  - list: ''
+  - list: ""
     file: /files/gcd-gl.pdf
     text: Guía para Convocatorias de Deseño
     type: file

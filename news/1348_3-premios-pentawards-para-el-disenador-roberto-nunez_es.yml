@@ -4,7 +4,7 @@ body:
   - list: before
     image: >-
       /img/news/images/01-premio-pentawards-branding-packaging-roberto-nunez-studio.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -34,8 +34,8 @@ body:
       internacional de referencia en el mundo del _branding_ y del diseño de
       _packaging_.
     type: text
-  - list: ''
-    url: 'https://pentawards.com/directory/en/page/the-winners'
+  - list: ""
+    url: "https://pentawards.com/directory/en/page/the-winners"
     text: Web de los premios
     type: button
 intro: >-

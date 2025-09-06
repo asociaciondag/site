@@ -19,9 +19,9 @@ body:
 
       <http://www.cidea.gal/desescribir/>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa873a1b-taller-desescribir-cidea.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   Hoy a las 14.00 h finaliza el plazo para inscribirse en el taller que Cibrán

@@ -1,9 +1,9 @@
 id: 808
-title: 'Bienal Iberoamericana de Diseño 2018 '
+title: "Bienal Iberoamericana de Diseño 2018 "
 body:
   - list: after
     image: /img/news/images/gifsociedadcreativaangosta.gif
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -24,11 +24,11 @@ body:
       Aunque que el precio de la inscripción general son 60 euros, existen
       descuentos del 15% para socios de la DAG.
     type: text
-  - list: ''
-    url: 'http://www.bid-dimad.org/convocatoria-bid18/'
+  - list: ""
+    url: "http://www.bid-dimad.org/convocatoria-bid18/"
     text: Web de la BID 18
     type: button
-  - list: ''
+  - list: ""
     url: >-
       http://www.bid-dimad.org/wp-content/uploads/2018/05/Bases-de-la-convocatoria-BID18.pdf
     text: Bases de la convocatoria BID 18

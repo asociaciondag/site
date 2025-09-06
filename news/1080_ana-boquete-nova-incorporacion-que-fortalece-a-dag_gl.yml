@@ -1,9 +1,9 @@
 id: 1080
-title: 'Ana Boquete, unha nova incorporación que fortalece a DAG '
+title: "Ana Boquete, unha nova incorporación que fortalece a DAG "
 body:
-  - list: ''
+  - list: ""
     image: /img/news/images/foto-ana.jpg
-    text: ''
+    text: ""
     mode: right
     type: image
   - text: >-
@@ -43,8 +43,8 @@ body:
 
       Grazas por acollerme!
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/ana-boquete/'
+  - list: ""
+    url: "https://dag.gal/gl/ana-boquete/"
     text: Perfil de Ana Boquete
     type: button
 intro: >-

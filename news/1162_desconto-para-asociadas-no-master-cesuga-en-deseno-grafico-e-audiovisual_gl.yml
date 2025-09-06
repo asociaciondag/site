@@ -1,9 +1,9 @@
 id: 1162
-title: 'Desconto para asociadas no ​Máster CESUGA en Deseño Gráfico e Audiovisual '
+title: "Desconto para asociadas no ​Máster CESUGA en Deseño Gráfico e Audiovisual "
 body:
   - list: after
     image: /img/news/images/imaxe-master-cesuga-02-22.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -48,8 +48,8 @@ body:
       aplazar ata en 7 meses e o programa benefíciase de
       [FUNDAE](https://www.fundae.es/).
     type: text
-  - list: ''
-    url: 'https://cesuga.com/master-en-diseno-grafico-audiovisual/'
+  - list: ""
+    url: "https://cesuga.com/master-en-diseno-grafico-audiovisual/"
     text: Máis Información
     type: button
 intro: >-

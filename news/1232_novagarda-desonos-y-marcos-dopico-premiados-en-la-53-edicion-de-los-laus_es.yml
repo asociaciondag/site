@@ -1,9 +1,9 @@
 id: 1232
-title: 'Novagarda, Desoños y Marcos Dopico premiados en la 53 edición de los​​ Laus'
+title: "Novagarda, Desoños y Marcos Dopico premiados en la 53 edición de los​​ Laus"
 body:
   - list: before
     image: /img/news/images/imaxe-premios-laus23-02.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -37,8 +37,8 @@ body:
       una larga trayectoria y remarcan el prestigio conseguido en el sector,
       además de convertirse en una de las esperadas cit​as anuales del diseño.
     type: text
-  - list: ''
-    url: 'https://www.adg-fad.org/es/laus/premiados'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premiados"
     text: Web de los premios
     type: button
 intro: >-

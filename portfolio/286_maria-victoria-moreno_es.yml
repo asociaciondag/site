@@ -3,10 +3,10 @@ title: María Victoria Moreno
 basename: maria-victoria-moreno
 body:
   - image: /img/portfolio/images/cartel-maria-victoria-moreno.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/selo-conmemorativo-mvm.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/cartel-maria-victoria-moreno.jpg
 tags:
@@ -15,9 +15,9 @@ members_id:
   - 23
 lang: es
 info:
-  - name: 'Cliente:'
+  - name: "Cliente:"
     value: Ayuntamiento de Pontevedra
-  - name: 'Año:'
-    value: '2018'
+  - name: "Año:"
+    value: "2018"
 draft: false
 oldUrl: /es/portfolio/maria-victoria-moreno/

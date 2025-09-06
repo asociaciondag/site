@@ -49,8 +49,8 @@ body:
       investigadores de comunicación audiovisual y publicidad en el campus
       universitario de Pontevedra.
     type: text
-  - list: ''
-    url: 'https://sede.pontevedra.gal/public/catalog-detail/1218'
+  - list: ""
+    url: "https://sede.pontevedra.gal/public/catalog-detail/1218"
     text: Más información
     type: button
 intro: >-

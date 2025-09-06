@@ -50,8 +50,8 @@ body:
       Bernardo Paz y Daniel Pino, junto con Yolanda González y Carla Bautís. La
       entrada es gratuita hasta completar el aforo.
     type: text
-  - list: ''
-    url: 'https://www.canyasytipos.com/'
+  - list: ""
+    url: "https://www.canyasytipos.com/"
     text: Sobre Cañas y Tipos
     type: button
 intro: >-

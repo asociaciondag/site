@@ -21,22 +21,22 @@ body:
       reformuladas. O emprego de algodón trenzado reforza a mensaxe do produto.
     type: text
   - image: /img/portfolio/images/570f5349a83b6-cun003-perspectiva-inferior.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f5349a8f63-cun003-perspectiva.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f5349a90c0-cuncha-composicion-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f5349a91fb-cuncha-composicion-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f5349a933a-cuncha-detalle-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f6447ed295-cun003-detalle.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/570f5349a7dd6-cun003-detalle.jpg
 tags: []

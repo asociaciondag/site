@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/lois-web.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -25,8 +25,8 @@ body:
       cofundar, en la actualidad dirige el proyecto
       [cucuducho](http://cucuducho.com/cms/es/).
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: FEED'17
     type: button
 intro: >-

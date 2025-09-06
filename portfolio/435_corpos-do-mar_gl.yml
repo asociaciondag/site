@@ -10,7 +10,7 @@ body:
       Fotografía de Javier Fernández
     type: text
   - image: /img/portfolio/images/corpos-no-mar-2.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/corpos-no-mar-2.png
 tags:

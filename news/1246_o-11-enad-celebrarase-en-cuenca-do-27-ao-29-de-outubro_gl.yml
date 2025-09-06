@@ -3,7 +3,7 @@ title: O 11 ENA​D celebrarase en Cuenca do 27 ao 29 de outubro
 body:
   - list: before
     image: /img/news/images/11-enad.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -72,9 +72,9 @@ body:
       Cuenca Diseño en marzo de 2023, en Mérida, na celebración da Asamblea
       Xeral.
     type: text
-  - list: ''
-    url: 'https://11enad.designread.es/'
-    text: 'Máis información e inscricións '
+  - list: ""
+    url: "https://11enad.designread.es/"
+    text: "Máis información e inscricións "
     type: button
 intro: >-
   Do 27 ao 29 de outubro terá lugar en Cuenca o 11ENAD, o Encontro Nacional de

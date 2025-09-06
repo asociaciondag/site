@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/procesos-e-formas-image.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -62,8 +62,8 @@ body:
       Galicia a través da Axencia Galega de Innovación, da Fundación Artesanía
       de Galicia e da Fundación DIDAC.
     type: text
-  - list: ''
-    url: 'https://www.portodesignbiennale.pt/'
+  - list: ""
+    url: "https://www.portodesignbiennale.pt/"
     text: Web do evento
     type: button
 intro: >-

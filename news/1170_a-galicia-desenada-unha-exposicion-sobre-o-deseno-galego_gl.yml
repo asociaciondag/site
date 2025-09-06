@@ -1,9 +1,9 @@
 id: 1170
-title: 'A Galicia deseñada, unha exposición sobre​ o deseño galego'
+title: "A Galicia deseñada, unha exposición sobre​ o deseño galego"
 body:
   - list: after
     image: /img/news/images/221006-expo-twitter.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

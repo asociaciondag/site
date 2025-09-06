@@ -38,13 +38,13 @@ body:
       <http://moccahelados.com>
     type: text
   - image: /img/portfolio/images/5585a29994544-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585a299947fb-02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585a29994a56-03.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585b6d4dd2c2-mocca.jpg
 tags:
@@ -61,5 +61,5 @@ info:
   - name: Cliente
     value: Carlos Montero
   - name: Ano
-    value: '2012'
+    value: "2012"
 draft: true

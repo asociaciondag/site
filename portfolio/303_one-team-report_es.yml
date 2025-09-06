@@ -2,10 +2,10 @@ id: 303
 title: One Team Report
 basename: one-team-report
 body:
-  - text: '[→ Visitar la web](https://oneteam.report)'
+  - text: "[→ Visitar la web](https://oneteam.report)"
     type: text
   - image: /img/portfolio/images/landing-page.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/marca.png
 tags:

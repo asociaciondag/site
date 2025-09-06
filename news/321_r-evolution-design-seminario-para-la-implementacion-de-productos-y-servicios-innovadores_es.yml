@@ -67,19 +67,19 @@ body:
 
       Descarga la hoja de inscripción:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9fd24df-publico.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9fd24df-convocatoria-revolution-design.pdf
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     file: /files/553e7a9fd24df-solicitud-de-inscripcion.doc
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     file: /files/553e7a9fd24df-programa-seminario-revolution-design.doc
     text: Descargar
     type: file

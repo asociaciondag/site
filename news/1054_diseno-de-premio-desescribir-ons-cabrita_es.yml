@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/cartel-ons.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -19,9 +19,9 @@ body:
       recopilados en un libro y se mostrarán en una exposción durante la
       [Barcelona Design Week](https://barcelonadesignweek.com).
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/cabrita.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

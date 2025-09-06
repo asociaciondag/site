@@ -1,5 +1,5 @@
 id: 740
-title: 'Bea Lema gana el Premio de Banda Deseñada Castelao '
+title: "Bea Lema gana el Premio de Banda Deseñada Castelao "
 body:
   - list: after
     image: /img/news/images/bea-lemajpg.jpg
@@ -32,22 +32,22 @@ body:
       seleccionada en el II Concurso Internacional de Ilustración organizado por
       el Festival de Valladolid Ilustrado.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/c01.jpg
     text: Página de O corpo de Cristo
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/c02.jpg
     text: Página de _O corpo de Cristo_
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/c03.jpg
     text: Página de _O corpo de Cristo_
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/c04.jpg
     text: Página de _O corpo de Cristo_
     mode: normal

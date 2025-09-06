@@ -3,7 +3,7 @@ title: Daniel Vila del estudio 988 se une a la DAG
 body:
   - list: after
     image: /img/news/images/foto-dani-presentacio-n.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -39,8 +39,8 @@ body:
 
       Es un placer formar parte de la DAG.
     type: text
-  - list: ''
-    url: 'https://dag.gal/es/daniel-vila-prieto/'
+  - list: ""
+    url: "https://dag.gal/es/daniel-vila-prieto/"
     text: Perfil de socio en la DAG
     type: button
 intro: >-

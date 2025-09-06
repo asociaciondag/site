@@ -7,25 +7,25 @@ body:
       promoción dun controlador de videoxogos orientados a simuladores de voo.
     type: text
   - image: /img/portfolio/images/fondo-newsletter-2-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/fondo-newsletter-3-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/fondo-newsletter-1-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/soldado.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/controlador-videojuegos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/blackhog-logo.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/tshirs.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/blackhog-logo-portada.jpg
 tags:

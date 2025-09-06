@@ -15,15 +15,15 @@ body:
       Para máis información e inscripcións:
       <http://fad.cat/awards/view/20/lang:spa>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a980c8e3-001-laus2010.gif
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a980c8e3-bases-laus.pdf
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     file: /files/553e7a980c8e3-bases-laus-estudantes.pdf
     text: Descargar
     type: file

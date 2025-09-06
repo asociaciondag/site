@@ -3,7 +3,7 @@ title: III Premios da Comunicación e do Marketing de Galicia
 body:
   - list: after
     image: /img/news/images/screenshot-2018-10-29-premios-paraugas.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -131,8 +131,8 @@ body:
 
       - 3ª inscrición e seguintes: de balde
     type: text
-  - list: ''
-    url: 'http://premios.clustercomunicacion.gal/'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/"
     text: III Premios Paraguas
     type: button
 intro: >-

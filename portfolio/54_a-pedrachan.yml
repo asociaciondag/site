@@ -23,28 +23,28 @@ body:
       material en caldeiraría e canos de recollida de augas.
     type: text
   - image: /img/portfolio/images/55571b5b4a80a-apedrachan_01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571b5b4a80a-apedrachan_02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571b5b4a80a-apedrachan_03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571b5b4a80a-apedrachan_04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571b5b4a80a-apedrachan_05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571b5b4a80a-apedrachan_06.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571b5b4a80a-apedrachan_07.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571b5b4a80a-apedrachan_08.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558568a807c9c-55571b5b4a80a-apedrachan-07.jpg
 tags:
@@ -62,7 +62,7 @@ info:
   - name: Cliente
     value: Concello de Noia
   - name: Ano
-    value: '2010'
+    value: "2010"
   - name: Estudio antropolóxico
     value: Ana Filgueiras
   - name: Cerámica

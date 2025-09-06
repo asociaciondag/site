@@ -17,10 +17,10 @@ body:
       Incluye la posibilidad de alojar un panel de abeja antideslumbrante
     type: text
   - image: /img/portfolio/images/proyector-ados-mini-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/proyector-ados-mini-2.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/proyector-ados-mini-1.jpg
 tags:
@@ -31,6 +31,6 @@ members_id:
 lang: es
 info:
   - name: Año
-    value: '2020'
+    value: "2020"
 draft: false
 oldUrl: /es/portfolio/proyector-ados/

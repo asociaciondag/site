@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/asamblea-read-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -89,7 +89,7 @@ body:
       [EIDE](https://eidedesign.eus/) (Euskadi e Navarra), [La
       Exprimidora](https://laexprimidora.com/) (Castellón) e DAG (Galicia).​
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.flickr.com/photos/designread/albums/72177720297354523/with/51938878625/
     text: Flickr da Asemblea READ 2022

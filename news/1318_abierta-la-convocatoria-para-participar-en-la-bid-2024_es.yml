@@ -3,7 +3,7 @@ title: Abierta la convocatoria para participar en la BID 2024
 body:
   - list: before
     image: /img/news/images/bid24-image.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -39,8 +39,8 @@ body:
       académico. Año tras año se consolida como un foro para generar ideas y
       compartirlas.
     type: text
-  - list: ''
-    url: 'https://bid-dimad.com/'
+  - list: ""
+    url: "https://bid-dimad.com/"
     text: Web de la BID24
     type: button
 intro: >-

@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/parga-a-emotional-light.jpg
-    text: 'Fotografía: a-emotional light'
+    text: "Fotografía: a-emotional light"
     mode: normal
     type: image
   - text: >-
@@ -30,12 +30,12 @@ body:
       impactantes do ano, recoñecendo aos iconos de hoxe e marcando a pauta para
       a innovación do mañá.
     type: text
-  - list: ''
-    url: 'https://interiordesign.net/awards/best-of-year/#pendant-fixtures'
+  - list: ""
+    url: "https://interiordesign.net/awards/best-of-year/#pendant-fixtures"
     text: Web dos premios
     type: button
-  - list: ''
-    url: 'https://www.cenlitros.com/parga'
+  - list: ""
+    url: "https://www.cenlitros.com/parga"
     text: Colección Parga Cenlitros
     type: button
 intro: >-

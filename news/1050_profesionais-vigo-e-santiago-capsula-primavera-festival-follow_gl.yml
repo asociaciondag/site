@@ -1,11 +1,11 @@
 id: 1050
 title: >-
   Profesionais de Vigo e Santiago protagonizan a cápsula de primavera do
-  festival de deseño #follow 
+  festival de deseño #follow
 body:
   - list: after
     image: /img/news/images/screenshot-2021-04-06-at-10-51-29.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -47,9 +47,9 @@ body:
       tódalas súas formas, unha nova mostra do bo facer das e dos profesionais
       en Galicia.
     type: text
-  - list: ''
-    url: 'https://follow.gal/followss21'
-    text: 'Web #followSS21'
+  - list: ""
+    url: "https://follow.gal/followss21"
+    text: "Web #followSS21"
     type: button
 intro: >-
   O festival #follow, unha iniciativa de Álex Rico nacida en 2020, comeza o mes

@@ -5,22 +5,22 @@ body:
   - text: Ilustraciones vectoriales para _packaging_.
     type: text
   - image: /img/portfolio/images/01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/ilustracions.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/03.jpg
 tags: []

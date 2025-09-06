@@ -3,7 +3,7 @@ title: Os deseñadores como factor de éxito
 body:
   - list: after
     image: /img/news/images/xornada-desenadores-cis-nov2019.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -24,13 +24,13 @@ body:
 
       A asistencia é de balde mais é necesario inscrición previa.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://www.cisgalicia.org/contactos/plantillas/201911xdesenex/programa/programa.pdf
     text: Programa da xornada
     type: button
-  - list: ''
-    url: 'http://www.cisgalicia.org/contactos/campan/inscribir/21'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/campan/inscribir/21"
     text: Ficha de inscrición
     type: button
 intro: >-

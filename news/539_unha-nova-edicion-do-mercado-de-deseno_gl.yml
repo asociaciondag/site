@@ -27,9 +27,9 @@ body:
 
       - <http://www.mercadocentraldediseno.es/>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa83c730-mercado-diseno-2015.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   O [Mercado de Deseño](http://www.mercadocentraldediseno.es/) volve abrir as

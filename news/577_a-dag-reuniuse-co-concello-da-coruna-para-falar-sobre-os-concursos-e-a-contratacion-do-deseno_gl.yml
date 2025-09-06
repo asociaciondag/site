@@ -71,13 +71,13 @@ body:
       necesaria na acción de goberno e promovan modos de contratación que axuden
       o tecido de empresas creativas do país.
     type: text
-  - list: ''
-    url: 'http://dag.gal/gl/a-posicion-da-dag-sobre-os-concursos-de-deseno'
+  - list: ""
+    url: "http://dag.gal/gl/a-posicion-da-dag-sobre-os-concursos-de-deseno"
     text: A postura da DAG sobre os concursos de deseño
     type: button
   - list: after
     image: /img/news/images/55ba4397e50ad-corun-a.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

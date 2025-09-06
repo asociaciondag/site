@@ -5,7 +5,7 @@ body:
   - text: Imaxe gráfica para as actividades do _Año Sabatini 2021._
     type: text
   - image: /img/portfolio/images/publicacionsabatini.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/portadasabatini.jpg
 tags:

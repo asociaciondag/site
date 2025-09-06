@@ -3,7 +3,7 @@ title: Nuevos códigos​ CNAE para el diseño
 body:
   - list: before
     image: /img/news/images/cnae-2025-cas.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -59,7 +59,7 @@ body:
       una mayor adecuación de la actividad que realizamos, para beneficiarnos a
       título personal y también al conjunto del sector.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://portal.mineco.gob.es/RecursosArticulo/mineco/ministerio/participacion_publica/audiencia/ficheros/propone-Consejo-Ministros-aprobacion-siguiente-proyecto-disposicion.pdf
     text: Más info

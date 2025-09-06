@@ -3,7 +3,7 @@ title: A DAG e GAIN inician un estudo sobre a economía do deseño en Galicia
 body:
   - list: after
     image: /img/news/images/estudo-deseno.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,8 +43,8 @@ body:
       fases podes subscribirte á lista de correo, creada para este estudo, pola
       DAG.
     type: text
-  - list: ''
-    url: 'http://eepurl.com/5Pmev'
+  - list: ""
+    url: "http://eepurl.com/5Pmev"
     text: Quero recibir máis información
     type: button
 intro: >-

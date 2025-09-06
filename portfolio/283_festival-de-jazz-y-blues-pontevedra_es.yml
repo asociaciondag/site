@@ -3,22 +3,22 @@ title: Festival de Jazz y Blues Pontevedra
 basename: festival-de-jazz-y-blues-pontevedra
 body:
   - image: /img/portfolio/images/cartel-festival-de-jazz-2016-detalle.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cartel-festival-de-jazz-2016-negro.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cartel-festival-de-jazz-2016-oro1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/folleto.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/folleto-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/folleto-interior.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/cartel-festival-de-jazz-2016-detalle.jpg
 tags:
@@ -27,9 +27,9 @@ members_id:
   - 23
 lang: es
 info:
-  - name: 'Cliente:'
+  - name: "Cliente:"
     value: Concello de Pontevedra
   - name: Año
-    value: '2016'
+    value: "2016"
 draft: false
 oldUrl: /es/portfolio/festival-de-jazz-y-blues-pontevedra/

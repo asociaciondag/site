@@ -1,5 +1,5 @@
 id: 437
-title: 'Expositor pementa '
+title: "Expositor pementa "
 basename: expositor-pementa-gal
 body:
   - text: |-
@@ -8,7 +8,7 @@ body:
       Fotografía de Javier Fernández
     type: text
   - image: /img/portfolio/images/expositior-pementa.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/expositior-pementa.png
 tags:

@@ -1,7 +1,7 @@
 id: 1090
 title: >-
   La exposición «FSWD/Identidad y territorio» muestra la diversidad y buen hacer
-  del diseño 
+  del diseño
 body:
   - list: before
     image: /img/news/images/enad-15-xh1s8168-c-xaimecortizo.jpg
@@ -29,7 +29,7 @@ body:
       el contexto en que han nacido, respondiendo a un problema o demanda y
       sobre todo a la necesidad de las personas.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/expo-fswd-xh1s7358-c-xaimecortizo.jpg
     text: Vista de la exposición
     mode: normal
@@ -44,7 +44,7 @@ body:
       uno y todos, construyendo un escenario y una narrativa identitaria que
       indudablemente crea memoria.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/silla-bolina-amalia-puga.jpg
     text: Silla Bolina. Amalia Puga
     mode: normal
@@ -61,7 +61,7 @@ body:
       artesanalmente en Galicia, con madera gallega, en el taller de carpintería
       de Víctor Domínguez Gaviño.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/454-feed2021-xh1s7366-c-xaimecortizo.jpg
     text: Vista de la exposición
     mode: normal
@@ -84,8 +84,8 @@ body:
 
       La exposición podrá visitarse hasta el 30 de enero de 2022.
     type: text
-  - list: ''
-    url: 'https://cgac.xunta.gal/gl/exposicions/fswd-identidade-e-territorio'
+  - list: ""
+    url: "https://cgac.xunta.gal/gl/exposicions/fswd-identidade-e-territorio"
     text: Más información
     type: button
 intro: >-

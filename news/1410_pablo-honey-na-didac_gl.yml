@@ -33,7 +33,7 @@ body:
 
       A entrada será de balde con inscrición previa.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSdNlRx0bwuh1R09fdOR320Wkv7xU-_b1g12tpDD5ui0WM5Xkg/viewform
     text: FORMULARIO DE INSCRICIÓN

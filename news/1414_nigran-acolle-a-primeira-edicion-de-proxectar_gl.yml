@@ -3,7 +3,7 @@ title: Nigrán acolle a primeira edición de  PROXECTAR
 body:
   - list: before
     image: /img/news/images/imaxe-proxectar-2025.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -30,8 +30,8 @@ body:
       Deseño da UVigo, tomará o seu relevo na sesión de Tomás Alonso e Estar
       Arquitectos.
     type: text
-  - list: ''
-    url: 'https://proxectar.gal/'
+  - list: ""
+    url: "https://proxectar.gal/"
     text: Máis info e entradas
     type: button
 intro: Nace un ciclo de conversas sobre deseño industrial e de produto

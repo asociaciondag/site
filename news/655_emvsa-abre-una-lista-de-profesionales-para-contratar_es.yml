@@ -26,8 +26,8 @@ body:
       transparentes y acordes con las demandas que desde la asociación llevamos
       tiempo formulando.
     type: text
-  - list: ''
-    url: 'http://www.emvsa.es/images/files/1_Bases%20bolsas%20de%20traballo.pdf'
+  - list: ""
+    url: "http://www.emvsa.es/images/files/1_Bases%20bolsas%20de%20traballo.pdf"
     text: Bases de la convocatoria
     type: button
   - text: >-

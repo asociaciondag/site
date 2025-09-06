@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/cartel-mentoring-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,8 +31,8 @@ body:
       _networking_ e visitas a empresas cun resultado do 58% dos/as
       participantes están traballando ou completando formación.
     type: text
-  - list: ''
-    url: 'https://www.xuventudementoring.gal/'
+  - list: ""
+    url: "https://www.xuventudementoring.gal/"
     text: Máis información
     type: button
 intro: >-

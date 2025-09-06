@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/cartel-ons.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -18,9 +18,9 @@ body:
       web de ADG-FAD, recompilados nun libro e estarán presentes nunha exposción
       durante a [Barcelona Design Week](https://barcelonadesignweek.com).
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/cabrita.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

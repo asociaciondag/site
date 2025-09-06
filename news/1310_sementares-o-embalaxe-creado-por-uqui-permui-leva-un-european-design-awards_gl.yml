@@ -1,9 +1,9 @@
 id: 1310
-title: 'Sementares, o embalaxe creado por Uqui Permui, leva un European Design Awards'
+title: "Sementares, o embalaxe creado por Uqui Permui, leva un European Design Awards"
 body:
   - list: before
     image: /img/news/images/uqui-europeandesigawards-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -30,8 +30,8 @@ body:
       ámbitos do deseño, avalían os proxectos presentados, tendo en conta a
       orixinalidade, a calidade, a innovación e a efectividade.
     type: text
-  - list: ''
-    url: 'https://europeandesign.org/'
+  - list: ""
+    url: "https://europeandesign.org/"
     text: Web dos premios
     type: button
 intro: >-

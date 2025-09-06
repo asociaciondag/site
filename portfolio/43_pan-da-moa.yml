@@ -25,22 +25,22 @@ body:
       colgantes, elaboradas coa colaboración da artesán Idoia Cuesta.
     type: text
   - image: /img/portfolio/images/558597cb131d9-uqui.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558597cb138aa-uqui2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558597cb13e82-uqui3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558597cb1437a-uqui4.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558597cb14b34-uqui5.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558597cb14e60-uqui6.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558597cb12af1-uqui.jpg
 tags:
@@ -58,7 +58,7 @@ info:
   - name: Cliente
     value: Panadería Moscoso Moure
   - name: Ano
-    value: '2013'
+    value: "2013"
   - name: Colaboradores
     value: Idoia Cuesta paraa elaboración de cestas de vimbio para o pan.
 draft: false

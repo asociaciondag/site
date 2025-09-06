@@ -24,9 +24,9 @@ body:
       Martes a sábado de 11.00 a 14.00 e de 17.00 a 20.00. Domingos de 11.00 a
       14.00. Luns pechado
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa528ba1-alberto-corazon.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   Inaugurouse en novembro, pero aínda estades a tempo de visitala porque

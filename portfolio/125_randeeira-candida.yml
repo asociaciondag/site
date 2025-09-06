@@ -19,19 +19,19 @@ body:
       que produce ao vela acompañe o movemento cando se abala candidamente.
     type: text
   - image: /img/portfolio/images/56e1474d36297-candida-02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56e1474d365c1-candida-03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56e1474d3685c-candida-04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56e1474d36ada-candida-05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/56e1474d36d7b-candida-06.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/56e1474d35e85-candida-01.jpg
 tags: []

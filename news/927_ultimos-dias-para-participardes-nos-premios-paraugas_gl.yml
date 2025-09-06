@@ -3,7 +3,7 @@ title: Últimos días para participardes nos Premios Paraugas
 body:
   - list: after
     image: /img/news/images/premios-paraugas-definitiva.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -141,11 +141,11 @@ body:
 
       3ª inscrición e seguintes: de balde
     type: text
-  - list: ''
-    url: 'http://premios.clustercomunicacion.gal/'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/"
     text: Web dos Premios Paraugas
     type: button
-  - list: ''
+  - list: ""
     url: >-
       http://premios.clustercomunicacion.gal/wp-content/uploads/2019/10/BASES-IV-Premios-Paraugas.pdf
     text: Bases dos Premios Paraugas

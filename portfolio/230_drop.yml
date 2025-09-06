@@ -3,7 +3,7 @@ title: DROP
 basename: drop
 body:
   - image: /img/portfolio/images/drop-v1-presentation-203.jpg
-    text: ''
+    text: ""
     type: image
   - text: >-
       Drop é un floreiro que representa o olor de dúas maneiras, coas flores e o
@@ -17,16 +17,16 @@ body:
       personalización.
     type: text
   - image: /img/portfolio/images/drop-v1-presentation.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/drop-v1-allv2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/exploded-view-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/drop-v1-presentation-203.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/drop-v1-presentation-203.jpg
 tags:

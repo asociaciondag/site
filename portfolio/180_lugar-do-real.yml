@@ -32,19 +32,19 @@ body:
       círculo que representa visualmente a valoración obtida.
     type: text
   - image: /img/portfolio/images/5762fd1bdf9ba-home-ldr.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5762fd1bdff20-home-responsive-ldr.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5762fd1be0178-seccion-ldr.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5762fd1be0380-fotomemoria-ldr.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5762fd1be05b4-video-ldr.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5762fb06eb162-ldr.png
 tags:
@@ -60,5 +60,5 @@ info:
   - name: Cliente
     value: AO NORTE . Associação de Produção e Animação Audiovisual
   - name: Ano
-    value: '2015'
+    value: "2015"
 draft: true

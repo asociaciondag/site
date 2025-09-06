@@ -3,7 +3,7 @@ title: A deseñadora de produto Noemí Cortizas incorpórase á DAG
 body:
   - list: after
     image: /img/news/images/imaxe-noemi-cortizas.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,8 +31,8 @@ body:
       Grazas por acollerme, espero poder intercambiar ideas e colaborar neste
       bonito proxecto con todos vosoutros.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/noemi-cortizas/'
+  - list: ""
+    url: "https://dag.gal/gl/noemi-cortizas/"
     text: Perfil de Noemí Cortizas na DAG
     type: button
 intro: >-

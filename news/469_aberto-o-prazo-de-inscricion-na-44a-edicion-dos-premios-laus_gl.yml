@@ -12,9 +12,9 @@ body:
       2014 e todos os socios e socias da DAG, Asociación Galega de Deseñadores,
       teñen un desconto do 15% na inscrición.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa521066-newsletter-asociaciones-amigas.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   A semana pasada abríase o prazo de inscrición na 44ª edición dos Premios Laus

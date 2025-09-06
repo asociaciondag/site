@@ -13,7 +13,7 @@ body:
     text: Deseño do cartel do filme _O acoirazado Potemkin_
     type: image
   - image: /img/portfolio/images/1.jpg
-    text: 'Deseño do cartel do filme _O bo, o feo e o mao_'
+    text: "Deseño do cartel do filme _O bo, o feo e o mao_"
     type: image
   - image: /img/portfolio/images/3.jpg
     text: Deseño do cartel do filme _O resplandor_
@@ -48,6 +48,6 @@ info:
   - name: Cliente
     value: Swiss Style Design
   - name: Ano
-    value: '2014'
+    value: "2014"
 draft: true
 oldUrl: /gl/portfolio/cartel-para-o-acoirazado-potemkin/

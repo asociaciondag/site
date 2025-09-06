@@ -3,7 +3,7 @@ title: El Galicia Design Weekend llega a Vigo
 body:
   - list: after
     image: /img/news/images/imagen-gdw22x-conborde.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,8 +33,8 @@ body:
       Galicia Design Weekend es un proyecto del socio Álex Rico y la agencia
       Follow.
     type: text
-  - list: ''
-    url: 'https://www.gdw.gal/'
+  - list: ""
+    url: "https://www.gdw.gal/"
     text: Más Información
     type: button
 intro: >-

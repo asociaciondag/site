@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/foto-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,7 +33,7 @@ body:
       DIDAC, hablará de las líneas generales que seguirá como comisario del país
       invitado en la Porto Design Biennale.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.cistecnoloxiaedeseno.gal/evento/vi-encontro-de-deseno-para-a-innovacion-empresarial-en-galicia/
     text: Programa e inscripciones

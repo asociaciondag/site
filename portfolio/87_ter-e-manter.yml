@@ -15,32 +15,32 @@ body:
       para a televisión e a radio.
     type: text
   - image: /img/portfolio/images/55571ea463df3-teremanter_01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571ea463df3-teremanter_02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571ea463df3-teremanter_03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571ea463df3-teremanter_04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571ea463df3-teremanter_05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571ea463df3-teremanter_06.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571ea463df3-teremanter_07.jpg
-    text: ''
+    text: ""
     type: image
   - info:
       code: >-
         <iframe src="https://player.vimeo.com/video/7043867" width="500"
         height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen
         allowfullscreen></iframe>
-      ratio: ''
+      ratio: ""
     type: embed
 cover: /img/portfolio/covers/5586006f02215-55571ea463df3-teremanter-07.jpg
 tags:
@@ -59,7 +59,7 @@ info:
   - name: Cliente
     value: Consorcio de Santiago
   - name: Ano
-    value: '2009'
+    value: "2009"
   - name: Fotografía
     value: Javier Iglesias
 draft: true

@@ -20,7 +20,7 @@ body:
         src="https://www.flickr.com/photos/desescribir/sets/72157650686499888/player"
         frameborder="0" allowTransparency="true"
         style="border:none;overflow:hidden;width:640px;height:425px;"></iframe>
-      ratio: '66.406'
+      ratio: "66.406"
     type: embed
 intro: >-
   El catálogo _Günther Förg_ diseñado por

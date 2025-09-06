@@ -3,7 +3,7 @@ title: Ourense acoge la asamblea general de la DAG 2019
 body:
   - list: after
     image: /img/news/images/poster-dag-final-2019-rgb-mod.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,8 +31,8 @@ body:
       Toda la información que se vaya generando del evento estará disponible en
       la web creada para esta asamblea 2019.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/asemblea-xeral-2019/'
+  - list: ""
+    url: "https://dag.gal/gl/asemblea-xeral-2019/"
     text: Web de la Asamblea 2019
     type: button
 intro: >-

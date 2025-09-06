@@ -1,9 +1,9 @@
 id: 843
-title: 'Olivetti, la unidad en la diversidad'
+title: "Olivetti, la unidad en la diversidad"
 body:
   - list: after
     image: /img/news/images/2.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -40,8 +40,8 @@ body:
       type que ha creado junto a Noel Pretorius. Entre sus clientes se
       encuentran firmas como Jägermeister.
     type: text
-  - list: ''
-    url: 'http://www.didac.gal/didac/gl/exposicions/olivetti'
+  - list: ""
+    url: "http://www.didac.gal/didac/gl/exposicions/olivetti"
     text: La muestra en la web de DIDAC
     type: button
 intro: >-

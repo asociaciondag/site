@@ -3,7 +3,7 @@ title: Os Laus 2021 premian o traballo de desescribir e Roberto Núñez
 body:
   - list: after
     image: /img/news/images/premioslaus.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -25,9 +25,9 @@ body:
       ademais do desenvolvemento gráfico e web, inclúe contido audiovisual,
       fotografía de produto e ilustracións CGI.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/davide.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -48,17 +48,17 @@ body:
       prescinde do innecesario para transmitir unha atmósfera concreta a través
       da tipografía, a cor, e a fotografía.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/ons-peq.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
       Celebramos os premios dos nosos socios polo merecido recoñecemento ao seu
       traballo e trasladamos os nosos parabéns a todos e todas as gañadoras.
     type: text
-  - list: ''
-    url: 'https://www.adg-fad.org/es/laus/premiados'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premiados"
     text: Premios Laus 2021
     type: button
 intro: >-

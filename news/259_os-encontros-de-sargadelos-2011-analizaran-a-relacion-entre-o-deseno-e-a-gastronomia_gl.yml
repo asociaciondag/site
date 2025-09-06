@@ -73,11 +73,11 @@ body:
 
       Consulta o dossier con toda a información:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9e11a77-encontros-sargadelos-2011.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9e11a77-dossier-encontros-sargadelos-2011.pdf
     text: Descargar
     type: file

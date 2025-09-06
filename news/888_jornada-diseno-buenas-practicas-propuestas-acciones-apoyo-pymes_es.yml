@@ -23,12 +23,12 @@ body:
 
       La jornada es gratuita pero necesita inscripción previa.
     type: text
-  - list: ''
-    url: 'http://gain.xunta.gal/repo/1-AgendaEventD4INNOV-USERFACTOR.pdf'
+  - list: ""
+    url: "http://gain.xunta.gal/repo/1-AgendaEventD4INNOV-USERFACTOR.pdf"
     text: Programa de la jornada
     type: button
-  - list: ''
-    url: 'http://www.cisgalicia.org/contactos/campan/inscribir/10'
+  - list: ""
+    url: "http://www.cisgalicia.org/contactos/campan/inscribir/10"
     text: Formulario de inscripción
     type: button
 intro: >-

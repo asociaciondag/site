@@ -3,7 +3,7 @@ title: La 55 Edición de los Premios Laus ya tiene finalistas
 body:
   - list: before
     image: /img/news/images/seleccion-laus-2025.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -36,8 +36,8 @@ body:
       Javier Jaén y Gemma Villegas el 4 de junio en el DHub Barcelona. El ADG
       Laus Empresas y Entidades es para El Celler de Can Roca.
     type: text
-  - list: ''
-    url: 'https://adg-fad.org/laus/premios/'
+  - list: ""
+    url: "https://adg-fad.org/laus/premios/"
     text: Más info
     type: button
 intro: >-

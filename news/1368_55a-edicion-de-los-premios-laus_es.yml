@@ -3,7 +3,7 @@ title: 55ª Edición de los Premios Laus
 body:
   - list: before
     image: /img/news/images/adglaus-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -39,12 +39,12 @@ body:
       La entrega de los premios se hará en el mes de junio, en Barcelona, en la
       Nit ADG Laus.
     type: text
-  - list: ''
-    url: 'https://adg-fad.org/laus/bases/'
+  - list: ""
+    url: "https://adg-fad.org/laus/bases/"
     text: Bases de los premios
     type: button
-  - list: ''
-    url: 'https://adg-fad.org/laus/premios/'
+  - list: ""
+    url: "https://adg-fad.org/laus/premios/"
     text: Inscripciones
     type: button
 intro: >-

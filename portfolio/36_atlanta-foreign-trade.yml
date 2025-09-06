@@ -30,13 +30,13 @@ body:
       obxectivo da comunicación de Atlanta como consultora en comercio exterior.
     type: text
   - image: /img/portfolio/images/555cdcddaa6f0-r-caccamo-2a.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdcddaafd7-r-caccamo-2b.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdcddab8f1-r-caccamo-2c.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558563cc131e2-555cdcddaafd7-r-caccamo-2b.jpg
 tags:
@@ -50,5 +50,5 @@ info:
   - name: Cliente
     value: Atlanta Foreign Trade
   - name: Ano
-    value: '2012'
+    value: "2012"
 draft: false

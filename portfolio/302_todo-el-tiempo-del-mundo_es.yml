@@ -12,13 +12,13 @@ body:
        Así, por un lado fue el agua como elemento y fuente de vida el elemento aglutinador, por otro, el propio tacto del volumen, aparentemente uniforme, hasta que lo tienes en las manos.
     type: text
   - image: /img/portfolio/images/todo-el-tiempo-del-mundo-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/todo-el-tiempo-del-mundo-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/todo-el-tiempo-del-mundo-3.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/todo-el-tiempo-del-mundo-1.jpg
 tags:

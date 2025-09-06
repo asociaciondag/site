@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/560a5e84ad782-premiados.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,14 +29,14 @@ body:
       para satisfacer las necesidades de un usuario contemporáneo y para cuyo
       diseño sus autores se han inspirado en el otoño.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/560a5e84ae0b5-tilo-premio-cetem-escena.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/560a5e84adde1-tilo-spanish-dossier-pg11-recorte.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

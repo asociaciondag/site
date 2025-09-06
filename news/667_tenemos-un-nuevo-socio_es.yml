@@ -3,7 +3,7 @@ title: ¡Tenemos un nuevo socio!
 body:
   - list: after
     image: /img/news/images/5745db5beafb9-alejandro.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -25,8 +25,8 @@ body:
       Además, me gusta estar en contacto con las nuevas tendencias, herramientas
       y soportes.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/alejandro-fabregas/'
+  - list: ""
+    url: "https://dag.gal/gl/alejandro-fabregas/"
     text: Perfil de socio DAG
     type: button
 intro: >-

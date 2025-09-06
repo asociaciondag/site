@@ -3,7 +3,7 @@ title: Un obradoiro para iniciarse na caligrafía
 body:
   - list: after
     image: /img/news/images/5810e5ab4bbfe-unitaria-grafica-plumilla-768x432.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -30,8 +30,8 @@ body:
       INSCRICIÓN: chamando ao 609 830 553 ou enviando un mail cos teus datos e o
       obradoiro no que queres participar a queroaprender@escolaunitaria.com
     type: text
-  - list: ''
-    url: 'http://escolaunitaria.com/2016/09/22/caligrafia-con-plumilla/'
+  - list: ""
+    url: "http://escolaunitaria.com/2016/09/22/caligrafia-con-plumilla/"
     text: Máis información en Unitaria
     type: button
 intro: >-

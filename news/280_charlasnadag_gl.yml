@@ -1,5 +1,5 @@
 id: 280
-title: '#charlasnaDAG'
+title: "#charlasnaDAG"
 body:
   - text: >-
       Unha vez ao mes, un deseñador achegarase á sede da DAG na
@@ -23,11 +23,11 @@ body:
       programa en PDF xa podedes consultar a programación completa deica final
       de ano.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9eabbff-charlasdag.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9eabbff-charlasnadag.pdf
     text: Descargar
     type: file

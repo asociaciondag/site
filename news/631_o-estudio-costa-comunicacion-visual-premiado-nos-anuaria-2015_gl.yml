@@ -5,9 +5,9 @@ body:
       A revista SONZINE, realizada para Estrella Galicia e galardoada cun
       Anuaria de Ouro na categoría ao mellor deseño dunha publicación periódica:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/56993415b6e2d-sonzine.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -16,37 +16,37 @@ body:
       dobremente cun Anuaria de Ouro na categoría de mellor PLV e cunha
       Selección Anuaria na categoría de mellor campaña de interese social.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/56993415b8f49-a-porta-aberta-1.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/56993415b9400-a-porta-aberta-2.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
       Pola súa parte, a identidade VALENTÍN obtivo unha Selección Anuaria ao
       mellor programa de identidade corporativa.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/56993415b99b7-valentin.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
       E unha Selección Anuaria recibiu tamén o catálogo realizado para a firma
       de iluminación Garay Estudio.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/56993415b9dc2-garay-studio.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: null
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

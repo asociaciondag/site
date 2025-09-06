@@ -3,7 +3,7 @@ title: Galicia Design Week 2025
 body:
   - list: before
     image: /img/news/images/gdw-2025-02.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -46,8 +46,8 @@ body:
       socio Alex Rico, y cuenta con el apoyo de la Xunta de Galicia y de la
       Deputación da Coruña, además de otras entidades privadas.
     type: text
-  - list: ''
-    url: 'https://www.gdw.gal/'
+  - list: ""
+    url: "https://www.gdw.gal/"
     text: Web GDW 2025
     type: button
 intro: >-

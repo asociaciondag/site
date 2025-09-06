@@ -1,11 +1,11 @@
 id: 1026
 title: >-
   Los compañeros de cenlitros y del estudio 988 reciben el reconocimiento de los
-  Premios Clap  
+  Premios Clap
 body:
   - list: after
     image: /img/news/images/noticia-clap02.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -30,13 +30,13 @@ body:
       países participantes, en este caso la representación española ha sido
       propuesta por [READ](https://www.designread.es).
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/noticia-clap01.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
-    url: 'https://premiosclap.org/ganadores-2020'
+  - list: ""
+    url: "https://premiosclap.org/ganadores-2020"
     text: Lista de premiados
     type: button
 intro: >-

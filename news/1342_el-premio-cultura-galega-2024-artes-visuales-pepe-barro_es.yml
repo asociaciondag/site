@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/premios-cultura-2024.jpg
-    text: 'Fotografía: Xan Piñón'
+    text: "Fotografía: Xan Piñón"
     mode: normal
     type: image
   - text: >-
@@ -42,7 +42,7 @@ body:
       del sector de ver reconocido el valor cultural del trabajo que se realiza
       desde las distintas disciplinas del diseño.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.xunta.gal/es/notas-de-prensa/-/nova/006156/los-premios-cultura-galega-2024-recaen-manuel-lourenzo-xose-maria-perez-barro
     text: Más información

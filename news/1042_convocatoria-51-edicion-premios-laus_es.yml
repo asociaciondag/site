@@ -1,11 +1,11 @@
 id: 1042
 title: >-
   Abierta la convocatoria para la 51ª edición de los Premios Laus hasta el 1 de
-  marzo 
+  marzo
 body:
   - list: after
     image: /img/news/images/adglaus21.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -39,8 +39,8 @@ body:
       Magabook ADG Laus de 2021 y recibirán un trofeo, diseñado por el estudio
       [Oiko Design Office](https://www.oikodesignoffice.com/laus).
     type: text
-  - list: ''
-    url: 'https://www.adg-fad.org/es/laus/bases-y-categorias'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/bases-y-categorias"
     text: Bases de los Premios Laus
     type: button
 intro: >-

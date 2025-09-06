@@ -42,9 +42,9 @@ body:
       detalle as características arquitectónicas de todas as obras
       seleccionadas.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9f3e739-v-premios-enor-2.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   O próximo luns, 14 de novembro, terá lugar o acto de entrega dos [Premios

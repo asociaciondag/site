@@ -1,6 +1,6 @@
 id: 216
-title: '988'
-basename: '988'
+title: "988"
+basename: "988"
 body:
   - text: >-
       Identidade visual do noso primeiro cliente, nós mesmos.
@@ -19,7 +19,7 @@ body:
       das distintas aplicacións.
     type: text
   - image: /img/portfolio/images/988.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/988-thumbnail.jpg
 tags:

@@ -3,7 +3,7 @@ title: A Porta Aberta
 basename: a-porta-aberta
 body:
   - image: /img/portfolio/images/aportaaberta.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/aportaaberta.jpg
 tags:

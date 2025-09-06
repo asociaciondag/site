@@ -3,7 +3,7 @@ title: 2 días para «Coidar o deseño» en Cuenca
 body:
   - list: before
     image: /img/news/images/grupo-enad.jpg
-    text: 'Fotografía: Alberto Férriz'
+    text: "Fotografía: Alberto Férriz"
     mode: normal
     type: image
   - text: >-
@@ -61,9 +61,9 @@ body:
       vinculados á investigación e á transferencia de coñecemento ás empresas e
       á sociedade en xeral.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/mesa-traballo.jpg
-    text: 'Fotografía: Alberto Férriz'
+    text: "Fotografía: Alberto Férriz"
     mode: normal
     type: image
   - text: >-
@@ -95,8 +95,8 @@ body:
       a Innovación e a Sustentabilidade 2024 –
       DIFERENZA](http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+sustentabilidade+2024+diferenza).
     type: text
-  - list: ''
-    url: 'https://12enad.designread.es/documentos-memoria-y-conclusiones'
+  - list: ""
+    url: "https://12enad.designread.es/documentos-memoria-y-conclusiones"
     text: Web do 12 ENAD
     type: button
 intro: >-

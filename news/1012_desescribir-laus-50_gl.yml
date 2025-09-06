@@ -1,9 +1,9 @@
 id: 1012
-title: 'O estudio galego desescribir nominado a dous Laus na súa 50ª edición '
+title: "O estudio galego desescribir nominado a dous Laus na súa 50ª edición "
 body:
   - list: after
     image: /img/news/images/cdc-baixa.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -23,9 +23,9 @@ body:
       PHotoEspaña ao mellor libro de fotografía publicado en España, entre
       outros méritos e recoñecemento ao seu traballo.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/approach-baixa.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

@@ -7,19 +7,19 @@ body:
       Sitges.
     type: text
   - image: /img/portfolio/images/azucarillos.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/graficas.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/publicacionxeral.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/reacciones.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/vaso.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/portadacandelas.jpg
 tags:

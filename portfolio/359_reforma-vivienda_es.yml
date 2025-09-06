@@ -10,16 +10,16 @@ body:
       acabados, nuevas instalaciones y equipamiento.
     type: text
   - image: /img/portfolio/images/img-2768.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/img-2785.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/img-2797.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/img-2802.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/img-2768.jpg
 tags:
@@ -29,7 +29,7 @@ members_id:
 lang: es
 info:
   - name: Año
-    value: '2017'
+    value: "2017"
   - name: Lugar
     value: Vigo
 draft: false

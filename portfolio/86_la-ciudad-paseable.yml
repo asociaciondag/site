@@ -43,28 +43,28 @@ body:
       lector.
     type: text
   - image: /img/portfolio/images/555a4a86b6189-00.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4a86b668d-018.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4a86b6ad2-027.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4a86b701c-036.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4a86b7415-046.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4a86b784e-062.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4a86b7d4d-081.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4a86b8155-90.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859aa8b53c9-555a4a86b6ad2-027.jpg
 tags:
@@ -88,5 +88,5 @@ info:
       CEDEX (Centro de Estudos e Experimentación de Obras Públicas). Ministerio
       de Fomento
   - name: Ano
-    value: '2009'
+    value: "2009"
 draft: true

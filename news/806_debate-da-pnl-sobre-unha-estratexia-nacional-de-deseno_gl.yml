@@ -5,7 +5,7 @@ body:
       A sesión poderá acompañarse en directo pola canle do Congreso a partir das
       16.00 h. Deixamos aquí a ligazón á orde do dia e á canle do directo:
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://www.congreso.es/portal/page/portal/Congreso/Congreso/CongresoTV/ConDir?_piref73_2004041_73_1339038_1339038.next_page=/wc/listadoEmisiones&diaElegido=3
     text: CongresoTV

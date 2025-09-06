@@ -3,7 +3,7 @@ title: La DAG sigue creciendo
 body:
   - list: after
     image: /img/news/images/560a6a81490ed-manuel-moital.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -21,8 +21,8 @@ body:
 
       Un saludo para todos/as desde Bueu
     type: text
-  - list: ''
-    url: 'http://dag.gal/es/manuel-moital-davila'
+  - list: ""
+    url: "http://dag.gal/es/manuel-moital-davila"
     text: Perfil de socio
     type: button
 intro: >-

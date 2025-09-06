@@ -12,19 +12,19 @@ body:
       distribución comercial.
     type: text
   - image: /img/portfolio/images/sastre.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/sastre2.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/sastre3.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/sastre4.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/sastre5.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/sastre0.png
 tags:
@@ -35,7 +35,7 @@ lang: es
 info:
   - name: Proyecto académico
     value: Universidad de Reading
-  - name: 'Año:'
-    value: '2015'
+  - name: "Año:"
+    value: "2015"
 draft: true
 oldUrl: /es/portfolio/sastre/

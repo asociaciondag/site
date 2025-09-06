@@ -3,7 +3,7 @@ title: La DAG y GAIN inician un estudio sobre la economía del diseño en Galici
 body:
   - list: after
     image: /img/news/images/estudo-deseno.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,8 +43,8 @@ body:
       fases puedes subscribirte a la lista de correo, creada para este estudio,
       por la DAG.
     type: text
-  - list: ''
-    url: 'http://eepurl.com/hg6SYj'
+  - list: ""
+    url: "http://eepurl.com/hg6SYj"
     text: Quiero recibir más información
     type: button
 intro: >-

@@ -3,7 +3,7 @@ title: Losada Serrano
 basename: losada-serrano
 body:
   - image: /img/portfolio/images/losada-serrano.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/losada-serrano.jpg
 tags:

@@ -23,9 +23,9 @@ body:
 
       Máis información na páxina do [feet](http://feet.asociaciondag.org/).
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9a10928-feet-facebook.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

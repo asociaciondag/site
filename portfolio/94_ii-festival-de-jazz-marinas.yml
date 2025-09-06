@@ -31,19 +31,19 @@ body:
       (sirva o vídeo de proba para os escépticos… puro _free jazz_)
     type: text
   - image: /img/portfolio/images/555a4cb1d14b9-038.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4cb1d17de-048.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4cb1d1aa0-054.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4cb1d1d4b-064.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555a4cb1d1f54-0110.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859c576ad9d-555a4c86e1301-0110.jpg
 tags:
@@ -60,5 +60,5 @@ info:
   - name: Cliente
     value: Consorcio das Mariñas. Deputación da Coruña
   - name: Ano
-    value: '2009'
+    value: "2009"
 draft: true

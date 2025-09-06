@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/facebook-cover.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -50,8 +50,8 @@ body:
       Contamos con todas y todos vosotros para poner en común ideas, opiniones,
       experiencias y conocimientos.
     type: text
-  - list: ''
-    url: 'https://dag.gal/2-encontro/'
+  - list: ""
+    url: "https://dag.gal/2-encontro/"
     text: Web del Encuentro
     type: button
 intro: >-

@@ -3,7 +3,7 @@ title: Anxo López incorpórase á DAG
 body:
   - list: after
     image: /img/news/images/2019-anxo-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -50,8 +50,8 @@ body:
       do foro de deseño: FEED 2019. Grazas por acollerme, espero estar á altura
       e poder contribuír dende Madrid á consolidación do deseño galego.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/anxo-lopez/'
+  - list: ""
+    url: "https://dag.gal/gl/anxo-lopez/"
     text: Perfil na web da DAG
     type: button
 intro: >-

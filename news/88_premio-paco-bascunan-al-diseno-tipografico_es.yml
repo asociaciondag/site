@@ -13,11 +13,11 @@ body:
       que será único, consiste en cubrir los gastos para la asistencia a un
       congreso de tipografía internacional.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a988f85b-ppb-copia.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a988f85b-eflyer-premiopaco.pdf
     text: Descargar
     type: file

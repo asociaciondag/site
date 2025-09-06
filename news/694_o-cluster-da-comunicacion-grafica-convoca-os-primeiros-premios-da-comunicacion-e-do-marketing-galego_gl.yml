@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/57ebfbb2a6af5-premios-cluster.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -37,7 +37,7 @@ body:
       no marco do IV Foro da Comunicación de Galicia, a partir das 20.00 h no
       hall de Expourense.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://www.clustergrafico.com/bases-dos-i-premios-da-comunicacion-e-do-marketing-galego/
     text: Consulta as bases na web do Clúster

@@ -1,9 +1,9 @@
 id: 973
-title: 'Antonio Doñate y Carlos Hidalgo, nuevos socios de la DAG'
+title: "Antonio Doñate y Carlos Hidalgo, nuevos socios de la DAG"
 body:
   - list: after
     image: /img/news/images/foto-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -26,12 +26,12 @@ body:
 
       Un abrazo y muchas gracias por acogermos.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/antonio-donate/'
+  - list: ""
+    url: "https://dag.gal/gl/antonio-donate/"
     text: Perfil de Antonio Doñate
     type: button
-  - list: ''
-    url: 'https://dag.gal/gl/carlos-hidalgo/'
+  - list: ""
+    url: "https://dag.gal/gl/carlos-hidalgo/"
     text: Perfil de Carlos Hidalgo
     type: button
 intro: >-

@@ -18,9 +18,9 @@ body:
 
       - info: [www.snd-e.com/es/nh](http://www.snd-e.com/es/nh)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9939346-nh.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   Lo Mejor del Diseño Periodístico de España y Portugal se conoce por dos

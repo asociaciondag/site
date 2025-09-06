@@ -5,7 +5,7 @@ body:
   - text: Imaxe para o podcast Os dous de Sempre
     type: text
   - image: /img/portfolio/images/podcast-dousdesempre.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/podcast-dousdesempre.png
 tags:

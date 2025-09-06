@@ -28,9 +28,9 @@ body:
       [www.replicage.org/replicage-fest/](http://www.replicage.org/replicage-fest/)
       y solo se admitirán cinco.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa59c403-twitteresquemareplicage.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   Entre el día 23 y el 25 de mayo en la Central del Diseño de Matadero de Madrid

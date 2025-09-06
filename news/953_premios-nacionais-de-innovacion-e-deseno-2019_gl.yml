@@ -3,7 +3,7 @@ title: Premios Nacionais de Innovación e Deseño 2019
 body:
   - list: after
     image: /img/news/images/pnid-2019.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -25,7 +25,7 @@ body:
       Mención especial tivo a empresa [Fhecor Ingenieros Consultores S.
       A.](http://www.fhecor.es/index.php?lang=es)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/marisagallen.jpg
     text: Marisa Gallén Jaime
     mode: normal
@@ -44,7 +44,7 @@ body:
       linguaxes contemporáneas ligadas á arte. É a segunda muller en conseguir
       este Premio, despois de [Pati Núñez](http://patinunez.com/) en 2007.
     type: text
-  - list: ''
+  - list: ""
     image: >-
       /img/news/images/silvia-fernadez-palomar-premio-nacional-diseno-retrato.jpg
     text: Silvia Fernández Palomar

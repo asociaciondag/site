@@ -13,7 +13,7 @@ body:
       musical gallega.
     type: text
   - image: /img/portfolio/images/pablo-marti-uenez.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/pablo-marti-nez-thumbnail.jpg
 tags:

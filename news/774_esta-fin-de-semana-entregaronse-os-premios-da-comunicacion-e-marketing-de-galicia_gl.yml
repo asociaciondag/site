@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/premiosparaugas2017.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -41,7 +41,7 @@ body:
 
       Parabéns a todos!
     type: text
-intro: 'E entre os premiados e finalistas temos moitas socias e socios da DAG :)'
+intro: "E entre os premiados e finalistas temos moitas socias e socios da DAG :)"
 basename: >-
   esta-fin-de-semana-entregaronse-os-premios-da-comunicacion-e-marketing-de-galicia
 tags: []

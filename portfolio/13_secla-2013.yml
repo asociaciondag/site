@@ -20,16 +20,16 @@ body:
       estrutura de cartel na que a propia laparoscopia é a protagonista.
     type: text
   - image: /img/portfolio/images/555cdc1b10724-r-caccamo-3a.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdc1b10ff5-r-caccamo-3b.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdc1b11587-r-caccamo-3c.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdc1b118e2-r-caccamo-3d.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558558b4798b2-555cdc1b118e2-r-caccamo-3d.jpg
 tags:
@@ -45,5 +45,5 @@ info:
   - name: Cliente
     value: Sociedad Española de Cirugía Laparoscópica y Robótica
   - name: Ano
-    value: '2013'
+    value: "2013"
 draft: false

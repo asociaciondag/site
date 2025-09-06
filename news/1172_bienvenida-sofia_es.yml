@@ -3,7 +3,7 @@ title: ¡Bienvenida Sofía!
 body:
   - list: after
     image: /img/news/images/foto-sofia-socia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

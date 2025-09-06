@@ -25,19 +25,19 @@ body:
       aspecto orixinal).
     type: text
   - image: /img/portfolio/images/570f64e07e3be-bod001-lateral.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f4ec0de0dc-bod003-lateral.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f4ec0de549-bodime-composicion-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f4ec0de8d0-bodime-composicion-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f4ec0def7f-bodime-composicion-3.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/570f4ec0ddab5-bod001-lateral.jpg
 tags: []

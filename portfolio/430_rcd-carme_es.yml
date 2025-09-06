@@ -13,19 +13,19 @@ body:
       en 1ª RFEF con un ligero rediseño.
     type: text
   - image: /img/portfolio/images/1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/2.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/4.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/1.jpg
 tags:

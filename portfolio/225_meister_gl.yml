@@ -16,40 +16,40 @@ body:
         width="640" height="360" frameborder="0" title="Meister, a custom
         typeface for J&auml;germeister" webkitallowfullscreen mozallowfullscreen
         allowfullscreen></iframe>
-      ratio: ''
+      ratio: ""
     type: embed
   - image: /img/portfolio/images/01meister.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/02meister.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/03meister.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/04meister.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/05meister.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/06meister.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/07meister.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/08meister.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/09meister.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/10meister.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/11meister.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/01meister.png
 tags:
@@ -58,15 +58,15 @@ members_id:
   - 56
 lang: gl
 info:
-  - name: 'Proxecto:'
+  - name: "Proxecto:"
     value: Meister
   - name: Coautor
     value: Noel Pretorius
-  - name: 'Estudio:'
+  - name: "Estudio:"
     value: NM type
-  - name: 'Cliente:'
+  - name: "Cliente:"
     value: Jägermeister e Opperman Weiss
-  - name: 'Ano:'
-    value: '2018'
+  - name: "Ano:"
+    value: "2018"
 draft: true
 oldUrl: /gl/portfolio/meister/

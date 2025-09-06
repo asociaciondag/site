@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/encontro-ecosistema-deseno.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -23,7 +23,7 @@ body:
 
        Como parte del [Programa de Diseño para la Innovación 2020](http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+2020) desarrollado por la Xunta, la jornada busca fomentar el intercambio de conocimiento, la difusión de buenas prácticas y el establecimiento de contacto entre los y las profesionales y asociaciones del diseño, la industria gallega y las instituciones académicas vinculadas al sector.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://gain.xunta.gal/eventos/246/encontro+ecosistema+do+deseno+innovacion+empresarial
     text: Programa e inscricións

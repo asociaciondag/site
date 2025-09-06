@@ -37,10 +37,10 @@ body:
 
       <http://entipografia.web.ua.pt/>
     type: text
-  - list: ''
+  - list: ""
     image: >-
       /img/news/images/553e7a9e5310d-ii-encontro-nacional-de-tipografia-en-aveiro-1.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   El próximo 30 de septiembre tendrá lugar la segunda edición del Encuentro

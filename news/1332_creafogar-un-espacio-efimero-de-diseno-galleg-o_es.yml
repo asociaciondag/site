@@ -1,9 +1,9 @@
 id: 1332
-title: 'Creafogar, un espacio efímero de diseño galleg​o'
+title: "Creafogar, un espacio efímero de diseño galleg​o"
 body:
   - list: before
     image: /img/news/images/crea-fogar-dag.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,8 +31,8 @@ body:
       presentaciones​ de proyectos ​y talleres para que a experiencia con el
       público sea lo más amplia posible.​
     type: text
-  - list: ''
-    url: 'https://creafogar.gal/'
+  - list: ""
+    url: "https://creafogar.gal/"
     text: Web Creafogar
     type: button
 intro: >-

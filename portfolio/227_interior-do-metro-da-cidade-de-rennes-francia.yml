@@ -3,7 +3,7 @@ title: Interior do metro da cidade de Rennes (Francia)
 basename: interior-do-metro-da-cidade-de-rennes-francia
 body:
   - image: /img/portfolio/images/rennes-int.jpg
-    text: ''
+    text: ""
     type: image
   - text: >-
       Este proxecto foi desenvolvido en colaboración co estudio de deseño RCP
@@ -19,22 +19,22 @@ body:
       deseño visual.
     type: text
   - image: null
-    text: ''
+    text: ""
     type: image
   - image: >-
       /img/portfolio/images/en-images-la-ligne-b-du-metro-de-rennes-sera-plus-spacieuse-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: >-
       /img/portfolio/images/en-images-la-ligne-b-du-metro-de-rennes-sera-plus-spacieuse-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: >-
       /img/portfolio/images/en-images-rennes-sur-la-ligne-b-un-metro-plus-spacieux-et-lumineux-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/rennes-int.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/rennes-int.jpg
 tags:
@@ -45,6 +45,6 @@ lang:
   - gl
   - es
 info:
-  - name: 'Cliente:'
+  - name: "Cliente:"
     value: Cidade de Rennes
 draft: false

@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/concellopontevedra.jpg
-    text: 'Logotipo actual do Concello de Pontevedra, deseñado por Xosé María Torné'
+    text: "Logotipo actual do Concello de Pontevedra, deseñado por Xosé María Torné"
     mode: normal
     type: image
   - text: >-
@@ -45,8 +45,8 @@ body:
       Alberto Dafonte, docentes e investigadores de comunicación audiovisual e
       publicidade no campus universitario de Pontevedra.
     type: text
-  - list: ''
-    url: 'https://sede.pontevedra.gal/public/catalog-detail/1218'
+  - list: ""
+    url: "https://sede.pontevedra.gal/public/catalog-detail/1218"
     text: Máis información
     type: button
 intro: >-

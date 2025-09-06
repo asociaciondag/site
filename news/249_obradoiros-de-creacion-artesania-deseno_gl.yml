@@ -17,15 +17,15 @@ body:
       info.esdemga@uvigo.es antes do 30 de xuño. Máis información na páxina de
       [ESDEMGA](http://www.esdemga.uvigo.es/index.php?id=72&idn=54)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9dbd105-artesania-deseno.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9dbd105-folleto-artesania-deseno.pdf
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     file: /files/553e7a9dbd105-folla-de-inscricion-artesania-deseno.pdf
     text: Descargar
     type: file

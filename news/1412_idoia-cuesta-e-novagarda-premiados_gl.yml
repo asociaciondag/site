@@ -3,7 +3,7 @@ title: Idoia Cuesta e Novagarda premiados
 body:
   - list: before
     image: /img/news/images/premios-room-laus-2025.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -23,12 +23,12 @@ body:
       realizado para Noroeste Obradoiro, un espazo-taller onde se visibiliza de
       principio a fin o proceso de creación dunha peza de xoiaría.
     type: text
-  - list: ''
-    url: 'https://adg-fad.org/noticia/premiados-adg-laus-2025/'
+  - list: ""
+    url: "https://adg-fad.org/noticia/premiados-adg-laus-2025/"
     text: Premiados Laus 2025
     type: button
-  - list: ''
-    url: 'https://roomdiseno.com/premios-room-3a-edicion-conoce-a-los-48-finalistas/'
+  - list: ""
+    url: "https://roomdiseno.com/premios-room-3a-edicion-conoce-a-los-48-finalistas/"
     text: Finalistas Premios Room 2025
     type: button
 intro: >-

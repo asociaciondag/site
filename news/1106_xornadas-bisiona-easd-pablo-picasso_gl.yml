@@ -3,7 +3,7 @@ title: Xornadas Bisiona na EASD Pablo Picasso
 body:
   - list: after
     image: /img/news/images/web-entrada-bisiona.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -26,8 +26,8 @@ body:
       A imaxe gráfic​a deste ano seleccionouse entre outras propostas
       desenvolvidas polos alumnos e alumnas de 4º Curso de Deseño Gráfico.
     type: text
-  - list: ''
-    url: 'https://www.eapicasso.com/v-xornadas-de-arte-e-deseno/'
+  - list: ""
+    url: "https://www.eapicasso.com/v-xornadas-de-arte-e-deseno/"
     text: Máis información
     type: button
 intro: >-

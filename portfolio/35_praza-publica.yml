@@ -39,25 +39,25 @@ body:
       calquera tamaño de pantalla.
     type: text
   - image: /img/portfolio/images/55859f5c0d7f1-praza1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859f5c0e26b-praza2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859f5c0eacd-praza3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859f5c0f208-praza4.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859f5c0fab7-praza5.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859f5c10345-praza6.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859f5c10e8a-praza7.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859f5c0cc7c-praza1.jpg
 tags:
@@ -73,5 +73,5 @@ info:
   - name: Cliente
     value: Fundación Praza Pública
   - name: Ano
-    value: '2012'
+    value: "2012"
 draft: false

@@ -1,9 +1,9 @@
 id: 1144
-title: 'Se convocan los III Premios Galicia de Innovación y Diseño '
+title: "Se convocan los III Premios Galicia de Innovación y Diseño "
 body:
   - list: after
     image: /img/news/images/premiosinnovaciondes2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -57,7 +57,7 @@ body:
       (trayectoria innovadora), Marine Instruments y GalChimia (pymes) y Cupa
       Innovación y Congalsa (grandes empresas).
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.xunta.gal/dog/Publicados/2022/20220502/AnuncioG0198-210422-0001_gl.html
     text: Bases de la convocatoria

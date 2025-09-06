@@ -3,7 +3,7 @@ title: Yoyó L
 basename: yoyo-l
 body:
   - image: /img/portfolio/images/yoyo.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/yoyo.jpg
 tags:

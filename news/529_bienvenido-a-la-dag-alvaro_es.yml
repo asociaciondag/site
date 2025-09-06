@@ -1,5 +1,5 @@
 id: 529
-title: 'Bienvenido a la DAG, Álvaro'
+title: "Bienvenido a la DAG, Álvaro"
 body:
   - text: >-
       ¡Hola!
@@ -18,9 +18,9 @@ body:
 
       Muchas gracias por la acogida y un saludo
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa7abed2-alvarojusto.png
-    text: ''
+    text: ""
     type: image
 intro: Álvaro Justo es el nuevo socio estudiante que se acaba de incorporar a la DAG
 basename: bienvenido-a-la-dag-alvaro

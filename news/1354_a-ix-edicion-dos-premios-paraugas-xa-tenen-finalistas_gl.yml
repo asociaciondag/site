@@ -3,7 +3,7 @@ title: A IX Edición dos premios Paraugas xa teñen finalistas
 body:
   - list: before
     image: /img/news/images/foto-finalistas-paraugas-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -32,8 +32,8 @@ body:
       e Premio Especial do Público para o que hai que facer unha votaci​ón
       previa.​
     type: text
-  - list: ''
-    url: 'https://premios.clustercomunicacion.gal/'
+  - list: ""
+    url: "https://premios.clustercomunicacion.gal/"
     text: Web dos Premios
     type: button
 intro: >-

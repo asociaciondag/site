@@ -1,5 +1,5 @@
 id: 1410
-title: 'Pablo Honey en Compostela '
+title: "Pablo Honey en Compostela "
 body:
   - list: before
     image: /img/news/images/pablohoney.jpg
@@ -32,7 +32,7 @@ body:
 
       La entrada será gratuita con inscripción previa.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://docs.google.com/forms/d/e/1FAIpQLSdNlRx0bwuh1R09fdOR320Wkv7xU-_b1g12tpDD5ui0WM5Xkg/viewform
     text: FORMULARIO DE INSCRIPCIÓN

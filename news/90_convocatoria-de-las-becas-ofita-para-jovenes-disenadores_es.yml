@@ -10,11 +10,11 @@ body:
       Los interesados, pueden enviar su curriculum y portfolio a:
       <design@ofita.com> antes del 15 de julio.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9894c3b-ofita.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9894c3b-becas-ofita.png
     text: Descargar
     type: file

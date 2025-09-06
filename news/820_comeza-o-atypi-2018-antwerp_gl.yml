@@ -3,7 +3,7 @@ title: Comeza o ATypI 2018 Antwerp
 body:
   - list: after
     image: /img/news/images/atyp18.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -64,8 +64,8 @@ body:
       (Olivetti) senón na evolución histórica e o proceso de deseño de
       tipografías para máquinas de escribir dunha maneira máis global.
     type: text
-  - list: ''
-    url: 'https://www.atypi.org/conferences/antwerp-2018'
+  - list: ""
+    url: "https://www.atypi.org/conferences/antwerp-2018"
     text: ATypI 2018 Antwerp
     type: button
 intro: >-

@@ -3,7 +3,7 @@ title: VII Encuentro de Diseño para la Innovación en Ferrol
 body:
   - list: before
     image: /img/news/images/vii-encontro-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -44,12 +44,12 @@ body:
       organización pueda llevar un control de asistencia. Al cierre del
       encuentro está previsto un aperitivo _networking_.
     type: text
-  - list: ''
-    url: 'http://gain.xunta.gal/repo/3-ProgramaVIIEncontroDesenho.pdf'
+  - list: ""
+    url: "http://gain.xunta.gal/repo/3-ProgramaVIIEncontroDesenho.pdf"
     text: Programa del encuentro
     type: button
-  - list: ''
-    url: 'https://www.cistecnoloxiaedeseno.gal/intranet/campan/inscribir/168'
+  - list: ""
+    url: "https://www.cistecnoloxiaedeseno.gal/intranet/campan/inscribir/168"
     text: Formulario de inscricpión
     type: button
 intro: >-

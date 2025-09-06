@@ -41,9 +41,9 @@ body:
       que queráis consultar más información, podéis hacerlo en la página web del
       evento http)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa6a5ee7-logotipo-anuaria.png
-    text: ''
+    text: ""
     type: image
 intro: >-
   La semana pasada se convocaba una nueva edición de los Premios Anuaria en los

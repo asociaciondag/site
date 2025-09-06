@@ -3,7 +3,7 @@ title: La Red Española de Asociaciones de Diseño convoca el 4ENAD
 body:
   - list: after
     image: /img/news/images/57a4c24e4018f-4enad.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,8 +29,8 @@ body:
       Toda la información sobre el encuentro y las inscripciones en la página
       del evento:
     type: text
-  - list: ''
-    url: 'http://www.designread.es/4enad/'
+  - list: ""
+    url: "http://www.designread.es/4enad/"
     text: 4ENAD
     type: button
 intro: >-

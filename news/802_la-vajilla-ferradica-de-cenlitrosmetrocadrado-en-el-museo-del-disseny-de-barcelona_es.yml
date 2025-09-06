@@ -1,7 +1,7 @@
 id: 802
 title: >-
   La vajilla Ferrádica de cenlitrosmetrocadrado en el  Museu del Disseny de
-  Barcelona 
+  Barcelona
 body:
   - text: >-
       Para saber más sobre la Ferrádica de los
@@ -12,20 +12,20 @@ body:
     type: text
   - list: after
     image: /img/news/images/ferradica03.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     info:
       code: >-
         <iframe src="https://player.vimeo.com/video/89599141?app_id=122963"
         width="640" height="360" frameborder="0" title="A vaixela
         Ferr&aacute;dica" webkitallowfullscreen mozallowfullscreen
         allowfullscreen></iframe>
-      ratio: '60'
+      ratio: "60"
     type: embed
-  - list: ''
-    url: 'http://cenlitrosmetrocadrado.com/ferradica/?lang=es'
+  - list: ""
+    url: "http://cenlitrosmetrocadrado.com/ferradica/?lang=es"
     text: Vajilla Ferrádica
     type: button
 intro: >-

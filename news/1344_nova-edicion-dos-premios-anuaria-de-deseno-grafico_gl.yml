@@ -3,7 +3,7 @@ title: Nova edición dos Premios Anuaria de Deseño Gráfico
 body:
   - list: before
     image: /img/news/images/anuaria-2024.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -24,8 +24,8 @@ body:
       Ouro en cada categoría e ata 10 Seleccións Anuaria por categoría. Este ano
       contan co socio e membro da Xunta Directiva, Carlos El Rojo.
     type: text
-  - list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-anuaria/bases-fechas.html'
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-anuaria/bases-fechas.html"
     text: Bases e inscricións
     type: button
 intro: >-

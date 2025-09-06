@@ -1,9 +1,9 @@
 id: 974
-title: 'Damos a benvida a un novo socio, Pablo Villaverde'
+title: "Damos a benvida a un novo socio, Pablo Villaverde"
 body:
   - list: after
     image: /img/news/images/foto-pablo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,8 +29,8 @@ body:
       clientes e axencias de toda España e algún país de Europa (Alemaña, Reino
       Unido...).
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/pablo-villaverde/'
+  - list: ""
+    url: "https://dag.gal/gl/pablo-villaverde/"
     text: Perfil de Pablo Villaverde
     type: button
 intro: >-

@@ -23,11 +23,11 @@ body:
       Toda a información sobre a convocatoria atoparédela en
       <http://www.pecha-kucha.org/cities/pontevedra>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a967d469-pecha.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a967d469-cartel-pechakucha.pdf
     text: Descargar
     type: file

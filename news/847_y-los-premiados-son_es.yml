@@ -3,7 +3,7 @@ title: Y los premiados son...
 body:
   - list: after
     image: /img/news/images/desonos-1.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,9 +33,9 @@ body:
       su trabajo, simplemente han tratado de ser fieles y transmitir ese
       espíritu.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/pepe-vieira-web-01.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -60,9 +60,9 @@ body:
       promueve, han empleado la tipografía Mais Grotesk de [Marcos
       Dopico](https://dag.gal/gl/marcos-dopico-castro/).
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/2-cartel-campus.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -98,9 +98,9 @@ body:
       la entrada de luz del exterior y por outro servir de soporte de exposición
       del propio producto.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/cenlitrosmetrocadrado-naturhall.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -127,9 +127,9 @@ body:
       portada se expande desde la “D” y marca el propio formato del libro que,
       con unos cortes a 45º, se convierte asimismo en un “D”.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/drift-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

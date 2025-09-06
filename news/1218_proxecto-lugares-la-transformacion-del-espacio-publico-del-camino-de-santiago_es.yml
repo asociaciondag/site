@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/poxecto-lugares.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -52,8 +52,8 @@ body:
       bajas de última hora.​​ Más información, programa completo e inscripciones
       a las diferentes actividades, en la web del proyecto.
     type: text
-  - list: ''
-    url: 'https://sites.google.com/view/proxectolugares/'
+  - list: ""
+    url: "https://sites.google.com/view/proxectolugares/"
     text: Proxecto lugares
     type: button
 intro: >-

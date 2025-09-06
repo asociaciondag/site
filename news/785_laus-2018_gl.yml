@@ -3,7 +3,7 @@ title: Laus 2018
 body:
   - list: after
     image: /img/news/images/callforentries-tw.gif
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -84,8 +84,8 @@ body:
 
       Asociacións amigas, como a DAG: desconto de 15%
     type: text
-  - list: ''
-    url: 'http://www.adg-fad.org/'
+  - list: ""
+    url: "http://www.adg-fad.org/"
     text: Bases e inscricións
     type: button
 intro: >-

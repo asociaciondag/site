@@ -1,9 +1,9 @@
 id: 643
-title: 'Una nueva socia :)'
+title: "Una nueva socia :)"
 body:
   - list: after
     image: /img/news/images/56cdf86476cc0-conchimayo-dagbn.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,8 +31,8 @@ body:
       hecho por el diseño gallego y compartir y aportar nuestra experiencia para
       proyectar y defender el diseño responsable hecho en Galicia.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/conchi-mayo/'
+  - list: ""
+    url: "https://dag.gal/gl/conchi-mayo/"
     text: Perfil de socia DAG
     type: button
 intro: >-

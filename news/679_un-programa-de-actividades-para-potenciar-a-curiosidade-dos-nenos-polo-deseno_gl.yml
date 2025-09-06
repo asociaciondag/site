@@ -3,7 +3,7 @@ title: Un programa de actividades para potenciar a curiosidade dos nenos polo de
 body:
   - list: after
     image: /img/news/images/577f90a8edb4a-desenhos-minusculos.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,10 +33,10 @@ body:
       este obradoiro no que os máis pequenos modelarán formas tridimensionais a
       partir de la.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://www.cidadedacultura.gal/gl/evento/desenos-minusculos-valores-maiusculos
-    text: 'Web deseños minúsculos, valores maiúsculos'
+    text: "Web deseños minúsculos, valores maiúsculos"
     type: button
 intro: >-
   Esta é a proposta da Cidade da Cultura para este mes de xullo: cada martes un

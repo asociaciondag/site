@@ -3,7 +3,7 @@ title: VI Xornadas de Arte e Deseño «Bisiona» na EASD Pablo Picasso
 body:
   - list: after
     image: /img/news/images/bisiona-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -35,8 +35,8 @@ body:
       youtube](https://www.youtube.com/channel/UCc2hlmi6Mn3WUAPxexW6p-Q/featured)
       da Escola.
     type: text
-  - list: ''
-    url: 'https://eapicasso.com/vi-xornadas-arte-deseno-bisiona/'
+  - list: ""
+    url: "https://eapicasso.com/vi-xornadas-arte-deseno-bisiona/"
     text: Máis información
     type: button
 intro: >-

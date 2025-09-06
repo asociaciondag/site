@@ -31,16 +31,16 @@ body:
       Ferrín](http://www.farodevigo.es/secciones/noticiaOpinion.jsp?pRef=3258_5_198719__Opinion-Tuir-Breogain).
     type: text
   - image: /img/portfolio/images/5585a068cf900-portada.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585a068cfe83-aberto1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585a068d02cb-aberto2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585a068d06c6-detalle.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585a068cf45f-portada.jpg
 tags:
@@ -54,5 +54,5 @@ info:
   - name: Cliente
     value: Acordar / Xunta de Galicia
   - name: Ano
-    value: '2008'
+    value: "2008"
 draft: true

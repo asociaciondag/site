@@ -7,7 +7,7 @@ body:
       E.U. Relacións Laborais de Lugo – USC.
     type: text
   - image: /img/portfolio/images/55a3d3b181307-cartel.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55a3d80695477-cuberta.png
 tags:
@@ -24,5 +24,5 @@ info:
   - name: Cliente
     value: E. U. Relacións Laborais Lugo -USC
   - name: Ano
-    value: '2010'
+    value: "2010"
 draft: true

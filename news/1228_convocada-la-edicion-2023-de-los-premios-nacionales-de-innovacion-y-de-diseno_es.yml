@@ -3,7 +3,7 @@ title: Convocada la edición 2023 de los Premios Nacionales de Innovación y de 
 body:
   - list: before
     image: /img/news/images/img-0477.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,8 +43,8 @@ body:
       Talento Innovador», con 30.000 €; la de «Trayectoria en Diseño», con
       50.000 €; y la de «Jóvenes Profesionales del Diseño», con 30.000 €.
     type: text
-  - list: ''
-    url: 'https://www.ciencia.gob.es/Convocatorias/2023/PNID2023.html'
+  - list: ""
+    url: "https://www.ciencia.gob.es/Convocatorias/2023/PNID2023.html"
     text: Más información
     type: button
 intro: >-

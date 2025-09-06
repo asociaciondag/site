@@ -3,7 +3,7 @@ title: Nueva convocatoria para participar en From Spais With Design
 body:
   - list: before
     image: /img/news/images/abrimos-convocatoria-fswd-25.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -34,8 +34,8 @@ body:
       proyecto. Puedes acceder al webinario [desde
       aquí](https://www.youtube.com/live/WNnuPOxgTNU?feature=shared).
     type: text
-  - list: ''
-    url: 'https://fswd.es/'
+  - list: ""
+    url: "https://fswd.es/"
     text: Más info
     type: button
 intro: >-

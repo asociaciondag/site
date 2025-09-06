@@ -22,9 +22,9 @@ body:
       Toda la información y matrícula,
       [aquí](http://www.udc.es/occ/gal/2011/cveran/cursos2011/2011curso10.htm).
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9d6b45b-mensaxe-desen-o.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   La Universidad de la Coruña dedica esta IV edición del Curso de divulgación

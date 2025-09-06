@@ -3,7 +3,7 @@ title: AED Asociación Española de Directivos
 basename: aed
 body:
   - image: /img/portfolio/images/aed-asociacion-espanola-directivos.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/aed-asociacion-espanola-directivos.jpg
 tags:

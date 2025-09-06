@@ -31,22 +31,22 @@ body:
       de maneira natural o espazo baleiro das páxinas en branco.
     type: text
   - image: /img/portfolio/images/555725779ab4f-0116.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555725779ab4f-0213.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555725779ab4f-0312.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555725779ab4f-0412.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555725779ab4f-058.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555725779ab4f-066.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55855ec749370-555725779ab4f-0116.jpg
 tags:
@@ -63,5 +63,5 @@ info:
   - name: Cliente
     value: Editorial Gustavo Gili
   - name: Ano
-    value: '2012'
+    value: "2012"
 draft: true

@@ -12,25 +12,25 @@ body:
       Martins de Londres.
     type: text
   - image: /img/portfolio/images/5585965f03701-12.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585965f0449a-21.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585965f05922-31.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585965f06356-41.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585965f07032-52.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585965f07992-61.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585965f08658-71.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585965f02592-41.jpg
 tags: []
@@ -46,5 +46,5 @@ info:
   - name: Cliente
     value: Concello de Vigo / Universidade de Vigo
   - name: Ano
-    value: '2011'
+    value: "2011"
 draft: false

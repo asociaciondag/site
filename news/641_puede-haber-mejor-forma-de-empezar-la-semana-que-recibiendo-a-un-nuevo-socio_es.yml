@@ -3,7 +3,7 @@ title: Puede haber mejor forma de empezar la semana que recibiendo a un nuevo so
 body:
   - list: after
     image: /img/news/images/56c9f6572e690-seica-chove-enrique.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -17,11 +17,11 @@ body:
       todos vuestro trabajo. Aportaré todo cuanto pueda para que esta comunidad
       siga dando voz y reconociendo el valor del Diseño.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/enrique-raimundez-fdez/'
+  - list: ""
+    url: "https://dag.gal/gl/enrique-raimundez-fdez/"
     text: Perfil de socio DAG
     type: button
-intro: 'Bienvenido, Enrique!'
+intro: "Bienvenido, Enrique!"
 basename: puede-haber-mejor-forma-de-empezar-la-semana-que-recibiendo-a-un-nuevo-socio
 tags: []
 lang: es

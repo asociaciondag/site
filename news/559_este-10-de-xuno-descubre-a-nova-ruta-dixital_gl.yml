@@ -21,7 +21,7 @@ body:
        Teléfono 902 905 024
        Mail: <comunicacion@torculo.com>
     type: text
-  - list: ''
+  - list: ""
     file: /files/55a298b2b33b4-descubre-a-nova-ruta-dixital.pdf
     text: Descarga o programa
     type: file

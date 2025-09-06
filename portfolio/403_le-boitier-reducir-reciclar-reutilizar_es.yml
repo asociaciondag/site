@@ -1,5 +1,5 @@
 id: 403
-title: 'Le Boitier (Reducir, Reciclar, Reutilizar)'
+title: "Le Boitier (Reducir, Reciclar, Reutilizar)"
 basename: le-boitier-reducir-reciclar-reutilizar
 body:
   - text: >-
@@ -16,10 +16,10 @@ body:
       la ideación del concepto, su diseño o usos y el desarrollo del producto.
     type: text
   - image: /img/portfolio/images/boitierrr-cover-alternance-fond-transparent.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/exploded-view.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/boitierrr-cover-alternance-fond-transparent.png
 tags:

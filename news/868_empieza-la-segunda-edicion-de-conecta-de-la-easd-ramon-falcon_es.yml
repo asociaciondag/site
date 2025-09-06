@@ -3,7 +3,7 @@ title: Empieza la segunda edición de Conecta de la EASD Ramón Falcón
 body:
   - list: after
     image: /img/news/images/portada-conecta.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -143,8 +143,8 @@ body:
       trabajará sobre el concepto y la realización de un micro espacio de
       Retail.
     type: text
-  - list: ''
-    url: 'http://escoladeartelugo.com/conecta/'
+  - list: ""
+    url: "http://escoladeartelugo.com/conecta/"
     text: Conecta 2019
     type: button
 intro: >-

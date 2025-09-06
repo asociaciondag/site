@@ -3,7 +3,7 @@ title: Da árbore á cadeira
 body:
   - list: after
     image: /img/news/images/58e7a474ba794-da-arbore-a-cadeira.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -49,8 +49,8 @@ body:
       Gratis. Salida desde el mostrador de entrada del Museo Centro Gaiás. No se
       necesita reservar
     type: text
-  - list: ''
-    url: 'http://www.cidadedacultura.gal/es/evento/del-arbol-la-silla'
+  - list: ""
+    url: "http://www.cidadedacultura.gal/es/evento/del-arbol-la-silla"
     text: Da árbore á cadeira
     type: button
 intro: >-

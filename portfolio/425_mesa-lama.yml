@@ -3,10 +3,10 @@ title: Mesa Lama
 basename: mesa-lama
 body:
   - image: /img/portfolio/images/mesa-lama-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/mesa-lama-1.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/mesa-lama-2.jpg
 tags:

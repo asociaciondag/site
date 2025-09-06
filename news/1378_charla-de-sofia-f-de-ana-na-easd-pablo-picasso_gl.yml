@@ -3,7 +3,7 @@ title: Charla de Sofía F. de Ana na EASD Pablo Picasso
 body:
   - list: before
     image: /img/news/images/web-sofifinal.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -34,8 +34,8 @@ body:
       ese día cunha exposición de versos que reivindican ás mulleres
       seleccionados do cancioneiro tradicional galego.
     type: text
-  - list: ''
-    url: 'https://eapicasso.com/conmemoracion-8m-2025/'
+  - list: ""
+    url: "https://eapicasso.com/conmemoracion-8m-2025/"
     text: Máis info da xornada
     type: button
 intro: >-

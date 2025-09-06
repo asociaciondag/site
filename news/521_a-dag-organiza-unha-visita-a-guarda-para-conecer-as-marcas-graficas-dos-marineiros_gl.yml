@@ -41,9 +41,9 @@ body:
       [Sta.Tegra:
       https://www.youtube.com/watch?v=LlLGtqp1w-k](https://www.youtube.com/watch?v=LlLGtqp1w-k)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa767596-visita-guarda-dag.png
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

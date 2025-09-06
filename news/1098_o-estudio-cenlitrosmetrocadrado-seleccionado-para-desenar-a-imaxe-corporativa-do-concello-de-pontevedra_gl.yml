@@ -1,7 +1,7 @@
 id: 1098
 title: >-
   O estudio Cenlitrosmetrocadrado seleccionado para deseñar a imaxe corporativa
-  do Concello de Pontevedra. 
+  do Concello de Pontevedra.
 body:
   - list: after
     image: /img/news/images/b3c1bb5f-bcd6-457a-81fb-d34614b0dfae.jpeg
@@ -46,8 +46,8 @@ body:
       seguro que a imaxe gráfica resultante deste proceso representará á
       institución e á cidadanía co sentido que se busca.
     type: text
-  - list: ''
-    url: 'https://estudodeseno.dag.gal/assets/images/guia-contratacion-eedg.pdf'
+  - list: ""
+    url: "https://estudodeseno.dag.gal/assets/images/guia-contratacion-eedg.pdf"
     text: Información sobre a contratación do deseño
     type: button
 intro: >-

@@ -1,9 +1,9 @@
 id: 1260
-title: 'Cenlitros, Marcos Dopico y Desoños ganadores de los Premios Paraugas 2023'
+title: "Cenlitros, Marcos Dopico y Desoños ganadores de los Premios Paraugas 2023"
 body:
   - list: before
     image: /img/news/images/img-0589.jpeg
-    text: 'Imagen: Web Premios'
+    text: "Imagen: Web Premios"
     mode: normal
     type: image
   - text: >-
@@ -45,8 +45,8 @@ body:
       USC - Servizo de Edición e Impresión Dixital, y Carmen Bouza, diseñadora
       de productos digitales en Accenture Song.
     type: text
-  - list: ''
-    url: 'https://premios.clustercomunicacion.gal/ganadores-premios-paraugas-2023'
+  - list: ""
+    url: "https://premios.clustercomunicacion.gal/ganadores-premios-paraugas-2023"
     text: Web de los Premios Paraugas
     type: button
 intro: >-

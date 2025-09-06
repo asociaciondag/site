@@ -1,9 +1,9 @@
 id: 960
-title: 'La Fundación DIDAC presenta su colección de arte y diseño '
+title: "La Fundación DIDAC presenta su colección de arte y diseño "
 body:
   - list: after
     image: /img/news/images/vistaexposicion-colfunddidac.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,8 +43,8 @@ body:
       conocer la nueva sede del [estudio DARDO](http://dardo.gal/dardo/), que
       comparte espacio con la Fundación DIDAC desde el pasado mes de enero .
     type: text
-  - list: ''
-    url: 'http://www.didac.gal/didac/es/exposiciones/coleccion-didac'
+  - list: ""
+    url: "http://www.didac.gal/didac/es/exposiciones/coleccion-didac"
     text: Más información
     type: button
 intro: >-

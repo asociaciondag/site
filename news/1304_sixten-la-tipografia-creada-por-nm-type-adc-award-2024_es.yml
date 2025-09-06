@@ -1,9 +1,9 @@
 id: 1304
-title: 'Sixten, la tipografía creada por NM type, ADC Award 2024'
+title: "Sixten, la tipografía creada por NM type, ADC Award 2024"
 body:
   - list: before
     image: /img/news/images/sixten-01.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,8 +33,8 @@ body:
       movimiento, experiencial y espacial, de la fotografía, de la ilustración y
       del diseño de moda, centrado en el arte y en la artesanía.
     type: text
-  - list: ''
-    url: 'https://www.oneclub.org/awards/adcawards/-award/51719/sixten-typeface'
+  - list: ""
+    url: "https://www.oneclub.org/awards/adcawards/-award/51719/sixten-typeface"
     text: Web de los Premios ADC Awards
     type: button
 intro: >-

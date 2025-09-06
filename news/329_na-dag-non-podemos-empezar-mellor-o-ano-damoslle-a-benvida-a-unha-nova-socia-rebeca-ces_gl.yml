@@ -31,9 +31,9 @@ body:
 
       Máis sobre ela en <http://rebecaces.com/>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa063626-rebeca-ces.jpg
-    text: ''
+    text: ""
     type: image
 intro: Preséntome.
 basename: >-

@@ -22,25 +22,25 @@ body:
       para darlle unha idea visual do produto final.
     type: text
   - image: /img/portfolio/images/asulab-textures2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/asulab-textures3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/asulab-textures4.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/asulab-textures5.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/asulab-textures6.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/asulab-textures7.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/asulab-textures8.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/asulab-textures8.jpg
 tags:
@@ -51,6 +51,6 @@ lang:
   - gl
   - es
 info:
-  - name: 'Cliente:'
-    value: ' Grupo Swatch'
+  - name: "Cliente:"
+    value: " Grupo Swatch"
 draft: false

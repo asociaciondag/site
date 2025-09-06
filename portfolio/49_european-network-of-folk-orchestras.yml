@@ -31,19 +31,19 @@ body:
       as aplicacións vinculadas ao _merchandising,_ ás chapas, camisetas, etc.
     type: text
   - image: /img/portfolio/images/558599b570dc0-enfo-present-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558599b571162-enfo-present-3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558599b571498-enfo-present-4.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558599b57176d-enfo-present-6.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558599b571c18-web-enfo.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558599b5708b9-enfo-present-2.jpg
 tags:
@@ -63,5 +63,5 @@ info:
       Escola Municipal de Música Tradicional e Folk (e-Trad) / Servizo de
       Educación, Concello de Vigo
   - name: Ano
-    value: '2011'
+    value: "2011"
 draft: false

@@ -5,7 +5,7 @@ body:
   - text: Diseño de identidad corporativa y aplicación para Social Media
     type: text
   - image: /img/portfolio/images/diseno-instagram.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/diseno-instagram.jpg
 tags:

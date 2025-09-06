@@ -3,7 +3,7 @@ title: Marta Verde impartirá programación creativa con processing en Compostel
 body:
   - list: after
     image: /img/news/images/569fe17c3f5c3-processing-marta-verde.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -19,8 +19,8 @@ body:
       La actividad tendrá lugar los días 6 y 7 de febrero de 2016 en horario de
       10 a 14 h y de 16 a 20 h en el espacio Unitaria en Santiago de Compostela.
     type: text
-  - list: ''
-    url: 'http://escolaunitaria.com/2016/01/12/programacion-creativa-con-processing/'
+  - list: ""
+    url: "http://escolaunitaria.com/2016/01/12/programacion-creativa-con-processing/"
     text: Información e inscripciones
     type: button
 intro: >-

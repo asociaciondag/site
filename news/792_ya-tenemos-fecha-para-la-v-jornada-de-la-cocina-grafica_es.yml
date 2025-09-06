@@ -45,8 +45,8 @@ body:
       como asistente en el evento para poder acceder. Puedes registrarte aquí:
       [Formulario de inscripción](https://goo.gl/forms/b0gT5LwBaUXJtwu52).
     type: text
-  - list: ''
-    url: 'http://lacocinagrafica.afundacion.org/'
+  - list: ""
+    url: "http://lacocinagrafica.afundacion.org/"
     text: Web da Cociña Gráfica
     type: button
 intro: >-

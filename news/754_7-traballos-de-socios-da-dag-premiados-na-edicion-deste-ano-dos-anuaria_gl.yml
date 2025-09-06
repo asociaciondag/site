@@ -17,21 +17,21 @@ body:
       categoría de mellor packaging polo traballo desenvolvido para Adegas
       Tollodouro.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/o-almacen.jpeg
     text: >-
       O Almacén de Guillotina Estudio, Anuaria de Ouro na categoría de mellor
       programa de identidade corporativa
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/astrovisit-teide.jpeg
     text: >-
       Astrovisit Teide de Guillotina Estudio, Selección Anuaria na categoría de
       mellor programa de identidade corporativa
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/adegas-tollodouro.jpeg
     text: >-
       Adegas Tollodouro de Guillotina Estudio, Selección Anuaria na categoría de
@@ -45,19 +45,19 @@ body:
       de mellor traballo de autopromoción; e unha máis na de mellor programa de
       identidade corporativa por La Monda.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/hakon-bleken.jpeg
     text: >-
       _Hakon Bleken. El camino entre la abstracción y la figuración_ de Dardo,
       Selección Anuaria na categoría de mellor cuberta dun libro
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/autopromocion-dardo.jpeg
-    text: 'Dardo, Selección Anuaria na categoría de mellor traballo de autopromoción'
+    text: "Dardo, Selección Anuaria na categoría de mellor traballo de autopromoción"
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/la-monda.jpeg
     text: >-
       La Monda de Dardo, Selección Anuaria na categoría de mellor programa de
@@ -70,14 +70,14 @@ body:
       Blues de Pontevedra, categoría na que repite premio porque o ano pasado xa
       fora seleccionado polo seu cartel para a festa do mar de Combarro.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/festival-jazz-e-blues.jpeg
     text: >-
       Cartel do Festival Internacional de Jazz e Blues de Pontevedra de Era
       Comunicación, Selección Anuaria na categoría de mellor cartel
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     url: >-
       http://www.veredictas.com/premios/premios-anuaria/galeria-premiados-anuaria/ganadores-2017.html
     text: Premiados Anuaria 2017

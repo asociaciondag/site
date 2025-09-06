@@ -3,7 +3,7 @@ title: Xornadas de Arte e Deseño Conecta
 body:
   - list: after
     image: /img/news/images/conecta-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -58,8 +58,8 @@ body:
 
       As xornadas son gratuítas e están abertas a todas as persoas interesadas.
     type: text
-  - list: ''
-    url: 'http://escoladeartelugo.com/conecta/'
+  - list: ""
+    url: "http://escoladeartelugo.com/conecta/"
     text: Web de Conecta
     type: button
 intro: >-

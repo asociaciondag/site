@@ -1,5 +1,5 @@
 id: 475
-title: 'Conclusiones del Foro DAG: Propuestas de avance para el diseño'
+title: "Conclusiones del Foro DAG: Propuestas de avance para el diseño"
 body:
   - text: >-
       El foro, al que asistieron diseñadores gráficos e industriales de toda
@@ -37,7 +37,7 @@ body:
 
       Descarga las conclusiones del foro:
     type: text
-  - list: ''
+  - list: ""
     file: /files/553e7aa52ad54-propostas-do-foro-dag.pdf
     text: Descargar
     type: file

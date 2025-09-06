@@ -3,16 +3,16 @@ title: Identidade do concello de Poio
 basename: identidade-do-concello-de-poio
 body:
   - image: /img/portfolio/images/simbolo-marca-poio.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/simbolo-logotipo-marca-poio.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/positivo-e-negativo.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/sello-antiguo-poio.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/simbolo-marca-poio.jpg
 tags:
@@ -21,9 +21,9 @@ members_id:
   - 23
 lang: gl
 info:
-  - name: 'Cliente:'
+  - name: "Cliente:"
     value: Concello de Poio
-  - name: 'Ano:'
-    value: '2017'
+  - name: "Ano:"
+    value: "2017"
 draft: false
 oldUrl: /gl/portfolio/identidade-do-concello-de-poio/

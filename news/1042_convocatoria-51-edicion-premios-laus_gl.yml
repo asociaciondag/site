@@ -1,9 +1,9 @@
 id: 1042
-title: 'Aberta a convocatoria para a 51ª edición dos Premios Laus ata o 1 de marzo '
+title: "Aberta a convocatoria para a 51ª edición dos Premios Laus ata o 1 de marzo "
 body:
   - list: after
     image: /img/news/images/adglaus21.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -35,8 +35,8 @@ body:
       de 2021 e recibirán un trofeo, deseñado polo estudio [Oiko Design
       Office](https://www.oikodesignoffice.com/laus).
     type: text
-  - list: ''
-    url: 'https://www.adg-fad.org/es/laus/bases-y-categorias'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/bases-y-categorias"
     text: Bases dos Premios Laus
     type: button
 intro: >-

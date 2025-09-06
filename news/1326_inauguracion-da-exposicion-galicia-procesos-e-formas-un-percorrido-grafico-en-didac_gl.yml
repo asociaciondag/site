@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/galiciaprocesosformas-didac.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -27,7 +27,7 @@ body:
       a venres en horario de 10 a 14 e de 16 a 19 horas, e os sábados con cita
       previa.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://didac.gal/didac/es/content/galicia-procesos-y-formas-un-recorrido-grafico
     text: Máis info

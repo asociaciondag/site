@@ -3,7 +3,7 @@ title: Continuamos coas presentacións dos convidados do FEED'17
 body:
   - list: after
     image: /img/news/images/bea-facebook.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -28,8 +28,8 @@ body:
       Castelao pola súa primeira novela gráfica _O corpo de Cristo,_ que será
       editada a próxima primavera.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: FEED'17
     type: button
 intro: >-

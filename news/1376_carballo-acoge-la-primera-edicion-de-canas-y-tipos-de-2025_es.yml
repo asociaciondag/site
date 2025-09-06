@@ -39,8 +39,8 @@ body:
       Daniel Pino, junto con Bernardo Paz, Yolanda González y Carla Bautís. La
       entrada es libre hasta completar el aforo.
     type: text
-  - list: ''
-    url: 'https://www.canyasytipos.com/'
+  - list: ""
+    url: "https://www.canyasytipos.com/"
     text: Web Cañas y Tipos
     type: button
 intro: >-

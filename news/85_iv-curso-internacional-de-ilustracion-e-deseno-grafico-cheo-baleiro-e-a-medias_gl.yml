@@ -32,11 +32,11 @@ body:
       [Fundación Santa María de
       Albarracín](http://www.fundacionsantamariadealbarracin.com)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a986556c-curso-ilustracio-copia.gif
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a986556c-curso-ilustracion-diseno-0610.pdf
     text: Descargar
     type: file

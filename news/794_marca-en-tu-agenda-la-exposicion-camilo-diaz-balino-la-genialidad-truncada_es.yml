@@ -1,9 +1,9 @@
 id: 794
-title: 'Marca en tu agenda la exposición Camilo Díaz Baliño: la genialidad truncada'
+title: "Marca en tu agenda la exposición Camilo Díaz Baliño: la genialidad truncada"
 body:
   - list: after
     image: /img/news/images/diazbalino.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -26,8 +26,8 @@ body:
       La exposición, que es gratuita, permanecerá abierta hata el 7 marzo de
       2018 en horario de 08.00 a 20.00h en la Biblioteca y Archivo de Galicia.
     type: text
-  - list: ''
-    url: 'http://www.diadailustracion.gal/'
+  - list: ""
+    url: "http://www.diadailustracion.gal/"
     text: Camilo Díaz Baliño en el site del Día de la Ilustración
     type: button
 intro: >-

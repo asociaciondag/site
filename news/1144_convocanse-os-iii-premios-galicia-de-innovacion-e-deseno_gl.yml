@@ -3,7 +3,7 @@ title: Convócanse os III Premios Galicia de Innovación e Deseño
 body:
   - list: after
     image: /img/news/images/premiosinnovaciondes2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -59,7 +59,7 @@ body:
       Guitián e Fernando Pérez (traxectoria innovadora), Marine Instruments e
       GalChimia (pemes) e Cupa Innovación e Congalsa (grandes empresas).
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.xunta.gal/dog/Publicados/2022/20220502/AnuncioG0198-210422-0001_gl.html
     text: Bases da convocatoria

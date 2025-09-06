@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/01-roberto-nunez-graphis.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -17,9 +17,9 @@ body:
       conectados ca antiga marca e ca tipoloxía de escudo do municipio de Portas
       onde está localizada a adega».
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/02-symbol-logo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

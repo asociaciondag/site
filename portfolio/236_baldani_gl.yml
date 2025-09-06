@@ -3,7 +3,7 @@ title: Baldani
 basename: baldani
 body:
   - image: /img/portfolio/images/baldani-2016-branding.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/baldani-2016-branding.jpg
 tags:
@@ -15,6 +15,6 @@ info:
   - name: Proxecto
     value: Baldani
   - name: Ano
-    value: '2016'
+    value: "2016"
 draft: false
 oldUrl: /gl/portfolio/baldani/

@@ -7,7 +7,7 @@ body:
       en colaboración con Proxecto Socheo
     type: text
   - image: /img/portfolio/images/vaivens.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/vaivens.png
 tags:

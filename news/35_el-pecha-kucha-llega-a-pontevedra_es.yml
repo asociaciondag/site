@@ -7,11 +7,11 @@ body:
       Tendrá lugar este viernes 10 de julio a las 22:00 en la Sala Karma de
       Pontevedra. La entrada es gratuíta.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a96d87a8-cartel-pechakucha-vol1.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a96d87a8-mapa.pdf
     text: Descargar
     type: file

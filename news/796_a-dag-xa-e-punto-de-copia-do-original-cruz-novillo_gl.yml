@@ -3,7 +3,7 @@ title: A DAG xa é punto de copia do ORIGINAL Cruz Novillo
 body:
   - list: after
     image: /img/news/images/original-copia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -34,8 +34,8 @@ body:
       Para conseguires a túa copia, escríbenos a <info@dag.gal> e informarémoste
       de todo.
     type: text
-  - list: ''
-    url: 'https://www.facebook.com/originalcruznovillo/'
+  - list: ""
+    url: "https://www.facebook.com/originalcruznovillo/"
     text: Facebook do proxecto
     type: button
 intro: >-

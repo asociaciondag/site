@@ -3,7 +3,7 @@ title: Gain convoca los IV Premios Galicia de Innovación y Diseño
 body:
   - list: after
     image: /img/news/images/prazo-aberto-h.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -48,7 +48,7 @@ body:
       competitividad de las empresas y mejorar la calidad de vida de las
       personas.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.xunta.gal/dog/Publicados/2023/20230712/AnuncioG0198-230623-0001_es.html
     text: Bases de la convocatoria

@@ -49,7 +49,7 @@ body:
       Puedes ver estos y otros contenidos de interés, relacionados directa o
       indirectamente con el diseño, en el siguiente documento.
     type: text
-  - list: ''
+  - list: ""
     file: /files/contidos-deseno.pdf
     text: Enlaces a contenidos de interés
     type: file

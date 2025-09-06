@@ -3,7 +3,7 @@ title: Encuentro de Asociaciones de Diseño del Norte de España
 body:
   - list: after
     image: /img/news/images/encontro-asociacions-norte.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -23,7 +23,7 @@ body:
       La jornada se completa con una exposición en la que se muestra el trabajo
       de READ y de las asociaciones participantes.
     type: text
-  - list: ''
+  - list: ""
     file: /files/encontro-de-asociacions-do-norte.pdf
     text: Programa del Encuentro de Asociaciones de Diseño del Norte
     type: file

@@ -11,19 +11,19 @@ body:
       protección, para convidar ao coidado e ao correcto uso da lingua propia.
     type: text
   - image: /img/portfolio/images/555ce4a1458c5-era-22.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce4a145db7-era-23.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce4a1461de-era-24.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce4a14656c-era-25.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce4a1468f7-era-26.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859d475637c-555ce4a1458c5-era-22.jpg
 tags:
@@ -39,5 +39,5 @@ info:
   - name: Cliente
     value: Normalización Lingüística. Concello de Pontevedra
   - name: Ano
-    value: '2009'
+    value: "2009"
 draft: false

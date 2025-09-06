@@ -3,7 +3,7 @@ title: Uqui Permui e Noemí Cortizas participan con READ na France Design Week
 body:
   - list: before
     image: /img/news/images/img-0692.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -59,12 +59,12 @@ body:
       DIFERENZA](http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+sustentabilidade+2024+diferenza),
       o apoio dado a DAG para promocionar o deseño galego neste evento.
     type: text
-  - list: ''
-    url: 'https://designread.es/read-participa-en-la-france-design-week/'
+  - list: ""
+    url: "https://designread.es/read-participa-en-la-france-design-week/"
     text: Máis info
     type: button
-  - list: ''
-    url: 'https://francedesignweek.fr/'
+  - list: ""
+    url: "https://francedesignweek.fr/"
     text: France Design Week
     type: button
 intro: >-

@@ -13,14 +13,14 @@ body:
       público la edición especial que están realizando entre todos los
       participantes.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9abdade-inauguracion-do-feet-2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9abdade-comeza-o-feet-web-dag-2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

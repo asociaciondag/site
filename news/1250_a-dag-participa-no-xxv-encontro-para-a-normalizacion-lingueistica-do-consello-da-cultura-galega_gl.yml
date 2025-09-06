@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/encontro-consello-cultura.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -32,8 +32,8 @@ body:
       na sede d​o Consello da Cultura Galega (Pazo de Raxoi). A inscrición é
       gratuíta ata completar o aforo. ​​
     type: text
-  - list: ''
-    url: 'http://consellodacultura.gal/evento.php?id=201661'
+  - list: ""
+    url: "http://consellodacultura.gal/evento.php?id=201661"
     text: Máis información
     type: button
 intro: >-

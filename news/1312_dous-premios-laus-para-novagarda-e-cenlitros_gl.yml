@@ -32,8 +32,8 @@ body:
       Aporta e Estudantes. Nesta 54 edición, ​os premios consolídanse como uns
       galardóns e unha cita profesional claves no sector.​
     type: text
-  - list: ''
-    url: 'https://www.adg-fad.org/es/laus/premiados'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premiados"
     text: Web dos premios
     type: button
 intro: >-

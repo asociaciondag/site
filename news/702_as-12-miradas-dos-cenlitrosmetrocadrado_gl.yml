@@ -3,7 +3,7 @@ title: As 12 miradas dos cenlitrosmetrocadrado
 body:
   - list: after
     image: /img/news/images/5821f5bb47220-mirada-1-cenlitros.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -22,19 +22,19 @@ body:
       Os máis curiosos tedes a seguir un adianto dalgunhas desas imaxes
       preferidas dos [cenlitros](http://cenlitrosmetrocadrado.com/):
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/5821f5bb479ff-cenlitrosmirada2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/5821f5bb47d2f-cenlitros-mirada-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/5821f45e2b4cf-cenlitrosmirada3.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

@@ -3,7 +3,7 @@ title: Vuelve Cañas y Tipos con Laura Meseguer y Berio Molina
 body:
   - list: before
     image: /img/news/images/cet-s10e01-horizontal-03.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -51,12 +51,12 @@ body:
       Daniel Pino, junto con Bernardo Paz, Yolanda González y Carla Bautís. La
       entrada es gratuita hasta completar el aforo.
     type: text
-  - list: ''
-    url: 'https://escolaunitaria.com/2024/07/16/stencilmania/'
+  - list: ""
+    url: "https://escolaunitaria.com/2024/07/16/stencilmania/"
     text: Inscripción taller Unitaria
     type: button
-  - list: ''
-    url: 'https://www.canyasytipos.com/'
+  - list: ""
+    url: "https://www.canyasytipos.com/"
     text: Más sobre Cañas y Tipos
     type: button
 intro: >-

@@ -3,19 +3,19 @@ title: A taberna
 basename: a-taberna
 body:
   - image: /img/portfolio/images/a-taberna-lugo.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cartas-exterior.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cartas-interior.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cartas.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/mandilon-restaurante.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/cartas.jpg
 tags:

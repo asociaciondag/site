@@ -3,7 +3,7 @@ title: Abierto el plazo de solicitud de las ayudas DeseñaPeme 2022
 body:
   - list: after
     image: /img/news/images/0-desenhapeme2022-01.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -61,8 +61,8 @@ body:
       comunicación​)​. ​El plazo de presentación de solicitudes es hasta el 23
       de mayo.
     type: text
-  - list: ''
-    url: 'http://gain.xunta.gal/artigos/493/desenapeme'
+  - list: ""
+    url: "http://gain.xunta.gal/artigos/493/desenapeme"
     text: Toda la información
     type: button
 intro: >-

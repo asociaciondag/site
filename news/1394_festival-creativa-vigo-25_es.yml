@@ -1,5 +1,5 @@
 id: 1394
-title: 'Participamos en el Festival Creativa, Vigo'
+title: "Participamos en el Festival Creativa, Vigo"
 body:
   - list: before
     image: /img/news/images/creativa-horiz.jpg
@@ -51,8 +51,8 @@ body:
       cultural de Galicia” en los Premios Paraugas de 2024. Acceso libre y
       gratuíto.
     type: text
-  - list: ''
-    url: 'https://dotgalicia.com/creativa/'
+  - list: ""
+    url: "https://dotgalicia.com/creativa/"
     text: Programa completo
     type: button
 intro: >-

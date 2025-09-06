@@ -26,7 +26,7 @@ body:
       y versatilidad del sistema compositivo.
     type: text
   - image: /img/portfolio/images/vivir-vilamari-uen.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/vivir-vilamari-n-thumbnail.jpg
 tags:

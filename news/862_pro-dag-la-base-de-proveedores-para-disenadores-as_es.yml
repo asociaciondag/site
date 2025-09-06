@@ -1,5 +1,5 @@
 id: 862
-title: 'PRO-DAG, la base de proveedores para diseñadores/as'
+title: "PRO-DAG, la base de proveedores para diseñadores/as"
 body:
   - text: >-
       [PRO-DAG](https://asociaciondag.github.io/provedores/) pretende ser unha
@@ -29,8 +29,8 @@ body:
       proveedores o en hacer correcciones o modificaciones sobre los datos que
       figuran en la base, pueden escribirnos a <info@dag.gal>.
     type: text
-  - list: ''
-    url: 'https://asociaciondag.github.io/provedores/'
+  - list: ""
+    url: "https://asociaciondag.github.io/provedores/"
     text: PRO-DAG
     type: button
 intro: >-

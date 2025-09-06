@@ -1,9 +1,9 @@
 id: 731
 title: Transferenciasdesign
 body:
-  - list: ''
+  - list: ""
     image: null
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -17,8 +17,8 @@ body:
 
       La inscripción ya está abierta y es gratuita.
     type: text
-  - list: ''
-    url: 'http://www.transferencias.design/'
+  - list: ""
+    url: "http://www.transferencias.design/"
     text: Transferencias Design 2017
     type: button
 intro: >-

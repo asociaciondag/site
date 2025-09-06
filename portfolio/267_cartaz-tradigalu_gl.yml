@@ -7,7 +7,7 @@ body:
       lanzado pola Deputación de Lugo
     type: text
   - image: /img/portfolio/images/tradigalu-cartaz.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/tradigalu-cartaz.jpg
 tags:

@@ -5,13 +5,13 @@ body:
   - text: Deseño de novo embalaxe e cartel promocional.
     type: text
   - image: /img/portfolio/images/caixas.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cartel-conservas-gourmet.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/troquel-lata-conservas.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/caixas.jpg
 tags:

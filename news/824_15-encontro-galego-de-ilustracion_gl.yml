@@ -3,7 +3,7 @@ title: 15 Encontro Galego de Ilustración
 body:
   - list: after
     image: /img/news/images/cartel-15encontro-1000px.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -64,8 +64,8 @@ body:
       que precisa dunha inscrición de 15 euros. Toda a información pode
       consultarse na web de [AGPI](https://agpi.es/).
     type: text
-  - list: ''
-    url: 'https://agpi.es/encontro/'
+  - list: ""
+    url: "https://agpi.es/encontro/"
     text: 15 Encontro Galego de Ilustración
     type: button
 intro: >-

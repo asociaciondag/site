@@ -43,11 +43,11 @@ body:
 
       Descarga el programa:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9ec00f3-casadascampas.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9ec00f3-cursos-aula-tecnoloxica-outono2011.pdf
     text: Descargar
     type: file

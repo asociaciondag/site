@@ -3,7 +3,7 @@ title: Hoy se inaugura Formas do Deseño. Galicia XXI
 body:
   - list: after
     image: /img/news/images/formas-do-deseno.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,7 +33,7 @@ body:
       de junio de 2019 en el siguiente horario: 10.00 a 14.00 y de 16.00 a 20.00
       h. La entrada es gratuita.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.compostelacultura.gal/espectaculos/evento/inauguraci%C3%B3n-formas-do-dese%C3%B1o-galicia-xxi
     text: FORMAS DO DESEÑO. GALICIA XXI

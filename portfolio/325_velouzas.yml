@@ -3,7 +3,7 @@ title: Clube Ciclista Velouzas
 basename: velouzas
 body:
   - image: /img/portfolio/images/velouzas.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/velouzas.jpg
 tags:

@@ -8,11 +8,11 @@ body:
 
       <http://www.levante-emv.com/cultura/2009/09/29/cultura-valenciano-paco-muere/636351.html>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9758fe2-paco-copia.gif
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9758fe2-bascunan.pdf
     text: Descargar
     type: file

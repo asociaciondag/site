@@ -18,16 +18,16 @@ body:
       **Auditorio de Rianxo**
        Rúa Autores da Rianxeira, 15920 Rianxo
     type: text
-  - list: ''
+  - list: ""
     file: /files/55ba423bd7a69-150707-cartel-rianxo-1.pdf
-    text: 'Cartel do encontro, PDF'
+    text: "Cartel do encontro, PDF"
     type: file
-  - list: ''
+  - list: ""
     file: /files/55ba423bd7f30-150707-cartel-rianxo-programa-1-1.pdf
-    text: 'Programa do encontro, PDF'
+    text: "Programa do encontro, PDF"
     type: file
   - list: after
-    url: 'http://dag.gal/gl/rianxo'
+    url: "http://dag.gal/gl/rianxo"
     text: Páxina do evento con toda a información
     type: button
 intro: >-

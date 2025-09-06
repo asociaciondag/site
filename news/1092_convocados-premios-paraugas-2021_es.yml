@@ -3,7 +3,7 @@ title: Convocados los VI Premios Paraugas 2021
 body:
   - list: after
     image: /img/news/images/premios-paraugas-vi-edicion.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,7 +29,7 @@ body:
       disponibles [en su web](https://premios.clustercomunicacion.gal/), desde
       donde también se puede hacer la inscripción de proyectos.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://premios.clustercomunicacion.gal/wp-content/uploads/2021/10/bases-VI-Premios-Paraugas-20-10-21.pdf
     text: Bases de los Premios Paraugas

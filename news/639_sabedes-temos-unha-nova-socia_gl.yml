@@ -3,7 +3,7 @@ title: Sabedes? Temos unha nova socia
 body:
   - list: after
     image: /img/news/images/56bb7ed15f325-dag-alba.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -23,11 +23,11 @@ body:
       convencida de que entre todxs poderemos facer do deseño galego un gran
       conxunto: para apoiarnos, para medrar e ver o noso progreso da man.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/alba-perez-pereiro/'
+  - list: ""
+    url: "https://dag.gal/gl/alba-perez-pereiro/"
     text: Ficha de socia DAG
     type: button
-intro: 'E, como é habitual, traémola á portada para que ela mesma se presente'
+intro: "E, como é habitual, traémola á portada para que ela mesma se presente"
 basename: sabedes-temos-unha-nova-socia
 tags:
   - noticias socios/socias

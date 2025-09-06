@@ -1,9 +1,9 @@
 id: 1414
-title: 'Nigrán acoge la primera edición de PROYECTAR '
+title: "Nigrán acoge la primera edición de PROYECTAR "
 body:
   - list: before
     image: /img/news/images/imaxe-proxectar-2025.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -30,8 +30,8 @@ body:
       sábado, Marcos Dopico, decano de la Facultad de Diseño de la UVigo, tomará
       su relevo en la sesión de Tomás Alonso y Estar Arquitectos.
     type: text
-  - list: ''
-    url: 'https://proxectar.gal/'
+  - list: ""
+    url: "https://proxectar.gal/"
     text: Más info y entradas
     type: button
 intro: Nace un ciclo de conversaciones sobre diseño industrial y de producto

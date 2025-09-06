@@ -33,31 +33,31 @@ body:
       permite visibilizar o logotipo do Xacobeo 2010.
     type: text
   - image: /img/portfolio/images/558598db93a5b-xacobeo-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558598db93c4b-xacobeo-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558598db93e23-xacobeo-3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558598db94026-xacobeo-4.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558598db941f8-xacobeo-4-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558598db943bb-xacobeo-5.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558598db945e7-xacobeo-5-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558598db947e8-xacobeo-6.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558598db949ff-xacobeo-6-1.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558598db93819-xacobeo-6-1.jpg
 tags:
@@ -73,7 +73,7 @@ info:
   - name: Cliente
     value: S. A. de Xestión do Plan Xacobeo. Xunta de Galicia
   - name: Ano
-    value: '2011'
+    value: "2011"
   - name: Fotografía
-    value: 'Manuel Valcárcel, Janite, Jaime Fernández e outros'
+    value: "Manuel Valcárcel, Janite, Jaime Fernández e outros"
 draft: false

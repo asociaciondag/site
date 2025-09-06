@@ -32,9 +32,9 @@ body:
       fechas especialmente propicias para echar la vista atrás, la DAG mira al
       futuro.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9dc3158-5aniversario.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   Hoy se cumplen cinco años de la constitución de la Asociación Gallega de

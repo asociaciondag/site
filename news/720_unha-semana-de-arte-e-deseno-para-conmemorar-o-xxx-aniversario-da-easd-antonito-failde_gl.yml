@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/58dbf61a1a12a-cartaz-crea.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -37,8 +37,8 @@ body:
       para constatar o enorme potencial creativo de varias das promocións de
       graduados da escola.
     type: text
-  - list: ''
-    url: 'http://escolarte.com/crea/'
+  - list: ""
+    url: "http://escolarte.com/crea/"
     text: CREA
     type: button
 intro: >-

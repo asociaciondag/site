@@ -7,7 +7,7 @@ body:
       asociada ao lado dereito do cerebro.
     type: text
   - image: /img/portfolio/images/tecendo-arte.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/tecendo-arte.jpg
 tags:

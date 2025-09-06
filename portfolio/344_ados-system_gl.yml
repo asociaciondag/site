@@ -26,16 +26,16 @@ body:
       necesaria no momento xusto.
     type: text
   - image: /img/portfolio/images/infografiaados-alum-general-peq.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/infografiaados-cuadros-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/infografiaados-cuadros-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/infografiaados-cuadros-3.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/infografiaados-alum-general-peq.jpg
 tags:
@@ -48,6 +48,6 @@ members_id:
 lang: gl
 info:
   - name: Ano
-    value: '2019'
+    value: "2019"
 draft: false
 oldUrl: /gl/portfolio/ados-system/

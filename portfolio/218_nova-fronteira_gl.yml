@@ -11,7 +11,7 @@ body:
       innovadoras e esplendorosas da cultura galega.
     type: text
   - image: /img/portfolio/images/nova-fronteira.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/nova-fronteira-thumbnail.jpg
 tags:

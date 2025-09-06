@@ -29,7 +29,7 @@ body:
     type: text
   - list: after
     image: /img/news/images/563202ed672a5-6-javier.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -71,7 +71,7 @@ body:
       que cedamos algo tan bonito a los algoritmos.
     type: text
   - list: after
-    url: 'http://dag.gal/gl/feed2015'
+    url: "http://dag.gal/gl/feed2015"
     text: Ir á páxina do FEED 2015
     type: button
 intro: >-

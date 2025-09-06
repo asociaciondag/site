@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/foto-cenlitros-roberto-bid22.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -65,8 +65,8 @@ body:
       e combinatoria a partir de dúas únicas pezas, producidas cun único molde,
       o que supón unha considerable redución do investimento inicial necesario.
     type: text
-  - list: ''
-    url: 'https://www.bid-dimad.org/'
+  - list: ""
+    url: "https://www.bid-dimad.org/"
     text: Máis información
     type: button
 intro: >-

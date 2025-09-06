@@ -9,34 +9,34 @@ body:
       libros.
     type: text
   - image: /img/portfolio/images/555ce26be6cc0-cartel-ano-lectura-abuelo.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce26be73d6-cartel-ano-lectura-chica.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce26be7953-cartel-ano-lectura-neno.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce26be7e50-cartel-ano-lectura-principal.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce26be8474-logotipo-ano-da-lectura.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce26be8891-memoria-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce26be8e84-memoria-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce26be9448-memoria-3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce26be9910-memoria-4.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555ce26be9e63-papel-regalo.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585692c06c28-555ce26be9448-memoria-3.jpg
 tags:
@@ -51,5 +51,5 @@ info:
   - name: Cliente
     value: Xunta de Galicia. Consellaría de Cultura
   - name: Ano
-    value: '2010'
+    value: "2010"
 draft: false

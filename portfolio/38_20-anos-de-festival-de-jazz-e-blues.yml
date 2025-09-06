@@ -8,27 +8,27 @@ body:
     type: text
   - image: >-
       /img/portfolio/images/555ce19b4d6f1-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: >-
       /img/portfolio/images/555ce19b4e421-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-02.jpg
-    text: ''
+    text: ""
     type: image
   - image: >-
       /img/portfolio/images/555ce19b4e88d-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-03.jpg
-    text: ''
+    text: ""
     type: image
   - image: >-
       /img/portfolio/images/555ce19b4ec9c-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-04.jpg
-    text: ''
+    text: ""
     type: image
   - image: >-
       /img/portfolio/images/555ce19b4f0f4-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-05.jpg
-    text: ''
+    text: ""
     type: image
   - image: >-
       /img/portfolio/images/555ce19b4f573-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-06.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585b1b9868dd-jazz.jpg
 tags:
@@ -44,5 +44,5 @@ info:
   - name: Cliente
     value: Concello de Pontevedra. Concellería de Festas
   - name: Ano
-    value: '2012'
+    value: "2012"
 draft: false

@@ -3,7 +3,7 @@ title: O espazo de coworking Modular colabora coa DAG
 body:
   - list: after
     image: /img/news/images/modular-multiespazo-oficina-compartida-coworking.jpg
-    text: 'Fotografía de [Luis Díaz Díaz](http://www.luisdiazdiaz.com)'
+    text: "Fotografía de [Luis Díaz Díaz](http://www.luisdiazdiaz.com)"
     mode: normal
     type: image
   - text: >-
@@ -34,8 +34,8 @@ body:
       Galega de Deseño. Un lugar aberto para quen queira desenvolver a súa
       actividade profesional en Santiago de Compostela.
     type: text
-  - list: ''
-    url: 'https://somosmodular.com'
+  - list: ""
+    url: "https://somosmodular.com"
     text: Web de Modular
     type: button
 intro: >-

@@ -3,19 +3,19 @@ title: Cuatrotercios
 basename: cuatrotercios
 body:
   - image: /img/portfolio/images/logotipo-cuatrotercios.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/aplicacions-cuatrotercios.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cuatrotercios-web1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cuatrotercios-web2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/tipo-modificada-cuatrotercios.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/logotipo-cuatrotercios.jpg
 tags:
@@ -24,9 +24,9 @@ members_id:
   - 23
 lang: gl
 info:
-  - name: 'Cliente:'
+  - name: "Cliente:"
     value: Cuatrotercios
-  - name: 'Ano:'
-    value: '2017'
+  - name: "Ano:"
+    value: "2017"
 draft: false
 oldUrl: /gl/portfolio/cuatrotercios/

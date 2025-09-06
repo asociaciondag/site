@@ -78,19 +78,19 @@ body:
       re:marks (Journal of Signum): From Marks to Ogham: Rethinking Writing in
       Gallaecia:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa769f77-a-guarda-6.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7aa769f77-remarks1-art6.pdf
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     info:
       code: "<div id=\"fb-root\"></div>\r\n<script>(function(d, s, id) {\r\n  var js, fjs = d.getElementsByTagName(s)[0];\r\n  if (d.getElementById(id)) return;\r\n  js = d.createElement(s); js.id = id;\r\n  js.src = \"//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0\";\r\n  fjs.parentNode.insertBefore(js, fjs);\r\n}(document, 'script', 'facebook-jssdk'));</script>\r\n\r\n<div class=\"fb-post\" data-href=\"https://www.facebook.co/permalink.php?story_fbid=827163017327807&id=149460691764713\" data-width=\"500\"></div>"
-      ratio: ''
+      ratio: ""
     type: embed
 intro: >-
   El diseñador Pepe Barro ha elaborado una crónica de la visita a A Guarda

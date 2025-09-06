@@ -3,7 +3,7 @@ title: A DAG colabora co programa Xuventude Mentoring da Xunta de Galicia
 body:
   - list: after
     image: /img/news/images/cartel-mentoring.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,8 +29,8 @@ body:
       período 2014-2020, no eixe prioritario 5, obxectivo temático 8, prioridade
       de investimento 8.2, obxectivo específico 8.2.1, medida 8.2.1.1.​
     type: text
-  - list: ''
-    url: 'https://xportal.cixug.gal/?lang=es'
+  - list: ""
+    url: "https://xportal.cixug.gal/?lang=es"
     text: Máis información
     type: button
 intro: >-

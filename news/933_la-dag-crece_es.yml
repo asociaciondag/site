@@ -3,7 +3,7 @@ title: ¡La DAG crece!
 body:
   - list: after
     image: /img/news/images/foto-noticia-presentacion-javier-caamano.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,8 +43,8 @@ body:
       aportar mi grano de arena y, sobre todo, adquirir conocimientos de todos
       vosotros.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/javier-caamano/'
+  - list: ""
+    url: "https://dag.gal/gl/javier-caamano/"
     text: Perfil de Javier Caamaño en la DAG
     type: button
 intro: >-

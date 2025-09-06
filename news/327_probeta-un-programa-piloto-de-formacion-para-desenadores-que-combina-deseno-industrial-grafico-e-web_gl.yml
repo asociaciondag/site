@@ -30,9 +30,9 @@ body:
 
       <http://anavallasuiza.com/probeta/>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa0603a4-probeta.png
-    text: ''
+    text: ""
     type: image
 intro: >-
   Tres empresas de deseño:

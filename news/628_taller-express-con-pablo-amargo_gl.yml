@@ -1,9 +1,9 @@
 id: 628
-title: 'Taller express con Pablo Amargo '
+title: "Taller express con Pablo Amargo "
 body:
   - list: after
     image: /img/news/images/5690027f56640-pablo-amargo-flyer.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -21,8 +21,8 @@ body:
       O prezo é de 110 euros, mais **os socios da DAG poden beneficiarse dun 10%
       de desconto na inscrición**.
     type: text
-  - list: ''
-    url: 'http://laplantacion.info/'
+  - list: ""
+    url: "http://laplantacion.info/"
     text: laplantacion.info
     type: button
 intro: >-

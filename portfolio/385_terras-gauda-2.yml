@@ -2,10 +2,10 @@ id: 385
 title: Terras Gauda
 basename: terras-gauda-2
 body:
-  - text: ''
+  - text: ""
     type: text
   - image: /img/portfolio/images/20210805-4.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/20210805-4.jpg
 tags:

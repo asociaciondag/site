@@ -3,7 +3,7 @@ title: Chega unha nova edición do FEED
 body:
   - list: after
     image: /img/news/images/artboard.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -51,8 +51,8 @@ body:
 
       Información e inscricións na web do foro:
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/feed2019/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2019/"
     text: FEED 2019
     type: button
 intro: >-

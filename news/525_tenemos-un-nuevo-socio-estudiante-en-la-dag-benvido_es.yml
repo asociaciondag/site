@@ -27,9 +27,9 @@ body:
       Para terminar me gustaría incluir la frase de Samuel Johnson: "Muchas
       cosas difíciles de diseñar muestran ser fáciles de realizar"
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa79a3be-bruno-pardo.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   El estudiante de Diseño Gráfico de la EASD Ramón Falcón de Lugo Bruno Pardo es

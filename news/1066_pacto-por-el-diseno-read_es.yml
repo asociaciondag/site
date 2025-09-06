@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/jornada-parlamentaria-pnl-2018-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -47,8 +47,8 @@ body:
       sobre el «Pacto por el Diseño» y el formulario de adhesión están
       disponibles en la página web de la iniciativa.
     type: text
-  - list: ''
-    url: 'https://pactoporeldiseno.es/'
+  - list: ""
+    url: "https://pactoporeldiseno.es/"
     text: Pacto por el Diseño
     type: button
 intro: >-

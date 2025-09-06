@@ -3,7 +3,7 @@ title: Obradoiro de iniciación á caligrafía en Unitaria
 body:
   - list: after
     image: /img/news/images/56fe56ca3f713-unitaria-caligrafia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -36,8 +36,8 @@ body:
       datos e os do obradoiro en que queredes participar a
       queroaprender@escolaunitaria.com
     type: text
-  - list: ''
-    url: 'http://escolaunitaria.com/2016/02/04/caligrafia/'
+  - list: ""
+    url: "http://escolaunitaria.com/2016/02/04/caligrafia/"
     text: Infórmate en Unitaria
     type: button
 intro: >-

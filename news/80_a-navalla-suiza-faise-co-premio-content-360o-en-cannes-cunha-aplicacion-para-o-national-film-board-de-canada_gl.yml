@@ -32,9 +32,9 @@ body:
       ofrece máis de 350 filmes feitos en Galicia e que conta con máis de 1800
       usuarios.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9851f64-foto-navalla-suiza-peq.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   A Navalla Suíza proclamouse vencedora do certame ʻContent 360ʼ de contidos

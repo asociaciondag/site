@@ -1,9 +1,9 @@
 id: 866
-title: 'Propósito para este 2019: ser da DAG ✔️'
+title: "Propósito para este 2019: ser da DAG ✔️"
 body:
   - list: after
     image: /img/news/images/paula-cantero.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -38,8 +38,8 @@ body:
       involucrarme nas distintas iniciativas que se organicen. Moitas grazas por
       acollerme.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/paula-cantero-rey/'
+  - list: ""
+    url: "https://dag.gal/gl/paula-cantero-rey/"
     text: Perfil na web da DAG
     type: button
 intro: >-

@@ -3,7 +3,7 @@ title: Casos de éxito do deseño galego
 body:
   - list: after
     image: /img/news/images/cismadeira-deseno.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,7 +29,7 @@ body:
       Todos os detalles sobre o proceso de inscrición e selección están contidos
       no seguinte documento:
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://www.cismadeira.es/Galego/downloads/design4innovation_bases_deseno.pdf
     text: Convocatoria dos casos de éxito do deseño galego

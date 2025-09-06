@@ -3,9 +3,9 @@ title: >-
   READ publica una encuesta para evaluar los efectos del COVID-19 en el sector
   del diseño
 body:
-  - list: ''
+  - list: ""
     image: /img/news/images/encuesta2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -26,8 +26,8 @@ body:
       [valencià](https://read-covid19.typeform.com/to/wwrbS5)). Permanecerá
       activo para reunir datos hasta el último día de abril.
     type: text
-  - list: ''
-    url: 'https://read-covid19.typeform.com/to/bmHd3s'
+  - list: ""
+    url: "https://read-covid19.typeform.com/to/bmHd3s"
     text: Acceso a la encuesta
     type: button
 intro: >-

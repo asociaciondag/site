@@ -8,7 +8,7 @@ body:
       del evento y señalética.
     type: text
   - image: /img/portfolio/images/5564c886a3549-castelorock.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558598faecfe7-5564c886a3549-castelorock.jpg
 tags: []
@@ -19,6 +19,6 @@ info:
   - name: Cliente
     value: Castelo Rock / Concello de Muros
   - name: Año
-    value: '2010'
+    value: "2010"
 draft: false
 oldUrl: /es/portfolio/castelo-rock/

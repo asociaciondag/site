@@ -3,7 +3,7 @@ title: Una mesa de debate con los futuros diseñadores gallegos
 body:
   - list: after
     image: /img/news/images/imaxe-alumnos-conxunto.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -24,8 +24,8 @@ body:
       la socia de la DAG [Noelia
       Fernández](https://dag.gal/gl/noelia-fernandez-estevez/).
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: FEED'17
     type: button
 intro: >-

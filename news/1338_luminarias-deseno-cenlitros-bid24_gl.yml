@@ -42,8 +42,8 @@ body:
       premiada co Premio BID Cultura do Deseño «Frank Memelsdorff» pola
       ferramenta dixital [D-ToolBox.](https://www.adcv.com/proyecto/d-tool/)**
     type: text
-  - list: ''
-    url: 'https://bid-dimad.com'
+  - list: ""
+    url: "https://bid-dimad.com"
     text: Web da BID
     type: button
 intro: >-

@@ -26,16 +26,16 @@ body:
       pódese ver a peza final e o proceso.
     type: text
   - image: /img/portfolio/images/effects-described-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/img-1098.JPG
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/owl-finished.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/owlbox.JPG
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/owl-finished.jpg
 tags:
@@ -46,6 +46,6 @@ lang:
   - gl
   - es
 info:
-  - name: 'Cliente:'
+  - name: "Cliente:"
     value: Roctool
 draft: false

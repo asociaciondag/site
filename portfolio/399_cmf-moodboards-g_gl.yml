@@ -18,25 +18,25 @@ body:
       de realidade virtual e realidade aumentada.
     type: text
   - image: /img/portfolio/images/cmf-retro-lines.JPG
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/retro-cmf3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/retro-cmf4.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/flow-moodboard-v2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/202112-adult-cmf-strategy-moodboard7.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/202112-adult-cmf-strategy-moodboard6.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/retro-cmf.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/cmf-retro-lines.JPG
 tags:

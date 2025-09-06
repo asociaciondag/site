@@ -1,9 +1,9 @@
 id: 963
-title: 'Iago Barreiro, nuevo socio de la DAG'
+title: "Iago Barreiro, nuevo socio de la DAG"
 body:
   - list: after
     image: /img/news/images/iago-barreiro.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -24,8 +24,8 @@ body:
       Multiespazo](https://somosmodular.com/), desde donde trabajo y comparto
       espacio y cafés con otros profesionales. Estáis todos invitados ;)
     type: text
-  - list: ''
-    url: 'https://dag.gal/es/iago-barreiro/'
+  - list: ""
+    url: "https://dag.gal/es/iago-barreiro/"
     text: Perfil en la web de la DAG
     type: button
 intro: >-

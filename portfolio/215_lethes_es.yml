@@ -10,7 +10,7 @@ body:
       Suelen participar en la publicación reconocidos personajes de la comarca.
     type: text
   - image: /img/portfolio/images/lethes.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/lethes-thumbnail.jpg
 tags:

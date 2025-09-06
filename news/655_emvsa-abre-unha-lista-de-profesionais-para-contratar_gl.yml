@@ -25,8 +25,8 @@ body:
       práctica métodos de contratación de servizos de deseño máis transparentes
       e acordes coas demandas que desde a asociación levamos tempo formulando
     type: text
-  - list: ''
-    url: 'http://www.emvsa.es/images/files/1_Bases%20bolsas%20de%20traballo.pdf'
+  - list: ""
+    url: "http://www.emvsa.es/images/files/1_Bases%20bolsas%20de%20traballo.pdf"
     text: Bases da convocatoria
     type: button
   - text: >-

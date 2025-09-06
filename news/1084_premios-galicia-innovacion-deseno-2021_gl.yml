@@ -3,7 +3,7 @@ title: Premios Galicia de Innovación e Deseño 2021
 body:
   - list: before
     image: /img/news/images/premiosinnodese2021.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -27,11 +27,11 @@ body:
       interesadas en presentar a súa proposta teñen de prazo ata o día 13 de
       outubro de 2021.
     type: text
-  - list: ''
-    url: 'http://gain.xunta.gal/artigos/437/premios+galicia+innovacion+deseno+2021'
+  - list: ""
+    url: "http://gain.xunta.gal/artigos/437/premios+galicia+innovacion+deseno+2021"
     text: Web dos premios
     type: button
-  - list: ''
+  - list: ""
     url: >-
       https://www.xunta.gal/dog/Publicados/2021/20210713/AnuncioG0198-020721-0006_gl.html
     text: Bases dos premios

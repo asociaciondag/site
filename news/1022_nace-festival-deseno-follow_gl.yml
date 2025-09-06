@@ -1,9 +1,9 @@
 id: 1022
-title: 'Nace en Galicia o Festival de Deseño #follow'
+title: "Nace en Galicia o Festival de Deseño #follow"
 body:
   - list: after
     image: /img/news/images/follow20.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -37,9 +37,9 @@ body:
       novembro. Toda a información sobre as actividades do festival está
       dispoñible na súa web.
     type: text
-  - list: ''
-    url: 'https://follow.gal'
-    text: 'Web do #follow20'
+  - list: ""
+    url: "https://follow.gal"
+    text: "Web do #follow20"
     type: button
 intro: >-
   Hoxe comeza o #follow20, un festival que ten por obxectivo poñer en valor o

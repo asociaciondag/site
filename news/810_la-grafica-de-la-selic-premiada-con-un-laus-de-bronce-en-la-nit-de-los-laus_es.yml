@@ -3,7 +3,7 @@ title: La gráfica de la SELIC premiada con un Laus de bronce en la Nit de los L
 body:
   - list: after
     image: /img/news/images/01-l.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -19,22 +19,22 @@ body:
       Santiago de Compostela, y que ha resultado merecedor de un Laus de bronce
       en la categoría de elementos coordinados.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/02-l.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/03-l.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/06.JPG
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     url: >-
       http://www.adg-fad.org/es/laus/proyecto/selic-semana-do-libro-de-compostela
     text: SELIC na web dos Laus

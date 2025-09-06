@@ -14,16 +14,16 @@ body:
       que adaptándoa á tecnoloxía led.
     type: text
   - image: /img/portfolio/images/lh1a7769.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/lh1a7774.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/lh1a7785.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/lh1a7797.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/lh1a7774.jpg
 tags:
@@ -34,7 +34,7 @@ members_id:
 lang: gl
 info:
   - name: Ano
-    value: '2019'
+    value: "2019"
   - name: Lugar
     value: Vigo
 draft: false

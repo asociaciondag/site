@@ -3,7 +3,7 @@ title: Espirit
 basename: espirit
 body:
   - image: /img/portfolio/images/esprit.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/esprit.jpg
 tags:

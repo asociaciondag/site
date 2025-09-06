@@ -3,7 +3,7 @@ title: María Ramos estará en el 3º warm up del 10º Encuentro de Tipografia
 body:
   - list: after
     image: /img/news/images/encontro-talk-landscape.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,12 +31,12 @@ body:
       - Obradoiro Dibujar-cortar-colar: construir tipografia experimental en
       papel, coordinado por las tres oradoras del día anterior.
     type: text
-  - list: ''
-    url: 'https://esad.pt/pt/news/joana-correia-maria-ramos-viktoriya-grabowska'
+  - list: ""
+    url: "https://esad.pt/pt/news/joana-correia-maria-ramos-viktoriya-grabowska"
     text: 3º Warm up
     type: button
-  - list: ''
-    url: 'https://10et.esad.pt/pt'
+  - list: ""
+    url: "https://10et.esad.pt/pt"
     text: X Encuentro de Tipografía do Porto
     type: button
 intro: >-

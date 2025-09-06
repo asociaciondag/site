@@ -3,7 +3,7 @@ title: Oficina Municipal de Rehabilitación e Vivenda do Concello da Coruña
 basename: oficina-vivenda-coruna
 body:
   - image: /img/portfolio/images/concello-acoruna.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/concello-acoruna.jpg
 tags:

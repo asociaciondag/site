@@ -3,7 +3,7 @@ title: Anxo Noso Mar
 basename: anxo-noso-mar
 body:
   - image: /img/portfolio/images/anxo-noso-mar-2010-branding.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/anxo-noso-mar-2010-branding.jpg
 tags:
@@ -15,6 +15,6 @@ info:
   - name: Proyecto
     value: Anxo Noso Mar. Escola náutica
   - name: Año
-    value: '2010'
+    value: "2010"
 draft: false
 oldUrl: /es/portfolio/anxo-noso-mar/

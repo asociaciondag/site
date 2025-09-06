@@ -18,13 +18,13 @@ body:
       final listo para ser fabricado.
     type: text
   - image: /img/portfolio/images/box-tv-black-wave-texture-topview.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/box-tv-white-3-4-view.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/202105-roctool-tv-box4.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/box-tv-black-wave-texture-topview.jpg
 tags:

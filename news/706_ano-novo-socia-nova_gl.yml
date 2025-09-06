@@ -1,9 +1,9 @@
 id: 706
-title: 'Ano novo, socia nova :)'
+title: "Ano novo, socia nova :)"
 body:
   - list: after
     image: /img/news/images/587f9ee001b54-bea-lema.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -23,8 +23,8 @@ body:
       Creo firmemente na cooperación e é por isto que decidín pasar a formar
       parte da DAG. Como dicían na Bola de Cristal: só non podes, con amigos si.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/bea-lema/'
+  - list: ""
+    url: "https://dag.gal/gl/bea-lema/"
     text: Perfil na DAG
     type: button
 intro: >-

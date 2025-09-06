@@ -39,16 +39,16 @@ body:
       <http://www.cel.es/>
     type: text
   - image: /img/portfolio/images/5585a158a5c73-00.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585a158a65b1-01.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585a158a8057-02.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585a158a8ad7-03.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585a158a52f7-00.jpg
 tags:

@@ -7,7 +7,7 @@ body:
         <iframe src="https://player.vimeo.com/video/198180028" width="640"
         height="360" frameborder="0" title="ADG Laus 2017" webkitallowfullscreen
         mozallowfullscreen allowfullscreen></iframe>
-      ratio: ''
+      ratio: ""
     type: embed
   - text: >-
       Este ano contarán cun xurado de recoñecidos profesionais nacionais e

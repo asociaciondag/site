@@ -3,7 +3,7 @@ title: Aberta a convocatoria dos Premios ADG Laus 2024
 body:
   - list: before
     image: /img/news/images/premios-laus-2024.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -34,8 +34,8 @@ body:
       (Pensando en blanco), Gustav Nordebrink (ID—C), Paco Badia (VML) ou Ana
       Delgado (unadebravas).
     type: text
-  - list: ''
-    url: 'https://www.adg-fad.org/es/laus/premios'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premios"
     text: Inscricións e máis información
     type: button
 intro: >-

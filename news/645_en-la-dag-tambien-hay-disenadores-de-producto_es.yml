@@ -3,7 +3,7 @@ title: En la DAG también hay diseñadores de producto
 body:
   - list: after
     image: /img/news/images/56e15660adc88-perfil-xulio.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -22,8 +22,8 @@ body:
       personas, con inquietudes parecidas. También, para reencontrarme con
       "viejos" conocidos.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/xulio-turnes/'
+  - list: ""
+    url: "https://dag.gal/gl/xulio-turnes/"
     text: Perfil de socio DAG
     type: button
 intro: >-

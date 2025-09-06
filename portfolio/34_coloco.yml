@@ -13,19 +13,19 @@ body:
       Disseny i Enginyeria) de Barcelona.
     type: text
   - image: /img/portfolio/images/555cdb6fad5e4-3-coloco-imagen1-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdb6fadbb5-3-coloco-imagen2-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdb6fae139-3-coloco-imagen3-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdb6fae8d8-3-coloco-imagen4-01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/555cdb6faee25-3-coloco-imagen5-01.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585635faeacb-555cdb6fae8d8-3-coloco-imagen4-01.jpg
 tags:
@@ -43,5 +43,5 @@ info:
       Proyecto desarrollado en el Máster de diseño de Mobiliario, Elisava
       (Escola Superior de Disseny i Enginyeria) de Barcelona.
   - name: Ano
-    value: '2012'
+    value: "2012"
 draft: false

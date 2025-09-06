@@ -3,7 +3,7 @@ title: La formación será la protagonista en las VI Jornadas de la Cocina Gráf
 body:
   - list: after
     image: /img/news/images/vi-cocinha-grafica.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -140,8 +140,8 @@ body:
       Información en <aagg@afundacion.org>, en el teléfono 986 414 311 o en la
       página de la Cociña Gráfica:
     type: text
-  - list: ''
-    url: 'https://lacocinagrafica.afundacion.org/gl/'
+  - list: ""
+    url: "https://lacocinagrafica.afundacion.org/gl/"
     text: La Cociña Gráfica
     type: button
 intro: >-

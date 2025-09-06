@@ -30,16 +30,16 @@ body:
       [www.eufalo.tv](http://www.eufalo.tv)
     type: text
   - image: /img/portfolio/images/55859fb20d9a5-logo.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859fb20de4b-proceso-logo.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859fb20e229-eufalo-portada.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859fb20e90b-eufalo-interior.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859fb20d199-eufalo-portada.jpg
 tags:
@@ -56,5 +56,5 @@ info:
   - name: Cliente
     value: Autoencargo
   - name: Ano
-    value: '2010'
+    value: "2010"
 draft: true

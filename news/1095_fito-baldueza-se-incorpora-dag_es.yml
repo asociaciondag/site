@@ -1,9 +1,9 @@
 id: 1095
 title: Fito Baldueza se incorpora a la DAG y seguimos creciendo
 body:
-  - list: ''
+  - list: ""
     image: /img/news/images/imaxe-perfil.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,8 +33,8 @@ body:
 
       Ahora, sin más, saludos y a vuestra disposición.
     type: text
-  - list: ''
-    url: 'https://dag.gal/es/fito-baldueza/'
+  - list: ""
+    url: "https://dag.gal/es/fito-baldueza/"
     text: Perfil de Fito Baldueza
     type: button
 intro: >-

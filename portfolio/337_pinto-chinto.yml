@@ -3,7 +3,7 @@ title: Pinto & Chinto
 basename: pinto-chinto
 body:
   - image: /img/portfolio/images/pinto-chinto.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/pinto-chinto.jpg
 tags:

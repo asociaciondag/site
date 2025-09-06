@@ -3,7 +3,7 @@ title: Suma e segue... Representación DAG nos Anuaria
 body:
   - list: after
     image: /img/news/images/anuaria-ouro-dardo-2019.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -16,9 +16,9 @@ body:
       diversidade das fontes das que proceden as imaxes. A gráfica da portada
       expándese desde o D e marca a forma do libro.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/seleccion-anuaria-2019.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

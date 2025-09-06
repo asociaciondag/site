@@ -1,9 +1,9 @@
 id: 1082
-title: 'Conta atrás para o 9ENAD '
+title: "Conta atrás para o 9ENAD "
 body:
   - list: before
     image: /img/news/images/imaxe-enad.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -47,8 +47,8 @@ body:
       A imaxe gráfica foi creada polos nosos compañeiros Adrián Parcero de[
       Guillotina Estudio](http://guillotinaestudio.com) e Ángel Ramos.
     type: text
-  - list: ''
-    url: 'https://designread.es/9enad/'
+  - list: ""
+    url: "https://designread.es/9enad/"
     text: Web 9ENAD
     type: button
 intro: >-

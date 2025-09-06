@@ -3,7 +3,7 @@ title: Volven as Xornadas de Arte e Deseño da Pablo Picasso
 body:
   - list: after
     image: /img/news/images/entrada-100x500.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -70,8 +70,8 @@ body:
       **18:00h** [«Curar espazos»](https://youtu.be/aZY9k2XKF9M) con Mutante
       creativo
     type: text
-  - list: ''
-    url: 'https://www.eapicasso.com/iv-xornadas-arte-deseno/'
+  - list: ""
+    url: "https://www.eapicasso.com/iv-xornadas-arte-deseno/"
     text: Máis información
     type: button
 intro: >-

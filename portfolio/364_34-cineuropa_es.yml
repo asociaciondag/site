@@ -5,7 +5,7 @@ body:
   - text: Imagen gráfica del 34 Festival Cineuropa.
     type: text
   - image: /img/portfolio/images/publicacion.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/portada.jpg
 tags:

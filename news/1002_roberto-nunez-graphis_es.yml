@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/01-roberto-nunez-graphis.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -17,9 +17,9 @@ body:
       gráficos que están conectados con la antigua marca y con la tipología del
       escudo del municipio de Portas donde está localizada la bodega».
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/02-symbol-logo.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

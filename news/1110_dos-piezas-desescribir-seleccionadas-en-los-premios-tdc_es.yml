@@ -28,7 +28,7 @@ body:
       las grandes triunfadoras de los Premios Mestre Mateo 2021, ya fue premiado
       con un Laus de Bronce ​el año pasado.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/7.jpg
     text: Libro «Iremos al sol». Foto de Desescribir
     mode: normal
@@ -42,8 +42,8 @@ body:
       No es la primera vez que sus trabajos están nominados​ a premios de
       alcance internacional.
     type: text
-  - list: ''
-    url: 'https://tokyotypedirectorsclub.org'
+  - list: ""
+    url: "https://tokyotypedirectorsclub.org"
     text: Web Tokyo TDC
     type: button
 intro: >-

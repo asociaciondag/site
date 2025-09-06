@@ -7,10 +7,10 @@ body:
       50. Un recorrido que abarca desde la moda hasta el detalle del retrato.
     type: text
   - image: /img/portfolio/images/retoque-5.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/retoque-8.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/retoque-5.jpg
 tags: []

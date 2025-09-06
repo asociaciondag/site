@@ -7,28 +7,28 @@ body:
       Manuel Antonio. Traballo realizado coa colaboración de Xosé Luís Axeitos.
     type: text
   - image: /img/portfolio/images/55859cd997bdc-01ma.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859cd998045-02ma.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859cd9983fa-03ma.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859cd9987e1-04ma.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859cd998bdc-05ma.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859cd998fd0-06ma.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859cd99939c-07ma.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859cd999843-08ma.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859cd9976d1-01ma.jpg
 tags:
@@ -44,7 +44,7 @@ info:
   - name: Cliente
     value: Concello de Rianxo
   - name: Ano
-    value: '2011'
+    value: "2011"
   - name: Execución de montaxe
     value: Aritfacto Cultural
 draft: false

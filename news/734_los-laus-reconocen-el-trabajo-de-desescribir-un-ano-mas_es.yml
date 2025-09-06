@@ -3,7 +3,7 @@ title: Los Laus reconocen el trabajo de desescribir un año más
 body:
   - list: after
     image: /img/news/images/laus-bronce-desescribir-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -28,9 +28,9 @@ body:
       los dos bloques de contenidos (propuesta y proceso) se diferencian por el
       tipo de papel.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/laus-bronce-desescribir-2.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

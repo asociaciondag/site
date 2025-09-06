@@ -19,12 +19,12 @@ body:
       viernes en horario de 11.00 a 14.00 de la mañana y de 16.00 a 20.00 de la
       tarde. Dossier de la muestra:
     type: text
-  - list: ''
+  - list: ""
     image: >-
       /img/news/images/553e7a9e46c5c-a-biblioteca-francisco-mantecon-no-marco-de-vigo.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9e46c5c-dossier-biblioteca-mantecon.pdf
     text: Descargar
     type: file

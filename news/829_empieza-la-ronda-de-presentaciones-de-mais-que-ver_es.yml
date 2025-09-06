@@ -3,7 +3,7 @@ title: Empieza la ronda de presentaciones de Máis que ver
 body:
   - list: after
     image: /img/news/images/captura-de-pantalla-2018-10-10-a-las-18-09-06.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -70,7 +70,7 @@ body:
       asuntos de interese aparecen, canto máis me dedico máis vexo e máis me
       queda aínda por ver.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/imagen-5.png
     text: El diseñador Pepe Barro
     mode: normal

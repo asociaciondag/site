@@ -1,9 +1,9 @@
 id: 1268
-title: 'Bisiona, as Xornadas de Arte e Deseño organizadas pola EASD Pablo Picasso'
+title: "Bisiona, as Xornadas de Arte e Deseño organizadas pola EASD Pablo Picasso"
 body:
   - list: before
     image: /img/news/images/af-bisiona-viixad.jpg
-    text: 'Imaxe gráfica de Mariana Ramírez, alumna da EASD Pablo Picasso'
+    text: "Imaxe gráfica de Mariana Ramírez, alumna da EASD Pablo Picasso"
     mode: normal
     type: image
   - text: >-
@@ -65,8 +65,8 @@ body:
       da escola, sita en Rúa Pelamios 2 (A Coruña), mais terá preferencia de
       asistencia o alumnado da escola.
     type: text
-  - list: ''
-    url: 'https://eapicasso.com/bisiona-vii-xornadas-de-arte-e-deseno/'
+  - list: ""
+    url: "https://eapicasso.com/bisiona-vii-xornadas-de-arte-e-deseno/"
     text: Máis información
     type: button
 intro: >-

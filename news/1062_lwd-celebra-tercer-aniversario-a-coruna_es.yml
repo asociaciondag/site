@@ -1,9 +1,9 @@
 id: 1062
-title: 'Ladies, Wine & Design celebra su tercer aniversario en A Coruña'
+title: "Ladies, Wine & Design celebra su tercer aniversario en A Coruña"
 body:
   - list: after
     image: /img/news/images/lwdcoruna.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -23,9 +23,9 @@ body:
       Apoyamos la iniciativa y trasladamos nuestras felicitaciones al colectivo
       en esta celebración.
     type: text
-  - list: ''
-    url: 'https://www.culturaenvivo.com/es/activasecreativas/'
-    text: 'Entrada online '
+  - list: ""
+    url: "https://www.culturaenvivo.com/es/activasecreativas/"
+    text: "Entrada online "
     type: button
 intro: >-
   El próximo jueves, 10 de junio, la Fundación Luis Seoane acogerá un nuevo

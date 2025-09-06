@@ -21,9 +21,9 @@ body:
 
       Esperamos que os resulte interesante.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa608854-2014-mad-cartel-solo-info.png
-    text: ''
+    text: ""
     type: image
 intro: >-
   La asociación DAG, a través de READ y MAD Spain, ha llegado a un acuerdo para

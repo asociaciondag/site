@@ -3,7 +3,7 @@ title: Primera exposición de la obra del diseñador Víctor Moscoso en nuestro 
 body:
   - list: after
     image: /img/news/images/moscosocosmosimaxe.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -40,8 +40,8 @@ body:
       la primera muestra antológica dedicada a la obra de la ilustradora
       coruñesa, que estará abierta al público hasta septiembre.
     type: text
-  - list: ''
-    url: 'https://fundacionluisseoane.gal/gl/exposicions/moscoso-cosmos/'
+  - list: ""
+    url: "https://fundacionluisseoane.gal/gl/exposicions/moscoso-cosmos/"
     text: Más información
     type: button
 intro: >-

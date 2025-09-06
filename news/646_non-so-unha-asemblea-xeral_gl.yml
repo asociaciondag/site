@@ -1,9 +1,9 @@
 id: 646
-title: 'Non só unha asemblea xeral '
+title: "Non só unha asemblea xeral "
 body:
   - list: after
     image: /img/news/images/56d469350a0a9-cartel-asemblea-dag.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -27,10 +27,10 @@ body:
       Aínda que é sabido que os membros de [Desoños](http://www.desonhos.gal/)
       derrubaron tabiques para facernos sitio ;)
     type: text
-  - list: ''
+  - list: ""
     info:
       code: "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">Tomámonos en serio a asemblea xeral da <a href=\"https://twitter.com/asociaciondag\">@asociaciondag</a>, e tiramos un tabique para acollela o 5 de marzo! <a href=\"https://twitter.com/hashtag/deso%C3%B1ando?src=hash\">#desoñando</a> <a href=\"https://t.co/i6qg5bJGR5\">pic.twitter.com/i6qg5bJGR5</a></p>&mdash; Desoños (@_desonhos) <a href=\"https://twitter.com/_desonhos/status/704309211136659456\">February 29, 2016</a></blockquote>\r\n<script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-      ratio: ''
+      ratio: ""
     type: embed
   - text: >-
       O espazo é limitado, por tanto, se queres vir, avísanos antes no correo:

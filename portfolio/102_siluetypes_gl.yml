@@ -13,13 +13,13 @@ body:
       colección de serigrafías e un libro de edición limitada.
     type: text
   - image: null
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5564c790eb332-siluetypes1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5564c790eb9d5-siluetypes2.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55859adcd6e21-siluetypes1.jpg
 tags:
@@ -32,6 +32,6 @@ info:
   - name: Cliente
     value: Autopromoción
   - name: Ano
-    value: '2009'
+    value: "2009"
 draft: false
 oldUrl: /gl/portfolio/siluetypes/

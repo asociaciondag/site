@@ -3,25 +3,25 @@ title: Afinidades selectivas
 basename: afinidades-selectivas
 body:
   - image: /img/portfolio/images/catalogo-afinidades-selectivas-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/catalogo-afinidades-selectivas-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/catalogo-afinidades-selectivas-3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/catalogo-afinidades-selectivas-4.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/catalogo-afinidades-selectivas-5.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cartel-afinidades-selectivas-9.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cartel-afinidades-selectivas-9-reverso.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/catalogo-afinidades-selectivas-1.jpg
 tags:
@@ -30,9 +30,9 @@ members_id:
   - 23
 lang: gl
 info:
-  - name: 'Cliente:'
+  - name: "Cliente:"
     value: Universidade de Vigo
-  - name: 'Ano:'
-    value: '2016'
+  - name: "Ano:"
+    value: "2016"
 draft: false
 oldUrl: /gl/portfolio/afinidades-selectivas/

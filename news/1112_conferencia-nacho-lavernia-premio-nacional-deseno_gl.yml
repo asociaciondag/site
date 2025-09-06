@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/tarjeta-nl-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,7 +29,7 @@ body:
       pezas unhas peanas realizadas de maneira artesanal en Galicia con madeira
       local.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/expo-fswd-xeral.jpg
     text: >-
       Vista das peanas da exposición «FSWD. Identidade e territorio», feitas en
@@ -43,8 +43,8 @@ body:
       Ángel Martínez (ADCV), Gloria Escribano (DIMAD) e Juan Lázaro (Cuenca
       Diseño) e pode visitarse ata o 30 de xaneiro.
     type: text
-  - list: ''
-    url: 'https://forms.gle/B8Tx5r93ifcwDRhN7'
+  - list: ""
+    url: "https://forms.gle/B8Tx5r93ifcwDRhN7"
     text: Inscricións
     type: button
 intro: >-

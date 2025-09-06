@@ -1,9 +1,9 @@
 id: 1218
-title: '«Proxecto Lugares», a transformación​ do espazo público do Camiño de Santiago'
+title: "«Proxecto Lugares», a transformación​ do espazo público do Camiño de Santiago"
 body:
   - list: before
     image: /img/news/images/poxecto-lugares.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -48,8 +48,8 @@ body:
       de última hora.​​ Máis información, programa completo e inscricións ás
       diferentes actividades, na web do proxecto.
     type: text
-  - list: ''
-    url: 'https://sites.google.com/view/proxectolugares/'
+  - list: ""
+    url: "https://sites.google.com/view/proxectolugares/"
     text: Proxecto lugares
     type: button
 intro: >-

@@ -9,13 +9,13 @@ body:
       Neue.
     type: text
   - image: /img/portfolio/images/55a3d64ec5984-luisgalan-tapade1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55a3d64ec5c66-luisgalan-tapade02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55a3d64ec5e84-luisgalan-tapade03.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55a3d6af45826-cuberta.png
 tags:
@@ -29,6 +29,6 @@ info:
   - name: Cliente
     value: Porto Muiños
   - name: Año
-    value: '2010'
+    value: "2010"
 draft: false
 oldUrl: /es/portfolio/tapa-de-by-porto-muinos/

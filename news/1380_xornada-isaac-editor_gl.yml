@@ -1,9 +1,9 @@
 id: 1380
-title: 'Xornada «Isaac, editor»'
+title: "Xornada «Isaac, editor»"
 body:
   - list: before
     image: /img/news/images/ccg-diazpardo.jpg
-    text: 'Fotografía: Isaac Díaz Pardo, 1987, ©Xurxo Lobato'
+    text: "Fotografía: Isaac Díaz Pardo, 1987, ©Xurxo Lobato"
     mode: normal
     type: image
   - text: >-
@@ -27,8 +27,8 @@ body:
       Cultura Galega e conta co apoio da Deputación da Coruña. O acceso é aberto
       ao público até completar a capacidade da sala.
     type: text
-  - list: ''
-    url: 'https://consellodacultura.gal/evento.php?id=202114%20'
+  - list: ""
+    url: "https://consellodacultura.gal/evento.php?id=202114%20"
     text: Máis info
     type: button
 intro: >-

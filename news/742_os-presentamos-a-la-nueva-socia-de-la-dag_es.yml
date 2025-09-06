@@ -3,7 +3,7 @@ title: Os presentamos a la nueva socia de la DAG
 body:
   - list: after
     image: /img/news/images/presentacion-maria.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -23,8 +23,8 @@ body:
       que mi gratitud por el trabajo desarrollado los últimos años se convierta
       ahora en aportación en lo que está por venir.
     type: text
-  - list: ''
-    url: 'https://dag.gal/es/maria-ramos/'
+  - list: ""
+    url: "https://dag.gal/es/maria-ramos/"
     text: Perfil en la página de la DAG
     type: button
 intro: >-

@@ -12,9 +12,9 @@ body:
 
       De martes a sábado: 10.30 a 14.00 h / 16.00 a 19.30
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa5dae43-expodiazpardo.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   O Museo do Pobo Galego, en colaboración coa Rede Museística Provincial de

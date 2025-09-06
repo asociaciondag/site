@@ -3,7 +3,7 @@ title: SON Estrella Galicia
 basename: son-estrella-galicia
 body:
   - image: /img/portfolio/images/son-estrella-galicia.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/son-estrella-galicia.jpg
 tags:

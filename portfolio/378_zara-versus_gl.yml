@@ -1,11 +1,11 @@
 id: 378
-title: 'Zara: versus'
+title: "Zara: versus"
 basename: zara-versus
 body:
   - text: Deseño campaña do xogo «Versus».
     type: text
   - image: /img/portfolio/images/publicacionversus.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/portadaversus.jpg
 tags:

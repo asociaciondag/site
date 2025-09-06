@@ -24,13 +24,13 @@ body:
       premeditada "calidez artesanal".
     type: text
   - image: /img/portfolio/images/570f65e499654-bai003-lateral.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f4dc7b09fb-bai003-perspectiva.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/570f4dc7b0ccb-baixamar-composicion-1.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/570f4dc7b061d-bai003-lateral.jpg
 tags: []

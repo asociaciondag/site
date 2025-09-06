@@ -12,16 +12,16 @@ body:
       años dedicándome al diseño y en general a las artes gráficas. Espero que
       la travesía sea muy productiva.
     type: text
-  - list: ''
-    url: 'http://dag.gal/es/laura-alonso-carracedo'
+  - list: ""
+    url: "http://dag.gal/es/laura-alonso-carracedo"
     text: Perfil de socia
     type: button
   - list: after
     image: /img/news/images/5603cdebe4235-laura-alonso-presentacion.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
-intro: 'Queréis conocerla, ¿verdad? Pues aquí está su presentación.'
+intro: "Queréis conocerla, ¿verdad? Pues aquí está su presentación."
 basename: tenemos-una-nueva-companera-en-la-dag
 tags:
   - noticias socios/socias

@@ -3,7 +3,7 @@ title: «Movendo marcos» un espazo para o deseño na CRTVG
 body:
   - list: before
     image: /img/news/images/movendo-marcos-horizontal.jpg
-    text: 'Fotografía: CTRVG'
+    text: "Fotografía: CTRVG"
     mode: normal
     type: image
   - text: >-
@@ -30,8 +30,8 @@ body:
       benvida a un novo recurso para a divulgación sobre deseño feito en
       Galicia.
     type: text
-  - list: ''
-    url: 'https://www.agalega.gal/videos/category/22507-movendo-marcos'
+  - list: ""
+    url: "https://www.agalega.gal/videos/category/22507-movendo-marcos"
     text: Acceder ao videopodcast
     type: button
 intro: >-

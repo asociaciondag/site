@@ -1,9 +1,9 @@
 id: 756
-title: 'La tipografía será la protagonista del segundo workshop del FEED '
+title: "La tipografía será la protagonista del segundo workshop del FEED "
 body:
   - list: after
     image: /img/news/images/joana-web.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >2-
@@ -24,8 +24,8 @@ body:
 
       Inscríbete en:
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: FEED 2017
     type: button
 intro: >-

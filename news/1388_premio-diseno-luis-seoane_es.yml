@@ -51,7 +51,7 @@ body:
       en este caso en un sector clave para la cultura, la industria y la
       comunicación.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/gala-imaxe.png
     text: >-
       Imagen de la presentación de la IV Gala da Cultura de la Diputación de A
@@ -79,7 +79,7 @@ body:
 
       La gala está abierta al público hasta completar la capacidad del teatro.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.dacoruna.gal/cultura/premios/i-premio-luis-seoane-deseno-ano-2025/
     text: Bases del premio

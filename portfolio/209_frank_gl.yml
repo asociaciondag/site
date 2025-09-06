@@ -16,7 +16,7 @@ body:
       anterior e que lle dá un carácter máis neutro e actual.
     type: text
   - image: /img/portfolio/images/frank.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/frank-thumbnail.jpg
 tags:

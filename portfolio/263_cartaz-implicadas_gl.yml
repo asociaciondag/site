@@ -5,7 +5,7 @@ body:
   - text: Cartaz realizado para a ONG Implicadas no Desenvolvemento.
     type: text
   - image: /img/portfolio/images/implicadas.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/implicadas.jpg
 tags: []

@@ -1,9 +1,9 @@
 id: 1356
-title: 'Chega unha nova edición da Galicia Design Weekend '
+title: "Chega unha nova edición da Galicia Design Weekend "
 body:
   - list: before
     image: /img/news/images/gdw24.jpg
-    text: 'Detalle da gráfica da #GDW24'
+    text: "Detalle da gráfica da #GDW24"
     mode: normal
     type: image
   - text: >-
@@ -46,8 +46,8 @@ body:
       O festival está organizado por Galicia Design e Follow, co apoio da Xunta
       de Galicia e outras entidades.
     type: text
-  - list: ''
-    url: 'https://www.gdw.gal'
+  - list: ""
+    url: "https://www.gdw.gal"
     text: Consulta a programación
     type: button
 intro: >-

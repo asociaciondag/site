@@ -3,7 +3,7 @@ title: V Foro da Comunicación de Galicia
 body:
   - list: after
     image: /img/news/images/5-foro-comunicacion.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -16,7 +16,7 @@ body:
       listaxe cos tres finalistas en cada una das categorías e esa noite serán
       desvelados os gañadores.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://www.clustercomunicacion.gal/wp-content/uploads/Documento-Finalistas.pdf
     text: Finalistas II Premios Paraugas

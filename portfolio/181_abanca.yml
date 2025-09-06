@@ -89,7 +89,7 @@ info:
   - name: Estudio
     value: A navalla suíza
   - name: Cliente
-    value: 'ABANCA Corporación Bancaria, S.A.'
+    value: "ABANCA Corporación Bancaria, S.A."
   - name: Ano
-    value: '2014'
+    value: "2014"
 draft: true

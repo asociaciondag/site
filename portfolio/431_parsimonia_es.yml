@@ -11,16 +11,16 @@ body:
       para tamaños grandes.
     type: text
   - image: /img/portfolio/images/1.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/2.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/3.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/4.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/1.png
 tags:

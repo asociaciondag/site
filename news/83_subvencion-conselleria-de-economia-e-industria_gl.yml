@@ -15,7 +15,7 @@ body:
 
       [Consulta do DOG](http://www.xunta.es/consulta-do-dog)
     type: text
-  - list: ''
+  - list: ""
     file: /files/553e7a9861d24-innovacion-tecnologica-xacobeo.pdf
     text: Descargar
     type: file

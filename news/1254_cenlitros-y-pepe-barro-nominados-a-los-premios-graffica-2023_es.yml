@@ -1,5 +1,5 @@
 id: 1254
-title: 'Cenlitros y Pepe Barro, nominados a los Premios Gràffica 2023'
+title: "Cenlitros y Pepe Barro, nominados a los Premios Gràffica 2023"
 body:
   - list: before
     image: /img/news/images/premios-graffica-02-2023.jpg
@@ -37,7 +37,7 @@ body:
       Los diez proyectos premiados se darán a conocer próximamente. ¡Estaremos
       atentas!
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://graffica.info/premiosgraffica/descubre-los-nominados-a-los-premios-graffica-2023/
     text: Más información

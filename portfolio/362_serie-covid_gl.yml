@@ -26,22 +26,22 @@ body:
       Monty4](https://latienda.monty4.com/collections/begona-pastoriza).
     type: text
   - image: /img/portfolio/images/covid-confinamiento1-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/covid-confinamiento2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/covid-explosion.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/covid-luna-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/postcovid-matildamoisant-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/postcovid-salto.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/covid-explosion.jpg
 tags:

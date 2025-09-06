@@ -12,9 +12,9 @@ body:
 
       +info:[www.tenerifedesignfestival.com](http://www.tenerifedesignfestival.com)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9973acd-tdf.jpg
-    text: ''
+    text: ""
     type: image
 intro: Arranca el Tenerife Design Festival
 basename: tenerife-design-festival-una-semana-de-diseno-en-las-islas-afortunadas

@@ -13,19 +13,19 @@ body:
       [www.tipografies.com/fonts/nomada-didone/styles/](http://www.tipografies.com/fonts/nomada-didone/styles/)
     type: text
   - image: /img/portfolio/images/nomada.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/nomada2.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/nomada3.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/nomada4.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/nomada5.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/nomada.png
 tags:
@@ -37,6 +37,6 @@ info:
   - name: Estudio
     value: Tipografies
   - name: Año
-    value: '2018'
+    value: "2018"
 draft: true
 oldUrl: /es/portfolio/nomada-didone/

@@ -3,7 +3,7 @@ title: Cuenca acolle por segundo ano o 12 ENAD
 body:
   - list: before
     image: /img/news/images/12enad-image.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -48,12 +48,12 @@ body:
       que a DAG está levando a cabo na nosa comunidade para​ difundir e impulsar
       o deseño galego.
     type: text
-  - list: ''
-    url: 'https://12enad.designread.es/'
+  - list: ""
+    url: "https://12enad.designread.es/"
     text: Web 12 ENAD
     type: button
-  - list: ''
-    url: 'https://12enad.designread.es/inscripcion'
+  - list: ""
+    url: "https://12enad.designread.es/inscripcion"
     text: Inscricións 12 ENAD
     type: button
 intro: >-

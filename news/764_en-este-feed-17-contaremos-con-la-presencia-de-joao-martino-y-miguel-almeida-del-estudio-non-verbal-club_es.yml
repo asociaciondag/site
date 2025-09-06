@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/nonverbal-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -20,16 +20,16 @@ body:
       hablar del proceso de trabajo en su estudio? João Martino lo cuenta muy
       bien en este vídeo:
     type: text
-  - list: ''
+  - list: ""
     info:
       code: >-
         <iframe src="https://player.vimeo.com/video/182607696" width="640"
         height="360" frameborder="0" title="non-verbal Club"
         webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-      ratio: ''
+      ratio: ""
     type: embed
-  - list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: FEED'17
     type: button
 intro: >-

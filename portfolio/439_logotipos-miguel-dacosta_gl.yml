@@ -5,7 +5,7 @@ body:
   - text: Marcas gráficas creadas para distintos proxectos de identidade corporativa
     type: text
   - image: /img/portfolio/images/logotipos.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/logotipos.png
 tags:

@@ -49,40 +49,40 @@ body:
       catálogo foi seleccionada na plataforma Design and Design.
     type: text
   - image: /img/portfolio/images/5585975261819-4.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585975261d39-7.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859752620fa-8.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585975262398-9.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585975262678-19.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585975262c06-26.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558597526359c-37.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585975263b20-55.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585975263ee5-64.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558597526434f-102.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55859752647b8-111.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/5585975264d7b-122.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/5585975261127-19.jpg
 tags:
@@ -105,7 +105,7 @@ info:
   - name: Cliente
     value: Fundación Cidade da Cultura / Xunta de Galicia
   - name: Ano
-    value: '2012'
+    value: "2012"
   - name: Colaboradores
-    value: 'Fotografía: Ovidio Aldegunde'
+    value: "Fotografía: Ovidio Aldegunde"
 draft: false

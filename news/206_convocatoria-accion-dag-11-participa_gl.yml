@@ -106,15 +106,15 @@ body:
 
       Descarga a**convocatoria**e a**ficha de proxecto**.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9c1b77b-acciondagconvocatoria.gif
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a9c1b77b-ficha-de-proxecto.doc
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     file: /files/553e7a9c1b77b-convocatoria-acciondag11.pdf
     text: Descargar
     type: file

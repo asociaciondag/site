@@ -1,9 +1,9 @@
 id: 1272
-title: 'Séptima itinerancia de la exposición FSWD: Identidad y territorio'
+title: "Séptima itinerancia de la exposición FSWD: Identidad y territorio"
 body:
   - list: before
     image: /img/news/images/fswd-madrid.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,8 +33,8 @@ body:
       patrocinio de UDIT y se suma a la programación del [Madrid Design Festival
       2024](https://madriddesignfestival.lafabrica.com/).
     type: text
-  - list: ''
-    url: 'https://fswd.es/'
+  - list: ""
+    url: "https://fswd.es/"
     text: Web FSWD
     type: button
 intro: >-

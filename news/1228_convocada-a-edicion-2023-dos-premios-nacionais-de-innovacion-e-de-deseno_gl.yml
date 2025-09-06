@@ -3,7 +3,7 @@ title: Convocada a edición 2023 dos Premios Nacionais de Innovación e de Dese�
 body:
   - list: before
     image: /img/news/images/img-0477.jpeg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,8 +43,8 @@ body:
       Innovador», con 30.000 €; a de «Traxectoria en Deseño», con 50.000 €; e a
       de «Novos Profesionais do Deseño», con 30.000 €.
     type: text
-  - list: ''
-    url: 'https://www.ciencia.gob.es/Convocatorias/2023/PNID2023.html'
+  - list: ""
+    url: "https://www.ciencia.gob.es/Convocatorias/2023/PNID2023.html"
     text: Máis información
     type: button
 intro: >-

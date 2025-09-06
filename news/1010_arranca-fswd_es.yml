@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/libro-fswd.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -69,11 +69,11 @@ body:
       conseguir que nuestro diseño expanda sus fronteras y llegue a un mayor
       número de personas.
     type: text
-  - list: ''
-    url: 'https://fswd.es'
+  - list: ""
+    url: "https://fswd.es"
     text: Web FSWD
     type: button
-  - list: ''
+  - list: ""
     url: >-
       http://www.experimenta.es/tienda/producto/from-spain-with-design-refleja-la-imagen-de-espana-lo-que-disenamos/
     text: Libro FSWD ¿Refleja la imagen de España lo que diseñamos?

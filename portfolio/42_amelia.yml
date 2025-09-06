@@ -34,22 +34,22 @@ body:
       comercial máis xusto e sostible.
     type: text
   - image: /img/portfolio/images/55571a622659e-amelia01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571a622659e-amelia02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571a622659e-amelia03.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571a622659e-amelia04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571a622659e-amelia05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571a622659e-amelia06.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558565af8105d-55571a622659e-amelia01.jpg
 tags:
@@ -70,5 +70,5 @@ info:
   - name: Ano
     value: 2011-2012
   - name: Colaboradores
-    value: 'Óscar Penedo, carpinteiro; Confecciones NV, bolsas'
+    value: "Óscar Penedo, carpinteiro; Confecciones NV, bolsas"
 draft: true

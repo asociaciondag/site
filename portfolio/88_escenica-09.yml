@@ -5,19 +5,19 @@ body:
   - text: Ciclo Pontevedra Escénica 09
     type: text
   - image: /img/portfolio/images/558594c99362c-dsc-0082b.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558594c993cb7-dsc-0087.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558594c99424e-dsc-0093.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558594c994736-dsc-0095-b.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/558594c994ba4-dsc-0102.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/558594c993095-dsc-0087.jpg
 tags:
@@ -34,5 +34,5 @@ info:
   - name: Cliente
     value: Concello de Pontevedra
   - name: Ano
-    value: '2009'
+    value: "2009"
 draft: false

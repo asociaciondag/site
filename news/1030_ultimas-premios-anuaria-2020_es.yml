@@ -1,14 +1,14 @@
 id: 1030
 title: Últimas semanas para presentarse a los Premios Anuaria de diseño
 body:
-  - list: ''
+  - list: ""
     image: null
-    text: ''
+    text: ""
     mode: normal
     type: image
   - list: after
     image: /img/news/images/anuaria.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -27,8 +27,8 @@ body:
       personas asociadas a la DAG podrán beneficiarse de un descuento del 15% en
       las inscripciones de proyectos.
     type: text
-  - list: ''
-    url: 'https://www.veredictas.com/en/awards/anuaria-awards/bases-dates-126.html'
+  - list: ""
+    url: "https://www.veredictas.com/en/awards/anuaria-awards/bases-dates-126.html"
     text: Bases Premios Anuaria
     type: button
 intro: >-

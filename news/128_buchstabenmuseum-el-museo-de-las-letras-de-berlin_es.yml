@@ -1,5 +1,5 @@
 id: 128
-title: 'Buchstabenmuseum: El museo de las letras de Berlín'
+title: "Buchstabenmuseum: El museo de las letras de Berlín"
 body:
   - text: >-
       Fundado en 2005 por Barbara Dechant y Anja Schulze, su colección está
@@ -29,17 +29,17 @@ body:
        Steuernummer 27/648/51071
        [www.buchstabenmuseum.de](http://www.buchstabenmuseum.de/)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a996156b-letra1.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a996156b-letra2.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a996156b-letra3.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   En el centro de Berlín, cerca de la famosa plaza Alexanderplatz, se encuentra

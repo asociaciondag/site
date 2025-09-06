@@ -29,19 +29,19 @@ body:
       Descarga la solicitud y envíala junto con toda la documentación a
       info@asociaciondag.org:
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa0786ab-6707421069-9610552b42-b.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7aa0786ab-convocatoria-galicia.pdf
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     file: /files/553e7aa0786ab-solicitud-inscripcio-n-fse-20101020.doc
     text: Descargar
     type: file
-  - list: ''
+  - list: ""
     file: >-
       /files/553e7aa0786ab-folleto-eoi-fse-curso-de-creacion-de-empresas-gallego.pdf
     text: Descargar

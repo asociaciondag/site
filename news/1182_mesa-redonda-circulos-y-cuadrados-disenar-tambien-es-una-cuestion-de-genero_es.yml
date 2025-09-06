@@ -1,9 +1,9 @@
 id: 1182
-title: 'Mesa redonda «Círculos y cuadrados, diseñar también es una cuestión de género»'
+title: "Mesa redonda «Círculos y cuadrados, diseñar también es una cuestión de género»"
 body:
   - list: after
     image: /img/news/images/foto-charla-xenero-normal.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -55,13 +55,13 @@ body:
       gallego», con Pepe Barro, Xosé Díaz, Xosé Salgado, Lía Santana y Xosé
       María Torné.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://forms.office.com/pages/responsepage.aspx?id=PuqhzrJgdU-mwqYCLo-WG3VY8V1pn0JHiWNFt6_7-ZZUNFBLRVNYMEc1TUpBN0VXNzRQUkxJWUpWSC4u
     text: Formulario de inscripción
     type: button
-  - list: ''
-    url: 'https://www.instagram.com/logaliza/'
+  - list: ""
+    url: "https://www.instagram.com/logaliza/"
     text: Logaliza
     type: button
 intro: >-

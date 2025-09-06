@@ -3,7 +3,7 @@ title: Convocatoria de la Bienal Iberoamericana de Diseño
 body:
   - list: before
     image: /img/news/images/imaxe-bid20.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -42,11 +42,11 @@ body:
       internacional y conocer el diseño que se está desarrollando en otros
       países próximos a nuestra cultura.
     type: text
-  - list: ''
-    url: 'https://www.bid-dimad.org/'
+  - list: ""
+    url: "https://www.bid-dimad.org/"
     text: Web del evento
     type: button
-  - list: ''
+  - list: ""
     url: >-
       https://bid20.bid-dimad.org/wp-content/uploads/2020/05/Bases_generales_BID20_ES.pdf
     text: Bases de la convocatoria

@@ -3,7 +3,7 @@ title: Los premios Laus cumplen 50 años
 body:
   - list: after
     image: /img/news/images/callforentries-1920x1080.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -39,8 +39,8 @@ body:
       _Nit ADG Laus_, la cerimonia de entrega de premios que se celebrará en
       junio durante a _Barcelona Design Week_.
     type: text
-  - list: ''
-    url: 'https://www.adg-fad.org/es/laus/premios'
+  - list: ""
+    url: "https://www.adg-fad.org/es/laus/premios"
     text: Bases e inscripciones Premios Laus
     type: button
 intro: >-

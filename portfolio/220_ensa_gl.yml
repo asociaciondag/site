@@ -7,16 +7,16 @@ body:
       de Servizos Aeroespaciais
     type: text
   - image: /img/portfolio/images/binder-stationery-brand-mockup.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/gif.gif
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/id-card-holder-mockup-vol-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/enterprise-free-flight2.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/binder-stationery-brand-mockup.jpg
 tags:

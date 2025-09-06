@@ -3,7 +3,7 @@ title: Chegan as II Xornadas de Arte e Deseño da EASD Pablo Picasso
 body:
   - list: after
     image: /img/news/images/xornada-deseno-pablo-picasso.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -85,8 +85,8 @@ body:
       **11.00 h** Mesa redonda sobre ilustración. Participan Sonia G. Vidal,
       Xulia Pisón, Lidia Cao, María Montes, Clara López Torres
     type: text
-  - list: ''
-    url: 'http://www.eapicasso.com/iixornadas-arte-deseno/'
+  - list: ""
+    url: "http://www.eapicasso.com/iixornadas-arte-deseno/"
     text: Xornadas no sitio web da EASD Pablo Picasso
     type: button
 intro: >-

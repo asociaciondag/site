@@ -3,7 +3,7 @@ title: Aberta a convocatoria dos «Premios Nacionales de Innovación y de Diseñ
 body:
   - list: after
     image: /img/news/images/premiosnacionalesdiseno.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -34,13 +34,13 @@ body:
       Presentación que deberá facerse a través da sede electrónica do Ministerio
       de Ciencia e Innovación.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.ciencia.gob.es/portal/site/MICINN/menuitem.8ce192e94ba842bea3bc811001432ea0/?vgnextoid=f455f8e9ebd09710VgnVCM1000001d04140aRCRD&vgnextrefresh=1
     text: Máis información
     type: button
-  - list: ''
-    url: 'https://sede.micinn.gob.es/premiosinnovacion/'
+  - list: ""
+    url: "https://sede.micinn.gob.es/premiosinnovacion/"
     text: Presentación de candidatura
     type: button
 intro: >-

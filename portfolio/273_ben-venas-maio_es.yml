@@ -3,10 +3,10 @@ title: BEN VEÑAS MAIO
 basename: ben-venas-maio
 body:
   - image: /img/portfolio/images/ben-venas-maio-aplicacions.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/cartel-ben-venas-maio.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/ben-venas-maio-aplicacions.jpg
 tags:
@@ -15,9 +15,9 @@ members_id:
   - 23
 lang: es
 info:
-  - name: 'Cliente:'
+  - name: "Cliente:"
     value: Ayuntamiento de Pontevedra
-  - name: 'Año:'
-    value: '2019'
+  - name: "Año:"
+    value: "2019"
 draft: false
 oldUrl: /es/portfolio/ben-venas-maio/

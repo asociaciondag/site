@@ -30,9 +30,9 @@ body:
       datas especialmente propicias para botar a vista atrás, a DAG mira ao
       futuro.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a9dc4df6-5aniversario.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   Hoxe cúmprense cinco anos da constitución da Asociación Galega de Deseñadores

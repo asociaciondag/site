@@ -3,7 +3,7 @@ title: Aberto o prazo de inscricións para o 8º Encontro Nacional de Deseño
 body:
   - list: after
     image: /img/news/images/8enad.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -41,12 +41,12 @@ body:
       sector?, que aprendizaxe podemos extraer do seu crecemento? Estas e outras
       preguntas buscan resposta no 8º Encontro Nacional de Deseño.
     type: text
-  - list: ''
-    url: 'https://designread.es/8enad/inscribete/'
+  - list: ""
+    url: "https://designread.es/8enad/inscribete/"
     text: Inscricións
     type: button
-  - list: ''
-    url: 'https://designread.es/8enad/'
+  - list: ""
+    url: "https://designread.es/8enad/"
     text: Web do 8ENAD
     type: button
 intro: >-

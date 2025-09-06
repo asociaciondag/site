@@ -17,7 +17,7 @@ body:
       actual.
     type: text
   - image: /img/portfolio/images/frank.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/frank-thumbnail.jpg
 tags:

@@ -23,9 +23,9 @@ body:
 
       Toda la información en: <http://feed.asociaciondag.org/>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa4bbf2c-foto-feed-prensa.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   La jornada se inaugurará a las 09.15 h con un seminario impartido por [Héctor

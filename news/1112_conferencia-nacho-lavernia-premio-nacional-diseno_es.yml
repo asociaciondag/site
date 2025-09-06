@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/tarjeta-nl-1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,7 +29,7 @@ body:
       de las piezas unas peanas realizadas de manera artesanal en Galicia con
       madera local.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/expo-fswd-xeral.jpg
     text: >-
       Vista de las peanas de la exposición «FSWD. Identidad y territorio»,
@@ -43,8 +43,8 @@ body:
       Permui (DAG), Ángel Martínez (ADCV), Gloria Escribano (DIMAD) y Juan
       Lázaro (Cuenca Diseño) y puede visitarse hasta el 30 de enero.
     type: text
-  - list: ''
-    url: 'https://forms.gle/B8Tx5r93ifcwDRhN7'
+  - list: ""
+    url: "https://forms.gle/B8Tx5r93ifcwDRhN7"
     text: Inscripciones
     type: button
 intro: >-

@@ -3,7 +3,7 @@ title: Workshop Estrategias para la protección del diseño
 body:
   - list: after
     image: /img/news/images/10-programadesenhoinnovacion.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -35,7 +35,7 @@ body:
       [Formulario de
       inscripción](http://www.cisgalicia.org/contactos/campan/inscribir/4)
     type: text
-  - list: ''
+  - list: ""
     url: >-
       http://gain.xunta.gal/eventos/242/workshop+estratexias+proteccion+do+deseno
     text: Página del evento en la web de Gain

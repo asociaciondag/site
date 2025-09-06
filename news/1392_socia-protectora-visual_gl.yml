@@ -1,9 +1,9 @@
 id: 1392
-title: 'Presentamos a primeira socia protectora de DAG, Visual MS'
+title: "Presentamos a primeira socia protectora de DAG, Visual MS"
 body:
   - list: before
     image: /img/news/images/socia-protectora-visual-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -56,8 +56,8 @@ body:
       podedes solicitar máis información contactándonos a través de
       <info@dag.gal>
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/acerca-de/modalidades-de-socios-dag/'
+  - list: ""
+    url: "https://dag.gal/gl/acerca-de/modalidades-de-socios-dag/"
     text: Máis información
     type: button
 intro: >-

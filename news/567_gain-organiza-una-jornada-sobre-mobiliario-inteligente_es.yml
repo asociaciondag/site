@@ -32,7 +32,7 @@ body:
        [Parque Tecnológico de Galicia](http://www.tecnopole.es/)
        Jornada gratuita. Imprescindible inscripción. Plazas limitadas
     type: text
-  - list: ''
+  - list: ""
     file: /files/55a2a25d40c5d-mobiliario-intelixente.pdf
     text: Mobiliario intelixente
     type: file

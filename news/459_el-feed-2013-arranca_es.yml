@@ -61,9 +61,9 @@ body:
 
       Más información en: <http://feed.asociaciondag.org/>
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa495916-foto-feed-prensa.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   Mañana viernes, día 18 de octubre, darán comienzo las actividades del foro de

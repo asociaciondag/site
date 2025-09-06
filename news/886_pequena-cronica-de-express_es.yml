@@ -3,7 +3,7 @@ title: Pequeña crónica de EXPRESS
 body:
   - list: after
     image: /img/news/images/imaxe-noticia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -106,7 +106,7 @@ body:
       donde pudimos hablar más distendidamente, compartiendo opiniones e
       intereses sobre la impresión tradicional.
     type: text
-  - list: ''
+  - list: ""
     info:
       code: >-
         <a data-flickr-embed="true"
@@ -116,7 +116,7 @@ body:
         width="1024" height="683" alt="IMG_9607"></a><script async
         src="https://embedr.flickr.com/assets/client-code.js"
         charset="utf-8"></script>
-      ratio: ''
+      ratio: ""
     type: embed
 intro: >-
   El pasado 26 de abril se celebró en el espacio de intervención cultural de la

@@ -11,9 +11,9 @@ body:
       gráfica utilizada por el boletín mensual de la cultura gallega, medio de
       expresión entre 1920 y 1935 del grupo Nós.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a979c2d8-0032-1-copia.gif
-    text: ''
+    text: ""
     type: image
 intro: La Asociación DAG presenta el primer número de la revista 0032.
 basename: primer-numero-0032

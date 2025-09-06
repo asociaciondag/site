@@ -3,7 +3,7 @@ title: Unitaria organiza un obradoiro de tipografía en maio
 body:
   - list: after
     image: /img/news/images/572a2b50344cc-unitaria-grafica-tipografia.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,8 +31,8 @@ body:
 
       **Cota:** 115 € (10 € de desconto para socios da DAG)
     type: text
-  - list: ''
-    url: 'http://escolaunitaria.com/2016/04/01/tipografia/'
+  - list: ""
+    url: "http://escolaunitaria.com/2016/04/01/tipografia/"
     text: Inscrición en Unitaria
     type: button
 intro: >-

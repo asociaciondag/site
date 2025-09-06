@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/clap-oscar.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -63,9 +63,9 @@ body:
       reglas](https://medium.com/@misteroom/redise%C3%B1o-ha-parte-7-rompiendo-algunas-reglas-a344d546a5d3),
       con que Óscar Otero ha ido documentando el proceso completo.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/clap-proxecto.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
 intro: >-

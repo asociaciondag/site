@@ -10,11 +10,11 @@ body:
       mesmo proxecto: Pecha Kucha Night, presentacións de traballos creativos
       nun formato de 20 imaxes x 20 segundos.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a96d6d26-dialogos.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a96d6d26-cartaz.pdf
     text: Descargar
     type: file

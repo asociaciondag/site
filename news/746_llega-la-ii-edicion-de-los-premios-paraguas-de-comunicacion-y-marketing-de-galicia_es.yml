@@ -5,7 +5,7 @@ title: >-
 body:
   - list: after
     image: /img/news/images/premios-paraugas-2017.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -77,8 +77,8 @@ body:
 
       Información e inscripción en:
     type: text
-  - list: ''
-    url: 'http://premios.clustercomunicacion.gal/'
+  - list: ""
+    url: "http://premios.clustercomunicacion.gal/"
     text: Premios Paraguas
     type: button
 intro: >-

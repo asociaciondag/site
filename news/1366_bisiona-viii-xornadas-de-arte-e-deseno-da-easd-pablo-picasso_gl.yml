@@ -1,9 +1,9 @@
 id: 1366
-title: 'Bisiona, VIII Xornadas de Arte e Deseño da EASD Pablo Picasso'
+title: "Bisiona, VIII Xornadas de Arte e Deseño da EASD Pablo Picasso"
 body:
   - list: before
     image: /img/news/images/easdpablopicasso-bisiona1.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -42,8 +42,8 @@ body:
       abertas ao público ata completar aforo, porén o alumnado terá prioridade
       de acceso.
     type: text
-  - list: ''
-    url: 'https://eapicasso.com/bisiona-viii-xornadas-de-arte-e-deseno/'
+  - list: ""
+    url: "https://eapicasso.com/bisiona-viii-xornadas-de-arte-e-deseno/"
     text: Máis info
     type: button
 intro: >-

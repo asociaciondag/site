@@ -30,19 +30,19 @@ body:
       nunha zona de atención ao cliente.
     type: text
   - image: /img/portfolio/images/55571711785bb-silvereira01.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571711785bb-silvereira02.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571711785bb-silvereira04.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571711785bb-silvereira05.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/55571711785bb-silvereira06.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/55855ac9665c1-55571711785bb-silvereira04.jpg
 tags:
@@ -61,7 +61,7 @@ info:
   - name: Cliente
     value: Silvereira
   - name: Ano
-    value: '2011'
+    value: "2011"
   - name: Colaboradores
-    value: 'Óscar Penedo, carpinteiro'
+    value: "Óscar Penedo, carpinteiro"
 draft: true

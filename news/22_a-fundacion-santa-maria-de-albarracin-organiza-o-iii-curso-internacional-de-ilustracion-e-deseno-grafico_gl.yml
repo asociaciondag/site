@@ -24,11 +24,11 @@ body:
       INSCRICIÓN:
       [web](http://www.fundacionsantamariadealbarracin.com/pdf/ficha_electronica_curso_internacional_ilustracion_diseno_0609.pdf)
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7a95b835f-cartel-larisa.jpg
-    text: ''
+    text: ""
     type: image
-  - list: ''
+  - list: ""
     file: /files/553e7a95b835f-programa.pdf
     text: Descargar
     type: file

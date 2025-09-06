@@ -31,14 +31,14 @@ body:
       A exposición estará aberta ata o 22 de decembro e poderase visitar de
       martes a venres de 10 a 14 e de 16 a 19 h. Os sábados con cita previa.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.didac.gal/didac/gl/content/coci%C3%B1a-de-barro-os-cadernos-de-dese%C3%B1o
     text: Máis información en DIDAC
     type: button
-  - list: ''
+  - list: ""
     file: /files/a-lume-manso-barro.pdf
-    text: 'A lume manso, Pepe Barro'
+    text: "A lume manso, Pepe Barro"
     type: file
 intro: >-
   O próximo 28 de setembro ás 19 h​ ​inaugúrase na Fundación Didac a exposición

@@ -10,22 +10,22 @@ body:
       latón. Os módulos véndense por separado.
     type: text
   - image: /img/portfolio/images/centvint-fondo-blanco-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/centvint-fondo-blanco-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/centvint-fondo-blanco-3.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/centvint-pres-1.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/centvint-pres-2.jpg
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/centvint-pres-3.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/centvint-logo.jpg
 tags:
@@ -41,15 +41,15 @@ members_id:
   - 19
 lang: gl
 info:
-  - name: 'Cliente:'
+  - name: "Cliente:"
     value: LaCapell
-  - name: 'Año:'
-    value: '2019'
-  - name: 'Personas que interviñeron no desenvolvemento:'
-    value: 'Antón García, Deya Carreón'
-  - name: 'Venda online:'
+  - name: "Año:"
+    value: "2019"
+  - name: "Personas que interviñeron no desenvolvemento:"
+    value: "Antón García, Deya Carreón"
+  - name: "Venda online:"
     value: '<a href="https://www.rokdesign.es/shop">ROKdesign Shop</a>'
   - name: IG Produto
-    value: '@centvint_'
+    value: "@centvint_"
 draft: false
 oldUrl: /gl/portfolio/centvint/

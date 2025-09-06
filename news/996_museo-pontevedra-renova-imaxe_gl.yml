@@ -3,12 +3,12 @@ title: O Museo de Pontevedra presenta a súa nova imaxe
 body:
   - list: after
     image: /img/news/images/dsc1078.JPG
-    text: ''
+    text: ""
     mode: normal
     type: image
-  - list: ''
+  - list: ""
     image: /img/news/images/gif-presentacion.gif
-    text: ''
+    text: ""
     mode: right
     type: image
   - text: >-
@@ -24,9 +24,9 @@ body:
       recuperará agora a súa función orixinal, e será incluida nas publicacións
       promovidas polo propio museo.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/escultura-simbolo-1001.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-

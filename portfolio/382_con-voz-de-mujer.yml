@@ -2,10 +2,10 @@ id: 382
 title: Con voz de mujer
 basename: con-voz-de-mujer
 body:
-  - text: ''
+  - text: ""
     type: text
   - image: /img/portfolio/images/20210805-1.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/20210805-1.jpg
 tags:

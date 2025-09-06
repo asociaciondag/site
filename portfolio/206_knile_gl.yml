@@ -12,19 +12,19 @@ body:
       Web: [atipofoundry.com/fonts/knile](http://atipofoundry.com/fonts/knile)
     type: text
   - image: /img/portfolio/images/knile1.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/knile2.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/knile3.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/knile4.png
-    text: ''
+    text: ""
     type: image
   - image: /img/portfolio/images/knile5.png
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/knile1.png
 tags:
@@ -33,9 +33,9 @@ members_id:
   - 56
 lang: gl
 info:
-  - name: 'Estudio:'
+  - name: "Estudio:"
     value: atipo
-  - name: 'Ano:'
-    value: '2016'
+  - name: "Ano:"
+    value: "2016"
 draft: true
 oldUrl: /gl/portfolio/knile/

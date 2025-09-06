@@ -3,7 +3,7 @@ title: Una nueva edición del FEED
 body:
   - list: after
     image: /img/news/images/slider-feed-17-read.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,8 +43,8 @@ body:
 
       Os invitamos a todos y a todas a visitar la web y a participar en el FEED!
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: FEED 2017
     type: button
 intro: >-

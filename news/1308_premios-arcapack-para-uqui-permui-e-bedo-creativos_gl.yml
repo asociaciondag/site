@@ -3,7 +3,7 @@ title: Premios Arcapack para Uqui Permui e BeDo Creativos
 body:
   - list: before
     image: /img/news/images/premios-arckapack.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -28,9 +28,9 @@ body:
       solucións dos mellores envases e embalaxes deseñados ou fabricados, total
       ou parcialmente, en España e Portugal, durante os anos 2023 e 2024.
     type: text
-  - list: ''
-    url: 'https://www.veredictas.com/es/premios/premios-arca/ganadores.html'
-    text: 'Web dos premios '
+  - list: ""
+    url: "https://www.veredictas.com/es/premios/premios-arca/ganadores.html"
+    text: "Web dos premios "
     type: button
 intro: >-
   A sexta edición dos Premios Arcapack España acaban de comunicar os gañadores

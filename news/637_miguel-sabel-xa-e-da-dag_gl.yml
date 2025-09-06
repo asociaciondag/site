@@ -1,9 +1,9 @@
 id: 637
-title: 'Miguel Sabel xa é da DAG :)'
+title: "Miguel Sabel xa é da DAG :)"
 body:
   - list: after
     image: /img/news/images/56a223bf79025-miguel-sabel-present.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -46,8 +46,8 @@ body:
       volver cando me dea a gana. Comezando por min mesmo pero oxalá tamén para
       outros. Non teño nin idea de como facelo.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/miguel-sabel/'
+  - list: ""
+    url: "https://dag.gal/gl/miguel-sabel/"
     text: Ficha de socio DAG
     type: button
 intro: >-

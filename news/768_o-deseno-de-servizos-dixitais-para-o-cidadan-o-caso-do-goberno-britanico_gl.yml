@@ -3,7 +3,7 @@ title: O deseño de servizos dixitais para o cidadán. O caso do goberno britán
 body:
   - list: after
     image: /img/news/images/coca-web.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -36,8 +36,8 @@ body:
       Sopra Steria, onde é a head of service design e xestiona un equipo de
       deseñadores de experiencia do usuario.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/feed2017/'
+  - list: ""
+    url: "https://dag.gal/gl/feed2017/"
     text: FEED'17
     type: button
 intro: >-

@@ -3,7 +3,7 @@ title: Chilam Balam
 basename: chilam-balam
 body:
   - image: /img/portfolio/images/chilambalamvigo.jpg
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/chilambalamvigo.jpg
 tags:

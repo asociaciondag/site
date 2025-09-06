@@ -3,7 +3,7 @@ title: Pode haber mellor xeito de comezar a semana que recibindo un novo socio?
 body:
   - list: after
     image: /img/news/images/56c9f6572e690-seica-chove-enrique.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -17,11 +17,11 @@ body:
       traballo. Achegarei canto poida para que esta comunidade siga dando voz e
       recoñecendo o valor do Deseño.
     type: text
-  - list: ''
-    url: 'https://dag.gal/gl/enrique-raimundez-fdez/'
+  - list: ""
+    url: "https://dag.gal/gl/enrique-raimundez-fdez/"
     text: Perfil de socio DAG
     type: button
-intro: 'Benvindo, Enrique!'
+intro: "Benvindo, Enrique!"
 basename: pode-haber-mellor-xeito-de-comezar-a-semana-que-recibindo-un-novo-socio
 tags: []
 lang: gl

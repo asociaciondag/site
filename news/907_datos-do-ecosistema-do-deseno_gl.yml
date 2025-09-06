@@ -3,7 +3,7 @@ title: Datos do Ecosistema do Deseño
 body:
   - list: after
     image: /img/news/images/imaxe-ecosistema-datos.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,8 +29,8 @@ body:
 
       Podedes ver o resultado nesta ligazón:
     type: text
-  - list: ''
-    url: 'https://ecosistemadeldiseno.es/'
+  - list: ""
+    url: "https://ecosistemadeldiseno.es/"
     text: Ecosistema do Deseño
     type: button
 intro: >-

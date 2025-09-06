@@ -3,7 +3,7 @@ title: Preséntase o primeiro Estudo estatístico sobre o sector do Deseño en G
 body:
   - list: before
     image: /img/news/images/imaxe-noticia-estudo.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -29,9 +29,9 @@ body:
       ou menor medida coa profesión, a partir dos últimos datos completos
       consultados (ano 2018).
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/dato-salientable-estudo.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -73,7 +73,7 @@ body:
       ferramentas que permitan medir de forma máis obxectiva e clara o retorno
       deste activo, tanto a nivel tanxible como intanxible.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/grafica01-proteccion-deseno-empresas.png
     text: >-
       A protección do deseño está ligada coa importancia que se ​​lle da aos
@@ -95,7 +95,7 @@ body:
       clasificación laboral inicial da profesión debería estar nos grupos 1 ou 2
       de cotización que publica o BOE.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/grafica-02-xenero-conta-propia.png
     text: >-
       Dentro da mostra de profesionais por conta propia hai maior representación
@@ -124,8 +124,8 @@ body:
       A gráfica do informe e da web é obra dos socios de DAG,​ Iago Barreiro e
       Alberto Carballido, do estudio [Novagarda](https://novagarda.gal/).
     type: text
-  - list: ''
-    url: 'https://estudodeseno.dag.gal/'
+  - list: ""
+    url: "https://estudodeseno.dag.gal/"
     text: Web do estudo
     type: button
 intro: >-

@@ -3,7 +3,7 @@ title: A vindeira semana celébrase o Galicia Design Weekend
 body:
   - list: after
     image: /img/news/images/gdw21.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -40,11 +40,11 @@ body:
       documentais de deseño incluídos no programa —_Rams_ e _Objectified_— e
       participaremos na conversa sobre «O Valor do Deseño» na xornada do sábado.
     type: text
-  - list: ''
-    url: 'https://www.gdw.gal/'
+  - list: ""
+    url: "https://www.gdw.gal/"
     text: Web GDW
     type: button
-  - list: ''
+  - list: ""
     url: >-
       https://dice.fm/partner/follow/event/evxk2-galicia-design-weekend-30th-jul-fundacin-barrie-a-corua-tickets?dice_source=web&dice_medium=organic&dice_campaign=Follow&_branch_match_id=947074027675650013
     text: Entradas GDW

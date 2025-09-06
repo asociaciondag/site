@@ -3,7 +3,7 @@ title: Aberto o prazo de solicitude das axudas DeseñaPeme 2022
 body:
   - list: after
     image: /img/news/images/0-desenhapeme2022-01.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -61,8 +61,8 @@ body:
       comunicación​)​. ​O prazo de presentación de solicitudes é ata o 23 de
       maio.
     type: text
-  - list: ''
-    url: 'http://gain.xunta.gal/artigos/493/desenapeme'
+  - list: ""
+    url: "http://gain.xunta.gal/artigos/493/desenapeme"
     text: Toda a información
     type: button
 intro: >-

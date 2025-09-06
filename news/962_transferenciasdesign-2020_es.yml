@@ -1,9 +1,9 @@
 id: 962
 title: Nueva edición de Transferencias.design en Málaga
 body:
-  - list: ''
+  - list: ""
     image: /img/news/images/transferencias-desing2020.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,8 +43,8 @@ body:
       descuento del 30% en Renfe si se viaja en tren a Málaga para asistir al
       evento.
     type: text
-  - list: ''
-    url: 'https://transferencias.design'
+  - list: ""
+    url: "https://transferencias.design"
     text: Más información
     type: button
 intro: >-

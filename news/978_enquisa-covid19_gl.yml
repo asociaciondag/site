@@ -3,9 +3,9 @@ title: >-
   READ publica unha enquisa para avaliar os efectos do COVID-19 no sector do
   deseño
 body:
-  - list: ''
+  - list: ""
     image: /img/news/images/enquisa.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -26,8 +26,8 @@ body:
       [castelán](https://read-covid19.typeform.com/to/bmHd3s)). Permanecerá
       activo para reunir datos ata o último día de abril.
     type: text
-  - list: ''
-    url: 'https://read-covid19.typeform.com/to/w7pxi9'
+  - list: ""
+    url: "https://read-covid19.typeform.com/to/w7pxi9"
     text: Acceso á enquisa
     type: button
 intro: >-

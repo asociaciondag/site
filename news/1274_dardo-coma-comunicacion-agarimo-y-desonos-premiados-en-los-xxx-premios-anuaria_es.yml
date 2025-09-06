@@ -1,11 +1,11 @@
 id: 1274
 title: >-
   Dardo, Coma Comunicación, Agarimo y Desoños, premiados en los XXX Premios
-  Anuaria 
+  Anuaria
 body:
   - list: before
     image: /img/news/images/premios-anuaria.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -33,7 +33,7 @@ body:
       mejor diseño digital. Agarimo estudio, liderado por nuestra socia Mónica
       Lemos, se llevó una Selección Anuaria por el _naming_ para Zoireo. ​​
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html
     text: Web de los premios

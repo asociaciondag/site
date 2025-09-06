@@ -48,9 +48,9 @@ body:
 
       @Foro\_READ
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/553e7aa659a94-2encuentro-read-int1.jpg
-    text: ''
+    text: ""
     type: image
 intro: >-
   El [Segundo Encuentro Nacional de Asociaciones de Diseño

@@ -5,7 +5,7 @@ title: >-
 body:
   - list: before
     image: /img/news/images/imaxe-noticia-estudo.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -31,9 +31,9 @@ body:
       7410) y aquellas otras relacionadas en mayor o menor medida con la
       profesión, a partir de los últimos datos completos consultados (año 2018).
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/dato-salientable-estudo.png
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -75,7 +75,7 @@ body:
       herramientas que permitan medir de forma más objetiva y clara el retorno
       de este activo, tanto a nivel tangible como intangible.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/grafica01-proteccion-deseno-empresas.png
     text: >-
       La protección del diseño está ligada con la importancia que se ​​le da a
@@ -98,7 +98,7 @@ body:
       laboral inicial de la profesión debería estar en los grupos 1 o 2 de
       cotización que publica el BOE.
     type: text
-  - list: ''
+  - list: ""
     image: /img/news/images/grafica-02-xenero-conta-propia.png
     text: >-
       Dentro de la muestra de profesionales por cuenta propia hay mayor
@@ -130,8 +130,8 @@ body:
       Barreiro y Alberto Carballido, del estudio
       [Novagarda](https://novagarda.gal/).
     type: text
-  - list: ''
-    url: 'https://estudodeseno.dag.gal/'
+  - list: ""
+    url: "https://estudodeseno.dag.gal/"
     text: Web del estudio
     type: button
 intro: >-

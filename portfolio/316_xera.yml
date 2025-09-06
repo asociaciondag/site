@@ -3,7 +3,7 @@ title: Xera
 basename: xera
 body:
   - image: /img/portfolio/images/xera.gif
-    text: ''
+    text: ""
     type: image
 cover: /img/portfolio/covers/xera.gif
 tags:

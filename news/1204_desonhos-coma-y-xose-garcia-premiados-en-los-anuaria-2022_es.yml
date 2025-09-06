@@ -1,9 +1,9 @@
 id: 1204
-title: 'Desoños, Coma y Xose García premiados en los Anuaria 2022'
+title: "Desoños, Coma y Xose García premiados en los Anuaria 2022"
 body:
   - list: after
     image: /img/news/images/image-premios-anuaria-2022.jpg
-    text: ''
+    text: ""
     mode: normal
     type: image
   - text: >-
@@ -43,7 +43,7 @@ body:
       profesionales. Este año, y como viene siendo habitual la colaboración,
       María Agra participó como representante de DAG.
     type: text
-  - list: ''
+  - list: ""
     url: >-
       https://www.veredictas.com/es/premios/premios-anuaria/ganadores-anuaria.html
     text: Web de los Premios Anuaria
