@@ -797,6 +797,7 @@
     "https://cdn.jsdelivr.net/gh/lumeland/lume@0408ebc3652b9b72eb9f6bf5769642b48c24f587/deps/toml.ts": "32830bda333eaf4f1c3d79e4306ba449c17a85b25f94aae9b327d3790a2d1dea",
     "https://cdn.jsdelivr.net/gh/lumeland/lume@0408ebc3652b9b72eb9f6bf5769642b48c24f587/deps/vento.ts": "a6450605fbe5f0bbfb9e34e3f3c869431cfcfed9c34b789aaa6bd020494397c4",
     "https://cdn.jsdelivr.net/gh/lumeland/lume@0408ebc3652b9b72eb9f6bf5769642b48c24f587/deps/yaml.ts": "a639f4fc44ddcfc87f35e38980bbe9fc8101bf8ce34867522e76cc13cb156611",
+    "https://cdn.jsdelivr.net/gh/lumeland/lume@0408ebc3652b9b72eb9f6bf5769642b48c24f587/lint.ts": "4b369361e0cff20a8dfd9e3ff8cb642aa805e7532825ea3a5378eb1f80901fc6",
     "https://cdn.jsdelivr.net/gh/lumeland/lume@0408ebc3652b9b72eb9f6bf5769642b48c24f587/middlewares/logger.ts": "c96f1a9f9d5757555b6f141865ce8551ac176f90c8ee3e9ad797b2b400a9a567",
     "https://cdn.jsdelivr.net/gh/lumeland/lume@0408ebc3652b9b72eb9f6bf5769642b48c24f587/middlewares/no_cache.ts": "0119e3ae3a596ab12c42df693b93e5b03dd9608e289d862242751a9739438f35",
     "https://cdn.jsdelivr.net/gh/lumeland/lume@0408ebc3652b9b72eb9f6bf5769642b48c24f587/middlewares/no_cors.ts": "4d24619b5373c98bcc3baf404db47ba088c87ac8538ea1784e58d197b81d4d02",
