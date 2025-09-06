@@ -1,0 +1,27 @@
+id: 14
+contact: <marcos.dopico@gmail.com>
+links:
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/marcosdopico"
+    type: linkedin
+  - text: Twitter
+    url: "https://twitter.com/marcosdopico"
+    type: twitter
+  - text: maistypes
+    url: "http://www.maistypes.com/"
+    type: link
+name: Marcos Dopico Castro
+basename: marcos-dopico-castro
+avatar: /img/avatars/554cf9af99972-marcos-dopico-castro.jpeg
+tags:
+  - Tipografía
+  - Gráfico
+  - Editorial
+  - Identidade corporativa
+draft: true
+gl:
+  bio: null
+  job: "Deseñador gráfico, tipógrafo e profesor da Universidade de Vigo"
+es:
+  bio: null
+  job: "Diseñador gráfico, tipógrafo y profesor de la Universidad de Vigo"

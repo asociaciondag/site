@@ -1,0 +1,29 @@
+id: 75
+contact: |-
+  T. 605 943 648
+
+  <ac@novagarda.gal>
+links:
+  - text: Web
+    url: "http://novagarda.gal"
+    type: link
+  - text: Instagram
+    url: "https://www.instagram.com/novagarda/"
+    type: link
+  - text: Facebook
+    url: "https://www.facebook.com/novagarda/"
+    type: link
+name: Al Carballido
+basename: alberto-carballido
+avatar: /img/avatars/1718708581511.jpg
+tags:
+  - Gráfico
+  - Editorial
+  - Identidade corporativa
+draft: false
+gl:
+  bio: null
+  job: Deseñador gráfico en NOVAGARDA
+es:
+  bio: null
+  job: Diseñador gráfico en NOVAGARDA

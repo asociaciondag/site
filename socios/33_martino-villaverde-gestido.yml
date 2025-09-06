@@ -1,0 +1,26 @@
+id: 33
+contact: |-
+  <estudio@martinovillaverde.com>
+
+  Moaña, Pontevedra
+links:
+  - text: martinovillaverde.com
+    url: "http://martinovillaverde.com/"
+    type: link
+  - text: "@martinoestudio"
+    url: "https://twitter.com/martinoestudio"
+    type: twitter
+  - text: Portfolio
+    url: "https://www.behance.net/martinovillaverde"
+    type: link
+name: Martiño Villaverde Gestido
+basename: martino-villaverde-gestido
+avatar: /img/avatars/554d0c65e4752-martino-villaverde-gestido.jpeg
+tags: []
+draft: true
+gl:
+  bio: null
+  job: Deseñador gráfico
+es:
+  bio: null
+  job: Diseñador gráfico

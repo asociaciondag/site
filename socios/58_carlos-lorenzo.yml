@@ -1,0 +1,31 @@
+id: 58
+contact: |-
+  T. 620 942 777
+
+  <holabuenas@carloselrojo.com>
+links:
+  - text: Coma
+    url: "http://www.coma.gal/"
+    type: link
+  - text: elrojo
+    url: "https://www.carloselrojo.com/"
+    type: link
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/carloselrojo/"
+    type: linkedin
+name: Carlos el Rojo
+basename: carlos-lorenzo
+avatar: /img/avatars/foto-presentacion-carlos-el-rojo.jpg
+tags:
+  - Gráfico
+  - Web
+  - Identidade corporativa
+  - Audiovisual
+  - Editorial
+draft: false
+gl:
+  bio: null
+  job: Deseñador gráfico
+es:
+  bio: null
+  job: Diseñador gráfico

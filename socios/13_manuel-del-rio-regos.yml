@@ -1,0 +1,33 @@
+id: 13
+contact: |-
+  T. 981 576 771
+
+  <manueldelrio@gmail.com>
+links:
+  - text: cenlitrosmetrocadrado
+    url: "http://cenlitrosmetrocadrado.com/"
+    type: link
+  - text: Acerca de
+    url: "https://about.me/manueldelrioregos"
+    type: link
+  - text: Twitter
+    url: "https://twitter.com/manuel2R"
+    type: twitter
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/manueldelrioregos"
+    type: linkedin
+name: Manuel del Río Regos
+basename: manuel-del-rio-regos
+avatar: /img/avatars/554cf8c81eae6-manuel-del-rio-regos.jpg
+tags:
+  - Industrial
+  - Iluminación
+  - Gráfico
+  - Produto
+draft: false
+gl:
+  bio: null
+  job: Deseñador gráfico e industrial
+es:
+  bio: null
+  job: Diseñador gráfico e industrial

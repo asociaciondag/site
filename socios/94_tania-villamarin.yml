@@ -1,0 +1,34 @@
+id: 94
+contact: |-
+  T. 662 008 558
+
+  <taniavillaga@gmail.com>
+links:
+  - text: Web
+    url: "https://taniavillaga.es/"
+    type: link
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/tania-villamarin/"
+    type: linkedin
+  - text: Instagram
+    url: "https://www.instagram.com/villaga.estudio/?hl=es"
+    type: link
+name: Tania Villamarín
+basename: tania-villamarin
+avatar: /img/avatars/villaga-logo.jpg
+tags:
+  - Audiovisual
+  - Editorial
+  - Embalaxe
+  - Gráfico
+  - Identidade corporativa
+  - Infografía
+  - Sinalética
+  - Web
+draft: false
+gl:
+  bio: null
+  job: Deseñadora gráfica
+es:
+  bio: null
+  job: Diseñadora gráfica

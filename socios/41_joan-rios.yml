@@ -1,0 +1,20 @@
+id: 41
+contact: "Mail: hola@joanrios.com"
+links:
+  - text: Páxina web
+    url: "http://joanrios.com/"
+    type: link
+  - text: Behance
+    url: "https://www.behance.net/joanrios"
+    type: link
+name: Joan Ríos
+basename: joan-rios
+avatar: /img/avatars/561ce203b252e-joan-rios-dominguez.png
+tags: []
+draft: true
+gl:
+  bio: null
+  job: Deseñador gráfico
+es:
+  bio: null
+  job: Diseñador gráfico

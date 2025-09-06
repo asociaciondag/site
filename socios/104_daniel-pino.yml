@@ -1,0 +1,26 @@
+id: 104
+contact: |-
+  T. 636 930 007
+
+  daniel@daniel-pino.com
+links:
+  - text: Instagram
+    url: "https://www.instagram.com/ratasconfaca/"
+    type: facebook
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/dani-el-pino/"
+    type: linkedin
+name: Daniel Pino
+basename: daniel-pino
+avatar: /img/avatars/daniel-pino.jpg
+tags:
+  - Gráfico
+  - Estratexia
+  - Editorial
+draft: false
+gl:
+  bio: null
+  job: Deseñador gráfico
+es:
+  bio: null
+  job: Diseñador gráfico

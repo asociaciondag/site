@@ -1,0 +1,21 @@
+id: 24
+contact: <info@ografico.com>
+links:
+  - text: ografico
+    url: "http://www.ografico.com/"
+    type: link
+name: Javier Pérez López
+basename: javier-perez-lopez
+avatar: /img/avatars/554d04b333365-javier-perez-lopez.jpg
+tags:
+  - Editorial
+  - Exposicións
+  - Identidade corporativa
+  - Gráfico
+draft: true
+gl:
+  bio: null
+  job: Deseñador gráfico
+es:
+  bio: null
+  job: Diseñador gráfico

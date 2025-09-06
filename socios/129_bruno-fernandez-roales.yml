@@ -1,0 +1,23 @@
+id: 129
+contact: <bruno@wearebedo.com>
+links:
+  - text: Web
+    url: "https://wearebedo.com/"
+    type: link
+  - text: ""
+    url: ""
+    type: link
+name: Bruno Fernández Roales
+basename: bruno-fernandez-roales
+avatar: /img/avatars/bruno-fernandez.png
+tags:
+  - Gráfico
+  - Identidade corporativa
+  - Embalaxe
+draft: false
+gl:
+  bio: null
+  job: Deseñador en BeDo Creativos
+es:
+  bio: null
+  job: Diseñador en BeDo Creativos

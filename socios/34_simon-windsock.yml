@@ -1,0 +1,30 @@
+id: 34
+contact: |-
+  Xeneral Pardiñas 32, 2ºF
+   15701 Santiago de Compostela
+
+  T. 881 959 283
+
+  <info@windsock.es>
+links:
+  - text: Windsock
+    url: "https://windsock.es/"
+    type: link
+  - text: Twitter
+    url: "https://twitter.com/windsock"
+    type: twitter
+name: "Simón Windsock "
+basename: simon-windsock
+avatar: /img/avatars/554d0d3f9b5a8-simon-windsock.jpg
+tags:
+  - Gráfico
+  - Web
+  - UX/UI
+  - Identidade corporativa
+draft: false
+gl:
+  bio: null
+  job: Deseñador gráfico e web
+es:
+  bio: null
+  job: Diseñador gráfico y web

@@ -1,0 +1,24 @@
+id: 121
+contact: null
+links:
+  - text: Web
+    url: "https://labauh.gal/"
+    type: link
+name: José Ramón Montilla Cortizo
+basename: labauhatlabauh-gal
+avatar: /img/avatars/grey.jpg
+tags:
+  - Industrial
+  - Espazos
+  - Produto
+draft: false
+gl:
+  bio: >-
+    Especializado no desenvolvemento de proxectos de deseño de mobiliario e
+    espazos para eventos
+  job: Deseño de mobiliario e espazos
+es:
+  bio: >-
+    Especializado en el desarrollo de proyectos de diseño de mobiliario y
+    espacios para eventos
+  job: Diseño de mobiliario y espacios

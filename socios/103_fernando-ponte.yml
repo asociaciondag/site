@@ -1,0 +1,28 @@
+id: 103
+contact: |-
+  T. 628 812 874
+
+  hola@abisalstudio.com
+links:
+  - text: Web
+    url: "http://abisalstudio.com"
+    type: link
+  - text: Instagram
+    url: "https://www.instagram.com/abisal.studio/"
+    type: facebook
+  - text: Linkedin
+    url: "https://www.linkedin.com/in/fplens/?originalSubdomain=es"
+    type: linkedin
+name: Fernando Ponte
+basename: fernando-ponte
+avatar: /img/avatars/fernando-ponte.jpg
+tags:
+  - Produto
+  - 3D/CGI
+draft: false
+gl:
+  bio: null
+  job: Deseñador de produto en Abisal Studio
+es:
+  bio: null
+  job: Diseñador de producto en Abisal Studio

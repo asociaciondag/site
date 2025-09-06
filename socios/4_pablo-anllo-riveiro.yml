@@ -1,0 +1,19 @@
+id: 4
+contact: null
+links:
+  - text: Tony Le Brand
+    url: "http://www.lebrand.es/"
+    type: link
+name: Pablo Anllo Riveiro
+basename: pablo-anllo-riveiro
+avatar: /img/avatars/554cefcd9bad7-pablo-anllo-riveiro.jpg
+tags:
+  - Gráfico
+  - Audiovisual
+draft: true
+gl:
+  bio: null
+  job: Socio fundador e director de produción en Tony Le Brand
+es:
+  bio: null
+  job: Socio fundador y director de producción en Tony Le Brand
