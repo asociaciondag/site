@@ -1,6 +1,5 @@
 import lume from "lume/mod.ts";
 import lightningcss from "lume/plugins/lightningcss.ts";
-import esbuild from "lume/plugins/esbuild.ts";
 import inline from "lume/plugins/inline.ts";
 import multilanguage from "lume/plugins/multilanguage.ts";
 import relations from "lume/plugins/relations.ts";
@@ -18,9 +17,7 @@ site.add("fonts")
   .use(date({
     locales: { gl, es },
   }))
-  .use(esbuild())
-  .add("css")
-  .add("js")
+  .add("style.css")
   .use(lightningcss())
   .use(slugifyUrls())
   .use(inline())
@@ -29,6 +26,10 @@ site.add("fonts")
     languages: ["gl", "es"],
     defaultLanguage: "gl",
   }))
+  .scopedUpdates(
+    (file) => file.startsWith("/img"),
+    (file) => file.endsWith(".css"),
+  )
   .use(relations({
     foreignKeys: {
       member: {
