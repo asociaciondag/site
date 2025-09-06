@@ -2,19 +2,13 @@
 layout: layouts/base.vto
 ---
 
-<style>
-  .article-permalink .article-header {
-    background-image: url("{{ cover }}");
-  }
-</style>
-
-<article class="article article-permalink is-blur">
-  <header class="article-header wrapper-narrow">
+<article>
+  <header>
     <h1>{{ title }}</h1>
-    <p class="article-author">Por {{ author }}</p>
+    <p>Por {{ author }}</p>
   </header>
 
-  <div class="article-body">
+  <div>
     {{ for block of body }}
       {{ await comp[block.type](block) }}
     {{ /for }}

@@ -11,6 +11,7 @@ gl:
     menu:
       about: Acerca da DAG
       news: Novas
+      articles: Artigos
       projects: Proxectos
       members: Socios e socias
       forum: Foro
@@ -34,8 +35,6 @@ gl:
         Teléfono: [691 230 421](tel:691230421)
         Mail: [info@dag.gal](mailto:info@dag.gal)
       read_member: É membro da
-      forum: Foro DAG
-      rss: RSS
 es:
   t:
     dag: Asociación Galega de Deseño
@@ -46,6 +45,7 @@ es:
     menu:
       about: Acerca da DAG
       news: Novas
+      articles: Artículos
       projects: Proxectos
       members: Socios e socias
       forum: Foro
@@ -68,6 +68,4 @@ es:
 
         Teléfono: [691 230 421](tel:691230421)
         Mail: [info@dag.gal](mailto:info@dag.gal)
-      read_member: É membro da
-      forum: Foro DAG
-      rss: RSS
+      read_member: É membro da READ

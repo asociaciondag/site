@@ -1,6 +1,10 @@
 layout: layouts/portfolio_list.vto
-main_menu: members
-lang: [gl, es]
-url.gl: /gl/portfolio/
-url.es: /es/portfolio/
 id: portfolio
+main_menu: portfolio
+lang: [gl, es]
+gl:
+  title: Portfolio
+  url: /portfolio/
+es:
+  title: Portfolio
+  url: /portfolio/

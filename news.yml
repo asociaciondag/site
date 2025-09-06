@@ -1,5 +1,9 @@
+layout: layouts/news_list.vto
 id: news
 main_menu: news
-url.es: /es/noticias/
-url.gl: /gl/novas/
-layout: layouts/news_list.vto
+es:
+  title: Noticias
+  url: /noticias/
+gl:
+  title: Novas
+  url: /novas/

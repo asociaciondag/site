@@ -2,7 +2,7 @@
   <header>
     <nav>
       {{ for tag of news.tags }}
-        <a href="{{ tag }}">{{ tag }}</a>
+        <a href="/tags/{{ tag }}">{{ tag }}</a>
       {{ /for }}
     </nav>
 
@@ -14,8 +14,4 @@
       <a href="{{ news.url }}">{{ news.title }}</a>
     </h1>
   </header>
-
-  <div>
-    {{ news.intro |> md }}
-  </div>
 </article>

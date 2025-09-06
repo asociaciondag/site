@@ -1,15 +1,7 @@
-<article class="portfolio portfolio-list">
+<article>
   <a href="{{ portfolio.url }}">
-    <figure class="portfolio-thumbnail">
-      <img src="{{ portfolio.cover }}" width="420" height="200" alt="">
-    </figure>
-
-    <div>
-      <header class="portfolio-header">
-        <h1>
-          {{ portfolio.title }}
-        </h1>
-      </header>
+    <header>
+      <h1>{{ portfolio.title }}</h1>
 
       <ul class="portfolio-authors">
         {{ for member of portfolio.members }}
@@ -24,6 +16,10 @@
           </li>
         {{ /for }}
       </ul>
-    </div>
+    </header>
+
+    <figure>
+      <img src="{{ portfolio.cover }}" width="420" height="200" alt="">
+    </figure>
   </a>
 </article>

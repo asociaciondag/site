@@ -1,27 +1,26 @@
 ---
 layout: layouts/base.vto
 ---
-<article class="new new-permalink">
-  <header class="new-header wrapper-narrow">
+<article>
+  <header>
     <nav>
       {{ for tag of tags }}
         <a href="/tags/{{ tag }}">{{ tag }}</a>
       {{ /for }}
     </nav>
 
-    <time datetime='{{ date |> date("DATETIME") }}'>{{
-      date
-      |> date("HUMAN_DATE")
-    }}</time>
+    <time datetime='{{ date |> date("DATETIME") }}'>
+      {{ date |> date("HUMAN_DATE") }}
+    </time>
 
     <h1>{{ title }}</h1>
   </header>
 
-  <div class="new-intro wrapper-narrow">
+  <div>
     {{ intro |> md }}
   </div>
 
-  <div class="new-body">
+  <div>
     {{ for block of body }}
       {{ await comp[block.type](block) }}
     {{ /for }}

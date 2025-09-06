@@ -1,5 +1,9 @@
-id: articles
-main_menu: news
-url.es: /es/articulos/
-url.gl: /gl/artigos/
 layout: layouts/article_list.vto
+id: articles
+main_menu: articles
+es:
+  title: Artículos
+  url: /articulos/
+gl:
+  title: Artigos
+  url: /artigos/
