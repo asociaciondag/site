@@ -1,11 +1,13 @@
 id: 101
-title: "A órbita da banda hipnótica"
+title: A órbita da banda hipnótica
 basename: a-orbita-da-banda-hipnotica
 body:
-  - text: "Creación da imaxe do novo LP do grupo. Imaxe aplicada a carteis, _Digipac_ do grupo e _merchandishing._"
+  - text: >-
+      Creación da imaxe do novo LP do grupo. Imaxe aplicada a carteis, _Digipac_
+      do grupo e _merchandishing._
     type: text
   - image: /img/portfolio/images/5564c8ed0ee02-lamatumba.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/55859d912d35d-5564c8ed0ee02-lamatumba.jpg
 tags: []
@@ -14,7 +16,8 @@ members_id:
 lang: gl
 info:
   - name: Cliente
-    value: "La Matumbá"
+    value: La Matumbá
   - name: Ano
-    value: "2010"
+    value: '2010'
 draft: false
+oldUrl: /gl/portfolio/a-orbita-da-banda-hipnotica/

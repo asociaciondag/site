@@ -1,9 +1,9 @@
 id: 394
-title: "Modelo Planetario"
+title: Modelo Planetario
 basename: modelo-planetario
 body:
   - image: /img/portfolio/images/planetario.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/planetario.jpg
 tags:

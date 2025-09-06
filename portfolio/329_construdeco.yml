@@ -3,11 +3,11 @@ title: Construdeco
 basename: construdeco
 body:
   - image: /img/portfolio/images/construdeco.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/construdeco.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 29
   - 6

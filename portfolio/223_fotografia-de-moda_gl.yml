@@ -1,14 +1,16 @@
 id: 223
-title: "Fotografía de moda"
+title: Fotografía de moda
 basename: fotografia-de-moda
 body:
-  - text: "Fotografía de moda inspirada en retratistas da década dos anos 50. Un percorrido que abrangue desde a moda até o detalle do retrato."
+  - text: >-
+      Fotografía de moda inspirada en retratistas da década dos anos 50. Un
+      percorrido que abrangue desde a moda até o detalle do retrato.
     type: text
   - image: /img/portfolio/images/retoque-5.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/retoque-8.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/retoque-5.jpg
 tags: []
@@ -17,3 +19,4 @@ members_id:
 lang: gl
 info: []
 draft: false
+oldUrl: /gl/portfolio/fotografia-de-moda/

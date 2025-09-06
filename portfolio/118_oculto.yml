@@ -3,13 +3,13 @@ title: Oculto
 basename: oculto
 body:
   - image: /img/portfolio/images/56bb71a6438d2-oculto-2.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/56bb71b6b61c8-oculto-3.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/56bb71c578b32-oculto-4.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/56bb71a642526-oculto-1.jpg
 tags: []
@@ -20,5 +20,5 @@ lang:
   - es
 info:
   - name: Ano
-    value: "2015"
+    value: '2015'
 draft: false

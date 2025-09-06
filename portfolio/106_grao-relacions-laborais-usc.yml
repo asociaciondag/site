@@ -1,11 +1,13 @@
 id: 106
-title: "Grao Relacións Laborais – USC"
+title: Grao Relacións Laborais – USC
 basename: grao-relacions-laborais-usc
 body:
-  - text: "Cartaz para a difusión do Grao en Relacións Laborais e Recursos Humanos da E.U. Relacións Laborais de Lugo – USC."
+  - text: >-
+      Cartaz para a difusión do Grao en Relacións Laborais e Recursos Humanos da
+      E.U. Relacións Laborais de Lugo – USC.
     type: text
   - image: /img/portfolio/images/55a3d3b181307-cartel.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/55a3d80695477-cuberta.png
 tags:
@@ -20,7 +22,7 @@ info:
   - name: Estudio
     value: Sond3
   - name: Cliente
-    value: "E. U. Relacións Laborais Lugo -USC"
+    value: E. U. Relacións Laborais Lugo -USC
   - name: Ano
-    value: "2010"
+    value: '2010'
 draft: true

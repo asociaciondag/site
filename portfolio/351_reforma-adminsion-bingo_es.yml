@@ -1,23 +1,29 @@
 id: 351
-title: "Reforma Admisión Bingo"
-basename: reforma-adminsion-bingo-es
+title: Reforma Admisión Bingo
+basename: reforma-adminsion-bingo
 body:
-  - text: |-
-      Realizamos la reforma de la zona de admisión de un bingo en Vigo, local que inició su actividad en los años 80 y no había sufrido ninguna reforma. Esta admisión consta de una recepción de clientes, zona de máquinas recreativas, zona de estar y aseos.
+  - text: >-
+      Realizamos la reforma de la zona de admisión de un bingo en Vigo, local
+      que inició su actividad en los años 80 y no había sufrido ninguna reforma.
+      Esta admisión consta de una recepción de clientes, zona de máquinas
+      recreativas, zona de estar y aseos.
 
-      Desde su apertura contaba con una espectacular lámpara de lágrimas de cristal que forma parte de la historia del bingo; decidimos conservarla aunque adaptándola a la tecnología led.
+
+      Desde su apertura contaba con una espectacular lámpara de lágrimas de
+      cristal que forma parte de la historia del bingo; decidimos conservarla
+      aunque adaptándola a la tecnología led.
     type: text
   - image: /img/portfolio/images/lh1a7769.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lh1a7774.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lh1a7785.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lh1a7797.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/lh1a7774.jpg
 tags:
@@ -28,7 +34,8 @@ members_id:
 lang: es
 info:
   - name: Año
-    value: "2019"
+    value: '2019'
   - name: Lugar
     value: Vigo
 draft: false
+oldUrl: /es/portfolio/reforma-adminsion-bingo-es/

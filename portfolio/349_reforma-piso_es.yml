@@ -1,29 +1,36 @@
 id: 349
-title: "Reforma piso"
-basename: reforma-piso-es
+title: Reforma piso
+basename: reforma-piso
 body:
-  - text: "Reforma integral de un piso de 166 m² en el centro de Vigo. En este caso el cliente necesitaba actualizar instalaciones, acabados y sobre todo adaptar la cocina a las nuevas necesidades (estaba muy mal distribuida), conectándola con el salón pero con posibilidad de independizarla en momentos puntuales. Para ello generamos una puerta corredera de hierro y cristal con puerta abatible integrada, que puede “desaparecer” para una integración total salón-cocina."
+  - text: >-
+      Reforma integral de un piso de 166 m² en el centro de Vigo. En este caso
+      el cliente necesitaba actualizar instalaciones, acabados y sobre todo
+      adaptar la cocina a las nuevas necesidades (estaba muy mal distribuida),
+      conectándola con el salón pero con posibilidad de independizarla en
+      momentos puntuales. Para ello generamos una puerta corredera de hierro y
+      cristal con puerta abatible integrada, que puede “desaparecer” para una
+      integración total salón-cocina.
     type: text
   - image: /img/portfolio/images/lan4562.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lan4587.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lan4589.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lan4601.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lan4606.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lan4621.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lan4675.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/lan4601.jpg
 tags:
@@ -33,7 +40,8 @@ members_id:
 lang: es
 info:
   - name: Año
-    value: "2018"
+    value: '2018'
   - name: Lugar
     value: Vigo
 draft: false
+oldUrl: /es/portfolio/reforma-piso-es/

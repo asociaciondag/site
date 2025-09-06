@@ -3,11 +3,11 @@ title: VANENBIKKE
 basename: vanenbikke
 body:
   - image: /img/portfolio/images/vanenbikke.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/vanenbikke.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 29
 lang:

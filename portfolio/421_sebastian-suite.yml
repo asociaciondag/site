@@ -1,9 +1,9 @@
 id: 421
-title: "Sebastian Suite"
+title: Sebastian Suite
 basename: sebastian-suite
 body:
   - image: /img/portfolio/images/sebastian-suite-diseno-web.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/sebastian-suite-diseno-web.jpg
 tags:

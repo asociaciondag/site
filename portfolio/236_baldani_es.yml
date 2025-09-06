@@ -3,11 +3,11 @@ title: Baldani
 basename: baldani
 body:
   - image: /img/portfolio/images/baldani-2016-branding.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/baldani-2016-branding.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 67
 lang: es
@@ -15,5 +15,6 @@ info:
   - name: Proyecto
     value: Baldani
   - name: Año
-    value: "2016"
+    value: '2016'
 draft: false
+oldUrl: /es/portfolio/baldani/

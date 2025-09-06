@@ -1,11 +1,11 @@
 id: 443
-title: "Os dous de sempre"
+title: Os dous de sempre
 basename: os-dous-de-sempre-gal
 body:
-  - text: "Imaxe para o podcast Os dous de Sempre"
+  - text: Imaxe para o podcast Os dous de Sempre
     type: text
   - image: /img/portfolio/images/podcast-dousdesempre.png
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/podcast-dousdesempre.png
 tags:
@@ -15,3 +15,4 @@ members_id:
 lang: gl
 info: []
 draft: false
+oldUrl: /gl/portfolio/os-dous-de-sempre-gal/

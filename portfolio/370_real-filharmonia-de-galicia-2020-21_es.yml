@@ -1,11 +1,11 @@
 id: 370
-title: "Real Filharmonía de Galicia 2020–21"
-basename: real-filharmonia-de-galicia-2020-21-es
+title: Real Filharmonía de Galicia 2020–21
+basename: real-filharmonia-de-galicia-2020-21
 body:
-  - text: "Imagen gráfica de la temporada 2020–21 de la Real Filharmonía de Galicia."
+  - text: Imagen gráfica de la temporada 2020–21 de la Real Filharmonía de Galicia.
     type: text
   - image: /img/portfolio/images/publicacion-filharmonia.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/portada-filharmonia.jpg
 tags:
@@ -15,5 +15,6 @@ members_id:
 lang: es
 info:
   - name: Cliente
-    value: "Ayuntamiento de Santiago de Compostela"
+    value: Ayuntamiento de Santiago de Compostela
 draft: false
+oldUrl: /es/portfolio/real-filharmonia-de-galicia-2020-21-es/

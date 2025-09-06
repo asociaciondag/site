@@ -1,5 +1,5 @@
 id: 231
-title: "Proxecto 1"
+title: Proxecto 1
 basename: proxecto-1
 body: []
 cover: /img/portfolio/covers/traballo-1.jpg
@@ -9,3 +9,4 @@ members_id:
 lang: gl
 info: []
 draft: false
+oldUrl: /gl/portfolio/proxecto-1/

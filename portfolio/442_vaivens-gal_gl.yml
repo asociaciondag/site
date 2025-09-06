@@ -1,11 +1,13 @@
 id: 442
-title: "Vaivéns meteorolóxicos da vila da Guarda"
+title: Vaivéns meteorolóxicos da vila da Guarda
 basename: vaivens-gal
 body:
-  - text: 'Cartel para o filme "Vaivéns meteorolóxicos da vila da Guarda" realizado en colaboración con Proxecto Socheo'
+  - text: >-
+      Cartel para o filme "Vaivéns meteorolóxicos da vila da Guarda" realizado
+      en colaboración con Proxecto Socheo
     type: text
   - image: /img/portfolio/images/vaivens.png
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/vaivens.png
 tags:
@@ -15,3 +17,4 @@ members_id:
 lang: gl
 info: []
 draft: false
+oldUrl: /gl/portfolio/vaivens-gal/

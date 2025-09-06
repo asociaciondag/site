@@ -1,11 +1,13 @@
 id: 267
-title: "Cartel Tradigalu"
+title: Cartel Tradigalu
 basename: cartel-tradigalu
 body:
-  - text: "Diseño de imagen gráfica para el programa de música tradicional Tradigalu, lanzado por la Deputación de Lugo"
+  - text: >-
+      Diseño de imagen gráfica para el programa de música tradicional Tradigalu,
+      lanzado por la Deputación de Lugo
     type: text
   - image: /img/portfolio/images/tradigalu-cartaz.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/tradigalu-cartaz.jpg
 tags:
@@ -15,3 +17,4 @@ members_id:
 lang: es
 info: []
 draft: false
+oldUrl: /es/portfolio/cartel-tradigalu/

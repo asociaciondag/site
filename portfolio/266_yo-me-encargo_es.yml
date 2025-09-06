@@ -1,18 +1,19 @@
 id: 266
-title: "Yo me encargo"
+title: Yo me encargo
 basename: yo-me-encargo
 body:
-  - text: "Diseño de identidad corporativa y aplicación para Social Media"
+  - text: Diseño de identidad corporativa y aplicación para Social Media
     type: text
   - image: /img/portfolio/images/diseno-instagram.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/diseno-instagram.jpg
 tags:
   - UX/UI
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 40
 lang: es
 info: []
 draft: false
+oldUrl: /es/portfolio/yo-me-encargo/

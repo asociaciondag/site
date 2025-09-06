@@ -1,13 +1,13 @@
 id: 234
-title: "Federación Empresarios Barbanza. FEB"
+title: Federación Empresarios Barbanza. FEB
 basename: federacion-empresarios-barbanza-feb
 body:
   - image: /img/portfolio/images/feb-branding-2012.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/feb-branding-2012.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 67
 lang: es
@@ -15,5 +15,6 @@ info:
   - name: Proyecto
     value: FEB
   - name: Año
-    value: "2012"
+    value: '2012'
 draft: false
+oldUrl: /es/portfolio/federacion-empresarios-barbanza-feb/

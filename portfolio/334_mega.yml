@@ -1,13 +1,13 @@
 id: 334
-title: "MEGA Mundo Estrella Galicia"
+title: MEGA Mundo Estrella Galicia
 basename: mega
 body:
   - image: /img/portfolio/images/mega.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/mega.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
   - Gráfico
 members_id:
   - 29

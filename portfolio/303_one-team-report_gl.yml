@@ -1,15 +1,15 @@
 id: 303
-title: "One Team Report"
+title: One Team Report
 basename: one-team-report
 body:
-  - text: "[→ Visitar a web](https://oneteam.report)"
+  - text: '[→ Visitar a web](https://oneteam.report)'
     type: text
   - image: /img/portfolio/images/landing-page.png
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/marca.png
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
   - Web
   - UX/UI
 members_id:
@@ -17,5 +17,6 @@ members_id:
 lang: gl
 info:
   - name: Cliente
-    value: "proxecto propio"
+    value: proxecto propio
 draft: false
+oldUrl: /gl/portfolio/one-team-report/

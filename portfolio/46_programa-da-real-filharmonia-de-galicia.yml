@@ -1,32 +1,45 @@
 id: 46
-title: "Programa da Real Filharmonía de Galicia"
+title: Programa da Real Filharmonía de Galicia
 basename: programa-da-real-filharmonia-de-galicia
 body:
-  - text: |-
-      Para o programa deste ano, propuxemos un cambio de formato e de liña, e optamos por adaptalo a un tamaño accesible para levar no peto.
+  - text: >-
+      Para o programa deste ano, propuxemos un cambio de formato e de liña, e
+      optamos por adaptalo a un tamaño accesible para levar no peto.
 
-      O deseño dos anos anteriores baseábase nunha imaxe fotográfica que podía estar relacionada coa propia orquestra. Este ano desenvolveuse unha gráfica que responde ao calendario do curso musical, que se descobre no interior.
 
-      Por unha parte remite á sinalización que facemos nos calendarios dos días importantes. Eliminando o resto da información, quedan unicamente as marcas ou puntos do evento. Trinta puntos, trinta citas para esta temporada 2010-2011.
+      O deseño dos anos anteriores baseábase nunha imaxe fotográfica que podía
+      estar relacionada coa propia orquestra. Este ano desenvolveuse unha
+      gráfica que responde ao calendario do curso musical, que se descobre no
+      interior.
 
-      Por outra parte, eses puntos convértense dalgunha maneira en serpentinas, que remiten tamén a súa compoñente festiva.
 
-      O que mantivemos foi o cuño creado no 2005 na tipografía Din 1451, polo décimo aniversario da Real Filharmonía de Galicia.
+      Por unha parte remite á sinalización que facemos nos calendarios dos días
+      importantes. Eliminando o resto da información, quedan unicamente as
+      marcas ou puntos do evento. Trinta puntos, trinta citas para esta
+      temporada 2010-2011.
+
+
+      Por outra parte, eses puntos convértense dalgunha maneira en serpentinas,
+      que remiten tamén a súa compoñente festiva.
+
+
+      O que mantivemos foi o cuño creado no 2005 na tipografía Din 1451, polo
+      décimo aniversario da Real Filharmonía de Galicia.
     type: text
   - image: /img/portfolio/images/5585981ad6a92-rfg-2010-uqui-0.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5585981ad6f9f-rfg-2010-uqui-1.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5585981ad73df-rfg-2010-uqui-2.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5585981ad7837-rfg-2010-uqui-4.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5585981ad7ca7-rfg-2010-uqui.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/5585981ad6529-rfg-2010-uqui-1.jpg
 tags:
@@ -40,9 +53,9 @@ info:
   - name: Estudio
     value: Uqui.net
   - name: Proxecto
-    value: "Programa abono da Real Filharmonía de Galicia"
+    value: Programa abono da Real Filharmonía de Galicia
   - name: Cliente
-    value: "Real Filharmonía de Galicia"
+    value: Real Filharmonía de Galicia
   - name: Ano
     value: 2010-2011
 draft: false

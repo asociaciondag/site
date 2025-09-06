@@ -1,11 +1,11 @@
 id: 378
-title: "Zara: versus"
-basename: zara-versus-es
+title: 'Zara: versus'
+basename: zara-versus
 body:
-  - text: "Diseño campaña del juego «Versus»."
+  - text: Diseño campaña del juego «Versus».
     type: text
   - image: /img/portfolio/images/publicacionversus.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/portadaversus.jpg
 tags:
@@ -17,3 +17,4 @@ info:
   - name: Cliente
     value: Inditex
 draft: false
+oldUrl: /es/portfolio/zara-versus-es/

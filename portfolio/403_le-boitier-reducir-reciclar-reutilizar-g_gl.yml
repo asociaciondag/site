@@ -1,16 +1,25 @@
 id: 403
-title: "Le Boitier (Reducir, Reciclar, Reutilizar)"
+title: 'Le Boitier (Reducir, Reciclar, Reutilizar)'
 basename: le-boitier-reducir-reciclar-reutilizar-g
 body:
-  - text: |-
-      O mellor residuo é o que aínda non se produciu. Por tanto, PVL beauté deume a tarefa de deseñar un empaquetado cosmético totalmente personalizable, que fose apto para todo tipo de tons ou produtos de maquillaxe e que fose resistente e duradeiro. Cunha estrutura de zamak como base, deseñei unha funda decorativa e un sistema de contedor de maquillaxe que permitise aos usuarios personalizar o seu packaging. Por tanto, posuiríano e crearían un vínculo emocional con el. Todo está deseñado para que os usuarios que teñen máis dun contedor poidan almacenar todos os contedores facilmente e ser transportados cando viaxan. Para este proxecto traballei na selección de cor e materiais, a ideación do concepto, o seu deseño ou usos e o desenvolvemento do produto.
-
+  - text: >-
+      O mellor residuo é o que aínda non se produciu. Por tanto, PVL beauté
+      deume a tarefa de deseñar un empaquetado cosmético totalmente
+      personalizable, que fose apto para todo tipo de tons ou produtos de
+      maquillaxe e que fose resistente e duradeiro. Cunha estrutura de zamak
+      como base, deseñei unha funda decorativa e un sistema de contedor de
+      maquillaxe que permitise aos usuarios personalizar o seu packaging. Por
+      tanto, posuiríano e crearían un vínculo emocional con el. Todo está
+      deseñado para que os usuarios que teñen máis dun contedor poidan almacenar
+      todos os contedores facilmente e ser transportados cando viaxan. Para este
+      proxecto traballei na selección de cor e materiais, a ideación do
+      concepto, o seu deseño ou usos e o desenvolvemento do produto.
     type: text
   - image: /img/portfolio/images/boitierrr-cover-alternance-fond-transparent.png
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/exploded-view.png
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/boitierrr-cover-alternance-fond-transparent.png
 tags:
@@ -20,5 +29,6 @@ members_id:
 lang: gl
 info:
   - name: Cliente
-    value: "PVL beauté"
+    value: PVL beauté
 draft: false
+oldUrl: /gl/portfolio/le-boitier-reducir-reciclar-reutilizar-g/

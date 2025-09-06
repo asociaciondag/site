@@ -3,11 +3,11 @@ title: Espirit
 basename: espirit
 body:
   - image: /img/portfolio/images/esprit.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/esprit.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 29
   - 6

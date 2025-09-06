@@ -1,26 +1,31 @@
 id: 347
-title: "Reforma Admisión 2 Bingo"
-basename: reforma-bingo2-es
+title: Reforma Admisión 2 Bingo
+basename: reforma-bingo2
 body:
-  - text: "Realizamos la reforma de la zona de admisión 2 de un bingo en Vigo, local que inició su actividad en los años 80 y no había sufrido ninguna reforma. En esta reforma se decidió ampliar los m² quitándoselos a la sala de bingo, generando así una zona de máquinas recreativas, zona de apuestas deportivas, recepción de clientes y aseos."
+  - text: >-
+      Realizamos la reforma de la zona de admisión 2 de un bingo en Vigo, local
+      que inició su actividad en los años 80 y no había sufrido ninguna reforma.
+      En esta reforma se decidió ampliar los m² quitándoselos a la sala de
+      bingo, generando así una zona de máquinas recreativas, zona de apuestas
+      deportivas, recepción de clientes y aseos.
     type: text
   - image: /img/portfolio/images/img-8559.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/bdm1688.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/bdm1712.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/img-8541.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/img-8548.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/img-8553.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/bdm1688.jpg
 tags:
@@ -31,7 +36,8 @@ members_id:
 lang: es
 info:
   - name: Año
-    value: "2016"
+    value: '2016'
   - name: Lugar
     value: Vigo
 draft: false
+oldUrl: /es/portfolio/reforma-bingo2-es/

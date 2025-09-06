@@ -1,20 +1,21 @@
 id: 368
-title: "Festival Noroeste"
+title: Festival Noroeste
 basename: festival-noroeste
 body:
-  - text: "Imaxe gráfica das edicións 29–33."
+  - text: Imaxe gráfica das edicións 29–33.
     type: text
   - image: /img/portfolio/images/publicacionnoroeste.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/portadanoroeste.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
   - Gráfico
 members_id:
   - 81
 lang: gl
 info:
   - name: Cliente
-    value: "Concello da Coruña"
+    value: Concello da Coruña
 draft: false
+oldUrl: /gl/portfolio/festival-noroeste/

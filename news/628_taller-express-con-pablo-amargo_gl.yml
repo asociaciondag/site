@@ -1,25 +1,36 @@
 id: 628
-title: "Taller express con Pablo Amargo "
+title: 'Taller express con Pablo Amargo '
 body:
   - list: after
     image: /img/news/images/5690027f56640-pablo-amargo-flyer.jpg
-    text: ""
+    text: ''
     mode: normal
     type: image
-  - text: |-
-      Trátase de [Desmontando ruídos](http://laplantacion.info/pablo-amargo/), unha proposta didáctica para ir á procura de imaxes cuxo sentido estea determinado pola súa función, imaxes libres de interferencias e de ruídos que as desvirtúen.
+  - text: >-
+      Trátase de [Desmontando ruídos](http://laplantacion.info/pablo-amargo/),
+      unha proposta didáctica para ir á procura de imaxes cuxo sentido estea
+      determinado pola súa función, imaxes libres de interferencias e de ruídos
+      que as desvirtúen.
 
-      O obradoiro está dirixido principalmente a ilustradores, deseñadores gráficos, estudantes de Deseño, Ilustración, Belas Artes, e a calquera persoa interesada na ilustración e na comunicación gráfica.
 
-      O prezo é de 110 euros, mais **os socios da DAG poden beneficiarse dun 10% de desconto na inscrición**.
+      O obradoiro está dirixido principalmente a ilustradores, deseñadores
+      gráficos, estudantes de Deseño, Ilustración, Belas Artes, e a calquera
+      persoa interesada na ilustración e na comunicación gráfica.
+
+
+      O prezo é de 110 euros, mais **os socios da DAG poden beneficiarse dun 10%
+      de desconto na inscrición**.
     type: text
-  - list: ""
-    url: "http://laplantacion.info/"
+  - list: ''
+    url: 'http://laplantacion.info/'
     text: laplantacion.info
     type: button
-intro: "La Plantación organiza o próximo 29 e 30 de xaneiro un taller express con [Pablo Amargo](http://www.pabloamargo.com/)"
+intro: >-
+  La Plantación organiza o próximo 29 e 30 de xaneiro un taller express con
+  [Pablo Amargo](http://www.pabloamargo.com/)
 basename: taller-express-con-pablo-amargo
 tags: []
 lang: gl
 draft: false
-date: 2016-01-08T19:39:59+00:00
+date: 2016-01-08T19:39:59.000Z
+oldUrl: /gl/taller-express-con-pablo-amargo/

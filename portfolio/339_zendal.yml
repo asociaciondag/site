@@ -3,7 +3,7 @@ title: Zendal
 basename: zendal
 body:
   - image: /img/portfolio/images/zendal-awards.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/zendal-awards.jpg
 tags:

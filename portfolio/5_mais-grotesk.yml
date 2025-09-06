@@ -1,43 +1,55 @@
 id: 5
-title: "Mais Grotesk"
+title: Mais Grotesk
 basename: mais-grotesk
 body:
-  - text: |-
-      No mundo do deseño, os valores asociados á idea de neutralidade sempre foron esgrimidos en favor dunha funcionalidade, de un tipo de deseño como ferramenta de uso universal. Dentro dese debate, a tipografía é unha das disciplinas que máis claramente intentou materializar esta idea, asociado ós tipos lineais neogrotescos. Ao mesmo tempo, existe un consenso nesta categoría ó identificar a pureza esencial da forma tipográfica que seguramente axudou a estender o mito da neutralidade. O punto álxido desta percepción acadase no período tras a II Guerra Mundial, coa axuda da Swiss International Style e as fontes lineais neogrotescas resultantes das demandas específicas dese movemento, Helvetica, Univers, Folio, Mercator …
+  - text: >-
+      No mundo do deseño, os valores asociados á idea de neutralidade sempre
+      foron esgrimidos en favor dunha funcionalidade, de un tipo de deseño como
+      ferramenta de uso universal. Dentro dese debate, a tipografía é unha das
+      disciplinas que máis claramente intentou materializar esta idea, asociado
+      ós tipos lineais neogrotescos. Ao mesmo tempo, existe un consenso nesta
+      categoría ó identificar a pureza esencial da forma tipográfica que
+      seguramente axudou a estender o mito da neutralidade. O punto álxido desta
+      percepción acadase no período tras a II Guerra Mundial, coa axuda da Swiss
+      International Style e as fontes lineais neogrotescas resultantes das
+      demandas específicas dese movemento, Helvetica, Univers, Folio, Mercator …
 
-      Mais Grotesk é unha tipografía lineal neogrotesca baseada na tradición suiza do proxecto moderno e o estilo internacional.
+
+      Mais Grotesk é unha tipografía lineal neogrotesca baseada na tradición
+      suiza do proxecto moderno e o estilo internacional.
     type: text
   - image: /img/portfolio/images/5554e47b1f892-typespecimen_maisgrotesk-01.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5554e47b1f892-typespecimen_maisgrotesk-02.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5554e47b1f892-typespecimen_maisgrotesk-03.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5554e47b1f892-typespecimen_maisgrotesk-05.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5554e47b1f892-typespecimen_maisgrotesk-14.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5554e47b1f892-typespecimen_maisgrotesk-16.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5554e47b1f892-typespecimen_maisgrotesk-20.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5554e47b1f892-typespecimen_maisgrotesk-22.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5554e47b1f892-typespecimen_maisgrotesk-23.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/5554e47b1f892-typespecimen_maisgrotesk-24.jpg
-    text: ""
+    text: ''
     type: image
-cover: /img/portfolio/covers/55855310db625-5554e47b1f892-typespecimen-maisgrotesk-01.jpg
+cover: >-
+  /img/portfolio/covers/55855310db625-5554e47b1f892-typespecimen-maisgrotesk-01.jpg
 tags:
   - Tipografía
 members_id:
@@ -47,7 +59,7 @@ lang:
   - es
 info:
   - name: Estudio
-    value: "Mais Types"
+    value: Mais Types
   - name: Ano
     value: 2011-2013
 draft: false

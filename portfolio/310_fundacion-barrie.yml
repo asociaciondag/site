@@ -1,9 +1,9 @@
 id: 310
-title: "Fundación Barrié"
+title: Fundación Barrié
 basename: fundacion-barrie
 body:
   - image: /img/portfolio/images/fundacion-barrie.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/fundacion-barrie.jpg
 tags:

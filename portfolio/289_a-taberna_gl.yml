@@ -1,30 +1,31 @@
 id: 289
-title: "A taberna"
+title: A taberna
 basename: a-taberna
 body:
   - image: /img/portfolio/images/a-taberna-lugo.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/cartas-exterior.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/cartas-interior.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/cartas.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/mandilon-restaurante.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/cartas.jpg
 tags:
   - Gráfico
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 69
 lang: gl
 info:
   - name: Cliente
-    value: "A taberna"
+    value: A taberna
 draft: false
+oldUrl: /gl/portfolio/a-taberna/

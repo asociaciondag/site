@@ -3,7 +3,7 @@ title: Orballo
 basename: orballo-espazo
 body:
   - image: /img/portfolio/images/orballo.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/orballo.jpg
 tags:

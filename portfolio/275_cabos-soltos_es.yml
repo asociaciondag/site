@@ -1,12 +1,12 @@
 id: 275
-title: "Cabos soltos"
+title: Cabos soltos
 basename: cabos-soltos
 body:
   - image: /img/portfolio/images/logotipo-cabos-soltos-negativo.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/logotipo-cabos-soltos-circular.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/logotipo-cabos-soltos-negativo.jpg
 tags:
@@ -15,8 +15,9 @@ members_id:
   - 23
 lang: es
 info:
-  - name: "Cliente:"
-    value: "Ayuntamiento de Pontevedra"
-  - name: "Año:"
-    value: "2019"
+  - name: 'Cliente:'
+    value: Ayuntamiento de Pontevedra
+  - name: 'Año:'
+    value: '2019'
 draft: false
+oldUrl: /es/portfolio/cabos-soltos/

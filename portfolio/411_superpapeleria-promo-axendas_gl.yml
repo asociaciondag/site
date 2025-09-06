@@ -1,9 +1,9 @@
 id: 411
-title: "Superpapeleria Promo axendas"
+title: Superpapeleria Promo axendas
 basename: superpapeleria-promo-axendas
 body:
   - image: /img/portfolio/images/superpapeleria-promo-agendas.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/superpapeleria-promo-agendas.jpg
 tags:
@@ -13,3 +13,4 @@ members_id:
 lang: gl
 info: []
 draft: false
+oldUrl: /gl/portfolio/superpapeleria-promo-axendas/

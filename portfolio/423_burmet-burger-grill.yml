@@ -1,16 +1,16 @@
 id: 423
-title: "Burmet Burger & Grill"
+title: Burmet Burger & Grill
 basename: burmet-burger-grill
 body:
   - image: /img/portfolio/images/burmet-burger-grill.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/burmet-bolsa.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/burmet-burger-grill.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
   - Embalaxe
 members_id:
   - 93

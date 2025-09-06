@@ -1,13 +1,13 @@
 id: 408
-title: "Campaña Megajump parque camas elásticas"
+title: Campaña Megajump parque camas elásticas
 basename: campana-megajump-parque-camas-elasticas
 body:
   - image: /img/portfolio/images/campana-megajump-parque-camas-elasticas.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/campana-megajump-parque-camas-elasticas.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 93
 lang:

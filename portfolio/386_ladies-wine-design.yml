@@ -1,11 +1,11 @@
 id: 386
-title: "Ladies, Wine & Design"
+title: 'Ladies, Wine & Design'
 basename: ladies-wine-design
 body:
-  - text: ""
+  - text: ''
     type: text
   - image: /img/portfolio/images/20210805-5.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/20210805-5.jpg
 tags:

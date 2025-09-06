@@ -3,11 +3,11 @@ title: Xera
 basename: xera
 body:
   - image: /img/portfolio/images/xera.gif
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/xera.gif
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 6
 lang:

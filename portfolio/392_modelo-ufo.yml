@@ -1,15 +1,15 @@
 id: 392
-title: "Modelo UFO"
+title: Modelo UFO
 basename: modelo-ufo
 body:
   - image: /img/portfolio/images/000-ufodsk.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/00-ufo-dsk.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/0-ufo-dsk.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/000-ufodsk.jpg
 tags:

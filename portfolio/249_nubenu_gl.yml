@@ -3,17 +3,18 @@ title: NUBENU
 basename: nubenu
 body:
   - image: /img/portfolio/images/nubenu.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/nubenu.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 67
 lang: gl
 info:
   - name: Proxecto
-    value: "Nubenu. Tenda online"
+    value: Nubenu. Tenda online
   - name: Ano
-    value: "2018"
+    value: '2018'
 draft: false
+oldUrl: /gl/portfolio/nubenu/

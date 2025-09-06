@@ -1,11 +1,11 @@
 id: 263
-title: "Cartaz Implicadas"
+title: Cartaz Implicadas
 basename: cartaz-implicadas
 body:
-  - text: "Cartaz realizado para a ONG Implicadas no Desenvolvemento."
+  - text: Cartaz realizado para a ONG Implicadas no Desenvolvemento.
     type: text
   - image: /img/portfolio/images/implicadas.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/implicadas.jpg
 tags: []
@@ -14,3 +14,4 @@ members_id:
 lang: gl
 info: []
 draft: false
+oldUrl: /gl/portfolio/cartaz-implicadas/

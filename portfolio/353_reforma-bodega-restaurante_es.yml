@@ -1,22 +1,30 @@
 id: 353
-title: "Reforma de bodega en restaurante"
-basename: reforma-bodega-restaurante-es
+title: Reforma de bodega en restaurante
+basename: reforma-bodega-restaurante
 body:
-  - text: |-
-      En este caso reformamos la bodega y zona de degustación de vinos en la planta semisótano de un restaurante. La reforma incluyó la instalación de un ascensor y unos nuevos aseos para dar servicio al restaurante.
+  - text: >-
+      En este caso reformamos la bodega y zona de degustación de vinos en la
+      planta semisótano de un restaurante. La reforma incluyó la instalación de
+      un ascensor y unos nuevos aseos para dar servicio al restaurante.
 
-      Se instaló una zona refrigerada de exposición de vinos y en el centro se ubicaron las mesas de degustación. El objetivo era conseguir un ambiente de bodega subterránea, oscura, agradable, de ahí la importancia de la luz, muy tenue en general y con intensidad sobre las mesas y sobre la exposición.
+
+      Se instaló una zona refrigerada de exposición de vinos y en el centro se
+      ubicaron las mesas de degustación. El objetivo era conseguir un ambiente
+      de bodega subterránea, oscura, agradable, de ahí la importancia de la luz,
+      muy tenue en general y con intensidad sobre las mesas y sobre la
+      exposición.
+
 
       Diseñamos las mesas, botellero, carros de apoyo, etc.
     type: text
   - image: /img/portfolio/images/a2b8559.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/a2b8585.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/a2b8587.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/a2b8559.jpg
 tags:
@@ -28,7 +36,8 @@ members_id:
 lang: es
 info:
   - name: Año
-    value: "2007"
+    value: '2007'
   - name: Lugar
-    value: "Santa Comba"
+    value: Santa Comba
 draft: false
+oldUrl: /es/portfolio/reforma-bodega-restaurante-es/

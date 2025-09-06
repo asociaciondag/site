@@ -1,12 +1,12 @@
 id: 391
-title: "Modelo 176"
+title: Modelo 176
 basename: modelo-176
 body:
   - image: /img/portfolio/images/0-176.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/00-176.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/0-176.jpg
 tags:

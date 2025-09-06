@@ -1,14 +1,17 @@
 id: 77
-title: "Homenaxe a Luís Seoane"
+title: Homenaxe a Luís Seoane
 basename: homenaxe-a-luis-seoane
 body:
-  - text: "A imaxe constrúese cunha serie de fotografías dos nomes de diferentes galegos ilustres, nas súas tumbas no cemiterio de San Amaro da Coruña, lugar onde se realiza a homenaxe."
+  - text: >-
+      A imaxe constrúese cunha serie de fotografías dos nomes de diferentes
+      galegos ilustres, nas súas tumbas no cemiterio de San Amaro da Coruña,
+      lugar onde se realiza a homenaxe.
     type: text
   - image: /img/portfolio/images/55859d0bd3fd2-cartaz-seoane-cemiterio-01.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/55859d0bd4521-cartaz-seoane-cemiterio-02.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/55859dce6f4e0-cartaz-seoane-cemiterio-01.jpg
 tags: []
@@ -19,9 +22,9 @@ lang:
   - es
 info:
   - name: Estudio
-    value: "Grupo Revisión Deseño"
+    value: Grupo Revisión Deseño
   - name: Cliente
-    value: "Real Academia Galega"
+    value: Real Academia Galega
   - name: Ano
-    value: "2010"
+    value: '2010'
 draft: false

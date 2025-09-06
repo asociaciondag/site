@@ -3,11 +3,11 @@ title: Cenor
 basename: cenor
 body:
   - image: /img/portfolio/images/cenor.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/cenor.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
   - Sinalética
 members_id:
   - 29

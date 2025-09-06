@@ -3,11 +3,11 @@ title: Russula
 basename: russula
 body:
   - image: /img/portfolio/images/russula.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/russula.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 6
 lang:

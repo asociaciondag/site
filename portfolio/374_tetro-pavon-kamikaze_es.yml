@@ -1,22 +1,23 @@
 id: 374
-title: "Teatro Pavón Kamikaze"
-basename: tetro-pavon-kamikaze-es
+title: Teatro Pavón Kamikaze
+basename: tetro-pavon-kamikaze
 body:
-  - text: "Diseño de la identidad gráfica del Teatro Pavón Kamikaze."
+  - text: Diseño de la identidad gráfica del Teatro Pavón Kamikaze.
     type: text
   - image: /img/portfolio/images/imagen-teatro-1.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/imagen-teatro-2.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/portadapavon.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 81
 lang: es
 info:
   - name: Cliente
-    value: "Teatro Pavón Kamikaze"
+    value: Teatro Pavón Kamikaze
 draft: false
+oldUrl: /es/portfolio/tetro-pavon-kamikaze-es/

@@ -1,29 +1,32 @@
 id: 360
-title: "Lámpara de sobremesa Mosky"
+title: Lámpara de sobremesa Mosky
 basename: lampara-mosky
 body:
-  - text: |-
-      Realizada por artesanos locales con madera maciza de castaño, policarbonato cortado al láser, aluminio y gráfica impresa en papel Creative Museum Rag Photo Mate 310 gr.
+  - text: >-
+      Realizada por artesanos locales con madera maciza de castaño,
+      policarbonato cortado al láser, aluminio y gráfica impresa en papel
+      Creative Museum Rag Photo Mate 310 gr.
+
 
       Equipada con tira de led de 4.8 w, 495 lm (salida) 3000ºK y 24V.
     type: text
   - image: /img/portfolio/images/lampara-sobremesa-mosky-dos-frontal.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lampara-sobremesa-mosky-frontal-asfalto-peq.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lampara-sobremesa-mosky-general-horizontal.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lampara-sobremesa-mosky-negra-vertical.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lampara-sobremesa-mosky-planta-asfalto.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/lampara-sobremesa-mosky-planta.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/lampara-sobremesa-mosky-general-horizontal.jpg
 tags:
@@ -33,5 +36,6 @@ members_id:
 lang: es
 info:
   - name: Ano
-    value: "2019"
+    value: '2019'
 draft: false
+oldUrl: /es/portfolio/lampara-mosky/

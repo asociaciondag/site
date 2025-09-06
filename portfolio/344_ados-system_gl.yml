@@ -1,27 +1,41 @@
 id: 344
-title: "Ados System"
+title: Ados System
 basename: ados-system
 body:
-  - text: |-
-      O interese polo deseño de produto, a creación e desenvolvemento de pezas especiais ou a medida para os clientes leva a colaboración con QBO Iluminación, S.L. para o desenvolvemento e fabricación do deseño do sistema de iluminación Ados System.
+  - text: >-
+      O interese polo deseño de produto, a creación e desenvolvemento de pezas
+      especiais ou a medida para os clientes leva a colaboración con QBO
+      Iluminación, S.L. para o desenvolvemento e fabricación do deseño do
+      sistema de iluminación Ados System.
 
-      Ados System é un sistema de iluminación versátil que nace da necesidade de ofrecer solucións de iluminación personalizadas para proxectos de distintos sectores: comercio, hostalaría, vivienda, industria, educación ou sanidade.
 
-      É un sistema realizado a partir dun perfil que podemos proxectar segundo a necesidade: pode subir, baixar, xirar, colgar, etc., para crear a forma desexada grazas a unha peza especial que permite os xiros.
+      Ados System é un sistema de iluminación versátil que nace da necesidade de
+      ofrecer solucións de iluminación personalizadas para proxectos de
+      distintos sectores: comercio, hostalaría, vivienda, industria, educación
+      ou sanidade.
 
-      O resultado é unha escultura de luz, unha solución especial, con carácter, que permite incorporar múltiples accesorios, carril trifásico, así como aloxar tiras de led na parte superior e na inferior, para dispoñer da luz necesaria no momento xusto.
+
+      É un sistema realizado a partir dun perfil que podemos proxectar segundo a
+      necesidade: pode subir, baixar, xirar, colgar, etc., para crear a forma
+      desexada grazas a unha peza especial que permite os xiros.
+
+
+      O resultado é unha escultura de luz, unha solución especial, con carácter,
+      que permite incorporar múltiples accesorios, carril trifásico, así como
+      aloxar tiras de led na parte superior e na inferior, para dispoñer da luz
+      necesaria no momento xusto.
     type: text
   - image: /img/portfolio/images/infografiaados-alum-general-peq.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/infografiaados-cuadros-1.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/infografiaados-cuadros-2.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/infografiaados-cuadros-3.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/infografiaados-alum-general-peq.jpg
 tags:
@@ -34,5 +48,6 @@ members_id:
 lang: gl
 info:
   - name: Ano
-    value: "2019"
+    value: '2019'
 draft: false
+oldUrl: /gl/portfolio/ados-system/

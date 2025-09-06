@@ -1,17 +1,20 @@
 id: 261
-title: "Logo Tecendo Arte"
+title: Logo Tecendo Arte
 basename: logo-tecendo-arte
 body:
-  - text: "Deseño de logotipo para escola de arte. Baséase na idea da creatividade asociada ao lado dereito do cerebro."
+  - text: >-
+      Deseño de logotipo para escola de arte. Baséase na idea da creatividade
+      asociada ao lado dereito do cerebro.
     type: text
   - image: /img/portfolio/images/tecendo-arte.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/tecendo-arte.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 40
 lang: gl
 info: []
 draft: false
+oldUrl: /gl/portfolio/logo-tecendo-arte/

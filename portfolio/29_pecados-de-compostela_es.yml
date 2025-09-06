@@ -1,37 +1,43 @@
 id: 29
-title: "Pecados de Compostela"
+title: Pecados de Compostela
 basename: pecados-de-compostela
 body:
-  - text: "La tienda Pecados de Compostela necesitaba un embalaje para regalar chucherías y caramelos en esas ocasiones especiales, personales o de celebración conjunta. Creamos un estuchado divertido y festivo, con una presentación colorista, junto con una serie de postales y tarjetas de felicitación como el complemento ideal para un producto dulce y variado."
+  - text: >-
+      La tienda Pecados de Compostela necesitaba un embalaje para regalar
+      chucherías y caramelos en esas ocasiones especiales, personales o de
+      celebración conjunta. Creamos un estuchado divertido y festivo, con una
+      presentación colorista, junto con una serie de postales y tarjetas de
+      felicitación como el complemento ideal para un producto dulce y variado.
     type: text
   - image: /img/portfolio/images/555cdee9c425e-pecados-01.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/555cdee9c4b4d-pecados-02.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/555cdee9c5144-pecados-03.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/555cdee9c57b9-pecados-04.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/558561544da65-555cdee9c4b4d-pecados-02.jpg
 tags:
   - Embalaxe
   - Gráfico
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 3
   - 18
 lang: es
 info:
   - name: Estudio
-    value: "Ekinocio comunicación"
+    value: Ekinocio comunicación
   - name: Proyecto
-    value: "Embalaxes de regalos"
+    value: Embalaxes de regalos
   - name: Cliente
-    value: "Pecados de Compostela"
+    value: Pecados de Compostela
   - name: Año
-    value: "2012"
+    value: '2012'
 draft: true
+oldUrl: /es/portfolio/pecados-de-compostela/

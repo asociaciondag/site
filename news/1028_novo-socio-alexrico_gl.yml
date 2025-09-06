@@ -1,9 +1,9 @@
 id: 1028
-title: "A DAG medra coa incorporación de Álex Rico"
+title: A DAG medra coa incorporación de Álex Rico
 body:
   - list: after
     image: /img/news/images/alexrico-noticia.jpeg
-    text: ""
+    text: ''
     mode: normal
     type: image
   - text: |-
@@ -19,10 +19,16 @@ body:
 
        Son un gran defensor do asociacionismo e admiro á DAG no seu papel como instrumento básico para poñer en valor o deseño e achegalo á sociedade, ás empresas e ás institucións. Espero poder contribuír a lograr este obxectivo conxunto con todxs vós. Ganas non van faltar.
     type: text
-intro: "Alédanos moito comunicar que a DAG segue a sumar socios. Hoxe, máis que nunca, somos máis fortes unidos, creando vínculos que axudan a conseguir obxectivos comúns. [Álex Rico](https://dag.gal/gl/alex-rico/) é sen dúbida un profesional con iniciativa. A súa incorporación á Asociación Galega de Deseño aléntanos a seguir traballando, con ganas e optimismo. Benvido Álex!"
+intro: >-
+  Alédanos moito comunicar que a DAG segue a sumar socios. Hoxe, máis que nunca,
+  somos máis fortes unidos, creando vínculos que axudan a conseguir obxectivos
+  comúns. [Álex Rico](https://dag.gal/gl/alex-rico/) é sen dúbida un profesional
+  con iniciativa. A súa incorporación á Asociación Galega de Deseño aléntanos a
+  seguir traballando, con ganas e optimismo. Benvido Álex!
 basename: novo-socio-alexrico
 tags:
-  - "noticias socios/socias"
+  - noticias socios/socias
 lang: gl
 draft: false
-date: 2020-11-11T21:51:39+00:00
+date: 2020-11-11T21:51:39.000Z
+oldUrl: /gl/novo-socio-alexrico/

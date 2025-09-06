@@ -1,9 +1,9 @@
 id: 311
-title: "Garay Studio"
+title: Garay Studio
 basename: garay-studio
 body:
   - image: /img/portfolio/images/garaystudio.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/garaystudio.jpg
 tags:

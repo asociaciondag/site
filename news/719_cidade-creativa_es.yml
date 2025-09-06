@@ -1,12 +1,12 @@
 id: 719
-title: "Cidade Creativa"
+title: Cidade Creativa
 body:
   - list: after
     image: /img/news/images/58dbcc3de6790-cabeceira-facebook.png
-    text: ""
+    text: ''
     mode: normal
     type: image
-  - text: |2-
+  - text: >2-
         
        Pero qué es [\#CidadeCreativa](https://www.facebook.com/hashtag/cidadecreativa)?   
          
@@ -28,10 +28,17 @@ body:
          
        En esta versión express 5 empresas del CEM compartirán su experiencia con aquellos asistentes interesados. Inscripción en: <7Hcoop@7Hcoop.es>
 
-      - La importancia de crear tu discurso profesional por Concha Diéguez de Reverso Comunicación, Cultura e Lingua.
+      - La importancia de crear tu discurso profesional por Concha Diéguez de
+      Reverso Comunicación, Cultura e Lingua.
+
       - Explorando el camino al éxito por Beatriz G. Cibreiro de ComuniArte.
-      - Minimasterclass de iluminación por Andreu Romaní de Andreu Romaní Fotografía.
-      - Si te sientes bien, trabajas mejor: ergonomía y salud en el entorno laboral por Andrea Tapias de MásQuePapel.
+
+      - Minimasterclass de iluminación por Andreu Romaní de Andreu Romaní
+      Fotografía.
+
+      - Si te sientes bien, trabajas mejor: ergonomía y salud en el entorno
+      laboral por Andrea Tapias de MásQuePapel.
+
       - Impresión manual sobre madera por Isabel Pernas de Quenindiola.
        
         
@@ -58,9 +65,12 @@ body:
        [www.cidadedacultura.gal/gl/evento/cidade-creativa](http://www.cidadedacultura.gal/gl/evento/cidade-creativa)  
        [www.7hcoop.es/cidade-creativa/](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.7hcoop.es%2Fcidade-creativa%2F&h=ATNuul_8-XsN8moMs2hWFJNQBLf5GTN8KEGWz1YEcaAh1-bZ1p07dUINGrTGFf6DxU75zPqI1CaBZe8tK1pbd7G-zFx16d9yYXg5_fwVqJklRh7Y2Of2RGKKaENt3tBjjjI&enc=AZNMkG7Gn3Ekc3ZPloV_lkoPDs502QRK3khEgSWsjnuwL6tuv9yctmKSFWFIGH0Rs-Q&s=1)
     type: text
-intro: "El Centro de Emprendimiento del Gaiás acoge este jueves 30 de marzo **Cidade Creativa**, un gran networking de emprendedores creativos."
+intro: >-
+  El Centro de Emprendimiento del Gaiás acoge este jueves 30 de marzo **Cidade
+  Creativa**, un gran networking de emprendedores creativos.
 basename: cidade-creativa
 tags: []
 lang: es
 draft: false
-date: 2017-03-29T17:01:17+00:00
+date: 2017-03-29T17:01:17.000Z
+oldUrl: /es/cidade-creativa/

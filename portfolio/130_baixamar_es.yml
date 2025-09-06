@@ -2,23 +2,37 @@ id: 130
 title: Baixamar
 basename: baixamar
 body:
-  - text: |-
-      Baixamar es un estante para albergar, principalmente, cuentos infantiles. Aunque realmente, admite cualquier objeto cuyas dimensiones se acojan a las del hueco presentado.
+  - text: >-
+      Baixamar es un estante para albergar, principalmente, cuentos infantiles.
+      Aunque realmente, admite cualquier objeto cuyas dimensiones se acojan a
+      las del hueco presentado.
 
-      Baixamar surge de la combinación de dos estantes individuales Adorna situados en paralelo. Una vez colocados dichos estantes y a partir de tres sencillos pasos, obtenemos la estantería (y sin necesidad de herramientas).
 
-      Baixamar toma como referencia las embarcaciones típicas gallegas (dornas) para dotarlas de un signicado más poético (si cabe). El contenido se convierte en el continente y la idea se vuelve evidente. Los cuentos se transformarán así, en las embarcaciones que les harán navegar por los océanos de la imaginación.
+      Baixamar surge de la combinación de dos estantes individuales Adorna
+      situados en paralelo. Una vez colocados dichos estantes y a partir de tres
+      sencillos pasos, obtenemos la estantería (y sin necesidad de
+      herramientas).
 
-      Las combinaciones cromáticas (en clara alusión al pintado tradicional de dichas embarcaciones) y el contraste con la madera natural, dotan a los estantes de una premeditada “calidez artesanal”.
+
+      Baixamar toma como referencia las embarcaciones típicas gallegas (dornas)
+      para dotarlas de un signicado más poético (si cabe). El contenido se
+      convierte en el continente y la idea se vuelve evidente. Los cuentos se
+      transformarán así, en las embarcaciones que les harán navegar por los
+      océanos de la imaginación.
+
+
+      Las combinaciones cromáticas (en clara alusión al pintado tradicional de
+      dichas embarcaciones) y el contraste con la madera natural, dotan a los
+      estantes de una premeditada “calidez artesanal”.
     type: text
   - image: /img/portfolio/images/570f65e499654-bai003-lateral.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/570f4dc7b09fb-bai003-perspectiva.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/570f4dc7b0ccb-baixamar-composicion-1.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/570f4dc7b061d-bai003-lateral.jpg
 tags: []
@@ -27,3 +41,4 @@ members_id:
 lang: es
 info: []
 draft: false
+oldUrl: /es/portfolio/baixamar/

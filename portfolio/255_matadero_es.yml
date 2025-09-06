@@ -3,18 +3,19 @@ title: Matadero
 basename: matadero
 body:
   - image: /img/portfolio/images/matadero-2019-branding-y-comunicacion-visual.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/matadero-2019-branding-y-comunicacion-visual.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
   - Gráfico
 members_id:
   - 67
 lang: es
 info:
   - name: Proyecto
-    value: "Matadero Asador"
+    value: Matadero Asador
   - name: Año
-    value: "2019"
+    value: '2019'
 draft: false
+oldUrl: /es/portfolio/matadero/

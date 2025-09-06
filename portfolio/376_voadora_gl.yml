@@ -2,14 +2,14 @@ id: 376
 title: Voadora
 basename: voadora
 body:
-  - text: "Deseño da imaxe gráfica da compañía Voadora."
+  - text: Deseño da imaxe gráfica da compañía Voadora.
     type: text
   - image: /img/portfolio/images/voadora-completo.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/portadavoadora.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 81
 lang: gl
@@ -17,3 +17,4 @@ info:
   - name: Cliente
     value: Voadora
 draft: false
+oldUrl: /gl/portfolio/voadora/

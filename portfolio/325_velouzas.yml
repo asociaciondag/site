@@ -1,13 +1,13 @@
 id: 325
-title: "Clube Ciclista Velouzas"
+title: Clube Ciclista Velouzas
 basename: velouzas
 body:
   - image: /img/portfolio/images/velouzas.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/velouzas.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 29
 lang:

@@ -1,13 +1,14 @@
 id: 1190
-title: "VI Xornadas de Arte e Deseño «Bisiona» na EASD Pablo Picasso"
+title: VI Xornadas de Arte e Deseño «Bisiona» na EASD Pablo Picasso
 body:
   - list: after
     image: /img/news/images/bisiona-2022.jpg
-    text: ""
+    text: ''
     mode: normal
     type: image
-  - text: |-
+  - text: >-
       Programa das xornadas:
+
 
       **Mércores 14:**
        10:00 h: Giovanna Lopalco (ilustradora)
@@ -28,16 +29,26 @@ body:
        13:00 h: Saúl Pedrosa (deseño e preimpresión).
        Pola tarde, taller sobre artefinal so para alumnado da Escola.
 
-      Todas as charlas terán lugar no Salón de Actos da Escola e son abertas ao público, ata completar aforo, con prioridade para o alumnado. Tamén serán publicadas posteriormente na [canle de youtube](https://www.youtube.com/channel/UCc2hlmi6Mn3WUAPxexW6p-Q/featured) da Escola.
+      Todas as charlas terán lugar no Salón de Actos da Escola e son abertas ao
+      público, ata completar aforo, con prioridade para o alumnado. Tamén serán
+      publicadas posteriormente na [canle de
+      youtube](https://www.youtube.com/channel/UCc2hlmi6Mn3WUAPxexW6p-Q/featured)
+      da Escola.
     type: text
-  - list: ""
-    url: "https://eapicasso.com/vi-xornadas-arte-deseno-bisiona/"
-    text: "Máis información"
+  - list: ''
+    url: 'https://eapicasso.com/vi-xornadas-arte-deseno-bisiona/'
+    text: Máis información
     type: button
-intro: "Do 14 ao 16 de decembro, a EASD Pablo Picasso organiza as VI Xornadas de Arte e Deseño «Bisiona», que reúne a profesionais de diversos ámbitos da arte, da artesanía e do deseño, co obxectivo de achegar a experiencia dos e das profesionais de cada un dos sectores ao alumnado e ao público xeral. Nesta ocasión, participan os compañeiros de [Desoños](https://www.desonhos.gal/)."
+intro: >-
+  Do 14 ao 16 de decembro, a EASD Pablo Picasso organiza as VI Xornadas de Arte
+  e Deseño «Bisiona», que reúne a profesionais de diversos ámbitos da arte, da
+  artesanía e do deseño, co obxectivo de achegar a experiencia dos e das
+  profesionais de cada un dos sectores ao alumnado e ao público xeral. Nesta
+  ocasión, participan os compañeiros de [Desoños](https://www.desonhos.gal/).
 basename: vi-xornadas-de-arte-e-deseno-bisiona-na-easd-pablo-picasso
 tags:
-  - "actividades dag"
+  - actividades dag
 lang: gl
 draft: false
-date: 2022-12-07T10:35:00+00:00
+date: 2022-12-07T10:35:00.000Z
+oldUrl: /gl/vi-xornadas-de-arte-e-deseno-bisiona-na-easd-pablo-picasso/

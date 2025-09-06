@@ -1,27 +1,41 @@
 id: 344
-title: "Ados System"
-basename: ados-system-es
+title: Ados System
+basename: ados-system
 body:
-  - text: |-
-      El interés por el diseño de producto, la creación y desarrollo de piezas especiales o a medida para los clientes lleva a la colaboración con QBO Iluminación, S.L. para el desarrollo y fabricación del diseño del sistema de iluminación Ados System.
+  - text: >-
+      El interés por el diseño de producto, la creación y desarrollo de piezas
+      especiales o a medida para los clientes lleva a la colaboración con QBO
+      Iluminación, S.L. para el desarrollo y fabricación del diseño del sistema
+      de iluminación Ados System.
 
-      Ados System es un sistema de iluminación versátil que nace de la necesidad de ofrecer soluciones de iluminación personalizadas para proyectos de distintos sectores: _retail_, _hospitality_, vivienda, industria, educación o sanidad.
 
-      Es un sistema realizado a partir de un perfil que podemos proyectar según la necesidad: puede subir, bajar, girar, colgar, etc., para crear la forma deseada gracias a una pieza especial que permite los giros.
+      Ados System es un sistema de iluminación versátil que nace de la necesidad
+      de ofrecer soluciones de iluminación personalizadas para proyectos de
+      distintos sectores: _retail_, _hospitality_, vivienda, industria,
+      educación o sanidad.
 
-      El resultado es una escultura de luz, una solución especial, con carácter, que permite incorporar múltiples accesorios, carril trifásico, así como alojar tiras de led en la parte superior y en la inferior, para disponer de la luz necesaria en el momento justo.
+
+      Es un sistema realizado a partir de un perfil que podemos proyectar según
+      la necesidad: puede subir, bajar, girar, colgar, etc., para crear la forma
+      deseada gracias a una pieza especial que permite los giros.
+
+
+      El resultado es una escultura de luz, una solución especial, con carácter,
+      que permite incorporar múltiples accesorios, carril trifásico, así como
+      alojar tiras de led en la parte superior y en la inferior, para disponer
+      de la luz necesaria en el momento justo.
     type: text
   - image: /img/portfolio/images/infografiaados-alum-general-peq.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/infografiaados-cuadros-1.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/infografiaados-cuadros-2.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/infografiaados-cuadros-3.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/infografiaados-alum-general-peq.jpg
 tags:
@@ -34,5 +48,6 @@ members_id:
 lang: es
 info:
   - name: Año
-    value: "2019"
+    value: '2019'
 draft: false
+oldUrl: /es/portfolio/ados-system-es/

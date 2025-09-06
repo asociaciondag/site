@@ -1,17 +1,17 @@
 id: 293
-title: "Conservas de Cambados"
+title: Conservas de Cambados
 basename: convervas-de-cambados
 body:
-  - text: "Diseño de nuevo _packaging_ y cartel promocional."
+  - text: Diseño de nuevo _packaging_ y cartel promocional.
     type: text
   - image: /img/portfolio/images/caixas.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/cartel-conservas-gourmet.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/troquel-lata-conservas.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/caixas.jpg
 tags:
@@ -21,5 +21,6 @@ members_id:
 lang: es
 info:
   - name: Cliente
-    value: "Conservas de Cambados"
+    value: Conservas de Cambados
 draft: false
+oldUrl: /es/portfolio/convervas-de-cambados/

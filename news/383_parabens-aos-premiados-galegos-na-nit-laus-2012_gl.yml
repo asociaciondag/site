@@ -1,9 +1,20 @@
 id: 383
-title: "Parabéns aos premiados galegos na Nit Laus 2012"
+title: Parabéns aos premiados galegos na Nit Laus 2012
 body:
   - type: text
-    text: |-
-      Os traballos de dous estudios galegos foron premiados con cadanseu Laus de prata na 42ª edición dos Premios Internacionais Laus de Deseño Gráfico e a Comunicación Visual que tivo lugar onte pola noite en Barcelona. Os afortunados son o estudio coruñés [Desescribir](http://www.desescribir.com/), que optaban ao galardón dentro da categoría de cartel co seu [Cartel para o V Premio de Arquitectura Ascensores Enor](http://www.flickr.com/photos/desescribir/5377941887/in/set-72157625432601484), e [Verve Creative Group](http://www.vervecg.com/), con sede en Vigo, e que resultaron premiados dentro da categoría audiovisual-promocional polo seu Reb Bull Silent Project.
+    text: >-
+      Os traballos de dous estudios galegos foron premiados con cadanseu Laus de
+      prata na 42ª edición dos Premios Internacionais Laus de Deseño Gráfico e a
+      Comunicación Visual que tivo lugar onte pola noite en Barcelona. Os
+      afortunados son o estudio coruñés
+      [Desescribir](http://www.desescribir.com/), que optaban ao galardón dentro
+      da categoría de cartel co seu [Cartel para o V Premio de Arquitectura
+      Ascensores
+      Enor](http://www.flickr.com/photos/desescribir/5377941887/in/set-72157625432601484),
+      e [Verve Creative Group](http://www.vervecg.com/), con sede en Vigo, e que
+      resultaron premiados dentro da categoría audiovisual-promocional polo seu
+      Reb Bull Silent Project.
+
 
       Toda a información en: [Laus 2012](http://fad.cat/awards/view/61/lang:spa)
   - type: image
@@ -13,4 +24,5 @@ basename: parabens-aos-premiados-galegos-na-nit-laus-2012
 tags: []
 lang: gl
 draft: false
-date: 2012-07-06T13:49:31+00:00
+date: 2012-07-06T13:49:31.000Z
+oldUrl: /gl/parabens-aos-premiados-galegos-na-nit-laus-2012/

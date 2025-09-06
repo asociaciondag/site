@@ -1,26 +1,34 @@
 id: 38
-title: "20 Anos de Festival de Jazz e Blues"
+title: 20 Anos de Festival de Jazz e Blues
 basename: 20-anos-de-festival-de-jazz-e-blues
 body:
-  - text: "Revista que recolle de modo moi gráfico unha viaxe no tempo, a andadura do festival dende os inicios ata o día de hoxe."
+  - text: >-
+      Revista que recolle de modo moi gráfico unha viaxe no tempo, a andadura do
+      festival dende os inicios ata o día de hoxe.
     type: text
-  - image: /img/portfolio/images/555ce19b4d6f1-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-01.jpg
-    text: ""
+  - image: >-
+      /img/portfolio/images/555ce19b4d6f1-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-01.jpg
+    text: ''
     type: image
-  - image: /img/portfolio/images/555ce19b4e421-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-02.jpg
-    text: ""
+  - image: >-
+      /img/portfolio/images/555ce19b4e421-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-02.jpg
+    text: ''
     type: image
-  - image: /img/portfolio/images/555ce19b4e88d-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-03.jpg
-    text: ""
+  - image: >-
+      /img/portfolio/images/555ce19b4e88d-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-03.jpg
+    text: ''
     type: image
-  - image: /img/portfolio/images/555ce19b4ec9c-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-04.jpg
-    text: ""
+  - image: >-
+      /img/portfolio/images/555ce19b4ec9c-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-04.jpg
+    text: ''
     type: image
-  - image: /img/portfolio/images/555ce19b4f0f4-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-05.jpg
-    text: ""
+  - image: >-
+      /img/portfolio/images/555ce19b4f0f4-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-05.jpg
+    text: ''
     type: image
-  - image: /img/portfolio/images/555ce19b4f573-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-06.jpg
-    text: ""
+  - image: >-
+      /img/portfolio/images/555ce19b4f573-revista-20-anos-festival-de-jazz-e-blues-de-pontevedra-paginas-06.jpg
+    text: ''
     type: image
 cover: /img/portfolio/covers/5585b1b9868dd-jazz.jpg
 tags:
@@ -32,9 +40,9 @@ lang:
   - es
 info:
   - name: Estudio
-    value: "Era comunicación"
+    value: Era comunicación
   - name: Cliente
-    value: "Concello de Pontevedra. Concellería de Festas"
+    value: Concello de Pontevedra. Concellería de Festas
   - name: Ano
-    value: "2012"
+    value: '2012'
 draft: false

@@ -1,11 +1,15 @@
 id: 73
-title: "Sara Lage & Maru Calderón"
+title: Sara Lage & Maru Calderón
 basename: sara-lage-maru-calderon
 body:
-  - text: |-
-      Proxecto web para as deseñadoras de moda Sara Lage e Maru Calderón. Un proxecto colaborativo, (vídeo, fotografía, música…) no que Sond3 se encargou do deseño e desenvolvemento da web.
+  - text: >-
+      Proxecto web para as deseñadoras de moda Sara Lage e Maru Calderón. Un
+      proxecto colaborativo, (vídeo, fotografía, música…) no que Sond3 se
+      encargou do deseño e desenvolvemento da web.
+
 
       Premio do público e xurado nos premios Innova-g 2010.
+
 
       Cámaras: Omar Luaces e Yoe Brava
        Produción e música: Gabriel Marínez
@@ -26,11 +30,12 @@ info:
   - name: Estudio
     value: Sond3
   - name: Proxecto
-    value: "Web corporativa Sara Lage & Maru Calderón"
+    value: Web corporativa Sara Lage & Maru Calderón
   - name: Cliente
-    value: "Sara Lage e Maru Calderón"
+    value: Sara Lage e Maru Calderón
   - name: Ano
-    value: "2009"
+    value: '2009'
   - name: Programación
-    value: "Diego Vilariño"
+    value: Diego Vilariño
 draft: true
+oldUrl: /gl/portfolio/sara-lage-maru-calderon/

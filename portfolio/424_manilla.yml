@@ -3,10 +3,10 @@ title: Manilla
 basename: manilla
 body:
   - image: /img/portfolio/images/manilla-triangulo-1.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/manilla-triangulo-2.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/manilla-triangulo-2.jpg
 tags:

@@ -1,28 +1,46 @@
 id: 36
-title: "Atlanta Foreign Trade"
+title: Atlanta Foreign Trade
 basename: atlanta-foreign-trade
 body:
-  - text: |-
-      O deseño da identidade desta consultora galega de alimentación, ATLANTA FOREIGN TRADE, cuxa actividade desenvolve en colaboracións de comercio exterior, axencia de intermediación e transitario, foi o resultado dun proxecto cuxo minucioso briefing aportado pola empresa serviu de gran axuda.
+  - text: >-
+      O deseño da identidade desta consultora galega de alimentación, ATLANTA
+      FOREIGN TRADE, cuxa actividade desenvolve en colaboracións de comercio
+      exterior, axencia de intermediación e transitario, foi o resultado dun
+      proxecto cuxo minucioso briefing aportado pola empresa serviu de gran
+      axuda.
 
-      Os aspectos a conseguir coa identidade debían ser: comunicar visualmente e dun xeito contundente o contacto co mercado exterior: centro, norte e sur; afastarse da tópica utilización do globo terráqueo e das flechas; elección dunhas cores corporativas que representen a seriedade pero sempre cun punto de encontro coa modernidade; utilización da letra “a” como elemento protagonista do anagrama, para a súa posterior utilización independente noutros soportes.
 
-      As cores elixidas foron o malva (Pantone 512) e o Gris aceiro (Pantone 5425, convertido en prata para papelería e rotulaciones) e pola presenza absoluta da letra “a”, diversificando o final do seu trazo ao contacto co exterior.
+      Os aspectos a conseguir coa identidade debían ser: comunicar visualmente e
+      dun xeito contundente o contacto co mercado exterior: centro, norte e sur;
+      afastarse da tópica utilización do globo terráqueo e das flechas; elección
+      dunhas cores corporativas que representen a seriedade pero sempre cun
+      punto de encontro coa modernidade; utilización da letra “a” como elemento
+      protagonista do anagrama, para a súa posterior utilización independente
+      noutros soportes.
 
-      O deseño do anagrama obriga á mirada a realizar un seguimiento visual do curso do trazo da letra”a” desde o seu principio ata a ramificación final: obxectivo da comunicación de Atlanta como consultora en comercio exterior.
+
+      As cores elixidas foron o malva (Pantone 512) e o Gris aceiro (Pantone
+      5425, convertido en prata para papelería e rotulaciones) e pola presenza
+      absoluta da letra “a”, diversificando o final do seu trazo ao contacto co
+      exterior.
+
+
+      O deseño do anagrama obriga á mirada a realizar un seguimiento visual do
+      curso do trazo da letra”a” desde o seu principio ata a ramificación final:
+      obxectivo da comunicación de Atlanta como consultora en comercio exterior.
     type: text
   - image: /img/portfolio/images/555cdcddaa6f0-r-caccamo-2a.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/555cdcddaafd7-r-caccamo-2b.jpg
-    text: ""
+    text: ''
     type: image
   - image: /img/portfolio/images/555cdcddab8f1-r-caccamo-2c.jpg
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/558563cc131e2-555cdcddaafd7-r-caccamo-2b.jpg
 tags:
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 7
 lang:
@@ -30,7 +48,7 @@ lang:
   - es
 info:
   - name: Cliente
-    value: "Atlanta Foreign Trade"
+    value: Atlanta Foreign Trade
   - name: Ano
-    value: "2012"
+    value: '2012'
 draft: false

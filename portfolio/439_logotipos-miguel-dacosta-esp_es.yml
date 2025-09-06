@@ -1,18 +1,19 @@
 id: 439
-title: "Miscelánea de logotipos"
+title: Miscelánea de logotipos
 basename: logotipos-miguel-dacosta-esp
 body:
-  - text: "Marcas gráficas creadas para distintos proyectos de identidad corporativa"
+  - text: Marcas gráficas creadas para distintos proyectos de identidad corporativa
     type: text
   - image: /img/portfolio/images/logotipos.png
-    text: ""
+    text: ''
     type: image
 cover: /img/portfolio/covers/logotipos.png
 tags:
   - Gráfico
-  - "Identidade corporativa"
+  - Identidade corporativa
 members_id:
   - 119
 lang: es
 info: []
 draft: false
+oldUrl: /es/portfolio/logotipos-miguel-dacosta-esp/
