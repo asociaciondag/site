@@ -27,8 +27,6 @@ body:
       favorecer el diálogo y la reflexión sobre aquellas cuestiones que más les
       preocupan e interesan.
     type: text
-menu: true
-footer: false
 order: 1
 lang: es
 draft: false

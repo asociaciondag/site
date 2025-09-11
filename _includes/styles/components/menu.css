@@ -1,0 +1,20 @@
+.menu {
+  display: flex;
+
+  > ul {
+    list-style-type: "";
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+      text-underline-offset: 0.15em;
+    }
+  }
+}
+.menu-main {
+  font-size: var(--size-1);
+  font-weight: var(--font-bold);
+}

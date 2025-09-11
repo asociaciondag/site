@@ -28,8 +28,6 @@ body:
       diálogo e a reflexión sobre aquelas cuestións que máis lles preocupan e
       interesan.
     type: text
-menu: true
-footer: false
 order: 1
 lang: gl
 draft: false

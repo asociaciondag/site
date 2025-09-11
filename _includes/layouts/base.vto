@@ -9,52 +9,7 @@
   </head>
 
   <body>
-    <header class="page-header">
-      <a href='{{ lang === "gl" ? "/" : `/${lang}` }}'>
-        <img src="/img/icons/dag.svg" alt="Asociación Galega de Deseño" inline>
-      </a>
-
-      {{# Menú principal #}}
-      <nav class="page-menu">
-        <ul>
-          {{ set page = search.page(`id=about lang=${lang}`) }}
-          <li {{ if main_menu == page.main_menu }} class="is-selected"{{ /if }}>
-            <a href="{{ page.url }}">{{ t.menu.about }}</a>
-          </li>
-
-          {{ set page = search.page("id=news lang=" + lang) }}
-          <li {{ if main_menu == page.main_menu }} class="is-selected"{{ /if }}>
-            <a href="{{ page.url }}">{{ page.title }}</a>
-          </li>
-
-          {{ set page = search.page("id=articles lang=" + lang) }}
-          <li {{ if main_menu == page.main_menu }} class="is-selected"{{ /if }}>
-            <a href="{{ page.url }}">{{ t.menu.articles }}</a>
-          </li>
-
-          {{ set page = search.page("id=projects lang=" + lang) }}
-          <li {{ if main_menu == page.main_menu }} class="is-selected"{{ /if }}>
-            <a href="{{ page.url }}">{{ t.menu.projects }}</a>
-          </li>
-
-          {{ set page = search.page("id=members lang=" + lang) }}
-          <li {{ if main_menu == page.main_menu }} class="is-selected"{{ /if }}>
-            <a href="{{ page.url }}">{{ page.title }}</a>
-          </li>
-
-          {{ set page = search.page("id=portfolio lang=" + lang) }}
-          <li {{ if main_menu == page.main_menu }} class="is-selected"{{ /if }}>
-            <a href="{{ page.url }}">{{ page.title }}</a>
-          </li>
-
-          <li>
-            {{ for alternate of alternates }}
-              <a href="{{ alternate.url }}">{{ alternate.lang }}</a>
-            {{ /for }}
-          </li>
-        </ul>
-      </nav>
-    </header>
+    {{ include "templates/header.vto" }}
 
     <main>
       {{ content }}

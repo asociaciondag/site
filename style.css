@@ -1,3 +1,5 @@
-html {
-  font-family: system-ui, sans-serif;
-}
+@import "styles/variables.css" layer(reset);
+@import "styles/fonts.css" layer(reset);
+@import "styles/reset.css" layer(reset);
+
+@import "styles/components/menu.css" layer(components);

@@ -192,8 +192,6 @@ body:
   - url: "https://dag.gal/gl/acerca-de/asociate/"
     text: Asóciate
     type: button
-menu: true
-footer: false
 order: 3
 lang: gl
 draft: false

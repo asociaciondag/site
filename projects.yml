@@ -1,10 +1,11 @@
 layout: layouts/projects.vto
 main_menu: projects
 
-title.gl: Proxectos
-url.gl: /gl/proxectos/
-
-title.es: Proyectos
-url.es: /es/proyectos/
+gl:
+  title: Proxectos
+  url: /proxectos/
+es:
+  title: Proyectos
+  url: /es/proyectos/
 
 id: projects

@@ -234,8 +234,6 @@ body:
       público en la página web desde la que se realice el “hiperenlace” ni de
       las informaciones y manifestaciones incluidas en la misma.
     type: text
-menu: false
-footer: true
 order: 0
 lang: es
 draft: false

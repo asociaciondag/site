@@ -8,13 +8,6 @@ gl:
       text: |
         En cumprimento da Lei 34/2002, de Servizos da Sociedade da Información, recordámoslle que este sitio web utiliza cookies co fin de mellorar os nosos servizos.
       accept: Entendido
-    menu:
-      about: Acerca da DAG
-      news: Novas
-      articles: Artigos
-      projects: Proxectos
-      members: Socios e socias
-      forum: Foro
     home:
       more_news: Ver máis novas
     news:
@@ -42,13 +35,6 @@ es:
       text: |
         En cumprimento da Lei 34/2002, de Servizos da Sociedade da Información, recordámoslle que este sitio web utiliza cookies co fin de mellorar os nosos servizos.
       accept: Entendido
-    menu:
-      about: Acerca da DAG
-      news: Novas
-      articles: Artículos
-      projects: Proxectos
-      members: Socios e socias
-      forum: Foro
     home:
       more_news: Ver máis novas
     news:

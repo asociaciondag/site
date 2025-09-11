@@ -55,8 +55,6 @@ body:
       deseas más información sobre esta categoría ponte en contacto con nosotros
       a través de info@dag.gal
     type: text
-menu: true
-footer: false
 order: 4
 lang: es
 draft: false

@@ -1,0 +1,15 @@
+@import "npm:normalize.css";
+
+* {
+  text-underline-offset: var(--font-underline-offset);
+}
+
+body {
+  font-family: var(--font-family);
+  font-size: var(--size-1);
+  line-height: var(--line-base);
+}
+
+h1, h2, h3, h4, h5, h6, strong, b {
+  font-weight: var(--font-bold);
+}

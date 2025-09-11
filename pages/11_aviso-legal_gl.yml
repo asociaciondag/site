@@ -230,8 +230,6 @@ body:
       páxina web desde a que se realice o “hiperenlace” nin das informacións e
       manifestacións incluídas nela.
     type: text
-menu: false
-footer: true
 order: 0
 lang: gl
 draft: false

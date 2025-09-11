@@ -23,8 +23,6 @@ body:
 
       - [carro](https://github.com/MiniPlugins/carro)
     type: text
-menu: false
-footer: true
 order: 0
 lang: es
 draft: false

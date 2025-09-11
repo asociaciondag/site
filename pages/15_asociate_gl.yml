@@ -23,8 +23,6 @@ body:
     type: text
   - form: new-member
     type: form
-menu: true
-footer: false
 order: 5
 lang: gl
 draft: false
