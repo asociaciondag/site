@@ -2,7 +2,7 @@ id: 20
 title: "Código deontolóxico do deseño READ"
 basename: codigodeontoloxicodesenoread
 year: 2022
-yaml: null
 cover: /img/projects/baner-codigo-deontologico-2022.jpg
 external_url: "https://designread.es/wp-content/uploads/2022/12/codigo-deontologico_read_IDIOMAS.pdf"
 draft: false
+in_menu: true

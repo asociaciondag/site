@@ -13,3 +13,22 @@ body {
 h1, h2, h3, h4, h5, h6, strong, b {
   font-weight: var(--font-bold);
 }
+
+body {
+  --gap: var(--space-m-xl);
+  display: grid;
+  grid-template-columns: 0 minmax(0, 1400px) 0;
+  justify-content: space-between;
+  column-gap: var(--gap);
+  padding-block: var(--gap);
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+
+  > * {
+    grid-column: 2;
+  }
+}
+
+a {
+  color: var(--color-black);
+}

@@ -2,7 +2,6 @@ id: 11
 title: Pro-DAG
 basename: https-dag-gal-gl-proxectos
 year: 2018
-yaml: null
 cover: /img/projects/prodag.png
 external_url: "https://asociaciondag.github.io/provedores/"
 draft: false

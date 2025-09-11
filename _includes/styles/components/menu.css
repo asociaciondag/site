@@ -1,11 +1,38 @@
 .menu {
+  --gap: var(--space-m-xl);
   display: flex;
+  align-items: start;
+  column-gap: var(--gap);
 
-  > ul {
+  > :where(ul) {
     list-style-type: "";
     margin: 0;
     padding: 0;
+    display: grid;
+    row-gap: var(--space-3xs);
+    max-width: 200px;
   }
+
+  li {
+    display: flex;
+    align-items: center;
+    column-gap: 0.5em;
+
+    &::before {
+      display: block;
+      content: "";
+      flex: 0 0 auto;
+      width: 0.4rem;
+      height: 0.6rem;
+      background: currentColor;
+      clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+      opacity: 0;
+    }
+    &:has(.is-selected)::before {
+      opacity: 1;
+    }
+  }
+
   a {
     text-decoration: none;
     &:hover {
@@ -14,7 +41,17 @@
     }
   }
 }
+
 .menu-main {
   font-size: var(--size-1);
   font-weight: var(--font-bold);
+}
+
+.menu-languages {
+  font-size: var(--size-0);
+  margin-left: auto;
+
+  .is-selected {
+    font-weight: var(--font-bold);
+  }
 }

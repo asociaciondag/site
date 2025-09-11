@@ -18,17 +18,28 @@ menu:
 
 <header class="header">
   <!-- Logo DAG -->
-  <a href="{{ menu.languages[lang].home }}">
+  <a class="header-logo" href="{{ menu.languages[lang].home }}">
     <img src="/img/icons/dag.svg" alt="Asociación Galega de Deseño" inline>
   </a>
 
-  <nav class="menu">
+  <nav class="menu header-menu">
     <!-- Menú seccións principais -->
     <ul class="menu-main">
       {{ for id of menu.sections }}
         {{ set page = search.page(`id=${id} lang=${lang}`) }}
         <li class="{{ main_menu == page.main_menu ? 'is-selected' : '' }}">
           <a href="{{ page.url }}">{{ page.title }}</a>
+        </li>
+      {{ /for }}
+    </ul>
+
+    <!-- Menú iniciativas -->
+    <ul class="menu-projects">
+      {{
+        for page of search.pages(`type=project in_menu=true lang=${lang}`, "year=desc")
+      }}
+        <li>
+          <a href="{{ page.external_url }}">{{ page.title }}</a>
         </li>
       {{ /for }}
     </ul>

@@ -1,0 +1,17 @@
+.header {
+  --gap: var(--space-m-xl);
+
+  display: flex;
+  column-gap: var(--gap);
+}
+
+.header-logo {
+  svg {
+    width: 190px;
+    height: auto;
+    display: block;
+  }
+}
+.header-menu {
+  flex: 1;
+}

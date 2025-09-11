@@ -2,7 +2,7 @@ id: 21
 title: "ARDE Arquivo do deseño"
 basename: arquivododesenoarde
 year: 2023
-yaml: null
 cover: /img/projects/arde-para-web.jpeg
 external_url: "https://arde.gal/"
 draft: false
+in_menu: true

@@ -2,7 +2,7 @@ id: 23
 title: "FEED 2023"
 basename: feed2023
 year: 2023
-yaml: null
 cover: /img/projects/imaxe-proxecto-feed2023.png
 external_url: "https://dag.gal/feed2023"
 draft: false
+in_menu: true
