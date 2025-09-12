@@ -2,11 +2,12 @@
 menu:
   sections:
     - about
+    - members
+    - portfolio
+    - asociate
     - news
     - articles
     - projects
-    - members
-    - portfolio
   languages:
     gl: 
       name: Galego
@@ -16,13 +17,13 @@ menu:
       home: /es/
 ---
 
-<header class="header">
+<header class="navbar">
   <!-- Logo DAG -->
-  <a class="header-logo" href="{{ menu.languages[lang].home }}">
+  <a class="navbar-logo" href="{{ menu.languages[lang].home }}">
     <img src="/img/icons/dag.svg" alt="Asociación Galega de Deseño" inline>
   </a>
 
-  <nav class="menu header-menu">
+  <nav class="menu navbar-menu">
     <!-- Menú seccións principais -->
     <ul class="menu-main">
       {{ for id of menu.sections }}

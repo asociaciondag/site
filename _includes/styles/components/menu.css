@@ -9,7 +9,7 @@
     margin: 0;
     padding: 0;
     display: grid;
-    row-gap: var(--space-3xs);
+    row-gap: var(--space-2xs);
     max-width: 200px;
   }
 
@@ -45,10 +45,15 @@
 .menu-main {
   font-size: var(--size-1);
   font-weight: var(--font-bold);
+  line-height: var(--line-short);
 }
-
+.menu-projects {
+  font-size: var(--size-0);
+  line-height: var(--line-short);
+}
 .menu-languages {
   font-size: var(--size-0);
+  line-height: var(--line-short);
   margin-left: auto;
 
   .is-selected {

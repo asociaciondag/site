@@ -2,5 +2,11 @@
 @import "styles/fonts.css" layer(reset);
 @import "styles/reset.css" layer(reset);
 
-@import "styles/components/header.css" layer(components);
+@import "styles/layouts/grid.css" layer(layouts);
+@import "styles/layouts/tags.css" layer(layouts);
+
+@import "styles/components/navbar.css" layer(components);
 @import "styles/components/menu.css" layer(components);
+@import "styles/components/header.css" layer(components);
+@import "styles/components/members.css" layer(components);
+@import "styles/components/filter.css" layer(components);

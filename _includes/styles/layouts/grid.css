@@ -1,0 +1,10 @@
+.ly-grid {
+  --width: 200px;
+  --column-gap: var(--space-m-l);
+  --row-gap: var(--space-m-l);
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(var(--width), 100%), 1fr));
+  column-gap: var(--column-gap);
+  row-gap: var(--row-gap);
+}

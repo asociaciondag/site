@@ -1,8 +1,21 @@
 ---
 layout: ./base.vto
 ---
-{{ set members = search.pages("type=member lang=" + lang, "name=asc") }}
 
-{{ for member of members }}
-  {{ include "templates/member-list.vto" { member } }}
-{{ /for }}
+<header class="header">
+  <h1 class="header-title">{{ title }}</h1>
+
+  <div class="header-filter ly-tags">
+    {{ for tag of search.values("tags", "type=member lang=" + lang).sort() }}
+      <span class="filter">{{ tag }}</span>
+    {{ /for }}
+  </div>
+</header>
+
+<div class="ly-grid members-grid">
+  {{
+    for member of search.pages("type=member lang=" + lang, "name=asc-locale")
+  }}
+    {{ include "templates/member-list.vto" { member } }}
+  {{ /for }}
+</div>

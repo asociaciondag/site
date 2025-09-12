@@ -1,17 +1,17 @@
 .header {
-  --gap: var(--space-m-xl);
-
-  display: flex;
-  column-gap: var(--gap);
+  display: grid;
+  row-gap: var(--space-m);
+  margin-bottom: 100px;
+  margin-left: 250px;
 }
 
-.header-logo {
-  svg {
-    width: 190px;
-    height: auto;
-    display: block;
-  }
+.header-title {
+  font-size: var(--size-7);
+  letter-spacing: var(--size-7-spacing);
+  font-weight: var(--font-black);
+  line-height: var(--line-xshort);
+  margin: 0;
 }
-.header-menu {
-  flex: 1;
+.header-filter {
+  max-width: 800px;
 }

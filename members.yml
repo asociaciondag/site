@@ -2,9 +2,10 @@ layout: layouts/member_list.vto
 main_menu: members
 lang: [gl, es]
 gl:
-  title: Socios e socias
+  title: Somos DAG
   url: /socios/
 es:
-  title: Socios y socias
+  title: Somos DAG
   url: /socios/
 id: members
+order: 2

@@ -2,8 +2,10 @@ layout: layouts/article_list.vto
 id: articles
 main_menu: articles
 es:
-  title: Artículos
-  url: /articulos/
+  title: Divulgación
+  url: /divulgacion/
+  oldUrl: /es/articulos/
 gl:
-  title: Artigos
-  url: /artigos/
+  title: Divulgación
+  url: /divulgacion/
+  oldUrl: /gl/artigos/

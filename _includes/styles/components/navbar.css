@@ -1,0 +1,18 @@
+.navbar {
+  --gap: var(--space-m-xl);
+
+  display: flex;
+  column-gap: var(--gap);
+  margin-bottom: 100px;
+}
+
+.navbar-logo {
+  svg {
+    width: clamp(90px, 20vw, 190px);
+    height: auto;
+    display: block;
+  }
+}
+.navbar-menu {
+  flex: 1;
+}

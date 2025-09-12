@@ -1,19 +1,24 @@
 <article>
-  <figure>
+  <a class="member" href="{{ member.url }}">
     <img
-      width="64"
-      height="64"
+      width="200"
+      height="200"
+      class="member-avatar"
       src="{{ member.avatar }}"
-      alt="Retrato de {{ member.name }}"
+      alt="Avatar de {{ member.name }}"
     >
-  </figure>
 
-  <header>
-    <h1>
-      <a href="{{ member.url }}">
+    <header class="member-header">
+      <h1 class="member-name">
         {{ member.name }}
-      </a>
-    </h1>
-    <p>{{ member.job }}</p>
-  </header>
+      </h1>
+      <p class="member-job">{{ member.job }}</p>
+    </header>
+
+    <p class="ly-tags member-tags">
+      {{ for tag of member.tags }}
+        <span class="member-tag">{{ tag }}</span>
+      {{ /for }}
+    </p>
+  </a>
 </article>
