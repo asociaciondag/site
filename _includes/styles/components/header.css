@@ -1,8 +1,9 @@
 .header {
   display: grid;
-  row-gap: var(--space-m);
+  row-gap: var(--space-s);
   margin-bottom: 100px;
-  margin-left: 250px;
+  grid-column: center-start / content-end;
+  max-width: 800px;
 }
 
 .header-title {
@@ -12,6 +13,13 @@
   line-height: var(--line-xshort);
   margin: 0;
 }
+.header-description {
+  font-size: var(--size-2);
+
+  p {
+    margin: 0;
+  }
+}
 .header-filter {
-  max-width: 800px;
+  margin-top: var(--space-m);
 }

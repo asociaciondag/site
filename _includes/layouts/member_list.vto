@@ -2,8 +2,12 @@
 layout: ./base.vto
 ---
 
-<header class="header">
+<header class="ly-main-header header">
   <h1 class="header-title">{{ title }}</h1>
+
+  <div class="header-description">
+    {{ description |> md }}
+  </div>
 
   <div class="header-filter ly-tags">
     {{ for tag of search.values("tags", "type=member lang=" + lang).sort() }}

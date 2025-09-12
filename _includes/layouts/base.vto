@@ -8,15 +8,15 @@
     <link rel="stylesheet" href="/style.css">
   </head>
 
-  <body>
+  <body class="ly-main">
     {{ include "templates/navbar.vto" }}
 
-    <main>
+    <main class="ly-main-main">
       {{ content }}
     </main>
 
     <!-- FOOTER -->
-    <footer>
+    <footer class="ly-main-footer">
       <address>
         {{ t.footer.address |> md }}
       </address>

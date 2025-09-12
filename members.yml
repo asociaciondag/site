@@ -4,8 +4,12 @@ lang: [gl, es]
 gl:
   title: Somos DAG
   url: /socios/
+  description: |
+    Este é o listado de socios e socias membros da DAG. Asociarse ofrece a oportunidade de ser parte activa na defensa da nosa profesión e tamén presenta unha serie de beneficios exclusivos para membros. Se queres formar parte da DAG, [asóciate aqui](#).
 es:
   title: Somos DAG
   url: /socios/
+  description: |
+    Este é o listado de socios e socias membros da DAG. Asociarse ofrece a oportunidade de ser parte activa na defensa da nosa profesión e tamén presenta unha serie de beneficios exclusivos para membros. Se queres formar parte da DAG, [asóciate aqui](#).
 id: members
 order: 2

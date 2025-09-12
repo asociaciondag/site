@@ -27,6 +27,8 @@
   .member-header {
     margin: 0;
     grid-area: header;
+    display: grid;
+    row-gap: var(--space-3xs);
   }
 
   .member-name {

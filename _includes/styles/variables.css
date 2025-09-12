@@ -64,4 +64,5 @@
   /* Custom pairs */
   --space-s-l: clamp(1rem, 0.6522rem + 1.7391vw, 2rem);
   --space-m-xl: clamp(1.5rem, 0.9783rem + 2.6087vw, 3rem);
+  --space-m-2xl: clamp(1.5rem, 0.6304rem + 4.3478vw, 4rem);
 }

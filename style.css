@@ -2,6 +2,7 @@
 @import "styles/fonts.css" layer(reset);
 @import "styles/reset.css" layer(reset);
 
+@import "styles/layouts/main.css" layer(layouts);
 @import "styles/layouts/grid.css" layer(layouts);
 @import "styles/layouts/tags.css" layer(layouts);
 

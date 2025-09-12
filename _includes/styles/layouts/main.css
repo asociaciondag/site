@@ -1,0 +1,49 @@
+.ly-main {
+  --lateral: clamp(90px, 20vw, 190px);
+  display: grid;
+  grid-template-columns:
+    [full-start] 1fr [content-start] var(--lateral) [center-start] minmax(
+    0,
+    1000px
+  ) [center-end] var(--lateral) [content-end] 1fr [full-end];
+  grid-template-areas:
+    ". logo menu menu . ."
+    "main main main main main main"
+    ". . footer footer footer .";
+  justify-content: center;
+  align-items: start;
+  align-content: start;
+  gap: var(--space-m-xl);
+  margin-block: var(--space-m-xl);
+}
+
+.ly-main-logo {
+  grid-area: logo;
+
+  svg {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+.ly-main-menu {
+  grid-area: menu;
+}
+
+.ly-main-main {
+  grid-area: main;
+  display: grid;
+  grid-template-columns: subgrid;
+  align-items: start;
+  align-content: start;
+  margin-top: var(--space-m-xl);
+}
+
+.ly-main-footer {
+  grid-area: footer;
+}
+
+.ly-main-header {
+  grid-column: center-start / center-end;
+}

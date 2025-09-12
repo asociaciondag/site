@@ -17,61 +17,62 @@ menu:
       home: /es/
 ---
 
-<header class="navbar">
-  <!-- Logo DAG -->
-  <a class="navbar-logo" href="{{ menu.languages[lang].home }}">
-    <img src="/img/icons/dag.svg" alt="Asociación Galega de Deseño" inline>
-  </a>
+<!-- Logo DAG -->
+<a class="ly-main-logo" href="{{ menu.languages[lang].home }}">
+  <img src="/img/icons/dag.svg" alt="Asociación Galega de Deseño" inline>
+</a>
 
-  <nav class="menu navbar-menu">
-    <!-- Menú seccións principais -->
-    <ul class="menu-main">
-      {{ for id of menu.sections }}
-        {{ set page = search.page(`id=${id} lang=${lang}`) }}
-        <li class="{{ main_menu == page.main_menu ? 'is-selected' : '' }}">
-          <a href="{{ page.url }}">{{ page.title }}</a>
-        </li>
-      {{ /for }}
-    </ul>
+<nav class="ly-main-menu menu">
+  <!-- Menú seccións principais -->
+  <ul class="menu-main">
+    {{ for id of menu.sections }}
+      {{ set page = search.page(`id=${id} lang=${lang}`) }}
+      <li class="{{ main_menu == page.main_menu ? 'is-selected' : '' }}">
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      </li>
+    {{ /for }}
+    <li>
+      <strong>Buscar</strong>
+    </li>
+  </ul>
 
-    <!-- Menú iniciativas -->
-    <ul class="menu-projects">
-      {{
-        for page of search.pages(`type=project in_menu=true lang=${lang}`, "year=desc")
-      }}
-        <li>
-          <a href="{{ page.external_url }}">{{ page.title }}</a>
-        </li>
-      {{ /for }}
-    </ul>
+  <!-- Menú iniciativas -->
+  <ul class="menu-projects">
+    {{
+      for page of search.pages(`type=project in_menu=true lang=${lang}`, "year=desc")
+    }}
+      <li>
+        <a href="{{ page.external_url }}">{{ page.title }}</a>
+      </li>
+    {{ /for }}
+  </ul>
 
-    <!-- Menú idiomas -->
-    <ul class="menu-languages">
-      {{ for code, {name, home} of menu.languages }}
-        {{ set alternate = alternates.find((page) => page.lang === code) }}
-        <li>
-          {{ if alternate }}
-            <a
-              class="{{ code == lang ? 'is-selected' : '' }}"
-              rel="alternate"
-              hreflang="{{ code }}"
-              lang="{{ code }}"
-              href="{{ alternate.url }}"
-            >
-              {{ name }}
-            </a>
-          {{ else }}
-            <a
-              class="{{ code == lang ? 'is-selected' : '' }}"
-              hreflang="{{ code }}"
-              lang="{{ code }}"
-              href="{{ home }}"
-            >
-              {{ name }}
-            </a>
-          {{ /if }}
-        </li>
-      {{ /for }}
-    </ul>
-  </nav>
-</header>
+  <!-- Menú idiomas -->
+  <ul class="menu-languages">
+    {{ for code, {name, home} of menu.languages }}
+      {{ set alternate = alternates.find((page) => page.lang === code) }}
+      <li>
+        {{ if alternate }}
+          <a
+            class="{{ code == lang ? 'is-selected' : '' }}"
+            rel="alternate"
+            hreflang="{{ code }}"
+            lang="{{ code }}"
+            href="{{ alternate.url }}"
+          >
+            {{ name }}
+          </a>
+        {{ else }}
+          <a
+            class="{{ code == lang ? 'is-selected' : '' }}"
+            hreflang="{{ code }}"
+            lang="{{ code }}"
+            href="{{ home }}"
+          >
+            {{ name }}
+          </a>
+        {{ /if }}
+      </li>
+    {{ /for }}
+  </ul>
+</nav>

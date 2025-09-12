@@ -7,4 +7,5 @@
   grid-template-columns: repeat(auto-fit, minmax(min(var(--width), 100%), 1fr));
   column-gap: var(--column-gap);
   row-gap: var(--row-gap);
+  grid-column: content;
 }
