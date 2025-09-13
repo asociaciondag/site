@@ -12,3 +12,4 @@
 @import "styles/components/members.css" layer(components);
 @import "styles/components/filter.css" layer(components);
 @import "styles/components/link.css" layer(components);
+@import "styles/components/blocks.css" layer(components);

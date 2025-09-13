@@ -2,9 +2,13 @@
   display: grid;
   row-gap: var(--space-s);
   margin-bottom: 100px;
-  grid-column: center;
+  grid-column: content;
   align-content: start;
   max-width: 800px;
+
+  @media (width > 1200px) {
+    grid-column-start: center-start;
+  }
 }
 
 .header-title {

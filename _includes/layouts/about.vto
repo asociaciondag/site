@@ -2,23 +2,19 @@
 layout: layouts/base.vto
 ---
 
-{{# Artigo #}}
-<article>
-  <header>
-    <h1>{{ title }}</h1>
-  </header>
+<header class="header">
+  <h1 class="header-title">{{ title }}</h1>
+</header>
 
-  <div>
-    {{ for block of body }}
-      {{ await comp[block.type](block) }}
-    {{ /for }}
-  </div>
-</article>
+<div class="blocks">
+  {{ for block of body }}
+    {{ await comp[block.type](block) }}
+  {{ /for }}
+</div>
 
-{{# Menú #}}
 <nav>
   <ul>
-    {{ for p of search.pages(`menu=true lang=${lang}`, "order=asc") }}
+    {{ for p of search.pages(`type=about lang=${lang}`, "order=asc") }}
       <li {{ if p.url == url }} class="is-active"{{ /if }}>
         <a href="{{ p.url }}">{{ p.title }}</a>
       </li>
