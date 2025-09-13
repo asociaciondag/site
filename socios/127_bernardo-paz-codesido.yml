@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "http://www.pazcodesido.com"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/bernardo-paz-codesido"
-    type: link
-  - text: Instagram
-    url: "https://www.instagram.com/brnrd.pzcd/"
-    type: link
+  - url: "https://www.linkedin.com/in/bernardo-paz-codesido"
+    type: linkedin
+  - url: "https://www.instagram.com/brnrd.pzcd/"
+    type: instagram
 name: Bernardo Paz Codesido
 basename: bernardo-paz-codesido
 avatar: /img/avatars/bernardo-paz.jpg

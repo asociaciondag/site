@@ -7,15 +7,12 @@ links:
   - text: Web
     url: "https://www.hectorlorenzo.net/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/h%C3%A9ctor-lorenzo-caldas-232891192/"
+  - url: "https://www.linkedin.com/in/h%C3%A9ctor-lorenzo-caldas-232891192/"
     type: linkedin
-  - text: Instagram
-    url: "https://www.instagram.com/hectorloreenzo/?hl=es"
-    type: link
-  - text: Behance
-    url: "https://www.behance.net/hectorlore4207"
-    type: link
+  - url: "https://www.instagram.com/hectorloreenzo/?hl=es"
+    type: instagram
+  - url: "https://www.behance.net/hectorlore4207"
+    type: behance
 name: Héctor Lorenzo
 basename: hector-lorenzo
 avatar: /img/avatars/avatar-hector.jpg

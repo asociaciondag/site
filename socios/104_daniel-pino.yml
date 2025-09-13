@@ -4,11 +4,9 @@ contact: |-
 
   daniel@daniel-pino.com
 links:
-  - text: Instagram
-    url: "https://www.instagram.com/ratasconfaca/"
-    type: facebook
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/dani-el-pino/"
+  - url: "https://www.instagram.com/ratasconfaca/"
+    type: instagram
+  - url: "https://www.linkedin.com/in/dani-el-pino/"
     type: linkedin
 name: Daniel Pino
 basename: daniel-pino

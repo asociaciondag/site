@@ -13,11 +13,9 @@ links:
   - text: Innovación Ágil
     url: "http://www.innovacionagil.com/"
     type: link
-  - text: Facebook
-    url: "https://www.facebook.com/innovacionagil?ref=hl"
+  - url: "https://www.facebook.com/innovacionagil?ref=hl"
     type: facebook
-  - text: Linkedin
-    url: "https://es.linkedin.com/in/franmartinezinnovacionagil"
+  - url: "https://es.linkedin.com/in/franmartinezinnovacionagil"
     type: linkedin
 name: Fran Martínez
 basename: fran-martinez

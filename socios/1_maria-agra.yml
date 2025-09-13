@@ -4,8 +4,7 @@ links:
   - text: Web
     url: "http://maria-agra.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/mariaagra"
+  - url: "https://www.linkedin.com/in/mariaagra"
     type: linkedin
 name: María Agra
 basename: maria-agra

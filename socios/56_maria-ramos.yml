@@ -7,9 +7,8 @@ links:
   - text: NM type
     url: "http://www.nmtype.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/mariaramossilva/"
-    type: twitter
+  - url: "https://www.linkedin.com/in/mariaramossilva/"
+    type: linkedin
 name: María Ramos
 basename: maria-ramos
 avatar: /img/avatars/m-sastre-perfil.png

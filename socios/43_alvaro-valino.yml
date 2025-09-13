@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "http://www.alvarovalino.com/"
     type: link
-  - text: Tumblr
-    url: "http://alvarovalino.tumblr.com/"
-    type: link
-  - text: Twitter
-    url: "https://twitter.com/alvarovalino"
-    type: twitter
+  - url: "http://alvarovalino.tumblr.com/"
+    type: tumblr
+  - url: "https://twitter.com/alvarovalino"
+    type: x
 name: Álvaro Valiño
 basename: alvaro-valino
 avatar: /img/avatars/566aff54a2ba5-alvaro-valino.jpeg

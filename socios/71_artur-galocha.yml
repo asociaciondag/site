@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "http://arturgalocha.com"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/arturgalocha"
-    type: twitter
-  - text: Instagram
-    url: "https://www.instagram.com/arturgalocha"
-    type: link
+  - url: "https://twitter.com/arturgalocha"
+    type: x
+  - url: "https://www.instagram.com/arturgalocha"
+    type: instagram
 name: Artur Galocha
 basename: artur-galocha
 avatar: /img/avatars/artur-galocha.png

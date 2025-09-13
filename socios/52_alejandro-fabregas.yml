@@ -6,14 +6,11 @@ links:
   - text: Web
     url: "http://www.alejandrofabregas.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/ninhowey/"
-    type: link
-  - text: Behance
-    url: "https://www.behance.net/W_Alejandrofabregas"
-    type: link
-  - text: Linkedin
-    url: "https://es.linkedin.com/in/alejandrofabregas"
+  - url: "https://www.instagram.com/ninhowey/"
+    type: instagram
+  - url: "https://www.behance.net/W_Alejandrofabregas"
+    type: behance
+  - url: "https://es.linkedin.com/in/alejandrofabregas"
     type: linkedin
 name: Alejandro Fábregas
 basename: alejandro-fabregas

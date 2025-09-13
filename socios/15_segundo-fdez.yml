@@ -4,18 +4,15 @@ links:
   - text: sond3
     url: "http://sond3.com"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/sond3estudio/"
-    type: link
+  - url: "https://www.instagram.com/sond3estudio/"
+    type: instagram
   - text: segundofdez
     url: "http://www.segundofdez.com/"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/segundo_fdez"
-    type: link
-  - text: Github
-    url: "https://github.com/segundofdez"
-    type: link
+  - url: "https://twitter.com/segundo_fdez"
+    type: x
+  - url: "https://github.com/segundofdez"
+    type: github
 name: Segundo Fdez
 basename: segundo-fdez
 avatar: /img/avatars/554cfa899b042-segundo-fernandez.png

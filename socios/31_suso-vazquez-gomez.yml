@@ -4,12 +4,10 @@ links:
   - text: Desescribir
     url: "http://www.desescribir.com/"
     type: link
-  - text: Behance
-    url: "https://www.behance.net/desescribir"
-    type: link
-  - text: Twitter
-    url: "https://twitter.com/desescribir"
-    type: twitter
+  - url: "https://www.behance.net/desescribir"
+    type: behance
+  - url: "https://twitter.com/desescribir"
+    type: x
   - text: Fabulatorio
     url: "http://www.fabulatorio.org"
     type: link

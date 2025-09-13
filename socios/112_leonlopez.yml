@@ -5,9 +5,8 @@ contact: |-
   leonlog@coag.es
    616 453 737
 links:
-  - text: Instagram
-    url: "https://www.instagram.com/leon_lopez_de_la_osa/"
-    type: link
+  - url: "https://www.instagram.com/leon_lopez_de_la_osa/"
+    type: instagram
 name: León López de la Osa González
 basename: leonlopez
 avatar: /img/avatars/avatar.jpeg

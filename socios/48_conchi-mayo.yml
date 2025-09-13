@@ -10,15 +10,12 @@ links:
   - text: DARDO
     url: "http://dardo.gal/dardo/gl"
     type: link
-  - text: Facebook
-    url: "https://www.facebook.com/dardo.ds"
+  - url: "https://www.facebook.com/dardo.ds"
     type: facebook
-  - text: Twitter
-    url: "https://twitter.com/DARDOds"
-    type: twitter
-  - text: Instagram
-    url: "https://www.instagram.com/dardo.gal/"
-    type: link
+  - url: "https://twitter.com/DARDOds"
+    type: x
+  - url: "https://www.instagram.com/dardo.gal/"
+    type: instagram
 name: Conchi Mayo
 basename: conchi-mayo
 avatar: /img/avatars/56cddeb39ca7f-conchi-mayo.jpg

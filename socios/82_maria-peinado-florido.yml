@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "https://mariapeinado.com"
     type: link
-  - text: Behance
-    url: "https://www.behance.net/BegoPastoriza"
-    type: link
-  - text: Instagram
-    url: "https://www.instagram.com/mariapeinadoflorido/"
-    type: link
+  - url: "https://www.behance.net/BegoPastoriza"
+    type: behance
+  - url: "https://www.instagram.com/mariapeinadoflorido/"
+    type: instagram
 name: María Peinado
 basename: maria-peinado-florido
 avatar: /img/avatars/bio-maria-peinado.jpg

@@ -4,9 +4,8 @@ links:
   - text: Grupo Revisión
     url: "http://gruporevision.net/"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/BarroDesign"
-    type: twitter
+  - url: "https://twitter.com/BarroDesign"
+    type: x
 name: Pepe Barro
 basename: pepe-barro
 avatar: /img/avatars/554cf137e5271-pepe-barro.jpg

@@ -10,9 +10,8 @@ links:
   - text: Windsock
     url: "https://windsock.es/"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/windsock"
-    type: twitter
+  - url: "https://twitter.com/windsock"
+    type: x
 name: "Simón Windsock "
 basename: simon-windsock
 avatar: /img/avatars/554d0d3f9b5a8-simon-windsock.jpg

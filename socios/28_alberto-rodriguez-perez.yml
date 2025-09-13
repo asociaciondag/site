@@ -7,8 +7,7 @@ links:
   - text: Web
     url: "http://www.arrp.es"
     type: link
-  - text: Facebook
-    url: "https://www.facebook.com/albertorrp"
+  - url: "https://www.facebook.com/albertorrp"
     type: facebook
 name: Alberto Rodriguez Pérez
 basename: alberto-rodriguez-perez

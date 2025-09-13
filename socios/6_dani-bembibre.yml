@@ -12,8 +12,7 @@ links:
   - text: Costa
     url: "http://costa.io"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/danibembibre"
+  - url: "https://www.linkedin.com/in/danibembibre"
     type: linkedin
 name: Dani Bembibre
 basename: dani-bembibre

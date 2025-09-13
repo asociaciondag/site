@@ -7,15 +7,12 @@ links:
   - text: Web
     url: "https://www.porlasramasestudio.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/ver%C3%B3nica-vieira-gonz%C3%A1lez-100678213/"
+  - url: "https://www.linkedin.com/in/ver%C3%B3nica-vieira-gonz%C3%A1lez-100678213/"
     type: linkedin
-  - text: Facebook
-    url: "https://www.facebook.com/veronicavieiragonzalez"
+  - url: "https://www.facebook.com/veronicavieiragonzalez"
     type: facebook
-  - text: Instagram
-    url: "https://www.instagram.com/porlasramas_estudio/?hl=es"
-    type: link
+  - url: "https://www.instagram.com/porlasramas_estudio/?hl=es"
+    type: instagram
 name: Verónica Vieira González
 basename: veronica-vieira-gonzalez
 avatar: /img/avatars/veronicavieira.jpeg

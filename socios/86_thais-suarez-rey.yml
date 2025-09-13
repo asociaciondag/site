@@ -7,12 +7,10 @@ links:
   - text: Web
     url: "https://sismicacreativa.com/"
     type: link
-  - text: Linkedin
-    url: "https://es.linkedin.com/in/thaissr"
+  - url: "https://es.linkedin.com/in/thaissr"
     type: linkedin
-  - text: Instagram
-    url: "http://www.instagram.com/sismicacreativa"
-    type: link
+  - url: "http://www.instagram.com/sismicacreativa"
+    type: instagram
 name: Thais Suárez Rey
 basename: thais-suarez-rey
 avatar: /img/avatars/sismica-thais-suarez-avatar-ydray-0x0a3003.jpg

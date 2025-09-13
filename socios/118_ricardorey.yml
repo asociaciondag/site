@@ -4,15 +4,12 @@ links:
   - text: Web
     url: "https://teteerck.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/teteerck/"
-    type: link
-  - text: Threads
-    url: "https://www.threads.net/@teteerck"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/teteerck/"
-    type: link
+  - url: "https://www.instagram.com/teteerck/"
+    type: instagram
+  - url: "https://www.threads.net/@teteerck"
+    type: threads
+  - url: "https://www.linkedin.com/in/teteerck/"
+    type: linkedin
   - text: Read.CV
     url: "https://read.cv/teteerck"
     type: link

@@ -13,15 +13,12 @@ links:
   - text: Desoños
     url: "http://www.desonhos.gal/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/company/deso-os"
+  - url: "https://www.linkedin.com/company/deso-os"
     type: linkedin
-  - text: "Facebook "
-    url: "https://www.facebook.com/desonhos/"
+  - url: "https://www.facebook.com/desonhos/"
     type: facebook
-  - text: "Twitter "
-    url: "https://twitter.com/_desonhos"
-    type: twitter
+  - url: "https://x.com/_desonhos"
+    type: x
 name: Susana González Ante
 basename: susana-gonzalez-ante
 avatar: /img/avatars/56fb8d566b14e-susana-gonzalez-ante.jpg

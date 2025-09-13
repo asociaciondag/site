@@ -10,14 +10,11 @@ links:
   - text: Web
     url: "http://monroyproyectos.blogspot.com/p/planetario.html"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/lago-monroy-b0b8aa184/?originalSubdomain=es"
+  - url: "https://www.linkedin.com/in/lago-monroy-b0b8aa184/?originalSubdomain=es"
     type: linkedin
-  - text: Instagram
-    url: "https://www.instagram.com/lagomonroytaller/"
-    type: facebook
-  - text: Facebook
-    url: "https://www.facebook.com/monroyproyectos.iluminaciondisenorestauracion"
+  - url: "https://www.instagram.com/lagomonroytaller/"
+    type: instagram
+  - url: "https://www.facebook.com/monroyproyectos.iluminaciondisenorestauracion"
     type: facebook
 name: Luis Lago
 basename: luis-lago

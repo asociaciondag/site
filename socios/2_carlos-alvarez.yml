@@ -13,15 +13,12 @@ links:
   - text: Desoños
     url: "http://www.desonhos.net/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/company/deso-os"
+  - url: "https://www.linkedin.com/company/deso-os"
     type: linkedin
-  - text: Facebook
-    url: "https://www.facebook.com/desonhos"
+  - url: "https://www.facebook.com/desonhos"
     type: facebook
-  - text: Twitter
-    url: "https://twitter.com/_desonhos"
-    type: twitter
+  - url: "https://twitter.com/_desonhos"
+    type: x
 name: Carlos Álvarez
 basename: carlos-alvarez
 avatar: /img/avatars/5544c790259e9-carlos-alvarez.jpg

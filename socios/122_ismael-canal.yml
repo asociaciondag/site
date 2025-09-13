@@ -4,9 +4,8 @@ links:
   - text: Web
     url: "https://ismael.fyi/"
     type: link
-  - text: X
-    url: "https://x.com/basiclines"
-    type: link
+  - url: "https://x.com/basiclines"
+    type: x
 name: Ismael Canal
 basename: ismael-canal
 avatar: /img/avatars/ismael-canal.jpg

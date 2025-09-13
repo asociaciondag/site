@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "http://www.patricianunez.es/"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/patri_design?lang=es"
-    type: twitter
-  - text: Instagram
-    url: "https://www.instagram.com/patinunez_design/"
-    type: link
+  - url: "https://twitter.com/patri_design?lang=es"
+    type: x
+  - url: "https://www.instagram.com/patinunez_design/"
+    type: instagram
 name: Patricia Núñez
 basename: patricia-nunez
 avatar: /img/avatars/imagen-perfil.jpg

@@ -11,20 +11,15 @@ links:
   - text: Web
     url: "http://domohomo.es/"
     type: link
-  - text: Facebook
-    url: "https://www.facebook.com/Domohomo-arquitectos-336020066470116/"
+  - url: "https://www.facebook.com/Domohomo-arquitectos-336020066470116/"
     type: facebook
-  - text: Twitter
-    url: "https://mobile.twitter.com/domohomo_design"
-    type: twitter
-  - text: Instagram
-    url: "https://www.instagram.com/_domohomo_/"
-    type: link
-  - text: Pinterest
-    url: "https://es.pinterest.com/domohomo/"
-    type: link
-  - text: Linkedin
-    url: >-
+  - url: "https://mobile.twitter.com/domohomo_design"
+    type: x
+  - url: "https://www.instagram.com/_domohomo_/"
+    type: instagram
+  - url: "https://es.pinterest.com/domohomo/"
+    type: pinterest
+  - url: >-
       https://www.linkedin.com/in/xulio-turnes-vieito-5b67b954?trk=hp-identity-name
     type: linkedin
 name: Xulio Turnes

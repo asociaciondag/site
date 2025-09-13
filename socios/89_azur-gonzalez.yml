@@ -7,12 +7,10 @@ links:
   - text: Web
     url: "https://www.azurgonzalez.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/azur-gonzalez/"
+  - url: "https://www.linkedin.com/in/azur-gonzalez/"
     type: linkedin
-  - text: Twitter
-    url: "https://twitter.com/azurgonzalez"
-    type: twitter
+  - url: "https://twitter.com/azurgonzalez"
+    type: x
 name: Azur González
 basename: azur-gonzalez
 avatar: /img/avatars/avatar-azur.jpg

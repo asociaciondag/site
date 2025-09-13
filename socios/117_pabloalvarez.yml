@@ -7,13 +7,11 @@ links:
   - text: Web
     url: "https://casapransa.com"
     type: link
-  - text: Linkedin
-    url: "https://es.linkedin.com/in/pablo-alvarez-estevez-899a9315"
-    type: link
-  - text: Spotify
-    url: >-
+  - url: "https://es.linkedin.com/in/pablo-alvarez-estevez-899a9315"
+    type: linkedin
+  - url: >-
       https://open.spotify.com/user/mallado?si=2b2edad34ea24626&nd=1&dlsi=81f4341aade6497d
-    type: link
+    type: spotify
 name: Pablo Álvarez Estévez
 basename: pabloalvarez
 avatar: /img/avatars/avatar-pablo-alvarez.jpg

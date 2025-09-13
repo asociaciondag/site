@@ -13,14 +13,11 @@ links:
   - text: Web
     url: "https://www.lopezlab.com/en/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/lopezlab.design/"
-    type: facebook
-  - text: Twitter
-    url: "https://twitter.com/lopezlab1"
-    type: twitter
-  - text: Facebook
-    url: "https://www.facebook.com/lopezlab1"
+  - url: "https://www.instagram.com/lopezlab.design/"
+    type: instagram
+  - url: "https://twitter.com/lopezlab1"
+    type: x
+  - url: "https://www.facebook.com/lopezlab1"
     type: facebook
 name: Mariola López
 basename: mariola-lopez

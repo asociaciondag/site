@@ -4,9 +4,8 @@ links:
   - text: Web
     url: "https://www.iagobarreiro.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/iacus/"
-    type: link
+  - url: "https://www.instagram.com/iacus/"
+    type: instagram
 name: Iago Barreiro
 basename: iago-barreiro
 avatar: /img/avatars/iago-barreiro.jpg

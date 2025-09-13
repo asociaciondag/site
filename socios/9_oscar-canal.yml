@@ -6,9 +6,8 @@ contact: |-
 
   <oscar.canal@crtvg.es>
 links:
-  - text: Twitter
-    url: "https://twitter.com/fisplin"
-    type: twitter
+  - url: "https://twitter.com/fisplin"
+    type: x
 name: Óscar Canal
 basename: oscar-canal
 avatar: /img/avatars/554cf623c09aa-oscar-canal.jpeg

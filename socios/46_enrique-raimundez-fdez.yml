@@ -4,14 +4,11 @@ links:
   - text: Web
     url: "http://www.infinitocromia.com/"
     type: link
-  - text: Behance
-    url: "https://www.behance.net/infinitocromia"
-    type: link
-  - text: Twitter
-    url: "https://twitter.com/Infinitocromia"
-    type: twitter
-  - text: Facebook
-    url: "https://www.facebook.com/infinitocromia"
+  - url: "https://www.behance.net/infinitocromia"
+    type: behance
+  - url: "https://twitter.com/Infinitocromia"
+    type: x
+  - url: "https://www.facebook.com/infinitocromia"
     type: facebook
 name: Enrique Raimúndez Fdez.
 basename: enrique-raimundez-fdez

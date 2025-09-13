@@ -10,11 +10,9 @@ links:
   - text: Acerca de
     url: "https://about.me/manueldelrioregos"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/manuel2R"
-    type: twitter
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/manueldelrioregos"
+  - url: "https://twitter.com/manuel2R"
+    type: x
+  - url: "https://www.linkedin.com/in/manueldelrioregos"
     type: linkedin
 name: Manuel del Río Regos
 basename: manuel-del-rio-regos

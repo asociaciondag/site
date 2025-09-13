@@ -3,12 +3,10 @@ contact: |-
   T. 670 279 805
    <varelacaterina@gmail.com>
 links:
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/caterina-varela-091373b0/"
-    type: link
-  - text: Instagram
-    url: "https://www.instagram.com/caterinavarelagarea/"
-    type: link
+  - url: "https://www.linkedin.com/in/caterina-varela-091373b0/"
+    type: linkedin
+  - url: "https://www.instagram.com/caterinavarelagarea/"
+    type: instagram
 name: Caterina Varela
 basename: caterina-varela
 avatar: /img/avatars/whatsapp-image-2024-01-25-at-19-20-50.jpeg

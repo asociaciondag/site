@@ -7,6 +7,7 @@ import date from "lume/plugins/date.ts";
 import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import basePath from "lume/plugins/base_path.ts";
 import favicon from "lume/plugins/favicon.ts";
+import icons from "lume/plugins/icons.ts";
 import gl from "npm:date-fns@4.1.0/locale/gl";
 import es from "npm:date-fns@4.1.0/locale/es";
 
@@ -20,6 +21,7 @@ site.add("fonts")
   }))
   .add("style.css")
   .use(favicon())
+  .use(icons())
   .use(lightningcss())
   .use(slugifyUrls())
   .use(inline())

@@ -7,11 +7,9 @@ links:
   - text: Web
     url: "https://raquelboo.com/"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/raquelboo?lang=es"
-    type: twitter
-  - text: Linkedin
-    url: "https://www.linkedin.com/pub/raquel-boo-anderson/22/238/809"
+  - url: "https://twitter.com/raquelboo?lang=es"
+    type: x
+  - url: "https://www.linkedin.com/pub/raquel-boo-anderson/22/238/809"
     type: linkedin
 name: Raquel Boo Anderson
 basename: raquel-boo

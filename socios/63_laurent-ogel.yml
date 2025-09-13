@@ -7,8 +7,7 @@ links:
   - text: A02Velas
     url: "http://www.a-02velas.eu"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/laurentogel/"
+  - url: "https://www.linkedin.com/in/laurentogel/"
     type: linkedin
 name: Laurent Ogel
 basename: laurent-ogel

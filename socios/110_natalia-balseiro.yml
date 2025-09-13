@@ -4,15 +4,12 @@ contact: |-
 
   <natalia.balseiro@gmail.com>
 links:
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/natalia-balseiro-rodriguez-9b5014222/"
+  - url: "https://www.linkedin.com/in/natalia-balseiro-rodriguez-9b5014222/"
     type: linkedin
-  - text: Instagram
-    url: "https://www.instagram.com/balseironatalia/"
-    type: facebook
-  - text: Twitter
-    url: "https://twitter.com/nataliabalseiro"
-    type: twitter
+  - url: "https://www.instagram.com/balseironatalia/"
+    type: instagram
+  - url: "https://twitter.com/nataliabalseiro"
+    type: x
 name: Natalia Balseiro
 basename: natalia-balseiro
 avatar: /img/avatars/230223-natalia-0162.jpg

@@ -9,11 +9,9 @@ links:
   - text: Piedrapapeltijera
     url: "https://www.piedrapapeltijera.com"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/xosegarcia"
-    type: twitter
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/xosegarcia"
+  - url: "https://twitter.com/xosegarcia"
+    type: x
+  - url: "https://www.linkedin.com/in/xosegarcia"
     type: linkedin
 name: Xosé García
 basename: xose-garcia

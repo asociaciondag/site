@@ -7,11 +7,9 @@ links:
   - text: Web
     url: "http://www.igrafica.es/"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/irepolvera"
-    type: twitter
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/irene-garc%C3%ADa-42528820/"
+  - url: "https://twitter.com/irepolvera"
+    type: x
+  - url: "https://www.linkedin.com/in/irene-garc%C3%ADa-42528820/"
     type: linkedin
 name: Irene García Reyes
 basename: irene-garcia-reyes

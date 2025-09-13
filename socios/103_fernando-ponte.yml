@@ -7,11 +7,9 @@ links:
   - text: Web
     url: "http://abisalstudio.com"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/abisal.studio/"
-    type: facebook
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/fplens/?originalSubdomain=es"
+  - url: "https://www.instagram.com/abisal.studio/"
+    type: instagram
+  - url: "https://www.linkedin.com/in/fplens/?originalSubdomain=es"
     type: linkedin
 name: Fernando Ponte
 basename: fernando-ponte

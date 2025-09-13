@@ -1,0 +1,26 @@
+.link {
+  --text: var(--color-white);
+  --background: var(--color-black);
+
+  height: var(--size-4);
+  min-width: var(--size-4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text);
+  background-color: var(--background);
+  font-size: var(--size-0);
+  text-decoration: none;
+
+  &:not(:has(svg)) {
+    padding-inline: 0.75em;
+  }
+
+  svg {
+    flex: 0 0 auto;
+    width: var(--size-1);
+    height: auto;
+    aspect-ratio: 1;
+    fill: currentColor;
+  }
+}

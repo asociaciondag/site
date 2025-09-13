@@ -9,14 +9,11 @@ links:
   - text: Cucuducho
     url: "http://cucuducho.com/cms/gl/"
     type: link
-  - text: Facebook
-    url: "https://www.facebook.com/cucuducho"
+  - url: "https://www.facebook.com/cucuducho"
     type: facebook
-  - text: Instagram
-    url: "https://www.instagram.com/cucuducho/"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/lois-guillan-santamaria-2a135071"
+  - url: "https://www.instagram.com/cucuducho/"
+    type: instagram
+  - url: "https://www.linkedin.com/in/lois-guillan-santamaria-2a135071"
     type: linkedin
 name: Lois Guillán
 basename: lois-guillan

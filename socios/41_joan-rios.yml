@@ -4,9 +4,8 @@ links:
   - text: Páxina web
     url: "http://joanrios.com/"
     type: link
-  - text: Behance
-    url: "https://www.behance.net/joanrios"
-    type: link
+  - url: "https://www.behance.net/joanrios"
+    type: behance
 name: Joan Ríos
 basename: joan-rios
 avatar: /img/avatars/561ce203b252e-joan-rios-dominguez.png

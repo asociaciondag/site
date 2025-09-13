@@ -4,11 +4,9 @@ links:
   - text: Web
     url: "https://idoiacuesta.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/idoia_cuesta/"
-    type: facebook
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/idoia-cuesta-68b0bb32/?originalSubdomain=es"
+  - url: "https://www.instagram.com/idoia_cuesta/"
+    type: instagram
+  - url: "https://www.linkedin.com/in/idoia-cuesta-68b0bb32/?originalSubdomain=es"
     type: linkedin
 name: Idoia Cuesta
 basename: idoia-cuesta

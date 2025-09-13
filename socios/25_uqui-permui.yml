@@ -10,14 +10,11 @@ links:
   - text: uqui
     url: "http://www.uqui.net/"
     type: link
-  - text: Behance
-    url: "https://www.behance.net/uquipermui"
-    type: link
-  - text: Twitter
-    url: "https://twitter.com/uquipermui"
-    type: twitter
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/uquipermui"
+  - url: "https://www.behance.net/uquipermui"
+    type: behance
+  - url: "https://twitter.com/uquipermui"
+    type: x
+  - url: "https://www.linkedin.com/in/uquipermui"
     type: linkedin
 name: Uqui Permui
 basename: uqui-permui

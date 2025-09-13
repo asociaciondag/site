@@ -10,9 +10,8 @@ links:
   - text: cenlitros
     url: "https://www.cenlitros.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/cenlitros/"
-    type: facebook
+  - url: "https://www.instagram.com/cenlitros/"
+    type: instagram
 name: Xabier Rilo
 basename: xabier-rilo
 avatar: /img/avatars/554d075825cba-xabier-rilo.jpeg

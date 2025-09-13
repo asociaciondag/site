@@ -7,15 +7,12 @@ links:
   - text: Web
     url: "http://www.lauraalonso.gal/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/lauraalonsocarracedo"
+  - url: "https://www.linkedin.com/in/lauraalonsocarracedo"
     type: linkedin
-  - text: Twitter
-    url: "https://twitter.com/lauraalonsoc"
-    type: twitter
-  - text: Instagram
-    url: "https://www.instagram.com/lauraalonso.diseno/"
-    type: link
+  - url: "https://twitter.com/lauraalonsoc"
+    type: x
+  - url: "https://www.instagram.com/lauraalonso.diseno/"
+    type: instagram
 name: Laura Alonso Carracedo
 basename: laura-alonso-carracedo
 avatar: /img/avatars/dsc-9410.jpg

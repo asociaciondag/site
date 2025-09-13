@@ -11,8 +11,7 @@ links:
   - text: Costa
     url: "http://costa.io"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/davidsilvosa"
+  - url: "https://www.linkedin.com/in/davidsilvosa"
     type: linkedin
 name: David Silvosa
 basename: david-silvosa

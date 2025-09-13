@@ -7,18 +7,14 @@ links:
   - text: ADOS Proyectos
     url: "http://adosproyectos.es"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/adosproyectos/"
-    type: link
-  - text: Facebook
-    url: "https://www.facebook.com/Ados-Proyectos-103281636723601/"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/company/ados-proyectos"
+  - url: "https://www.instagram.com/adosproyectos/"
+    type: instagram
+  - url: "https://www.facebook.com/Ados-Proyectos-103281636723601/"
+    type: facebook
+  - url: "https://www.linkedin.com/company/ados-proyectos"
     type: linkedin
-  - text: Pinterest
-    url: "https://www.pinterest.com/adosproyectos/"
-    type: link
+  - url: "https://www.pinterest.com/adosproyectos/"
+    type: pinterest
 name: Alejandro Araujo
 basename: alejandro-araujo
 avatar: /img/avatars/aaraujo.jpg

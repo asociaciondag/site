@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "https://agarimoestudio.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/monicalemosgiraldez"
+  - url: "https://www.linkedin.com/in/monicalemosgiraldez"
     type: linkedin
-  - text: Youtube
-    url: "https://youtube.com/@AgarimoEstudio"
-    type: facebook
+  - url: "https://youtube.com/@AgarimoEstudio"
+    type: youtube
 name: Mónica Lemos
 basename: monica-lemos
 avatar: /img/avatars/mo-nica-lemos-gira-ldez-1.png

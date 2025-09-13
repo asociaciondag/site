@@ -8,12 +8,10 @@ links:
   - text: Roberto Núñez Studio
     url: "https://robertonunez.com/"
     type: link
-  - text: Facebook
-    url: "https://www.facebook.com/robertonunezbrandstudio/"
+  - url: "https://www.facebook.com/robertonunezbrandstudio/"
     type: facebook
-  - text: Instagram
-    url: "https://www.instagram.com/robertonunezstudio/"
-    type: link
+  - url: "https://www.instagram.com/robertonunezstudio/"
+    type: instagram
 name: Roberto Núñez
 basename: roberto-nunez
 avatar: /img/avatars/roberto-nun-ez-perfil-dag.jpg

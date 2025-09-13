@@ -1,25 +1,36 @@
-<article>
+<article class="portfolio">
   <a href="{{ portfolio.url }}">
-    <header>
+    <header class="portfolio-header">
       <h1>{{ portfolio.title }}</h1>
+
+      {{ if portfolio.tags?.length }}
+        <ul>
+          {{ for tag of portfolio.tags }}
+            <li>{{ tag }}</li>
+          {{ /for }}
+        </ul>
+      {{ /if }}
+
+      {{ if portfolio.info }}
+        <dl>
+          {{ for item of portfolio.info }}
+            <dt>{{ item.name }}</dt>
+            <dd>{{ item.value }}</dd>
+          {{ /for }}
+        </dl>
+      {{ /if }}
 
       <ul class="portfolio-authors">
         {{ for member of portfolio.members }}
           <li class="member-avatar">
-            <img
-              src="{{ member.avatar }}"
-              width="48"
-              height="48"
-              alt="{{ member.name }}"
-            >
             <span>{{ member.name }}</span>
           </li>
         {{ /for }}
       </ul>
     </header>
 
-    <figure>
-      <img src="{{ portfolio.cover }}" width="420" height="200" alt="">
+    <figure class="portfolio-image">
+      <img src="{{ portfolio.cover }}" width="420" alt="">
     </figure>
   </a>
 </article>

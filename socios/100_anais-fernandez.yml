@@ -4,11 +4,9 @@ links:
   - text: Web
     url: "https://www.anaisfernandezvillar.com/"
     type: link
-  - text: Behance
-    url: "https://www.behance.net/anaisfernandezvillar"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/ana%C3%ADs-fern%C3%A1ndez-774872158/"
+  - url: "https://www.behance.net/anaisfernandezvillar"
+    type: behance
+  - url: "https://www.linkedin.com/in/ana%C3%ADs-fern%C3%A1ndez-774872158/"
     type: linkedin
 name: Anaís Fernández
 basename: anais-fernandez

@@ -10,12 +10,10 @@ links:
   - text: Unconventional London
     url: "http://unconventionallondon.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/nuria-carballo-88983214/"
+  - url: "https://www.linkedin.com/in/nuria-carballo-88983214/"
     type: linkedin
-  - text: Instagram
-    url: "https://www.instagram.com/nuria_carballo/"
-    type: link
+  - url: "https://www.instagram.com/nuria_carballo/"
+    type: instagram
 name: Nuria Carballo
 basename: nuria-carballo
 avatar: /img/avatars/1516541524300.jpg

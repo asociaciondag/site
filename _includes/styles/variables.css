@@ -18,7 +18,7 @@
 
   /* Font family */
   --font-family: Isaac, system-ui, sans-serif;
-  --font-display: IsaacDisplay, var(--font-normal);
+  --font-display: IsaacDisplay, var(--font-family);
 
   /* Font weights */
   --font-normal: 400;

@@ -4,11 +4,9 @@ contact: |-
 
   <hola@evaprado.com>
 links:
-  - text: Behance
-    url: "https://www.behance.net/evapradop8af3"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/evaprado/"
+  - url: "https://www.behance.net/evapradop8af3"
+    type: behance
+  - url: "https://www.linkedin.com/in/evaprado/"
     type: linkedin
 name: Eva Prado
 basename: eva-prado

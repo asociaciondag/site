@@ -7,12 +7,10 @@ links:
   - text: Web
     url: "http://novagarda.gal"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/novagarda/"
-    type: link
-  - text: Facebook
-    url: "https://www.facebook.com/novagarda/"
-    type: link
+  - url: "https://www.instagram.com/novagarda/"
+    type: instagram
+  - url: "https://www.facebook.com/novagarda/"
+    type: facebook
 name: Al Carballido
 basename: alberto-carballido
 avatar: /img/avatars/1718708581511.jpg

@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "https://oliferrando.es"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/oliferrando"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/oliferrando/"
-    type: link
+  - url: "https://twitter.com/oliferrando"
+    type: x
+  - url: "https://www.linkedin.com/in/oliferrando/"
+    type: linkedin
 name: Olaia Ferrando
 basename: olaia-ferrando
 avatar: /img/avatars/olaiaferrando.png

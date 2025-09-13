@@ -7,12 +7,10 @@ links:
   - text: Web
     url: "https://taniavillaga.es/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/tania-villamarin/"
+  - url: "https://www.linkedin.com/in/tania-villamarin/"
     type: linkedin
-  - text: Instagram
-    url: "https://www.instagram.com/villaga.estudio/?hl=es"
-    type: link
+  - url: "https://www.instagram.com/villaga.estudio/?hl=es"
+    type: instagram
 name: Tania Villamarín
 basename: tania-villamarin
 avatar: /img/avatars/villaga-logo.jpg

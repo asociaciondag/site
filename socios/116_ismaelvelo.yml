@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "https://www.ismaelvelo.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/ismael.velo/"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/ismaelvelofeijoo/"
-    type: link
+  - url: "https://www.instagram.com/ismael.velo/"
+    type: instagram
+  - url: "https://www.linkedin.com/in/ismaelvelofeijoo/"
+    type: linkedin
 name: Ismael Velo
 basename: ismaelvelo
 avatar: /img/avatars/dsc-1210-square.jpg

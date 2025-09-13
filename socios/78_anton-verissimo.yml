@@ -11,14 +11,11 @@ links:
   - text: VRANDSS
     url: "http://www.vrandss.com"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/vrandss_/"
-    type: link
-  - text: Facebook
-    url: "https://www.facebook.com/vrandss/"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/antonverissimo/"
+  - url: "https://www.instagram.com/vrandss_/"
+    type: instagram
+  - url: "https://www.facebook.com/vrandss/"
+    type: facebook
+  - url: "https://www.linkedin.com/in/antonverissimo/"
     type: linkedin
 name: Antón Veríssimo
 basename: anton-verissimo

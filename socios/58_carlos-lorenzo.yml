@@ -10,8 +10,7 @@ links:
   - text: elrojo
     url: "https://www.carloselrojo.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/carloselrojo/"
+  - url: "https://www.linkedin.com/in/carloselrojo/"
     type: linkedin
 name: Carlos el Rojo
 basename: carlos-lorenzo

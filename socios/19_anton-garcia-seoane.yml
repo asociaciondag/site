@@ -4,14 +4,11 @@ links:
   - text: ROKdesign
     url: "http://www.rokdesign.es/"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/rokdesignbcn"
-    type: twitter
-  - text: Facebook
-    url: "https://www.facebook.com/rokdesignbcn/"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/pub/ant%C3%B3n-garc%C3%ADa-seoane/53/b73/a65"
+  - url: "https://twitter.com/rokdesignbcn"
+    type: x
+  - url: "https://www.facebook.com/rokdesignbcn/"
+    type: facebook
+  - url: "https://www.linkedin.com/pub/ant%C3%B3n-garc%C3%ADa-seoane/53/b73/a65"
     type: linkedin
 name: Antón García Seoane
 basename: anton-garcia-seoane

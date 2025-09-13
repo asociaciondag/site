@@ -7,15 +7,12 @@ links:
   - text: Web
     url: "https://zoraidasobrin.com/"
     type: link
-  - text: LinkedIn
-    url: "https://www.linkedin.com/company/zoraidasobrinartistagrafica/"
+  - url: "https://www.linkedin.com/company/zoraidasobrinartistagrafica/"
     type: linkedin
-  - text: Instagram
-    url: "https://www.instagram.com/zoraida_sobrin/"
-    type: facebook
-  - text: Behance
-    url: "https://www.behance.net/zoraida_sobrin"
-    type: facebook
+  - url: "https://www.instagram.com/zoraida_sobrin/"
+    type: instagram
+  - url: "https://www.behance.net/zoraida_sobrin"
+    type: behance
 name: Zoraida Sobrín
 basename: zoraida-sobrin
 avatar: /img/avatars/zoraidasobrin.jpg

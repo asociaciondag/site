@@ -7,12 +7,10 @@ links:
   - text: Artstation
     url: "https://www.artstation.com/javi_marmon"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/j._marmon"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/javier-marmon"
-    type: link
+  - url: "https://www.instagram.com/j._marmon"
+    type: instagram
+  - url: "https://www.linkedin.com/in/javier-marmon"
+    type: linkedin
 name: Javier Martínez Monzoncillo
 basename: javier-martinez-monzoncillo
 avatar: /img/avatars/avatarperfil-javiermarmon.PNG

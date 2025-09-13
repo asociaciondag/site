@@ -4,15 +4,13 @@ links:
   - text: Sond3
     url: "https://www.sond3.com"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/sond3estudio/"
-    type: link
+  - url: "https://www.instagram.com/sond3estudio/"
+    type: instagram
   - text: nataliacrecente
     url: "http://nataliacrecente.com/"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/ncrecente"
-    type: twitter
+  - url: "https://twitter.com/ncrecente"
+    type: x
 name: Natalia Crecente García
 basename: natalia-crecente-garcia
 avatar: /img/avatars/554cf73aafb81-natalia-crecente-garcia.jpeg

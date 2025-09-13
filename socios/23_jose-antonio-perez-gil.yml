@@ -11,9 +11,8 @@ links:
   - text: Era Comunicación
     url: "http://www.eracomunicacion.com/"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/peregil23"
-    type: twitter
+  - url: "https://twitter.com/peregil23"
+    type: x
 name: "José Antonio Pérez Gil "
 basename: jose-antonio-perez-gil
 avatar: /img/avatars/jose-antonio-perez-gil-foto.jpg

@@ -4,15 +4,12 @@ links:
   - text: Web
     url: "https://javiferrin.com/work"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/javiferrin/"
+  - url: "https://www.linkedin.com/in/javiferrin/"
     type: linkedin
-  - text: Facebook
-    url: "https://www.facebook.com/javiferrinstudio"
+  - url: "https://www.facebook.com/javiferrinstudio"
     type: facebook
-  - text: Instagram
-    url: "https://www.instagram.com/javiferrinstudio/"
-    type: link
+  - url: "https://www.instagram.com/javiferrinstudio/"
+    type: instagram
 name: Javier Ferrín Rey
 basename: javier-ferrin
 avatar: /img/avatars/javi-ferrin.jpg

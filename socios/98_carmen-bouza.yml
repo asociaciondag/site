@@ -4,14 +4,11 @@ contact: |-
 
   <bouza.carmen@gmail.com>
 links:
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/carmenbouza/?originalSubdomain=es"
+  - url: "https://www.linkedin.com/in/carmenbouza/?originalSubdomain=es"
     type: linkedin
-  - text: Instagram
-    url: "https://www.instagram.com/dosisddiseno/"
-    type: facebook
-  - text: Medium
-    url: "https://medium.com/@bouza.carmen"
+  - url: "https://www.instagram.com/dosisddiseno/"
+    type: instagram
+  - url: "https://medium.com/@bouza.carmen"
     type: linkedin
 name: Carmen Bouza
 basename: carmen-bouza

@@ -4,9 +4,8 @@ links:
   - text: Web
     url: "https://www.mercedesbarazal.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/mercedes_barazal/"
-    type: link
+  - url: "https://www.instagram.com/mercedes_barazal/"
+    type: instagram
 name: Mercedes Barazal
 basename: mercedes-barazal
 avatar: /img/avatars/mercedes-barazal.jpg

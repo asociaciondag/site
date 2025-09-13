@@ -9,9 +9,8 @@ links:
   - text: Web
     url: "http://bealema.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/bea.lema/"
-    type: link
+  - url: "https://www.instagram.com/bea.lema/"
+    type: instagram
 name: Bea Lema
 basename: bea-lema
 avatar: /img/avatars/587f97abb1320-bea-lema.jpg

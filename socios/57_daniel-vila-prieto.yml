@@ -13,21 +13,16 @@ links:
   - text: "Web "
     url: "http://988.gal/"
     type: link
-  - text: Twitter
-    url: "https://twitter.com/988design"
-    type: twitter
-  - text: Facebook
-    url: "https://www.facebook.com/Estudio988/"
+  - url: "https://twitter.com/988design"
+    type: x
+  - url: "https://www.facebook.com/Estudio988/"
     type: facebook
-  - text: Instagram
-    url: "https://www.instagram.com/988design/"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/company/988design"
+  - url: "https://www.instagram.com/988design/"
+    type: instagram
+  - url: "https://www.linkedin.com/company/988design"
     type: linkedin
-  - text: Behance
-    url: "https://www.behance.net/988Design"
-    type: link
+  - url: "https://www.behance.net/988Design"
+    type: behance
 name: Daniel Vila Prieto
 basename: daniel-vila-prieto
 avatar: /img/avatars/thumbnailblack-hinted.jpg

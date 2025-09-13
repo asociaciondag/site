@@ -1,9 +1,8 @@
 id: 128
 contact: <info@estudiognomo.com>
 links:
-  - text: Instagram
-    url: "https://www.instagram.com/estudiognomo"
-    type: link
+  - url: "https://www.instagram.com/estudiognomo"
+    type: instagram
   - text: Web
     url: "https://estudiognomo.com/"
     type: link

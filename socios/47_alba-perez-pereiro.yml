@@ -1,9 +1,8 @@
 id: 47
 contact: "E-mail: albaperezpereiro@gmail.com"
 links:
-  - text: Behance
-    url: "https://www.behance.net/ratonaperez"
-    type: link
+  - url: "https://www.behance.net/ratonaperez"
+    type: behance
 name: Alba Pérez Pereiro
 basename: alba-perez-pereiro
 avatar: /img/avatars/56bb75966a07b-alba-perez-pereiro.jpg

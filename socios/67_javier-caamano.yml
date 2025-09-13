@@ -4,11 +4,9 @@ links:
   - text: mascolor
     url: "https://mascolor.eu/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/mascolor_com/"
-    type: link
-  - text: Facebook
-    url: "https://www.facebook.com/pages/Mascolor-Comunicacion/1965421447028009"
+  - url: "https://www.instagram.com/mascolor_com/"
+    type: instagram
+  - url: "https://www.facebook.com/pages/Mascolor-Comunicacion/1965421447028009"
     type: facebook
 name: Javier Caamaño
 basename: javier-caamano

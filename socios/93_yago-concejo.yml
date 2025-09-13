@@ -10,8 +10,7 @@ links:
   - text: Web
     url: "https://srconcejo.es/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/yagoconcejo/?originalSubdomain=es"
+  - url: "https://www.linkedin.com/in/yagoconcejo/?originalSubdomain=es"
     type: linkedin
 name: Yago Concejo
 basename: yago-concejo

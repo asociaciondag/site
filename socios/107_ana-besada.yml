@@ -7,11 +7,9 @@ links:
   - text: Web
     url: "https://www.slab.es/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/slabarquint/"
-    type: facebook
-  - text: Facebook
-    url: "https://www.facebook.com/SlabArquInt"
+  - url: "https://www.instagram.com/slabarquint/"
+    type: instagram
+  - url: "https://www.facebook.com/SlabArquInt"
     type: facebook
 name: Ana Besada
 basename: ana-besada

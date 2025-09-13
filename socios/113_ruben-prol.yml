@@ -4,16 +4,13 @@ links:
   - text: Web
     url: "https://www.rubenprol.gal"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/rubenprol/?hl=es"
-    type: link
-  - text: X
-    url: "https://twitter.com/zezinho"
-    type: link
-  - text: Spotify
-    url: >-
+  - url: "https://www.instagram.com/rubenprol/?hl=es"
+    type: instagram
+  - url: "https://twitter.com/zezinho"
+    type: x
+  - url: >-
       https://open.spotify.com/user/oochy_woochy?si=5156c20e74654ca1&nd=1&dlsi=9df96a4eb3b8472b
-    type: link
+    type: spotify
 name: Rubén Prol
 basename: ruben-prol
 avatar: /img/avatars/avatar.png

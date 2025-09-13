@@ -4,9 +4,8 @@ links:
   - text: Web
     url: "https://www.xoseteiga.com/"
     type: link
-  - text: Linkeding
-    url: "https://www.linkedin.com/in/xoseteiga/"
-    type: link
+  - url: "https://www.linkedin.com/in/xoseteiga/"
+    type: linkedin
 name: Xosé Teiga
 basename: xose-teiga
 avatar: /img/avatars/xose-teiga-2023.jpg

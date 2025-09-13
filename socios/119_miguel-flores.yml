@@ -4,9 +4,8 @@ links:
   - text: Web
     url: "https://donauta.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/flordeinterior/"
-    type: link
+  - url: "https://www.instagram.com/flordeinterior/"
+    type: instagram
 name: Miguel Flores da Costa
 basename: miguel-flores
 avatar: /img/avatars/foto-miguelfloresdacosta.jpeg

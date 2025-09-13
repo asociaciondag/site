@@ -12,12 +12,10 @@ links:
   - text: "Instagram "
     url: "https://www.instagram.com/pablovillaverdediseno/"
     type: link
-  - text: Facebook
-    url: "https://www.facebook.com/pablovillaverdedesign/"
+  - url: "https://www.facebook.com/pablovillaverdedesign/"
     type: facebook
-  - text: Behance
-    url: "https://www.behance.net/pablovillaverde"
-    type: link
+  - url: "https://www.behance.net/pablovillaverde"
+    type: behance
 name: Pablo Villaverde
 basename: pablo-villaverde
 avatar: /img/avatars/autoretrato-pablo-villaverde.jpg

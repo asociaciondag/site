@@ -1,12 +1,10 @@
 id: 14
 contact: <marcos.dopico@gmail.com>
 links:
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/marcosdopico"
+  - url: "https://www.linkedin.com/in/marcosdopico"
     type: linkedin
-  - text: Twitter
-    url: "https://twitter.com/marcosdopico"
-    type: twitter
+  - url: "https://twitter.com/marcosdopico"
+    type: x
   - text: maistypes
     url: "http://www.maistypes.com/"
     type: link

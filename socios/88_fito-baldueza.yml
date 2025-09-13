@@ -7,12 +7,10 @@ links:
   - text: Web
     url: "http://fitobaldueza.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/fito-baldueza-0a643120/?originalSubdomain=es"
+  - url: "https://www.linkedin.com/in/fito-baldueza-0a643120/?originalSubdomain=es"
     type: linkedin
-  - text: Instagram
-    url: "https://www.instagram.com/fitobalduezaestudio/"
-    type: link
+  - url: "https://www.instagram.com/fitobalduezaestudio/"
+    type: instagram
 name: Fito Baldueza
 basename: fito-baldueza
 avatar: /img/avatars/imaxe-perfil.png

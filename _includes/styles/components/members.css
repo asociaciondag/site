@@ -12,14 +12,7 @@
   }
 
   .member-avatar {
-    margin: 0;
     grid-area: avatar;
-    display: block;
-    aspect-ratio: 5/8; /* Proporción áurea */
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-    border-radius: var(--border-radius);
     transition-property: filter, transform;
     transition-duration: var(--duration);
   }
@@ -66,4 +59,28 @@
       transform: scale(1.04);
     }
   }
+}
+
+.member-avatar {
+  margin: 0;
+  display: block;
+  aspect-ratio: 5/8; /* Proporción áurea */
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: var(--border-radius);
+}
+
+.member-address {
+  margin: 0;
+  font-style: normal;
+  font-size: var(--size-0);
+
+  p {
+    margin: 0;
+  }
+}
+
+.member-floating-figure {
+  margin: 0;
 }

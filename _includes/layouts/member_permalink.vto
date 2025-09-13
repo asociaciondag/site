@@ -2,39 +2,58 @@
 layout: layouts/base.vto
 ---
 
-<article>
-  <figure>
-    <img src="{{ avatar }}" width="128" height="128" alt="">
-  </figure>
+<header class="header">
+  <h1 class="header-title">{{ name }}</h1>
 
-  <header>
-    <h1>{{ name }}</h1>
+  <div class="header-description">
     <p>{{ job }}</p>
-  </header>
+  </div>
 
-  <address>
-    {{ contact |> md }}
+  <ul class="ly-tags">
+    {{ for tag of tags }}
+      <li class="filter">{{ tag }}</li>
+    {{ /for }}
 
-    {{ if links }}
-      <ul>
-        {{ for link of links }}
-          <li>
-            <a href="{{ link.url }}">{{ link.text }}</a>
-          </li>
-        {{ /for }}
-      </ul>
-    {{ /if }}
-  </address>
+    {{ for link of links }}
+      <li>
+        <a class="link" href="{{ link.url }}">
+          {{ if link.type === "link" }}
+            {{ link.text }}
+          {{ else if link.type === "linkedin" }}
+            LinkedIn
+          {{ else }}
+            <img
+              width="16"
+              height="16"
+              src='{{ link.type |> icon("simpleicons") }}'
+              alt="{{ link.type }}"
+              inline
+            >
+          {{ /if }}
+        </a>
+      </li>
+    {{ /for }}
+  </ul>
+
+  {{ if contact }}
+    <address class="member-address">
+      {{ contact |> md }}
+    </address>
+  {{ /if }}
 
   {{ if bio }}
-    <div>
+    <div class="header-description">
       {{ bio |> md }}
     </div>
   {{ /if }}
-</article>
+</header>
+
+<figure class="member-floating-figure">
+  <img class="member-avatar" src="{{ avatar }}" width="200" alt="Avatar">
+</figure>
 
 {{ if portfolios?.length }}
-  <aside>
+  <aside class="ly-grid">
     {{ for portfolio of portfolios }}
       {{ include "templates/portfolio-list.vto" { portfolio } }}
     {{ /for }}

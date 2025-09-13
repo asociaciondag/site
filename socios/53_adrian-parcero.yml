@@ -7,15 +7,12 @@ links:
   - text: Guillotina Estudio
     url: "http://guillotinaestudio.com/"
     type: link
-  - text: Facebook
-    url: "https://www.facebook.com/guillotinaestudio"
+  - url: "https://www.facebook.com/guillotinaestudio"
     type: facebook
-  - text: Twitter
-    url: "https://twitter.com/guillotinaest"
-    type: twitter
-  - text: Instagram
-    url: "https://www.instagram.com/guillotinaestudio/"
-    type: link
+  - url: "https://twitter.com/guillotinaest"
+    type: x
+  - url: "https://www.instagram.com/guillotinaestudio/"
+    type: instagram
 name: Adrián Parcero
 basename: adrian-parcero
 avatar: /img/avatars/5748875ee255f-adrian-parcero.jpg

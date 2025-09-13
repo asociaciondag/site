@@ -4,15 +4,13 @@ links:
   - text: Web
     url: "http://www.anxolopez.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/anxolopez/"
+  - url: "https://www.linkedin.com/in/anxolopez/"
     type: linkedin
   - text: Medium
     url: "http://www.medium.com/@anxolopez"
     type: link
-  - text: Instagram
-    url: "http://www.instagram.com/anxolopez/"
-    type: link
+  - url: "http://www.instagram.com/anxolopez/"
+    type: instagram
 name: Anxo López
 basename: anxo-lopez
 avatar: /img/avatars/2019-anxo-perfil.jpg

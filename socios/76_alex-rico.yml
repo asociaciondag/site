@@ -18,8 +18,7 @@ links:
   - text: GDW
     url: "https://www.gdw.gal/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/alexricocarames/"
+  - url: "https://www.linkedin.com/in/alexricocarames/"
     type: linkedin
 name: Álex Rico
 basename: alex-rico

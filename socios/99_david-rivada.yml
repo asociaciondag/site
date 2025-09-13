@@ -7,11 +7,9 @@ links:
   - text: Web
     url: "https://davidrivada.es/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/david_rivada_dg/"
-    type: facebook
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/david-rivada-7a1873131/?originalSubdomain=es"
+  - url: "https://www.instagram.com/david_rivada_dg/"
+    type: instagram
+  - url: "https://www.linkedin.com/in/david-rivada-7a1873131/?originalSubdomain=es"
     type: linkedin
 name: David Rivada
 basename: david-rivada

@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "https://www.anxosanchez.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/anxo-sanchez-garcia/"
-    type: link
-  - text: X
-    url: "https://twitter.com/SanchezAnxo"
-    type: link
+  - url: "https://www.linkedin.com/in/anxo-sanchez-garcia/"
+    type: linkedin
+  - url: "https://twitter.com/SanchezAnxo"
+    type: x
 name: Anxo Sánchez García
 basename: anxo-sanchez-garcia
 avatar: /img/avatars/anxo-sanchez-02.jpg

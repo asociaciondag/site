@@ -11,8 +11,7 @@ links:
   - text: Rådar estudio
     url: "http://www.radarestudio.com/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/pub/felipe-gil-gago/62/725/210"
+  - url: "https://www.linkedin.com/pub/felipe-gil-gago/62/725/210"
     type: linkedin
 name: Felipe Gil Gago
 basename: felipe-gil-gago

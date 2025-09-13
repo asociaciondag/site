@@ -14,11 +14,9 @@ links:
   - text: Ydemaker
     url: "https://ydemaker.com/"
     type: link
-  - text: Behance
-    url: "https://www.behance.net/ncortizas"
-    type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/noemicortizas/"
+  - url: "https://www.behance.net/ncortizas"
+    type: behance
+  - url: "https://www.linkedin.com/in/noemicortizas/"
     type: linkedin
 name: Noemí Cortizas
 basename: noemi-cortizas

@@ -4,9 +4,8 @@ links:
   - text: Web
     url: "https://www.heicastro.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/heicastrostudio/"
-    type: facebook
+  - url: "https://www.instagram.com/heicastrostudio/"
+    type: instagram
 name: Marta Castro
 basename: marta-castro
 avatar: /img/avatars/cuadrada-marta-castro.jpg

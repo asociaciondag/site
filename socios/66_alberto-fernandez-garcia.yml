@@ -7,12 +7,10 @@ links:
   - text: Web
     url: "https://afernandezgarcia.com"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/a-fernandez-garcia/"
+  - url: "https://www.linkedin.com/in/a-fernandez-garcia/"
     type: linkedin
-  - text: "Behance "
-    url: "https://www.behance.net"
-    type: link
+  - url: "https://www.behance.net"
+    type: behance
 name: Alberto Fernández García
 basename: alberto-fernandez-garcia
 avatar: /img/avatars/alberto-fernandez-garcia-avatar.jpg

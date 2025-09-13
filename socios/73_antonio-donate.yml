@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "http://laboratorio.numax.org"
     type: link
-  - text: Facebook
-    url: "https://www.facebook.com/laboratorionumax/"
-    type: link
-  - text: Instagram
-    url: "https://www.instagram.com/laboratorio_numax/"
-    type: link
+  - url: "https://www.facebook.com/laboratorionumax/"
+    type: facebook
+  - url: "https://www.instagram.com/laboratorio_numax/"
+    type: instagram
 name: Antonio Doñate
 basename: antonio-donate
 avatar: /img/avatars/toni-avatar.jpg

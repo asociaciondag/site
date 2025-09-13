@@ -4,9 +4,8 @@ links:
   - text: Web
     url: "https://www.levedar.com/"
     type: link
-  - text: Instagram
-    url: "https://www.instagram.com/levedar_estudio/"
-    type: facebook
+  - url: "https://www.instagram.com/levedar_estudio/"
+    type: instagram
 name: Paula Cristino
 basename: paula-cristino
 avatar: /img/avatars/paula-cristino.jpeg

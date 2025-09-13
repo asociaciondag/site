@@ -13,15 +13,12 @@ links:
   - text: Web
     url: "http://www.desonhos.net"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/company/deso-os"
+  - url: "https://www.linkedin.com/company/deso-os"
     type: linkedin
-  - text: Facebook
-    url: "https://www.facebook.com/desonhos"
+  - url: "https://www.facebook.com/desonhos"
     type: facebook
-  - text: Twitter
-    url: "https://twitter.com/_desonhos"
-    type: twitter
+  - url: "https://twitter.com/_desonhos"
+    type: x
 name: Noelia Estévez
 basename: noelia-estevez
 avatar: /img/avatars/554cfb8bc3182-noelia-fernandez-estevez.jpg

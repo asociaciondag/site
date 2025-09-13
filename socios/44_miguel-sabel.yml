@@ -4,12 +4,10 @@ links:
   - text: Web
     url: "http://miguelsabel.me/"
     type: link
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/miguelsabel"
+  - url: "https://www.linkedin.com/in/miguelsabel"
     type: linkedin
-  - text: Twitter
-    url: "https://twitter.com/miguelsabel"
-    type: twitter
+  - url: "https://twitter.com/miguelsabel"
+    type: x
 name: Miguel Sabel
 basename: miguel-sabel
 avatar: /img/avatars/566b05e43793b-miguel-sabel.jpeg

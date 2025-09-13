@@ -1,12 +1,10 @@
 id: 38
 contact: <angelramosregueira@gmail.com>
 links:
-  - text: Linkedin
-    url: "https://www.linkedin.com/in/%C3%A1ngel-ramos-regueira/"
+  - url: "https://www.linkedin.com/in/%C3%A1ngel-ramos-regueira/"
     type: linkedin
-  - text: Instagram
-    url: "https://www.instagram.com/angelramosregueira/"
-    type: facebook
+  - url: "https://www.instagram.com/angelramosregueira/"
+    type: instagram
 name: Ángel Ramos Regueira
 basename: angel-ramos
 avatar: /img/avatars/55b8bc1beee0d-angel-ramos.png

@@ -1,9 +1,8 @@
 id: 10
 contact: T. 696 921 286
 links:
-  - text: Twitter
-    url: "https://twitter.com/RebecaCes"
-    type: twitter
+  - url: "https://twitter.com/RebecaCes"
+    type: x
 name: Rebeca Ces
 basename: rebeca-ces
 avatar: /img/avatars/554cf6982fffb-rebeca-ces.jpeg
