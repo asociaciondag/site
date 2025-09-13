@@ -45,6 +45,7 @@
 
 .ly-main-footer {
   grid-area: footer;
+  display: none;
 }
 
 .ly-main-header {

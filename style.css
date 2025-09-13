@@ -5,11 +5,14 @@
 @import "styles/layouts/main.css" layer(layouts);
 @import "styles/layouts/grid.css" layer(layouts);
 @import "styles/layouts/tags.css" layer(layouts);
+@import "styles/layouts/lateral.css" layer(layouts);
 
 @import "styles/components/navbar.css" layer(components);
 @import "styles/components/menu.css" layer(components);
 @import "styles/components/header.css" layer(components);
+@import "styles/components/subheader.css" layer(components);
 @import "styles/components/members.css" layer(components);
 @import "styles/components/filter.css" layer(components);
 @import "styles/components/link.css" layer(components);
 @import "styles/components/blocks.css" layer(components);
+@import "styles/components/submenu.css" layer(components);

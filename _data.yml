@@ -16,7 +16,7 @@ gl:
       all_tags: Todas as etiquetas
     members:
       members: Socios e socias
-      projects: Proxectos
+      projects: Proxectos destacados
       all_tags: Todas as etiquetas
     footer:
       follow: "Síguenos tamén en:"
@@ -43,7 +43,7 @@ es:
       all_tags: Todas as etiquetas
     members:
       members: Socios e socias
-      projects: Proxectos
+      projects: Proyectos destacados
       all_tags: Todas as etiquetas
     footer:
       follow: "Síguenos tamén en:"

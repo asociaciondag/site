@@ -5,6 +5,7 @@
   grid-column: content;
   align-content: start;
   max-width: 800px;
+  position: relative;
 
   @media (width > 1200px) {
     grid-column-start: center-start;
@@ -28,4 +29,25 @@
 }
 .header-filter {
   margin-top: var(--space-m);
+}
+
+.header:has(.header-img) {
+  --img-width: min(300px, 25vw);
+  --img-space: var(--space-m);
+  max-width: calc(800px + var(--img-width) + var(--img-space));
+  padding-right: calc(var(--img-width) + var(--img-space));
+}
+
+.header-img {
+  margin: 0;
+  max-width: var(--img-width);
+
+  &.is-floating {
+    --shadow-color: #000;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: rotate(3deg) translate(2rem, -50%);
+    box-shadow: 0 10px 120px rgb(from var(--shadow-color) r g b / 0.4);
+  }
 }

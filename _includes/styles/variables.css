@@ -14,6 +14,7 @@
   --size-7: clamp(2.986rem, 2.6977rem + 1.4412vw, 3.8147rem);
 
   /* Letter spacing */
+  --size-4-spacing: -0.025em;
   --size-7-spacing: -0.05em;
 
   /* Font family */

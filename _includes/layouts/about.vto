@@ -12,7 +12,7 @@ layout: layouts/base.vto
   {{ /for }}
 </div>
 
-<nav>
+<nav class="submenu">
   <ul>
     {{ for p of search.pages(`type=about lang=${lang}`, "order=asc") }}
       <li {{ if p.url == url }} class="is-active"{{ /if }}>

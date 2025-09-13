@@ -3,6 +3,14 @@ layout: layouts/base.vto
 ---
 
 <header class="header">
+  <img
+    class="header-img is-floating member-avatar"
+    style="--shadow-color: {{ avatar_color || 'black' }}"
+    src="{{ avatar }}"
+    width="200"
+    alt="Avatar"
+  >
+
   <h1 class="header-title">{{ name }}</h1>
 
   <div class="header-description">
@@ -48,14 +56,16 @@ layout: layouts/base.vto
   {{ /if }}
 </header>
 
-<figure class="member-floating-figure">
-  <img class="member-avatar" src="{{ avatar }}" width="200" alt="Avatar">
-</figure>
-
 {{ if portfolios?.length }}
-  <aside class="ly-grid">
-    {{ for portfolio of portfolios }}
-      {{ include "templates/portfolio-list.vto" { portfolio } }}
-    {{ /for }}
+  <aside class="ly-lateral">
+    <header class="ly-lateral-side subheader">
+      <h2 class="subheader-title">{{ t.members.projects }}</h2>
+    </header>
+
+    <div class="ly-lateral-content">
+      {{ for portfolio of portfolios }}
+        {{ include "templates/portfolio-list.vto" { portfolio } }}
+      {{ /for }}
+    </div>
   </aside>
 {{ /if }}

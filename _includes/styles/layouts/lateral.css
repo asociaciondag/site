@@ -1,0 +1,11 @@
+.ly-lateral {
+  grid-column: full;
+  display: grid;
+  grid-template-columns: subgrid;
+}
+.ly-lateral-side {
+  grid-column: content-start / center-start;
+}
+.ly-lateral-content {
+  grid-column: center-start / content-end;
+}

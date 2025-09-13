@@ -1,0 +1,10 @@
+.submenu {
+  grid-column: center;
+
+  ul {
+    list-style-type: "";
+    margin: 0;
+    padding: 0;
+    font-size: var(--size-1);
+  }
+}
