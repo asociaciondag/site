@@ -67,11 +67,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: A navalla suíza
-  - name: Cliente
-    value: Fundación Praza Pública
-  - name: Ano
-    value: "2012"
 draft: false
+year: "2012"
+client: Fundación Praza Pública
+studio: A navalla suíza

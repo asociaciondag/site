@@ -31,11 +31,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Era Comunicación
-  - name: Cliente
-    value: Concello de Pontevedra. Concellaría de Cultura.
-  - name: Ano
-    value: "2009"
 draft: false
+year: "2009"
+client: Concello de Pontevedra. Concellaría de Cultura.
+studio: Era Comunicación

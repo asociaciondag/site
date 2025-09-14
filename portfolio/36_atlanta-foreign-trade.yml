@@ -46,9 +46,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Cliente
-    value: Atlanta Foreign Trade
-  - name: Ano
-    value: "2012"
 draft: false
+year: "2012"
+client: Atlanta Foreign Trade

@@ -48,14 +48,11 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: ROK Design
   - name: Proxecto
     value: Nauha. Equipamiento para Centros de conocimiento
-  - name: Cliente
-    value: >-
-      Proyecto para o Máster de diseño de Mobiliario, Elisava (Escola Superior
-      de Disseny i Enginyeria) de Barcelona.
-  - name: Ano
-    value: "2012"
 draft: false
+year: "2012"
+client: >-
+  Proyecto para o Máster de diseño de Mobiliario, Elisava (Escola Superior de
+  Disseny i Enginyeria) de Barcelona.
+studio: ROK Design

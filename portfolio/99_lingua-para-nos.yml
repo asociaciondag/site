@@ -33,11 +33,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Era Comunicación
-  - name: Cliente
-    value: Normalización Lingüística. Concello de Pontevedra
-  - name: Ano
-    value: "2009"
 draft: false
+year: "2009"
+client: Normalización Lingüística. Concello de Pontevedra
+studio: Era Comunicación

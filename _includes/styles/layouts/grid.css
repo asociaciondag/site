@@ -3,6 +3,9 @@
   --column-gap: var(--space-m-l);
   --row-gap: var(--space-m-l);
 
+  list-style-type: "";
+  margin: 0;
+  padding: 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(var(--width), 100%), 1fr));
   column-gap: var(--column-gap);

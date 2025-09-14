@@ -31,11 +31,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Era Comunicación
-  - name: Cliente
-    value: Concello de Pontevedra. Concellaría de Festas
-  - name: Ano
-    value: "2010"
 draft: true
+year: "2010"
+client: Concello de Pontevedra. Concellaría de Festas
+studio: Era Comunicación

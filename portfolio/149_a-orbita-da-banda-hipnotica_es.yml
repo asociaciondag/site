@@ -14,10 +14,7 @@ tags: []
 members_id:
   - 21
 lang: es
-info:
-  - name: Cliente
-    value: La Matumbá
-  - name: Año
-    value: "2010"
 draft: false
 oldUrl: /es/portfolio/a-orbita-da-banda-hipnotica/
+year: "2010"
+client: La Matumbá

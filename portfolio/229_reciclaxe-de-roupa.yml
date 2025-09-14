@@ -34,7 +34,5 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Cliente
-    value: Auchan Retail en Lille (France)
 draft: false
+client: Auchan Retail en Lille (France)

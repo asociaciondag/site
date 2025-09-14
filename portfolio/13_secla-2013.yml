@@ -42,8 +42,6 @@ lang:
 info:
   - name: Proxecto
     value: Congreso SECLA 2013
-  - name: Cliente
-    value: Sociedad Española de Cirugía Laparoscópica y Robótica
-  - name: Ano
-    value: "2013"
 draft: false
+year: "2013"
+client: Sociedad Española de Cirugía Laparoscópica y Robótica

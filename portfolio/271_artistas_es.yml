@@ -17,10 +17,7 @@ tags:
 members_id:
   - 23
 lang: es
-info:
-  - name: Cliente
-    value: Universidad de Vigo
-  - name: Año
-    value: "2011"
 draft: false
 oldUrl: /es/portfolio/artistas/
+year: "2011"
+client: Universidad de Vigo

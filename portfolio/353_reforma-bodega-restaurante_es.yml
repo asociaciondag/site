@@ -35,9 +35,8 @@ members_id:
   - 77
 lang: es
 info:
-  - name: Año
-    value: "2007"
   - name: Lugar
     value: Santa Comba
 draft: false
 oldUrl: /es/portfolio/reforma-bodega-restaurante-es/
+year: "2007"

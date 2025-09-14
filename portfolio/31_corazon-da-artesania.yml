@@ -49,14 +49,11 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Cenlitrosmetrocadrado
-  - name: Cliente
-    value: Fundación Centro Galego da Artesanía e do Deseño
-  - name: Ano
-    value: "2012"
   - name: Colaboradores
     value: >-
       Óscar Penedo, carpinteiro; Axeitos&Co, impresión de lonas; Silvereira,
       gravado láser
 draft: true
+year: "2012"
+client: Fundación Centro Galego da Artesanía e do Deseño
+studio: Cenlitrosmetrocadrado

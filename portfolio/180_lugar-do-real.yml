@@ -54,11 +54,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: A navalla suíza
-  - name: Cliente
-    value: AO NORTE . Associação de Produção e Animação Audiovisual
-  - name: Ano
-    value: "2015"
 draft: true
+year: "2015"
+client: AO NORTE . Associação de Produção e Animação Audiovisual
+studio: A navalla suíza

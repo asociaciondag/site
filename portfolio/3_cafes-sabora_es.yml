@@ -47,10 +47,7 @@ tags:
 members_id:
   - 10
 lang: es
-info:
-  - name: Cliente
-    value: Cafés Sabora
-  - name: Año
-    value: "2008"
 draft: false
 oldUrl: /es/portfolio/cafes-sabora/
+year: "2008"
+client: Cafés Sabora

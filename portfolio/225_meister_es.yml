@@ -59,15 +59,10 @@ members_id:
   - 56
 lang: es
 info:
-  - name: "Proyecto:"
-    value: Meister
   - name: Coautor
     value: Noel Pretorius
-  - name: "Estudio:"
-    value: NM type
-  - name: "Cliente:"
-    value: Jägermeister e Opperman Weiss
-  - name: "Año:"
-    value: "2018"
 draft: true
 oldUrl: /es/portfolio/meister/
+year: "2018"
+client: Jägermeister e Opperman Weiss
+studio: NM type

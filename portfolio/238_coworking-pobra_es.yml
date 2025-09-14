@@ -12,10 +12,6 @@ tags:
 members_id:
   - 67
 lang: es
-info:
-  - name: Proyecto
-    value: Coworking Pobra
-  - name: Año
-    value: "2016"
 draft: false
 oldUrl: /es/portfolio/coworking-pobra/
+year: "2016"

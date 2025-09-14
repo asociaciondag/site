@@ -91,9 +91,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Cliente
-    value: Abalo Alonso arquitectos
-  - name: Ano
-    value: "2012"
 draft: true
+year: "2012"
+client: Abalo Alonso arquitectos

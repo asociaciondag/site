@@ -23,12 +23,8 @@ tags:
 members_id:
   - 17
 lang: es
-info:
-  - name: Estudio
-    value: Sistema Deseño
-  - name: Cliente
-    value: Porto Muiños
-  - name: Año
-    value: "2010"
 draft: false
 oldUrl: /es/portfolio/tapa-de-by-porto-muinos/
+year: "2010"
+client: Porto Muiños
+studio: Sistema Deseño

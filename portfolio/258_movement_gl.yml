@@ -42,15 +42,13 @@ members_id:
   - 56
 lang: gl
 info:
-  - name: Estudio
-    value: NM type
   - name: Coautor
     value: Noel Pretorius
   - name: Produción
     value: Design Indaba
   - name: Colaboración
     value: Andile Vellem
-  - name: Ano
-    value: "2019"
 draft: true
 oldUrl: /gl/portfolio/movement/
+year: "2019"
+studio: NM type

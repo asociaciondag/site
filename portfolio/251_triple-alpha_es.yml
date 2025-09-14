@@ -11,10 +11,6 @@ tags:
 members_id:
   - 67
 lang: es
-info:
-  - name: Proyecto
-    value: Triple Alpha
-  - name: Año
-    value: "2018"
 draft: false
 oldUrl: /es/portfolio/triple-alpha/
+year: "2018"

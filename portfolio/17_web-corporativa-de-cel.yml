@@ -59,11 +59,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Sond3
-  - name: Cliente
-    value: Confederación de empresarios de Lugo
-  - name: Ano
-    value: 2012-2013
 draft: true
+year: 2012-2013
+client: Confederación de empresarios de Lugo
+studio: Sond3

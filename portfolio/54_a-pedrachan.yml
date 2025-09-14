@@ -57,14 +57,11 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Cenlitrosmetrocadrado
-  - name: Cliente
-    value: Concello de Noia
-  - name: Ano
-    value: "2010"
   - name: Estudio antropolóxico
     value: Ana Filgueiras
   - name: Cerámica
     value: Puri Fernández
 draft: true
+year: "2010"
+client: Concello de Noia
+studio: Cenlitrosmetrocadrado

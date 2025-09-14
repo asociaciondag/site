@@ -32,14 +32,11 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Uqui-Cebra
-  - name: Cliente
-    value: La más bella
-  - name: Ano
-    value: "2011"
   - name: Fotografía
     value: Marta Soul
   - name: Colaboración
     value: Editorial La más bella
 draft: false
+year: "2011"
+client: La más bella
+studio: Uqui-Cebra

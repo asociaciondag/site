@@ -18,7 +18,5 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Ano
-    value: "2015"
 draft: false
+year: "2015"

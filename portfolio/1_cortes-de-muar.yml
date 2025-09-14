@@ -55,11 +55,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Ekinocio Comunicación
-  - name: Cliente
-    value: Germán e Rita García
-  - name: Ano
-    value: "2012"
 draft: true
+year: "2012"
+client: Germán e Rita García
+studio: Ekinocio Comunicación

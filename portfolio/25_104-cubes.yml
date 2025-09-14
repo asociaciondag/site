@@ -44,9 +44,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Cliente
-    value: 104 cubes
-  - name: Ano
-    value: "2012"
 draft: false
+year: "2012"
+client: 104 cubes

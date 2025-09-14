@@ -33,9 +33,8 @@ members_id:
   - 77
 lang: gl
 info:
-  - name: Ano
-    value: "2019"
   - name: Lugar
     value: Vigo
 draft: false
 oldUrl: /gl/portfolio/reforma-adminsion-bingo/
+year: "2019"

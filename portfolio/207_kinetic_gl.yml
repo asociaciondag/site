@@ -44,11 +44,9 @@ members_id:
   - 56
 lang: gl
 info:
-  - name: "Estudio:"
-    value: NM type
   - name: Coautor
     value: Noel Pretorius
-  - name: "Ano:"
-    value: "2017"
 draft: true
 oldUrl: /gl/portfolio/kinetic/
+year: "2017"
+studio: NM type

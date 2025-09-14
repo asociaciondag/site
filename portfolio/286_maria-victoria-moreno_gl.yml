@@ -14,10 +14,7 @@ tags:
 members_id:
   - 23
 lang: gl
-info:
-  - name: "Cliente:"
-    value: Concello de Pontevedra
-  - name: "Ano:"
-    value: "2018"
 draft: false
 oldUrl: /gl/portfolio/maria-victoria-moreno/
+year: "2018"
+client: Concello de Pontevedra

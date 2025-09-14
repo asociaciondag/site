@@ -45,10 +45,7 @@ tags:
 members_id:
   - 10
 lang: gl
-info:
-  - name: Cliente
-    value: Cafés Sabora
-  - name: Ano
-    value: "2008"
 draft: true
 oldUrl: /gl/portfolio/cafes-sabora/
+year: "2008"
+client: Cafés Sabora

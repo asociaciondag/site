@@ -74,12 +74,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Desescribir
-  - name: Cliente
-    value: Grupo Ascensores Aenor
-  - name: Ano
-    value: "2009"
   - name: Colaboradores
     value: Tono Mejuto na preparación da información e na premaquetación.
 draft: true
+year: "2009"
+client: Grupo Ascensores Aenor
+studio: Desescribir

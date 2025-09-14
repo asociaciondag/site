@@ -40,9 +40,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: OGráfico
-  - name: Ano
-    value: "2009"
 draft: false
+year: "2009"
+studio: OGráfico

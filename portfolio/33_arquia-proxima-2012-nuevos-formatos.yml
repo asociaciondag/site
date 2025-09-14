@@ -142,15 +142,12 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Desescribir
-  - name: Cliente
-    value: Fundación Caja de Arquitectos
-  - name: Ano
-    value: "2012"
   - name: Colaboradores
     value: >-
       Rebeca Ces (maquetación), Pablo Golpe (redes sociais), Xiao Varela
       (coordinación e deseño), estudiocaravana (web), Luis Díaz Díaz
       (fotografías)
 draft: true
+year: "2012"
+client: Fundación Caja de Arquitectos
+studio: Desescribir

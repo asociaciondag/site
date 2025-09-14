@@ -20,11 +20,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Grupo Revisión Deseño
-  - name: Cliente
-    value: Real Academia Galega
-  - name: Ano
-    value: "2010"
 draft: false
+year: "2010"
+client: Real Academia Galega
+studio: Grupo Revisión Deseño

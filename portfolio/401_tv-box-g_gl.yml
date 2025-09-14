@@ -32,8 +32,6 @@ tags:
 members_id:
   - 64
 lang: gl
-info:
-  - name: Cliente
-    value: Roctool
 draft: false
 oldUrl: /gl/portfolio/tv-box-g/
+client: Roctool

@@ -56,12 +56,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Cenlitrosmetrocadrado
-  - name: Cliente
-    value: Silvereira
-  - name: Ano
-    value: "2011"
   - name: Colaboradores
     value: "Óscar Penedo, carpinteiro"
 draft: true
+year: "2011"
+client: Silvereira
+studio: Cenlitrosmetrocadrado

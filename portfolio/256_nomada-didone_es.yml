@@ -33,10 +33,7 @@ tags:
 members_id:
   - 56
 lang: es
-info:
-  - name: Estudio
-    value: Tipografies
-  - name: Año
-    value: "2018"
 draft: true
 oldUrl: /es/portfolio/nomada-didone/
+year: "2018"
+studio: Tipografies

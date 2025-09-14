@@ -53,12 +53,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Uqui.net
-  - name: Cliente
-    value: Panadería Moscoso Moure
-  - name: Ano
-    value: "2013"
   - name: Colaboradores
     value: Idoia Cuesta paraa elaboración de cestas de vimbio para o pan.
 draft: false
+year: "2013"
+client: Panadería Moscoso Moure
+studio: Uqui.net

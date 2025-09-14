@@ -48,11 +48,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Cenlitrosmetrocadrado
-  - name: Cliente
-    value: Ana Ferreiro
-  - name: Ano
-    value: "2011"
 draft: true
+year: "2011"
+client: Ana Ferreiro
+studio: Cenlitrosmetrocadrado

@@ -4,7 +4,7 @@
   grid-template-columns:
     [full-start] 1fr
     [content-start] var(--lateral)
-    [center-start] minmax(0, 1000px)
+    [center-start] minmax(0, 1300px)
     [center-end] var(--lateral)
     [content-end] 1fr
     [full-end];

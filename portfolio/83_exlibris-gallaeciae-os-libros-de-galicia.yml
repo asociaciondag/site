@@ -43,11 +43,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Grupo Revisión Deseño
-  - name: Cliente
-    value: Fundación Cidade da Cultura de Galicia
-  - name: Ano
-    value: "2010"
 draft: false
+year: "2010"
+client: Fundación Cidade da Cultura de Galicia
+studio: Grupo Revisión Deseño

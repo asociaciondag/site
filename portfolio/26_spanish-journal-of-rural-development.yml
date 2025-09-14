@@ -71,11 +71,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Sond3
-  - name: Cliente
-    value: Asociación Gallega de Investigadores para el Desarrollo Rural (AGAIDERU)
-  - name: Ano
-    value: 2012-2013
 draft: true
+year: 2012-2013
+client: Asociación Gallega de Investigadores para el Desarrollo Rural (AGAIDERU)
+studio: Sond3

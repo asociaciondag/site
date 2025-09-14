@@ -45,12 +45,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: A navalla suíza
-  - name: Cliente
-    value: "A navalla suíza, So happy together, Simbyosi, Sonia Giordani, Max Adams"
-  - name: Ano
-    value: "2012"
   - name: Ilustración
     value: Coco Davez
 draft: true
+year: "2012"
+client: "A navalla suíza, So happy together, Simbyosi, Sonia Giordani, Max Adams"
+studio: A navalla suíza

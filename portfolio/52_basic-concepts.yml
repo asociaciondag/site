@@ -28,11 +28,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Sond3
-  - name: Cliente
-    value: Autoencargo
-  - name: Ano
-    value: "2011"
 draft: true
+year: "2011"
+client: Autoencargo
+studio: Sond3

@@ -20,10 +20,7 @@ tags:
 members_id:
   - 23
 lang: es
-info:
-  - name: "Cliente:"
-    value: Ayuntamiento de Poio
-  - name: "Año:"
-    value: "2017"
 draft: false
 oldUrl: /es/portfolio/identidad-del-ayuntamiento-de-poio/
+year: "2017"
+client: Ayuntamiento de Poio

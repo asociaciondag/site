@@ -70,9 +70,7 @@ lang: gl
 info:
   - name: Proxecto
     value: Revista Transversal
-  - name: Cliente
-    value: Proxecto persoal
-  - name: Ano
-    value: "2012"
 draft: true
 oldUrl: /gl/portfolio/transversal/
+year: "2012"
+client: Proxecto persoal

@@ -93,11 +93,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Desescribir
-  - name: Cliente
-    value: Editorial Gustavo Gili
-  - name: Ano
-    value: "2010"
 draft: true
+year: "2010"
+client: Editorial Gustavo Gili
+studio: Desescribir

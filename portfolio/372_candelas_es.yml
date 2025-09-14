@@ -27,8 +27,6 @@ tags:
 members_id:
   - 81
 lang: es
-info:
-  - name: Cliente
-    value: Cafés Candelas
 draft: false
 oldUrl: /es/portfolio/candelas-es/
+client: Cafés Candelas

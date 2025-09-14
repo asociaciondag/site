@@ -19,12 +19,8 @@ members_id:
   - 2
   - 16
 lang: gl
-info:
-  - name: Estudio
-    value: Desoños
-  - name: Cliente
-    value: Adegas Aurea Lux
-  - name: Ano
-    value: "2012"
 draft: false
 oldUrl: /gl/portfolio/leive-reliquia/
+year: "2012"
+client: Adegas Aurea Lux
+studio: Desoños

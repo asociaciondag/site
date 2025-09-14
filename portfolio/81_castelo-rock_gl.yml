@@ -15,10 +15,7 @@ tags: []
 members_id:
   - 21
 lang: gl
-info:
-  - name: Cliente
-    value: Castelo Rock / Concello de Muros
-  - name: Ano
-    value: "2010"
 draft: false
 oldUrl: /gl/portfolio/castelo-rock/
+year: "2010"
+client: Castelo Rock / Concello de Muros

@@ -14,10 +14,7 @@ tags:
 members_id:
   - 23
 lang: es
-info:
-  - name: "Cliente:"
-    value: Ayuntamiento de Pontevedra
-  - name: "Año:"
-    value: "2019"
 draft: false
 oldUrl: /es/portfolio/ben-venas-maio/
+year: "2019"
+client: Ayuntamiento de Pontevedra

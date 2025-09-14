@@ -11,11 +11,9 @@ members_id:
   - 23
 lang: es
 info:
-  - name: "Cliente:"
-    value: Ayuntamiento de Poio
-  - name: "Año:"
-    value: "2015"
-  - name: "Premios:"
+  - name: Premios
     value: "IGDEA AWARDS 2017, OURO ao mellor cartel / Best Poster Festa do Mar 2015"
 draft: false
 oldUrl: /es/portfolio/festa-do-mar/
+year: "2015"
+client: Ayuntamiento de Poio

@@ -41,15 +41,13 @@ members_id:
   - 19
 lang: es
 info:
-  - name: "Cliente:"
-    value: LaCapell
-  - name: "Año:"
-    value: "2019"
-  - name: "Personas que intervinieron en su desarrollo:"
+  - name: Personas que intervinieron en su desarrollo
     value: "Antón García, Deya Carreón"
-  - name: "Venta online:"
+  - name: Venta online
     value: '<a href="https://www.rokdesign.es/shop">ROKdesign Shop</a>'
-  - name: "IG Producto:"
+  - name: IG Producto
     value: "@centvint_"
 draft: false
 oldUrl: /es/portfolio/centvint/
+year: "2019"
+client: LaCapell

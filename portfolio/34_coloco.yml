@@ -35,13 +35,9 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: ROK Design
-  - name: Cliente
-    value: >-
-      Proyecto desarrollado en el Máster de diseño de Mobiliario, Elisava
-      (Escola Superior de Disseny i Enginyeria) de Barcelona.
-  - name: Ano
-    value: "2012"
 draft: false
+year: "2012"
+client: >-
+  Proyecto desarrollado en el Máster de diseño de Mobiliario, Elisava (Escola
+  Superior de Disseny i Enginyeria) de Barcelona.
+studio: ROK Design

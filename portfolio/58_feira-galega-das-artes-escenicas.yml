@@ -54,11 +54,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Uqui.net
-  - name: Cliente
-    value: Agadic
-  - name: Ano
-    value: "2010"
 draft: false
+year: "2010"
+client: Agadic
+studio: Uqui.net

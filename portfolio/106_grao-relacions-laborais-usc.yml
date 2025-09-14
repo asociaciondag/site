@@ -18,11 +18,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Sond3
-  - name: Cliente
-    value: E. U. Relacións Laborais Lugo -USC
-  - name: Ano
-    value: "2010"
 draft: true
+year: "2010"
+client: E. U. Relacións Laborais Lugo -USC
+studio: Sond3

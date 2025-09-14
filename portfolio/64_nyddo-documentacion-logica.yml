@@ -35,9 +35,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Cliente
-    value: NYDDO
-  - name: Ano
-    value: "2010"
 draft: false
+year: "2010"
+client: NYDDO

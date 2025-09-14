@@ -84,11 +84,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Desescribir
-  - name: Cliente
-    value: Concello de Santiago
-  - name: Ano
-    value: "2010"
 draft: true
+year: "2010"
+client: Concello de Santiago
+studio: Desescribir

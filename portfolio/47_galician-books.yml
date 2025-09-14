@@ -27,11 +27,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Grupo Revision Deseño
-  - name: Cliente
-    value: "Asociación de Editores Galegos / Consellaría de Cultura, Xunta de Galicia"
-  - name: Ano
-    value: "2011"
 draft: false
+year: "2011"
+client: "Asociación de Editores Galegos / Consellaría de Cultura, Xunta de Galicia"
+studio: Grupo Revision Deseño

@@ -47,9 +47,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Cliente
-    value: Xunta de Galicia. Consellaría de Cultura
-  - name: Ano
-    value: "2010"
 draft: false
+year: "2010"
+client: Xunta de Galicia. Consellaría de Cultura

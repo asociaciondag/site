@@ -68,12 +68,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Uqui-cebra
-  - name: Cliente
-    value: S. A. de Xestión do Plan Xacobeo. Xunta de Galicia
-  - name: Ano
-    value: "2011"
   - name: Fotografía
     value: "Manuel Valcárcel, Janite, Jaime Fernández e outros"
 draft: false
+year: "2011"
+client: S. A. de Xestión do Plan Xacobeo. Xunta de Galicia
+studio: Uqui-cebra

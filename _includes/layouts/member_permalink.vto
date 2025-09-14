@@ -2,6 +2,12 @@
 layout: layouts/base.vto
 ---
 
+{{ set backPage = search.page(`id=members lang=${lang}`) }}
+<a class="back" href="{{ backPage.url }}">
+  <img src="{{ 'arrow/arrow_left_line' |> icon("mingcute") }}">
+  <span>Volver</span>
+</a>
+
 <header class="header">
   <img
     class="header-img is-floating member-avatar"
@@ -12,36 +18,41 @@ layout: layouts/base.vto
   >
 
   <h1 class="header-title">{{ name }}</h1>
+  <p class="header-subtitle">{{ job }}</p>
 
-  <div class="header-description">
-    <p>{{ job }}</p>
+  <div class="ly-tags">
+    {{ if tags?.length }}
+      <ul class="ly-tags">
+        {{ for tag of tags }}
+          <li class="filter">{{ tag }}</li>
+        {{ /for }}
+      </ul>
+    {{ /if }}
+
+    {{ if links?.length }}
+      <ul class="ly-tags">
+        {{ for link of links }}
+          <li>
+            <a class="link" href="{{ link.url }}">
+              {{ if link.type === "link" }}
+                {{ link.text }}
+              {{ else if link.type === "linkedin" }}
+                LinkedIn
+              {{ else }}
+                <img
+                  width="16"
+                  height="16"
+                  src='{{ link.type |> icon("simpleicons") }}'
+                  alt="{{ link.type }}"
+                  inline
+                >
+              {{ /if }}
+            </a>
+          </li>
+        {{ /for }}
+      </ul>
+    {{ /if }}
   </div>
-
-  <ul class="ly-tags">
-    {{ for tag of tags }}
-      <li class="filter">{{ tag }}</li>
-    {{ /for }}
-
-    {{ for link of links }}
-      <li>
-        <a class="link" href="{{ link.url }}">
-          {{ if link.type === "link" }}
-            {{ link.text }}
-          {{ else if link.type === "linkedin" }}
-            LinkedIn
-          {{ else }}
-            <img
-              width="16"
-              height="16"
-              src='{{ link.type |> icon("simpleicons") }}'
-              alt="{{ link.type }}"
-              inline
-            >
-          {{ /if }}
-        </a>
-      </li>
-    {{ /for }}
-  </ul>
 
   {{ if contact }}
     <address class="member-address">
@@ -57,15 +68,17 @@ layout: layouts/base.vto
 </header>
 
 {{ if portfolios?.length }}
-  <aside class="ly-lateral">
+  <aside class="ly-lateral top-m-xl">
     <header class="ly-lateral-side subheader">
       <h2 class="subheader-title">{{ t.members.projects }}</h2>
     </header>
 
-    <div class="ly-lateral-content">
+    <ul class="ly-lateral-content portfolio-list ly-columns">
       {{ for portfolio of portfolios }}
-        {{ include "templates/portfolio-list.vto" { portfolio } }}
+        <li>
+          {{ include "templates/portfolio-list.vto" { portfolio } }}
+        </li>
       {{ /for }}
-    </div>
+    </ul>
   </aside>
 {{ /if }}

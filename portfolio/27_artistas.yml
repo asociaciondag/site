@@ -30,14 +30,11 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Era comunicación
   - name: Proxecto
     value: >-
       ARTISTAS. 1º Proxecto de visibilización das obras artísticas das alumnas
       de Facultade de Belas Artes da Universidade de Vigo.
-  - name: Cliente
-    value: Universidade de Vigo. Unidade de Igualdade
-  - name: Ano
-    value: "2012"
 draft: true
+year: "2012"
+client: Universidade de Vigo. Unidade de Igualdade
+studio: Era comunicación

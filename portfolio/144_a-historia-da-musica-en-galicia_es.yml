@@ -51,10 +51,7 @@ tags:
 members_id:
   - 10
 lang: es
-info:
-  - name: Cliente
-    value: Ouvirmos
-  - name: Año
-    value: "2013"
 draft: false
 oldUrl: /es/portfolio/a-historia-da-musica-en-galicia/
+year: "2013"
+client: Ouvirmos

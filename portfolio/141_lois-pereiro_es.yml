@@ -58,11 +58,9 @@ lang: es
 info:
   - name: Proyecto
     value: Lois Pereiro. Camiño do futuro libremente
-  - name: Cliente
-    value: Ouvirmos
-  - name: Año
-    value: "2011"
   - name: Infografías
     value: José Ces García
 draft: false
 oldUrl: /es/portfolio/lois-pereiro/
+year: "2011"
+client: Ouvirmos

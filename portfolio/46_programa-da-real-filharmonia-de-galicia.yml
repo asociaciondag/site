@@ -50,12 +50,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Uqui.net
   - name: Proxecto
     value: Programa abono da Real Filharmonía de Galicia
-  - name: Cliente
-    value: Real Filharmonía de Galicia
-  - name: Ano
-    value: 2010-2011
 draft: false
+year: 2010-2011
+client: Real Filharmonía de Galicia
+studio: Uqui.net

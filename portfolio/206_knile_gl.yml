@@ -32,10 +32,7 @@ tags:
 members_id:
   - 56
 lang: gl
-info:
-  - name: "Estudio:"
-    value: atipo
-  - name: "Ano:"
-    value: "2016"
 draft: true
 oldUrl: /gl/portfolio/knile/
+year: "2016"
+studio: atipo

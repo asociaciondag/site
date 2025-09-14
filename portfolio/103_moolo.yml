@@ -48,11 +48,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Cenlitrosmetrocadrado
-  - name: Cliente
-    value: Fundación María Martínez Otero
-  - name: Ano
-    value: "2008"
 draft: true
+year: "2008"
+client: Fundación María Martínez Otero
+studio: Cenlitrosmetrocadrado

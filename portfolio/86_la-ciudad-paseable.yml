@@ -76,17 +76,14 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Desescribir
   - name: Proxecto
     value: >-
       La ciudad Paseable. ‘Recomendaciones para la consideración de los peatones
       en el planeamiento, diseño urbano y la arquitectura’. Julio Pozueta
       (Dir.), Francisco José Lamíquiz e Mateus Porto
-  - name: Cliente
-    value: >-
-      CEDEX (Centro de Estudos e Experimentación de Obras Públicas). Ministerio
-      de Fomento
-  - name: Ano
-    value: "2009"
 draft: true
+year: "2009"
+client: >-
+  CEDEX (Centro de Estudos e Experimentación de Obras Públicas). Ministerio de
+  Fomento
+studio: Desescribir

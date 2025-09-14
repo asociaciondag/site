@@ -26,10 +26,7 @@ tags:
 members_id:
   - 23
 lang: gl
-info:
-  - name: "Cliente:"
-    value: Concello de Pontevedra
-  - name: "Ano:"
-    value: "2016"
 draft: false
 oldUrl: /gl/portfolio/festival-de-jazz-e-blues-pontevedra/
+year: "2016"
+client: Concello de Pontevedra

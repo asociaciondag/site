@@ -31,13 +31,10 @@ members_id:
   - 18
 lang: gl
 info:
-  - name: Estudio
-    value: Ekinocio comunicación
   - name: Proxecto
     value: Embalaxes de regalos
-  - name: Cliente
-    value: Pecados de Compostela
-  - name: Ano
-    value: "2012"
 draft: true
 oldUrl: /gl/portfolio/pecados-de-compostela/
+year: "2012"
+client: Pecados de Compostela
+studio: Ekinocio comunicación

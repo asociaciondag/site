@@ -17,10 +17,7 @@ tags:
 members_id:
   - 33
 lang: gl
-info:
-  - name: Cliente
-    value: Proposta finalista concurso de carteis Francisco Mantecón
-  - name: Ano
-    value: "2009"
 draft: false
 oldUrl: /gl/portfolio/terras-gauda/
+year: "2009"
+client: Proposta finalista concurso de carteis Francisco Mantecón

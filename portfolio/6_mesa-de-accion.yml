@@ -30,12 +30,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: De dominio público
   - name: Proxecto
     value: "Mesa de Acción: Radiografía do deseño galego"
-  - name: Cliente
-    value: Asociación DAG
-  - name: Ano
-    value: "2011"
 draft: false
+year: "2011"
+client: Asociación DAG
+studio: De dominio público

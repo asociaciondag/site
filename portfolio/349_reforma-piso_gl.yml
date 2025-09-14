@@ -39,9 +39,8 @@ members_id:
   - 77
 lang: gl
 info:
-  - name: Ano
-    value: "2018"
   - name: Lugar
     value: Vigo
 draft: false
 oldUrl: /gl/portfolio/reforma-piso/
+year: "2018"

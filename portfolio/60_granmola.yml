@@ -39,11 +39,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Cenlitrosmetrocadrado
-  - name: Cliente
-    value: Autopromoción
-  - name: Ano
-    value: "2009"
 draft: true
+year: "2009"
+client: Autopromoción
+studio: Cenlitrosmetrocadrado

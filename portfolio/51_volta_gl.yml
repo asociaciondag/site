@@ -58,10 +58,6 @@ members_id:
   - 33
 lang: gl
 info:
-  - name: Cliente
-    value: "[GF] Studio"
-  - name: Ano
-    value: "2010"
   - name: Fotografía
     value: Jacobo e Damián Gayo
   - name: Estilismo
@@ -72,3 +68,5 @@ info:
     value: Silvia Fervenza
 draft: false
 oldUrl: /gl/portfolio/volta/
+year: "2010"
+client: "[GF] Studio"

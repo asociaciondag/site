@@ -35,9 +35,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Cliente
-    value: O Almacén de Teresa
-  - name: Ano
-    value: "2010"
 draft: false
+year: "2010"
+client: O Almacén de Teresa

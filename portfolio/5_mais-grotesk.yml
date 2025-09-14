@@ -57,9 +57,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Mais Types
-  - name: Ano
-    value: 2011-2013
 draft: false
+year: 2011-2013
+studio: Mais Types

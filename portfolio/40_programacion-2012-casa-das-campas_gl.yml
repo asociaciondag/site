@@ -30,15 +30,12 @@ members_id:
   - 18
 lang: gl
 info:
-  - name: Estudio
-    value: Ekinocio comunicación
   - name: Proxecto
     value: Programación de Outono 2012 da Casa das Campás
-  - name: Cliente
-    value: >-
-      Casa das Campás, Vicerreitoría do Campus de Pontevedra da Universidade de
-      Vigo.
-  - name: Ano
-    value: "2012"
 draft: true
 oldUrl: /gl/portfolio/programacion-2012-casa-das-campas/
+year: "2012"
+client: >-
+  Casa das Campás, Vicerreitoría do Campus de Pontevedra da Universidade de
+  Vigo.
+studio: Ekinocio comunicación

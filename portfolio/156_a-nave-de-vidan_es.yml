@@ -44,12 +44,8 @@ members_id:
   - 3
   - 18
 lang: es
-info:
-  - name: Estudio
-    value: Ekinocio Comunicación
-  - name: Cliente
-    value: Miguel R. Penas e socios/as.
-  - name: Año
-    value: "2012"
 draft: true
 oldUrl: /es/portfolio/a-nave-de-vidan/
+year: "2012"
+client: Miguel R. Penas e socios/as.
+studio: Ekinocio Comunicación

@@ -5,6 +5,7 @@
 }
 .ly-lateral-side {
   grid-column: content-start / center-start;
+  text-align: right;
 }
 .ly-lateral-content {
   grid-column: center-start / content-end;

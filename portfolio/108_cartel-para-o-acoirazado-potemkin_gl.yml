@@ -44,10 +44,7 @@ tags: []
 members_id:
   - 40
 lang: gl
-info:
-  - name: Cliente
-    value: Swiss Style Design
-  - name: Ano
-    value: "2014"
 draft: true
 oldUrl: /gl/portfolio/cartel-para-o-acoirazado-potemkin/
+year: "2014"
+client: Swiss Style Design

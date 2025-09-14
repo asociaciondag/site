@@ -32,12 +32,8 @@ members_id:
   - 3
   - 18
 lang: es
-info:
-  - name: Estudio
-    value: Ekinocio comunicación
-  - name: Cliente
-    value: Miñi e Curru Barreiro
-  - name: Año
-    value: "2012"
 draft: true
 oldUrl: /es/portfolio/cousalinda/
+year: "2012"
+client: Miñi e Curru Barreiro
+studio: Ekinocio comunicación

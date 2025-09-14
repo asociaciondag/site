@@ -22,11 +22,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Grupo Revisión Deseño
-  - name: Cliente
-    value: Producións As de Corazóns / Concello da Coruña
-  - name: Ano
-    value: "2010"
 draft: false
+year: "2010"
+client: Producións As de Corazóns / Concello da Coruña
+studio: Grupo Revisión Deseño

@@ -24,8 +24,6 @@ tags:
 members_id:
   - 69
 lang: es
-info:
-  - name: Cliente
-    value: A taberna
 draft: false
 oldUrl: /es/portfolio/a-taberna/
+client: A taberna

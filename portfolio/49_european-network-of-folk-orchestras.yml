@@ -55,13 +55,9 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Uqui.net
-  - name: Cliente
-    value: >-
-      Escola Municipal de Música Tradicional e Folk (e-Trad) / Servizo de
-      Educación, Concello de Vigo
-  - name: Ano
-    value: "2011"
 draft: false
+year: "2011"
+client: >-
+  Escola Municipal de Música Tradicional e Folk (e-Trad) / Servizo de Educación,
+  Concello de Vigo
+studio: Uqui.net

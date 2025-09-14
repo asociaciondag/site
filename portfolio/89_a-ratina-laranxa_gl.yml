@@ -33,11 +33,9 @@ members_id:
   - 33
 lang: gl
 info:
-  - name: Cliente
-    value: Cuarteto Caramuxo
-  - name: Ano
-    value: "2010"
   - name: Ilustración e deseño de maqueta discográfica
     value: Tiruriru
 draft: false
 oldUrl: /gl/portfolio/a-ratina-laranxa/
+year: "2010"
+client: Cuarteto Caramuxo

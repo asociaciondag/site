@@ -28,10 +28,8 @@ lang:
   - gl
   - es
 info:
-  - name: Cliente
-    value: MAUmarela! Centro de Creatividade Pedagóxica
   - name: Empresa
     value: MAUmarela! Centro de Creatividade Pedagóxica
-  - name: Ano
-    value: "2015"
 draft: true
+year: "2015"
+client: MAUmarela! Centro de Creatividade Pedagóxica

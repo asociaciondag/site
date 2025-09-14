@@ -16,12 +16,8 @@ members_id:
   - 11
   - 15
 lang: gl
-info:
-  - name: Estudio
-    value: Sond3
-  - name: Cliente
-    value: Xunta de Galicia
-  - name: Ano
-    value: "2009"
 draft: true
 oldUrl: /gl/portfolio/feliz-san-froilan/
+year: "2009"
+client: Xunta de Galicia
+studio: Sond3

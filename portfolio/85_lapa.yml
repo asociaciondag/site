@@ -31,11 +31,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: OGráfico
-  - name: Cliente
-    value: CSIC Centro Superior de Investigacións Científicas
-  - name: Ano
-    value: "2009"
 draft: false
+year: "2009"
+client: CSIC Centro Superior de Investigacións Científicas
+studio: OGráfico

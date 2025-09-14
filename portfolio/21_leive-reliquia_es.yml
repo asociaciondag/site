@@ -20,12 +20,8 @@ members_id:
   - 2
   - 16
 lang: es
-info:
-  - name: Estudio
-    value: Desoños
-  - name: Cliente
-    value: Bodegas Aurea Lux
-  - name: Año
-    value: "2012"
 draft: false
 oldUrl: /es/portfolio/leive-reliquia/
+year: "2012"
+client: Bodegas Aurea Lux
+studio: Desoños

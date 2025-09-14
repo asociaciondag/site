@@ -37,11 +37,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Desoños
-  - name: Cliente
-    value: Fundación Barrié
-  - name: Ano
-    value: 2011-2012
 draft: false
+year: 2011-2012
+client: Fundación Barrié
+studio: Desoños

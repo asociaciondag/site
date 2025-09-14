@@ -19,10 +19,8 @@ lang:
   - gl
   - es
 info:
-  - name: Cliente
-    value: "Noratrans, empresa de loxística"
   - name: Empresa
     value: The Quiz Project
-  - name: Ano
-    value: "2014"
 draft: true
+year: "2014"
+client: "Noratrans, empresa de loxística"

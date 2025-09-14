@@ -20,11 +20,25 @@
   line-height: var(--line-xshort);
   margin: 0;
 }
-.header-description {
+.header-subtitle {
+  margin: 0;
   font-size: var(--size-2);
+  line-height: var(--line-base);
 
   p {
     margin: 0;
+  }
+}
+.header-description {
+  font-size: var(--size-2);
+  line-height: var(--line-text);
+
+  p {
+    margin: 0.5em 0 0;
+
+    + p {
+      text-indent: 1em;
+    }
   }
 }
 .header-filter {
@@ -39,6 +53,8 @@
 }
 
 .header-img {
+  --img-height: 500px;
+
   margin: 0;
   max-width: var(--img-width);
 
@@ -46,8 +62,12 @@
     --shadow-color: #000;
     position: absolute;
     right: 0;
-    top: 50%;
+    top: min(50%, var(--img-height) / 2);
     transform: rotate(3deg) translate(2rem, -50%);
     box-shadow: 0 10px 120px rgb(from var(--shadow-color) r g b / 0.4);
+
+    @media (width > 1600px) {
+      right: -5vw;
+    }
   }
 }

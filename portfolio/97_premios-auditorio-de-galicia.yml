@@ -50,12 +50,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: "Uqui-Cebra e [sic] laboratorio audiovisual"
-  - name: Cliente
-    value: Concellaría de Cultura. Concello de Santiago de Compostela
-  - name: Ano
-    value: 2009/2010
   - name: Música
     value: Xesús Valle
 draft: false
+year: 2009/2010
+client: Concellaría de Cultura. Concello de Santiago de Compostela
+studio: "Uqui-Cebra e [sic] laboratorio audiovisual"

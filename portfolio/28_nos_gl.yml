@@ -34,10 +34,7 @@ tags:
 members_id:
   - 33
 lang: gl
-info:
-  - name: Cliente
-    value: Agrupación Cultural Nós (Moaña)
-  - name: Ano
-    value: "2012"
 draft: true
 oldUrl: /gl/portfolio/nos/
+year: "2012"
+client: Agrupación Cultural Nós (Moaña)

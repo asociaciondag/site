@@ -44,11 +44,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: A navalla suíza
-  - name: Cliente
-    value: Siniestro Total
-  - name: Ano
-    value: "2010"
 draft: true
+year: "2010"
+client: Siniestro Total
+studio: A navalla suíza

@@ -15,7 +15,7 @@
 
   /* Letter spacing */
   --size-4-spacing: -0.025em;
-  --size-7-spacing: -0.05em;
+  --size-7-spacing: -0.04em;
 
   /* Font family */
   --font-family: Isaac, system-ui, sans-serif;
@@ -38,6 +38,7 @@
   /* FX */
   --border-radius: 6px;
   --duration: 200ms;
+  --duration-medium: 400ms;
 }
 
 /* @link https://utopia.fyi/space/calculator?c=320,16,1.2,1240,16,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */

@@ -20,9 +20,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Cliente
-    value: The Quiz Project
-  - name: Ano
-    value: "2015"
 draft: true
+year: "2015"
+client: The Quiz Project

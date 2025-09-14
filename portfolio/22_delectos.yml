@@ -45,11 +45,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Cenlitrosmetrocadrado
-  - name: Cliente
-    value: Delectos
-  - name: Ano
-    value: "2012"
 draft: true
+year: "2012"
+client: Delectos
+studio: Cenlitrosmetrocadrado

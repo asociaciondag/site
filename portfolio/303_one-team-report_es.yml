@@ -15,8 +15,6 @@ tags:
 members_id:
   - 69
 lang: es
-info:
-  - name: Cliente
-    value: proyecto propio
 draft: false
 oldUrl: /es/portfolio/one-team-report-es/
+client: proyecto propio

@@ -29,10 +29,7 @@ tags:
 members_id:
   - 23
 lang: es
-info:
-  - name: "Cliente:"
-    value: Universidad de Vigo
-  - name: "Año:"
-    value: "2016"
 draft: false
 oldUrl: /es/portfolio/afinidades-selectivas/
+year: "2016"
+client: Universidad de Vigo

@@ -45,7 +45,5 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: "Cliente:"
-    value: Roctool
 draft: false
+client: Roctool

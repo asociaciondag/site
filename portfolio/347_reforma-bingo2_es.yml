@@ -35,9 +35,8 @@ members_id:
   - 77
 lang: es
 info:
-  - name: Año
-    value: "2016"
   - name: Lugar
     value: Vigo
 draft: false
 oldUrl: /es/portfolio/reforma-bingo2-es/
+year: "2016"

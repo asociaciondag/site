@@ -29,11 +29,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Era Comunicación
-  - name: Cliente
-    value: Universidade de Vigo. Vicerreitoría do Campus de Pontevedra
-  - name: Ano
-    value: "2012"
 draft: false
+year: "2012"
+client: Universidade de Vigo. Vicerreitoría do Campus de Pontevedra
+studio: Era Comunicación

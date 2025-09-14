@@ -39,12 +39,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Grupo Revisión Deseño
-  - name: Cliente
-    value: Concello de Rianxo
-  - name: Ano
-    value: "2011"
   - name: Execución de montaxe
     value: Aritfacto Cultural
 draft: false
+year: "2011"
+client: Concello de Rianxo
+studio: Grupo Revisión Deseño

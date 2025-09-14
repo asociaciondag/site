@@ -41,11 +41,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: A navalla suíza
-  - name: Cliente
-    value: Axencia Audiovisual Galega
-  - name: Ano
-    value: "2008"
 draft: true
+year: "2008"
+client: Axencia Audiovisual Galega
+studio: A navalla suíza

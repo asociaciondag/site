@@ -98,14 +98,11 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Uqui.net
   - name: Proxecto
     value: Exposición e catálogo de Gallaecia Petrea
-  - name: Cliente
-    value: Fundación Cidade da Cultura / Xunta de Galicia
-  - name: Ano
-    value: "2012"
   - name: Colaboradores
     value: "Fotografía: Ovidio Aldegunde"
 draft: false
+year: "2012"
+client: Fundación Cidade da Cultura / Xunta de Galicia
+studio: Uqui.net

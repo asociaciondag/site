@@ -55,11 +55,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Sond3
-  - name: Cliente
-    value: Carlos Montero
-  - name: Ano
-    value: "2012"
 draft: true
+year: "2012"
+client: Carlos Montero
+studio: Sond3

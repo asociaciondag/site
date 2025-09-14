@@ -63,12 +63,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Desoños
-  - name: Cliente
-    value: Concello de Vigo
-  - name: Ano
-    value: 2011-2012
   - name: Colaboradores
     value: Rehabilitación do edificio Rodríguez e Rivoira Arquitectos
 draft: false
+year: 2011-2012
+client: Concello de Vigo
+studio: Desoños

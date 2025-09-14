@@ -50,11 +50,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: A navalla suíza
-  - name: Cliente
-    value: Autoencargo
-  - name: Ano
-    value: "2010"
 draft: true
+year: "2010"
+client: Autoencargo
+studio: A navalla suíza

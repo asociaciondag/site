@@ -14,6 +14,18 @@
   cursor: pointer;
   font-size: var(--size-1);
 
+  &.is-small {
+    font-size: var(--size-0);
+    height: var(--size-3);
+  }
+
+  &.no-border {
+    --border: transparent;
+  }
+}
+
+a.filter,
+button.filter {
   &:hover {
     --background: var(--color-black);
     --text: var(--color-white);

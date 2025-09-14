@@ -35,9 +35,8 @@ members_id:
   - 77
 lang: gl
 info:
-  - name: Ano
-    value: "2016"
   - name: Lugar
     value: Vigo
 draft: false
 oldUrl: /gl/portfolio/reforma-bingo2/
+year: "2016"

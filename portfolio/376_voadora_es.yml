@@ -13,8 +13,6 @@ tags:
 members_id:
   - 81
 lang: es
-info:
-  - name: Cliente
-    value: Voadora
 draft: false
 oldUrl: /es/portfolio/voadora-es/
+client: Voadora

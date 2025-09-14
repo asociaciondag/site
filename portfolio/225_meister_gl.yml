@@ -58,15 +58,10 @@ members_id:
   - 56
 lang: gl
 info:
-  - name: "Proxecto:"
-    value: Meister
   - name: Coautor
     value: Noel Pretorius
-  - name: "Estudio:"
-    value: NM type
-  - name: "Cliente:"
-    value: Jägermeister e Opperman Weiss
-  - name: "Ano:"
-    value: "2018"
 draft: true
 oldUrl: /gl/portfolio/meister/
+year: "2018"
+client: Jägermeister e Opperman Weiss
+studio: NM type

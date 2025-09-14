@@ -38,11 +38,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Era comunicación
-  - name: Cliente
-    value: Concello de Pontevedra. Concellería de Festas
-  - name: Ano
-    value: "2012"
 draft: false
+year: "2012"
+client: Concello de Pontevedra. Concellería de Festas
+studio: Era comunicación

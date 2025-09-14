@@ -63,12 +63,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Cenlitrosmetrocadrado
-  - name: Cliente
-    value: Autoencargo
-  - name: Ano
-    value: 2011-2012
   - name: Colaboradores
     value: "Óscar Penedo, carpinteiro; Confecciones NV, bolsas"
 draft: true
+year: 2011-2012
+client: Autoencargo
+studio: Cenlitrosmetrocadrado

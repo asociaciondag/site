@@ -28,11 +28,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: De dominio público
-  - name: Cliente
-    value: Concello de Pontevedra
-  - name: Ano
-    value: "2009"
 draft: false
+year: "2009"
+client: Concello de Pontevedra
+studio: De dominio público

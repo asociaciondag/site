@@ -24,9 +24,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Cliente
-    value: "MAF, cuchillería artesanal"
-  - name: Ano
-    value: "2012"
 draft: true
+year: "2012"
+client: "MAF, cuchillería artesanal"

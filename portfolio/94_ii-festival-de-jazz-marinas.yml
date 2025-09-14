@@ -54,11 +54,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Desescribir
-  - name: Cliente
-    value: Consorcio das Mariñas. Deputación da Coruña
-  - name: Ano
-    value: "2009"
 draft: true
+year: "2009"
+client: Consorcio das Mariñas. Deputación da Coruña
+studio: Desescribir

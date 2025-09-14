@@ -29,9 +29,6 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Cliente
-    value: Proxecto persoal
-  - name: Ano
-    value: "2015"
 draft: true
+year: "2015"
+client: Proxecto persoal

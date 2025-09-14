@@ -59,11 +59,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: Desescribir
-  - name: Cliente
-    value: Cluster da Pizarra de Galicia
-  - name: Ano
-    value: "2011"
 draft: true
+year: "2011"
+client: Cluster da Pizarra de Galicia
+studio: Desescribir

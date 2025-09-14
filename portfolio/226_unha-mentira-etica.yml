@@ -50,7 +50,5 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: "Cliente:"
-    value: " Grupo Swatch"
 draft: false
+client: " Grupo Swatch"

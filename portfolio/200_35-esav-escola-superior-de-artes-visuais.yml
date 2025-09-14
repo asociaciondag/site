@@ -70,16 +70,13 @@ lang:
   - gl
   - es
 info:
-  - name: "Estudio:"
-    value: Rafa Cáccamo
-  - name: "Proxecto:"
+  - name: Proxecto
     value: Identidade de 35. ESAV
-  - name: "Cliente:"
-    value: Escola Superior de Artes Visuais
-  - name: "Ano:"
-    value: "2017"
-  - name: "Colaboradores:"
+  - name: Colaboradores
     value: >-
       Xisela Franco, Juan Pablo Moreiras, Enrique Touriño, Eutropio Rodríguez,
       Javier Fernández Pérez de Lis
 draft: false
+year: "2017"
+client: Escola Superior de Artes Visuais
+studio: Rafa Cáccamo

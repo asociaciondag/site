@@ -39,10 +39,8 @@ lang:
   - gl
   - es
 info:
-  - name: Cliente
-    value: Hachedè Visual
-  - name: Ano
-    value: "2009"
   - name: Programación
     value: Diego Vilariño
 draft: true
+year: "2009"
+client: Hachedè Visual

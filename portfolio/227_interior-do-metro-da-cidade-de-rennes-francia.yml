@@ -44,7 +44,5 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: "Cliente:"
-    value: Cidade de Rennes
 draft: false
+client: Cidade de Rennes

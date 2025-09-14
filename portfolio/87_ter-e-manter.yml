@@ -54,12 +54,9 @@ lang:
   - gl
   - es
 info:
-  - name: Estudio
-    value: Cenlitrosmetrocadrado
-  - name: Cliente
-    value: Consorcio de Santiago
-  - name: Ano
-    value: "2009"
   - name: Fotografía
     value: Javier Iglesias
 draft: true
+year: "2009"
+client: Consorcio de Santiago
+studio: Cenlitrosmetrocadrado

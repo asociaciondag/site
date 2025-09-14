@@ -1,36 +1,28 @@
-<article class="portfolio">
-  <a href="{{ portfolio.url }}">
+<article>
+  <a class="portfolio" href="{{ portfolio.url }}">
+    <img class="portfolio-image" src="{{ portfolio.cover }}" width="420" alt="">
+
     <header class="portfolio-header">
-      <h1>{{ portfolio.title }}</h1>
+      <h1 class="portfolio-title">{{ portfolio.title }}</h1>
 
-      {{ if portfolio.tags?.length }}
-        <ul>
-          {{ for tag of portfolio.tags }}
-            <li>{{ tag }}</li>
-          {{ /for }}
-        </ul>
-      {{ /if }}
-
-      {{ if portfolio.info }}
-        <dl>
-          {{ for item of portfolio.info }}
-            <dt>{{ item.name }}</dt>
-            <dd>{{ item.value }}</dd>
-          {{ /for }}
-        </dl>
-      {{ /if }}
-
-      <ul class="portfolio-authors">
-        {{ for member of portfolio.members }}
-          <li class="member-name">
-            <span>{{ member.name }}</span>
-          </li>
-        {{ /for }}
-      </ul>
+      <p class="portfolio-description">
+        {{ if portfolio.year || portfolio.studio }}
+          © {{ if portfolio.year }}{{ portfolio.year }}{{ /if }}
+          {{ if portfolio.studio }}<strong> {{ portfolio.studio }}</strong>
+          {{ /if }}
+          <br>{{ if portfolio.client }}{{ portfolio.client }}{{ /if }}
+        {{ else if portfolio.client }}
+          {{ portfolio.client }}
+        {{ /if }}
+      </p>
     </header>
 
-    <figure class="portfolio-image">
-      <img src="{{ portfolio.cover }}" width="420" alt="">
-    </figure>
+    {{ if portfolio.tags?.length }}
+      <ul class="portfolio-tags ly-tags">
+        {{ for tag of portfolio.tags }}
+          <li class="filter is-small no-border">{{ tag }}</li>
+        {{ /for }}
+      </ul>
+    {{ /if }}
   </a>
 </article>

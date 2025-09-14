@@ -20,10 +20,7 @@ tags:
 members_id:
   - 23
 lang: gl
-info:
-  - name: "Cliente:"
-    value: Concello de Poio
-  - name: "Ano:"
-    value: "2017"
 draft: false
 oldUrl: /gl/portfolio/identidade-do-concello-de-poio/
+year: "2017"
+client: Concello de Poio

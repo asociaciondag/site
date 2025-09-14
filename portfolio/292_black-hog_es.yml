@@ -35,8 +35,6 @@ tags:
 members_id:
   - 69
 lang: es
-info:
-  - name: Cliente
-    value: Black-Hog
 draft: false
 oldUrl: /es/portfolio/black-hog/
+client: Black-Hog

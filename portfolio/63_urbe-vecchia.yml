@@ -30,11 +30,7 @@ members_id:
 lang:
   - gl
   - es
-info:
-  - name: Estudio
-    value: OGráfico
-  - name: Cliente
-    value: Urbe Vecchia. Promotora inmobiliaria
-  - name: Ano
-    value: "2009"
 draft: false
+year: "2009"
+client: Urbe Vecchia. Promotora inmobiliaria
+studio: OGráfico

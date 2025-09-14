@@ -23,10 +23,7 @@ tags:
 members_id:
   - 23
 lang: es
-info:
-  - name: "Cliente:"
-    value: Cuatrotercios
-  - name: "Año:"
-    value: "2017"
 draft: false
 oldUrl: /es/portfolio/cuatrotercios/
+year: "2017"
+client: Cuatrotercios

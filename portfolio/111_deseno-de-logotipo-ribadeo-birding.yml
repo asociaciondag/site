@@ -23,10 +23,8 @@ lang:
   - gl
   - es
 info:
-  - name: Cliente
-    value: Concello de Ribadeo
   - name: Empresa
     value: "Pekecha, Creatividade Digital"
-  - name: Ano
-    value: "2013"
 draft: true
+year: "2013"
+client: Concello de Ribadeo

@@ -13,8 +13,6 @@ tags:
 members_id:
   - 81
 lang: es
-info:
-  - name: Cliente
-    value: Inditex
 draft: false
 oldUrl: /es/portfolio/zara-versus-es/
+client: Inditex

@@ -15,7 +15,6 @@ lang: es
 info:
   - name: Proyecto
     value: Matadero Asador
-  - name: Año
-    value: "2019"
 draft: false
 oldUrl: /es/portfolio/matadero/
+year: "2019"
