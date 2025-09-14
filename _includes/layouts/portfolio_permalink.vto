@@ -2,39 +2,60 @@
 layout: ./base.vto
 ---
 
-<article>
-  <header>
-    <h1>{{ title }}</h1>
-  </header>
+{{ set backPage = members?.length === 1 ? members[0] : null }}
 
-  {{ if info }}
-    <dl class="portfolio-data">
-      {{ for item of info }}
-        <dt>{{ item.name }}</dt>
-        <dd>{{ item.value }}</dd>
-      {{ /for }}
-    </dl>
-  {{ /if }}
+{{ if backPage }}
+  <a class="back" href="{{ backPage.url }}">
+    <img src="{{ 'arrow/arrow_left_line' |> icon("mingcute") }}">
+    <span>{{ backPage.name }}</span>
+  </a>
+{{ /if }}
 
-  <ul>
-    {{ for member of members }}
-      <li>
-        <a href="{{ member.url }}">
-          <img
-            src="{{ member.avatar }}"
-            width="48"
-            height="48"
-            alt="{{ member.name }}"
-          >
-          <span>{{ member.name }}</span>
-        </a>
-      </li>
+<header class="header">
+  <h1 class="header-title">{{ title }}</h1>
+  <p class="header-subtitle">
+    {{ if year || studio }}
+      © {{ if year }}{{ year }}{{ /if }}
+      {{ if studio }}<strong> {{ studio }}</strong>
+      {{ /if }}
+      <br>{{ if client }}{{ client }}{{ /if }}
+    {{ else if client }}
+      {{ client }}
+    {{ /if }}
+  </p>
+</header>
+
+<ul class="portfolio-members ly-grid top-m-xl">
+  {{ for member of members }}
+    <li>
+      <a class="member" href="{{ member.url }}">
+        <img
+          width="100"
+          class="member-avatar"
+          src="{{ member.avatar }}"
+          alt="Avatar de {{ member.name }}"
+        >
+
+        <div class="member-header">
+          <strong class="member-name">{{ member.name }}</strong>
+          <p class="member-job">{{ member.job }}</p>
+        </div>
+      </a>
+    </li>
+  {{ /for }}
+</ul>
+
+{{ if info }}
+  <dl class="map top-m-xl">
+    {{ for item of info }}
+      <dt>{{ item.name }}</dt>
+      <dd>{{ item.value }}</dd>
     {{ /for }}
-  </ul>
+  </dl>
+{{ /if }}
 
-  <div>
-    {{ for block of body }}
-      {{ await comp[block.type](block) }}
-    {{ /for }}
-  </div>
-</article>
+<div class="blocks top-m-xl">
+  {{ for block of body }}
+    {{ await comp[block.type](block) }}
+  {{ /for }}
+</div>

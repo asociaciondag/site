@@ -50,3 +50,7 @@
     margin: 0;
   }
 }
+.portfolio-members {
+  --width: 300px;
+  grid-column: center-start / content-end;
+}

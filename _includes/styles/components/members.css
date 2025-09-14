@@ -13,8 +13,6 @@
 
   .member-avatar {
     grid-area: avatar;
-    transition-property: filter, transform;
-    transition-duration: var(--duration);
   }
 
   .member-header {
@@ -69,6 +67,8 @@
   height: auto;
   object-fit: cover;
   border-radius: var(--border-radius);
+  transition-property: filter, transform;
+  transition-duration: var(--duration);
 }
 
 .member-address {
@@ -78,5 +78,34 @@
 
   p {
     margin: 0;
+  }
+}
+
+.portfolio-members {
+  .member {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    grid-template-areas: "avatar header";
+    align-content: start;
+    align-items: center;
+    column-gap: var(--space-s);
+    text-decoration: none;
+  }
+
+  .member-name {
+    font-size: var(--size-2);
+    margin: 0;
+  }
+
+  .member-job {
+    font-size: var(--size-0);
+    text-wrap: balance;
+    margin: 0;
+  }
+  .member:hover {
+    .member-avatar {
+      filter: brightness(50%);
+      transform: scale(1.04);
+    }
   }
 }

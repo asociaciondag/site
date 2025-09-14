@@ -5,7 +5,7 @@ layout: layouts/base.vto
 {{ set backPage = search.page(`id=members lang=${lang}`) }}
 <a class="back" href="{{ backPage.url }}">
   <img src="{{ 'arrow/arrow_left_line' |> icon("mingcute") }}">
-  <span>Volver</span>
+  <span>{{ backPage.title }}</span>
 </a>
 
 <header class="header">
@@ -68,7 +68,7 @@ layout: layouts/base.vto
 </header>
 
 {{ if portfolios?.length }}
-  <aside class="ly-lateral top-m-xl">
+  <aside class="ly-lateral top-6xl">
     <header class="ly-lateral-side subheader">
       <h2 class="subheader-title">{{ t.members.projects }}</h2>
     </header>

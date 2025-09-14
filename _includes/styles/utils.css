@@ -1,3 +1,12 @@
 .top-m-xl {
   margin-top: var(--space-m-xl);
 }
+.top-2xl {
+  margin-top: var(--space-2xl);
+}
+.top-4xl {
+  margin-top: var(--space-4xl);
+}
+.top-6xl {
+  margin-top: var(--space-6xl);
+}

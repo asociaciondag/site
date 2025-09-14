@@ -2,19 +2,54 @@
   display: grid;
   grid-column: full;
   grid-template-columns: subgrid;
+  row-gap: var(--space-m-2xl);
 }
 .section {
   grid-column: center;
 }
 
 .section-text {
+  grid-column: center-start / content-end;
   font-size: var(--size-2);
   line-height: var(--line-text);
+  max-width: 45em;
+
+  p {
+    margin: 0.5em 0 0;
+
+    + p {
+      text-indent: 1em;
+    }
+  }
+
+  h2 {
+    font-size: var(--size-4);
+    letter-spacing: var(--size-4-spacing);
+    line-height: var(--line-base);
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+  h3 {
+    font-size: var(--size-3);
+    letter-spacing: var(--size-3-spacing);
+    line-height: var(--line-base);
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+  h4 {
+    font-size: var(--size-2);
+    letter-spacing: var(--size-2-spacing);
+    line-height: var(--line-base);
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
 }
 .section-image {
   grid-column: content;
   display: grid;
   grid-template-columns: subgrid;
+  margin: 0;
+  padding: 0;
 
   figcaption {
     grid-row: 1;
@@ -28,7 +63,7 @@
   }
   img {
     display: block;
-    max-width: 100%;
+    width: min(100%, 1200px);
     border-radius: var(--border-radius);
   }
 }

@@ -19,5 +19,6 @@
 @import "styles/components/link.css" layer(components);
 @import "styles/components/blocks.css" layer(components);
 @import "styles/components/submenu.css" layer(components);
+@import "styles/components/map.css" layer(components);
 
 @import "styles/utils.css" layer(utils);

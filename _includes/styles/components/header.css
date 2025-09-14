@@ -1,7 +1,6 @@
 .header {
   display: grid;
   row-gap: var(--space-s);
-  margin-bottom: 100px;
   grid-column: content;
   align-content: start;
   max-width: 800px;
@@ -64,10 +63,26 @@
     right: 0;
     top: min(50%, var(--img-height) / 2);
     transform: rotate(3deg) translate(2rem, -50%);
-    box-shadow: 0 10px 120px rgb(from var(--shadow-color) r g b / 0.4);
+    filter: drop-shadow(
+      -20px
+      30px
+      50px
+      rgb(from var(--shadow-color) r g b / 0.4)
+    );
 
     @media (width > 1600px) {
       right: -5vw;
+    }
+
+    + :where(.header-img.is-floating) {
+      transform: rotate(6deg) translate(6rem, -45%);
+
+      + :where(.header-img.is-floating) {
+        transform: rotate(9deg) translate(10rem, -40%);
+      }
+    }
+    &:hover {
+      z-index: 1;
     }
   }
 }

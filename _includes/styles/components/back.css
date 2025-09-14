@@ -25,6 +25,7 @@
       transition-duration: var(--duration-medium);
       transition-timing-function: ease-in-out;
       opacity: 0;
+      white-space: nowrap;
     }
     &:hover span {
       max-width: 100%;

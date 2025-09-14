@@ -7,7 +7,8 @@
   margin: 0;
   padding: 0;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(var(--width), 100%), 1fr));
+  grid-template-columns:
+    repeat(auto-fill, minmax(min(var(--width), 100%), 1fr));
   column-gap: var(--column-gap);
   row-gap: var(--row-gap);
   grid-column: content;
