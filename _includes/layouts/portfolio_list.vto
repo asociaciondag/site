@@ -1,8 +1,21 @@
 ---
 layout: ./base.vto
 ---
-{{ set portfolios = search.pages("type=portfolio lang=" + lang, "name=asc") }}
 
-{{ for portfolio of portfolios }}
-  {{ include "templates/portfolio-list.vto" { portfolio } }}
-{{ /for }}
+<header class="header">
+  <h1 class="header-title">{{ title }}</h1>
+
+  <div class="header-subtitle">{{ description |> md }}</div>
+
+  <div class="header-filter ly-tags">
+    {{ for tag of search.values("tags", "type=portfolio lang=" + lang).sort() }}
+      <span class="filter">{{ tag }}</span>
+    {{ /for }}
+  </div>
+</header>
+
+<div class="ly-grid portfolio-grid top-xl-2xl">
+  {{ for portfolio of results }}
+    {{ include "templates/portfolio-list.vto" { portfolio } }}
+  {{ /for }}
+</div>

@@ -16,6 +16,7 @@
   text-decoration: none;
 
   &.is-small {
+    --border: var(--color-line);
     font-size: var(--size-0);
     height: var(--size-3);
   }
@@ -30,5 +31,6 @@ button.filter {
   &:hover {
     --background: var(--color-black);
     --text: var(--color-white);
+    --border: var(--color-black);
   }
 }

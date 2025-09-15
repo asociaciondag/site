@@ -35,7 +35,7 @@
 .menu-projects {
   font-size: var(--size-0);
   line-height: var(--line-short);
-  border-left: solid 1px;
+  border-left: solid 1px var(--color-line);
   padding-left: var(--space-m-xl);
 
   > li {
