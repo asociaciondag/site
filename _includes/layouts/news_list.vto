@@ -1,8 +1,31 @@
 ---
 layout: layouts/base.vto
 ---
-{{ set allNews = search.pages("type=news lang=" + lang, "date=desc") }}
 
-{{ for news of allNews }}
-  {{ include "templates/news-list.vto" { news } }}
-{{ /for }}
+<header class="header">
+  <h1 class="header-title">{{ title }}</h1>
+
+  <div class="header-filter ly-tags">
+    {{ for tag of search.values("tags", "type=news lang=" + lang).sort() }}
+      <span class="filter">{{ tag }}</span>
+    {{ /for }}
+  </div>
+</header>
+
+<div class="ly-list news-list top-m-xl">
+  {{ for news of results }}
+    {{ include "templates/news-list.vto" { news } }}
+  {{ /for }}
+</div>
+
+<nav class="pagination">
+  {{ set prev = pagination.previous }}
+  {{ set next = pagination.next }}
+
+  {{ if prev }}
+    <a href="{{ prev }}">Páxina anterior</a>
+  {{ /if }}
+  {{ if next }}
+    <a href="{{ next }}">Páxina seguinte</a>
+  {{ /if }}
+</nav>

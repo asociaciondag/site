@@ -9,15 +9,16 @@
     [content-end] 1fr
     [full-end];
   grid-template-areas:
-    ". logo menu menu . ."
-    "main main main main main main"
-    ". . footer footer footer .";
+    ". logo menu menu ."
+    "main main main main main"
+    ". . footer footer .";
   justify-content: center;
   align-items: start;
   align-content: start;
   gap: var(--space-m-xl);
   margin-block: var(--space-m-xl);
   position: relative;
+  overflow-x: hidden;
 }
 
 .ly-main-logo {

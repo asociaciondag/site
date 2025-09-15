@@ -62,7 +62,7 @@
     position: absolute;
     right: 0;
     top: min(50%, var(--img-height) / 2);
-    transform: rotate(3deg) translate(2rem, -50%);
+    transform: rotate(3deg) translateY(-50%);
     filter: drop-shadow(
       -20px
       30px
@@ -72,17 +72,6 @@
 
     @media (width > 1600px) {
       right: -5vw;
-    }
-
-    + :where(.header-img.is-floating) {
-      transform: rotate(6deg) translate(6rem, -45%);
-
-      + :where(.header-img.is-floating) {
-        transform: rotate(9deg) translate(10rem, -40%);
-      }
-    }
-    &:hover {
-      z-index: 1;
     }
   }
 }

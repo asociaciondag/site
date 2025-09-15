@@ -1,17 +1,17 @@
-<article>
-  <header>
-    <nav>
-      {{ for tag of news.tags }}
-        <a href="/tags/{{ tag }}">{{ tag }}</a>
-      {{ /for }}
-    </nav>
+<article class="news">
+  <time datetime='{{ news.date |> date("DATETIME") }}' class="news-time">
+    {{ news.date |> date("HUMAN_DATE") }}
+  </time>
 
-    <time datetime='{{ news.date |> date("DATETIME") }}'>
-      {{ news.date |> date("HUMAN_DATE") }}
-    </time>
-
-    <h1>
+  <header class="news-header">
+    <h1 class="news-title">
       <a href="{{ news.url }}">{{ news.title }}</a>
     </h1>
+
+    <nav class="news-tags ly-tags">
+      {{ for tag of news.tags }}
+        <a class="filter is-small" href="/tags/{{ tag }}">{{ tag }}</a>
+      {{ /for }}
+    </nav>
   </header>
 </article>
