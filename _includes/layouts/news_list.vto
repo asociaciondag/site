@@ -5,6 +5,8 @@ layout: layouts/base.vto
 <header class="header">
   <h1 class="header-title">{{ title }}</h1>
 
+  <div class="header-subtitle">{{ description |> md }}</div>
+
   <div class="header-filter ly-tags">
     {{ for tag of search.values("tags", "type=news lang=" + lang).sort() }}
       <span class="filter">{{ tag }}</span>
@@ -12,7 +14,7 @@ layout: layouts/base.vto
   </div>
 </header>
 
-<div class="ly-list news-list top-m-xl">
+<div class="ly-list news-list top-xl-2xl">
   {{ for news of results }}
     {{ include "templates/news-list.vto" { news } }}
   {{ /for }}

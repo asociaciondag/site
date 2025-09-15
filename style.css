@@ -13,6 +13,7 @@
 @import "styles/components/menu.css" layer(components);
 @import "styles/components/header.css" layer(components);
 @import "styles/components/back.css" layer(components);
+@import "styles/components/button.css" layer(components);
 @import "styles/components/subheader.css" layer(components);
 @import "styles/components/members.css" layer(components);
 @import "styles/components/portfolio.css" layer(components);

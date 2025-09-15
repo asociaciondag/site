@@ -1,7 +1,9 @@
 :root {
   /* Colors */
   --color-black: #1a1a1a;
+  --color-line: #ddd;
   --color-white: #fff;
+  --color-hover: #eee;
 
   /* Font sizes */
   --size-0: 0.875rem;

@@ -1,28 +1,33 @@
 ---
 layout: layouts/base.vto
 ---
-<article>
-  <header>
-    <nav>
-      {{ for tag of tags }}
-        <a href="/tags/{{ tag }}">{{ tag }}</a>
-      {{ /for }}
-    </nav>
 
-    <time datetime='{{ date |> date("DATETIME") }}'>
-      {{ date |> date("HUMAN_DATE") }}
-    </time>
+{{ set backPage = search.page(`id=news-1 lang=${lang}`) }}
+<a class="back" href="{{ backPage.url }}">
+  <img src="{{ 'arrow/arrow_left_line' |> icon("mingcute") }}">
+  <span>{{ backPage.title }}</span>
+</a>
 
-    <h1>{{ title }}</h1>
-  </header>
+<header class="header">
+  <time class="header-time" datetime='{{ date |> date("DATETIME") }}'>
+    {{ date |> date("HUMAN_DATE") }}
+  </time>
 
-  <div>
+  <h1 class="header-title">{{ title }}</h1>
+
+  <div class="header-description is-big">
     {{ intro |> md }}
   </div>
 
-  <div>
-    {{ for block of body }}
-      {{ await comp[block.type](block) }}
+  <nav class="ly-tags header-filter">
+    {{ for tag of tags }}
+      <a class="filter" href="/tags/{{ tag }}">{{ tag }}</a>
     {{ /for }}
-  </div>
-</article>
+  </nav>
+</header>
+
+<div class="blocks top-2xl">
+  {{ for block of body }}
+    {{ await comp[block.type](block) }}
+  {{ /for }}
+</div>

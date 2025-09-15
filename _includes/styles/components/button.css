@@ -1,0 +1,14 @@
+.button {
+  display: inline-flex;
+  text-decoration: none;
+  font-size: var(--size-2);
+  font-weight: var(--font-bold);
+  border: solid 1px;
+  padding: 0.5em 1em;
+  border-radius: var(--border-radius);
+  color: var(--color-black);
+
+  &:hover {
+    background-color: var(--color-hover);
+  }
+}

@@ -11,6 +11,10 @@
   }
 }
 
+.header-time {
+  font-size: var(--size-0);
+}
+
 .header-title {
   /* font-family: var(--font-display); */
   font-weight: var(--font-black);
@@ -38,6 +42,11 @@
     + p {
       text-indent: 1em;
     }
+  }
+
+  &.is-big {
+    font-size: var(--size-3);
+    line-height: var(--line-base);
   }
 }
 .header-filter {

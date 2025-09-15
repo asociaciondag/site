@@ -1,6 +1,9 @@
 .top-m-xl {
   margin-top: var(--space-m-xl);
 }
+.top-xl-2xl {
+  margin-top: var(--space-xl-2xl);
+}
 .top-2xl {
   margin-top: var(--space-2xl);
 }
