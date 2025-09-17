@@ -18,6 +18,7 @@
 @import "styles/components/members.css" layer(components);
 @import "styles/components/portfolio.css" layer(components);
 @import "styles/components/news.css" layer(components);
+@import "styles/components/projects.css" layer(components);
 @import "styles/components/filter.css" layer(components);
 @import "styles/components/link.css" layer(components);
 @import "styles/components/blocks.css" layer(components);

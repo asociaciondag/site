@@ -4,8 +4,19 @@ lang: [gl, es]
 ---
 
 <section class="news-home">
-  {{ for index, news of search.pages(`type=news lang=${lang}`, "date=desc", 6) }}
-    {{ include "templates/news-grid.vto" { news, main: index === 0 } }}
+  {{ for index, news of search.pages(`type=news lang=${lang}`, "date=desc", 7) }}
+
+    {{ if index === 0 }}
+      {{ include "templates/news-grid.vto" { news, main: true } }}
+      {{ continue }}
+    {{ /if }}
+
+    {{ if index === 1 }}<div class="news-group is-first">{{ /if }}
+    {{ if index === 4 }}</div><div class="news-group is-second">{{ /if }}
+
+    {{ include "templates/news-grid.vto" { news } }}
+
+    {{ if index === 6 }}</div>{{ /if }}
   {{ /for }}
 
   <nav>

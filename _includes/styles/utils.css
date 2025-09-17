@@ -7,6 +7,9 @@
 .top-2xl {
   margin-top: var(--space-2xl);
 }
+.bottom-2xl {
+  margin-bottom: var(--space-2xl);
+}
 .top-4xl {
   margin-top: var(--space-4xl);
 }

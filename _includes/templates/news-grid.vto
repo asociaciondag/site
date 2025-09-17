@@ -1,4 +1,4 @@
-{{ set img = news.body.find((block) => block.type === "image") }}
+{{ set img = main && news.body.find((block) => block.type === "image") }}
 
 <article class="news {{ main ? 'is-main' : 'is-secondary' }}">
   {{ if img }}

@@ -1,7 +1,14 @@
 id: 25
 title: "3º Encontro do Deseño Galego, Cangas"
+description: Celebrado o sábado 18 de xaneiro na Casa do Concello.
 basename: encontro-deseno-cangas
 year: 2025
 cover: /img/projects/cangas-encontro.jpg
 external_url: "https://www.flickr.com/photos/asociaciondag/albums/72177720323320332"
+links:
+  - text: Noticia na web da DAG
+    url: https://dag.gal/gl/encontro-cangas/
+  - text: Galería de imaxes
+    url: https://www.flickr.com/photos/asociaciondag/albums/72177720323320332
+
 draft: false

@@ -3,12 +3,26 @@ layout: ./base.vto
 ---
 {{ set allProjects = search.pages("type=project lang=" + lang) }}
 
-{{ for year, projects of allProjects |> Object.groupBy(({ year }) => year) }}
-  <section>
+<header class="header bottom-2xl">
+  <h1 class="header-title">{{ title }}</h1>
+  <div class="header-subtitle">{{ description |> md }}</div>
+</header>
+
+{{
+  for [year, projects] of allProjects
+  |> Object.groupBy(({ year }) => year)
+  |> Object.entries
+  |> reverse
+}}
+  <section class="ly-list projects-year">
     <h2>{{ year }}</h2>
 
-    {{ for project of projects }}
-      {{ include "templates/project-list.vto" { project } }}
-    {{ /for }}
+    <ul class="project-list">
+      {{ for project of projects }}
+        <li>
+          {{ include "templates/project-list.vto" { project } }}
+        </li>
+      {{ /for }}
+    </ul>
   </section>
 {{ /for }}

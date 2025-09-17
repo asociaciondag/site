@@ -4,8 +4,12 @@ main_menu: projects
 gl:
   title: Proxectos
   url: /proxectos/
+  description: |
+    Esta é unha lista dos proxectos máis importantes que a DAG organizou ou participou na súa organización.
 es:
   title: Proyectos
   url: /es/proyectos/
+  description: |
+    Esta es una lista de los proyectos más importantes que la DAG organizó o partipó en su organización.
 
 id: projects
