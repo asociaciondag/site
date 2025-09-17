@@ -4,15 +4,15 @@ export const lang = ["gl", "es"];
 export const gl = {
   title: "Portfolio",
   description: `
-  Podes suscribirte ao noso [feed RSS](#) para estar ao tanto das últimas novas.
-  Tamén podes seguirnos nas redes sociais de [X](https://x.com/asociaciondag) e [Instagram](https://www.instagram.com/asociaciondag).
+  Esta é unha pequena mostra de proxectos realizados polos socios da DAG.
+  Tamén podes ver a [listaxe de socios](/socios/) e os seus respectivos portfolios.
   `,
 };
 export const es = {
   title: "Portfolio",
   description: `
-  Puedes suscribirte a nuestro [feed RSS](#) para estar al tanto de las últimas noticias.
-  También puedes seguirnos en las redes sociales de [X](https://x.com/asociaciondag) e [Instagram](https://www.instagram.com/asociaciondag).
+  Esta es una pequeña muestra de proyectos realizados por los socios de la DAG.
+  También puedes ver el [listado de socios](/es/socios/) y sus respectivos portfolios.
   `,
 };
 

@@ -26,21 +26,109 @@
     row-gap: var(--space-2xs);
   }
 
-  .news-title {
-    font-size: var(--size-3);
-    letter-spacing: var(--size-3-spacing);
-    margin: 0;
-
-    a {
-      text-decoration: none;
-    }
-  }
-
   .news-time {
     grid-area: time;
 
     @media (min-width: 800px) {
       text-align: right;
     }
+  }
+}
+
+.news-title {
+  font-size: var(--size-3);
+  letter-spacing: var(--size-3-spacing);
+  margin: 0;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.news-image {
+  border-radius: var(--border-radius);
+  max-width: 100%;
+  height: auto;
+}
+
+.news-home {
+  grid-column: content;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  align-content: start;
+  row-gap: var(--space-3xl);
+  column-gap: var(--space-2xl);
+  grid-template-areas: "nth-1 nth-1 nth-1 nth-2"
+                       "nth-3 nth-4 nth-5 nth-6";
+  > :nth-child(1) {
+    grid-area: nth-1;
+  }
+  > :nth-child(2) {
+    grid-area: nth-2;
+  }
+  > :nth-child(3) {
+    grid-area: nth-3;
+  }
+  > :nth-child(4) {
+    grid-area: nth-4;
+  }
+  > :nth-child(5) {
+    grid-area: nth-5;
+  }
+  > :nth-child(6) {
+    grid-area: nth-6;
+  }
+}
+
+.news.is-main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+  grid-template-areas: "content img";
+  column-gap: var(--space-2xl);
+
+  .news-image {
+    grid-area: img;
+  }
+  .news-content {
+    grid-area: content;
+    display: grid;
+    align-content: start;
+    row-gap: var(--space-xs);
+  }
+  .news-intro {
+    font-size: var(--size-2);
+    letter-spacing: var(--size-2-spacing);
+    line-height: var(--line-base);
+  }
+  .news-title {
+    font-size: var(--size-6);
+    line-height: var(--line-xshort);
+    letter-spacing: var(--size-6-spacing);
+  }
+}
+.news.is-secondary {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-areas: "content" "img";
+  column-gap: var(--space-xl);
+
+  .news-image {
+    grid-area: img;
+  }
+  .news-content {
+    grid-area: content;
+    display: grid;
+    align-content: start;
+    row-gap: var(--space-xs);
+  }
+  .news-intro {
+    font-size: var(--size-1);
+    letter-spacing: var(--size-1-spacing);
+    line-height: var(--line-base);
+  }
+  .news-title {
+    font-size: var(--size-4);
+    letter-spacing: var(--size-4-spacing);
+    line-height: var(--line-xshort);
   }
 }

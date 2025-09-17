@@ -1,5 +1,5 @@
 .subheader-title {
-  font-weight: var(--font-black);
+  font-weight: var(--font-bold);
   font-size: var(--size-4);
   letter-spacing: var(--size-4-spacing);
   line-height: var(--line-xshort);

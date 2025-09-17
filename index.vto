@@ -3,13 +3,10 @@ id: home
 lang: [gl, es]
 ---
 
-<section>
-  <div>
-    {{# Lista de noticias #}}
-    {{ for news of search.pages(`type=news lang=${lang}`, "date=desc", 12) }}
-      {{ include "templates/news-grid.vto" { news } }}
-    {{ /for }}
-  </div>
+<section class="news-home">
+  {{ for index, news of search.pages(`type=news lang=${lang}`, "date=desc", 6) }}
+    {{ include "templates/news-grid.vto" { news, main: index === 0 } }}
+  {{ /for }}
 
   <nav>
     {{# Botón ver máis #}}
@@ -18,11 +15,10 @@ lang: [gl, es]
   </nav>
 </section>
 
-<section>
-  {{# Lista de proxectos de socios #}}
+{{# <section>
   {{
     for portfolio of search.pages(`type=portfolio lang=${lang}`, "date=desc", 10)
   }}
     {{ include "templates/portfolio-list.vto" { portfolio } }}
   {{ /for }}
-</section>
+</section> #}}

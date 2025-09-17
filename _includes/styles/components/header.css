@@ -17,7 +17,7 @@
 
 .header-title {
   /* font-family: var(--font-display); */
-  font-weight: var(--font-black);
+  font-weight: var(--font-bold);
   font-size: var(--size-7);
   letter-spacing: var(--size-7-spacing);
   line-height: var(--line-xshort);
