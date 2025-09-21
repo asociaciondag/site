@@ -2,12 +2,12 @@
 menu:
   sections:
     - about
+    - asociate
     - members
     - portfolio-1
-    - asociate
     - news-1
-    - articles
     - projects
+    - articles
   languages:
     gl: 
       name: Galego
@@ -34,17 +34,6 @@ menu:
     <li>
       <strong>Buscar</strong>
     </li>
-  </ul>
-
-  <!-- Menú iniciativas -->
-  <ul class="menu-projects">
-    {{
-      for page of search.pages(`type=project in_menu=true lang=${lang}`, "year=desc")
-    }}
-      <li>
-        <a href="{{ page.external_url }}">{{ page.title }}</a>
-      </li>
-    {{ /for }}
   </ul>
 
   <!-- Menú idiomas -->

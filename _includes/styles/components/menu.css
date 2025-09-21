@@ -27,20 +27,10 @@
   font-size: var(--size-1);
   font-weight: var(--font-bold);
   line-height: var(--line-short);
-
-  @media (width > 900px) {
-    grid-template-columns: repeat(2, max-content);
-  }
-}
-.menu-projects {
-  font-size: var(--size-0);
-  line-height: var(--line-short);
-  border-left: solid 1px var(--color-line);
-  padding-left: var(--space-m-xl);
-
-  > li {
-    max-width: 200px;
-  }
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: 400px;
+  grid-template-columns: repeat(auto-fill, 100px);
 }
 .menu-languages {
   font-size: var(--size-0);

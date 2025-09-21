@@ -1,0 +1,36 @@
+.ly-carousel {
+  --width: 400px;
+  --column-gap: var(--space-m-l);
+  --max-width: calc(1300px + var(--lateral) * 2 + var(--space-m-xl) * 2);
+  --margin-inline: max(50% - var(--max-width) / 2, var(--space-m-xl));
+
+  grid-column: full;
+  display: grid;
+  display: grid;
+  row-gap: var(--space-m-l);
+  grid-template-columns: subgrid;
+
+  > * {
+    grid-column: content;
+  }
+}
+.ly-carousel-items {
+  list-style-type: "";
+  margin: 0;
+  padding: 0 0 var(--space-m-l);
+  display: flex;
+  column-gap: var(--column-gap);
+  overflow-x: auto;
+  grid-column: full;
+
+  > * {
+    width: min(100%, var(--width));
+    flex: 0 0 auto;
+    &:first-child {
+      margin-left: var(--margin-inline);
+    }
+    &:last-child {
+      margin-right: var(--margin-inline);
+    }
+  }
+}

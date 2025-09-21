@@ -1,6 +1,6 @@
-{{ set img = main && news.body.find((block) => block.type === "image") }}
+{{ set img = news.body.find((block) => block.type === "image") }}
 
-<article class="news {{ main ? 'is-main' : 'is-secondary' }}">
+<article class="news">
   {{ if img }}
     <img class="news-image" src="{{ img.image }}">
   {{ /if }}

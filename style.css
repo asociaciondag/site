@@ -8,6 +8,7 @@
 @import "styles/layouts/tags.css" layer(layouts);
 @import "styles/layouts/lateral.css" layer(layouts);
 @import "styles/layouts/list.css" layer(layouts);
+@import "styles/layouts/carousel.css" layer(layouts);
 
 @import "styles/components/navbar.css" layer(components);
 @import "styles/components/menu.css" layer(components);

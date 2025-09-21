@@ -1,22 +1,35 @@
 ---
 id: home
 lang: [gl, es]
+es:
+  projects:
+    title: Proyectos destacados
+gl:
+  projects:
+    title: Proxectos destacados
 ---
 
-<section class="news-home">
-  {{ for index, news of search.pages(`type=news lang=${lang}`, "date=desc", 7) }}
+<section class="projects-home ly-carousel">
+  <header class="subheader">
+    <h2 class="subheader-title">{{ projects.title }}</h2>
+  </header>
 
-    {{ if index === 0 }}
-      {{ include "templates/news-grid.vto" { news, main: true } }}
-      {{ continue }}
-    {{ /if }}
+  <ul class="ly-carousel-items">
+    {{
+      for project of search.pages(`type=project in_home=true lang=${lang}`, "year=desc title=asc")
+    }}
+      <li>
+        {{ include "templates/project-list.vto" { project } }}
+      </li>
+    {{ /for }}
+  </ul>
+</section>
 
-    {{ if index === 1 }}<div class="news-group is-first">{{ /if }}
-    {{ if index === 4 }}</div><div class="news-group is-second">{{ /if }}
-
+<section class="news-home ly-grid">
+  {{
+    for index, news of search.pages(`type=news lang=${lang}`, "date=desc", 6)
+  }}
     {{ include "templates/news-grid.vto" { news } }}
-
-    {{ if index === 6 }}</div>{{ /if }}
   {{ /for }}
 
   <nav>
@@ -25,11 +38,3 @@ lang: [gl, es]
     <a class="button-normal" href="{{ page.url }}">{{ t.home.more_news }}</a>
   </nav>
 </section>
-
-{{# <section>
-  {{
-    for portfolio of search.pages(`type=portfolio lang=${lang}`, "date=desc", 10)
-  }}
-    {{ include "templates/portfolio-list.vto" { portfolio } }}
-  {{ /for }}
-</section> #}}
