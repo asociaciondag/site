@@ -23,3 +23,8 @@ body {
 a {
   color: var(--color-black);
 }
+
+:focus-visible {
+  outline: 2px dashed var(--color-black);
+  outline-offset: 4px;
+}
