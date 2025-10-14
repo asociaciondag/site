@@ -32,5 +32,8 @@ button.filter {
     --background: var(--color-black);
     --text: var(--color-white);
     --border: var(--color-black);
+    transition-property: background, color;
+    transition-duration: var(--duration);
+    transition-timing-function: ease-in-out;
   }
 }

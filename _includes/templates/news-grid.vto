@@ -1,27 +1,26 @@
 {{ set img = news.body.find((block) => block.type === "image") }}
 
 <article class="news">
-  {{ if img }}
-    <img class="news-image" src="{{ img.image }}">
-  {{ /if }}
+  <time class="news-time" datetime='{{ news.date |> date("DATETIME") }}'>
+    {{ news.date |> date("HUMAN_DATE") }}
+  </time>
+
+  <h1 class="news-title">
+    <a href="{{ news.url }}">{{ news.title }}</a>
+  </h1>
 
   <div class="news-content">
-    <time class="news-time" datetime='{{ news.date |> date("DATETIME") }}'>
-      {{ news.date |> date("HUMAN_DATE") }}
-    </time>
-
-    <h1 class="news-title">
-      <a href="{{ news.url }}">{{ news.title }}</a>
-    </h1>
-
+    <div class="news-intro">
+      {{ news.intro |> md }}
+    </div>
     <nav class="ly-tags news-tags">
       {{ for tag of news.tags }}
         <a class="filter is-small" href="{{ tag }}">{{ tag }}</a>
       {{ /for }}
     </nav>
-
-    <div class="news-intro">
-      {{ news.intro |> md }}
-    </div>
   </div>
+
+  {{ if img }}
+    <img class="news-image" src="{{ img.image }}">
+  {{ /if }}
 </article>
