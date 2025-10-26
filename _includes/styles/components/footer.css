@@ -1,0 +1,4 @@
+.footer {
+  --width: 300px;
+  padding-block: var(--space-2xl);
+}

@@ -1,0 +1,45 @@
+<section class="footer ly-grid">
+  <address>
+    {{ t.footer.address |> md }}
+  </address>
+
+  <div>
+    <h4>{{ t.footer.follow }}</h4>
+
+    <ul class="social">
+      <li>
+        <a href="https://x.com/asociaciondag">
+          X
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://es-es.facebook.com/pages/DAG-Asociaci%C3%B3n-Galega-de-Dese%C3%B1adores/149460691764713"
+        >
+          Facebook
+        </a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/asociaciondag/">
+          Instagram
+        </a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/user/dagasociacion/videos">
+          Youtube
+        </a>
+      </li>
+      <li>
+        <a href="http://www.designread.es">
+          {{ t.footer.read_member }}
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <nav>
+    {{ for p of search.pages("footer=true lang=" + lang) }}
+      <a href="{{ p.url }}">{{ p.title }}</a>
+    {{ /for }}
+  </nav>
+</section>

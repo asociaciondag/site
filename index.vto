@@ -9,14 +9,27 @@ gl:
     title: Proxectos destacados
 ---
 
+<section class="section-text">
+  <h2>Somos unha asociación sen ánimo de lucro que se fundou en 2006 e que agrupa a profesionais
+       do deseño de toda Galicia. Abrangue múltiples disciplinas, tales como o deseño gráfico
+       e web, o deseño UX/UI, o deseño industrial, o deseño editorial, o deseño estratéxico
+       ou o deseño de servizos.</h2>
+</section>
+
 <section class="projects-home ly-carousel">
   <header class="subheader">
     <h2 class="subheader-title">{{ projects.title }}</h2>
   </header>
 
+  {{ set projects = search.pages(`type=project in_home=true lang=${lang}`, "year=desc title=asc") }}
+  {{ set featuredProject = projects.find(p => p.featured) }}
+  {{ set otherProjects = projects.filter(p => !p.featured)}}
+  {{ if featuredProject }}
+    {{ include "templates/project-list.vto" { project: featuredProject, featured: true } }}
+  {{ /if }}
   <ul class="ly-carousel-items">
     {{
-      for project of search.pages(`type=project in_home=true lang=${lang}`, "year=desc title=asc")
+      for project of otherProjects
     }}
       <li>
         {{ include "templates/project-list.vto" { project } }}

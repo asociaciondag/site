@@ -26,5 +26,6 @@
 @import "styles/components/submenu.css" layer(components);
 @import "styles/components/map.css" layer(components);
 @import "styles/components/pagination.css" layer(components);
+@import "styles/components/footer.css" layer(components);
 
 @import "styles/utils.css" layer(utils);

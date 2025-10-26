@@ -11,12 +11,12 @@
   grid-template-areas:
     ". logo menu menu ."
     "main main main main main"
-    ". . footer footer .";
+    ". footer footer footer .";
   justify-content: center;
   align-items: start;
   align-content: start;
   gap: var(--space-m-xl);
-  margin-block: var(--space-m-xl);
+  margin-block: var(--space-m-xl) 0;
   position: relative;
   overflow-x: hidden;
 }
@@ -41,12 +41,10 @@
   grid-template-columns: subgrid;
   align-items: start;
   align-content: start;
-  margin-top: var(--space-m-xl);
 }
 
 .ly-main-footer {
   grid-area: footer;
-  display: none;
 }
 
 .ly-main-header {
