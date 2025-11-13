@@ -1,0 +1,27 @@
+.article-list {
+  --width: 300px;
+  --row-gap: var(--space-l-xl);
+
+  display: block;
+  column-width: 300px;
+
+  .article {
+    text-decoration: none;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    grid-template-areas: "image" "header";
+    row-gap: var(--space-s);
+
+    .article-image {
+      grid-area: image;
+      width: min(100%, 400px);
+      object-fit: cover;
+      border-radius: var(--border-radius);
+    }
+
+    .article-title {
+      font-size: var(--size-2);
+      margin: 0;
+    }
+  }
+}

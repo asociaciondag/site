@@ -1,15 +1,16 @@
 <article>
-  <a href="{{ article.url }}">
+  <a class="article" href="{{ article.url }}">
     <img
+      class="article-image"
       src="{{ article.cover }}"
-      width="200"
-      height="120"
+      width="420"
+      height="200"
       alt=""
     >
 
-    <header>
-      <h1>{{ article.title }}</h1>
-      <p>Por {{ article.author }}</p>
+    <header class="article-header">
+      <h1 class="article-title">{{ article.title }}</h1>
+      <p class="article-author">Por {{ article.author }}</p>
     </header>
   </a>
 </article>

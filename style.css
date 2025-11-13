@@ -10,6 +10,7 @@
 @import "styles/layouts/list.css" layer(layouts);
 @import "styles/layouts/carousel.css" layer(layouts);
 
+@import "styles/components/article.css" layer(components);
 @import "styles/components/navbar.css" layer(components);
 @import "styles/components/menu.css" layer(components);
 @import "styles/components/header.css" layer(components);

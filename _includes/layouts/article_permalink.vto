@@ -2,15 +2,19 @@
 layout: layouts/base.vto
 ---
 
-<article>
-  <header>
-    <h1>{{ title }}</h1>
-    <p>Por {{ author }}</p>
-  </header>
+{{ set backPage = search.page(`id=articles lang=${lang}`) }}
+<a class="back" href="{{ backPage.url }}">
+  <img src="{{ 'arrow/arrow_left_line' |> icon("mingcute") }}">
+  <span>{{ backPage.title }}</span>
+</a>
 
-  <div>
-    {{ for block of body }}
-      {{ await comp[block.type](block) }}
-    {{ /for }}
-  </div>
-</article>
+<header class="header">
+  <h1 class="header-title">{{ title }}</h1>
+  <p class="header-description is-big">Por {{ author }}</p>
+</header>
+
+<div class="blocks top-2xl">
+  {{ for block of body }}
+    {{ await comp[block.type](block) }}
+  {{ /for }}
+</div>

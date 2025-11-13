@@ -3,6 +3,8 @@ layout: layouts/base.vto
 ---
 {{ set articles = search.pages(`type=article lang=${lang}`, "date=desc") }}
 
-{{ for article of articles }}
-  {{ include "templates/article-list.vto" { article } }}
-{{ /for }}
+<div class="ly-columns article-list">
+  {{ for article of articles }}
+    {{ include "templates/article-list.vto" { article } }}
+  {{ /for }}
+</div>
