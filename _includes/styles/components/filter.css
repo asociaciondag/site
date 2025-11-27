@@ -28,7 +28,8 @@
 
 a.filter,
 button.filter {
-  &:hover {
+  &:hover,
+  &.is-selected {
     --background: var(--color-black);
     --text: var(--color-white);
     --border: var(--color-black);

@@ -16,17 +16,34 @@ export const es = {
   `,
 };
 
-export default function* ({ search, paginate, lang }: Lume.Data) {
+export default function* ({ search, paginate, lang }: Lume.Data, {slugify}: Lume.Helpers) {
   const pages = search.pages(`type=news lang=${lang}`, "date=desc");
 
   const url = lang === "gl"
     ? (page: number) => (page === 1 ? "/novas/" : `/novas/${page}/`)
-    : (page: number) => (page === 1 ? "/noticias/" : `/noticias/${page}/`);
-
+    : (page: number) => (page === 1 ? "/es/noticias/" : `/es/noticias/${page}/`);
   for (const page of paginate(pages, { url, size: 25 })) {
     yield {
       id: `news-${page.pagination.page}`,
       ...page,
     };
+  }
+
+  const tags = search.values<string>(`tags`, `type=news lang=${lang}`);
+
+  for (const tag of tags) {
+    const slugifyTag = slugify(tag);
+    const pages = search.pages(`type=news lang=${lang} "${tag}"`);
+    const url = lang === "gl"
+      ? (page: number) => (page === 1 ? `/novas/${slugifyTag}/` : `/novas/${slugifyTag}/${page}/`)
+      : (page: number) => (page === 1 ? `/es/noticias/${slugifyTag}/` : `/es/noticias/${slugifyTag}/${page}/`)
+    ;
+    for (const page of paginate(pages, { url, size: 25 })) {
+      yield {
+        id: `news-tags-${slugifyTag}-${page.pagination.page}`,
+        currentTag: tag,
+        ...page,
+      };
+    }
   }
 }
