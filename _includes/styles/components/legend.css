@@ -1,0 +1,42 @@
+.legend {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 2em;
+  row-gap: .5em;
+  font-size: var(--size-0);
+}
+.legend-dot {
+  --color: gray;
+
+  display: flex;
+  align-items: center;
+  column-gap: .5em;
+
+  &::before {
+    content: "";
+    display: block;
+    width: 1em;
+    height: 1em;
+    background-color: var(--color);
+    border-radius: var(--border-radius);
+  }
+}
+.legend-line {
+  border-left: solid var(--border-radius) var(--color);
+}
+
+.legend-dot,
+.legend-line {
+  &.is-dag {
+    --color: var(--color-black);
+  }
+  &.is-member {
+    --color: lightskyblue;
+  }
+  &.is-other {
+    --color: lightgreen;
+  }
+}

@@ -18,6 +18,9 @@ site.add("fonts")
   .add("files")
   .use(date({
     locales: { gl, es },
+    formats: {
+      MONTH: "MMMM yyyy"
+    }
   }))
   .add("style.css")
   .use(favicon())

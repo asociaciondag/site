@@ -4,9 +4,13 @@ lang: [gl, es]
 es:
   projects:
     title: Proyectos destacados
+  events:
+    title: Próximos eventos
 gl:
   projects:
     title: Proxectos destacados
+  events:
+    title: Próximos eventos
 ---
 
 <section class="section-text">
@@ -38,16 +42,42 @@ gl:
   </ul>
 </section>
 
-<section class="news-home ly-grid">
-  {{
-    for index, news of search.pages(`type=news lang=${lang}`, "date=desc", 6)
-  }}
-    {{ include "templates/news-grid.vto" { news } }}
-  {{ /for }}
+<div class="ly-2cols">
+  <section class="ly-2cols-primary news-home ly-grid">
+    {{
+      for index, news of search.pages(`type=news lang=${lang}`, "date=desc", 6)
+    }}
+      {{ include "templates/news-grid.vto" { news } }}
+    {{ /for }}
 
-  <nav>
-    {{# Botón ver máis #}}
-    {{ set page = search.page("id=news-1 lang=" + lang) }}
-    <a class="button-normal" href="{{ page.url }}">{{ t.home.more_news }}</a>
-  </nav>
-</section>
+    <nav>
+      {{# Botón ver máis #}}
+      {{ set page = search.page("id=news-1 lang=" + lang) }}
+      <a class="button-normal" href="{{ page.url }}">{{ t.home.more_news }}</a>
+    </nav>
+  </section>
+
+  <section class="ly-2cols-secondary events-home">
+    {{ set eventsData = search.page(`main_menu=calendar lang=${lang}`) }}
+    {{ set nextEvents = eventsData.events
+      .sort((a, b) => a.date.getTime() < b.date.getTime())
+      .slice(0, 10)
+    }}
+
+    <header class="subheader">
+      <h2 class="subheader-title">{{ events.title }}</h2>
+
+      <ul class="legend subheader-legend">
+        {{ for key, value of eventsData.types }}
+        <li class="legend-dot is-{{ key }}">{{ value }}</li>
+        {{ /for }}
+      </ul>
+    </header>
+
+    <ul class="ly-grid">
+      {{ for event of nextEvents }}
+        {{ include "templates/event.vto" { event } }}
+      {{ /for }}
+    </ul>
+  </section>
+</div>

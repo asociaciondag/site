@@ -49,6 +49,7 @@
     line-height: var(--line-base);
   }
 }
+.header-legend,
 .header-filter {
   margin-top: var(--space-m);
 }

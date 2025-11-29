@@ -1,3 +1,8 @@
+.subheader {
+  display: grid;
+  row-gap: var(--space-m);
+}
+
 .subheader-title {
   font-weight: var(--font-bold);
   font-size: var(--size-4);

@@ -1,0 +1,45 @@
+main_menu: calendar
+layout: layouts/calendar.vto
+lang: [gl, es]
+
+gl:
+  title: Axenda
+  url: /axenda/
+  types:
+    dag: Organiza DAG
+    member: Socios ou socias da DAG
+    other: Outras entidades
+  description: |
+    Aqui mostraremos os próximos eventos organizados pola DAG, polos seus socios ou externos pero que poden resultar interesantes.
+es:
+  title: Agenda
+  url: /agenda/
+  types:
+    dag: Organiza DAG
+    member: Socios o socias de la DAG
+    other: Otras entidades
+  description: |
+    Aqui mostraremos los próximos eventos organizados por la DAG, por sus socios o externos pero que pueden resultar interesantes.
+order: 2
+
+events:
+  - title: 3º encontro do Deseño Galego
+    date: 2025-01-18
+    description: |
+      Celebrado na casa do Concello. Avda. de Castelao, 2. 36940 - Cangas
+    url: https://dag.gal/gl/encontro-cangas/
+    type: dag
+
+  - title: FEED 2025 - Día 1
+    date: 2025-11-07
+    description: |
+      Celebrado na casa do Concello. Avda. de Castelao, 2. 36940 - Cangas
+    url: https://dag.gal/feed2025/
+    type: member
+
+  - title: FEED 2025 - Día 2
+    date: 2025-11-08
+    description: |
+      Celebrado na casa do Concello. Avda. de Castelao, 2. 36940 - Cangas
+    url: https://dag.gal/feed2025/
+    type: other

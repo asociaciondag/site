@@ -9,24 +9,27 @@
 @import "styles/layouts/lateral.css" layer(layouts);
 @import "styles/layouts/list.css" layer(layouts);
 @import "styles/layouts/carousel.css" layer(layouts);
+@import "styles/layouts/2cols.css" layer(layouts);
 
 @import "styles/components/article.css" layer(components);
 @import "styles/components/navbar.css" layer(components);
 @import "styles/components/menu.css" layer(components);
-@import "styles/components/header.css" layer(components);
 @import "styles/components/back.css" layer(components);
 @import "styles/components/button.css" layer(components);
 @import "styles/components/subheader.css" layer(components);
 @import "styles/components/members.css" layer(components);
 @import "styles/components/portfolio.css" layer(components);
 @import "styles/components/news.css" layer(components);
+@import "styles/components/event.css" layer(components);
 @import "styles/components/projects.css" layer(components);
 @import "styles/components/filter.css" layer(components);
+@import "styles/components/legend.css" layer(components);
 @import "styles/components/link.css" layer(components);
 @import "styles/components/blocks.css" layer(components);
 @import "styles/components/submenu.css" layer(components);
 @import "styles/components/map.css" layer(components);
 @import "styles/components/pagination.css" layer(components);
+@import "styles/components/header.css" layer(components);
 @import "styles/components/footer.css" layer(components);
 
 @import "styles/utils.css" layer(utils);

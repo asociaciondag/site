@@ -1,0 +1,23 @@
+.ly-2cols {
+  --second-width: 400px;
+  --column-gap: var(--space-m-l);
+  --row-gap: var(--space-m-l);
+
+  grid-column: content;
+  display: grid;
+  grid-template-areas: "primary" "secondary";
+  grid-template-columns: minmax(0, 1fr);
+  row-gap: var(--row-gap);
+  column-gap: var(--row-gap);
+
+  @media (min-width: 1000px) {
+    grid-template-areas: "primary secondary";
+    grid-template-columns: minmax(0, 1fr) minmax(0, var(--second-width));
+  }
+}
+.ly-2cols-primary {
+  grid-area: primary;
+}
+.ly-2cols-secondary {
+  grid-area: secondary;
+}
