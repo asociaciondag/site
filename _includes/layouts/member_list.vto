@@ -11,14 +11,19 @@ layout: ./base.vto
 
   <div class="header-filter ly-tags">
     {{ for tag of search.values("tags", "type=member lang=" + lang).sort() }}
-      <span class="filter">{{ tag }}</span>
+    {{ set urlTag = lang ===
+      'gl' ? `/socios/${tag}/`
+      : `/es/socios/${tag}/`
+      |> slugify
+    }}
+      <a class="filter {{tag === currentTag ? "is-selected" : ""}}" href="{{urlTag}}">{{ tag }}</a>
     {{ /for }}
   </div>
 </header>
 
 <div class="ly-grid members-grid top-2xl">
   {{
-    for member of search.pages("type=member lang=" + lang, "name=asc-locale")
+    for member of results
   }}
     {{ include "templates/member-list.vto" { member } }}
   {{ /for }}
