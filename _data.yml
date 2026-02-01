@@ -10,6 +10,9 @@ gl:
       accept: Entendido
     home:
       more_news: Ver máis novas
+    pagination:
+      prev: Anterior
+      next: Seguinte
     news:
       news: Novas
       articles: Artigos
@@ -37,6 +40,9 @@ es:
       accept: Entendido
     home:
       more_news: Ver máis novas
+    pagination:
+      prev: Anterior
+      next: Siguiente
     news:
       news: Novas
       articles: Artigos

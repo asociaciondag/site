@@ -7,6 +7,7 @@
 @import "styles/layouts/columns.css" layer(layouts);
 @import "styles/layouts/tags.css" layer(layouts);
 @import "styles/layouts/lateral.css" layer(layouts);
+@import "styles/layouts/aside.css" layer(layouts);
 @import "styles/layouts/list.css" layer(layouts);
 @import "styles/layouts/carousel.css" layer(layouts);
 @import "styles/layouts/2cols.css" layer(layouts);

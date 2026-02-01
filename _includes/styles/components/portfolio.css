@@ -1,9 +1,9 @@
 .portfolio-list {
-  --width: 300px;
+  --width: 250px;
   --row-gap: var(--space-l-xl);
 
   display: block;
-  column-width: 300px;
+  column-width: var(--width);
 
   .portfolio {
     text-decoration: none;
@@ -52,5 +52,9 @@
 }
 .portfolio-members {
   --width: 300px;
-  grid-column: center-start / content-end;
+  grid-column: content;
+  
+  @media (width > 1200px) {
+    grid-column: center-start / content-end;
+  }
 }

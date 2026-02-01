@@ -4,20 +4,25 @@ layout: layouts/base.vto
 
 <header class="header">
   <h1 class="header-title">{{ title }}</h1>
+  <div class="header-subtitle">{{ description |> md }}</div>
 </header>
 
-<div class="blocks">
-  {{ for block of body }}
-    {{ await comp[block.type](block) }}
-  {{ /for }}
-</div>
+<div class="ly-aside top-xl-2xl">
+  <nav class="submenu ly-aside-side">
+    <ul>
+      {{ for p of search.pages(`type=about lang=${lang}`, "order=asc") }}
+        <li>
+          <a{{ if p.url == url }} class="is-selected"{{ /if }} href="{{ p.url }}">{{ p.title }}</a>
+        </li>
+      {{ /for }}
+    </ul>
+  </nav>
 
-<nav class="submenu">
-  <ul>
-    {{ for p of search.pages(`type=about lang=${lang}`, "order=asc") }}
-      <li {{ if p.url == url }} class="is-active"{{ /if }}>
-        <a href="{{ p.url }}">{{ p.title }}</a>
-      </li>
-    {{ /for }}
-  </ul>
-</nav>
+  <div class="ly-aside-content">
+    <div class="blocks">
+      {{ for block of body }}
+        {{ await comp[block.type](block) }}
+      {{ /for }}
+    </div>
+  </div>
+</div>

@@ -3,9 +3,13 @@ id: articles
 main_menu: articles
 es:
   title: Divulgación
+  description: |
+    Reflexiones sobre diseño y su impacto.
   url: /divulgacion/
   oldUrl: /es/articulos/
 gl:
   title: Divulgación
+  description: |
+    Artigos das nosas socias e socios sobre a historia do deseño e o seu impacto na sociedade.
   url: /divulgacion/
   oldUrl: /gl/artigos/

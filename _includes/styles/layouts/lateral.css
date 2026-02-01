@@ -2,11 +2,19 @@
   grid-column: full;
   display: grid;
   grid-template-columns: subgrid;
+  row-gap: 2em;
 }
-.ly-lateral-side {
-  grid-column: content-start / center-start;
-  text-align: right;
-}
+.ly-lateral-side,
 .ly-lateral-content {
-  grid-column: center-start / content-end;
+  grid-column: content-start / content-end;
+}
+
+@media (width > 1200px) {
+  .ly-lateral-side {
+    grid-column: content-start / center-start;
+    text-align: right;
+  }
+  .ly-lateral-content {
+    grid-column: center-start / content-end;
+  }
 }

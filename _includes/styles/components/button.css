@@ -11,4 +11,8 @@
   &:hover {
     background-color: var(--color-hover);
   }
+
+  &.is-small {
+    font-size: var(--size-1);
+  }
 }

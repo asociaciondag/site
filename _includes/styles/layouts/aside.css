@@ -1,0 +1,23 @@
+.ly-aside {
+  grid-column: full;
+  display: grid;
+  grid-template-columns: subgrid;
+  row-gap: 2em;
+}
+.ly-aside-side,
+.ly-aside-content {
+  grid-column: content-start / content-end;
+}
+
+@media (width >= 800px) {
+  .ly-aside-side {
+    grid-row: 1;
+    grid-column: content-start / center-start;
+}
+.ly-aside-content {
+    grid-row: 1;
+    grid-column: center-start / content-end;
+    display: grid;
+    grid-template-columns: [full-start content-start center-start] 1fr [center-end content-end full-end];
+  }
+}

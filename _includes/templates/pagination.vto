@@ -1,0 +1,11 @@
+<nav class="pagination">
+  {{ set prev = pagination.previous }}
+  {{ set next = pagination.next }}
+
+  {{ if prev }}
+    <a class="button is-small" href="{{ prev }}" rel="prev">← {{ t.pagination.prev }}</a>
+  {{ /if }}
+  {{ if next }}
+    <a class="button is-small" href="{{ next }}" rel="next">{{ t.pagination.next }} →</a>
+  {{ /if }}
+</nav>

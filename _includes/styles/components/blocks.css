@@ -1,8 +1,8 @@
 .blocks {
   display: grid;
-  grid-column: full;
   grid-template-columns: subgrid;
   row-gap: var(--space-m-2xl);
+  grid-column: full;
 }
 .section {
   grid-column: center;
@@ -55,14 +55,22 @@
   padding: 0;
 
   figcaption {
-    grid-row: 1;
-    grid-column: content-start / center-start;
-    text-align: right;
     font-size: var(--size-0);
+    grid-column: content;
+
+    @media (width >= 800px) {
+      grid-row: 1;
+      grid-column: content-start / center-start;
+      text-align: right;
+    }
   }
   picture {
-    grid-row: 1;
-    grid-column: center-start / content-end;
+    grid-column: content;
+    
+    @media (width >= 800px) {
+      grid-row: 1;
+      grid-column: center-start / content-end;
+    }
   }
   img {
     display: block;

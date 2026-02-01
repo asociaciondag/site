@@ -1,9 +1,27 @@
 ---
 layout: layouts/base.vto
 ---
+
+<header class="header">
+  <h1 class="header-title">{{ title }}</h1>
+
+  <div class="header-subtitle">{{ description |> md }}</div>
+
+  <div class="header-filter ly-tags">
+    {{ for tag of search.values("tags", "type=news lang=" + lang).sort() }}
+    {{ set urlTag = lang ===
+      'gl' ? `/novas/${tag}/`
+      : `/es/noticias/${tag}/`
+      |> slugify
+    }}
+      <a class="filter {{tag === currentTag ? "is-selected" : ""}}" href="{{urlTag}}">{{ tag }}</a>
+    {{ /for }}
+  </div>
+</header>
+
 {{ set articles = search.pages(`type=article lang=${lang}`, "date=desc") }}
 
-<div class="ly-columns article-list">
+<div class="ly-columns article-list top-xl-2xl">
   {{ for article of articles }}
     {{ include "templates/article-list.vto" { article } }}
   {{ /for }}

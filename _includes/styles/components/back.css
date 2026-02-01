@@ -1,5 +1,5 @@
 .back {
-  grid-column: content-start / center-start;
+  grid-column: content;
   font-size: var(--size-1);
   text-decoration: none;
   font-weight: var(--font-bold);
@@ -14,6 +14,7 @@
   }
 
   @media (width > 1200px) {
+    grid-column: content-start / center-start;
     justify-content: end;
     border-right: solid 1px;
     padding-right: var(--space-m);

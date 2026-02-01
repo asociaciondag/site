@@ -9,14 +9,6 @@ layout: layouts/base.vto
 </a>
 
 <header class="header">
-  <img
-    class="header-img is-floating member-avatar"
-    style="--shadow-color: {{ avatar_color || 'black' }}"
-    src="{{ avatar }}"
-    width="200"
-    alt="Avatar"
-  >
-
   <h1 class="header-title">{{ name }}</h1>
   <p class="header-subtitle">{{ job }}</p>
 
@@ -53,6 +45,14 @@ layout: layouts/base.vto
       </ul>
     {{ /if }}
   </div>
+
+  <img
+    class="header-img is-floating member-avatar"
+    style="--shadow-color: {{ avatar_color || 'black' }}"
+    src="{{ avatar }}"
+    width="200"
+    alt="Avatar"
+  >
 
   {{ if contact }}
     <address class="member-address">

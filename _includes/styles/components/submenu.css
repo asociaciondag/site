@@ -1,10 +1,43 @@
 .submenu {
-  grid-column: center;
-
   ul {
     list-style-type: "";
     margin: 0;
     padding: 0;
     font-size: var(--size-1);
+
+    li {
+      margin: .5em 0;
+      display: flex;
+      align-items: center;
+      column-gap: 0.5em;
+
+      &::before {
+        display: block;
+        content: "";
+        flex: 0 0 auto;
+        width: 0.4rem;
+        height: 0.6rem;
+        background: currentColor;
+        clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
+        opacity: 0;
+      }
+
+      &:has(.is-selected)::before {
+        opacity: 1;
+      }
+    }
+  }
+
+  a {
+    text-decoration: none;
+    font-size: var(--size-1);
+
+    &:hover {
+      text-decoration-line: underline;
+    }
+
+    &.is-selected {
+      font-weight: var(--font-bold);
+    }
   }
 }
