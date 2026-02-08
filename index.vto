@@ -2,43 +2,71 @@
 id: home
 lang: [gl, es]
 es:
-  projects:
-    title: Proyectos destacados
-  events:
-    title: Próximos eventos
+  texts: 
+    intro:
+      Somos una asociación sin ánimo de lucro fundada en 2006 y que agrupa a profesionales
+      del diseño de toda Galicia. Abarca múltiples disciplinas, tales como el diseño gráfico
+      y web, diseño UX/UI, diseño industrial, diseño editorial, diseño estratégico
+      o el diseño de servicios.
+    projects: Ver todos los proyectos
+    events: Próximos eventos
 gl:
-  projects:
-    title: Proxectos destacados
-  events:
-    title: Próximos eventos
+  texts:
+    intro:
+      Somos unha asociación sen ánimo de lucro que se fundou en 2006 e que agrupa a profesionais
+      do deseño de toda Galicia. Abrangue múltiples disciplinas, tales como o deseño gráfico
+      e web, o deseño UX/UI, o deseño industrial, o deseño editorial, o deseño estratéxico
+      ou o deseño de servizos.
+    projects: Ver todos os proxectos
+    events: Próximos eventos
 ---
 
-<section class="section-text">
-  <h2>Somos unha asociación sen ánimo de lucro que se fundou en 2006 e que agrupa a profesionais
-       do deseño de toda Galicia. Abrangue múltiples disciplinas, tales como o deseño gráfico
-       e web, o deseño UX/UI, o deseño industrial, o deseño editorial, o deseño estratéxico
-       ou o deseño de servizos.</h2>
+<style>
+.intro-home {
+  min-height: min(50vh, 800px);
+  display: grid;
+  align-content: center;
+  grid-column: content;
+  max-width: 45em;
+
+  > p {
+    font-size: var(--size-4);
+    letter-spacing: var(--size-4-spacing);
+    line-height: var(--line-base);
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    font-weight: var(--font-bold);
+  }
+
+  @media (width >= 800px) {
+    grid-column: center-start / content-end;
+  }
+  @media (width >= 1600px) {
+    grid-column: content;
+    justify-self: center;
+  }
+}
+</style>
+
+<section class="intro-home">
+  {{ texts.intro |> md }}
 </section>
 
 <section class="projects-home ly-carousel">
-  <header class="subheader">
-    <h2 class="subheader-title">{{ projects.title }}</h2>
-  </header>
-
   {{ set projects = search.pages(`type=project in_home=true lang=${lang}`, "year=desc title=asc") }}
-  {{ set featuredProject = projects.find(p => p.featured) }}
-  {{ set otherProjects = projects.filter(p => !p.featured)}}
-  {{ if featuredProject }}
-    {{ include "templates/project-list.vto" { project: featuredProject, featured: true } }}
-  {{ /if }}
+  {{ set projectsPage = search.page('id=projects') }}
+
   <ul class="ly-carousel-items">
-    {{
-      for project of otherProjects
-    }}
+    {{ for project of projects }}
       <li>
         {{ include "templates/project-list.vto" { project } }}
       </li>
     {{ /for }}
+      <li>
+        <a href="{{ projectsPage }}">
+          {{ texts.projects }}
+        </a>
+      </li>
   </ul>
 </section>
 
@@ -65,7 +93,7 @@ gl:
     }}
 
     <header class="subheader">
-      <h2 class="subheader-title">{{ events.title }}</h2>
+      <h2 class="subheader-title">{{ texts.events }}</h2>
 
       <ul class="legend subheader-legend">
         {{ for key, value of eventsData.types }}

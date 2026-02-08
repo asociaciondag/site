@@ -22,6 +22,7 @@
   column-gap: var(--column-gap);
   overflow-x: auto;
   grid-column: full;
+  scrollbar-width: none;
 
   > * {
     width: min(100%, var(--width));
