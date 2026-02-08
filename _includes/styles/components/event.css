@@ -90,3 +90,18 @@
     opacity: 1;
   }
 }
+
+.events-home {
+  margin-top: var(--space-m-xl);
+  display: grid;
+  row-gap: var(--space-m);
+  align-content: start;
+
+  > * {
+    grid-column: 1 / -1;
+  }
+
+  > .ly-grid {
+    --width: 300px;
+  }
+}

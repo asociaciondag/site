@@ -36,12 +36,10 @@ gl:
     margin-top: 1.5em;
     margin-bottom: 0.5em;
     font-weight: var(--font-bold);
+    text-wrap: balance;
   }
 
   @media (width >= 800px) {
-    grid-column: center-start / content-end;
-  }
-  @media (width >= 1600px) {
     grid-column: content;
     justify-self: center;
   }
@@ -71,17 +69,17 @@ gl:
 </section>
 
 <div class="ly-2cols">
-  <section class="ly-2cols-primary news-home ly-grid">
+  <section class="ly-2cols-primary news-home">
     {{
       for index, news of search.pages(`type=news lang=${lang}`, "date=desc", 6)
     }}
       {{ include "templates/news-grid.vto" { news } }}
     {{ /for }}
 
-    <nav>
-      {{# Botón ver máis #}}
+    <nav class="pagination">
       {{ set page = search.page("id=news-1 lang=" + lang) }}
-      <a class="button-normal" href="{{ page.url }}">{{ t.home.more_news }}</a>
+
+      <a class="button is-small" href="{{ page.url }}">{{ t.home.more_news }}</a>
     </nav>
   </section>
 
