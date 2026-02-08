@@ -15,7 +15,7 @@ for await (const file of expandGlob("./socios/*.yml")) {
   if (!data.draft) {
     continue;
   }
-  
+
   Deno.rename(file.path, file.path.replace("socios/", "socios/_disabled/"));
 }
 
@@ -24,7 +24,7 @@ for await (const file of expandGlob("./socios/_disabled/*.yml")) {
 
   const content = await Deno.readTextFile(file.path);
   const data = parse(content) as any;
-  ids.add(data.id)
+  ids.add(data.id);
   avatars.add(data.avatar);
 }
 
@@ -37,8 +37,11 @@ for await (const file of expandGlob("./portfolio/*.yml")) {
   if (data.members_id.some((id: number) => !ids.has(id))) {
     continue;
   }
-  
-  Deno.rename(file.path, file.path.replace("portfolio/", "portfolio/_disabled/"));
+
+  Deno.rename(
+    file.path,
+    file.path.replace("portfolio/", "portfolio/_disabled/"),
+  );
 }
 
 for await (const file of expandGlob("./portfolio/_disabled/*.yml")) {
@@ -47,7 +50,7 @@ for await (const file of expandGlob("./portfolio/_disabled/*.yml")) {
   const content = await Deno.readTextFile(file.path);
   const data = parse(content) as any;
 
-  ids.add(data.id)
+  ids.add(data.id);
   if (data.cover) {
     covers.add(data.cover);
   }

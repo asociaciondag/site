@@ -127,7 +127,7 @@
     &:not(:last-of-type) {
       border-bottom: 1px solid var(--color-line);
     }
-    
+
     .news-time {
       grid-area: time;
       padding-top: var(--space-2xs);

@@ -22,7 +22,7 @@
     letter-spacing: var(--size-4-spacing);
     margin: 0;
     line-height: var(--line-short);
-    
+
     @media (min-width: 800px) {
       max-width: min-content;
     }
@@ -84,7 +84,7 @@
   padding: 1em;
   top: 0;
   right: 0;
-  opacity: .5;
+  opacity: 0.5;
 
   &:hover {
     opacity: 1;

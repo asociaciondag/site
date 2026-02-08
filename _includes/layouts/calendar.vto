@@ -8,29 +8,30 @@ layout: layouts/base.vto
 
   <ul class="legend header-legend">
     {{ for key, value of types }}
-    <li class="legend-dot is-{{ key }}">{{ value }}</li>
+      <li class="legend-dot is-{{ key }}">{{ value }}</li>
     {{ /for }}
   </ul>
 </header>
 
-{{ set months = Object.groupBy(
-  events.sort((a, b) => a.date.getTime() < b.date.getTime()),
-  (event) => `${event.date.getFullYear()}-${event.date.getMonth() + 1}`
-)
+{{
+  set months = Object.groupBy(
+    events.sort((a, b) => a.date.getTime() < b.date.getTime()),
+    (event) => `${event.date.getFullYear()}-${event.date.getMonth() + 1}`,
+  )
 }}
 
 <div class="ly-list events-list top-xl-2xl">
   {{ for events of months }}
-  <section class="events-group">
-    <h2 class="group-title">{{ events[0]?.date |> date("MONTH") }}</h2>
+    <section class="events-group">
+      <h2 class="group-title">{{ events[0]?.date |> date("MONTH") }}</h2>
 
-    <ul class="ly-grid group-events">
-      {{ for event of events }}
-      <li>
-        {{ include "templates/event.vto" { event } }}
-      </li>
-      {{ /for }}
-    </ul>
-  </section>
+      <ul class="ly-grid group-events">
+        {{ for event of events }}
+          <li>
+            {{ include "templates/event.vto" { event } }}
+          </li>
+        {{ /for }}
+      </ul>
+    </section>
   {{ /for }}
 </div>

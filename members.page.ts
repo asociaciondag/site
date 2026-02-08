@@ -14,20 +14,26 @@ export const es = {
   `,
 };
 
-export default function* ({ search, lang }: Lume.Data, {slugify}: Lume.Helpers) {
+export default function* (
+  { search, lang }: Lume.Data,
+  { slugify }: Lume.Helpers,
+) {
   const members = search.pages(`type=member lang=${lang}`, "name=asc-locale");
 
   yield {
     id: `members`,
     results: members,
-    url: lang === "gl" ? "/socios/" : "/es/socios/"
+    url: lang === "gl" ? "/socios/" : "/es/socios/",
   };
 
   const tags = search.values<string>("tags", `type=member lang=${lang}`);
-  
+
   for (const tag of tags) {
     const slugifyTag = slugify(tag);
-    const members = search.pages(`type=member lang=${lang} "${tag}"`, "name=asc-locale");
+    const members = search.pages(
+      `type=member lang=${lang} "${tag}"`,
+      "name=asc-locale",
+    );
 
     yield {
       id: `members-tags-${slugifyTag}`,

@@ -13,11 +13,13 @@
   .ly-aside-side {
     grid-row: 1;
     grid-column: content-start / center-start;
-}
-.ly-aside-content {
+  }
+  .ly-aside-content {
     grid-row: 1;
     grid-column: center-start / content-end;
     display: grid;
-    grid-template-columns: [full-start content-start center-start] 1fr [center-end content-end full-end];
+    grid-template-columns:
+      [full-start content-start center-start] 1fr [center-end content-end
+    full-end];
   }
 }

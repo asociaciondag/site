@@ -9,13 +9,15 @@ layout: ./base.vto
 
   <div class="header-filter ly-tags">
     {{ for tag of search.values("tags", "type=portfolio lang=" + lang).sort() }}
-    {{ set urlTag = lang === 
-      'gl' ? `/portfolio/${tag}/`
-      : `/es/portfolio/${tag}/`
-      |> slugify
-    }}
+      {{
+        set urlTag = lang ===
+            "gl"
+          ? `/portfolio/${tag}/`
+          : `/es/portfolio/${tag}/`
+        |> slugify
+      }}
       <a
-        class="filter {{ tag === currentTag ? "is-selected" : ""}}"
+        class='filter {{ tag === currentTag ? "is-selected" : ""}}'
         href="{{ urlTag }}"
       >{{ tag }}
       </a>

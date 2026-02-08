@@ -16,7 +16,10 @@ export const es = {
   `,
 };
 
-export default function* ({ search, paginate, lang }: Lume.Data, {slugify}: Lume.Helpers) {
+export default function* (
+  { search, paginate, lang }: Lume.Data,
+  { slugify }: Lume.Helpers,
+) {
   const pages = search.pages(`type=portfolio lang=${lang}`, "name=desc");
   const url = (
     page: number,
@@ -35,9 +38,16 @@ export default function* ({ search, paginate, lang }: Lume.Data, {slugify}: Lume
     const slugifyTag = slugify(tag);
     const pages = search.pages(`type=portfolio lang=${lang} "${tag}"`);
     const url = lang === "gl"
-      ? (page: number) => (page === 1 ? `/portfolio/${slugifyTag}/` : `/portfolio/${slugifyTag}/${page}/`)
-      : (page: number) => (page === 1 ? `/es/portfolio/${slugifyTag}/` : `/es/portfolio/${slugifyTag}/${page}/`)
-    ;
+      ? (
+        page: number,
+      ) => (page === 1
+        ? `/portfolio/${slugifyTag}/`
+        : `/portfolio/${slugifyTag}/${page}/`)
+      : (
+        page: number,
+      ) => (page === 1
+        ? `/es/portfolio/${slugifyTag}/`
+        : `/es/portfolio/${slugifyTag}/${page}/`);
     for (const page of paginate(pages, { url, size: 25 })) {
       yield {
         id: `portfolio-tags-${slugifyTag}-${page.pagination.page}`,

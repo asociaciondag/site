@@ -9,12 +9,17 @@ layout: layouts/base.vto
 
   <div class="header-filter ly-tags">
     {{ for tag of search.values("tags", "type=news lang=" + lang).sort() }}
-    {{ set urlTag = lang ===
-      'gl' ? `/novas/${tag}/`
-      : `/es/noticias/${tag}/`
-      |> slugify
-    }}
-      <a class="filter {{tag === currentTag ? "is-selected" : ""}}" href="{{urlTag}}">{{ tag }}</a>
+      {{
+        set urlTag = lang ===
+            "gl"
+          ? `/novas/${tag}/`
+          : `/es/noticias/${tag}/`
+        |> slugify
+      }}
+      <a
+        class='filter {{tag === currentTag ? "is-selected" : ""}}'
+        href="{{urlTag}}"
+      >{{ tag }}</a>
     {{ /for }}
   </div>
 </header>

@@ -12,7 +12,11 @@ layout: layouts/base.vto
     <ul>
       {{ for p of search.pages(`type=about lang=${lang}`, "order=asc") }}
         <li>
-          <a{{ if p.url == url }} class="is-selected"{{ /if }} href="{{ p.url }}">{{ p.title }}</a>
+          <a
+            {{ if p.url == url }}
+              class="is-selected"{{ /if }}
+            href="{{ p.url }}"
+          >{{ p.title }}</a>
         </li>
       {{ /for }}
     </ul>

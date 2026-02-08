@@ -58,7 +58,7 @@
   --img-width: min(300px, 25vw);
   --img-space: var(--space-m);
   max-width: calc(800px + var(--img-width) + var(--img-space));
-  
+
   @media (width > 600px) {
     min-height: 340px;
     padding-right: calc(var(--img-width) + var(--img-space) + 50px);
@@ -69,7 +69,7 @@
   --img-height: 500px;
   margin: 0;
   max-width: 250px;
-  
+
   @media (width > 600px) {
     &.is-floating {
       --shadow-color: #000;
@@ -84,7 +84,7 @@
         50px
         rgb(from var(--shadow-color) r g b / 0.4)
       );
-  
+
       @media (width > 1600px) {
         right: -5vw;
       }

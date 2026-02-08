@@ -1,18 +1,23 @@
 <article class="legend-line event is-{{ event.type }}">
   <time class="event-date">
-    {{ event.date |> date("HUMAN_DATE")}}
+    {{ event.date |> date("HUMAN_DATE") }}
   </time>
   <h3 class="event-title">
     <a href="{{ event.url }}">{{ event.title }}</a>
   </h3>
 
   {{ if event.description }}
-  <div class="event-description">
-    {{ event.description |> md }}
-  </div>
+    <div class="event-description">
+      {{ event.description |> md }}
+    </div>
   {{ /if }}
-  
-  <a class="event-link" href="{{ event.url}}" target="_blank" aria-label="{{ event.title |> escape }}">
+
+  <a
+    class="event-link"
+    href="{{ event.url}}"
+    target="_blank"
+    aria-label="{{ event.title |> escape }}"
+  >
     <img src="{{ 'arrow/arrow_right_up_line' |> icon("mingcute") }}" inline>
   </a>
 </article>
