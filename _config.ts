@@ -8,6 +8,7 @@ import slugifyUrls from "lume/plugins/slugify_urls.ts";
 import basePath from "lume/plugins/base_path.ts";
 import favicon from "lume/plugins/favicon.ts";
 import icons from "lume/plugins/icons.ts";
+import pagefind from "lume/plugins/pagefind.ts";
 import gl from "npm:date-fns@4.1.0/locale/gl";
 import es from "npm:date-fns@4.1.0/locale/es";
 
@@ -26,9 +27,10 @@ site.add("fonts")
   .use(favicon())
   .use(icons())
   .use(lightningcss())
+  .use(basePath())
   .use(slugifyUrls())
   .use(inline())
-  .use(basePath())
+  .use(pagefind())
   .use(multilanguage({
     languages: ["gl", "es"],
     defaultLanguage: "gl",

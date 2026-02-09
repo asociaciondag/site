@@ -33,7 +33,7 @@ menu:
       </li>
     {{ /for }}
     <li>
-      <strong>Buscar</strong>
+      <button type="button" command="show-modal" commandfor="float-menu">Buscar</button>
     </li>
   </ul>
 
@@ -66,3 +66,8 @@ menu:
     {{ /for }}
   </ul>
 </nav>
+
+<dialog id="float-menu">
+  <button command="close" commandfor="float-menu">Pechar</button>
+  <div class="menu-search" id="search"></div>
+</dialog>
