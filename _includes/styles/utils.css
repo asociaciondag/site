@@ -16,3 +16,8 @@
 .top-6xl {
   margin-top: var(--space-6xl);
 }
+
+::selection {
+  color: var(--color-white);
+  background: var(--color-black);
+}

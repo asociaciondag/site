@@ -1,4 +1,52 @@
+.ly-main-footer:has(.footer) {
+  background: var(--color-highlight);
+}
+
 .footer {
-  --width: 300px;
-  padding-block: var(--space-2xl);
+  grid-column: content;
+  padding-block: var(--space-3xl);
+
+  .logo {
+    svg {
+      width: min(100%, 300px);
+      height: auto;
+    }
+  }
+
+  .footer-data {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: var(--space-xl);
+    font-size: var(--size-2);
+    
+    & > .tag {
+      flex: 1 1 auto;
+      @media (width < 1280px) {
+        flex: 1 1 100%;
+      }
+    }
+
+    & > :not(.tag) {
+      flex: 0 1 auto;
+    }
+  }
+
+  .contact {
+    font-style: normal;
+  }
+
+  .links {
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  .read {
+    svg {
+      width: 100%;
+      height: auto;
+    }
+  }
 }
