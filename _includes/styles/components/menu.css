@@ -25,12 +25,23 @@
 
 .menu-main {
   font-size: var(--size-1);
-  font-weight: var(--font-bold);
   line-height: var(--line-short);
   flex: 1 1 auto;
   min-width: 0;
   max-width: 400px;
   grid-template-columns: repeat(auto-fill, 100px);
+
+  button {
+    padding: 0;
+    border: 0;
+    background: none;
+    cursor: pointer;
+    font: inherit;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 .menu-languages {
   font-size: var(--size-0);
@@ -62,6 +73,32 @@
   }
 }
 
-.menu-search {
-  grid-column: content;
+.menu-modal {
+  width: min(800px, 100% - 2rem);
+  border: none;
+  border-radius: var(--border-radius);
+  padding: 45px 20px 20px;
+  margin-top: min(150px, 20vh);
+  max-height: calc(100vh - min(150px, 20vh) - 1rem);
+}
+.menu-modal-close {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  border: none;
+  background: none;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: var(--border-radius);
+
+  &:hover {
+    background-color: var(--color-hover);
+  }
+
+  svg {
+    display: block;
+    fill: var(--color-black);
+    width: 24px;
+    height: 24px;
+  }
 }

@@ -2,18 +2,19 @@
 menu:
   sections:
     - about
-    - asociate
+    - projects
+    - articles
     - members
     - portfolio-1
-    - news-1
-    - projects
+    - asociate
     - calendar
-    - articles
+    - news-1
+    - '#search'
   languages:
-    gl: 
+    gl:
       name: Galego
       home: /
-    es: 
+    es:
       name: Español
       home: /es/
 ---
@@ -26,15 +27,18 @@ menu:
 <nav class="ly-main-menu menu">
   <!-- Menú seccións principais -->
   <ul class="menu-main">
-    {{ for id of menu.sections }}
+  {{ for id of menu.sections }}
+    {{ if id === "#search" }}
+    <li>
+      <button type="button" command="show-modal" commandfor="float-menu">Buscar</button>
+    </li>
+    {{ else }}
       {{ set page = search.page(`id=${id} lang=${lang}`) }}
       <li class="{{ main_menu == page.main_menu ? 'is-selected' : '' }}">
         <a href="{{ page.url }}">{{ page.title }}</a>
       </li>
-    {{ /for }}
-    <li>
-      <button type="button" command="show-modal" commandfor="float-menu">Buscar</button>
-    </li>
+    {{ /if }}
+  {{ /for }}
   </ul>
 
   <!-- Menú idiomas -->
@@ -67,7 +71,9 @@ menu:
   </ul>
 </nav>
 
-<dialog id="float-menu">
-  <button command="close" commandfor="float-menu">Pechar</button>
+<dialog id="float-menu" class="menu-modal">
+  <button command="close" commandfor="float-menu" aria-label="Cerrar" class="menu-modal-close">
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 256 256"><path d="M205.66,194.34a8,8,0,0,1-11.32,11.32L128,139.31,61.66,205.66a8,8,0,0,1-11.32-11.32L116.69,128,50.34,61.66A8,8,0,0,1,61.66,50.34L128,116.69l66.34-66.35a8,8,0,0,1,11.32,11.32L139.31,128Z"></path></svg>
+  </button>
   <div class="menu-search" id="search"></div>
 </dialog>

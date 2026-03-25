@@ -78,3 +78,24 @@
   --space-m-xl: clamp(1.5rem, 0.9783rem + 2.6087vw, 3rem);
   --space-m-2xl: clamp(1.5rem, 0.6304rem + 4.3478vw, 4rem);
 }
+
+/* Pagefind */
+.pagefind-ui {
+  --pagefind-ui-text: var(--color-black);
+  --pagefind-ui-border: var(--color-line);
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: var(--border-radius);
+  --pagefind-ui-font: var(--font-family);
+
+  .pagefind-ui__search-input {
+    font-weight: var(--font-bold) !important;
+
+    &:focus-visible {
+      border-color: var(--color-black) !important;
+      outline: none !important;
+    }
+  }
+  .pagefind-ui__search-input::placeholder {
+    opacity: .5 !important;
+  }
+}
