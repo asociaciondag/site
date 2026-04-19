@@ -102,6 +102,22 @@
   }
 }
 
+.project-more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 42/20;
+  border-radius: var(--border-radius);
+  background-color: var(--color-highlight);
+  text-decoration: none;
+  font-size: var(--size-1);
+  transition: background-color var(--duration);
+
+  &:hover {
+    background-color: var(--color-hover);
+  }
+}
+
 .projects-home {
   margin-top: var(--space-m-xl);
   padding-top: var(--space-m-xl);

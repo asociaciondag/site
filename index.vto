@@ -57,7 +57,7 @@ gl:
       "year=desc title=asc",
     )
   }}
-  {{ set projectsPage = search.page("id=projects") }}
+  {{ set projectsPage = search.page(`id=projects lang=${lang}`) }}
 
   <ul class="ly-carousel-items">
     {{ for project of projects }}
@@ -66,7 +66,7 @@ gl:
       </li>
     {{ /for }}
     <li>
-      <a href="{{ projectsPage }}">
+      <a href="{{ projectsPage.url }}" class="project-more">
         {{ texts.projects }}
       </a>
     </li>
