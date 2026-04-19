@@ -44,12 +44,45 @@
   }
 }
 @media (width < 800px) {
+  .menu-languages,
   .menu-main.is-desktop {
     display: none;
   }
 }
+.menu-btn {
+  display: flex;
+  margin-left: auto;
+  align-items: center;
+  gap: 1em;
+  padding: 0 1em;
+  background: var(--color-white);
+  border: solid 1px var(--color-line);
+  height: 44px;
+  border-radius: 22px;
+  font-size: var(--size-0);
+  font-weight: var(--font-bold);
+  cursor: pointer;
+  align-self: center;
+
+  path[fill] {
+    fill: var(--color-black);
+  }
+
+  &:hover {
+    background-color: var(--color-black);
+    color: var(--color-white);
+    border-color: var(--color-black);
+
+    path[fill] {
+      fill: var(--color-white);
+    }
+  }
+}
 @media (width >= 800px) {
   .menu-main.is-mobile {
+    display: none;
+  }
+  .menu-btn {
     display: none;
   }
 }
@@ -92,13 +125,24 @@
 }
 
 .menu-modal {
-  width: min(800px, 100% - 2rem);
+  grid-template-columns: minmax(0, 800px);
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  max-width: 100%;
+  max-height: 100svh;
+  top: 0;
+  left: 0;
   border: none;
-  border-radius: var(--border-radius);
-  padding: 20px;
-  margin-top: min(150px, 20vh);
-  max-height: calc(100vh - min(150px, 20vh) - 1rem);
+  padding: var(--space-m-xl);
   row-gap: var(--space-l);
+  margin: 0;
+  background: none;
+
+  &::backdrop {
+    background-color: var(--color-white);
+    opacity: 0.99;
+  }
   
   &[open] {
     display: grid;
@@ -122,8 +166,8 @@
 
 .menu-modal-close {
   position: absolute;
-  top: 2px;
-  right: 2px;
+  top: 1rem;
+  right: 1rem;
   border: none;
   background: none;
   padding: 8px;

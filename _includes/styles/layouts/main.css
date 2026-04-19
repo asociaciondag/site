@@ -41,6 +41,7 @@
   grid-template-columns: subgrid;
   align-items: start;
   align-content: start;
+  margin-top: clamp(20px, 10vmax - 100px, 100px);
 }
 
 .ly-main-footer {

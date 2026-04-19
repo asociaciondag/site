@@ -14,7 +14,7 @@
     }
   },
   "imports": {
-    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.2/",
+    "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.4/",
     "lume/jsx-runtime": "https://cdn.jsdelivr.net/gh/oscarotero/ssx@0.1.14/jsx-runtime.ts"
   },
   "compilerOptions": {
@@ -30,7 +30,7 @@
   ],
   "lint": {
     "plugins": [
-      "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.2/lint.ts"
+      "https://cdn.jsdelivr.net/gh/lumeland/lume@3.2.4/lint.ts"
     ],
     "rules": {
       "exclude": [

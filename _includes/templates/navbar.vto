@@ -41,6 +41,11 @@ menu:
   {{ /for }}
   </ul>
 
+  <button class="menu-btn" type="button" command="show-modal" commandfor="float-menu">
+    <img src="{{ 'editor/menu_line' |> icon("mingcute") }}" inline>
+    Menú
+  </button>
+
   <!-- Menú idiomas -->
   <ul class="menu-languages">
     {{ for code, {name, home} of menu.languages }}
