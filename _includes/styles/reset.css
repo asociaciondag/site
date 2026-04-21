@@ -4,6 +4,9 @@
   text-underline-offset: var(--font-underline-offset);
   box-sizing: border-box;
 }
+html {
+  scrollbar-gutter: stable;
+}
 
 body {
   font-family: var(--font-family);

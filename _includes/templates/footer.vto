@@ -1,7 +1,46 @@
+---
+menu:
+  languages:
+    gl:
+      name: Galego
+      home: /
+    es:
+      name: Español
+      home: /es/
+---
 <section class="footer">
   <div class="logo">
     <img src="/img/icons/dag.svg" alt="Asociación Galega de Deseño" inline>
   </div>
+
+  <ul class="menu-languages">
+    {{ for code, {name, home} of menu.languages }}
+      {{ set alternate = alternates.find((page) => page.lang === code) }}
+      <li>
+        {{ if alternate }}
+          <a
+            class="{{ code == lang ? 'is-selected' : '' }}"
+            rel="alternate"
+            hreflang="{{ code }}"
+            lang="{{ code }}"
+            href="{{ alternate.url }}"
+          >
+            {{ name }}
+          </a>
+        {{ else }}
+          <a
+            class="{{ code == lang ? 'is-selected' : '' }}"
+            hreflang="{{ code }}"
+            lang="{{ code }}"
+            href="{{ home }}"
+          >
+            {{ name }}
+          </a>
+        {{ /if }}
+      </li>
+    {{ /for }}
+  </ul>
+
   <div class="footer-data">
     <h4 class="tag">{{ t.dag }}</h4>
     <address class="contact">

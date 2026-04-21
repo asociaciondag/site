@@ -11,7 +11,7 @@
   <body class="ly-main">
     {{ include "templates/navbar.vto" }}
 
-    <main class="ly-main-main">
+    <main class="ly-main-main" {{ if index }}data-pagefind-body{{ /if }}>
       {{ content }}
     </main>
 

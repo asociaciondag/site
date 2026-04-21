@@ -124,10 +124,15 @@
   }
 }
 
+html:has(.menu-modal[open]) {
+  overflow-y: hidden;
+  scrollbar-gutter: unset;
+}
+
 .menu-modal {
   grid-template-columns: minmax(0, 800px);
   justify-content: center;
-  align-content: center;
+  align-content: start;
   width: 100%;
   max-width: 100%;
   max-height: 100svh;
@@ -138,10 +143,12 @@
   row-gap: var(--space-l);
   margin: 0;
   background: none;
+  overscroll-behavior-y: contain;
+  overflow-y: auto;
 
   &::backdrop {
-    background-color: var(--color-white);
-    opacity: 0.99;
+    background-color: var(--color-highlight);
+    opacity: 1;
   }
   
   &[open] {
@@ -165,11 +172,12 @@
 }
 
 .menu-modal-close {
-  position: absolute;
+  position: fixed;
   top: 1rem;
   right: 1rem;
   border: none;
-  background: none;
+  background: var(--color-highlight);
+  z-index: 2;
   padding: 8px;
   cursor: pointer;
   border-radius: var(--border-radius);
