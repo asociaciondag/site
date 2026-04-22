@@ -12,8 +12,48 @@ menu:
   <div class="logo">
     <img src="/img/icons/dag.svg" alt="Asociación Galega de Deseño" inline>
   </div>
-
-  <ul class="menu-languages">
+  <h4 class="tagline">{{ t.dag }}</h4>
+  <address class="contact">
+    <h4>{{ t.footer.contact }}</h4>
+    {{ t.footer.address |> md }}
+  </address>
+  <div class="links">
+    <h4>{{ t.footer.read_member }}</h4>
+    <img class="read" src="/img/icons/read.svg" inline>
+    <h4>{{ t.footer.follow }}</h4>
+    <ul class="ly-tags">
+      <li>
+        <a
+          href="https://es-es.facebook.com/pages/DAG-Asociaci%C3%B3n-Galega-de-Dese%C3%B1adores/149460691764713"
+          rel="noopener" target="_blank"
+        >
+          <img src="/img/icons/facebook.svg" alt="Facebook" inline>
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://www.instagram.com/asociaciondag/"
+          rel="noopener" target="_blank"
+        >
+          <img src="/img/icons/instagram.svg" alt="Instagram" inline>
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://www.youtube.com/user/dagasociacion/videos"
+          rel="noopener" target="_blank"
+        >
+          <img src="/img/icons/youtube.svg" alt="Youtube" inline>
+        </a>
+      </li>
+      <li>
+        <a href="https://x.com/asociaciondag" rel="noopener" target="_blank">
+          <img src="/img/icons/x.svg" alt="X" inline>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <ul class="menu-languages ly-tags">
     {{ for code, {name, home} of menu.languages }}
       {{ set alternate = alternates.find((page) => page.lang === code) }}
       <li>
@@ -40,52 +80,6 @@ menu:
       </li>
     {{ /for }}
   </ul>
-
-  <div class="footer-data">
-    <h4 class="tag">{{ t.dag }}</h4>
-    <address class="contact">
-      <h4>{{ t.footer.contact }}</h4>
-      {{ t.footer.address |> md }}
-    </address>
-    <div class="links">
-      <h4>{{ t.footer.follow }}</h4>
-      <ul>
-        <li>
-          <a
-            href="https://es-es.facebook.com/pages/DAG-Asociaci%C3%B3n-Galega-de-Dese%C3%B1adores/149460691764713"
-            rel="noopener" target="_blank"
-          >
-            Facebook
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.instagram.com/asociaciondag/"
-            rel="noopener" target="_blank"
-          >
-            Instagram
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.youtube.com/user/dagasociacion/videos"
-            rel="noopener" target="_blank"
-          >
-            Youtube
-          </a>
-        </li>
-        <li>
-          <a href="https://x.com/asociaciondag" rel="noopener" target="_blank">
-            X
-          </a>
-        </li>
-      </ul>
-    </div>
-    <div class="read">
-      <h4>{{ t.footer.read_member }}</h4>
-      <img src="/img/icons/read.svg" inline>
-    </div>
-  </div>
   
   <!--nav>
     {{ for p of search.pages("footer=true lang=" + lang) }}
